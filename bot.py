@@ -17,6 +17,10 @@ STATE_FILE = Path("state.json")
 TG_API = "https://api.telegram.org/bot{}"
 MAX_SEEN = 200
 
+# Оставляем запас относительно лимита Rich Message 32768 UTF-8 байт.
+MAX_RICH_BYTES = 28000
+MAX_ARTICLE_CHARS = 12000
+
 
 def load_state():
     if not STATE_FILE.exists():
@@ -45,7 +49,6 @@ def telegram(token, method, payload=None, timeout=30):
 
 
 def discover_chat_id(token):
-    # Manybot больше не нужен: снимаем его webhook, чтобы получить /start напрямую.
     telegram(token, "deleteWebhook", {"drop_pending_updates": False})
     updates = telegram(token, "getUpdates", {"timeout": 0, "limit": 100})
 
@@ -65,7 +68,7 @@ def fetch_items():
     response = requests.get(
         RSS2JSON_URL,
         timeout=30,
-        headers={"User-Agent": "darkside-telegram-bot/1.0"},
+        headers={"User-Agent": "darkside-telegram-bot/2.0"},
     )
     response.raise_for_status()
     data = response.json()
@@ -93,83 +96,109 @@ def escape_html(text):
         .replace("&", "&amp;")
         .replace("<", "&lt;")
         .replace(">", "&gt;")
+        .replace('"', "&quot;")
     )
 
 
-def escape_attr(text):
-    return escape_html(text).replace('"', "&quot;")
-
-
-def send_plain_chunks(token, chat_id, text, chunk_size=3900):
+def text_to_paragraphs(text):
     text = text.strip()
-    while text:
-        if len(text) <= chunk_size:
-            chunk = text
-            text = ""
-        else:
-            cut = text[:chunk_size].rfind("\n")
-            if cut < chunk_size // 2:
-                cut = text[:chunk_size].rfind(" ")
-            if cut < chunk_size // 2:
-                cut = chunk_size
-            chunk = text[:cut].rstrip()
-            text = text[cut:].lstrip()
+    if not text:
+        return "<p>Текст новости отсутствует в RSS.</p>"
 
-        telegram(
-            token,
-            "sendMessage",
-            {
-                "chat_id": chat_id,
-                "text": chunk,
-                "disable_web_page_preview": True,
-            },
+    chunks = [p.strip() for p in re.split(r"\n{2,}", text) if p.strip()]
+    return "".join(
+        f"<p>{escape_html(p).replace(chr(10), '<br>')}</p>"
+        for p in chunks
+    )
+
+
+def split_article_body(text, max_chars=MAX_ARTICLE_CHARS):
+    text = text.strip()
+    if len(text) <= max_chars:
+        return [text]
+
+    parts = []
+    remaining = text
+
+    while len(remaining) > max_chars:
+        cut = remaining.rfind("\n\n", 0, max_chars)
+        if cut < max_chars // 2:
+            cut = remaining.rfind("\n", 0, max_chars)
+        if cut < max_chars // 2:
+            cut = remaining.rfind(" ", 0, max_chars)
+        if cut < max_chars // 2:
+            cut = max_chars
+
+        parts.append(remaining[:cut].strip())
+        remaining = remaining[cut:].strip()
+
+    if remaining:
+        parts.append(remaining)
+
+    return parts
+
+
+def item_to_details(item):
+    title = clean_html(item.get("title", "")).strip() or "Без заголовка"
+    body = clean_html(item.get("content") or item.get("description") or "")
+
+    body_parts = split_article_body(body)
+    details = []
+
+    for idx, body_part in enumerate(body_parts, start=1):
+        suffix = f" ({idx}/{len(body_parts)})" if len(body_parts) > 1 else ""
+        summary = escape_html(title + suffix)
+        details.append(
+            "<details>"
+            f"<summary>{summary}</summary>"
+            f"{text_to_paragraphs(body_part)}"
+            "</details>"
         )
 
+    return details
 
-def send_item(token, chat_id, item):
-    title = clean_html(item.get("title", "")).strip()
-    link = item.get("link") or item.get("guid") or ""
-    body = clean_html(item.get("content") or item.get("description") or "")
-    thumbnail = item.get("thumbnail") or ""
 
-    header_parts = []
-    if title:
-        header_parts.append(f"<b>{escape_html(title)}</b>")
-    if link:
-        header_parts.append(f'<a href="{escape_attr(link)}">Открыть на Darkside</a>')
-    header = "\n\n".join(header_parts)
+def rich_message_html(details_blocks):
+    return (
+        "<h3>📰 Новые новости Darkside</h3>"
+        + "".join(details_blocks)
+    )
 
-    photo_sent = False
-    if thumbnail:
-        try:
+
+def send_rich_digest(token, chat_id, items):
+    # RSS идёт от новых к старым. Пользователю показываем в хронологическом порядке.
+    all_details = []
+    for item in reversed(items):
+        all_details.extend(item_to_details(item))
+
+    batch = []
+
+    for details in all_details:
+        candidate = rich_message_html(batch + [details])
+
+        if len(candidate.encode("utf-8")) > MAX_RICH_BYTES and batch:
             telegram(
                 token,
-                "sendPhoto",
+                "sendRichMessage",
                 {
                     "chat_id": chat_id,
-                    "photo": thumbnail,
-                    "caption": header[:1000],
-                    "parse_mode": "HTML",
+                    "rich_message": {"html": rich_message_html(batch)},
                 },
             )
-            photo_sent = True
-        except Exception as exc:
-            print(f"Photo send failed, fallback to text: {exc}", file=sys.stderr)
+            time.sleep(1)
+            batch = [details]
+        else:
+            batch.append(details)
 
-    if not photo_sent and header:
+    if batch:
         telegram(
             token,
-            "sendMessage",
+            "sendRichMessage",
             {
                 "chat_id": chat_id,
-                "text": header,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": False,
+                "rich_message": {"html": rich_message_html(batch)},
             },
         )
-
-    if body:
-        send_plain_chunks(token, chat_id, body)
 
 
 def main():
@@ -226,10 +255,8 @@ def main():
         if guid and guid not in seen:
             new_items.append(item)
 
-    # RSS идёт от новых к старым. В Telegram отправляем в нормальной хронологии.
-    for item in reversed(new_items):
-        send_item(token, chat_id, item)
-        time.sleep(1)
+    if new_items:
+        send_rich_digest(token, chat_id, new_items)
 
     current_guids = [
         str(item.get("guid") or item.get("link"))
