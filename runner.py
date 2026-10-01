@@ -1,7 +1,7 @@
 import html
 import re
 import time
-from urllib.parse import quote
+from urllib.parse import quote, urlsplit
 
 import bot
 
@@ -43,9 +43,24 @@ def fetch_full_article(url):
     try:
         r = bot.session.get(url, timeout=bot.REQUEST_TIMEOUT, allow_redirects=True)
         r.raise_for_status()
-        soup = bot.BeautifulSoup(r.text, "html.parser")
+        is_darkside = (urlsplit(url).hostname or "").lower() in {"darkside.ru", "www.darkside.ru"}
+        # Darkside has unbalanced font/a tags. Parse its bytes with HTML5 rules
+        # (including the declared Windows-1251 encoding), as the browser does.
+        soup = bot.BeautifulSoup(r.content, "html5lib") if is_darkside else bot.BeautifulSoup(r.text, "html.parser")
         for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "aside", "form", "button", "svg"]):
             tag.decompose()
+        if is_darkside:
+            container = soup.select_one('div[align="justify"]')
+            if container is None:
+                return []  # Fall back to RSS, never scan menus or band archives.
+            for tag in container.select(".newsimg, iframe, script, style"):
+                tag.decompose()
+            for tag in container.find_all("br"):
+                tag.replace_with("\n")
+            for tag in container.find_all("p"):
+                tag.insert_before("\n")
+                tag.insert_after("\n")
+            return full_rss_paragraphs(container.get_text(" ", strip=False))
         candidates = [soup.find("article"), soup.find("main"), soup.select_one(".entry-content"), soup.select_one(".post-content"), soup.select_one(".article-content"), soup.select_one(".td-post-content")]
         container = next((x for x in candidates if x is not None), soup)
         paragraphs, seen = [], set()
@@ -135,15 +150,15 @@ def _translate_chunk(chunk):
                         break
                 except Exception:
                     pass
-            if piece:
-                translated.append(piece)
+            # A failed sentence must not erase factual material or list items.
+            translated.append(piece or part)
             time.sleep(0.08)
         combined = " ".join(translated).strip()
-        if combined and _translation_is_good(combined):
+        if combined:
             return combined
 
     print("translation failed:", " | ".join(errors))
-    return ""
+    return chunk
 
 
 def translate_to_ru(text):
@@ -184,8 +199,6 @@ def translate_to_ru(text):
             translated.append(result)
         time.sleep(0.06)
     out = clean_source_text(_restore_entities(" ".join(translated).strip(), kept))
-    if out and not bot._looks_russian(out) and len(out) > 80:
-        out = ""
     _translation_cache[text] = out
     return out
 
@@ -219,7 +232,7 @@ def prepare_texts(cand):
     rss_paragraphs = full_rss_paragraphs(rss_text)
     article_size = sum(map(len, article_paragraphs))
     rss_size = sum(map(len, rss_paragraphs))
-    if article_size >= 500 and article_size >= rss_size * 0.75:
+    if (cand["source"] == "Darkside" and article_paragraphs) or (article_size >= 500 and article_size >= rss_size * 0.75):
         source_paragraphs = article_paragraphs
         chosen = "page"
     else:
@@ -229,7 +242,9 @@ def prepare_texts(cand):
         source_paragraphs = [rss_text]
     translated = []
     for paragraph in source_paragraphs:
-        result = translate_to_ru(paragraph)
+        # Darkside's Russian edition already provides the translation. Keep
+        # original release/track titles, including short English list items.
+        result = paragraph if cand["source"] == "Darkside" else translate_to_ru(paragraph)
         if result:
             translated.append(re.sub(r"\s+", " ", result).strip())
     preview_source = " ".join(translated[:2]).strip() or translate_to_ru(rss_text)
