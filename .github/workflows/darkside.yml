@@ -41,7 +41,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TEST_LATEST: ${{ inputs.test_latest || 'false' }}
           DISPLAY_TZ: "Asia/Novosibirsk"
-        run: python bot.py
+        run: python runner.py
 
       - name: Save bot state and Mini App articles
         shell: bash
