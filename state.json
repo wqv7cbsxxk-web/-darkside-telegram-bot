@@ -93,5 +93,9 @@
     "http://www.darkside.ru/news/184065/",
     "http://www.darkside.ru/news/184066/",
     "http://www.darkside.ru/news/184067/"
-  ]
+  ],
+  "sent_ids": [],
+  "recent_titles": [],
+  "initialized_sources": [],
+  "state_version": 3
 }
