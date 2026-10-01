@@ -151,7 +151,6 @@
     document.getElementById('title').textContent = a.title || 'Без заголовка';
     document.getElementById('meta').textContent =
       [a.category, a.source].filter(Boolean).join(' · ');
-    document.getElementById('lead').textContent = a.short || '';
 
     const article = document.getElementById('article');
     article.innerHTML = '';
