@@ -46,22 +46,10 @@ def fetch_full_article(url):
         soup = bot.BeautifulSoup(r.text, "html.parser")
         for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "aside", "form", "button", "svg"]):
             tag.decompose()
-
-        candidates = [
-            soup.find("article"),
-            soup.find("main"),
-            soup.select_one(".entry-content"),
-            soup.select_one(".post-content"),
-            soup.select_one(".article-content"),
-            soup.select_one(".td-post-content"),
-        ]
+        candidates = [soup.find("article"), soup.find("main"), soup.select_one(".entry-content"), soup.select_one(".post-content"), soup.select_one(".article-content"), soup.select_one(".td-post-content")]
         container = next((x for x in candidates if x is not None), soup)
         paragraphs, seen = [], set()
-        bad_phrases = (
-            "subscribe to", "sign up", "cookie", "privacy policy", "advertisement",
-            "follow us", "related:", "newsletter", "all rights reserved", "share this",
-            "recommended for you", "you may also like",
-        )
+        bad_phrases = ("subscribe to", "sign up", "cookie", "privacy policy", "advertisement", "follow us", "related:", "newsletter", "all rights reserved", "share this", "recommended for you", "you may also like")
         for p in container.find_all("p"):
             text = clean_source_text(re.sub(r"\s+", " ", p.get_text(" ", strip=True)).strip())
             if len(text) < 45:
@@ -121,13 +109,40 @@ def _translation_is_good(text):
 
 
 def _translate_chunk(chunk):
-    for provider in (bot._translate_google, bot._translate_lingva, bot._translate_mymemory):
+    errors = []
+    providers = (bot._translate_google, bot._translate_lingva, bot._translate_mymemory)
+    for provider in providers:
         try:
             result = provider(chunk)
             if _translation_is_good(result):
                 return result
+            errors.append(f"{provider.__name__}: validation failed")
         except Exception as exc:
-            print(provider.__name__, "failed:", exc)
+            errors.append(f"{provider.__name__}: {exc}")
+
+    # Important fallback: a provider can reject a whole chunk while translating
+    # its individual sentences correctly. Without this, list items disappear.
+    parts = bot.split_sentences(chunk)
+    if len(parts) > 1:
+        translated = []
+        for part in parts:
+            piece = None
+            for provider in providers:
+                try:
+                    candidate = provider(part)
+                    if _translation_is_good(candidate):
+                        piece = candidate
+                        break
+                except Exception:
+                    pass
+            if piece:
+                translated.append(piece)
+            time.sleep(0.08)
+        combined = " ".join(translated).strip()
+        if combined and _translation_is_good(combined):
+            return combined
+
+    print("translation failed:", " | ".join(errors))
     return ""
 
 
@@ -140,7 +155,6 @@ def translate_to_ru(text):
     if bot._looks_russian(text):
         _translation_cache[text] = text
         return text
-
     protected, kept = _protect_entities(text)
     sentences = bot.split_sentences(protected) or [protected]
     chunks, current = [], ""
@@ -153,7 +167,6 @@ def translate_to_ru(text):
             current = candidate
     if current:
         chunks.append(current)
-
     normalized = []
     for chunk in chunks:
         while len(chunk) > 760:
@@ -164,7 +177,6 @@ def translate_to_ru(text):
             chunk = chunk[cut:].strip()
         if chunk:
             normalized.append(chunk)
-
     translated = []
     for chunk in normalized:
         result = _translate_chunk(chunk)
@@ -207,8 +219,6 @@ def prepare_texts(cand):
     rss_paragraphs = full_rss_paragraphs(rss_text)
     article_size = sum(map(len, article_paragraphs))
     rss_size = sum(map(len, rss_paragraphs))
-
-    # Choose the richest trustworthy representation. Never truncate it afterwards.
     if article_size >= 500 and article_size >= rss_size * 0.75:
         source_paragraphs = article_paragraphs
         chosen = "page"
@@ -217,19 +227,14 @@ def prepare_texts(cand):
         chosen = "rss"
     if not source_paragraphs and rss_text:
         source_paragraphs = [rss_text]
-
     translated = []
     for paragraph in source_paragraphs:
         result = translate_to_ru(paragraph)
         if result:
             translated.append(re.sub(r"\s+", " ", result).strip())
-
     preview_source = " ".join(translated[:2]).strip() or translate_to_ru(rss_text)
     short = bot.make_short_excerpt(preview_source, min_chars=220, max_chars=380) if preview_source else ""
-    print(
-        f"ARTICLE {cand['source']}: page={article_size} chars; rss={rss_size} chars; "
-        f"chosen={chosen}; saved={sum(map(len, translated))} chars/{len(translated)} paragraphs"
-    )
+    print(f"ARTICLE {cand['source']}: page={article_size} chars; rss={rss_size} chars; chosen={chosen}; saved={sum(map(len, translated))} chars/{len(translated)} paragraphs")
     return short, translated
 
 
