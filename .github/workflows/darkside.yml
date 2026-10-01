@@ -1,22 +1,27 @@
-name: Darkside RSS to Telegram
+name: Metal News Aggregator to Telegram
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "7,37 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_latest:
+        description: "Отправить последнюю новость для проверки формата"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
 
 concurrency:
-  group: darkside-rss
+  group: metal-news-aggregator
   cancel-in-progress: false
 
 jobs:
-  rss:
+  run-bot:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    timeout-minutes: 8
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,19 +34,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Check Darkside and send Telegram messages
+      - name: Run aggregator
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TEST_LATEST: ${{ inputs.test_latest || 'false' }}
         run: python bot.py
 
-      - name: Save bot state
+      - name: Save state
         shell: bash
         run: |
-          if [ -n "$(git status --porcelain -- state.json)" ]; then
+          if [[ -n "$(git status --porcelain state.json 2>/dev/null)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add state.json
-            git commit -m "Update Darkside RSS state"
+            git commit -m "Update news bot state"
             git push
           else
             echo "State unchanged"
