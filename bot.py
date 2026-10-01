@@ -8,6 +8,7 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -17,12 +18,16 @@ STATE_FILE = "state.json"
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 TEST_LATEST = os.environ.get("TEST_LATEST", "false").strip().lower() == "true"
+WEBAPP_BASE_URL = os.environ.get("WEBAPP_BASE_URL", "").strip()
+DISPLAY_TZ = os.environ.get("DISPLAY_TZ", "Asia/Novosibirsk").strip()
+ARTICLES_FILE = "docs/articles.json"
+MAX_ARTICLES = 150
 
 MAX_RECENT_TITLES = 160
 MAX_SENT_IDS = 1800
 MAX_ENTRIES_PER_SOURCE = 24
 REQUEST_TIMEOUT = 22
-USER_AGENT = "Mozilla/5.0 (compatible; MetalNewsAggregator/3.0; +Telegram bot)"
+USER_AGENT = "Mozilla/5.0 (compatible; MetalNewsAggregator/4.0; +Telegram bot)"
 
 # Darkside напрямую периодически отдаёт 403 автоматическим клиентам.
 # Поэтому RSS Darkside читаем через RSS2JSON, который уже проверен на этом боте.
@@ -141,6 +146,66 @@ def save_state(state):
     state["state_version"] = 3
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
+
+
+
+def get_webapp_base_url():
+    if WEBAPP_BASE_URL:
+        return WEBAPP_BASE_URL.rstrip("/") + "/"
+
+    repo = os.environ.get("GITHUB_REPOSITORY", "").strip()
+    if "/" not in repo:
+        raise RuntimeError(
+            "WEBAPP_BASE_URL is not set and GITHUB_REPOSITORY is unavailable"
+        )
+
+    owner, name = repo.split("/", 1)
+    return f"https://{owner}.github.io/{name}/"
+
+
+def load_articles():
+    if not os.path.exists(ARTICLES_FILE):
+        return {"articles": []}
+
+    try:
+        with open(ARTICLES_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        data = {"articles": []}
+
+    if not isinstance(data, dict):
+        data = {"articles": []}
+    if not isinstance(data.get("articles"), list):
+        data["articles"] = []
+
+    return data
+
+
+def save_article(article):
+    os.makedirs(os.path.dirname(ARTICLES_FILE), exist_ok=True)
+
+    data = load_articles()
+    items = [
+        x for x in data.get("articles", [])
+        if isinstance(x, dict) and x.get("id") != article.get("id")
+    ]
+    items.insert(0, article)
+    data["articles"] = items[:MAX_ARTICLES]
+
+    with open(ARTICLES_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def article_webapp_url(article_id):
+    return get_webapp_base_url() + "?id=" + quote(str(article_id), safe="")
+
+
+def display_time(dt):
+    try:
+        tz = ZoneInfo(DISPLAY_TZ)
+        return dt.astimezone(tz).strftime("%H:%M")
+    except Exception:
+        return dt.astimezone(timezone.utc).strftime("%H:%M")
 
 
 def telegram_api(method, payload=None):
@@ -670,51 +735,62 @@ def prepare_texts(cand):
     return short, expanded
 
 
-def build_rich_html(cand):
+def prepare_article(cand):
     short, expanded = prepare_texts(cand)
     if not short:
         short = "Краткое описание в источнике отсутствует."
 
     title_ru = translate_to_ru(cand["title"]) or cand["title"]
-    title_e = html.escape(title_ru)
-    short_e = html.escape(short)
-    category_e = html.escape(cand["category"])
-    source_e = html.escape(cand["source"])
-    link_e = html.escape(cand["link"], quote=True)
-    unix_ts = int(cand["published"].timestamp())
 
-    blocks = [
-        f"<h3>{title_e}</h3>",
-        f"<p>{short_e}</p>",
-        (
-            f"<p><i>{category_e} · {source_e} · "
-            f"<tg-time unix=\"{unix_ts}\" format=\"t\">время</tg-time></i></p>"
-        ),
-    ]
-
-    detail_parts = []
-    for paragraph in expanded:
-        p = html.escape(paragraph)
-        if p and p != short_e:
-            detail_parts.append(f"<p>{p}</p>")
-    if not detail_parts:
-        detail_parts.append(f"<p>{short_e}</p>")
-    detail_parts.append(f"<p><a href=\"{link_e}\">Оригинал ↗</a></p>")
-
-    blocks.append("<details><summary>Раскрыть</summary>" + "".join(detail_parts) + "</details>")
-    return "".join(blocks)
+    return {
+        "id": cand["id"],
+        "title": title_ru,
+        "short": short,
+        "paragraphs": expanded if expanded else [short],
+        "category": cand["category"],
+        "source": cand["source"],
+        "published": cand["published"].isoformat(),
+        "original_url": cand["link"],
+        "saved_at": int(time.time()),
+    }
 
 
 def send_news(chat_id, cand):
-    rich_html = build_rich_html(cand)
+    article = prepare_article(cand)
+
+    # Сначала сохраняем статью локально.
+    # GitHub Actions закоммитит docs/articles.json после выполнения бота.
+    save_article(article)
+
+    title_e = html.escape(article["title"])
+    short_e = html.escape(article["short"])
+    meta_e = html.escape(
+        f'{article["category"]} · {article["source"]} · {display_time(cand["published"])}'
+    )
+
+    text = (
+        f"<b>{title_e}</b>\n\n"
+        f"{short_e}\n\n"
+        f"<i>{meta_e}</i>"
+    )
+
     payload = {
         "chat_id": chat_id,
-        "rich_message": {
-            "html": rich_html,
-            "skip_entity_detection": False,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+        "reply_markup": {
+            "inline_keyboard": [[
+                {
+                    "text": "Читать",
+                    "web_app": {
+                        "url": article_webapp_url(article["id"])
+                    }
+                }
+            ]]
         },
     }
-    return telegram_api("sendRichMessage", payload)
+    return telegram_api("sendMessage", payload)
 
 
 def send_test_latest(chat_id, state):
