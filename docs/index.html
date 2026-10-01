@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="color-scheme" content="dark light">
+  <title>Metal News</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <style>
+    :root {
+      --bg: #0b0b0c;
+      --text: #f2f2f2;
+      --muted: #a5a7ad;
+      --accent: #d64d4d;
+      --line: rgba(255,255,255,.10);
+      --button: #24262a;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding: max(18px, env(safe-area-inset-top)) 16px
+               max(24px, env(safe-area-inset-bottom));
+      line-height: 1.55;
+    }
+    .wrap { max-width: 760px; margin: 0 auto; }
+    .top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+    .brand {
+      font-size: 13px;
+      color: var(--muted);
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+    .close {
+      border: 1px solid var(--line);
+      background: var(--button);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 8px 13px;
+      font: inherit;
+    }
+    h1 {
+      font-size: 27px;
+      line-height: 1.16;
+      margin: 6px 0 12px;
+      letter-spacing: -.02em;
+    }
+    .meta {
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 22px;
+    }
+    .lead {
+      font-size: 18px;
+      line-height: 1.5;
+      padding: 16px 0 20px;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 22px;
+    }
+    .article p {
+      font-size: 17px;
+      margin: 0 0 18px;
+    }
+    .source {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      min-height: 48px;
+      margin-top: 10px;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      background: var(--button);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .status {
+      padding: 42px 12px;
+      text-align: center;
+      color: var(--muted);
+    }
+    .spinner {
+      width: 26px;
+      height: 26px;
+      margin: 0 auto 14px;
+      border: 3px solid rgba(255,255,255,.15);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .9s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="brand">Metal News</div>
+    <button class="close" id="closeBtn">Закрыть</button>
+  </div>
+
+  <div id="status" class="status">
+    <div class="spinner"></div>
+    <div id="statusText">Загружаю статью…</div>
+  </div>
+
+  <main id="content" class="hidden">
+    <h1 id="title"></h1>
+    <div id="meta" class="meta"></div>
+    <div id="lead" class="lead"></div>
+    <div id="article" class="article"></div>
+    <a id="sourceLink" class="source" target="_blank" rel="noopener">Оригинал ↗</a>
+  </main>
+</div>
+
+<script>
+(() => {
+  const tg = window.Telegram?.WebApp;
+
+  if (tg) {
+    tg.ready();
+    const p = tg.themeParams || {};
+    if (p.bg_color) document.documentElement.style.setProperty('--bg', p.bg_color);
+    if (p.text_color) document.documentElement.style.setProperty('--text', p.text_color);
+    if (p.hint_color) document.documentElement.style.setProperty('--muted', p.hint_color);
+    if (p.button_color) document.documentElement.style.setProperty('--accent', p.button_color);
+  }
+
+  const qs = new URLSearchParams(location.search);
+  const id = qs.get('id');
+
+  const status = document.getElementById('status');
+  const statusText = document.getElementById('statusText');
+  const content = document.getElementById('content');
+
+  document.getElementById('closeBtn').addEventListener('click', () => {
+    if (tg) tg.close();
+    else history.back();
+  });
+
+  function render(a) {
+    document.getElementById('title').textContent = a.title || 'Без заголовка';
+    document.getElementById('meta').textContent =
+      [a.category, a.source].filter(Boolean).join(' · ');
+    document.getElementById('lead').textContent = a.short || '';
+
+    const article = document.getElementById('article');
+    article.innerHTML = '';
+
+    (a.paragraphs || []).forEach(p => {
+      const el = document.createElement('p');
+      el.textContent = p;
+      article.appendChild(el);
+    });
+
+    const sourceLink = document.getElementById('sourceLink');
+    sourceLink.href = a.original_url || '#';
+    sourceLink.style.display = a.original_url ? 'inline-flex' : 'none';
+
+    status.classList.add('hidden');
+    content.classList.remove('hidden');
+  }
+
+  let tries = 0;
+  const maxTries = 60;
+
+  async function load() {
+    tries += 1;
+
+    try {
+      const r = await fetch('articles.json?t=' + Date.now(), { cache: 'no-store' });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+
+      const data = await r.json();
+      const article = (data.articles || []).find(
+        x => String(x.id) === String(id)
+      );
+
+      if (article) {
+        render(article);
+        return;
+      }
+    } catch (e) {
+      console.log(e);
+    }
+
+    if (tries < maxTries) {
+      statusText.textContent =
+        tries < 4
+          ? 'Загружаю статью…'
+          : 'Статья публикуется. Ещё несколько секунд…';
+      setTimeout(load, 3000);
+    } else {
+      statusText.textContent =
+        'Не удалось загрузить статью. Закрой окно и попробуй открыть её снова через минуту.';
+      document.querySelector('.spinner').style.display = 'none';
+    }
+  }
+
+  if (!id) {
+    statusText.textContent = 'Не указан идентификатор статьи.';
+    document.querySelector('.spinner').style.display = 'none';
+  } else {
+    load();
+  }
+})();
+</script>
+</body>
+</html>
