@@ -7,6 +7,7 @@ import time
 from difflib import SequenceMatcher
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
+from urllib.parse import quote
 
 import feedparser
 import requests
@@ -490,6 +491,77 @@ def paragraphs_from_text(text, target_count=4):
     return [" ".join(g).strip() for g in groups if g]
 
 
+def _looks_russian(text):
+    if not text:
+        return False
+    cyr = len(re.findall(r"[А-Яа-яЁё]", text))
+    latin = len(re.findall(r"[A-Za-z]", text))
+    if cyr >= 8 and cyr >= latin * 0.35:
+        return True
+    return cyr >= 20
+
+
+def _translate_google(chunk):
+    r = session.get(
+        "https://translate.googleapis.com/translate_a/single",
+        params={
+            "client": "gtx",
+            "sl": "auto",
+            "tl": "ru",
+            "dt": "t",
+            "q": chunk,
+        },
+        timeout=REQUEST_TIMEOUT,
+    )
+    r.raise_for_status()
+    data = r.json()
+    result = "".join(part[0] for part in data[0] if part and part[0]).strip()
+    if not result:
+        raise RuntimeError("Google returned empty translation")
+    return result
+
+
+LINGVA_INSTANCES = [
+    "https://translate.dr460nf1r3.org",
+    "https://lingva.garudalinux.org",
+    "https://translate.jae.fi",
+]
+
+
+def _translate_lingva(chunk):
+    last_error = None
+    encoded = quote(chunk, safe="")
+    for base in LINGVA_INSTANCES:
+        try:
+            r = session.get(
+                f"{base}/api/v1/auto/ru/{encoded}",
+                timeout=REQUEST_TIMEOUT,
+            )
+            r.raise_for_status()
+            data = r.json()
+            result = (data.get("translation") or "").strip()
+            if result:
+                return result
+        except Exception as e:
+            last_error = e
+    raise RuntimeError(f"Lingva failed: {last_error}")
+
+
+def _translate_mymemory(chunk):
+    # Резервный вариант. Для наших источников исходный язык практически всегда английский.
+    r = session.get(
+        "https://api.mymemory.translated.net/get",
+        params={"q": chunk, "langpair": "en|ru"},
+        timeout=REQUEST_TIMEOUT,
+    )
+    r.raise_for_status()
+    data = r.json()
+    result = ((data.get("responseData") or {}).get("translatedText") or "").strip()
+    if not result:
+        raise RuntimeError("MyMemory returned empty translation")
+    return html.unescape(result)
+
+
 def translate_to_ru(text):
     text = (text or "").strip()
     if not text:
@@ -497,40 +569,46 @@ def translate_to_ru(text):
     if text in _translation_cache:
         return _translation_cache[text]
 
-    # Кириллица уже преобладает — перевод не нужен.
-    cyr = len(re.findall(r"[А-Яа-яЁё]", text))
-    latin = len(re.findall(r"[A-Za-z]", text))
-    if cyr > max(20, latin * 0.6):
+    if _looks_russian(text):
         _translation_cache[text] = text
         return text
 
+    # Короткие части снижают риск отказов публичных переводчиков и длинных URL.
     chunks = []
-    current = ""
-    for piece in re.split(r"(\n\n+)", text):
-        if len(current) + len(piece) > 1700 and current:
-            chunks.append(current)
-            current = piece
-        else:
-            current += piece
-    if current:
-        chunks.append(current)
+    remaining = text
+    while remaining:
+        if len(remaining) <= 850:
+            chunks.append(remaining)
+            break
+        cut = remaining.rfind(" ", 0, 850)
+        if cut < 450:
+            cut = 850
+        chunks.append(remaining[:cut].strip())
+        remaining = remaining[cut:].strip()
 
     translated = []
-    for chunk in chunks[:4]:
-        try:
-            r = session.get(
-                "https://translate.googleapis.com/translate_a/single",
-                params={"client": "gtx", "sl": "auto", "tl": "ru", "dt": "t", "q": chunk},
-                timeout=REQUEST_TIMEOUT,
-            )
-            r.raise_for_status()
-            data = r.json()
-            translated.append("".join(part[0] for part in data[0] if part and part[0]))
-            time.sleep(0.12)
-        except Exception as e:
-            print("translation failed:", e)
-            translated.append(chunk)
-    out = "".join(translated).strip()
+    for chunk in chunks[:8]:
+        result = None
+        errors = []
+
+        for provider in (_translate_google, _translate_lingva, _translate_mymemory):
+            try:
+                candidate = provider(chunk)
+                if candidate and (_looks_russian(candidate) or len(candidate) < 40):
+                    result = candidate
+                    break
+                errors.append(f"{provider.__name__}: translation validation failed")
+            except Exception as e:
+                errors.append(f"{provider.__name__}: {e}")
+
+        if result is None:
+            print("translation failed for chunk:", " | ".join(errors))
+            result = chunk
+
+        translated.append(result)
+        time.sleep(0.10)
+
+    out = " ".join(x.strip() for x in translated if x.strip()).strip()
     _translation_cache[text] = out
     return out
 
@@ -554,7 +632,7 @@ def make_short_excerpt(text, min_chars=220, max_chars=380):
     return cut + "…"
 
 
-def limit_paragraph(paragraph, limit=650):
+def limit_paragraph(paragraph, limit=480):
     paragraph = re.sub(r"\s+", " ", paragraph).strip()
     if len(paragraph) <= limit:
         return paragraph
@@ -581,7 +659,7 @@ def prepare_texts(cand):
         if translated:
             translated_paragraphs.append(limit_paragraph(translated))
 
-    expanded = translated_paragraphs[:6]
+    expanded = translated_paragraphs[:4]
     excerpt_source = translate_to_ru(cand.get("rss_body", "")) or " ".join(expanded)
     short = make_short_excerpt(excerpt_source)
 
@@ -597,7 +675,8 @@ def build_rich_html(cand):
     if not short:
         short = "Краткое описание в источнике отсутствует."
 
-    title_e = html.escape(cand["title"])
+    title_ru = translate_to_ru(cand["title"]) or cand["title"]
+    title_e = html.escape(title_ru)
     short_e = html.escape(short)
     category_e = html.escape(cand["category"])
     source_e = html.escape(cand["source"])
