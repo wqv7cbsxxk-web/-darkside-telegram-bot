@@ -1,14 +1,14 @@
 # Open button and artist information
 
 configure_menu.py sets a real Telegram MenuButtonWebApp labelled “Открыть”,
-pointing to the existing Mini App at ?view=bands. It checks the current default
+pointing to the existing Mini App at ?view=all (the news feed). It checks the current default
 menu and the configured private-chat override, updates only differences and
 reads them back for verification. It sends no messages. A dedicated push-triggered
 workflow activates it using the existing Telegram secrets; normal bot runs also
 keep the menu configured. Negative group/channel IDs do not receive a private
 chat menu override.
 
-Artist pages have News, Tour, Where now, Members and About sections. Direct
+Artist pages have Overview, News, Tour, Where now, Members, Albums and Setlists sections. Direct
 ?band= links open the appropriate artist. Existing ?id= links keep the complete
 article reader. Preferences are still local to the user's device.
 

@@ -31,7 +31,7 @@ class ProfileTests(unittest.TestCase):
         self.assertEqual(parse_events(raw,'https://example.org/tour','Another Band'),[])
 
     def test_menu_is_set_and_verified_without_messages(self):
-        expected={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=bands'}}
+        expected={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=all'}}
         def api(method,payload):
             if method=='getChatMenuButton':return {'type':'commands'} if not hasattr(api,'set') else expected
             if method=='setChatMenuButton':api.set=True;return True
@@ -55,7 +55,7 @@ class ProfileTests(unittest.TestCase):
             with self.assertRaises(RuntimeError):bot.configure_open_menu()
 
     def test_menu_readback_can_briefly_return_previous_value(self):
-        expected={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=bands'}}
+        expected={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=all'}}
         with patch.object(bot,'time') as clock,patch.object(bot,'get_webapp_base_url',return_value='https://example.org/'),patch.object(bot,'telegram_api',side_effect=[{'type':'commands'},True,{'type':'commands'},expected]) as api:
             bot.configure_open_menu()
         clock.sleep.assert_called_once_with(1)
