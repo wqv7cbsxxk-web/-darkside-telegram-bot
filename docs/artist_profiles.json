@@ -125,7 +125,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://aerosmith.com",
       "reference_url": "https://en.wikipedia.org/wiki/Aerosmith",
-      "reference_checked_at": "2026-10-02T02:21:40.607333+00:00"
+      "reference_checked_at": "2026-10-02T02:21:40.607333+00:00",
+      "tour_attempted_at": "2026-10-02T07:35:05.925581+00:00"
     },
     "arch-enemy": {
       "origin": "Halmstad , Sweden",
@@ -156,7 +157,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://archenemy.net",
       "reference_url": "https://en.wikipedia.org/wiki/Arch_Enemy",
-      "reference_checked_at": "2026-10-02T02:21:46.476269+00:00"
+      "reference_checked_at": "2026-10-02T02:21:46.476269+00:00",
+      "tour_attempted_at": "2026-10-02T07:35:06.388189+00:00"
     },
     "at-the-gates": {
       "origin": "Gothenburg , Sweden",
@@ -183,7 +185,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.atthegates.se/",
       "reference_url": "https://en.wikipedia.org/wiki/At_The_Gates",
-      "reference_checked_at": "2026-10-02T02:21:46.785553+00:00"
+      "reference_checked_at": "2026-10-02T02:21:46.785553+00:00",
+      "tour_attempted_at": "2026-10-02T07:35:08.025610+00:00"
     },
     "alice-in-chains": {
       "origin": "Seattle , Washington, United States",
@@ -210,7 +213,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://aliceinchains.com",
       "reference_url": "https://en.wikipedia.org/wiki/Alice_In_Chains",
-      "reference_checked_at": "2026-10-02T02:21:47.042188+00:00"
+      "reference_checked_at": "2026-10-02T02:21:47.042188+00:00",
+      "tour_attempted_at": "2026-10-02T07:35:08.862862+00:00"
     },
     "black-sabbath": {
       "origin": "Birmingham , England",
