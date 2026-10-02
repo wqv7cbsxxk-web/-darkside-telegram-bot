@@ -1,2 +1,3 @@
 # Preserve fetched Windows-1251 HTML fixtures as byte-exact snapshots.
 tests/fixtures/darkside-*.html -diff
+tests/fixtures/theprp-*.html -diff

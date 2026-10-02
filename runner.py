@@ -1,6 +1,9 @@
 import html
+import json
+import os
 import re
 import time
+from pathlib import Path
 from urllib.parse import quote, urlsplit
 
 import bot
@@ -9,6 +12,63 @@ import bot
 # Telegram receives a short preview; Mini App receives the complete useful article text.
 
 _translation_cache = {}
+TRANSLATION_CACHE_FILE = "translation_cache.json"
+_provider_retry_after = {}
+_cache_loaded = False
+_article_translation_failed = False
+
+
+class TranslationUnavailable(RuntimeError):
+    """Keep a news item eligible for a later run instead of sending English."""
+
+
+def load_translation_cache():
+    global _cache_loaded
+    if _cache_loaded:
+        return
+    _cache_loaded = True
+    try:
+        data = json.loads(Path(TRANSLATION_CACHE_FILE).read_text(encoding="utf-8"))
+        _translation_cache.update(data.get("translations", {}))
+        _provider_retry_after.update(data.get("provider_retry_after", {}))
+    except (OSError, ValueError, TypeError):
+        pass
+
+
+def save_translation_cache():
+    path = Path(TRANSLATION_CACHE_FILE)
+    temporary = path.with_suffix(".tmp")
+    data = {"translations": dict(list(_translation_cache.items())[-4000:]),
+            "provider_retry_after": _provider_retry_after}
+    temporary.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    os.replace(temporary, path)
+
+
+def call_translation_provider(provider, text):
+    name = provider.__name__
+    if time.time() < _provider_retry_after.get(name, 0):
+        raise TranslationUnavailable(f"{name}: waiting after provider failure")
+    try:
+        return provider(text)
+    except bot.requests.HTTPError as exc:
+        if exc.response is not None and exc.response.status_code == 429:
+            delay = exc.response.headers.get("Retry-After", "1800")
+            try:
+                delay = max(60, int(delay))
+            except ValueError:
+                delay = 1800
+            _provider_retry_after[name] = time.time() + delay
+            save_translation_cache()
+        raise
+    except bot.requests.RequestException:
+        _provider_retry_after[name] = time.time() + 60
+        raise
+    except RuntimeError:
+        if name == "_translate_lingva":
+            _provider_retry_after[name] = time.time() + 300
+        elif name == "_translate_mymemory":
+            _provider_retry_after[name] = time.time() + 300
+        raise
 
 EXTRA_PROTECTED_NAMES = [
     "Thrice", "Slipknot", "Marilyn Manson", "Set Your Goals",
@@ -16,6 +76,7 @@ EXTRA_PROTECTED_NAMES = [
     "No Clean Singing", "Louder", "Ultimate Classic Rock",
 ]
 PROTECTED_NAMES = sorted(set(bot.CORE_ARTISTS + EXTRA_PROTECTED_NAMES), key=len, reverse=True)
+_page_entities = set()
 
 
 def clean_source_text(text):
@@ -61,6 +122,24 @@ def fetch_full_article(url):
                 tag.insert_before("\n")
                 tag.insert_after("\n")
             return full_rss_paragraphs(container.get_text(" ", strip=False))
+        if (urlsplit(url).hostname or "").lower() in {"theprp.com", "www.theprp.com"}:
+            container = soup.select_one(".entry-content")
+            if container is None:
+                return []
+            for tag in container.select(".instagram-media, .twitter-tweet, iframe, script, style"):
+                tag.decompose()
+            for tag in container.find_all("strong"):
+                for name in tag.get_text("\n", strip=True).splitlines():
+                    if _looks_like_release_title(name) or name == "grandson":
+                        _page_entities.add(name)
+            paragraphs = []
+            for tag in container.find_all(["p", "li"]):
+                if tag.name == "p" and tag.find("li"):
+                    continue
+                text = clean_source_text(tag.get_text(" ", strip=True))
+                if text and not re.match(r"(?:A post shared by|View this post on Instagram)\b", text, re.I):
+                    paragraphs.append(text)
+            return paragraphs
         candidates = [soup.find("article"), soup.find("main"), soup.select_one(".entry-content"), soup.select_one(".post-content"), soup.select_one(".article-content"), soup.select_one(".td-post-content")]
         container = next((x for x in candidates if x is not None), soup)
         paragraphs, seen = [], set()
@@ -99,7 +178,7 @@ def _protect_entities(text):
         kept[token] = value
         return token
     text = re.sub(r"https?://\S+", lambda m: hold(m.group(0)), text)
-    for name in PROTECTED_NAMES:
+    for name in sorted(set(PROTECTED_NAMES) | _page_entities, key=len, reverse=True):
         text = re.sub(rf"(?<!\w){re.escape(name)}(?!\w)", lambda m: hold(m.group(0)), text, flags=re.I)
     for pattern in [r"“([^”]{1,90})”", r"«([^»]{1,90})»", r'"([^"\n]{1,90})"', r"‘([^’]{1,90})’"]:
         def repl(match):
@@ -120,16 +199,23 @@ def _translation_is_good(text):
     check = re.sub(r"__KEEP_\d+__", "", text)
     cyr = len(re.findall(r"[А-Яа-яЁё]", check))
     lat = len(re.findall(r"[A-Za-z]", check))
-    return (cyr >= 12 and cyr >= lat * 0.55) or cyr >= 30
+    return (cyr >= 2 and cyr >= lat * 0.55) or cyr >= 30
+
+
+def valid_provider_result(result, source):
+    return _translation_is_good(result) and all(
+        token in result for token in re.findall(r"__KEEP_\d+__", source)
+    )
 
 
 def _translate_chunk(chunk):
+    global _article_translation_failed
     errors = []
     providers = (bot._translate_google, bot._translate_lingva, bot._translate_mymemory)
     for provider in providers:
         try:
-            result = provider(chunk)
-            if _translation_is_good(result):
+            result = call_translation_provider(provider, chunk)
+            if valid_provider_result(result, chunk):
                 return result
             errors.append(f"{provider.__name__}: validation failed")
         except Exception as exc:
@@ -144,20 +230,23 @@ def _translate_chunk(chunk):
             piece = None
             for provider in providers:
                 try:
-                    candidate = provider(part)
-                    if _translation_is_good(candidate):
+                    candidate = call_translation_provider(provider, part)
+                    if valid_provider_result(candidate, part):
                         piece = candidate
                         break
                 except Exception:
                     pass
             # A failed sentence must not erase factual material or list items.
             translated.append(piece or part)
+            if piece is None:
+                _article_translation_failed = True
             time.sleep(0.08)
         combined = " ".join(translated).strip()
         if combined:
             return combined
 
     print("translation failed:", " | ".join(errors))
+    _article_translation_failed = True
     return chunk
 
 
@@ -165,17 +254,22 @@ def translate_to_ru(text):
     text = clean_source_text(text)
     if not text:
         return ""
+    load_translation_cache()
     if text in _translation_cache:
         return _translation_cache[text]
     if bot._looks_russian(text):
         _translation_cache[text] = text
         return text
     protected, kept = _protect_entities(text)
+    if not re.search(r"[A-Za-zА-Яа-яЁё]", re.sub(r"__KEEP_\d+__", "", protected)):
+        return text
+    # MyMemory rejects requests over 500 characters even with HTTP 200.
+    # Use a common safe limit for every provider, including sentence fallback.
     sentences = bot.split_sentences(protected) or [protected]
     chunks, current = [], ""
     for sentence in sentences:
         candidate = (current + " " + sentence).strip()
-        if current and len(candidate) > 720:
+        if current and len(candidate) > 450:
             chunks.append(current)
             current = sentence
         else:
@@ -184,22 +278,29 @@ def translate_to_ru(text):
         chunks.append(current)
     normalized = []
     for chunk in chunks:
-        while len(chunk) > 760:
-            cut = chunk.rfind(" ", 0, 760)
-            if cut < 420:
-                cut = 760
+        while len(chunk) > 450:
+            cut = chunk.rfind(" ", 0, 450)
+            if cut < 200:
+                cut = 450
             normalized.append(chunk[:cut].strip())
             chunk = chunk[cut:].strip()
         if chunk:
             normalized.append(chunk)
     translated = []
+    global _article_translation_failed
+    previous_failure = _article_translation_failed
+    _article_translation_failed = False
     for chunk in normalized:
         result = _translate_chunk(chunk)
         if result:
             translated.append(result)
         time.sleep(0.06)
     out = clean_source_text(_restore_entities(" ".join(translated).strip(), kept))
-    _translation_cache[text] = out
+    failed = _article_translation_failed
+    _article_translation_failed = previous_failure or failed
+    if not failed and out:
+        _translation_cache[text] = out
+        save_translation_cache()
     return out
 
 
@@ -232,7 +333,7 @@ def prepare_texts(cand):
     rss_paragraphs = full_rss_paragraphs(rss_text)
     article_size = sum(map(len, article_paragraphs))
     rss_size = sum(map(len, rss_paragraphs))
-    if (cand["source"] == "Darkside" and article_paragraphs) or (article_size >= 500 and article_size >= rss_size * 0.75):
+    if (cand["source"] in {"Darkside", "ThePRP"} and article_paragraphs) or (article_size >= 500 and article_size >= rss_size * 0.75):
         source_paragraphs = article_paragraphs
         chosen = "page"
     else:
@@ -258,5 +359,60 @@ bot.fetch_article_paragraphs = fetch_full_article
 bot.translate_to_ru = translate_to_ru
 bot.prepare_texts = prepare_texts
 
+_base_prepare_article = bot.prepare_article
+
+
+def prepare_article(cand):
+    global _article_translation_failed
+    _article_translation_failed = False
+    article = _base_prepare_article(cand)
+    if _article_translation_failed:
+        raise TranslationUnavailable("Article translation incomplete; retry on a later run")
+    return article
+
+
+bot.prepare_article = prepare_article
+
+
+def retry_saved_translations(limit=2):
+    """Repair previously sent English prose without sending messages again."""
+    load_translation_cache()
+    translated_values = set(_translation_cache.values())
+    data = bot.load_articles()
+    attempts = 0
+    changed = False
+    for article in data["articles"]:
+        if article.get("source") == "Darkside":
+            continue
+        texts = [article.get("title", "")] + article.get("paragraphs", [])
+        pending = article.get("translation_pending") or any(
+            text not in translated_values and not bot._looks_russian(text) and re.search(
+                r"\b(?:will|this|that|their|announces?|released?|says?|with|was|been)\b", text, re.I
+            ) for text in texts
+        )
+        if not pending:
+            continue
+        article["translation_pending"] = True
+        changed = True
+        if attempts >= limit or time.time() < article.get("translation_retry_after", 0):
+            continue
+        attempts += 1
+        cand = {"id": article["id"], "title": article["title"], "source": article["source"],
+                "category": article["category"], "link": article["original_url"],
+                "published": bot.parse_datetime(article["published"]),
+                "rss_body": "\n\n".join(article["paragraphs"])}
+        try:
+            result = prepare_article(cand)
+        except TranslationUnavailable as exc:
+            print("Saved article translation pending:", article["id"], exc)
+            article["translation_retry_after"] = int(time.time()) + 3600
+            continue
+        article.update({key: result[key] for key in ("title", "short", "paragraphs")})
+        article.pop("translation_pending", None)
+        article.pop("translation_retry_after", None)
+    if changed:
+        Path(bot.ARTICLES_FILE).write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
 if __name__ == "__main__":
+    retry_saved_translations()
     bot.main()

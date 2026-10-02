@@ -4,7 +4,7 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 
 const data = JSON.parse(fs.readFileSync('docs/articles.json', 'utf8'));
-const article = data.articles.find(a => a.original_url.endsWith('/184168/'));
+function checkArticle(article, expectedCount) {
 const nodes = new Map();
 function element() {
   return { textContent: '', innerHTML: '', style: {}, children: [],
@@ -34,11 +34,23 @@ const context = {
 const html = fs.readFileSync('docs/index.html', 'utf8');
 const script = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
 vm.runInNewContext(script, context);
-setImmediate(() => {
+return new Promise(resolve => setImmediate(() => {
   assert.equal(fetchCount, 1);
   const rendered = nodes.get('article').children.map(p => p.textContent);
   assert.deepEqual(rendered, article.paragraphs);
-  assert.equal(rendered.length, 7);
-  assert.match(rendered[6], /^6\. Wretched Spirits, Land of the Light 06:14$/);
-  console.log('Mini App: all 7 paragraphs rendered, including tracks 1–6.');
-});
+  assert.equal(rendered.length, expectedCount);
+  if (expectedCount === 7) {
+    assert.match(rendered[6], /^6\. Wretched Spirits, Land of the Light 06:14$/);
+  } else {
+    assert.match(nodes.get('title').textContent, /Фестиваль Тома Морелло/);
+    assert.match(rendered[0], /Фестиваль/);
+    assert.ok(!rendered.join(' ').includes('A post shared by'));
+  }
+  resolve();
+}));
+}
+
+Promise.all([
+  checkArticle(data.articles.find(a => a.original_url.endsWith('/184168/')), 7),
+  checkArticle(data.articles.find(a => a.original_url.includes('tom-morellos-power')), 4),
+]).then(() => console.log('Mini App: full Darkside tracklist and translated ThePRP article rendered.'));

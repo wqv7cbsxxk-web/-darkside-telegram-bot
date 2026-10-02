@@ -33,7 +33,16 @@ def candidate(news_id):
 
 class PipelineTests(unittest.TestCase):
     def setUp(self):
+        directory = tempfile.TemporaryDirectory()
+        self.addCleanup(directory.cleanup)
+        cache_path = patch.object(runner, "TRANSLATION_CACHE_FILE", str(Path(directory.name) / "cache.json"))
+        cache_path.start()
+        self.addCleanup(cache_path.stop)
         runner._translation_cache.clear()
+        runner._provider_retry_after.clear()
+        runner._page_entities.clear()
+        runner._cache_loaded = False
+        runner._article_translation_failed = False
 
     def extract(self, news_id):
         with patch.object(bot.session, "get", return_value=response_for(news_id)):

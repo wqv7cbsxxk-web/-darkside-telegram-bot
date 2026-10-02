@@ -621,6 +621,8 @@ def _translate_mymemory(chunk):
     )
     r.raise_for_status()
     data = r.json()
+    if str(data.get("responseStatus", "200")) != "200" or data.get("quotaFinished"):
+        raise RuntimeError("MyMemory translation rejected: " + str(data.get("responseDetails") or data.get("responseStatus")))
     result = ((data.get("responseData") or {}).get("translatedText") or "").strip()
     if not result:
         raise RuntimeError("MyMemory returned empty translation")
