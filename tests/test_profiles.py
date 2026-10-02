@@ -51,5 +51,12 @@ class ProfileTests(unittest.TestCase):
         self.assertEqual(parse_events(raw,'https://wittr.com/',calendar_year=2027),[])
 
     def test_menu_verification_failure_is_reported(self):
-        with patch.object(bot,'get_webapp_base_url',return_value='https://example.org/'),patch.object(bot,'telegram_api',return_value={'type':'commands'}):
+        with patch.object(bot,'time'),patch.object(bot,'get_webapp_base_url',return_value='https://example.org/'),patch.object(bot,'telegram_api',return_value={'type':'commands'}):
             with self.assertRaises(RuntimeError):bot.configure_open_menu()
+
+    def test_menu_readback_can_briefly_return_previous_value(self):
+        expected={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=bands'}}
+        with patch.object(bot,'time') as clock,patch.object(bot,'get_webapp_base_url',return_value='https://example.org/'),patch.object(bot,'telegram_api',side_effect=[{'type':'commands'},True,{'type':'commands'},expected]) as api:
+            bot.configure_open_menu()
+        clock.sleep.assert_called_once_with(1)
+        self.assertEqual(api.call_count,4)

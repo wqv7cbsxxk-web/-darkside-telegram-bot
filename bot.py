@@ -237,8 +237,13 @@ def configure_open_menu(chat_id=None):
     for scope in scopes:
         if telegram_api("getChatMenuButton", scope) != expected:
             telegram_api("setChatMenuButton", dict(scope, menu_button=expected))
-        if telegram_api("getChatMenuButton", scope) != expected:
-            raise RuntimeError("Telegram menu verification failed")
+        # Telegram can briefly return the previous menu after a successful set.
+        for attempt in range(3):
+            if telegram_api("getChatMenuButton", scope) == expected:
+                break
+            if attempt == 2:
+                raise RuntimeError("Telegram menu verification failed")
+            time.sleep(1)
     print("Telegram menu verified: Открыть -> Mini App home")
 
 

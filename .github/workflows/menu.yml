@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - configure_menu.py
+      - bot.py
       - .github/workflows/menu.yml
   workflow_dispatch:
 
