@@ -128,6 +128,7 @@ def load_state():
     state.setdefault("sent_ids", [])
     state.setdefault("recent_titles", [])
     state.setdefault("initialized_sources", [])
+    state.setdefault("pending_news", [])
     state["state_version"] = 3
 
     if not isinstance(state["sent_ids"], list):
@@ -136,10 +137,17 @@ def load_state():
         state["recent_titles"] = []
     if not isinstance(state["initialized_sources"], list):
         state["initialized_sources"] = []
+    if not isinstance(state["pending_news"], list):
+        state["pending_news"] = []
     return state
 
 
 def save_state(state):
+    sent = set(state.get("sent_ids", []))
+    state["pending_news"] = [
+        item for item in state.get("pending_news", [])
+        if isinstance(item, dict) and item.get("id") not in sent
+    ]
     state["sent_ids"] = list(dict.fromkeys(state.get("sent_ids", [])))[-MAX_SENT_IDS:]
     state["recent_titles"] = state.get("recent_titles", [])[-MAX_RECENT_TITLES:]
     state["initialized_sources"] = list(dict.fromkeys(state.get("initialized_sources", [])))
@@ -454,6 +462,7 @@ def collect_candidates(state, include_seen=False):
                 cand = build_candidate(source, entry)
                 if cand:
                     current.append(cand)
+            print(f"Feed {source['name']}: {len(entries)} entries; {len(current)} relevant.")
 
             # Первый успешный запуск каждого нового источника: только запоминаем текущую ленту.
             # Это защищает от пачки старых новостей после обновления бота.
@@ -491,6 +500,26 @@ def collect_candidates(state, include_seen=False):
             else:
                 kept.setdefault("duplicate_ids", []).append(cand["id"])
     return deduped
+
+
+def queue_candidates(state, fresh):
+    """Keep discovered news across runs, even after it leaves the RSS feed."""
+    sent = set(state.get("sent_ids", []))
+    pending = {
+        item["id"]: dict(item) for item in state.get("pending_news", [])
+        if isinstance(item, dict) and item.get("id") and item["id"] not in sent
+    }
+    for cand in fresh:
+        if cand["id"] in sent:
+            continue
+        previous = pending.get(cand["id"], {})
+        pending[cand["id"]] = dict(cand, published=cand["published"].isoformat(),
+                                   retry_after=previous.get("retry_after", 0))
+    state["pending_news"] = list(pending.values())
+    ready = [dict(item, published=parse_datetime(item["published"]))
+             for item in pending.values() if item.get("retry_after", 0) <= time.time()]
+    ready.sort(key=lambda item: (item["published"], item.get("priority", 0)), reverse=True)
+    return ready
 
 
 def fetch_article_paragraphs(url):
@@ -814,15 +843,19 @@ def main():
         save_state(state)
         return
 
-    candidates = collect_candidates(state, include_seen=False)
+    candidates = queue_candidates(state, collect_candidates(state, include_seen=False))
+    save_state(state)
     recent_titles = [
         x.get("title", "") if isinstance(x, dict) else str(x)
         for x in state.get("recent_titles", [])
     ]
     sent_count = 0
+    started = time.monotonic()
 
-    # Не превращаем один цикл в спам: максимум 8 карточек.
-    for cand in candidates[:8]:
+    # Limit successful cards, so failed translations don't block other sources.
+    for cand in candidates:
+        if sent_count >= 8 or time.monotonic() - started >= 480:
+            break
         if any(title_similarity(cand["title"], old) >= 0.80 for old in recent_titles[-100:]):
             state["sent_ids"].append(cand["id"])
             state["sent_ids"].extend(cand.get("duplicate_ids", []))
@@ -843,9 +876,15 @@ def main():
             time.sleep(0.8)
         except Exception as e:
             print("send failed:", cand["source"], cand["title"], e)
+            for item in state["pending_news"]:
+                if item["id"] == cand["id"]:
+                    item["retry_after"] = int(time.time()) + 300
+                    break
+            save_state(state)
 
     save_state(state)
     print(f"Done. Sent {sent_count} news item(s).")
+    print(f"Pending news: {len(state.get('pending_news', []))} item(s).")
 
 
 if __name__ == "__main__":
