@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "d180bdfd3a1ae791aa1bb01353194b643a8c2a6b",
+      "title": "Новое видео PATRIARCHS IN BLACK",
+      "short": "No More Blood, новое видео PATRIARCHS IN BLACK, доступно для просмотра. Этот трек взят из нового альбома \"To Serve Man\", релиз которого намечен на восьмое января на Metalville",
+      "paragraphs": [
+        "No More Blood, новое видео PATRIARCHS IN BLACK, доступно для просмотра. Этот трек взят из нового альбома \"To Serve Man\", релиз которого намечен на восьмое января на Metalville"
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-10-02T10:45:07+00:00",
+      "original_url": "http://www.darkside.ru/news/184176/",
+      "saved_at": 1790968431,
+      "artists": [],
+      "original_title": "Новое видео PATRIARCHS IN BLACK",
+      "topics": [
+        "releases"
+      ]
+    },
+    {
       "id": "f13075ea89515fca87f029d1b2d7b3127e206a08",
       "title": "Новое видео SEVEN KINGDOMS",
       "short": "Sono Sola, новое видео SEVEN KINGDOMS, доступно для просмотра. Этот трек взят из нового альбома Sono Sola, релиз которого намечен на 29 января: 1. Twin Flames",
@@ -1085,7 +1103,7 @@
         "live"
       ],
       "translation_pending": true,
-      "translation_retry_after": 1790953514
+      "translation_retry_after": 1790971973
     },
     {
       "id": "19bf1e58be96fbdd093ae4ee853b951a33c38437",
@@ -1168,7 +1186,7 @@
       ],
       "topics": [],
       "translation_pending": true,
-      "translation_retry_after": 1790953514
+      "translation_retry_after": 1790971974
     },
     {
       "id": "357246bad44a2080140e6c750bdb286f132d73c1",
