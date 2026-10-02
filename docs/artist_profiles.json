@@ -224,7 +224,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://blacksabbath.com",
       "reference_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
-      "reference_checked_at": "2026-10-02T02:21:51.728673+00:00"
+      "reference_checked_at": "2026-10-02T02:21:51.728673+00:00",
+      "tour_attempted_at": "2026-10-02T14:05:49.489200+00:00"
     },
     "ayreon": {
       "origin": "Waalwijk , North Brabant , Netherlands",
@@ -239,7 +240,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ayreon.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ayreon",
-      "reference_checked_at": "2026-10-02T02:21:51.803463+00:00"
+      "reference_checked_at": "2026-10-02T02:21:51.803463+00:00",
+      "tour_attempted_at": "2026-10-02T14:05:50.807035+00:00"
     },
     "between-the-buried-and-me": {
       "origin": "Raleigh, North Carolina , U.S.",
@@ -553,13 +555,6 @@
       },
       "events": [
         {
-          "date": "2026-10-01",
-          "city": "Cluj",
-          "country": "Romania",
-          "venue": "BT Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
           "date": "2026-10-02",
           "city": "Budapest",
           "country": "Hungary",
@@ -848,9 +843,10 @@
         }
       ],
       "tour_source": "https://deep-purple.com/tour-dates-2/",
-      "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
+      "tour_checked_at": "2026-10-02T14:05:48.300600+00:00",
       "qid": "Q101505",
-      "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a"
+      "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
+      "tour_attempted_at": "2026-10-02T14:05:48.300615+00:00"
     },
     "devin-townsend": {
       "origin": "",
@@ -1802,7 +1798,8 @@
       "tour_source": "https://opeth.com/tour-dates",
       "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
       "qid": "Q18557",
-      "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6"
+      "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
+      "tour_attempted_at": "2026-10-02T14:05:49.199974+00:00"
     },
     "nightwish": {
       "origin": "Kitee , Finland",
