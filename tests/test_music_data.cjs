@@ -11,3 +11,9 @@ const member={...claim({id:'Q2'}),qualifiers:{P580:[{datavalue:{value:{time:'+19
 const result=m.members({id:'Q1',claims:{P527:[member,{...member,rank:'deprecated'}]}},{Q2:{id:'Q2',labels:{en:{value:'Drummer'}},claims:{P1303:[claim({id:'Q3'})]}},Q3:{labels:{en:{value:'drums'}}}});
 assert.equal(result.length,1);assert.equal(result[0].end.text,'2010');assert.equal(result[0].role,'');assert.equal(result[0].instruments,'drums');
 console.log('Music data: exact birthday age, deceased age, partial dates, periods and scoped instruments verified.');
+// Python URL encoding escapes '*'; URLSearchParams keeps it literal.
+// The bundled cache must satisfy the same query without a network request.
+const fs=require('node:fs');const bundled=JSON.parse(fs.readFileSync('docs/music_cache.json','utf8'));
+for(const response of Object.values(bundled))response._retrieved_at=new Date().toISOString();
+m.seed(bundled);global.fetch=async()=>{throw Error('Unexpected HTTP request for cached albums')};
+m.albums('Q162586').then(rows=>{assert.ok(rows.some(a=>a.name==='Images and Words'));console.log('Bundled album cache survives URL encoding differences.');}).catch(e=>{console.error(e);process.exitCode=1});
