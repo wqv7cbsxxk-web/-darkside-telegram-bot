@@ -215,7 +215,14 @@
     "785e6feac6b0b8b793a4a741665c7bd5f35c6685",
     "88c2f9b625dc8ec435523471ea60bb1cf70d3d97",
     "8876d3bfa4db34a3b790566f4edfb3ac2056f31f",
-    "a2eca72dfedde75b3fb4e85cbf20243bb7ac00bd"
+    "a2eca72dfedde75b3fb4e85cbf20243bb7ac00bd",
+    "dcc6e77f66e82d2fe5c2fdbfcfceb0f31bd2c8ff",
+    "40ae4c62e25c005508e50f6b1eb77ebcf4a9f1ef",
+    "eb4dba4ee424aff5ab8df29943019c0a0645cb34",
+    "feb2c8e6ea603f69413201605ef0487e994074df",
+    "2b57b718b23703da38307e2bb12fdbf32406bdd7",
+    "04f389504614efd84f8673164c18f56671a7ce0a",
+    "92dfc7a3cc0d4c178f23b58febe150653a2c60f3"
   ],
   "recent_titles": [
     {
@@ -337,6 +344,36 @@
       "title": "Tom Morello’s ‘Power To The People’ Festival To Be Livestreamed For Free",
       "source": "ThePRP",
       "ts": 1790899776
+    },
+    {
+      "title": "Новое видео FROZEN CROWN",
+      "source": "Darkside",
+      "ts": 1790926436
+    },
+    {
+      "title": "I AM YOUR GOD исполняют SENTENCED",
+      "source": "Darkside",
+      "ts": 1790926438
+    },
+    {
+      "title": "ANTHRAX не думают о пенсии",
+      "source": "Darkside",
+      "ts": 1790926440
+    },
+    {
+      "title": "Новая песня FAKE NAMES",
+      "source": "Darkside",
+      "ts": 1790926454
+    },
+    {
+      "title": "Новое видео COMEBACK KID",
+      "source": "Darkside",
+      "ts": 1790926456
+    },
+    {
+      "title": "JEFF &#039;MANTAS&#039; DUNN почтил память вокалиста VENOM",
+      "source": "Darkside",
+      "ts": 1790926478
     }
   ],
   "initialized_sources": [
@@ -349,5 +386,214 @@
     "Louder",
     "Ultimate Classic Rock"
   ],
-  "state_version": 3
+  "state_version": 3,
+  "pending_news": [
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Metallica Makes Metal History at the Sphere: Pictures, Set List",
+      "link": "https://ultimateclassicrock.com/metallica-sphere-2026-videos-set-list/",
+      "rss_body": "Dave Simpson/WireImage, Getty Images",
+      "tags": "News Set List Metallica UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T07:17:39+00:00",
+      "id": "d221d52a23b9fd4592f27a04382b339c37371ad7",
+      "retry_after": 1790926753
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Watch: Fan-Filmed Footage Emerges Of Metallica’s First Show At The Sphere",
+      "link": "https://www.theprp.com/2026/10/01/news/watch-fan-filmed-footage-emerges-of-metallicas-first-show-at-the-sphere/",
+      "rss_body": "That looks like a memory that will remain",
+      "tags": "News Metallica",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T05:57:16+00:00",
+      "id": "c524362be76448dc962a20664fa389b16dd9c8a2",
+      "retry_after": 1790926756
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Mötley Crüe Close In On Their First Diamond Album In The U.S. With New Wave Of RIAA Certifications",
+      "link": "https://www.theprp.com/2026/10/01/news/motley-crue-close-in-on-their-first-diamond-album-in-the-u-s-with-new-wave-of-riaa-certifications/",
+      "rss_body": "A feelgood moment for them",
+      "tags": "News Motley Crue",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T05:28:42+00:00",
+      "id": "4a489f991567f9ca44724135b6916ae63125268b",
+      "retry_after": 1790926759
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "I Prevail Premiere Sullivan King’s Remix Of “Violent Nature”",
+      "link": "https://www.theprp.com/2026/10/01/news/i-prevail-premiere-sullivan-kings-remix-of-violent-nature/",
+      "rss_body": "\"Sullivan King took it into a new universe with a bold arrangement and a festival-sized EDM assault.\"",
+      "tags": "News I Prevail Sullivan King",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T04:56:29+00:00",
+      "id": "82cd59e97acc2367e4332dc2fdb04fa739a57a55",
+      "retry_after": 1790926759
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Thrown Stream New Song “Unwanted”, Reschedule Initial Dates Of U.S. Tour Due To Visa Issue",
+      "link": "https://www.theprp.com/2026/10/01/news/thrown-stream-new-song-unwanted-reschedule-initial-dates-of-u-s-tour-due-to-visa-issue/",
+      "rss_body": "The band hope to kickoff the trek this weekend",
+      "tags": "News Thrown",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T04:40:18+00:00",
+      "id": "eb16d62e5b2685f09601fd7b08b59c6a0764f06e",
+      "retry_after": 1790926761
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Miss May I Premiere “Bury Me Down” Music Video",
+      "link": "https://www.theprp.com/2026/10/01/news/miss-may-i-premiere-bury-me-down-music-video/",
+      "rss_body": "Their eighth studio album \"No Place For Me\" is also now available",
+      "tags": "News Miss May I",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T04:30:34+00:00",
+      "id": "39a914d40779ee15bf6a654442f52be302d7289d",
+      "retry_after": 1790926761
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Here’s proof that Peter Gabriel is one hero it’s safe to meet",
+      "link": "https://www.loudersound.com/bands-artists/interviews/peter-gabriel-guy-garvey-elbow",
+      "rss_body": "In 2013\n\nElbow\n\nleader Guy Garvey told\n\nProg\n\nhow long he’d been in love with Genesis’ music, and why former lead singer Peter Gabriel was his prog hero.\n\n“My older sister Becky introduced me to\n\nGenesis\n\n. I don’t remember hearing them for the first time; they’ve always been there from my childhood onwards.\n\nAs a very, very small kid, they were my nursery rhymes, really, because of the magical quality and the storytelling nature of the lyrics.\n\nThe dark edge of it didn’t really shock me as a child. I didn’t consider the skewed look at middle England that\n\nPeter Gabriel\n\nwas obsessed with. It was just stories to this beautiful music.\n\nIt’s still magical when I listen to it –\n\nSelling England By The Pound\n\nis probably my favourite album in its entirety.\n\nSo\n\nis my favourite Peter Gabriel solo album. It’s such a significant one for me. My parents divorced when I was 12 and my mum really found some solace in that difficult time through listening to that record.\n\nI remember we’d drive to see my grandparents, which is about an hour’s drive through the hills to the north of Manchester. We became obsessed with the record – it was exactly the right length for the ride.\n\nMy life has taken me all over the place and I’ve met many of my heroes, but the first time I met Peter was when our band did our first album, the first version of\n\nAsleep In The Back\n\n. It was recorded at Real World; what Peter has done for music through his Real World label can’t be quantified.\n\nI met him there and struck up a bit of a friendship with him, which has led to us covering his song\n\nMercy Street\n\n. And he covered Elbow’s\n\nMirrorball\n\nas part of the\n\nScratch My Back\n\nseries.\n\nThat was incredibly intense – hearing that incredible orchestration and hearing him really belting out my lyrics. That was an ambition I didn’t know I had.\n\nI went to see him perform it live. Peter had hired one of the Thames ferries for a little boat party after the gig. He came off stage and, moments later, he was walking toward the boat in a big towel and dressing gown.\n\nAs soon as I introduced him to Becky [who funded Elbow’s debut album and offered moral support as the band struggled to survive], he knew exactly who she was.\n\nHe said: ‘So you’re the one responsible for all this!’ He put his arm around her and chatted to her, and it was the thrill of her life.”",
+      "tags": "Interviews Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T04:19:19+00:00",
+      "id": "e5054f79ebf58e38aeb2aac27e1491de8761e25d",
+      "retry_after": 1790926765
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Here's How Metallica Launched Their First Sphere Show",
+      "link": "https://ultimateclassicrock.com/metallica-sphere-first-song/",
+      "rss_body": "Watch them charge out of the gates with one of their most ferocious tunes.",
+      "tags": "News Metallica Sphere UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T04:17:42+00:00",
+      "id": "6f43b0fcbe02d371a93b1c3fd1f1bcbae7360589",
+      "retry_after": 1790926767
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Nine Glenn Hughes albums you should listen to and one to avoid",
+      "link": "https://www.loudersound.com/music/albums/glenn-hughes-best-albums",
+      "rss_body": "Arguably Cannock, Staffordshire’s most famous son (though he does face strong competition from footballer Stan Collymore and one-time Britain’s Strongest Man Richard Gosling),\n\nGlenn Hughes\n\nhas enjoyed a renaissance in his fortunes in the past couple of decades.\n\nThroughout his career Hughes has been equally blessed and cursed: respectively, with arguably the most distinctive voice in hard rock, and by drug addiction that saw him ricochet from one project to the next with no real cohesion or direction, although almost all were flecked with flashes of brilliance.\n\nImpressively, even during his drug years, he contributed to landmark albums either as a fully fledged band member or bassist/singer for hire. Infamously, while touring with\n\nBlack Sabbath\n\n, with his band due on an LA stage in a matter of hours,\n\nTony Iommi\n\ncouldn’t find the errant Hughes. It turned out that the elusive bass player wasn’t even in the state of California.\n\nSince experiencing some sort of epiphany on Christmas Day 1991, which resulted in him forsaking his cocaine mainstay, Hughes has intensified his work ethic. Despite a self-destructive impulse and years of abuse, he's still blessed with a voice that can straddle funk, soul and rock (sometimes critically to his detriment), but it’s to his eternal credit that he can genuinely say that he sounds absolutely like no one else; vocally he has no peers.\n\nIt was the three albums he recorded as bassist/vocalist with\n\nDeep Purple\n\n(\n\nBurn, Stormbringer, Come Taste The Band\n\n) that brought Hughes international attention and acclaim, but it’s the durability of his extensive catalogue that may turn out to be the cornerstone of his legacy.\n\nFrom his relatively brief tenure with British hard rock quintet\n\nTrapeze\n\n, to the aforementioned hazy days with Deep Purple, through his first solo album, the quite excellent\n\nPlay Me Out\n\n, to the landmark\n\nHughes/Thrall album\n\nyears later – and many people are still waiting breathlessly for its successor. Hughes is equally at home tied to the mast of\n\nThe KLF\n\n’s Viking longboat in the video for\n\nAmerica: What Time Is Love?\n\nor as Tony Iommi’s foil on the 2005\n\nFused\n\nproject.\n\nIn recent years, Hughes has introduced himself to a whole new generation of fans via his work with the\n\nBlack Country Communion\n\n,\n\nCalifornia Breed\n\nand\n\nthe Dead Daisies\n\n. And while he\n\nannounced his retirement from the stage in 2026\n\n, shortly after a show with Matt Sorum's Kings Of Chaos supergroup, we suspect we haven't heard the last of the ever-prolific Mr Hughes.\n\nHughes/Thrall - Hughes/Thrall (Boulevard, 1982)\n\nThough both were vital and vibrant sidemen, no one could have foreseen the impact of Glenn Hughes and Pat Thrall uniting for what still remains a frustratingly elusive one-off. The Hughes/Thrall album still sounds crisp – a rarity for an album recorded four decades ago.\n\nGiven the strength of the songwriting, it could have been made on a wax cylinder and it would still have had the power to startle. With the exhilarating\n\nI Got Your Number\n\n, the tough-as-leather\n\nMuscle And Blood\n\nand the understated take on Trapeze’s\n\nCoast To Coast\n\n, it’s a heady debut, and almost certainly their swansong.\n\nDeep Purple - Burn (EMI/Purple, 1974)\n\nGiven the upheaval in Deep Purple’s personnel (singer\n\nIan Gillan\n\nand bassist Roger Glover had departed, and been replaced by Hughes and a shoe salesman and part-time singer from Yorkshire by the name of\n\nDavid Coverdale\n\n), surprisingly\n\nBurn\n\n– the first release from the new line-up – remains one of the band’s most enduring albums.\n\nIt may have divided their fans with its funkier feel, but Hughes and Coverdale’s combined vocals and the creativity on tracks like\n\nMight Just Take Your Life\n\n,\n\nYou Fool No One\n\nand the title track still guaranteed the album an eager audience.\n\nTrapeze - You Are The Music... We’re Just The Band (Threshold, 1972)\n\nThe third album from Trapeze, and the last that Hughes would play on before he left to replace Roger Glover in Deep Purple, was a more soulful proposition than the hard rock Hughes would become famous for. With jazz, funk, soul and rock influences,\n\nYou Are The Music…\n\nwas the perfect showcase for Hughes’s warm vocal.\n\nHe’s equally at home with the harder-sounding title track or the rattling\n\nKeepin’ Time\n\n, but it’s on the beautifully paced\n\nWhat Is A Woman’s Role\n\nand\n\nCoast To Coast\n\n– with some great sax and vibes work – that the singer really makes the song.\n\nGlenn Hughes - Play Me Out (RPM, 1977)\n\nAfter the fallout from Deep Purple’s break-up, Hughes finished work on an album that he’d been recording intermittently while still touring with the band.\n\nDavid Bowie\n\nwas originally pencilled in to produce (a nice idea that didn’t materialise), and appearances from former Trapeze bandmates Mel Galley and Dave Holland helped Hughes abandon his hard rock leanings almost entirely.\n\nCloser to Motown in feel, Hughes showed how at home he was with funk and soul. Vocally he was rarely better, cruising through a range of rich material like\n\nSoulution, Space High\n\nand the lingering\n\nI Found A Woman\n\n.\n\nIommi - Fused (Sanctuary, 2005)\n\nCriminally overlooked on its release,\n\nFused\n\nsaw Tony Iommi discard the idea of working with a series of guest vocalists as on his self-titled debut in 2000 in favour of forming a trio with Hughes and drummer Kenny Aronoff instead.\n\nThe pair had already worked together in a fitful version of Black Sabbath and on a demo set that became The 1996\n\nDEP Sessions\n\nalbum, but it was with\n\nFused\n\nthat the collaboration came to spectacular fruition. Relentlessly heavy with Hughes in blistering form on songs like\n\nGrace\n\nand\n\nDopamine\n\n, the best is saved for last with the epic\n\nI Go Insane\n\n.\n\nDeep Purple - Stormbringer (EMI/Purple, 1974)\n\nIt’s only a shade over 36 minutes long, but Hughes’s second album with Deep Purple sounds anything but slight. Most notable for giving both the band’s singers their chance in the spotlight – Coverdale must have been far from delighted, originally thinking he was joining the band as lead singer.\n\nHughes shone on the wonderfully understated\n\nHoly Man\n\n, the blistering title track promised a hard rock tour de force, and all in all it was a funkier record than\n\nBurn\n\n; the band’s ever-evolving direction was rumoured to be one of the reasons for finally parting with an exasperated\n\nRitchie Blackmore\n\n.\n\nDeep Purple - Come Taste The Band (EMI/Purple, 1975)\n\nThe last Deep Purple album for the best part of ten years,\n\nStormbringer\n\nwas also the only Purple record that featured guitarist\n\nTommy Bolin\n\n. Bolin, of course, would be dead little more than a year after its release.\n\nIt was considered uneven at best at the time of its release, but over the years the album has grown in stature. Bolin proved himself to be as adept – if not quite as erratically brilliant – as Blackmore, and alongside Hughes and Coverdale he was the perfect foil on songs like\n\nGettin’ Tighter\n\nand the more melodic material like\n\nDealer, Lady Luck\n\nand the expansive\n\nYou Keep On Moving\n\n.\n\nBlack Country Communion - 2 (Mascot, 2011)\n\nThis is clearly less of a ‘project’ than the first BCC disc, and more the real deal. It's what four musicians sound like when you put them in a room and throw away the key, with Hughes contributing more songs than he did on album number one.\n\nHence, swaggering riff-monsters like\n\nMan In The Middle\n\nand\n\nSmokestack Woman\n\n. More impressive still are genuinely stirring soul-searchers like Faithless or the eight-minute epic,\n\nAn Ordinary Son\n\n. The soulful\n\nCrossfire\n\neven veers the band towards prog – in a good way. While not the easiest of albums to embrace on first listen, persevere with\n\nBCC2\n\nand you’ll find it worth the effort.\n\nCalifornia Breed - California Breed (Frontiers, 2014)\n\nOn their only album (so far) Hughes nails his freak flag to a post-Zeppelin juggernaut. He revisits the bluster of BCC’s\n\nAfterglow\n\nand revels in his partnership with Jason Bonham, while showcasing young guitarist Andrew Watt, (now the man behind\n\nOzzy Osbourne\n\n's late-career revival, the Rolling Stones' late-career revival, etc).\n\nThis is ball-busting rock framed by an incredibly busy production, with a big sonic impact and an imposing wall of sound. There’s no denying Hughes’ visceral performance on\n\nSweet Tea\n\n, the burgeoning\n\nChemical Rain\n\n, the sweeping single\n\nMidnight Oil\n\nand the explosive\n\nThe Grey\n\n. Chickenfoot have been here before, but here Hughes realised his own vision.\n\nAnd one to avoid...\n\nGlenn Hughes - A Soulful Christmas (Pink Cloud, 2000)\n\nThe voice of an angel he might have, but it’s hard to forgive Glenn Hughes for this cloying collection of Christmas favourites. Even the sleeve – a grinning Hughes posing next to a vase of unfestive sunflowers, for some reason – grates.\n\nAlthough his vocals are keen and sometimes quite brilliant, it’s still hard to take as Hughes warbles all over\n\nAve Maria\n\nor drones through\n\nO’ Come All Ye Faithful\n\n, and there’s a point during his take on\n\nHave Yourself A Merry Little Christmas\n\nwhere you almost want to beg him to stop. And this from a man who made a song called\n\nGet You Stoned\n\npalatable.",
+      "tags": "Albums Music",
+      "category": "Хард-рок",
+      "published": "2026-10-02T03:14:50+00:00",
+      "id": "ecf32de475f5406bea106d43cbc9dcfcce2b23d3",
+      "retry_after": 1790926777
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Everything in the Metal Injection Store Is Slashed 20% Off for 7 Days",
+      "link": "https://metalinjection.net/news/everything-in-the-metal-injection-store-is-slashed-20-off-for-7-days",
+      "rss_body": "This is just the beginning",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-10-01T17:12:56+00:00",
+      "id": "25cfcf010d47132c62d05d103fd6b4383319ca8b",
+      "retry_after": 1790926779
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "THINGS YOU MAY HAVE MISSED (BUT SHOULDN’T)",
+      "link": "https://www.nocleansinging.com/2026/10/01/things-you-may-have-missed-but-shouldnt-67/",
+      "rss_body": "(Andy Synn has five recently, and one not-so-recently, released recommendations to share with you all today) People sometimes ask me how I stay on top of all the new releases every month, and the answer is… I don’t. Case in point, here’s some of the bands I wanted to write about in September… Profeci, Dreadnought, Trenchwar, Sea\n\n[...]",
+      "tags": "Album Reviews Andy Synn Barren Boötes Void Cyadine False Body Moloken Stench of Sorcery",
+      "category": "Хэви-метал",
+      "published": "2026-10-01T17:05:17+00:00",
+      "id": "c477addc5920dd1b9c11b911e4a5545409ff9630",
+      "retry_after": 1790926782
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "This nearly-invisible prog duo sold 50 million records. How was it done?",
+      "link": "https://www.loudersound.com/bands-artists/biographies/alan-parsons-project-secret-of-success",
+      "rss_body": "The success story of T\n\nhe Alan Parsons Project\n\nis an unlikely one. The duo didn’t look glamorous, they never played live, they wrote progressive, orchestra-heavy suites of music at the height of punk, and hardly anyone knew who they were… and yet they sold 50 million albums. This is how it happened.\n\nTales Of Mystery And Imagination\n\nmay not have made the commercial splash that\n\nAlan Parsons\n\nand Eric Woolfson were hoping for, but a year or two after its release that was all water under the bridge. Why so? Because\n\nClive Davis\n\nof the then-new American label Arista offered them a multi-album deal, eventually issuing a run of nine records that took them through the 70s and all the way up to their split in 1990, making the two men highly respected and highly rewarded for the rest of their careers.\n\nAt the age of 77, Parsons is as busy as ever touring and recording, winning a Grammy in 2019 for a reissue of the Project’s 1982 album\n\nEye In The Sky\n\nand receiving an OBE from Queen Elizabeth II two years later.\n\nSadly, Woolfson passed away in 2009, but his fruitful post-Project career in musical theatre and his ongoing reputation as a songwriter without parallel continue to give his fans and family great pleasure.\n\nMost songwriters and producers fail to achieve half as much as Parsons and Woolfson did. How did fame and fortune come their way, when they did their best to remain out of the limelight?\n\nThe Alan Parsons Project sounded like no other group\n\nAsked why the Project hit such a chord with the public, Parsons reasons: “We succeeded in having an original sound, which I think is unusual, even in the 70s.\n\nTales Of Mystery And Imagination\n\nset the theme for the entire future of the Project, establishing a big-sounding style with lots of orchestra.\n\n“We were, I think, unique in that no other band had ever really done that: it didn’t sound like a band; it sounded like a production. I don’t think people visualised a bunch of long-haired rock’n’rollers when they heard our music. What’s more, I’ve always said that our albums could have been recorded in any order. I think they’re reasonably timeless.”\n\nTheir guest musicians were the best in their fields\n\nPilot, who supplied most of the backing tracks for the Project’s songs over their 14-year career, should not be underestimated. They may have only enjoyed one significant hit under their own name – the Parsons- produced\n\nMagic\n\nfrom 1974 – but as a backing band, they were flawless, restraining their skills most of the time but capable of endless melodic beauty when required.\n\nAs for the guest singers, where do we begin? Over the years the Project benefited immeasurably from the silken larynxes of Allan Clarke and Terry Sylvester of The Hollies, Chris Rainbow of\n\nCamel\n\n, Clare ‘\n\nThe Great Gig In The Sky\n\n’ Torry,\n\nColin Blunstone\n\nof The Zombies,\n\nGary Brooker\n\nof\n\nProcol Harum\n\n, John Miles, Lenny Zakatek of Gonzalez, the actor Peter Straker, Cockney Rebel’s\n\nSteve Harley\n\nand many others.\n\nThe home hi-fi boom\n\nYou may remember the precious laminated-wood stereo system that you (or your dad) installed in the living room in the 70s or 80s. Home hi-fi stacks were a massive status symbol back then –\n\nAbigail’s Party\n\nstyle – and it’s remarkably easy to take the mickey out of the prestige that people assigned to their £200 Sony or Panasonic amp, turntable, equaliser and, after 1982, CD player.\n\nHowever, that domestic access to high-fidelity recordings was perfect for music as precision-engineered as that of the Project. A promo film for Philips compact discs featured Woolfson and Parsons in the studio, discussing the benefits of the new medium.\n\nThey had serious record company backing\n\nThe late Russ Regan of 20th Century Records had vision, but Clive Davis of Arista had vision and a ton of money to invest. Of the former, Ambrosia bassist and fellow Regan signing Joe Puerta reflects: “You have to give Russ credit for having the vision to think that the Project could work. He liked ideas that were a little bit out of the box, and he had a great history for finding talent: he’d signed\n\nElton John\n\nand Neil Diamond.\n\n(Image credit: Getty Images)\n\n“But on this one, he was taking a gamble. The fact that he was a small label with a lot of control helped, because it was a spinoff of the film company, so he signed a lot of people that had been forgotten or just not considered.”\n\nAnd Clive Davis? Any record company exec who had the power to summon Steven Spielberg to a meeting is someone to be reckoned with. As he wrote in his 2013 memoir\n\nThe Soundtrack Of My Life\n\n, the success of the Project’s second album\n\nI Robot\n\nin 1977 gave him a cunning idea. “I asked for a meeting with Spielberg to discuss the music for\n\nClose Encounters Of The Third Kind\n\n.\n\n“I played\n\nI Robot\n\nfor Spielberg and [composer John] Williams, set forth all of the group’s credentials, and asked if there was any way we could incorporate their music into the film. Steven and John were very polite and respectful, but of course there was no way in the world it was going to happen.”\n\nTheir name sounded like the future\n\nThe Alan Parsons Band? The Eric Woolfson Project? The Woolfson-Parsons Collaboration? None of these titles would have worked as well as The Alan Parsons Project, which is a bit unwieldy and sounds a bit like a school science assignment, but has the intended effect of being both enigmatic and scholarly.\n\nAs the years passed, Woolfson expressed mixed opinions about the duo’s official title, but he later came to terms with it, reasoning: “The decision to call it The Alan Parsons Project was mine, based on the fact that although the Project was Alan and I, he had a higher visibility in the industry as a result of having worked with major artists such as\n\nPink Floyd\n\nand\n\nPaul McCartney\n\n. In addition, I ran the business affairs of the venture and was the manager of the entity, and I thought it would be better for that reason not to identify myself too prominently.”\n\nAsked about the title today, Parsons acknowledges it as the reason he became a widely known name. “The name ‘Alan Parsons’ didn’t mean anything before that,” he says. “I was just a line of small print on\n\nThe Dark Side Of The Moon\n\n. Did people really know the name of the guy that produced\n\nMagic\n\nby Pilot,\n\nCome Up And See Me\n\nby Cockney Rebel and\n\nMusic\n\nby John Miles? I’m not so sure they did. The average record buyer would not have known my name until they heard The Alan Parsons Project.”\n\nThey had vision, money, and the vision to spend the money the right way\n\nDrummer Stuart Tosh remembers how had the Project worked: “The mood in the studio was fairly intense, because time is money, and we were trying to get the music down on tape the way Alan and, in particular, Eric wanted it, in as few takes as possible. I can’t remember how many tracks we got done in a day, but I’m sure it was more than one. The general work ethic was, ‘Let’s get on with it.’”\n\nThen again, the musicians played hard as well as worked hard. Parsons: “During the\n\nTales Of Mystery\n\nsessions, Eric and I went to Paris. That was not only a great trip because we managed to get hold of Debussy’s original score for\n\nThe Fall Of The House Of Usher\n\n; but we also went to a restaurant called La Tour d’Argent, where we drank a bottle of Château Mouton Rothschild from 1945. Its label was marked with a V for Victory sign because it had been bottled in the last year of World War II. That bottle cost about £75. You’d probably pay £7,500 for it now!”\n\n(Image credit: Getty Images)\n\nSuch largesse also extended to the musicians, says Tosh: “Eric was a bit of a wine collector and a very generous man. We used to go up to [chic French restaurant] Keats in Hampstead, where the menu was good, but the wine list was exceptional. Bottles would appear on the table, and just as you were ready to leave, more bottles would appear. We’d get back to Abbey Road not particularly capable of doing anything, let alone singing a backing vocal.”\n\nTheir anonymity was an asset, not an obstacle\n\nWhy dress like a rock star anyway? Mike Oldfield didn’t, and look what happened to his first album, 1973’s massive\n\nTubular Bells\n\nº arguably a kindred spirit to\n\nTales Of Mystery And Imagination\n\nin its recipe of studio savant-plus-guests. People knew what Oldfield looked like, though, whereas the average person in the street would be pushed to identify Parsons or Woolfson if you showed them photos.\n\nParsons notes: “My visual imagery was not particularly important to me or anybody else. We were anonymous artists, and it didn’t matter what we looked like. We were just the names behind the music.” This gave them great freedom. Without an image as such, the Project’s music couldn’t be categorised, and without a category there could be no expectations.\n\n“People knew who they were, and there were pictures of them around, but they didn’t need to look like rock stars for the Project to be a success,” says Sally Woolfson, adding: “The ‘Mystery’ part of the first album title really embodies them. The two of them were a bit of an enigma.”\n\nAll of this indicates why demand for APP material remains high after all this time, especially in the surround-sound era. Parsons has remixed several of the albums for Dolby Atmos as part of the reissue series managed by Sally Woolfson; a deluxe box set of\n\nTales\n\nappeared in 2016 with comprehensive notes by\n\nProg\n\neditor Jerry Ewing; and a 50th-anniversary edition is en route from the Cooking Vinyl label.\n\nBut it’s not just prog fans who enjoy the music: the Project transcended its genre decades ago, pulling in listeners from a wider demographic than readers might think. As Sally explains: “I really love the fact that we have a massively increasing younger audience. We’ve doubled our TikTok and Instagram social media figures in recent years, and there’s something like a million new listeners a month. It’s incredible.\n\nEric’s grandchildren sometimes talk about the Project with their peers, and they’re often astonished that more and more of them say, ‘Oh yeah, I know that.’ Now, I never heard that when I was a child. None of my friends knew about the Project, so the fact that young people do now is very pleasing. Dad would have been over the moon about that.”\n\nNot bad for a pair of blokes who never craved the limelight. Sometimes, it pays to let genius speak for itself.\n\nThe Alan Parsons Project book\n\nis due for release this autumn via Rocket 88 and it’s available for pre-order now in Classic and Signature editions.",
+      "tags": "Biographies Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-01T17:00:00+00:00",
+      "id": "5da3ffc36fed1ebf581a093fa07b89f089e74819",
+      "retry_after": 1790926792
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS “PREMIERE”: NOOTHGRUSH — “USELESS”",
+      "link": "https://www.nocleansinging.com/2026/10/01/an-ncs-premiere-noothgrush-useless/",
+      "rss_body": "(written by Islander) My introduction to Oakland’s Noothgrush came in 2011 via Southern Lord’s The Power of the Riff tour, a limited run of west coast dates that marked the band’s return after splitting up in 2001 (and their first show in Seattle since 1997). What I wrote about that show (here) was my best\n\n[...]",
+      "tags": "Premieres Noothgrush",
+      "category": "Прогрессив",
+      "published": "2026-10-01T16:01:13+00:00",
+      "id": "347b62273d7a1b332357d92957d9f8e7f40ac913",
+      "retry_after": 1790926797
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Track Premiere: Rebreather – ‘I Love You With Some Of My Heart’",
+      "link": "https://www.decibelmagazine.com/2026/10/01/track-premiere-rebreather-i-love-you-with-some-of-my-heart/",
+      "rss_body": "Rebreather\n\nare releasing\n\nChaos Patterns,\n\nOctober 30 via\n\nAqualamb Records\n\n. Check out the track “I Love You With Some Of My Heart” ahead of the release.\n\n“The whole structure of ‘I Love You With Some of My Heart’ is basically a map of an anxiety attack … the rumbling feedback building up in the beginning leading to the 1 2 3 4 5, 1 2 3 4 5, 1 2 3 4 5 cyclical panic thoughts,” the bad say. “The pounding breaks through out the song are the attempts at distracting yourself, and the big riff in the middle and end is the relief of finally getting to the other side.”\n\nFormed in 1999, Rebreather emerged from doom and sludge but never fit comfortably inside it—drawing on the thunder of Floor and Cavity, the nervous energy of Barkmarket, the melodic rumble of Hum, while building a language of their own: detailed melody buried inside overwhelming force, dissonance capable of becoming beautiful, vulnerability surviving inside music designed to overwhelm. Call it cave pop. Call it organized chaos. On\n\nChaos Patterns\n\n, those contradictions finally become inseparable.\n\nChaos Patterns arrives October 30 on Aqualamb. Mixed By Andrew Schneider, Recorded By Josh Roman, Mastered by Carl Saff, Artwork Mike Egan.\n\nGet the album here",
+      "tags": "Exclusive Streaming Aqualamb Records Chaos Patterns I Love You With Some Of My Heart Rebreather",
+      "category": "Хэви-метал",
+      "published": "2026-10-01T16:00:13+00:00",
+      "id": "a9c0ff61a39f06cee5b4e322d9b2edcaf2ac2fd6",
+      "retry_after": 1790926798
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Venom Frontman Conrad “Cronos” Lant Passes Away at 63",
+      "link": "https://www.decibelmagazine.com/2026/10/01/venom-frontman-conrad-cronos-lant-passes-away-at-63/",
+      "rss_body": "Every metalhead has their origin story. This is mine. In the mid-1980s, a friend called from an old landline. They told me about a new band that was heavier than anything we’d heard. They turned on an old cassette deck, inserted a tape, and pressed play. My father was in the other room. Despite the hiss and the phone connection, I heard\n\nVenom\n\n’s “Buried Alive.” The die was cast; that phone call changed my life.\n\nThat moment set off a quest to find the heaviest, strangest, and darkest music I could. I combed record stores and found the old Venom cassettes from Neat Records. I ordered Venom’s\n\nManitou\n\nEP. I played the unholy triumvirate of\n\nWelcome to Hell\n\n,\n\nBlack Metal\n\n, and\n\nAt War With Satan\n\nnonstop. Decades later, I know that many had the same experience. Even today, listeners have a similar awakening when they stumble across Venom online.\n\nConrad “Cronos” Lant\n\n, the voice and bassist behind the classic Venom albums and many that followed, died on October 1 at 63. Despite their austere beginning, Lant and his bandmates are three of the pivotal figures in metal history. Venom’s earliest work found its way around the globe to young metalheads like James Hetfield, Tom Gabriel Warrior and, a decade later, kids exploring dark sounds in Scandinavia. The albums landed with fans in America, Japan, Chile, Mexico and elsewhere. When I discovered Venom, I thought I was the only person who knew the band. It turned out there were hundreds of thousands of us, if not more.\n\nLant wasn’t Venom’s original vocalist—Clive Archer was. When Archer left the band before a gig at a church, Venom settled on the classic trio of Lant, guitarist Jeff “Mantas” Dunn, and Tony “Abaddon”  Bray. Venom didn’t take long to turn heads. Lant was learning a trade through a British government program and worked at Neat Records. He kept bugging studio owner David Wood to record his new band; Wood finally relented and recorded their first single,\n\nIn League With Satan/Live Like an Angel\n\nin 1981. The single took off. From there, Venom recorded\n\nWelcome to Hell\n\nand upended metal.\n\nIt’s impossible to underestimate what Lant, Dunn, and Bray did collectively to change metal’s course. Venom is perhaps best known as the band that took the Satanic imagery already present in the genre and pushed it past all boundaries of taste and acceptability. They also did something far more important; they democratized the music for future generations. Until the early 80s, large studios controlled the sound of what is now considered metal. Venom and Lant’s brash independence and can-do ethos—which shares a similar story to punk—seeded countless underground bands and a few bands that pack arenas. Lant’s unhinged, guttural vocals also became an early blueprint for extreme vocals, from black metal to death metal.\n\nLant and Venom’s story continued long after their pivotal albums. In the 21st century, Lant continued to record and tour as Venom, while his former bandmates Dunn and Bray launched Venom, Inc. and most recently performed under their nicknames. Despite making music together that changed metal—if not our world to a certain extent—they never reunited or even reconciled. “We are estranged,” Dunn told\n\nDecibel\n\nin a\n\nstory on the 40th anniversary\n\nof\n\nWelcome to Hell\n\n. “I think it’s very sad. There isn’t bitterness as much as disappointment. Conrad and I used to be very close.” Because of this strife,\n\nDecibel\n\ncouldn’t induct\n\nAt War With Satan\n\ninto its Hall of Fame with the first two albums.\n\nIt’s sad that Venom’s founders couldn’t appreciate what they created together. But nothing could ever diminish how Venom shaped metal music. I am writing these words today because of how I felt the first time I heard Lant and Venom. Lant’s pivotal works with Venom are a perennial lesson in how grit and energy trump virtuosity every time and a benchmark for every backyard metal band looking to make a difference. Lant wasn’t just a singer in a band. His voice heralded a revolution in underground music, helped countless teenagers survive adolescence, and paved the road for every metal album that followed. We will raise the dead!",
+      "tags": "Breaking News black metal Conrad Lant Cronos home featured R.I.P. Venom Welcome To Hell",
+      "category": "Экстремальный метал",
+      "published": "2026-10-01T15:43:54+00:00",
+      "id": "5887a810910a6b6d6c08d2260a2612137dcbdc70",
+      "duplicate_ids": [
+        "b8e6983fe841c996d4c77488be5e6dfc41622b10"
+      ],
+      "retry_after": 1790926802
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Venom Frontman Cronos Dead at 63",
+      "link": "https://metalinjection.net/news/venom-founder-cronos-dead-at-63",
+      "rss_body": "Today, black metal band Venom revealed on social media that founder and bassist Cronos, has died. In",
+      "tags": "Latest News venom featured1",
+      "category": "Экстремальный метал",
+      "published": "2026-10-01T15:34:25+00:00",
+      "id": "f9d084fa99db7cff6f1bfa766926b58683768fde",
+      "retry_after": 1790926802
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "'Guitar Hero' Successor 'Stage Tour' Adds Dream Theater, More to Soundtrack",
+      "link": "https://metalinjection.net/news/guitar-hero-successor-stage-tour-adds-dream-theater-more-to-soundtrack",
+      "rss_body": "The spiritual successor to Guitar Hero stacks the soundtrack even further",
+      "tags": "Latest News stage tour",
+      "category": "Прогрессив",
+      "published": "2026-10-01T15:18:06+00:00",
+      "id": "1f015c5a80b88913c42e03b55e82204b7216bf13",
+      "retry_after": 1790926803
+    }
+  ]
 }
