@@ -28,5 +28,5 @@ The UI does not imply permanently downloaded or offline copies.
 Python tests cover boundaries, multiple artists, Russian aliases, original
 English headings and topic classification. Node tests execute the actual inline
 Mini App script and verify intact articles, favorite persistence, artist and
-event filters. Browser checks cover mobile navigation, favorite selection and
+event filters. Browser checks cover navigation, favorite selection and
 reload, saved stories and the complete six-track Darkside article.

@@ -68,7 +68,7 @@ if(view==='band'){$('bandHero').append(node('div',isFavorite(band.id)?'В тво
 if(view==='bands'){
 const filtered=allBands().filter(b=>norm([b.name,...(b.aliases||[])].join(' ')).includes(norm(query))).sort((a,b)=>Number(isFavorite(b.id))-Number(isFavorite(a.id))||a.name.localeCompare(b.name));
 $('resultCount').textContent=`Избрано: ${prefs.favorites.length} · Найдено групп: ${filtered.length}`;
-for(const b of filtered){const row=node('div',undefined,'band-row');const name=button(b.name,()=>openBand(b),'band-title');name.append(node('small',`${articles.filter(a=>artistList(a).some(x=>x.id===b.id)).length} материалов`));row.append(name,star(b));$('list').append(row);}
+for(const b of filtered){const row=node('div',undefined,'band-row');const name=button(b.name,()=>openBand(b),'band-title');name.append(node('small',`Материалов: ${articles.filter(a=>artistList(a).some(x=>x.id===b.id)).length}`));row.append(name,star(b));$('list').append(row);}
 if(query.trim()&&!allBands().some(b=>norm(b.name)===norm(query))){const name=query.trim().slice(0,80);const add=button(`Добавить «${name}»`,()=>{const b={id:'custom:'+norm(name),name};prefs.custom.push(b);prefs.favorites.push(b.id);persist();query='';$('search').value='';renderBrowse();});$('list').append(add,node('p','Для своей группы поиск идёт по точному названию в тексте новости.','muted'));}
 return;}
 const selected=selectArticles(articles,{view,topic,band,query});$('resultCount').textContent=`Материалов: ${selected.length}`;
