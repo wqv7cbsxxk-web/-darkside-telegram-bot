@@ -1,0 +1,33 @@
+name: Refresh music reference cache
+on:
+  schedule:
+    - cron: '27 3 * * 0'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: metal-news-aggregator
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python refresh_music_cache.py
+      - name: Save public cache
+        run: |
+          if [[ -n "$(git status --porcelain -- docs/music_cache.json docs/artist_profiles.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/music_cache.json docs/artist_profiles.json
+            git commit -m "Refresh source-backed music reference cache"
+            git push
+          fi

@@ -844,7 +844,9 @@
         }
       ],
       "tour_source": "https://deep-purple.com/tour-dates-2/",
-      "tour_checked_at": "2026-10-02T02:29:28.923484+00:00"
+      "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
+      "qid": "Q101505",
+      "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a"
     },
     "devin-townsend": {
       "origin": "",
@@ -923,7 +925,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://dreamtheater.net",
       "reference_url": "https://en.wikipedia.org/wiki/Dream_Theater",
-      "reference_checked_at": "2026-10-02T02:22:19.166251+00:00"
+      "reference_checked_at": "2026-10-02T02:22:19.166251+00:00",
+      "qid": "Q162586",
+      "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d"
     },
     "enter-shikari": {
       "origin": "St Albans , Hertfordshire , England",
@@ -1792,7 +1796,9 @@
         }
       ],
       "tour_source": "https://opeth.com/tour-dates",
-      "tour_checked_at": "2026-10-02T02:29:28.923484+00:00"
+      "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
+      "qid": "Q18557",
+      "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6"
     },
     "nightwish": {
       "origin": "Kitee , Finland",
@@ -2707,7 +2713,9 @@
         }
       ],
       "tour_source": "https://wittr.com/",
-      "tour_checked_at": "2026-10-02T02:36:41.817985+00:00"
+      "tour_checked_at": "2026-10-02T02:36:41.817985+00:00",
+      "qid": "Q763887",
+      "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb"
     },
     "carcass": {
       "origin": "Liverpool , England",

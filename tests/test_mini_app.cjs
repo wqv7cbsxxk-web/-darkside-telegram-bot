@@ -35,5 +35,6 @@ async function boot(article=null){
  app.openBand({id:'opeth',name:'Opeth'});sections.find(s=>s.dataset.bandSection==='members').events.click();assert.ok(nodes.get('bandInfo').children.some(c=>c.children?.some(v=>v.textContent==='Mikael Åkerfeldt')));
  app.openBand({id:'deep-purple',name:'Deep Purple'});sections.find(s=>s.dataset.bandSection==='tour').events.click();assert.ok(nodes.get('bandInfo').children.length>10);
  sections.find(s=>s.dataset.bandSection==='where').events.click();assert.ok(nodes.get('bandInfo').children.some(c=>String(c.textContent).includes('Фактическое местоположение')));
+ app.toggleBlocked('wolves-in-the-throne-room');assert.equal(app.selectArticles(data.articles).some(a=>a.original_url.endsWith('/184168/')),false);assert.equal(app.preferences.favorites.includes('wolves-in-the-throne-room'),false);const blockedRestart=await boot();assert.ok(blockedRestart.app.preferences.blocked.includes('wolves-in-the-throne-room'));app.toggleFavorite('wolves-in-the-throne-room');assert.equal(app.preferences.blocked.includes('wolves-in-the-throne-room'),false);
  console.log('Mini App: full articles, favorites persistence, band pages, event filters and empty feed verified.');
 })().catch(e=>{console.error(e);process.exitCode=1});

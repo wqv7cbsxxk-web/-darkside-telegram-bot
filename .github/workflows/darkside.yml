@@ -42,6 +42,7 @@ jobs:
         run: |
           python -m unittest discover -s tests -v
           node tests/test_mini_app.cjs
+          node tests/test_music_data.cjs
 
       - name: Run aggregator
         env:
@@ -67,8 +68,11 @@ jobs:
 
       - name: Refresh public artist profiles
         if: success()
+        env:
+          SETLIST_FM_API_KEY: ${{ secrets.SETLIST_FM_API_KEY }}
         run: |
           python refresh_artist_profiles.py --limit 6 --budget 40
+          python refresh_setlists.py
           if [[ -n "$(git status --porcelain -- docs/artist_profiles.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
