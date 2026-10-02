@@ -375,7 +375,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://cannibalcorpse.net",
       "reference_url": "https://en.wikipedia.org/wiki/Cannibal_Corpse",
-      "reference_checked_at": "2026-10-02T02:22:02.532849+00:00"
+      "reference_checked_at": "2026-10-02T02:22:02.532849+00:00",
+      "tour_attempted_at": "2026-10-02T23:00:27.578664+00:00"
     },
     "dark-tranquillity": {
       "origin": "Billdal , Gothenburg , Sweden",
@@ -410,7 +411,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://darktranquillity.com",
       "reference_url": "https://en.wikipedia.org/wiki/Dark_Tranquillity",
-      "reference_checked_at": "2026-10-02T02:22:02.611122+00:00"
+      "reference_checked_at": "2026-10-02T02:22:02.611122+00:00",
+      "tour_attempted_at": "2026-10-02T23:00:28.392130+00:00"
     },
     "darkthrone": {
       "origin": "Kolbotn , Akershus , Norway",
@@ -456,7 +458,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://deftones.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deftones",
-      "reference_checked_at": "2026-10-02T02:22:08.129081+00:00"
+      "reference_checked_at": "2026-10-02T02:22:08.129081+00:00",
+      "tour_attempted_at": "2026-10-02T23:00:29.122926+00:00"
     },
     "death": {
       "origin": "Altamonte Springs, Florida , U.S.",
@@ -466,7 +469,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://emptywords.org",
       "reference_url": "https://en.wikipedia.org/wiki/Death_%28metal_band%29",
-      "reference_checked_at": "2026-10-02T02:22:08.222417+00:00"
+      "reference_checked_at": "2026-10-02T02:22:08.222417+00:00",
+      "tour_attempted_at": "2026-10-02T23:00:29.754309+00:00"
     },
     "def-leppard": {
       "origin": "Sheffield , England",
