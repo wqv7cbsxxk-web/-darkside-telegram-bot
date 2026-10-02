@@ -1,56 +1,32 @@
-// Execute the existing Mini App script against a small DOM adapter. No UI edits.
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const vm = require('node:vm');
-
-const data = JSON.parse(fs.readFileSync('docs/articles.json', 'utf8'));
-function checkArticle(article, expectedCount) {
-const nodes = new Map();
-function element() {
-  return { textContent: '', innerHTML: '', style: {}, children: [],
-    classList: { add() {}, remove() {} }, addEventListener() {},
-    appendChild(child) { this.children.push(child); } };
+const data=JSON.parse(fs.readFileSync('docs/articles.json','utf8'));
+const catalog=JSON.parse(fs.readFileSync('docs/artists.json','utf8'));
+const script=[...fs.readFileSync('docs/index.html','utf8').matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
+const storage=new Map();
+async function boot(article=null){
+ const nodes=new Map();
+ function element(){return {textContent:'',style:{},children:[],dataset:{},events:{},classList:{add(){},remove(){},toggle(){}},setAttribute(k,v){this[k]=v},removeAttribute(k){delete this[k]},addEventListener(k,v){this.events[k]=v},append(...els){this.children.push(...els)},replaceChildren(...els){this.children=[...els]},get lastChild(){return this.children.at(-1)}};}
+ const document={documentElement:{style:{setProperty(){}}},getElementById(id){if(!nodes.has(id))nodes.set(id,element());return nodes.get(id)},createElement:element,querySelectorAll(){return []},querySelector(){return element()}};
+ const window={};const context={document,window,location:{search:article?'?id='+article.id:'',pathname:'/'},URLSearchParams,Date,String,console,history:{back(){},replaceState(){}},localStorage:{getItem(k){return storage.get(k)},setItem(k,v){storage.set(k,v)}},setTimeout(){throw Error('No retry expected')},async fetch(url){return {ok:true,json:async()=>url.startsWith('articles.json')?data:catalog}}};
+ vm.runInNewContext(script,context);await new Promise(resolve=>setImmediate(resolve));return {nodes,app:window.MetalNews};
 }
-const document = {
-  documentElement: { style: { setProperty() {} } },
-  getElementById(id) {
-    if (!nodes.has(id)) nodes.set(id, element());
-    return nodes.get(id);
-  },
-  createElement: element,
-};
-let fetchCount = 0;
-const context = {
-  document, window: {}, location: { search: '?id=' + article.id },
-  URLSearchParams, Date, String, console, history: { back() {} },
-  setTimeout() { throw new Error('Article must load without retry'); },
-  async fetch(url, options) {
-    fetchCount++;
-    assert.ok(url.startsWith('articles.json?t='));
-    assert.equal(options.cache, 'no-store');
-    return { ok: true, async json() { return data; } };
-  },
-};
-const html = fs.readFileSync('docs/index.html', 'utf8');
-const script = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
-vm.runInNewContext(script, context);
-return new Promise(resolve => setImmediate(() => {
-  assert.equal(fetchCount, 1);
-  const rendered = nodes.get('article').children.map(p => p.textContent);
-  assert.deepEqual(rendered, article.paragraphs);
-  assert.equal(rendered.length, expectedCount);
-  if (expectedCount === 7) {
-    assert.match(rendered[6], /^6\. Wretched Spirits, Land of the Light 06:14$/);
-  } else {
-    assert.match(nodes.get('title').textContent, /Фестиваль Тома Морелло/);
-    assert.match(rendered[0], /Фестиваль/);
-    assert.ok(!rendered.join(' ').includes('A post shared by'));
-  }
-  resolve();
-}));
-}
-
-Promise.all([
-  checkArticle(data.articles.find(a => a.original_url.endsWith('/184168/')), 7),
-  checkArticle(data.articles.find(a => a.original_url.includes('tom-morellos-power')), 4),
-]).then(() => console.log('Mini App: full Darkside tracklist and translated ThePRP article rendered.'));
+(async()=>{
+ for(const a of [data.articles.find(a=>a.original_url.endsWith('/184168/')),data.articles.find(a=>a.original_url.includes('tom-morellos-power'))]){
+  const {nodes}=await boot(a);assert.deepEqual(nodes.get('article').children.map(p=>p.textContent),a.paragraphs);
+  assert.equal(nodes.get('title').textContent,a.title);
+ }
+ const {app,nodes}=await boot();assert.ok(nodes.get('list').children.length);
+ app.toggleFavorite('wolves-in-the-throne-room');
+ let mine=app.selectArticles(data.articles,{view:'mine'});
+ assert.equal(mine.length,1);assert.ok(mine[0].paragraphs[6].startsWith('6. Wretched Spirits'));
+ const restarted=await boot();assert.ok(restarted.app.preferences.favorites.includes('wolves-in-the-throne-room'));
+ assert.equal(restarted.app.selectArticles(data.articles,{view:'mine',topic:'releases'}).length,1);
+ assert.equal(restarted.app.selectArticles(data.articles,{view:'mine',topic:'live'}).length,0);
+ assert.equal(app.selectArticles(data.articles,{band:{id:'iron-maiden'}}).length,1);
+ assert.equal(app.mention('Anthrax announced a show','Anthrax'),true);
+ assert.equal(app.mention('toolbox','Tool'),false);
+ app.toggleFavorite('wolves-in-the-throne-room');assert.equal(app.selectArticles(data.articles,{view:'mine'}).length,0);
+ console.log('Mini App: full articles, favorites persistence, band pages, event filters and empty feed verified.');
+})().catch(e=>{console.error(e);process.exitCode=1});

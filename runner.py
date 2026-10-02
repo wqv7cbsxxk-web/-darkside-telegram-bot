@@ -7,6 +7,7 @@ from pathlib import Path
 from urllib.parse import quote, urlsplit
 
 import bot
+from article_index import index_article
 
 # Metal News v5 text layer.
 # Telegram receives a short preview; Mini App receives the complete useful article text.
@@ -368,7 +369,7 @@ def prepare_article(cand):
     article = _base_prepare_article(cand)
     if _article_translation_failed:
         raise TranslationUnavailable("Article translation incomplete; retry on a later run")
-    return article
+    return index_article(article, cand['title'])
 
 
 bot.prepare_article = prepare_article
@@ -397,7 +398,7 @@ def retry_saved_translations(limit=2):
         if attempts >= limit or time.time() < article.get("translation_retry_after", 0):
             continue
         attempts += 1
-        cand = {"id": article["id"], "title": article["title"], "source": article["source"],
+        cand = {"id": article["id"], "title": article.get("original_title", article["title"]), "source": article["source"],
                 "category": article["category"], "link": article["original_url"],
                 "published": bot.parse_datetime(article["published"]),
                 "rss_body": "\n\n".join(article["paragraphs"])}
@@ -407,7 +408,7 @@ def retry_saved_translations(limit=2):
             print("Saved article translation pending:", article["id"], exc)
             article["translation_retry_after"] = int(time.time()) + 3600
             continue
-        article.update({key: result[key] for key in ("title", "short", "paragraphs")})
+        article.update({key: result[key] for key in ("title", "short", "paragraphs", "artists", "topics", "original_title")})
         article.pop("translation_pending", None)
         article.pop("translation_retry_after", None)
     if changed:

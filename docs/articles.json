@@ -14,7 +14,48 @@
       "source": "ThePRP",
       "published": "2026-10-01T17:58:55+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/tom-morellos-power-to-the-people-festival-to-be-livestreamed-for-free/",
-      "saved_at": 1790899775
+      "saved_at": 1790899775,
+      "artists": [
+        {
+          "id": "anthrax",
+          "name": "Anthrax"
+        },
+        {
+          "id": "black-sabbath",
+          "name": "Black Sabbath"
+        },
+        {
+          "id": "foo-fighters",
+          "name": "Foo Fighters"
+        },
+        {
+          "id": "pearl-jam",
+          "name": "Pearl Jam"
+        },
+        {
+          "id": "rage-against-the-machine",
+          "name": "Rage Against The Machine"
+        },
+        {
+          "id": "soundgarden",
+          "name": "Soundgarden"
+        },
+        {
+          "id": "system-of-a-down",
+          "name": "System Of A Down"
+        },
+        {
+          "id": "the-pretty-reckless",
+          "name": "The Pretty Reckless"
+        },
+        {
+          "id": "tom-morello",
+          "name": "Tom Morello"
+        }
+      ],
+      "topics": [
+        "live"
+      ]
     },
     {
       "id": "8876d3bfa4db34a3b790566f4edfb3ac2056f31f",
@@ -31,7 +72,20 @@
       "source": "ThePRP",
       "published": "2026-10-01T18:16:23+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/blind-channel-recruit-of-mice-mens-aaron-pauley-for-new-song-into-the-void/",
-      "saved_at": 1790899765
+      "saved_at": 1790899765,
+      "artists": [
+        {
+          "id": "blind-channel",
+          "name": "Blind Channel"
+        },
+        {
+          "id": "of-mice-men",
+          "name": "Of Mice & Men"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "88c2f9b625dc8ec435523471ea60bb1cf70d3d97",
@@ -57,7 +111,26 @@
       "source": "Darkside",
       "published": "2026-10-01T18:35:29+00:00",
       "original_url": "http://www.darkside.ru/news/184175/",
-      "saved_at": 1790899755
+      "saved_at": 1790899755,
+      "artists": [
+        {
+          "id": "i-am-morbid",
+          "name": "I Am Morbid"
+        },
+        {
+          "id": "morbid-angel",
+          "name": "Morbid Angel"
+        },
+        {
+          "id": "napalm-death",
+          "name": "Napalm Death"
+        },
+        {
+          "id": "terrorizer",
+          "name": "Terrorizer"
+        }
+      ],
+      "topics": []
     },
     {
       "id": "785e6feac6b0b8b793a4a741665c7bd5f35c6685",
@@ -70,7 +143,14 @@
       "source": "Metal Injection",
       "published": "2026-10-01T20:36:37+00:00",
       "original_url": "https://metalinjection.net/news/enter-shikari-announce-indefinite-hiatus-at-end-of-2027-say-theyre-not-splitting-up",
-      "saved_at": 1790899753
+      "saved_at": 1790899753,
+      "artists": [
+        {
+          "id": "enter-shikari",
+          "name": "Enter Shikari"
+        }
+      ],
+      "topics": []
     },
     {
       "id": "b2e9c853e4443ef946197d966b41fc0e94e9a5a0",
@@ -128,7 +208,30 @@
       "source": "Louder",
       "published": "2026-10-01T21:00:00+00:00",
       "original_url": "https://www.loudersound.com/bands-artists/cardio-corpse-paint-and-carolina-reapers-venom-frontman-cronos-on-his-brilliantly-bizarre-double-life",
-      "saved_at": 1790899751
+      "saved_at": 1790899751,
+      "artists": [
+        {
+          "id": "jethro-tull",
+          "name": "Jethro Tull"
+        },
+        {
+          "id": "metallica",
+          "name": "Metallica"
+        },
+        {
+          "id": "motorhead",
+          "name": "Motörhead"
+        },
+        {
+          "id": "slayer",
+          "name": "Slayer"
+        },
+        {
+          "id": "venom",
+          "name": "Venom"
+        }
+      ],
+      "topics": []
     },
     {
       "id": "178aecb4315e43411c67479b63ea114104f49c14",
@@ -146,7 +249,14 @@
       "source": "ThePRP",
       "published": "2026-10-01T21:46:23+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/halestorms-lzzy-hale-speaks-out-against-sexual-abusers-in-the-wake-of-reopened-cornell-university-gang-rape-case/",
-      "saved_at": 1790899684
+      "saved_at": 1790899684,
+      "artists": [
+        {
+          "id": "halestorm",
+          "name": "Halestorm"
+        }
+      ],
+      "topics": []
     },
     {
       "id": "01f847d30c863b0d7b8d01b1d1d8999fbfcec1b6",
@@ -159,7 +269,16 @@
       "source": "ThePRP",
       "published": "2026-10-01T21:56:23+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/descapes-true-colors-music-video-debuts/",
-      "saved_at": 1790899671
+      "saved_at": 1790899671,
+      "artists": [
+        {
+          "id": "descape",
+          "name": "Descape"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "e072ed442a11e8590fcd9ea34106236d182e6100",
@@ -175,7 +294,20 @@
       "source": "ThePRP",
       "published": "2026-10-01T23:03:54+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/kid-rock-announces-his-new-christian-album-halfway-2-jesus-eminem-guests/",
-      "saved_at": 1790899667
+      "saved_at": 1790899667,
+      "artists": [
+        {
+          "id": "eminem",
+          "name": "Eminem"
+        },
+        {
+          "id": "kid-rock",
+          "name": "Kid Rock"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "d910deaf51094257b3a6c4e84e8a94466d840482",
@@ -202,7 +334,16 @@
       "source": "Darkside",
       "published": "2026-10-01T19:00:11+00:00",
       "original_url": "http://www.darkside.ru/news/184165/",
-      "saved_at": 1790886531
+      "saved_at": 1790886531,
+      "artists": [
+        {
+          "id": "the-rolling-stones",
+          "name": "The Rolling Stones"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "2a1cc45a2f8db6e69e072082eab866ffc70ae3bd",
@@ -234,7 +375,14 @@
       "source": "Darkside",
       "published": "2026-10-01T19:28:48+00:00",
       "original_url": "http://www.darkside.ru/news/184181/",
-      "saved_at": 1790886524
+      "saved_at": 1790886524,
+      "artists": [
+        {
+          "id": "venom",
+          "name": "Venom"
+        }
+      ],
+      "topics": []
     },
     {
       "id": "ae5cbd8bd8fdc263979aafc91068ee7a1fe1c3db",
@@ -250,7 +398,14 @@
       "source": "Louder",
       "published": "2026-10-01T20:00:00+00:00",
       "original_url": "https://www.loudersound.com/news/halestorm-lzzy-hale-speaks-out-sexual-assault-cornell-university-rape-investigation-2026",
-      "saved_at": 1790886523
+      "saved_at": 1790886523,
+      "artists": [
+        {
+          "id": "halestorm",
+          "name": "Halestorm"
+        }
+      ],
+      "topics": []
     },
     {
       "id": "8b4dfe2d0ac36e44f6345f93add96dd45e2c4140",
@@ -282,7 +437,16 @@
       "source": "Darkside",
       "published": "2026-10-01T20:00:06+00:00",
       "original_url": "http://www.darkside.ru/news/184166/",
-      "saved_at": 1790886511
+      "saved_at": 1790886511,
+      "artists": [
+        {
+          "id": "grave-digger",
+          "name": "Grave Digger"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "0e367268b3d30e0b7f36c28e71e819443028a8fd",
@@ -298,7 +462,9 @@
       "source": "Ultimate Classic Rock",
       "published": "2026-10-01T20:05:56+00:00",
       "original_url": "https://ultimateclassicrock.com/michael-mcdonald-long-lost-son-2026/",
-      "saved_at": 1790886509
+      "saved_at": 1790886509,
+      "artists": [],
+      "topics": []
     },
     {
       "id": "7449bdc3cf880c5d90871545d2f765fdd0fd3759",
@@ -333,7 +499,16 @@
       "source": "Darkside",
       "published": "2026-10-01T20:45:24+00:00",
       "original_url": "http://www.darkside.ru/news/184177/",
-      "saved_at": 1790886498
+      "saved_at": 1790886498,
+      "artists": [
+        {
+          "id": "immortal",
+          "name": "Immortal"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "70f032a82cf167a368c172a0d52fc51b1162bee5",
@@ -356,7 +531,16 @@
       "source": "Darkside",
       "published": "2026-10-01T21:35:02+00:00",
       "original_url": "http://www.darkside.ru/news/184167/",
-      "saved_at": 1790886497
+      "saved_at": 1790886497,
+      "artists": [
+        {
+          "id": "shogun-mojo",
+          "name": "Shogun Mojo"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "3456de6aa381b0361166481263778a0c0e34e0b6",
@@ -375,7 +559,16 @@
       "source": "Darkside",
       "published": "2026-10-01T22:02:25+00:00",
       "original_url": "http://www.darkside.ru/news/184168/",
-      "saved_at": 1790886489
+      "saved_at": 1790886489,
+      "artists": [
+        {
+          "id": "wolves-in-the-throne-room",
+          "name": "Wolves In The Throne Room"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "b9956ea800661d9e3bf4a074af1eda353317207d",
@@ -391,7 +584,9 @@
       "source": "Metal Injection",
       "published": "2026-10-01T18:19:15+00:00",
       "original_url": "https://metalinjection.net/news/lzzy-hale-slams-alleged-cornell-7-gang-rape-you-are-not-a-promising-young-man",
-      "saved_at": 1790884737
+      "saved_at": 1790884737,
+      "artists": [],
+      "topics": []
     },
     {
       "id": "f708c69cc3a06257909e72d019a8b4362056230d",
@@ -410,7 +605,16 @@
       "source": "ThePRP",
       "published": "2026-10-01T18:32:42+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/thrices-dustin-kensrue-announces-his-holidays-album-that-spirit-of-christmas/",
-      "saved_at": 1790884732
+      "saved_at": 1790884732,
+      "artists": [
+        {
+          "id": "thrice",
+          "name": "Thrice"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "37706a531f8f96998de724a1d1a866dc7a7db010",
@@ -423,7 +627,16 @@
       "source": "ThePRP",
       "published": "2026-10-01T18:41:32+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/pro-shot-footage-of-static-dress-2026-outbreak-festival-set-released/",
-      "saved_at": 1790884724
+      "saved_at": 1790884724,
+      "artists": [
+        {
+          "id": "static-dress",
+          "name": "Static Dress"
+        }
+      ],
+      "topics": [
+        "live"
+      ]
     },
     {
       "id": "095733533d030a652783212fa07d9305cc9388cc",
@@ -439,7 +652,28 @@
       "source": "Ultimate Classic Rock",
       "published": "2026-10-01T18:59:27+00:00",
       "original_url": "https://ultimateclassicrock.com/iron-maiden-us-tour-closer-review-set-list-photos/",
-      "saved_at": 1790884719
+      "saved_at": 1790884719,
+      "artists": [
+        {
+          "id": "anthrax",
+          "name": "Anthrax"
+        },
+        {
+          "id": "iron-maiden",
+          "name": "Iron Maiden"
+        },
+        {
+          "id": "megadeth",
+          "name": "Megadeth"
+        },
+        {
+          "id": "ufo",
+          "name": "UFO"
+        }
+      ],
+      "topics": [
+        "live"
+      ]
     },
     {
       "id": "19bf1e58be96fbdd093ae4ee853b951a33c38437",
@@ -458,7 +692,16 @@
       "source": "ThePRP",
       "published": "2026-10-01T19:02:24+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/set-your-goals-debut-their-second-comeback-single-big-couch/",
-      "saved_at": 1790884711
+      "saved_at": 1790884711,
+      "artists": [
+        {
+          "id": "set-your-goals",
+          "name": "Set Your Goals"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "09b0737e2b445cf087fd72e610009aa094e1fa00",
@@ -475,7 +718,20 @@
       "source": "ThePRP",
       "published": "2026-10-01T19:18:00+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/the-l-i-f-e-project-stone-sour-etc-release-their-cover-of-led-zeppelins-immigrant-song/",
-      "saved_at": 1790884702
+      "saved_at": 1790884702,
+      "artists": [
+        {
+          "id": "led-zeppelin",
+          "name": "Led Zeppelin"
+        },
+        {
+          "id": "the-l-i-f-e-project",
+          "name": "The L.I.F.E. Project"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     },
     {
       "id": "4bb47ac1552034cd8fc7260278680a8d470ef734",
@@ -491,7 +747,14 @@
       "source": "Metal Injection",
       "published": "2026-10-01T19:43:29+00:00",
       "original_url": "https://metalinjection.net/interviews/interview-imminence-is-more-than-the-band-with-the-violin",
-      "saved_at": 1790884693
+      "saved_at": 1790884693,
+      "artists": [
+        {
+          "id": "imminence",
+          "name": "Imminence"
+        }
+      ],
+      "topics": []
     },
     {
       "id": "357246bad44a2080140e6c750bdb286f132d73c1",
@@ -509,7 +772,44 @@
       "source": "ThePRP",
       "published": "2026-10-01T19:57:47+00:00",
       "original_url": "https://www.theprp.com/2026/10/01/news/dream-theater-arch-enemy-powerman-5000-sabaton-more-added-to-guitar-hero-inspired-video-game-stage-tour/",
-      "saved_at": 1790884684
+      "saved_at": 1790884684,
+      "artists": [
+        {
+          "id": "arch-enemy",
+          "name": "Arch Enemy"
+        },
+        {
+          "id": "def-leppard",
+          "name": "Def Leppard"
+        },
+        {
+          "id": "dream-theater",
+          "name": "Dream Theater"
+        },
+        {
+          "id": "mastodon",
+          "name": "Mastodon"
+        },
+        {
+          "id": "megadeth",
+          "name": "Megadeth"
+        },
+        {
+          "id": "metallica",
+          "name": "Metallica"
+        },
+        {
+          "id": "powerman-5000",
+          "name": "Powerman 5000"
+        },
+        {
+          "id": "the-rolling-stones",
+          "name": "The Rolling Stones"
+        }
+      ],
+      "topics": [
+        "releases"
+      ]
     }
   ]
 }

@@ -1,216 +1,91 @@
 <!doctype html>
 <html lang="ru">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="color-scheme" content="dark light">
-  <title>Metal News</title>
-  <script src="https://telegram.org/js/telegram-web-app.js"></script>
-  <style>
-    :root {
-      --bg: #0b0b0c;
-      --text: #f2f2f2;
-      --muted: #a5a7ad;
-      --accent: #d64d4d;
-      --line: rgba(255,255,255,.10);
-      --button: #24262a;
-    }
-    * { box-sizing: border-box; }
-    html, body { margin: 0; min-height: 100%; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      padding: max(18px, env(safe-area-inset-top)) 16px
-               max(24px, env(safe-area-inset-bottom));
-      line-height: 1.55;
-    }
-    .wrap { max-width: 760px; margin: 0 auto; }
-    .top {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      margin-bottom: 18px;
-    }
-    .brand {
-      font-size: 13px;
-      color: var(--muted);
-      letter-spacing: .06em;
-      text-transform: uppercase;
-    }
-    .close {
-      border: 1px solid var(--line);
-      background: var(--button);
-      color: var(--text);
-      border-radius: 999px;
-      padding: 8px 13px;
-      font: inherit;
-    }
-    h1 {
-      font-size: 27px;
-      line-height: 1.16;
-      margin: 6px 0 12px;
-      letter-spacing: -.02em;
-    }
-    .meta {
-      color: var(--muted);
-      font-size: 14px;
-      margin-bottom: 22px;
-    }
-    .lead {
-      font-size: 18px;
-      line-height: 1.5;
-      padding: 16px 0 20px;
-      border-top: 1px solid var(--line);
-      border-bottom: 1px solid var(--line);
-      margin-bottom: 22px;
-    }
-    .article p {
-      font-size: 17px;
-      margin: 0 0 18px;
-    }
-    .source {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 100%;
-      min-height: 48px;
-      margin-top: 10px;
-      border-radius: 14px;
-      border: 1px solid var(--line);
-      background: var(--button);
-      color: var(--text);
-      text-decoration: none;
-      font-weight: 600;
-    }
-    .status {
-      padding: 42px 12px;
-      text-align: center;
-      color: var(--muted);
-    }
-    .spinner {
-      width: 26px;
-      height: 26px;
-      margin: 0 auto 14px;
-      border: 3px solid rgba(255,255,255,.15);
-      border-top-color: var(--accent);
-      border-radius: 50%;
-      animation: spin .9s linear infinite;
-    }
-    @keyframes spin { to { transform: rotate(360deg); } }
-    .hidden { display: none; }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>Metal News</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+:root{--bg:#0b0b0e;--text:#f3f3f6;--muted:#a3a3ae;--accent:#ed6678;--panel:#19191f;--line:rgba(150,150,170,.20)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;padding: max(18px,env(safe-area-inset-top)) 16px max(28px,env(safe-area-inset-bottom))}.wrap{max-width:760px;margin:auto}button,input{font:inherit}button,a,input{-webkit-tap-highlight-color:transparent}button{cursor:pointer;color:var(--text);background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px 13px}button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:22px}.brand{font-size:14px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}.brand span{color:var(--accent)}.close{border-radius:999px;font-size:14px;padding:7px 12px}h1{font-size:28px;line-height:1.2;letter-spacing:-.025em;margin:12px 0}h2{font-size:20px;line-height:1.3;margin:8px 0 12px}.muted,.meta{color:var(--muted);font-size:14px}.intro{margin:0 0 18px}.nav{display:grid;grid-template-columns:repeat(4,1fr);gap:5px;margin:18px 0}.nav button{font-size:13px;padding:11px 4px;background:transparent}.nav button[aria-current="page"],.filters button[aria-pressed="true"]{background:var(--text);color:var(--bg);border-color:var(--text)}.filters{display:flex;gap:7px;overflow:auto;padding:2px 0 15px}.filters button{white-space:nowrap;border-radius:999px;font-size:13px;padding:7px 12px}.toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:12px 0 18px}input{width:100%;min-height:48px;color:var(--text);background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 15px}.card{border:1px solid var(--line);border-radius:18px;padding:18px;margin-bottom:12px;background:var(--panel)}.headline{background:none;border:0;padding:0;border-radius:4px;text-align:left;font-size:19px;font-weight:700;line-height:1.3;width:100%;margin:10px 0}.card p{font-size:15px;margin:2px 0 14px;color:var(--muted)}.card-footer{display:flex;align-items:center;justify-content:space-between;gap:10px}.card-footer .read{color:var(--accent);background:none;border:0;padding:5px 0;font-weight:600}.tags{display:flex;gap:6px;flex-wrap:wrap;margin:12px 0}.tags button{font-size:12px;padding:5px 9px;border-radius:999px}.band-row{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:14px 0;border-bottom:1px solid var(--line)}.band-title{background:none;border:0;padding:0;text-align:left;font-weight:650}.band-title small{display:block;color:var(--muted);font-weight:400;margin-top:3px}.star{min-width:46px;color:var(--accent);font-size:21px;padding:5px 10px}.star[aria-pressed="true"]{background:rgba(237,102,120,.12)}.article p{font-size:17px;margin:0 0 18px;overflow-wrap:anywhere}.meta{margin:16px 0 22px}.source{display:flex;align-items:center;justify-content:center;text-decoration:none;color:var(--text);background:var(--panel);border:1px solid var(--line);border-radius:14px;min-height:48px;margin-top:24px;font-weight:600}.status,.empty{padding:35px 12px;text-align:center;color:var(--muted)}.empty button{margin-top:15px}.notice{color:var(--accent);font-size:13px}.spinner{width:25px;height:25px;border:3px solid var(--line);border-top-color:var(--accent);border-radius:50%;margin:0 auto 15px;animation:spin .9s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}.hidden{display:none!important}#backBtn{margin-bottom:12px;background:transparent}#bandHero{padding:22px;border:1px solid var(--line);border-radius:18px;margin-bottom:20px;background:linear-gradient(135deg,rgba(237,102,120,.12),transparent)}#storageNotice{margin-top:12px}.linklike{color:var(--accent)}@media(max-width:360px){body{padding-left:12px;padding-right:12px}.nav button{font-size:12px}.card{padding:15px}}
+</style>
 </head>
 <body>
 <div class="wrap">
-  <div class="top">
-    <div class="brand">Metal News</div>
-    <button class="close" id="closeBtn">Закрыть</button>
-  </div>
-
-  <div id="status" class="status">
-    <div class="spinner"></div>
-    <div id="statusText">Загружаю статью…</div>
-  </div>
-
-  <main id="content" class="hidden">
-    <h1 id="title"></h1>
-    <div id="meta" class="meta"></div>
-    <div id="article" class="article"></div>
-    <a id="sourceLink" class="source" target="_blank" rel="noopener">Оригинал ↗</a>
-  </main>
+<header class="top"><div class="brand">Metal <span>News</span></div><button class="close" id="closeBtn">Закрыть</button></header>
+<div id="status" class="status" role="status"><div class="spinner"></div><div id="statusText">Загружаю новости…</div></div>
+<div id="app" class="hidden">
+<button id="backBtn" class="hidden">← К ленте</button>
+<section id="browse">
+<h1 id="viewTitle">Твоя музыкальная лента</h1><p id="viewIntro" class="muted intro">Новости, релизы и концерты из любимых изданий.</p>
+<nav class="nav" aria-label="Разделы"><button data-view="all">Все новости</button><button data-view="mine">Мои группы</button><button data-view="bands">Группы</button><button data-view="saved">Сохранено</button></nav>
+<div id="bandHero" class="hidden"></div>
+<div id="filters" class="filters" aria-label="Тип новости"><button data-topic="all">Всё</button><button data-topic="live">Туры и концерты</button><button data-topic="releases">Релизы</button></div>
+<label class="hidden" for="search">Поиск</label><input id="search" aria-label="Поиск новостей или групп" type="search" placeholder="Найти новость или группу" autocomplete="off">
+<p id="resultCount" class="muted" aria-live="polite"></p><div id="list"></div>
+<p id="preferencesNote" class="muted hidden">Избранные группы и сохранённые статьи хранятся на этом устройстве. Уведомления бота продолжают приходить из общей ленты.</p>
+</section>
+<main id="content" class="hidden"><h1 id="title"></h1><div id="meta" class="meta"></div><div id="articleTags" class="tags"></div><div class="toolbar"><button id="saveArticle">Сохранить статью</button></div><div id="article" class="article"></div><a id="sourceLink" class="source" target="_blank" rel="noopener">Оригинал ↗</a></main>
+<p id="storageNotice" class="notice" role="status"></p>
 </div>
-
+</div>
 <script>
 (() => {
-  const tg = window.Telegram?.WebApp;
-
-  if (tg) {
-    tg.ready();
-    const p = tg.themeParams || {};
-    if (p.bg_color) document.documentElement.style.setProperty('--bg', p.bg_color);
-    if (p.text_color) document.documentElement.style.setProperty('--text', p.text_color);
-    if (p.hint_color) document.documentElement.style.setProperty('--muted', p.hint_color);
-    if (p.button_color) document.documentElement.style.setProperty('--accent', p.button_color);
-  }
-
-  const qs = new URLSearchParams(location.search);
-  const id = qs.get('id');
-
-  const status = document.getElementById('status');
-  const statusText = document.getElementById('statusText');
-  const content = document.getElementById('content');
-
-  document.getElementById('closeBtn').addEventListener('click', () => {
-    if (tg) tg.close();
-    else history.back();
-  });
-
-  function render(a) {
-    document.getElementById('title').textContent = a.title || 'Без заголовка';
-    document.getElementById('meta').textContent =
-      [a.category, a.source].filter(Boolean).join(' · ');
-
-    const article = document.getElementById('article');
-    article.innerHTML = '';
-
-    (a.paragraphs || []).forEach(p => {
-      const el = document.createElement('p');
-      el.textContent = p;
-      article.appendChild(el);
-    });
-
-    const sourceLink = document.getElementById('sourceLink');
-    sourceLink.href = a.original_url || '#';
-    sourceLink.style.display = a.original_url ? 'inline-flex' : 'none';
-
-    status.classList.add('hidden');
-    content.classList.remove('hidden');
-  }
-
-  let tries = 0;
-  const maxTries = 60;
-
-  async function load() {
-    tries += 1;
-
-    try {
-      const r = await fetch('articles.json?t=' + Date.now(), { cache: 'no-store' });
-      if (!r.ok) throw new Error('HTTP ' + r.status);
-
-      const data = await r.json();
-      const article = (data.articles || []).find(
-        x => String(x.id) === String(id)
-      );
-
-      if (article) {
-        render(article);
-        return;
-      }
-    } catch (e) {
-      console.log(e);
-    }
-
-    if (tries < maxTries) {
-      statusText.textContent =
-        tries < 4
-          ? 'Загружаю статью…'
-          : 'Статья публикуется. Ещё несколько секунд…';
-      setTimeout(load, 3000);
-    } else {
-      statusText.textContent =
-        'Не удалось загрузить статью. Закрой окно и попробуй открыть её снова через минуту.';
-      document.querySelector('.spinner').style.display = 'none';
-    }
-  }
-
-  if (!id) {
-    statusText.textContent = 'Не указан идентификатор статьи.';
-    document.querySelector('.spinner').style.display = 'none';
-  } else {
-    load();
-  }
+const tg=window.Telegram?.WebApp;
+if(tg){tg.ready();tg.expand();const p=tg.themeParams||{};for(const [key,value] of [['--bg',p.bg_color],['--text',p.text_color],['--muted',p.hint_color],['--panel',p.secondary_bg_color]])if(value)document.documentElement.style.setProperty(key,value);}
+const $=id=>document.getElementById(id), qs=new URLSearchParams(location.search);
+const KEY='metal-news.preferences.v1';
+let prefs={favorites:[],saved:[],custom:[]}, articles=[],catalog=[],view='all',topic='all',band=null,current=null,query='',tries=0;
+try{const p=JSON.parse(localStorage.getItem(KEY)||'null');if(p&&typeof p==='object')prefs={favorites:Array.isArray(p.favorites)?p.favorites.filter(x=>typeof x==='string'):[],saved:Array.isArray(p.saved)?p.saved.filter(x=>typeof x==='string'):[],custom:Array.isArray(p.custom)?p.custom.filter(x=>x&&typeof x.name==='string'&&typeof x.id==='string'):[]};}catch(e){}
+function persist(){try{localStorage.setItem(KEY,JSON.stringify(prefs));$('storageNotice').textContent='';}catch(e){$('storageNotice').textContent='Не удалось сохранить настройки. Сейчас они действуют только до закрытия приложения.';}}
+function norm(s){return String(s||'').toLocaleLowerCase().replaceAll('’',"'").replaceAll('ё','е').replace(/\s+/g,' ').trim();}
+function mention(text,name){const escaped=norm(name).replace(/[.*+?^${}()|[\]\\]/g,'\\$&');return new RegExp('(^|[^\\p{L}\\p{N}_])'+escaped+'($|[^\\p{L}\\p{N}_])','u').test(norm(text));}
+function artistList(a){const result=[...(a.artists||[])];const text=[a.original_title,a.title,...(a.paragraphs||[])].join(' ');for(const c of prefs.custom)if(mention(text,c.name)&&!result.some(x=>x.id===c.id))result.push(c);return result;}
+function allBands(){return [...catalog,...prefs.custom].filter((a,i,arr)=>arr.findIndex(b=>b.id===a.id)===i);}
+function isFavorite(id){return prefs.favorites.includes(id);}
+function selectArticles(items,{view='all',topic='all',band=null,query=''}={}){return items.filter(a=>(view!=='mine'||artistList(a).some(b=>isFavorite(b.id)))&&(view!=='saved'||prefs.saved.includes(a.id))&&(!band||artistList(a).some(b=>b.id===band.id))&&(topic==='all'||(a.topics||[]).includes(topic))&&(!query||norm([a.title,a.original_title,a.source,...artistList(a).map(b=>b.name),...(a.paragraphs||[])].join(' ')).includes(norm(query))));}
+function node(tag,text,cls){const el=document.createElement(tag);if(text!==undefined)el.textContent=text;if(cls)el.className=cls;return el;}
+function button(text,fn,cls){const b=node('button',text,cls);b.type='button';b.addEventListener('click',fn);return b;}
+function toggleFavorite(id){prefs.favorites=isFavorite(id)?prefs.favorites.filter(x=>x!==id):[...prefs.favorites,id];persist();renderBrowse();if(current)renderTags(current);}
+function star(b){const el=button(isFavorite(b.id)?'★':'☆',()=>toggleFavorite(b.id),'star');el.setAttribute('aria-label',(isFavorite(b.id)?'Убрать из избранного: ':'Добавить в избранное: ')+b.name);el.setAttribute('aria-pressed',String(isFavorite(b.id)));return el;}
+function date(a){const d=new Date(a.published);return Number.isNaN(d.getTime())?'':d.toLocaleDateString('ru-RU',{day:'numeric',month:'short'});}
+function openBand(b){history.replaceState(null,'',location.pathname);band=b;view='band';topic='all';query='';$('search').value='';current=null;showBrowse();renderBrowse();scrollTop();}
+function scrollTop(){window.scrollTo?.({top:0,behavior:'instant'});}
+function showBrowse(){ $('browse').classList.remove('hidden');$('content').classList.add('hidden');$('backBtn').classList.toggle('hidden',view!=='band'); }
+function renderTags(a){$('articleTags').replaceChildren();for(const b of artistList(a)){const chip=button(b.name,()=>openBand(b));$('articleTags').append(chip,star(b));}}
+function updateSave(){const saved=prefs.saved.includes(current.id);$('saveArticle').textContent=saved?'✓ Сохранено':'Сохранить статью';$('saveArticle').setAttribute('aria-pressed',String(saved));}
+function openArticle(a,updateUrl=true){current=a;$('browse').classList.add('hidden');$('content').classList.remove('hidden');$('backBtn').classList.remove('hidden');$('title').textContent=a.title||'Без заголовка';$('meta').textContent=[a.category,a.source,date(a)].filter(Boolean).join(' · ');$('article').replaceChildren();for(const p of a.paragraphs||[])$('article').append(node('p',p));renderTags(a);updateSave();const link=$('sourceLink');const valid=/^https?:\/\//i.test(a.original_url||'');link.href=valid?a.original_url:'#';link.style.display=valid?'flex':'none';if(updateUrl)history.replaceState(null,'','?id='+encodeURIComponent(a.id));scrollTop();}
+function empty(text,action,label){const el=node('div',undefined,'empty');el.append(node('div',text));if(action)el.append(button(label,action));$('list').append(el);}
+function setView(value){view=value;band=null;current=null;query='';topic='all';$('search').value='';history.replaceState(null,'',location.pathname);showBrowse();renderBrowse();scrollTop();}
+function renderBrowse(){
+const titles={all:'Твоя музыкальная лента',mine:'Новости моих групп',bands:'Выбери любимые группы',saved:'Прочитать позже',band:band?.name};
+const intros={all:'Новости, релизы и концерты из любимых изданий.',mine:'Материалы, в которых упоминаются твои любимые группы.',bands:'Нажми ☆, чтобы добавить группу в свою ленту.',saved:'Статьи, которые ты сохранил. Доступны, пока остаются в архиве.',band:'Новости и упоминания группы в доступном архиве.'};
+$('viewTitle').textContent=titles[view];$('viewIntro').textContent=intros[view];for(const b of document.querySelectorAll('[data-view]')){if(b.dataset.view===view)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');}
+for(const b of document.querySelectorAll('[data-topic]'))b.setAttribute('aria-pressed',String(b.dataset.topic===topic));
+$('filters').classList.toggle('hidden',view==='bands');$('preferencesNote').classList.toggle('hidden',!['bands','mine'].includes(view));$('search').placeholder=view==='bands'?'Поиск группы':'Найти новость или группу';$('list').replaceChildren();$('bandHero').replaceChildren();$('bandHero').classList.toggle('hidden',view!=='band');
+if(view==='band'){$('bandHero').append(node('div',isFavorite(band.id)?'В твоём избранном':'Добавь группу в свою ленту','muted'),star(band));}
+if(view==='bands'){
+const filtered=allBands().filter(b=>norm([b.name,...(b.aliases||[])].join(' ')).includes(norm(query))).sort((a,b)=>Number(isFavorite(b.id))-Number(isFavorite(a.id))||a.name.localeCompare(b.name));
+$('resultCount').textContent=`Избрано: ${prefs.favorites.length} · Найдено групп: ${filtered.length}`;
+for(const b of filtered){const row=node('div',undefined,'band-row');const name=button(b.name,()=>openBand(b),'band-title');name.append(node('small',`${articles.filter(a=>artistList(a).some(x=>x.id===b.id)).length} материалов`));row.append(name,star(b));$('list').append(row);}
+if(query.trim()&&!allBands().some(b=>norm(b.name)===norm(query))){const name=query.trim().slice(0,80);const add=button(`Добавить «${name}»`,()=>{const b={id:'custom:'+norm(name),name};prefs.custom.push(b);prefs.favorites.push(b.id);persist();query='';$('search').value='';renderBrowse();});$('list').append(add,node('p','Для своей группы поиск идёт по точному названию в тексте новости.','muted'));}
+return;}
+const selected=selectArticles(articles,{view,topic,band,query});$('resultCount').textContent=`Материалов: ${selected.length}`;
+if(!selected.length){if(view==='mine'&&!prefs.favorites.length)empty('Выбери любимые группы, и здесь появятся их новости.',()=>setView('bands'),'Выбрать группы');else empty(view==='saved'?'Здесь пока нет сохранённых статей из доступного архива.':'В доступном архиве нет подходящих материалов. Попробуй другой фильтр.');}
+for(const a of selected){const card=node('article',undefined,'card');card.append(node('div',[a.source,date(a)].filter(Boolean).join(' · '),'muted'),button(a.title,()=>openArticle(a),'headline'),node('p',a.short||''));const tags=node('div',undefined,'tags');for(const b of artistList(a).slice(0,3))tags.append(button(b.name,()=>openBand(b)));card.append(tags);const footer=node('div',undefined,'card-footer');footer.append(button('Читать →',()=>openArticle(a),'read'),button(prefs.saved.includes(a.id)?'✓':'＋',()=>{prefs.saved=prefs.saved.includes(a.id)?prefs.saved.filter(x=>x!==a.id):[...prefs.saved,a.id];persist();renderBrowse();},'bookmark'));footer.lastChild.setAttribute('aria-label',prefs.saved.includes(a.id)?'Убрать из сохранённого':'Сохранить статью');card.append(footer);$('list').append(card);}
+}
+$('closeBtn').addEventListener('click',()=>{if(tg)tg.close();else history.back();});
+$('backBtn').addEventListener('click',()=>{if(current){current=null;history.replaceState(null,'',location.pathname);showBrowse();renderBrowse();scrollTop();}else setView('all');});
+$('saveArticle').addEventListener('click',()=>{if(!current)return;prefs.saved=prefs.saved.includes(current.id)?prefs.saved.filter(x=>x!==current.id):[...prefs.saved,current.id];persist();updateSave();});
+$('search').addEventListener('input',e=>{query=e.target.value;renderBrowse();});
+for(const b of document.querySelectorAll('[data-view]'))b.addEventListener('click',()=>setView(b.dataset.view));
+for(const b of document.querySelectorAll('[data-topic]'))b.addEventListener('click',()=>{topic=b.dataset.topic;renderBrowse();});
+let loadedCatalog=false;
+async function load(){tries++;try{const r=await fetch('articles.json?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();articles=(data.articles||[]).filter(a=>a&&a.id).sort((a,b)=>new Date(b.published)-new Date(a.published));if(!loadedCatalog){loadedCatalog=true;try{const c=await fetch('artists.json',{cache:'no-cache'});if(c.ok)catalog=(await c.json()).artists||[];}catch(e){}if(!catalog.length)catalog=[...new Map(articles.flatMap(a=>a.artists||[]).map(a=>[a.id,a])).values()];}
+const id=qs.get('id');if(id&&!articles.some(a=>String(a.id)===id))throw Error('Article not published');$('status').classList.add('hidden');$('app').classList.remove('hidden');renderBrowse();if(id)openArticle(articles.find(a=>String(a.id)===id),false);return;}catch(e){console.log(e);}if(tries<60){$('statusText').textContent=qs.get('id')?'Статья публикуется. Ещё несколько секунд…':'Не удалось загрузить ленту. Повторяю…';setTimeout(load,3000);}else{$('statusText').textContent='Не удалось загрузить материал. Попробуй открыть приложение позже.';document.querySelector('.spinner').style.display='none';$('status').append(button('Повторить',()=>{tries=0;load();}));}}
+window.MetalNews={selectArticles,mention,artistList,setView,openBand,toggleFavorite,get preferences(){return prefs;}};
+load();
 })();
 </script>
 </body>

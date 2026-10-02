@@ -1,0 +1,1009 @@
+{
+  "artists": [
+    {
+      "id": "ac-dc",
+      "name": "AC/DC",
+      "aliases": [
+        "AC/DC",
+        "ac/dc"
+      ]
+    },
+    {
+      "id": "accept",
+      "name": "Accept",
+      "aliases": [
+        "Accept",
+        "accept"
+      ]
+    },
+    {
+      "id": "aerosmith",
+      "name": "Aerosmith",
+      "aliases": [
+        "Aerosmith",
+        "aerosmith"
+      ]
+    },
+    {
+      "id": "alice-cooper",
+      "name": "Alice Cooper",
+      "aliases": [
+        "Alice Cooper",
+        "alice cooper"
+      ]
+    },
+    {
+      "id": "alice-in-chains",
+      "name": "Alice In Chains",
+      "aliases": [
+        "Alice In Chains"
+      ]
+    },
+    {
+      "id": "anthrax",
+      "name": "Anthrax",
+      "aliases": [
+        "Anthrax",
+        "anthrax"
+      ]
+    },
+    {
+      "id": "arch-enemy",
+      "name": "Arch Enemy",
+      "aliases": [
+        "Arch Enemy",
+        "arch enemy"
+      ]
+    },
+    {
+      "id": "at-the-gates",
+      "name": "At The Gates",
+      "aliases": [
+        "At The Gates",
+        "at the gates"
+      ]
+    },
+    {
+      "id": "ayreon",
+      "name": "Ayreon",
+      "aliases": [
+        "Ayreon",
+        "ayreon"
+      ]
+    },
+    {
+      "id": "behemoth",
+      "name": "Behemoth",
+      "aliases": [
+        "Behemoth",
+        "behemoth"
+      ]
+    },
+    {
+      "id": "between-the-buried-and-me",
+      "name": "Between The Buried And Me",
+      "aliases": [
+        "Between The Buried And Me",
+        "between the buried and me"
+      ]
+    },
+    {
+      "id": "black-sabbath",
+      "name": "Black Sabbath",
+      "aliases": [
+        "Black Sabbath",
+        "black sabbath",
+        "Блэк Саббат"
+      ]
+    },
+    {
+      "id": "blind-channel",
+      "name": "Blind Channel",
+      "aliases": [
+        "Blind Channel"
+      ]
+    },
+    {
+      "id": "blue-oyster-cult",
+      "name": "Blue Oyster Cult",
+      "aliases": [
+        "Blue Oyster Cult",
+        "blue oyster cult"
+      ]
+    },
+    {
+      "id": "bruce-springsteen",
+      "name": "Bruce Springsteen",
+      "aliases": [
+        "Bruce Springsteen"
+      ]
+    },
+    {
+      "id": "camel",
+      "name": "Camel",
+      "aliases": [
+        "Camel",
+        "camel"
+      ]
+    },
+    {
+      "id": "cannibal-corpse",
+      "name": "Cannibal Corpse",
+      "aliases": [
+        "Cannibal Corpse",
+        "cannibal corpse"
+      ]
+    },
+    {
+      "id": "carcass",
+      "name": "Carcass",
+      "aliases": [
+        "Carcass",
+        "carcass"
+      ]
+    },
+    {
+      "id": "dark-tranquillity",
+      "name": "Dark Tranquillity",
+      "aliases": [
+        "Dark Tranquillity",
+        "dark tranquility",
+        "dark tranquillity"
+      ]
+    },
+    {
+      "id": "darkthrone",
+      "name": "Darkthrone",
+      "aliases": [
+        "Darkthrone",
+        "darkthrone"
+      ]
+    },
+    {
+      "id": "death",
+      "name": "Death",
+      "aliases": [
+        "Death",
+        "death"
+      ]
+    },
+    {
+      "id": "deep-purple",
+      "name": "Deep Purple",
+      "aliases": [
+        "Deep Purple",
+        "deep purple",
+        "Дип Пёрпл",
+        "Дип Перпл"
+      ]
+    },
+    {
+      "id": "def-leppard",
+      "name": "Def Leppard",
+      "aliases": [
+        "Def Leppard",
+        "def leppard"
+      ]
+    },
+    {
+      "id": "deftones",
+      "name": "Deftones",
+      "aliases": [
+        "Deftones"
+      ]
+    },
+    {
+      "id": "deicide",
+      "name": "Deicide",
+      "aliases": [
+        "Deicide",
+        "deicide"
+      ]
+    },
+    {
+      "id": "descape",
+      "name": "Descape",
+      "aliases": [
+        "Descape"
+      ]
+    },
+    {
+      "id": "destruction",
+      "name": "Destruction",
+      "aliases": [
+        "Destruction",
+        "destruction"
+      ]
+    },
+    {
+      "id": "devin-townsend",
+      "name": "Devin Townsend",
+      "aliases": [
+        "Devin Townsend",
+        "devin townsend"
+      ]
+    },
+    {
+      "id": "dio",
+      "name": "Dio",
+      "aliases": [
+        "Dio",
+        "dio"
+      ]
+    },
+    {
+      "id": "dismember",
+      "name": "Dismember",
+      "aliases": [
+        "Dismember",
+        "dismember"
+      ]
+    },
+    {
+      "id": "dokken",
+      "name": "Dokken",
+      "aliases": [
+        "Dokken",
+        "dokken"
+      ]
+    },
+    {
+      "id": "dream-theater",
+      "name": "Dream Theater",
+      "aliases": [
+        "Dream Theater",
+        "dream theater"
+      ]
+    },
+    {
+      "id": "eminem",
+      "name": "Eminem",
+      "aliases": [
+        "Eminem"
+      ]
+    },
+    {
+      "id": "emperor",
+      "name": "Emperor",
+      "aliases": [
+        "Emperor",
+        "emperor"
+      ]
+    },
+    {
+      "id": "enslaved",
+      "name": "Enslaved",
+      "aliases": [
+        "Enslaved",
+        "enslaved"
+      ]
+    },
+    {
+      "id": "enter-shikari",
+      "name": "Enter Shikari",
+      "aliases": [
+        "Enter Shikari"
+      ]
+    },
+    {
+      "id": "entombed",
+      "name": "Entombed",
+      "aliases": [
+        "Entombed",
+        "entombed"
+      ]
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "aliases": [
+        "Exodus",
+        "exodus"
+      ]
+    },
+    {
+      "id": "fates-warning",
+      "name": "Fates Warning",
+      "aliases": [
+        "Fates Warning",
+        "fates warning"
+      ]
+    },
+    {
+      "id": "foo-fighters",
+      "name": "Foo Fighters",
+      "aliases": [
+        "Foo Fighters"
+      ]
+    },
+    {
+      "id": "genesis",
+      "name": "Genesis",
+      "aliases": [
+        "Genesis",
+        "genesis"
+      ]
+    },
+    {
+      "id": "gentle-giant",
+      "name": "Gentle Giant",
+      "aliases": [
+        "Gentle Giant",
+        "gentle giant"
+      ]
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "aliases": [
+        "Ghost"
+      ]
+    },
+    {
+      "id": "gojira",
+      "name": "Gojira",
+      "aliases": [
+        "Gojira",
+        "gojira"
+      ]
+    },
+    {
+      "id": "gorgoroth",
+      "name": "Gorgoroth",
+      "aliases": [
+        "Gorgoroth",
+        "gorgoroth"
+      ]
+    },
+    {
+      "id": "grave-digger",
+      "name": "Grave Digger",
+      "aliases": [
+        "Grave Digger"
+      ]
+    },
+    {
+      "id": "great-white",
+      "name": "Great White",
+      "aliases": [
+        "Great White",
+        "great white"
+      ]
+    },
+    {
+      "id": "guns-n-roses",
+      "name": "Guns N’ Roses",
+      "aliases": [
+        "Guns N’ Roses",
+        "guns n' roses",
+        "guns n roses"
+      ]
+    },
+    {
+      "id": "haken",
+      "name": "Haken",
+      "aliases": [
+        "Haken",
+        "haken"
+      ]
+    },
+    {
+      "id": "halestorm",
+      "name": "Halestorm",
+      "aliases": [
+        "Halestorm"
+      ]
+    },
+    {
+      "id": "i-am-morbid",
+      "name": "I Am Morbid",
+      "aliases": [
+        "I Am Morbid",
+        "i am morbid"
+      ]
+    },
+    {
+      "id": "imminence",
+      "name": "Imminence",
+      "aliases": [
+        "Imminence"
+      ]
+    },
+    {
+      "id": "immolation",
+      "name": "Immolation",
+      "aliases": [
+        "Immolation",
+        "immolation"
+      ]
+    },
+    {
+      "id": "immortal",
+      "name": "Immortal",
+      "aliases": [
+        "Immortal",
+        "immortal"
+      ]
+    },
+    {
+      "id": "in-flames",
+      "name": "In Flames",
+      "aliases": [
+        "In Flames",
+        "in flames"
+      ]
+    },
+    {
+      "id": "iron-maiden",
+      "name": "Iron Maiden",
+      "aliases": [
+        "Iron Maiden",
+        "iron maiden",
+        "Айрон Мейден"
+      ]
+    },
+    {
+      "id": "jethro-tull",
+      "name": "Jethro Tull",
+      "aliases": [
+        "Jethro Tull",
+        "jethro tull"
+      ]
+    },
+    {
+      "id": "judas-priest",
+      "name": "Judas Priest",
+      "aliases": [
+        "Judas Priest",
+        "judas priest"
+      ]
+    },
+    {
+      "id": "kid-rock",
+      "name": "Kid Rock",
+      "aliases": [
+        "Kid Rock"
+      ]
+    },
+    {
+      "id": "king-crimson",
+      "name": "King Crimson",
+      "aliases": [
+        "King Crimson",
+        "king crimson"
+      ]
+    },
+    {
+      "id": "kiss",
+      "name": "Kiss",
+      "aliases": [
+        "Kiss",
+        "kiss"
+      ]
+    },
+    {
+      "id": "kreator",
+      "name": "Kreator",
+      "aliases": [
+        "Kreator",
+        "kreator"
+      ]
+    },
+    {
+      "id": "led-zeppelin",
+      "name": "Led Zeppelin",
+      "aliases": [
+        "Led Zeppelin",
+        "led zeppelin"
+      ]
+    },
+    {
+      "id": "leprous",
+      "name": "Leprous",
+      "aliases": [
+        "Leprous",
+        "leprous"
+      ]
+    },
+    {
+      "id": "linkin-park",
+      "name": "Linkin Park",
+      "aliases": [
+        "Linkin Park"
+      ]
+    },
+    {
+      "id": "manowar",
+      "name": "Manowar",
+      "aliases": [
+        "Manowar",
+        "manowar"
+      ]
+    },
+    {
+      "id": "marillion",
+      "name": "Marillion",
+      "aliases": [
+        "Marillion",
+        "marillion"
+      ]
+    },
+    {
+      "id": "mastodon",
+      "name": "Mastodon",
+      "aliases": [
+        "Mastodon",
+        "mastodon"
+      ]
+    },
+    {
+      "id": "mayhem",
+      "name": "Mayhem",
+      "aliases": [
+        "Mayhem",
+        "mayhem"
+      ]
+    },
+    {
+      "id": "megadeth",
+      "name": "Megadeth",
+      "aliases": [
+        "Megadeth",
+        "megadeth"
+      ]
+    },
+    {
+      "id": "meshuggah",
+      "name": "Meshuggah",
+      "aliases": [
+        "Meshuggah",
+        "meshuggah"
+      ]
+    },
+    {
+      "id": "metallica",
+      "name": "Metallica",
+      "aliases": [
+        "Metallica",
+        "metallica",
+        "Металлика"
+      ]
+    },
+    {
+      "id": "morbid-angel",
+      "name": "Morbid Angel",
+      "aliases": [
+        "Morbid Angel",
+        "morbid angel"
+      ]
+    },
+    {
+      "id": "motley-crue",
+      "name": "Motley Crue",
+      "aliases": [
+        "Motley Crue",
+        "motley crue"
+      ]
+    },
+    {
+      "id": "motorhead",
+      "name": "Motörhead",
+      "aliases": [
+        "Motörhead",
+        "motorhead",
+        "motörhead"
+      ]
+    },
+    {
+      "id": "napalm-death",
+      "name": "Napalm Death",
+      "aliases": [
+        "Napalm Death",
+        "napalm death"
+      ]
+    },
+    {
+      "id": "nightwish",
+      "name": "Nightwish",
+      "aliases": [
+        "Nightwish"
+      ]
+    },
+    {
+      "id": "obituary",
+      "name": "Obituary",
+      "aliases": [
+        "Obituary",
+        "obituary"
+      ]
+    },
+    {
+      "id": "of-mice-men",
+      "name": "Of Mice & Men",
+      "aliases": [
+        "Of Mice & Men"
+      ]
+    },
+    {
+      "id": "opeth",
+      "name": "Opeth",
+      "aliases": [
+        "Opeth",
+        "opeth"
+      ]
+    },
+    {
+      "id": "overkill",
+      "name": "Overkill",
+      "aliases": [
+        "Overkill",
+        "overkill"
+      ]
+    },
+    {
+      "id": "ozzy-osbourne",
+      "name": "Ozzy Osbourne",
+      "aliases": [
+        "Ozzy Osbourne",
+        "ozzy osbourne"
+      ]
+    },
+    {
+      "id": "pain-of-salvation",
+      "name": "Pain Of Salvation",
+      "aliases": [
+        "Pain Of Salvation",
+        "pain of salvation"
+      ]
+    },
+    {
+      "id": "pearl-jam",
+      "name": "Pearl Jam",
+      "aliases": [
+        "Pearl Jam"
+      ]
+    },
+    {
+      "id": "periphery",
+      "name": "Periphery",
+      "aliases": [
+        "Periphery",
+        "periphery"
+      ]
+    },
+    {
+      "id": "pink-floyd",
+      "name": "Pink Floyd",
+      "aliases": [
+        "Pink Floyd",
+        "pink floyd"
+      ]
+    },
+    {
+      "id": "porcupine-tree",
+      "name": "Porcupine Tree",
+      "aliases": [
+        "Porcupine Tree",
+        "porcupine tree"
+      ]
+    },
+    {
+      "id": "powerman-5000",
+      "name": "Powerman 5000",
+      "aliases": [
+        "Powerman 5000"
+      ]
+    },
+    {
+      "id": "queensryche",
+      "name": "Queensrÿche",
+      "aliases": [
+        "Queensrÿche",
+        "queensryche",
+        "queensrÿche"
+      ]
+    },
+    {
+      "id": "rage-against-the-machine",
+      "name": "Rage Against The Machine",
+      "aliases": [
+        "Rage Against The Machine"
+      ]
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "aliases": [
+        "Rainbow",
+        "rainbow"
+      ]
+    },
+    {
+      "id": "rammstein",
+      "name": "Rammstein",
+      "aliases": [
+        "Rammstein",
+        "Раммштайн"
+      ]
+    },
+    {
+      "id": "riverside",
+      "name": "Riverside",
+      "aliases": [
+        "Riverside",
+        "riverside"
+      ]
+    },
+    {
+      "id": "rush",
+      "name": "Rush",
+      "aliases": [
+        "Rush",
+        "rush"
+      ]
+    },
+    {
+      "id": "saxon",
+      "name": "Saxon",
+      "aliases": [
+        "Saxon",
+        "saxon"
+      ]
+    },
+    {
+      "id": "scorpions",
+      "name": "Scorpions",
+      "aliases": [
+        "Scorpions",
+        "scorpions"
+      ]
+    },
+    {
+      "id": "sepultura",
+      "name": "Sepultura",
+      "aliases": [
+        "Sepultura",
+        "sepultura"
+      ]
+    },
+    {
+      "id": "set-your-goals",
+      "name": "Set Your Goals",
+      "aliases": [
+        "Set Your Goals"
+      ]
+    },
+    {
+      "id": "shogun-mojo",
+      "name": "Shogun Mojo",
+      "aliases": [
+        "Shogun Mojo"
+      ]
+    },
+    {
+      "id": "skid-row",
+      "name": "Skid Row",
+      "aliases": [
+        "Skid Row",
+        "skid row"
+      ]
+    },
+    {
+      "id": "slayer",
+      "name": "Slayer",
+      "aliases": [
+        "Slayer",
+        "slayer"
+      ]
+    },
+    {
+      "id": "sodom",
+      "name": "Sodom",
+      "aliases": [
+        "Sodom",
+        "sodom"
+      ]
+    },
+    {
+      "id": "soundgarden",
+      "name": "Soundgarden",
+      "aliases": [
+        "Soundgarden"
+      ]
+    },
+    {
+      "id": "static-dress",
+      "name": "Static Dress",
+      "aliases": [
+        "Static Dress"
+      ]
+    },
+    {
+      "id": "steven-wilson",
+      "name": "Steven Wilson",
+      "aliases": [
+        "Steven Wilson",
+        "steven wilson"
+      ]
+    },
+    {
+      "id": "suffocation",
+      "name": "Suffocation",
+      "aliases": [
+        "Suffocation",
+        "suffocation"
+      ]
+    },
+    {
+      "id": "symphony-x",
+      "name": "Symphony X",
+      "aliases": [
+        "Symphony X",
+        "symphony x"
+      ]
+    },
+    {
+      "id": "system-of-a-down",
+      "name": "System Of A Down",
+      "aliases": [
+        "System Of A Down"
+      ]
+    },
+    {
+      "id": "terrorizer",
+      "name": "Terrorizer",
+      "aliases": [
+        "Terrorizer",
+        "terrorizer"
+      ]
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "aliases": [
+        "Tesla",
+        "tesla"
+      ]
+    },
+    {
+      "id": "testament",
+      "name": "Testament",
+      "aliases": [
+        "Testament",
+        "testament"
+      ]
+    },
+    {
+      "id": "the-contortionist",
+      "name": "The Contortionist",
+      "aliases": [
+        "The Contortionist",
+        "the contortionist"
+      ]
+    },
+    {
+      "id": "the-l-i-f-e-project",
+      "name": "The L.I.F.E. Project",
+      "aliases": [
+        "The L.I.F.E. Project"
+      ]
+    },
+    {
+      "id": "the-pretty-reckless",
+      "name": "The Pretty Reckless",
+      "aliases": [
+        "The Pretty Reckless"
+      ]
+    },
+    {
+      "id": "the-rolling-stones",
+      "name": "The Rolling Stones",
+      "aliases": [
+        "The Rolling Stones"
+      ]
+    },
+    {
+      "id": "thin-lizzy",
+      "name": "Thin Lizzy",
+      "aliases": [
+        "Thin Lizzy",
+        "thin lizzy"
+      ]
+    },
+    {
+      "id": "thrice",
+      "name": "Thrice",
+      "aliases": [
+        "Thrice"
+      ]
+    },
+    {
+      "id": "tom-morello",
+      "name": "Tom Morello",
+      "aliases": [
+        "Tom Morello",
+        "Том Морелло",
+        "Тома Морелло"
+      ]
+    },
+    {
+      "id": "tool",
+      "name": "Tool",
+      "aliases": [
+        "Tool",
+        "tool"
+      ]
+    },
+    {
+      "id": "twisted-sister",
+      "name": "Twisted Sister",
+      "aliases": [
+        "Twisted Sister",
+        "twisted sister"
+      ]
+    },
+    {
+      "id": "ufo",
+      "name": "UFO",
+      "aliases": [
+        "UFO",
+        "ufo"
+      ]
+    },
+    {
+      "id": "uriah-heep",
+      "name": "Uriah Heep",
+      "aliases": [
+        "Uriah Heep",
+        "uriah heep"
+      ]
+    },
+    {
+      "id": "van-halen",
+      "name": "Van Halen",
+      "aliases": [
+        "Van Halen",
+        "van halen"
+      ]
+    },
+    {
+      "id": "venom",
+      "name": "Venom",
+      "aliases": [
+        "Venom"
+      ]
+    },
+    {
+      "id": "w-a-s-p",
+      "name": "W.A.S.P.",
+      "aliases": [
+        "W.A.S.P.",
+        "w.a.s.p.",
+        "wasp"
+      ]
+    },
+    {
+      "id": "whitesnake",
+      "name": "Whitesnake",
+      "aliases": [
+        "Whitesnake",
+        "whitesnake"
+      ]
+    },
+    {
+      "id": "wolves-in-the-throne-room",
+      "name": "Wolves In The Throne Room",
+      "aliases": [
+        "Wolves In The Throne Room"
+      ]
+    },
+    {
+      "id": "yes",
+      "name": "Yes",
+      "aliases": [
+        "Yes",
+        "yes"
+      ]
+    }
+  ]
+}
