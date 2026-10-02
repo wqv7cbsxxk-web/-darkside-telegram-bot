@@ -231,7 +231,18 @@
     "c1c2e400c280bed9fbbf0444523072822c6154d0",
     "c93a69fb88581c62d015c3f72c979290288f3809",
     "f13075ea89515fca87f029d1b2d7b3127e206a08",
-    "d180bdfd3a1ae791aa1bb01353194b643a8c2a6b"
+    "d180bdfd3a1ae791aa1bb01353194b643a8c2a6b",
+    "fe57935485125d96d11c9f2ed83d8328aef9276a",
+    "cb72e0554fa895f6a8d336708e95880f29524aa2",
+    "61b08d5ef9b0bcefb796381da81b4556cfbdd22c",
+    "cd61778057f63fe28a7b9b57e53cacbc4bb2acbc",
+    "e47b950831a3bc78595b41eeb7446006e1a5364e",
+    "4bd750acba51288ef2eb75d51fa886126ca425c2",
+    "5637e8f5f1027c901754be782f56f0e3311f1f86",
+    "263e578852aac5fcd3e6795222313e636ff3383f",
+    "de83704bf38d7ec7a201b59df6f9e156c91ebef9",
+    "e2141d56a4abde570fd3feb5858f73d81b9e6cff",
+    "39a914d40779ee15bf6a654442f52be302d7289d"
   ],
   "recent_titles": [
     {
@@ -428,6 +439,36 @@
       "title": "Новое видео PATRIARCHS IN BLACK",
       "source": "Darkside",
       "ts": 1790968431
+    },
+    {
+      "title": "Новое видео STEVEN WILSON",
+      "source": "Darkside",
+      "ts": 1790981904
+    },
+    {
+      "title": "Новое видео METHANE",
+      "source": "Darkside",
+      "ts": 1790981906
+    },
+    {
+      "title": "Новое видео KING 810",
+      "source": "Darkside",
+      "ts": 1790981911
+    },
+    {
+      "title": "Новое видео MISS MAY I",
+      "source": "Darkside",
+      "ts": 1790981919
+    },
+    {
+      "title": "KYLE THOMAS завершил запись вокала для TROUBLE",
+      "source": "Darkside",
+      "ts": 1790981926
+    },
+    {
+      "title": "CHRIS HARMS выпустит новый альбом зимой",
+      "source": "Darkside",
+      "ts": 1790981928
     }
   ],
   "initialized_sources": [
@@ -452,7 +493,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T07:17:39+00:00",
       "id": "d221d52a23b9fd4592f27a04382b339c37371ad7",
-      "retry_after": 1790968741
+      "retry_after": 1790982283
     },
     {
       "source": "ThePRP",
@@ -464,7 +505,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T05:57:16+00:00",
       "id": "c524362be76448dc962a20664fa389b16dd9c8a2",
-      "retry_after": 1790968742
+      "retry_after": 1790982285
     },
     {
       "source": "ThePRP",
@@ -476,7 +517,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T05:28:42+00:00",
       "id": "4a489f991567f9ca44724135b6916ae63125268b",
-      "retry_after": 1790968744
+      "retry_after": 1790982286
     },
     {
       "source": "ThePRP",
@@ -488,7 +529,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T04:56:29+00:00",
       "id": "82cd59e97acc2367e4332dc2fdb04fa739a57a55",
-      "retry_after": 1790968745
+      "retry_after": 1790982287
     },
     {
       "source": "ThePRP",
@@ -500,19 +541,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T04:40:18+00:00",
       "id": "eb16d62e5b2685f09601fd7b08b59c6a0764f06e",
-      "retry_after": 1790968747
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Miss May I Premiere “Bury Me Down” Music Video",
-      "link": "https://www.theprp.com/2026/10/01/news/miss-may-i-premiere-bury-me-down-music-video/",
-      "rss_body": "Their eighth studio album \"No Place For Me\" is also now available",
-      "tags": "News Miss May I",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T04:30:34+00:00",
-      "id": "39a914d40779ee15bf6a654442f52be302d7289d",
-      "retry_after": 1790968747
+      "retry_after": 1790982288
     },
     {
       "source": "Louder",
@@ -524,7 +553,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T04:19:19+00:00",
       "id": "e5054f79ebf58e38aeb2aac27e1491de8761e25d",
-      "retry_after": 1790968750
+      "retry_after": 1790982292
     },
     {
       "source": "Ultimate Classic Rock",
@@ -536,7 +565,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T04:17:42+00:00",
       "id": "6f43b0fcbe02d371a93b1c3fd1f1bcbae7360589",
-      "retry_after": 1790968752
+      "retry_after": 1790982294
     },
     {
       "source": "Louder",
@@ -548,7 +577,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T03:14:50+00:00",
       "id": "ecf32de475f5406bea106d43cbc9dcfcce2b23d3",
-      "retry_after": 1790968759
+      "retry_after": 1790982301
     },
     {
       "source": "Metal Injection",
@@ -560,7 +589,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-01T17:12:56+00:00",
       "id": "25cfcf010d47132c62d05d103fd6b4383319ca8b",
-      "retry_after": 1790968759
+      "retry_after": 1790982301
     },
     {
       "source": "No Clean Singing",
@@ -572,7 +601,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-01T17:05:17+00:00",
       "id": "c477addc5920dd1b9c11b911e4a5545409ff9630",
-      "retry_after": 1790968762
+      "retry_after": 1790982305
     },
     {
       "source": "Louder",
@@ -584,7 +613,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T17:00:00+00:00",
       "id": "5da3ffc36fed1ebf581a093fa07b89f089e74819",
-      "retry_after": 1790968772
+      "retry_after": 1790982315
     },
     {
       "source": "No Clean Singing",
@@ -596,7 +625,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T16:01:13+00:00",
       "id": "347b62273d7a1b332357d92957d9f8e7f40ac913",
-      "retry_after": 1790968776
+      "retry_after": 1790982320
     },
     {
       "source": "Decibel",
@@ -608,7 +637,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-01T16:00:13+00:00",
       "id": "a9c0ff61a39f06cee5b4e322d9b2edcaf2ac2fd6",
-      "retry_after": 1790968777
+      "retry_after": 1790982321
     },
     {
       "source": "Decibel",
@@ -623,7 +652,7 @@
       "duplicate_ids": [
         "b8e6983fe841c996d4c77488be5e6dfc41622b10"
       ],
-      "retry_after": 1790968782
+      "retry_after": 1790982325
     },
     {
       "source": "Metal Injection",
@@ -631,11 +660,11 @@
       "title": "Venom Frontman Cronos Dead at 63",
       "link": "https://metalinjection.net/news/venom-founder-cronos-dead-at-63",
       "rss_body": "Today, black metal band Venom revealed on social media that founder and bassist Cronos, has died. In",
-      "tags": "Latest News venom featured1",
+      "tags": "Latest News venom featured",
       "category": "Экстремальный метал",
       "published": "2026-10-01T15:34:25+00:00",
       "id": "f9d084fa99db7cff6f1bfa766926b58683768fde",
-      "retry_after": 1790968782
+      "retry_after": 1790982325
     },
     {
       "source": "Metal Injection",
@@ -647,7 +676,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T15:18:06+00:00",
       "id": "1f015c5a80b88913c42e03b55e82204b7216bf13",
-      "retry_after": 1790968782
+      "retry_after": 1790982325
     },
     {
       "source": "Decibel",
@@ -659,7 +688,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T14:00:35+00:00",
       "id": "cf54e54fd240730a16243efc4a02613449a91326",
-      "retry_after": 1790968714
+      "retry_after": 1790982259
     },
     {
       "source": "No Clean Singing",
@@ -671,19 +700,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-02T13:55:14+00:00",
       "id": "cb08304e9225f94ff837d87b3e527129cd6e5f95",
-      "retry_after": 1790968718
-    },
-    {
-      "source": "Metal Injection",
-      "priority": 92,
-      "title": "The Weekly Injection: New Releases From Amon Amarth, Imminence, and More Out This Week – 10.2",
-      "link": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-amon-amarth-imminence-and-more-out-this-week-10-2",
-      "rss_body": "Plus releases from Dead Poet Society, Dissimulator, Frozen Crown, Haywire, Lustmord Lombardo, Temic, and To The Grave",
-      "tags": "Weekly Injection Amon Amarth butcher babies featured1 To The Grave Dead Poet Society temic Imminence Dissimulator haywire lustmord lombardo frozen crown",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T13:53:42+00:00",
-      "id": "4bd750acba51288ef2eb75d51fa886126ca425c2",
-      "retry_after": 1790968718
+      "retry_after": 1790982263
     },
     {
       "source": "Louder",
@@ -695,7 +712,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T13:08:20+00:00",
       "id": "80d1374be2a671e097c2e451a1b4a2b5cfc84322",
-      "retry_after": 1790968720
+      "retry_after": 1790982266
     },
     {
       "source": "ThePRP",
@@ -707,7 +724,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T13:00:00+00:00",
       "id": "674c6a0f5a7da605df5cdf8cd7bb7b61ef5e56e3",
-      "retry_after": 1790968722
+      "retry_after": 1790982267
     },
     {
       "source": "Ultimate Classic Rock",
@@ -719,19 +736,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T12:41:34+00:00",
       "id": "e68e36628a811ed8585afbcfcf42d0a4444026ca",
-      "retry_after": 1790968725
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Steven Wilson shares downright creepy video for new song On Chapel Slope",
-      "link": "https://www.loudersound.com/music/music-videos/steven-wilson-shares-downright-creepy-video-for-new-song-on-chapel-slope",
-      "rss_body": "Steven Wilson\n\nhas shared his eerie new video for new song\n\nOn Chapel Slope\n\n, which gives fans a further insight into the fictional village of Larkstone, the centrepiece of his upcoming album\n\nRequiem For A Village\n\n.\n\nWilson will release his ninth studio album through Fiction Records on November 6. The album's title comes from the cult 1975 folk horror film of the same name. Directed by David Gladwell, who had served as Editor of Lindsay Anderson’s\n\nIf....\n\nand\n\nO Lucky Man!\n\nfilms, in the film an old man sees the dead rise from their graves in a rural English churchyard, in a representation of the modernisation of rural life.\n\nThe film has served as an inspiration for the new album, which is described as being \"set in a\n\nWicker Man\n\nlandscape where the paintings of Stanley Spencer hang in the local art gallery, the stories of M. R. James and Algernon Blackwood sit on the shelves of the public library, and the children of the stones play in the market square...\"\n\nIn the new video, directed by Mike Bennion and which features a village wedding with the central characters played by Wilson and his real-life partner Rotem, villagers rise from the graveyard surrounding the church with images of a nameless and decaying rural English village, which later extends to the attendees of the wedding itself, as Wilson's equally unsettling musical score swirls around.\n\nRequiem For A Village\n\nwill be available on CD, Blu-Ray, 140g two 12” black vinyl, oxblood coloured two 12” vinyl and as a boxset featuring 2 CDs, Blu-Ray disc packaged in a 96-page hardback book box. Limited numbers of signed CDs will be available through Amazon, and CDs with exclusive packaging will be available through HMV.\n\nWilson\n\nwill play two sold-out shows at the Royal Albert Hall (28th and 29th October) accompanied by his band, the Parallax Orchestra & Sansara choir conducted by Tom Richards. The shows mark the closure of one album cycle and an introduction to the next, as the musicians will play newly created orchestral arrangements of\n\nThe Overview\n\nas well as tracks from\n\nRequiem For A Village\n\n.\n\nPre-order here\n\n.",
-      "tags": "Music Videos Music",
-      "category": "Прогрессив",
-      "published": "2026-10-02T11:59:10+00:00",
-      "id": "61b08d5ef9b0bcefb796381da81b4556cfbdd22c",
-      "retry_after": 1790968727
+      "retry_after": 1790982270
     },
     {
       "source": "Louder",
@@ -743,7 +748,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T11:14:38+00:00",
       "id": "947a38c8fba5e6f685164698839be2d60a8c085e",
-      "retry_after": 1790968730
+      "retry_after": 1790982273
     },
     {
       "source": "Louder",
@@ -755,7 +760,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T09:05:00+00:00",
       "id": "e5dc861a3c2425885c733ab9994183371620f075",
-      "retry_after": 1790968737
+      "retry_after": 1790982278
     },
     {
       "source": "Louder",
@@ -767,7 +772,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T08:12:15+00:00",
       "id": "0dd606061d373d27d8c3c995d6240870e61834af",
-      "retry_after": 1790968739
+      "retry_after": 1790982282
     },
     {
       "source": "ThePRP",
@@ -779,7 +784,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T18:27:45+00:00",
       "id": "e1b36a611cee576fcfcda4024004f5e9fbd59f03",
-      "retry_after": 1790968679
+      "retry_after": 1790982227
     },
     {
       "source": "ThePRP",
@@ -791,7 +796,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T18:09:16+00:00",
       "id": "d49cd02a206d518ff649a2c10d8fd896f5fb0a4e",
-      "retry_after": 1790968680
+      "retry_after": 1790982230
     },
     {
       "source": "ThePRP",
@@ -803,7 +808,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T17:55:50+00:00",
       "id": "659534bb4cee09269f7688fdb93f570d27f4bce1",
-      "retry_after": 1790968681
+      "retry_after": 1790982230
     },
     {
       "source": "ThePRP",
@@ -815,7 +820,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T17:44:44+00:00",
       "id": "ae89c2f98946c6924cfcd021a55173ad7688769b",
-      "retry_after": 1790968682
+      "retry_after": 1790982231
     },
     {
       "source": "Metal Injection",
@@ -823,11 +828,11 @@
       "title": "The October Progressive Injection: Featuring Enslaved, TEMIC, The Pineapple Thief & More",
       "link": "https://metalinjection.net/upcoming-releases/the-october-progressive-injection-featuring-enslaved-temic-the-pineapple-thief-more",
       "rss_body": "The finest selection of prog the scene has to offer this month. For your first course, Enslaved",
-      "tags": "Upcoming Releases Enslaved The Pineapple Thief temic progressive injection",
+      "tags": "Upcoming Releases Enslaved The Pineapple Thief featured2 temic progressive injection",
       "category": "Прогрессив",
       "published": "2026-10-02T17:34:15+00:00",
       "id": "bd4701e52104d02b3fa9d9c8a0074c6c5282d5aa",
-      "retry_after": 1790968682
+      "retry_after": 1790982232
     },
     {
       "source": "ThePRP",
@@ -839,7 +844,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T17:26:33+00:00",
       "id": "f2e07be970222885e07b827fa5460842a99c7c92",
-      "retry_after": 1790968682
+      "retry_after": 1790982232
     },
     {
       "source": "ThePRP",
@@ -851,7 +856,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T17:04:33+00:00",
       "id": "7acd7958841a326c1cf1ea51f5358251603e696a",
-      "retry_after": 1790968684
+      "retry_after": 1790982233
     },
     {
       "source": "Louder",
@@ -863,7 +868,7 @@
       "category": "Прогрессив",
       "published": "2026-10-02T17:00:00+00:00",
       "id": "b8a4c0c2808d9ea11c3275a1dc060b76e51217a3",
-      "retry_after": 1790968690
+      "retry_after": 1790982240
     },
     {
       "source": "Metal Injection",
@@ -871,11 +876,11 @@
       "title": "Oh God, Why Is Eminem on the New Kid Rock Album?",
       "link": "https://metalinjection.net/news/oh-god-why-is-eminem-on-the-new-kid-rock-album",
       "rss_body": "Their musical relationship continues",
-      "tags": "Latest News kid rock eminem",
+      "tags": "Latest News kid rock eminem featured",
       "category": "Хэви-метал",
       "published": "2026-10-02T16:55:06+00:00",
       "id": "5ad6921c06e7e524048e11b524256b2f70c57554",
-      "retry_after": 1790968690
+      "retry_after": 1790982240
     },
     {
       "source": "ThePRP",
@@ -887,7 +892,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:52:30+00:00",
       "id": "e39158f591241ab4e3512fe8f2d768d00cc1a600",
-      "retry_after": 1790968691
+      "retry_after": 1790982241
     },
     {
       "source": "ThePRP",
@@ -899,7 +904,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:39:46+00:00",
       "id": "56db0aa843a63cab370d23182e77700b3d835085",
-      "retry_after": 1790968692
+      "retry_after": 1790982242
     },
     {
       "source": "No Clean Singing",
@@ -911,7 +916,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-02T16:30:52+00:00",
       "id": "02b797e09f1104e81a507115a15bcb343728d6bd",
-      "retry_after": 1790968695
+      "retry_after": 1790982246
     },
     {
       "source": "ThePRP",
@@ -923,7 +928,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:29:33+00:00",
       "id": "edb53faaeea34dc8f11b533f7b053b8049744127",
-      "retry_after": 1790968697
+      "retry_after": 1790982247
     },
     {
       "source": "Metal Injection",
@@ -935,7 +940,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:19:04+00:00",
       "id": "d579c449412d504f22f4267c4dfba97b661fb2bb",
-      "retry_after": 1790968697
+      "retry_after": 1790982247
     },
     {
       "source": "ThePRP",
@@ -947,7 +952,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:08:39+00:00",
       "id": "2ce963544503df78b8eaece50b99e7dfa2feb203",
-      "retry_after": 1790968698
+      "retry_after": 1790982248
     },
     {
       "source": "Decibel",
@@ -959,7 +964,7 @@
       "category": "Прогрессив",
       "published": "2026-10-02T16:00:59+00:00",
       "id": "b9b2e733e05548671f90275bb0b1a3bfef2c64e0",
-      "retry_after": 1790968701
+      "retry_after": 1790982251
     },
     {
       "source": "Louder",
@@ -971,7 +976,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T15:00:00+00:00",
       "id": "39bb3cfda129505efa18e2c8ab540475bc7b4ab6",
-      "retry_after": 1790968705
+      "retry_after": 1790982255
     },
     {
       "source": "No Clean Singing",
@@ -983,19 +988,190 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T14:58:46+00:00",
       "id": "ac5831afbd9a8f7104a6c323375c487d2727d140",
-      "retry_after": 1790968707
+      "retry_after": 1790982258
     },
     {
       "source": "Louder",
       "priority": 84,
-      "title": "Cool new prog from Steven Wilson, Annicke Shireen, Arabs In Aspic and more in Prog's brand new Tracks Of The Week",
-      "link": "https://www.loudersound.com/music/music-videos/cool-new-prog-from-steven-wilson-annicke-shireen-arabs-in-aspic-and-more-in-progs-brand-new-tracks-of-the-week",
-      "rss_body": "We're back with a brand new\n\nTracks Of The Week\n\n! This week we've got another seven new and diverse slices of progressively inclined music for you to enjoy.\n\nA massive well done to Bangalore prog trio Rainburn, whose track\n\nConfessions\n\nsaw off stiff competition from Crown Lands and Lesoir to win last week's\n\nTracks Of The Week\n\n.\n\nThe premise is simple - we've listened to a batch of new releases by bands falling under the progressive umbrella, and collated them together in one post for you - it makes it so much easier than having to dip in and out of various individual posts, doesn't it?\n\nThe idea is to watch the videos (or listen if it's a stream), enjoy (or not) and also to vote for your favourite in the voting form at the bottom of this post. Couldn't be easier, could it? We'll be bringing you\n\nTracks Of The Week\n\n, as the title implies, each week. Next week, we'll update you with this week's winner and present a host of new prog music for you to enjoy.\n\nIf you're a band and you want to be featured in\n\nProg\n\n's\n\nTracks Of The Week\n\n, send your video (as a YouTube link) or track embed, band photo (please, don't forget the photo!) and biog with quotes to us\n\nhere\n\n.\n\nSTEVEN WILSON - ON CHAPEL SLOPE\n\nSteven Wilson's upcoming ninth album,\n\nRequiem For A Village\n\n, gets a whole lot creepier with the video for the second single,\n\nOn Chapel Slope\n\n. The video is clearly inspired by David Gladwell's from the cult 1975 folk horror film of the same name, in which an old man sees the dead rise from their graves in a rural English churchyard, in a representation of the modernisation of rural life.\n\nThat's echoed in the video, directed by Mike Bennion, and which features a village wedding with the central characters played by Wilson and his real-life partner Rotem; villagers rise eerily from the graveyard surrounding the church, with images of a nameless and decaying rural English village, which later extends to the attendees of the wedding itself, as Wilson's equally unsettling musical score swirls around.\n\nANNICKE SHIREEN - LOUD HAG\n\nBetter known for her work with Pure Reason Revolution and Heilung, Dutch musician Annicke Shireen will release her debut solo album,\n\nDelirium\n\n, on Friday November 13. She certainly brings the riffs to her first single, the enigmatic\n\nLoud Hag\n\n, reclaiming a term traditionally used to diminish women.\n\n“Delirium is about the moment when the framework you have been living inside no longer fits,\" she explains. It’s the magic of the moment where we stop being acceptable and start becoming ourselves. I wanted to explore that uncomfortable space between losing control and finally taking the power back.\n\n\"I wanted to give words to the beauty of a mind that does not always move according to the expected rules. Rather than presenting fragmentation as something that needs to be fixed, I wanted to shed light on the wisdom, knowledge and power inside it. The songs of my debut album give shape to feelings of rage, grief, fear, euphoria and love, and I believe music is the best medium to speak from heart to heart.”\n\nDIKAJEE - FRIAR'S LANTERN\n\nProg multi-instrumentalist Dikajee, or Olga Karpova as she was known to mum and dad, has shared a video for her latest single, the sweetly melodic and classy\n\nFriar's Lantern\n\n. The song is taken from her upcoming second album,\n\nThe Frame\n\n, which is released on November 6, and features a guest appearance from Klone guitarist Guillaume Bernard.\n\n“This song should probably be called\n\nWondering Ligh\n\nt because that’s what I’ve meant to describe, but I just loved that word combination,\" says Karpova. \"This song is empowering, but at the same time it’s a type of song that you would sing to someone who is dying; you’re gonna be ok, it’s gonna be fine; like a reassurance to make the dying person avoid horror. At the same time, I’m picturing some ghosts of dreams that are probably dead somewhere inside you, but if you spend some time with yourself, reach out to your deep spirit, you may find that that kid who dared to dream, to laugh, to fall in love, to say yes to adventures is still there and that it’s never too late to live if you’re alive. I think this song is a sister of the previous track\n\nHome Of The Wind\n\n.\"\n\nT.A.P. - A HOLE IN THE GROUND\n\nT.A.P. is a Montreal musician, Michael Jobborn, who, after releasing his debut album,\n\nParadigms\n\n, in 2022, joined forces with Mark Cook, with Fearful Symmetry guitarist Suzi James subsequently completing the core lineup for second album,\n\nParadigms II\n\n, which has just been released. A selection of guest musicians also appear across the album: Chris Gill, Chris Messina, Steve Bonino, Gayle Ellett, Massimo Pieretti, Tenk van Dool, and it's Bonino's vocals you hear on the brooding\n\nA Hole In The Ground\n\n.\n\n“This album has been in the works for three years now,” says Jobborn. “It has finally been released and we're hoping you all enjoy our music.”\n\nARABS IN ASPIC - SISTE DANS\n\nNorwegian prog rock quintet Arabs In Aspic originally began life as a Black Sabbath covers band, before dipping into more intriguing, progressively inclined sounds. Their Norwegian‑language album\n\nSorgens kapittel\n\nwill be released on what would have been the 50th birthday of the band's late keyboardist, acoustic guitarist and vocalist Stig Arve Kvam‑Jørgensen on Wednesday, October 21. He sadly died unexpectedly in 2025.\n\n\"The songs on\n\nSorgens kapittel\n\nare written entirely in Norwegian, making the lyrics colourful and vivid for those who understand the language, and exotic for those who do not,\" the band say. \"After more than 20 years at the forefront of Norwegian prog rock, the band continues its unique retro‑progressive sound.\"\n\nMAIAH WYNNE - GIRL DINNER\n\nEnvy Of None singer Maiah Wynne, an acclaimed songwriter and multi-instrumentalist, released her latest solo album,\n\nInto The Waves,\n\nthrough Kscope last week. It's her first release for the label, also home to Envy Of None, who, with guitarist Alex Lifeson somewhat preoccupied with a certain Rush tour, has given the other members time to flex their own musical wings. Wynne will debut her new songs at Smithfield Piano in London on October 14.\n\n\"There is so much I want to say and will say, but for now, this song is a tongue-in-cheek protest tune I wrote for a little cathartic release,\" says of new single\n\nGirl Dinner\n\n. \"Playing this song on tour with the audience singing along was one of the most meaningful experiences I have ever had through music, and I tried to capture that feeling in the recording. Hopefully, it can be a moment of catharsis for those listening too. The more divided our world becomes, the more important it is for us to reconnect through any means we can. I think there is always hope to be found in a song.\"\n\nJOHN HOLDEN - A SILENT SPARK\n\nUK progger John Holden releases his new studio album,\n\nThresholds,\n\ntoday. To celebrate, he's released a new video for the track\n\nA Silent Spark\n\n, which features Karnataka vocalist Sertari turning in a haunting performance on vocals. The new album also features guest vocalists Sally Minnear and Peter Jones from Tiger Moth Tales and Camel.\n\n\"I’ll never forget standing inside the Anne Frank House,\" Holden says of the inspiration for\n\nA Silent Spar\n\nk. \"The rooms are small, the air still, but there’s a quiet presence. What struck me most wasn’t the tragedy, but the courage she held onto. The belief that people could be kind, even when kindness was rare. The song is my way of honouring that feeling. A distant voice of gentleness in a world that shouts more than it listens. A quiet prayer for a better world, one where compassion outshines cruelty and small acts of bravery matter. It’s a reminder that even in darkness, the spark of hope can survive.\"",
-      "tags": "Music Videos Music",
+      "title": "Noel Gallagher's track-by-track guide to Oasis' (What's the Story) Morning Glory?",
+      "link": "https://www.loudersound.com/bands-artists/noel-gallaghers-track-by-track-guide-to-whats-the-story-morning-glory",
+      "rss_body": "(What's the Story) Morning Glory?\n\n,\n\nOasis\n\n' 1995 follow-up to their debut album\n\nDefinitely Maybe\n\nwas recorded in just 12 working days, and went on to sell over 22 million copies, turning the Manchester indie rock band into global superstars.\n\n\"We're not exactly short on self-belief, but it is much better than the last one,\" Noel Gallagher promised to\n\nNME\n\nthree months ahead of the album's October 2, 1995 release. \"Everyone who's heard it says that as well, and I don't think it's just arse licking.\"\n\nBigger certainly. Better? Hmmm, that's a matter of opinion. But here's Noel Gallagher thoughts on every song on his band's best-loved record.\n\nHello\n\n\"I'll be told by someone in the States next year the meaning of the song\n\nHello\n\n, which to me hasn't got no meaning,\" Noel Gallagher told\n\nAlternative Press\n\nmagazine ahead of the release of his band's second album. \"It's just words strung together.\"\n\n\"The lyrics are '\n\nWe live in the shadows/We had the chance and we threw it away/And it's never gonna be the same',\"\n\nOasis' songwriter quoted to\n\nSelect\n\nmagazine.\n\n\"\n\nIt's just saying, Well, it's never gonna be the same for us anymore, I s'pose. If\n\nDefinitely Maybe\n\nwas about dreaming about being in a band, this one's about actually being in a band. So it's like, Hello, it's good to be back – back making records.\"\n\nFamously, the opening song on\n\nWhat's The Story\n\n... carries a co-writing credit for glam rock star-turned-convicted paedophile Gary Glitter, as on an early take of the song, Noel Gallagher spontaneously sang a lyric from Glitter’s 1973 single\n\nHello, Hello, I'm Back Again\n\nduring its outro, which apparently caused much amusement in the studio.\n\n\"[Producer] Mark Coyle said, 'You're not going to have that bit in the fucking song: it's Gary Glitter!'\" Gallagher recalled on a 2021 episode of the Matt Morgan Podscast. \"And I said, No, no, no, I'm gonna write something else, but I'll put that in for now. And I could never come up with anything for it. And I just went, Fuck it, because we were high in the studio.\"\n\nRoll With It\n\nWhen Noel Gallagher gave\n\nNME\n\na song-by-song breakdown of Oasis' second album ahead of its release he bluntly declared that\n\nRoll With It\n\nis \"about fuck all\".\n\nGallagher offered a little more insight when talking\n\nSelect\n\nmagazine through every song on the record.\n\n\"It's just a typical fuckin' Oasis thing,\" he explained. \"Shut up moanin' and fuckin' get on with it. You've gotta say what you say, and be who you be. It's the same sentiments as there is in nearly every song we do. Y'know,\n\nSupersonic\n\n– '\n\nYou've gotta be yourself.\n\n..' It starts to get a bit boring (laughs), but those are the lyrics I feel comfortable with.\n\n\"We got a lot of criticism for putting it out as a single,\" he admitted. \"It's not the greatest song in the world, it's not even the greatest Oasis song.\"\n\nAsked by\n\nSelect\n\nif the song was written about his younger brother Liam, Gallagher replied, \"Is it fuck!\"\n\nWonderwall\n\n\"It's about my girlfriend, Meg Matthews,\" Noel told\n\nNME\n\nin September'95. \"She had a company which folded, and she was feeling a bit sorry for herself. The sentiment is that there was no point in her feeling down, she has to sort my life out for me, because I'm in bits half the time.\"\n\nIn 2002 however, during an interview for a BBC Radio 2 documentary, the guitarist claimed that the song wasn't about Matthews at all. That he waited until a year after he and his ex-wife Matthews divorced to share this information may or may not be a coincidence.\n\n\"The meaning of that song was taken away from me by the media who jumped on it,\" he insisted, as if this misinterpretation had nothing to do with him. \"How do you tell your Mrs it's not about her once she's read it is? It's a song about an imaginary friend who's gonna come and save you from yourself.\"\n\n\"Its original title was\n\nWishing Stone\n\n,\" he revealed in another interview. \"We played the Cathouse in Glasgow, I met some girl and we went back to my hotel room and she had this stone in her pocket that she insisted I had... I thought it was a great title and the song came out of that. It was called\n\nWishing Stone\n\nfor ages until we were listening to\n\nWonderwall Music\n\nby George Harrison and it was like, Brilliant, I’ve got a Beatles connection.\"\n\n\"When we were first playing it, our Liam said he thought it was shit,\" the guitarist told\n\nSelect\n\n, gleefully mocking his brother. \"We were doing the backing track and our Liam goes, 'I'm not singing on that, it's fuckin' stupid, man, it's fuckin' reggae music...' So I said, Why don't you go off to the chippie then, and we'll see you in a bit, eh? Now that he's sang on it, of course, it's the greatest song ever written.\"\n\nDon't Look Back In Anger\n\n\"It's about not being upset about the things you might have said or done yesterday,\" Noel told\n\nNME\n\n's Andy Richardson. \"It's about looking forward rather than looking back. I hate people who look back on the past or talk about what might have been.\"\n\nGallagher performed the song for the first time at Oasis' first ever arena headline show, at the 12,000-capacity Sheffield Arena (now the Utilita Arena Sheffield) on April 22, 1995, having written the basic chord structure in Paris just 48 hours earlier, ahead of his band's gig at the Bataclan club. On the afternoon of the gig in Sheffield, the song was still lacking a chorus, but while Noel was strumming the chords during the band's soundcheck, his younger brother inadvertently inspired what would become its iconic refrain.\n\n\"Liam come up and said, 'Who's Sally?' Noel recalled in his commentary for the Oasis videos compilation\n\nOasis: Time Flies 1994-2009\n\n. \"And I was like, What the fuck are you talking about? And he said, 'Is that what you're singing? So Sally can wait?' And I was like, No, it isn't. But it fucking is now, nice one.\"\n\n\"Someone came up to me at an Ian Brown gig once and asked me, 'Was Sally, the girl in question, actually\n\nSally Cinnamon\n\nfrom the Stone Roses song?', which I thought was fucking brilliant. She'd obviously sat down and worked this out, and I didn't want to spoil it for her, so I said, Yes, it is\n\nSally Cinnamon\n\n. Which it's not, really.\"\n\nAnd Noel's memory of the song's iconic video?\n\n\"Bag of shite. A waste of an afternoon.\"\n\nHey Now!\n\n\"One of the best songs I've ever written, and one of the simplest,\" Gallagher declared in 1995. \"It's a cross between\n\nI Wanna Be Adored\n\nby The [Stone] Roses and summat Neil Young might've done when he was better than he is now.\"\n\nThe song's lyrics, he said, are \"about being in a group\".\n\n\"There's no regret in there,\" he insisted to\n\nSelect\n\n, \"definitely no regret. But\n\nDefinitely Maybe\n\nwas a very 'up' album, because we were dreaming of what was gonna come our way... This is about looking back and going, Well, we've got where we wanted to be, but it's been fucking hard work... it's not been as big a laugh as we thought it'd be.\"\n\nUntitled (aka The Swamp Song)\n\nOriginally called\n\nThe Jam\n\n, this short instrumental features Paul Weller on harmonica, and lead guitar. \"It's only about 40-odd seconds, but I think the full version will come out eventually\" Gallagher predicted. And it did, on the B-side of the\n\nWonderwall\n\nsingle.\n\nSome Might Say\n\n\"We'd just signed and I was living in a bedsit in Manchester,\" Gallagher told\n\nUncut\n\nin 2006. \"[Creation records boss] Alan McGee would phone up on like a Wednesday, 'Alright, we're having a party in the office, come down.' If somebody's got their own record label and they're having a party 'cos its Wednesday, that's where I fucking need to be. So I come down to London with a guitar, jeans, trainers - not even a toothbrush - and had a fucking brilliant time. The offices were out in Hackney and he sent the staff round the pub to come back with a tray of Jack Daniel's and cokes, it was like: Fucking hell man, no way am I going back to Manchester, I can't live there any more. I finished with me bird, moved down, and I remember just writing this song, I think I was off my head on drugs.\"\n\n\"It's psychedelia-meets-social comment, man,\" he commented in\n\nSelect\n\nmagazine. \"The verses are quite deep. Some of them are about homeless people, and people who can't always get what they want, and how people who can get what they want always seem to be moaning more than people who can't. I wanted something deep and meaningful for the chorus, but, in the end I just gave up and thought, Fuck it, might as well just go stupid and have stuff about fishes and dishes and dogs itchin' and all that...\"\n\nCast No Shadow\n\n\"It was inspired by Richard [Ashcroft] from The Verve,\" Gallagher told\n\nNME\n\n. \"I sussed Richard wasn't very happy for a while so l wrote it for him and about three weeks later he quit. It's about songwriters in general who are desperately trying to say something. I'd like to be able to write really meaningful lyrics,but I always end up talking about drugs or sex.\"\n\n\"In my head, I believe I wanted it to sound like Pink Floyd because it's the same chords as\n\nWish You Were Here,\n\nthe opening chords are the same,\" he added in a 2021 interview, revisiting the album track-by-track at Rockfield studios. \"I was listening to it today, and it sounds a bit half baked to me. There's a country thing going on, and it's kind of falling in between two stylistic stools, but it's a fucking great song... some of the best words I ever wrote.\"\n\nShe's Electric\n\nIn an interview with\n\nSelect'\n\ns Andy Perry, Gallagher cheerfully admitted that he'd ripped off the melody and key lyrics for\n\nShe's Electric\n\nfrom a British educational TV series for children called\n\nStop, Look, Listen\n\n.\n\n\"It's a very childish song, even more than Digsy's Dinner',\" he acknowledged. \"Of course,\n\nas soon as our Liam heard it, he goes, 'That should be the first single!' I'm goin', Don't be so fuckin' ridiculous! You knob! We had a lot of fun doing that one. Is it a Blur\n\npiss-take? You said that, not me, mate.\"\n\nMorning Glory\n\n\"It's a cynical song about drugs\", Gallagher told\n\nNME\n\nin 1995.\n\n\"Cocaine and fucking razorblades and mirrors,\" he expanded in an interview with\n\nUncut\n\n21 years later. \"I'm amazed we got away with it at the time. I love it when we play it live. Somebody said to me on the phone once, it's an American saying: 'What's the story, morning glory'?, like we say, All right, how you doing? And I was like, fuck, hang on a minute, while I write that down, that's fucking starters, I'll have that.\"\n\n\"I do remember writing that fucking line, '\n\nAll your dreams are made when you're chained to the mirror and the razor blade'\n\nin this room,\" he said during an interview filmed at Rockfield. \"I sound like I was just in the zone there, where everything that I was writing was meaningful.\"\n\nChampagne Supernova\n\n\"When I'm out of it on drugs I get a seriously cocky bastard,\" Gallagher told the\n\nSunday Times\n\nin 1996. \"\n\nChampagne Supernova\n\n- for Christ's sake, how big is that title? It's like I'm saying, I am Mr Noel Gallagher. Do you know who I am? I am the greatest. I'm like Muhammad Ali.\"\n\nThe song, which Gallagher says took influences from Led Zeppelin's\n\nStairway To Heaven\n\n, and The Beatles'\n\nDear Prudence\n\n, features a guitar solo from his hero and friend Paul Weller, who later called Gallagher \"a cunt\" because he felt the Oasis man had deliberately kept his contribution low in the final mix.\n\n\"It was crying out for a guitar solo because mine was a shocker,\" Gallagher admitted.\n\nTo this day, the songwriter isn't at all sure what the song's lyrics are about. However, the world's most famous Manchester City supporter has become all too familiar with the feeling of\n\n\"Sham\"\n\npain in 2026...",
+      "tags": "Bands & Artists",
       "category": "Прогрессив",
-      "published": "2026-10-02T14:22:17+00:00",
-      "id": "cb72e0554fa895f6a8d336708e95880f29524aa2",
-      "retry_after": 1790968713
+      "published": "2026-10-02T22:49:52+00:00",
+      "id": "f882027e49d664eec85c21488b861d7e01b01b88",
+      "retry_after": 1790982202
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "SLAM BAND (Filth, Etc.) Announce Their Full-Length Debut “THE ALBUM”",
+      "link": "https://www.theprp.com/2026/10/02/news/slam-band-filth-etc-announce-their-full-length-debut-the-album/",
+      "rss_body": "12 songs will be featured",
+      "tags": "News Filth Slam Band",
+      "category": "Экстремальный метал",
+      "published": "2026-10-02T21:37:18+00:00",
+      "id": "b16517caf98ac279afc0ade03f6c7bfde1fa9fa5",
+      "retry_after": 1790982205
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "The Sword & Zombi Members Unite In New Doom Metal Project Autumn Tomb",
+      "link": "https://www.theprp.com/2026/10/02/news/the-sword-zombi-members-unite-in-new-doom-metal-project-autumn-tomb/",
+      "rss_body": "A debut effort will be out in November, with the first single now streaming",
+      "tags": "News Autumn Tomb The Sword Zombi",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T21:03:33+00:00",
+      "id": "8045d9037be0a86e012e32bb63aaaf2444517842",
+      "retry_after": 1790982208
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Alienist Welcome New Guitarist/Vocalist Jacob Churchward With “Phantom” Music Video",
+      "link": "https://www.theprp.com/2026/10/02/news/alienist-welcome-new-guitarist-vocalist-jacob-churchward-with-phantom-music-video/",
+      "rss_body": "But is it menacing?",
+      "tags": "News Alienist",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T20:42:51+00:00",
+      "id": "485ba0ee4472ccdd59f3b9bc8698d90fc4e4e8e6",
+      "retry_after": 1790982209
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "ATLAS’ New Single “Bittersleep” Arrives",
+      "link": "https://www.theprp.com/2026/10/02/news/atlas-new-single-bittersleep-arrives/",
+      "rss_body": "A video for the track is also now available",
+      "tags": "News Atlas",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T20:33:24+00:00",
+      "id": "da58dc1a5f0b31248599805e3693aa02fbe82ee9",
+      "retry_after": 1790982209
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Droneflower (Cave In, Etc.) Release Two Tracks For Bandcamp Friday",
+      "link": "https://www.theprp.com/2026/10/02/news/droneflower-cave-in-etc-release-two-tracks-for-bandcamp-friday/",
+      "rss_body": "One of which is said to have been penned for a canceled 'Buffy The Vampire Slayer' reboot",
+      "tags": "News Cave In Droneflower Marissa Nadler Stephen Brodsky",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T20:28:37+00:00",
+      "id": "95cf9cf2349190e4cf495f3bf76f696db0fe9ad8",
+      "retry_after": 1790982210
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Kim Dracula & Criss Angel’s ‘Haunted” Live Event Postponed To 2027",
+      "link": "https://www.theprp.com/2026/10/02/news/kim-dracula-criss-angels-haunted-live-event-postponed-to-2027/",
+      "rss_body": "It's been stated that the production needs more time to be fully realized",
+      "tags": "News Kim Dracula",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T20:17:47+00:00",
+      "id": "39bbfbdcfa4c8468911d43399d8cc5a49d2bd182",
+      "retry_after": 1790982211
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Slash Feat. Myles Kennedy And The Conspirators Announce New Album “Flying Blind” & World Tour",
+      "link": "https://www.theprp.com/2026/10/02/news/slash-feat-myles-kennedy-and-the-conspirators-announce-new-album-flying-blind-world-tour/",
+      "rss_body": "They've also launched a music video for the title track",
+      "tags": "News Slash Slash Feat. Myles Kennedy And The Conspirators",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T20:11:10+00:00",
+      "id": "212b8d4e0876a5f0bb58b60f94eef468e2c7ef0f",
+      "duplicate_ids": [
+        "5777c7abb1fb459fba8f9a1853120b910152ac19"
+      ],
+      "retry_after": 1790982214
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Big Ass Truck I.E. Is “Dragging Meat” On New Song",
+      "link": "https://metalinjection.net/new-music/listen-big-ass-truck-i-e-is-dragging-meat-on-new-song",
+      "rss_body": "Coming off their debut EP 'Found On Road Dead,' out October 20 via Nuclear Blast Records",
+      "tags": "New Music big ass truck",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T20:10:16+00:00",
+      "id": "ddabebd2b57ed559f5e1bd9e7310b38f72306654",
+      "retry_after": 1790982214
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Are AC/DC About To Play Their Last-Ever Concert?",
+      "link": "https://ultimateclassicrock.com/ac-dc-last-show-question/",
+      "rss_body": "Will this be our last chance to salute Angus Young in person?",
+      "tags": "News Original Features AC/DC UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-02T20:03:27+00:00",
+      "id": "738654a0218a91981437787274fb3b721d4a2d4e",
+      "retry_after": 1790982217
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "As Cities Burn’s New Album “Brain Matter(s)” Gets A Wide Release",
+      "link": "https://www.theprp.com/2026/10/02/news/as-cities-burns-new-album-brain-matters-gets-a-wide-release/",
+      "rss_body": "It was previously exclusive to Lockstep",
+      "tags": "News As Cities Burn",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T19:39:25+00:00",
+      "id": "5b9d85dc3d9307f4ef478807fe63348466cbff44",
+      "retry_after": 1790982218
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Amon Amarth, A Perfect Circle, The Arson Choir & More Added to Metal Injection's Top Tracks of the Week",
+      "link": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/amon-amarth-a-perfect-circle-the-arson-choir-more-added-to-metal-injections-top-tracks-of-the-week",
+      "rss_body": "Also including picks from TEMIC and Dead Poet Society",
+      "tags": "Top Tracks Of The Week Amon Amarth tony iommi a perfect circle The Arson Choir To The Grave Dead Poet Society Of Virtue temic Imminence rev3rent",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T19:31:55+00:00",
+      "id": "742ae02d96f3cba523e9270a73416dd05d54c260",
+      "retry_after": 1790982218
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "38 Special Extends 50th Anniversary Run With First 2027 Dates",
+      "link": "https://ultimateclassicrock.com/38-special-tour-dates-2027/",
+      "rss_body": "As the band's Don Barnes shared with UCR, they're still continuing to take risks after five decades together.",
+      "tags": "Concerts Exclusive Interviews News 38 Special UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-02T19:20:36+00:00",
+      "id": "7ac2851f28e0a4a07ac271f63e3b24e302e2bb57",
+      "retry_after": 1790982225
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "To The Grave's 'Liberation Front' Out Now, Grab Your Copy From Metal Injection",
+      "link": "https://metalinjection.net/new-music/to-the-graves-liberation-front-out-now-grab-your-copy-from-metal-injection",
+      "rss_body": "Plus, watch the band's new video for \"Limb From Lamb.\"",
+      "tags": "New Music To The Grave",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T18:20:08+00:00",
+      "id": "231060fbd30d2cc4f16f59718e0a194def692de7",
+      "retry_after": 1790982229
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео SLASH FEATURING MYLES KENNEDY &amp; THE CONSPIRATORS",
+      "link": "http://www.darkside.ru/news/184191/",
+      "rss_body": "\"Flying Blind\", новое видео группы SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS, доступно для просмотра ниже. Эта песня взята из альбома \"Flying Blind\", выходящего 26 февраля на Gibson Records:\n\n01. Avarice And Greed\n\n02. Good Time Girl\n\n03. Thrill Seeker\n\n04. One Of Your Kind\n\n05. Flying Blind\n\n06. Looking For A Miracle\n\n07. Sweet Kill\n\n08. Here In Babylon\n\n09. Living The Dream\n\n10. (Don't) Thread The Needle\n\n11. Rev My Heart\n\n12. Stem The Flow\n\nАльбом из 12 треков, записанный в основном вживую с давним продюсером Michael'ом «Elvis» Baskette'ом на Studio Barbarosa во Флориде, запечатлел Slash'а на гитаре и педальной стил-гитаре, Myles'а Kennedy на вокале, Todd'а Kerns'а на басу, Brent'а Fitz'а на барабанах и Frank'а Sidoris'а на ритм-гитаре в моменты максимальной непосредственности, инстинктивности и слаженности. Основную часть пластинки коллектив записал примерно за неделю, нередко успевая по две песни в день, при этом музыканты играли вместе в одной комнате.\n\n«Это очень весёлая, спонтанная рок-н-ролльная пластинка, — говорит Slash о „Flying Blind\". — Она очень прямолинейная, приземлённая и сырая».\n\nПесня родилась спонтанно во время предпродакшна: Slash показал рифф, когда музыканты готовились к репетиции. Композиция развилась быстро, соединив безошибочный хард-роковый драйв SMKC со взмывающей мелодией и мгновенным хуком, благодаря чему в итоге стала естественным выбором для знакомства с альбомом.\n\nSlash объясняет: «Она появилась в студии, пока мы стояли там на предпродакшне: ко мне пришёл рифф и начал развиваться. До прихода ребят у меня от этой песни не было ничего, а потом мы начали вечернюю репетицию и сыграли этот рифф. Всё сложилось очень быстро.\n\nЧто касается того, почему она стала первым синглом... ты никогда не знаешь, каким будет первый сингл, пока не запишешь его. Когда я начал об этом думать, у „Flying Blind\" оказались как раз подходящая мелодичность и хук, чтобы стать материалом для сингла».\n\nПо словам Myles'а Kennedy, текст заглавного трека посвящён тем лазейкам, к которым люди порой прибегают в поисках удовлетворения.\n\n«Мне очень понравилось подбирать мелодию к этой песне, — добавляет Kennedy. — В том, как начинается аккордовая последовательность, была приятная плавность. Текст о том, как люди иногда пытаются срезать путь и найти лёгкий способ достичь счастья или просветления».\n\nSMKC также анонсировали мировой тур 2027 года «Flying Blind», который стартует в Латинской Америке в апреле, а затем доберётся до Северной Америки 23 апреля и продолжится по Великобритании и Европе. Североамериканская часть включает два вечера в The Wiltern в Лос-Анджелесе, а также выступления в нью-йоркском Beacon Theatre, нэшвиллском Ryman Auditorium, бостонском Citizens House of Blues, денверском Fillmore Auditorium и других знаковых залах.\n\nВ честь выхода «Flying Blind» SMKC объединились с Fandiem и запустили специальный благотворительный розыгрыш, где фанаты могут выиграть поездку мечты в Уэльс и познакомиться со Slash'ем за кулисами в замке Кардифф. Средства от акции пойдут в American Foundation for Suicide Prevention (AFSP) и National Alliance on Mental Illness (NAMI).\n\nПобедитель и один сопровождающий получат авиаперелёт в Кардифф и обратно, три ночи в отеле, места в гостевом списке Slash'а на его выступление в замке Кардифф, доступ за кулисы для встречи со Slash'ем, просмотр шоу из зала у пульта, возможность попасть на предконцертный саундчек, набор мерча Slash'а, обзорную экскурсию по Южному Уэльсу и ужин перед шоу.\n\nФанаты могут сделать пожертвование и принять участие в розыгрыше на сайте www.fandiem.com/slash, получив шанс на эксклюзивный опыт и одновременно помогая собирать средства для двух организаций, занимающихся психическим здоровьем и профилактикой суицида.\n\nSMKC по-прежнему работают так же, как в самом начале: собраться в комнате, играть и посмотреть, что получится. Эта философия и стоит за «Flying Blind», первым полноформатным студийным альбомом коллектива со времён признанного «4» 2022 года. Часть песен выросла из демо и музыкальных набросков Slash'а, другие возникли спонтанно, когда музыканты играли вместе в одной комнате.\n\nSlash принёс исходный материал Kennedy, который добавил вокальные мелодии и тексты, после чего песни превратились в полноценные аранжировки вместе с басистом Todd'ом Kerns'ом, барабанщиком Brent'ом Fitz'ем и ритм-гитаристом Frank'ом Sidoris'ом.\n\n«Он невероятный автор риффов, — говорит Kennedy о Slash'е. — Он ещё и придумывает простые аккордовые последовательности, которые очень хорошо подходят для мелодий. Это работает и не стареет».\n\nВ отличие от прежних альбомов SMKC, риффы и аранжировки которых порой складывались на ежевечерних саундчеках и в ходе долгих гастролей, значительная часть «Flying Blind» появилась на свет короткими сконцентрированными рывками между другими проектами участников.\n\nSlash развивал материал, пока гастролировал с GUNS N' ROSES, записывал свой признанный блюзовый альбом «Orgy Of The Damned» и запускал S.E.R.P.E.N.T. Festival. Kennedy начал работу над песнями во время перерыва в деятельности ALTER BRIDGE и при создании своего третьего сольного альбома.\n\n«Наш график плотный, и приходится его придерживаться, иначе всё остальное начинает страдать, — говорит он. — Теперь само собой разумеется, что ты всегда что-то создаёшь. Это как мышца. Творческой части мозга некогда атрофироваться, и ты просто продолжаешь двигаться вперёд».\n\nКоллектив вновь собрался с Baskette'ом, который ранее продюсировал «World On Fire» (2014) и «Living The Dream» (2018) для SMKC, на его студии Studio Barbarosa во Флориде. То, что все оставались вместе на протяжении всех сессий, позволило музыкальной и человеческой химии, лежащей в основе коллектива, стать неотъемлемой частью записи.\n\nПеред началом сессий Slash дал Baskette'у две чёткие инструкции: записывать все живьём и не перегружать партии после записи.\n\n«Он по-настоящему этого придерживался, — говорит Slash. — Всё получилось отлично».\n\nАранжировки были в основном готовы до начала записи, но оставались достаточно открытыми, чтобы вместить спонтанные идеи прямо в студии. Поскольку музыканты играли одновременно, команде удалось сохранить как можно больше естественного взаимодействия и энергии каждого цельного исполнения.\n\nKennedy записал свой вокал несколько месяцев спустя и называет готовый альбом вершиной в истории записей SMKC.\n\n«Из всех пластинок звучание и исполнение на „Flying Blind\" нравятся мне больше всего. Всё очень живое. Оно прямо здесь», — говорит он.\n\nВ своих 12 треках «Flying Blind» исследует широкий спектр звучаний, не отказываясь от прямого хард-рокового фундамента группы. «Good Time Girl» сочетает хук на токбоксе с отчётливым кантри-акцентом, навеянным пионером гитары Джимми Брайантом и стил-гитаристом Спиди Уэстом, а «Sweet Kill» выдаёт нахальный, построенный на риффах рок, который Slash называет «наверное, самой восьмидесятнической вещью, что я сделал за долгое время».\n\n«One Of Your Kind» движется на пониженном строе с тяжёлым нагнетанием, тогда как резкие аккорды в панковом духе ведут «Here In Babylon». «Thrill Seeker» построена вокруг головокружительного нисходящего риффа, который при этом остаётся глубоко в грув-кармане, а «Rev My Heart» это классический рок-н-ролльный разгон, опирающийся на незабываемую последовательность аккордов и текст, навеянный тем вечером, когда Kennedy впервые встретил свою будущую жену.\n\nИнструментал «Living The Dream» продолжает традицию SMKC, давая Slash'у простор для импровизации и выводя его безошибочно узнаваемую гитарную игру на передний план.\n\n«Я записывал по такому инструменталу на каждом альбоме CONSPIRATORS, кроме „Apocalyptic Love\", — говорит Slash. — Приятно иметь вещь, которую можно раскрыть и на которой можно импровизировать, где у меня нет никаких конкретных рамок и ограничителей. Хорошо делать новую на каждой пластинке, чтобы вживую не приходилось играть одну и ту же».\n\nОдно из самых заметных отступлений альбома, «Looking For A Miracle»: это первая песня, которую Slash написал на педальной стил-гитаре, и первая, где звучит записанное соло гитариста на этом инструменте. Исходную музыкальную идею Slash развил на педальной стил-гитаре, а затем адаптировал под обычную гитару, чтобы весь коллектив мог её отрепетировать. Потом он вернулся к педальной стил-гитаре во время записи и выстроил соло уже на Studio Barbarosa.\n\n«Я обожаю педальную стил-гитару, — говорит Slash. — Это один из тех инструментов, возможности которых просто невероятны. Так что для меня это стало отдельным увлечением. Но это серьёзное обязательство. Инструмент довольно сложный».\n\nKennedy и остальные участники наблюдали, как отношения Slash'а с инструментом развивались со временем.\n\n«Долгое время мы приезжали репетировать перед турами или заниматься предпродакшном, а потом уезжали, а Slash оставался в своей студии и до глубокой ночи отрабатывал педальную стил-гитару», — вспоминает Myles.\n\nАльбом завершается песней «Stem The Flow», масштабным финальным заявлением о разочаровании в институтах и системах, которые когда-то считались несокрушимыми.\n\nЖёсткий, спонтанный и разносторонний «Flying Blind» запечатлел SMKC звучащими так же свободно, сыро и слаженно, как всегда.\n\nКорни SMKC уходят к звёздному одноимённому сольному альбому Slash'а 2010 года, на котором Kennedy выступил одним из нескольких приглашённых вокалистов. Возникшая после этого музыкальная и человеческая связь быстро переросла в постоянный коллектив.\n\n«Работа с CONSPIRATORS началась как счастливая случайность после того первого сольного альбома, — говорит Slash. — Я выстроил с этими ребятами отношения и на музыкальном, и на личном уровне, от которых не собирался отказываться, когда GUNS перезапустились».\n\nТо, что начиналось без долгосрочного плана, выросло в пятнадцатилетнее партнёрство, пять студийных альбомов и множество мировых туров.\n\n«У меня в голове не укладывается, что эти пятнадцать лет пролетели так быстро, — говорит Kennedy. — Как одно мгновение. Но, как говорится, время летит, когда ты веселишься, а нам очень весело. Это из тех случаев, когда хочется ущипнуть себя».\n\nСпустя пятнадцать лет после образования SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS продолжают оттачивать звучание, неся факел живого, нелакированного рок-н-ролла. Для Slash'а движущей силой «Flying Blind» и SMKC остаётся чистое удовольствие от игры.\n\n«Когда мы начинали, у нас ничего не было, — говорит Slash. — Мы не собирались покорять мир. Всё было ради чистого удовольствия. Так что теперь мы собираемся, играем, отлично проводим время, потом выезжаем в тур и делаем это снова при следующей возможности», — смеётся Slash. «Пока есть электричество, мы будем втыкать штекер в розетку».\n\n#Slash #Rock #_Rock #HardRock #Hard_Rock #Hard 'n' Heavy #_Hard 'n' Heavy",
+      "tags": "",
+      "category": "Хард-рок",
+      "published": "2026-10-02T17:35:23+00:00",
+      "id": "ad2f510b5563b2f6a77c6994ff2f844a8500fb25",
+      "retry_after": 1790982232
     }
   ]
 }
