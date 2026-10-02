@@ -4,7 +4,7 @@
 const API='https://www.wikidata.org/w/api.php', WIKI='https://en.wikipedia.org/w/api.php';
 const cache=new Map(), entityCache=new Map(), inflight=new Map();let lastRequest=0,queue=Promise.resolve();
 const value=s=>s?.mainsnak?.datavalue?.value;
-const values=(e,p)=>(e?.claims?.[p]||[]).filter(s=>s.rank!=='deprecated').map(value).filter(v=>v!==undefined);
+const values=(e,p)=>{const rows=(e?.claims?.[p]||[]).filter(s=>s.rank!=='deprecated'),preferred=rows.filter(s=>s.rank==='preferred');return (preferred.length?preferred:rows).map(value).filter(v=>v!==undefined);};
 const label=e=>e?.labels?.en?.value||e?.labels?.ru?.value||e?.id||'';
 const description=e=>e?.descriptions?.ru?.value||e?.descriptions?.en?.value||'';
 const entityId=v=>v?.id;
