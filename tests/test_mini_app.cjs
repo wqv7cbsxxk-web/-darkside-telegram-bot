@@ -6,12 +6,12 @@ const catalog=JSON.parse(fs.readFileSync('docs/artists.json','utf8'));
 const script=[...fs.readFileSync('docs/index.html','utf8').matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
 const profiles=JSON.parse(fs.readFileSync('docs/artist_profiles.json','utf8'));
 const storage=new Map();
-async function boot(article=null){
+async function boot(article=null,initialSearch=''){
  const nodes=new Map();
  function element(){return {textContent:'',style:{},children:[],dataset:{},events:{},classList:{add(){},remove(){},toggle(){}},setAttribute(k,v){this[k]=v},removeAttribute(k){delete this[k]},addEventListener(k,v){this.events[k]=v},append(...els){this.children.push(...els)},replaceChildren(...els){this.children=[...els]},get lastChild(){return this.children.at(-1)}};}
  const sections=['news','tour','where','members','about'].map(name=>Object.assign(element(),{dataset:{bandSection:name}}));
  const document={documentElement:{style:{setProperty(){}}},getElementById(id){if(!nodes.has(id))nodes.set(id,element());return nodes.get(id)},createElement:element,querySelectorAll(selector){return selector==='[data-band-section]'?sections:[]},querySelector(){return element()}};
- const window={};const context={document,window,location:{search:article?'?id='+article.id:'',pathname:'/'},URLSearchParams,Date,String,console,history:{back(){},replaceState(){}},localStorage:{getItem(k){return storage.get(k)},setItem(k,v){storage.set(k,v)}},setTimeout(){throw Error('No retry expected')},async fetch(url){return {ok:true,json:async()=>url.startsWith('articles.json')?data:url.startsWith('artists.json')?catalog:profiles}}};
+ const window={};const context={document,window,location:{search:article?'?id='+article.id:initialSearch,pathname:'/'},URLSearchParams,Date,String,console,history:{back(){},replaceState(){}},localStorage:{getItem(k){return storage.get(k)},setItem(k,v){storage.set(k,v)}},setTimeout(){throw Error('No retry expected')},async fetch(url){return {ok:true,json:async()=>url.startsWith('articles.json')?data:url.startsWith('artists.json')?catalog:profiles}}};
  vm.runInNewContext(script,context);await new Promise(resolve=>setImmediate(resolve));return {nodes,app:window.MetalNews,sections};
 }
 (async()=>{
@@ -19,6 +19,7 @@ async function boot(article=null){
   const {nodes}=await boot(a);assert.deepEqual(nodes.get('article').children.map(p=>p.textContent),a.paragraphs);
   assert.equal(nodes.get('title').textContent,a.title);
  }
+ const legacy=await boot(null,'?view=bands');assert.equal(legacy.nodes.get('viewTitle').textContent,'Твоя музыкальная лента');
  const {app,nodes,sections}=await boot();assert.ok(nodes.get('list').children.length);
  app.toggleFavorite('wolves-in-the-throne-room');
  let mine=app.selectArticles(data.articles,{view:'mine'});

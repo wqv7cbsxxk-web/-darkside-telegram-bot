@@ -47,7 +47,7 @@ if(tg){tg.ready();tg.expand();const p=tg.themeParams||{};for(const [key,value] o
 const $=id=>document.getElementById(id), qs=new URLSearchParams(location.search);
 const KEY='metal-news.preferences.v1';
 let prefs={favorites:[],saved:[],custom:[],blocked:[]}, articles=[],catalog=[],view='all',topic='all',band=null,current=null,query='',tries=0,bandSection='about',albumKind='studio',profiles={},music={},lookupToken=0,detail=null,detailStack=[],navigationStack=[],returnView='all';
-if(['all','mine','bands','saved','discover'].includes(qs.get('view')))view=qs.get('view');
+if(['all','mine','bands','saved','discover'].includes(qs.get('view')))view=qs.get('view')==='bands'?'all':qs.get('view'); // Existing Telegram menu URL now enters the main news feed.
 try{const p=JSON.parse(localStorage.getItem(KEY)||'null');if(p&&typeof p==='object')prefs={blocked:Array.isArray(p.blocked)?p.blocked.filter(x=>typeof x==='string'):[],favorites:Array.isArray(p.favorites)?p.favorites.filter(x=>typeof x==='string'):[],saved:Array.isArray(p.saved)?p.saved.filter(x=>typeof x==='string'):[],custom:Array.isArray(p.custom)?p.custom.filter(x=>x&&typeof x.name==='string'&&typeof x.id==='string'):[]};}catch(e){}
 function persist(){try{localStorage.setItem(KEY,JSON.stringify(prefs));$('storageNotice').textContent='';}catch(e){$('storageNotice').textContent='Не удалось сохранить настройки. Сейчас они действуют только до закрытия приложения.';}}
 function norm(s){return String(s||'').toLocaleLowerCase().replaceAll('’',"'").replaceAll('ё','е').replace(/\s+/g,' ').trim();}

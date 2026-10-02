@@ -1,7 +1,7 @@
 # Open button and artist information
 
 configure_menu.py sets a real Telegram MenuButtonWebApp labelled “Открыть”,
-pointing to the existing Mini App at ?view=all (the news feed). It checks the current default
+pointing to the existing Mini App at ?view=bands (a legacy menu URL now routed to the news feed). It checks the current default
 menu and the configured private-chat override, updates only differences and
 reads them back for verification. It sends no messages. A dedicated push-triggered
 workflow activates it using the existing Telegram secrets; normal bot runs also

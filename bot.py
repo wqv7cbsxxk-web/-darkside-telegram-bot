@@ -230,7 +230,7 @@ def telegram_api(method, payload=None):
 
 def configure_open_menu(chat_id=None):
     """Configure a real Telegram menu entry, without sending a message."""
-    expected = {"type": "web_app", "text": "Открыть", "web_app": {"url": get_webapp_base_url() + "?view=all"}}
+    expected = {"type": "web_app", "text": "Открыть", "web_app": {"url": get_webapp_base_url() + "?view=bands"}}
     scopes = [{}]
     if chat_id and str(chat_id).isdigit():
         scopes.append({"chat_id": int(chat_id)})
