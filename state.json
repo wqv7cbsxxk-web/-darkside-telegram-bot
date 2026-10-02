@@ -222,7 +222,15 @@
     "feb2c8e6ea603f69413201605ef0487e994074df",
     "2b57b718b23703da38307e2bb12fdbf32406bdd7",
     "04f389504614efd84f8673164c18f56671a7ce0a",
-    "92dfc7a3cc0d4c178f23b58febe150653a2c60f3"
+    "92dfc7a3cc0d4c178f23b58febe150653a2c60f3",
+    "56cd3e65b44df9dc38fd35595ae7ace3ebd62d34",
+    "3a7c11bd0849f2c5fcb79e99cf5b809cab275d3b",
+    "57fa4d5bba31e665ecf69534c7dac86b9996ce69",
+    "e22650fc56b675b7e77d06fb546d9eaa45de04ab",
+    "98615d0bdbcdac2115c00dd8cfdb8590188ae8ba",
+    "c1c2e400c280bed9fbbf0444523072822c6154d0",
+    "c93a69fb88581c62d015c3f72c979290288f3809",
+    "f13075ea89515fca87f029d1b2d7b3127e206a08"
   ],
   "recent_titles": [
     {
@@ -374,6 +382,46 @@
       "title": "JEFF &#039;MANTAS&#039; DUNN почтил память вокалиста VENOM",
       "source": "Darkside",
       "ts": 1790926478
+    },
+    {
+      "title": "METALLICA отыграла первый концерт в Сфере",
+      "source": "Darkside",
+      "ts": 1790949921
+    },
+    {
+      "title": "Вокалист EXHORDER: «Нами интересуется очень и очень крупный лейбл»",
+      "source": "Darkside",
+      "ts": 1790949923
+    },
+    {
+      "title": "Новое видео YNGWIE MALMSTEEN",
+      "source": "Darkside",
+      "ts": 1790949924
+    },
+    {
+      "title": "BATTLE BEAST не рассматривали никого, кроме MARINA LA TORRACA",
+      "source": "Darkside",
+      "ts": 1790949925
+    },
+    {
+      "title": "ALICE COOPER: «Не хочу я на пенсию, чего вы пристали!?»",
+      "source": "Darkside",
+      "ts": 1790949932
+    },
+    {
+      "title": "Новое видео FIRTAN",
+      "source": "Darkside",
+      "ts": 1790949936
+    },
+    {
+      "title": "Новое видео FEUERSCHWANZ x IN EXTREMO",
+      "source": "Darkside",
+      "ts": 1790949940
+    },
+    {
+      "title": "Новое видео SEVEN KINGDOMS",
+      "source": "Darkside",
+      "ts": 1790949944
     }
   ],
   "initialized_sources": [
@@ -394,7 +442,7 @@
       "title": "Metallica Makes Metal History at the Sphere: Pictures, Set List",
       "link": "https://ultimateclassicrock.com/metallica-sphere-2026-videos-set-list/",
       "rss_body": "Dave Simpson/WireImage, Getty Images",
-      "tags": "News Set List Metallica UCR",
+      "tags": "News Set List Metallica Sphere UCR",
       "category": "Хэви-метал",
       "published": "2026-10-02T07:17:39+00:00",
       "id": "d221d52a23b9fd4592f27a04382b339c37371ad7",
@@ -594,6 +642,138 @@
       "published": "2026-10-01T15:18:06+00:00",
       "id": "1f015c5a80b88913c42e03b55e82204b7216bf13",
       "retry_after": 1790926803
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "LIMITED TO 200: AGALLOCH’s ‘Marrow of the Spirit’ Deluxe Reissue on Decibel Vinyl! Pre-Order NOW!",
+      "link": "https://www.decibelmagazine.com/2026/10/02/limited-to-200-agallochs-marrow-of-the-spirit-deluxe-reissue-on-decibel-vinyl-pre-order-now/",
+      "rss_body": "Portland atmospheric metal legends\n\nAgalloch\n\nhave remixed and remastered their fourth full-length—and\n\nDecibel\n\n’s #1 album of 2010—\n\nMarrow of the Spirit\n\nfor a deluxe reissue treatment, and\n\nDecibel\n\nis once again honored to have our own exclusive edition on\n\nTranslucent Orange Double LP\n\n,\n\nlimited to just 200 copies\n\ncourtesy of the dark archivists at Eisenwald Records.\n\nOnce again featuring the deluxe triple-gatefold packaging that has become a hallmark of these stunning reissues—this time with silver interior print—our exclusive\n\nDecibel\n\nedition is accompanied by an LP-sized booklet, as well as black poly-lined inner-sleeves to safely house this essential 180g wax. A designed album download card is also included.\n\nDecibel’\n\ns exclusive variants of\n\nPale Folklore, The Mantle\n\nand\n\nAshes Against the Grain\n\neach sold out immediately. So\n\npre-order your copy now\n\n, because you’ll never escape the weight of darkness of failing to secure a copy of this beautiful 2xLP",
+      "tags": "Breaking News Exclusive Special Offer Vinyl Agalloch atmospheric metal Eisenwald Marrow of the Spirit rare vinyl usbm",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T14:00:35+00:00",
+      "id": "cf54e54fd240730a16243efc4a02613449a91326",
+      "retry_after": 1790950227
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS EP PREMIERE (AND A REVIEW): NO LIVING WITNESS — “AEONS OF DISINTEGRATION”",
+      "link": "https://www.nocleansinging.com/2026/10/02/an-ncs-ep-premiere-and-a-review-no-living-witness-aeons-of-disintegration/",
+      "rss_body": "(Today is the day when the Washington State extreme metal band No Living Witness are releasing a new EP named Aeons of Disintegration, and to help spread the word our contributor Obsolete Mystic is hosting its full streaming premiere, preceded by an enthusiastic review.) Today’s subject, No Living Witness, caught my attention from the first\n\n[...]",
+      "tags": "Album Reviews Premieres SHORT BUT SWEET No Living Witness Obsolete Mystic",
+      "category": "Экстремальный метал",
+      "published": "2026-10-02T13:55:14+00:00",
+      "id": "cb08304e9225f94ff837d87b3e527129cd6e5f95",
+      "retry_after": 1790950231
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The Weekly Injection: New Releases From AMON AMARTH, IMMINENCE, and More Out This Week – 10.2",
+      "link": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-amon-amarth-imminence-and-more-out-this-week-10-2",
+      "rss_body": "Plus releases from Dead Poet Society, Dissimulator, Frozen Crown, Haywire, Lustmord Lombardo, Temic, and To The Grave",
+      "tags": "Weekly Injection butcher babies featured1 To The Grave Dead Poet Society amon amarth temic Imminence Dissimulator haywire lustmord lombardo frozen crown",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T13:53:42+00:00",
+      "id": "4bd750acba51288ef2eb75d51fa886126ca425c2",
+      "retry_after": 1790950231
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "\"It was a nightmare to stay in tune!\" Roxy Music share previously unreleased demo version of 1973 hit Pyjamarama",
+      "link": "https://www.loudersound.com/music/albums/it-was-a-nightmare-to-stay-in-tune-roxy-music-share-previously-unreleased-demo-version-of-1973-hit-pyjamarama",
+      "rss_body": "Art rockers\n\nRoxy Music\n\nhave shared a previously unreleased demo and the first-ever recording of their 1973 hit single\n\nPyjamarama\n\n.\n\nThe track is featured on a new definitive 2026 3CD+DVD Super Deluxe Edition of the band's second album, 1973's\n\nFor Your Pleasure\n\n, which is out on November 6th 2026 via UMR/Island EMI\n\n.\n\nThe band have also shared video footage of the band’s iconic performance of the single on\n\nTop of the Pops\n\nin March 1973 which you can see below. The tape of the show was recently unearthed in a collection belonging to mobile disco DJ Roger Hill, having been lost in the BBC archive.\n\nIn the above previously unseen photo by Ian Dickson,\n\nBryan Ferry\n\nshows guitarist\n\nPhil Manzanera\n\nhow to play the track on his iconic blue Hagstrom guitar. Speaking on the process of Bryan writing on guitar for the first time.\n\n\"Bryan was intent on getting to wear a guitar – at which, obviously, I thought: ‘Oh Christ.’ But I said, ‘I’ll tell you what, I’ll show you how to tune the guitar so you can play it with just one finger',\" recalls Manzanera. \"And he actually came up with something! Which shows how clever he was. The whole of\n\nPyjamarama\n\nis just sliding between four positions on open-tuned guitar. Of course, having started off like that, when we eventually went into the studio, I had to come up with some parts that would work, solos, lots of overdubs. And because I had to tune the guitar this funny way, all the strings were very loose, meaning it was a nightmare to stay in tune.”\n\nAs well as the four-disc Super Deluxe Edition of the album,\n\nFor Your Pleasure\n\nwill also be released as a 2LP (black vinyl and blue pearl vinyl as a D2C Exclusive), 2CD, Digital, Blu-Ray and Dolby ATMOS.\n\nListen to the demo version of\n\nPyjamarama\n\nhere\n\n.\n\nPre-order\n\nFor Your Pleasure\n\n.",
+      "tags": "Albums Music",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T13:08:20+00:00",
+      "id": "80d1374be2a671e097c2e451a1b4a2b5cfc84322",
+      "retry_after": 1790950234
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Wounded Touch Launch “Scarlet Psalm” Video Alongside Their New EP “They Promised Eden, Vol. 2”",
+      "link": "https://www.theprp.com/2026/10/02/news/wounded-touch-launch-scarlet-psalm-video-alongside-their-new-ep-they-promised-eden-vol-2/",
+      "rss_body": "Arriving through the reactivated Ferret Music label",
+      "tags": "News Wounded Touch",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T13:00:00+00:00",
+      "id": "674c6a0f5a7da605df5cdf8cd7bb7b61ef5e56e3",
+      "retry_after": 1790950235
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Slash Announces New 'Flying Blind' Album: Hear the Title Track",
+      "link": "https://ultimateclassicrock.com/slash-flying-blind/",
+      "rss_body": "The Guns N' Roses star describes his seventh solo album as \"a really fun, kind of spontaneous rock 'n' roll record.\"",
+      "tags": "New Albums News Guns N' Roses Slash UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-02T12:41:34+00:00",
+      "id": "e68e36628a811ed8585afbcfcf42d0a4444026ca",
+      "retry_after": 1790950240
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Steven Wilson shares downright creepy video for new song On Chapel Slope",
+      "link": "https://www.loudersound.com/music/music-videos/steven-wilson-shares-downright-creepy-video-for-new-song-on-chapel-slope",
+      "rss_body": "Steven Wilson\n\nhas shared his eerie new video for new song\n\nOn Chapel Slope\n\n, which gives fans a further insight into the fictional village of Larkstone, the centrepiece of his upcoming album\n\nRequiem For A Village\n\n.\n\nWilson will release his ninth studio album through Fiction Records on November 6. The album's title comes from the cult 1975 folk horror film of the same name. Directed by David Gladwell, who had served as Editor of Lindsay Anderson’s\n\nIf....\n\nand\n\nO Lucky Man!\n\nfilms, in the film an old man sees the dead rise from their graves in a rural English churchyard, in a representation of the modernisation of rural life.\n\nThe film has served as an inspiration for the new album, which is described as being \"set in a\n\nWicker Man\n\nlandscape where the paintings of Stanley Spencer hang in the local art gallery, the stories of M. R. James and Algernon Blackwood sit on the shelves of the public library, and the children of the stones play in the market square...\"\n\nIn the new video, directed by Mike Bennion and which features a village wedding with the central characters played by Wilson and his real-life partner Rotem, villagers rise from the graveyard surrounding the church with images of a nameless and decaying rural English village, which later extends to the attendees of the wedding itself, as Wilson's equally unsettling musical score swirls around.\n\nRequiem For A Village\n\nwill be available on CD, Blu-Ray, 140g two 12” black vinyl, oxblood coloured two 12” vinyl and as a boxset featuring 2 CDs, Blu-Ray disc packaged in a 96-page hardback book box. Limited numbers of signed CDs will be available through Amazon, and CDs with exclusive packaging will be available through HMV.\n\nWilson\n\nwill play two sold-out shows at the Royal Albert Hall (28th and 29th October) accompanied by his band, the Parallax Orchestra & Sansara choir conducted by Tom Richards. The shows mark the closure of one album cycle and an introduction to the next, as the musicians will play newly created orchestral arrangements of\n\nThe Overview\n\nas well as tracks from\n\nRequiem For A Village\n\n.\n\nPre-order here\n\n.",
+      "tags": "Music Videos Music",
+      "category": "Прогрессив",
+      "published": "2026-10-02T11:59:10+00:00",
+      "id": "61b08d5ef9b0bcefb796381da81b4556cfbdd22c",
+      "retry_after": 1790950243
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "The first reactions to Metallica’s massive show at the Sphere are in: “Epic would be an understatement!”",
+      "link": "https://www.loudersound.com/bands-artists/live-performances/metallica-sphere-reactions",
+      "rss_body": "Metallica’s residency at the Las Vegas Sphere is the live event of the year – and they\n\nkicked it off in epic style\n\n.\n\nA 17,000-capacity crowd watched the band play the first of 24 sold-out shows at the futuristic venue last night (October 1), where they were treated to a 16-song setlist - including the first performance of 1988’s\n\n…And Justice For All\n\nin 12 years.\n\nThe band are due to play the second show at the venue on October 3, and it follows the same ‘no repeats’ format as their blockbusting M72 tour – meaning it will be a completely different sets.\n\nMetallica fans have taken to social media to give their verdict on the opening night - not least the show’s incredible visuals, which are projected onto a 15,000m² wraparound video screens.\n\nRead some of the comments below – and watch video from the first show.\n\nShow 1 is in the books. Epic would be an understatement. Full report on @TrunkNationSXM Monday. @Metallica @SphereVegas pic.twitter.com/9bcBeZBeJ7\n\nOctober 2, 2026\n\nTwo guys next to me at @Metallica @SphereVegas literally talking to each other non stop like nothing is going on. Most insane thing I’ve ever seen. Non stop. Ear splitting volume. Metallica killing. Incredible visual. And non stop talking like nothing is going on. Beyond belief.\n\nOctober 2, 2026\n\nWhat an amazing opening night. Can’t wait to see what happens Saturday #LifeBurnsFaster pic.twitter.com/NfXba1Bsmz\n\nOctober 2, 2026\n\nMetallica was so sick, they closed out with Master of Puppets, blew the roof off the dump. pic.twitter.com/p5S0xq9Ozs\n\nOctober 2, 2026\n\nAsí se ve #Metallica en @SphereVegas I M P R E S I O N A N T E pic.twitter.com/uhG6KzSxs9\n\nOctober 2, 2026\n\nThis scene during Metallica at Sphere was unreal cool @Metallica @SphereVegas pic.twitter.com/vmEv0INZqO\n\nOctober 2, 2026\n\nWhat a fucking night!! I’m gonna find some coffee, maybe some food, sit on the balcony and wait for @BustedOpenRadio to come on! @davidlagreca1 #MetallicaVegas #Sphere pic.twitter.com/rcWu623wlp\n\nOctober 2, 2026\n\n@toliveistodfw\n\n♬ Abyssal Procession - Martha and the Pickles\n\n@brianadabney\n\n♬ original sound - Brianadabney",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T11:14:38+00:00",
+      "id": "947a38c8fba5e6f685164698839be2d60a8c085e",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео PATRIARCHS IN BLACK",
+      "link": "http://www.darkside.ru/news/184176/",
+      "rss_body": "No More Blood, новое видео PATRIARCHS IN BLACK, доступно для просмотра. Этот трек взят из нового альбома \"To Serve Man\", релиз которого намечен на восьмое января на Metalville",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T10:45:07+00:00",
+      "id": "d180bdfd3a1ae791aa1bb01353194b643a8c2a6b",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Blues legend Walter Trout is 75 years old but he's not thinking about retirement",
+      "link": "https://www.loudersound.com/bands-artists/walter-trout-is-75-years-old-but-not-thinking-about-retirement",
+      "rss_body": "New Jersey-born\n\nWalter Trout\n\nplayed guitar with\n\nJohn Mayall\n\n’s Bluesbreakers and Canned Heat, among others, before hitting the solo trail in 1989. Having re-taught himself to talk, walk and play guitar following a 2014 liver transplant, Trout has long been a statesman and fatherly figure on the global blues scene. We spoke to him on the eve of his latest European tour.\n\nYou are still promoting your 2025 album\n\nSign Of The Times,\n\nwhich Classic Rock said is \"threaded with a fierce edge and the kind of raw, personal candour that’s made Trout a survivor, an outlier, and among the most underrated songwriters of his generation\".\n\nThat review moves my heart, because I’m very serious about being a songwriter. Right now, great guitarists are a dime a dozen. It won’t ever happen, but I’d like to be thought of as a singer, songwriter and performer who also plays guitar.\n\nThe album’s track\n\nArtificial\n\nseems to bemoan the rise of AI: ‘\n\nArtificial hairdo, artificial tan/You can tell just by looking, he’s an artificial man.’\n\nI wonder who I’m talking about there. That’s as political as I’ve gotten in a song for a long while. I just couldn’t help it.\n\nBut is there a role in music for AI?\n\nIt alarms me to hear how many AI songs there are in the charts. I want music and art to come from human beings, not computers.\n\nHow much of your performances are set in stone, and how much is improvised?\n\nTonnes of it is improvised. My songs are stepping stones for improvisation. If you want to put us in a category, I’d say we’re more of a jam band than a blues band. We play completely spontaneously every night.\n\nYou have proved to be gifted at identifying and nurturing young blues talent. Who should we be looking out for right now?\n\nHe’s been around for a few years, but Toby Lee is spectacular. He’s doesn’t imitate other guitarists, he’s got his own style. He sings great and writes excellent songs. Toby has the full package.\n\nWhat is the best piece of advice you could give to a teenage hopeful?\n\nThough very different to when I started, it’s important for brand new artists to nurture their talent and become good as they can possibly be before going for a push. You can go on\n\nAmerican Idol\n\n, become an overnight hit, and two years later nobody will remember you. No. It’s far more important to learn how to write songs.\n\nAt seventy-five years old, does retirement enter your thoughts?\n\nFuck no. I will keep on doing this until the universe forces me to stop. It’s what I’ve done since the age of 10. I’m a lifer and I work really hard. We’re already booking into next year and I’m writing songs for a new album.\n\nShouldn’t you be far better known than you are?\n\nMy manager [Marie], who I’m also married to, always tells me: “Walter, if you had come out during the seventies you’d be up there [makes hand gestures to height].” Trying to claw your way up the ladder is no longer for me. I did a few years of that and I absolutely hated it. I don’t worry about being better known, because my life is beautiful. I’m extraordinarily grateful to have made a living from playing guitar for more than half a century.\n\nThe latest European leg of Walter Trout's Sign Of The Times\n\ntour begins this evening (October 2) at the Opera House in Buxton, UK. For full dates and tickets,\n\nvisit the Walter Trout website\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-02T09:05:00+00:00",
+      "id": "e5dc861a3c2425885c733ab9994183371620f075",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Metallica kick off their epic Sphere residency with a classic setlist and retina-searing display",
+      "link": "https://www.loudersound.com/bands-artists/live-performances/metallica-sphere-setlist",
+      "rss_body": "Metallica\n\nhave completed the first show of their eagerly anticipated Life Burns Faster residency with a retina-searing display at the revolutionary Sphere in Las Vegas.\n\n\"It's gonna be challenging,\" drummer\n\nLars Ulrich said in July\n\n. \"It's overwhelming and fucking intimidating. But hopefully when we step out on stage that first night, we'll have it somewhat together.\"\n\nThat mission, it seems, has been accomplished, and the band, who first announced an eight-date schedule at the 20,000-capacity venue in February before swiftly adding another 16 nights, kicked off their first set with the classic\n\nMaster Of Puppets\n\nopener\n\nBattery\n\n.\n\nTheir 16-song set was heavy on staples such as\n\nCreeping Death\n\n(deployed as the second song),\n\nSad But True\n\n,\n\nWherever I May Roam\n\n,\n\nNothing Else Matters\n\nand\n\nThe Call Of Ktulu\n\n, the latter dedicated to late Metallica bassist Cliff Burton.\n\nBut the band also dropped in a few 21st century anthems, including\n\nNow That We’re Dead\n\n,\n\nThe Day The Never Comes\n\nand\n\nLux Æterna\n\n.\n\nThey rounded off the show with a run of classics, including\n\nRide The Lightning\n\n,\n\nThe Memory Remains\n\n,\n\nSeek & Destroy\n\nand\n\nMaster Of Puppets\n\n.\n\nWhile there were no surprises in the set, they did dust down the title track of 1988’s\n\n…And Justice For All\n\nfor the first time since 2014.\n\nLast month,\n\nMetallica announced 12 new North American shows on their ongoing M72 tour\n\n, which began in March 2023. Full dates – including the Las Vegas dates – are listed below.\n\nA post shared by The Venetian Las Vegas (@venetianvegas)\n\nA photo posted by\n\nA post shared by Las Vegas (@vegas)\n\nA photo posted by\n\nA post shared by The Venetian Las Vegas (@venetianvegas)\n\nA photo posted by\n\nA post shared by The Venetian Las Vegas (@venetianvegas)\n\nA photo posted by\n\nA post shared by Las Vegas (@vegas)\n\nA photo posted by\n\nA post shared by The Venetian Las Vegas (@venetianvegas)\n\nA photo posted by\n\nA post shared by Sphere (@spherevegas)\n\nA photo posted by\n\nA post shared by The Venetian Las Vegas (@venetianvegas)\n\nA photo posted by\n\nA post shared by The Venetian Las Vegas (@venetianvegas)\n\nA photo posted by\n\nMetallica setlist: Sphere, Las Vegas, October 1\n\nBattery\n\nCreeping Death\n\nNow That We're Dead\n\nSad but True\n\nThe Shortest Straw\n\nWherever I May Roam\n\nThe Day That Never Comes\n\n...And Justice for All\n\nKirk and Rob Doodle (Sleepwalk My Life Away)\n\nNothing Else Matters\n\nThe Call of Ktulu\n\nLux Æterna\n\nRide the Lightning\n\nThe Memory Remains\n\nSeek & Destroy\n\nMaster of Puppets\n\nMetallica live shows 2026/27\n\nOct 01: Las Vegas Sphere, NV\n\nOct 03: Las Vegas Sphere, NV\n\nOct 08: Las Vegas Sphere, NV\n\nOct 10: Las Vegas Sphere, NV\n\nOct 15: Las Vegas Sphere, NV\n\nOct 17: Las Vegas Sphere, NV\n\nOct 22: Las Vegas Sphere, NV\n\nOct 24: Las Vegas Sphere, NV\n\nOct 29: Las Vegas Sphere, NV\n\nOct 31: Las Vegas Sphere, NV\n\nNov 05: Las Vegas Sphere, NV\n\nNov 07: Las Vegas Sphere, NV\n\nNov 19: Uncasville Mohegan Sun Arena, CT\n\nNov 21: Uncasville Mohegan Sun Arena, CT\n\nJan 28: Las Vegas Sphere, NV\n\nJan 30: Las Vegas Sphere, NV\n\nFeb 04: Las Vegas Sphere, NV\n\nFeb 06: Las Vegas Sphere, NV\n\nFeb 18: Las Vegas Sphere, NV\n\nFeb 20: Las Vegas Sphere, NV\n\nFeb 25: Las Vegas Sphere, NV\n\nFeb 27: Las Vegas Sphere, NV\n\nMar 04: Las Vegas Sphere, NV\n\nMar 06: Las Vegas Sphere, NV\n\nMar 11: Las Vegas Sphere, NV\n\nMar 13: Las Vegas Sphere, NV\n\nMay 08: Vancouver BC Place, BC\n\nMay 13: San Diego Snapdragon Stadium, CA\n\nMay 18: El Paso Sun Bowl Stadium, TX\n\nMay 22: San Antonio Alamodome, TX\n\nMay 26: Fayetteville Razorback Stadium, AR\n\nMay 29: Kansas City Arrowhead Stadium, MO\n\nJun 02: Raleigh Carter-Finley Stadium, NC\n\nJun 05: Indianapolis Lucas Oil Stadium, IN\n\nJun 08: Buffalo Highmark Stadium, NY\n\nJun 12: Madison Camp Randall Stadium, WI\n\nJun 15: Cleveland Huntington Bank Field, OH\n\nJun 19: Salt Lake City Rice-Eccles Stadium, UT\n\nFind Metallica tickets\n\n.",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-02T08:12:15+00:00",
+      "id": "0dd606061d373d27d8c3c995d6240870e61834af",
+      "retry_after": 0
     }
   ]
 }
