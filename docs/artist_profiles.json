@@ -1,0 +1,3705 @@
+{
+  "profiles": {
+    "alice-cooper": {
+      "origin": "Phoenix, Arizona , U.S.",
+      "genres": "Hard rock shock rock glam rock heavy metal",
+      "years_active": "1964–present",
+      "members": [
+        {
+          "name": "List of solo band members",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://alicecooper.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Alice_Cooper",
+      "reference_checked_at": "2026-10-02T02:21:40.038085+00:00",
+      "tour_attempted_at": "2026-10-02T02:31:32.217169+00:00"
+    },
+    "accept": {
+      "origin": "Solingen , West Germany",
+      "genres": "Heavy metal",
+      "years_active": "1976–1989 1992–1997 2005 2009–present",
+      "members": [
+        {
+          "name": "Wolf Hoffmann",
+          "role": ""
+        },
+        {
+          "name": "Mark Tornillo",
+          "role": ""
+        },
+        {
+          "name": "Christopher Williams",
+          "role": ""
+        },
+        {
+          "name": "Martin Motnik",
+          "role": ""
+        },
+        {
+          "name": "Philip Shouse",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://acceptworldwide.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Accept_%28band%29",
+      "reference_checked_at": "2026-10-02T02:21:40.178972+00:00",
+      "tour_attempted_at": "2026-10-02T02:31:45.032913+00:00"
+    },
+    "ac-dc": {
+      "origin": "Sydney , New South Wales, Australia",
+      "genres": "Hard rock blues rock rock and roll heavy metal",
+      "years_active": "1973–present (hiatus: 2016–2018)",
+      "members": [
+        {
+          "name": "Angus Young",
+          "role": ""
+        },
+        {
+          "name": "Phil Rudd",
+          "role": ""
+        },
+        {
+          "name": "Cliff Williams",
+          "role": ""
+        },
+        {
+          "name": "Brian Johnson",
+          "role": ""
+        },
+        {
+          "name": "Stevie Young",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://acdc.com",
+      "reference_url": "https://en.wikipedia.org/wiki/AC/DC",
+      "reference_checked_at": "2026-10-02T02:21:40.365111+00:00",
+      "tour_attempted_at": "2026-10-02T02:31:54.816848+00:00"
+    },
+    "aerosmith": {
+      "origin": "Boston , Massachusetts, U.S.",
+      "genres": "Hard rock blues rock heavy metal",
+      "years_active": "1970–present",
+      "members": [
+        {
+          "name": "Steven Tyler",
+          "role": ""
+        },
+        {
+          "name": "Tom Hamilton",
+          "role": ""
+        },
+        {
+          "name": "Joey Kramer",
+          "role": ""
+        },
+        {
+          "name": "Joe Perry",
+          "role": ""
+        },
+        {
+          "name": "Brad Whitford",
+          "role": ""
+        },
+        {
+          "name": "(see",
+          "role": ""
+        },
+        {
+          "name": "§",
+          "role": ""
+        },
+        {
+          "name": "Band members",
+          "role": ""
+        },
+        {
+          "name": "for others)",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://aerosmith.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Aerosmith",
+      "reference_checked_at": "2026-10-02T02:21:40.607333+00:00"
+    },
+    "arch-enemy": {
+      "origin": "Halmstad , Sweden",
+      "genres": "Melodic death metal",
+      "years_active": "1995−present",
+      "members": [
+        {
+          "name": "Michael Amott",
+          "role": ""
+        },
+        {
+          "name": "Daniel Erlandsson",
+          "role": ""
+        },
+        {
+          "name": "Sharlee D'Angelo",
+          "role": ""
+        },
+        {
+          "name": "Joey Concepcion",
+          "role": ""
+        },
+        {
+          "name": "Lauren Hart",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://archenemy.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Arch_Enemy",
+      "reference_checked_at": "2026-10-02T02:21:46.476269+00:00"
+    },
+    "at-the-gates": {
+      "origin": "Gothenburg , Sweden",
+      "genres": "Melodic death metal",
+      "years_active": "1990–1996 2007–2008 2010–present",
+      "members": [
+        {
+          "name": "Anders Björler",
+          "role": ""
+        },
+        {
+          "name": "Jonas Björler",
+          "role": ""
+        },
+        {
+          "name": "Adrian Erlandsson",
+          "role": ""
+        },
+        {
+          "name": "Martin Larsson",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://www.atthegates.se/",
+      "reference_url": "https://en.wikipedia.org/wiki/At_The_Gates",
+      "reference_checked_at": "2026-10-02T02:21:46.785553+00:00"
+    },
+    "alice-in-chains": {
+      "origin": "Seattle , Washington, United States",
+      "genres": "Grunge alternative metal heavy metal alternative rock sludge metal",
+      "years_active": "1987–2002 (hiatus: 1999–2002) 2005–present",
+      "members": [
+        {
+          "name": "Jerry Cantrell",
+          "role": ""
+        },
+        {
+          "name": "Sean Kinney",
+          "role": ""
+        },
+        {
+          "name": "Mike Inez",
+          "role": ""
+        },
+        {
+          "name": "William DuVall",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://aliceinchains.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Alice_In_Chains",
+      "reference_checked_at": "2026-10-02T02:21:47.042188+00:00"
+    },
+    "black-sabbath": {
+      "origin": "Birmingham , England",
+      "genres": "Heavy metal",
+      "years_active": "1968–2006 2011–2017 2025",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://blacksabbath.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
+      "reference_checked_at": "2026-10-02T02:21:51.728673+00:00"
+    },
+    "ayreon": {
+      "origin": "Waalwijk , North Brabant , Netherlands",
+      "genres": "Progressive rock progressive metal power metal",
+      "years_active": "1995–2008 2012–present",
+      "members": [
+        {
+          "name": "Arjen Anthony Lucassen",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://ayreon.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Ayreon",
+      "reference_checked_at": "2026-10-02T02:21:51.803463+00:00"
+    },
+    "between-the-buried-and-me": {
+      "origin": "Raleigh, North Carolina , U.S.",
+      "genres": "Progressive metal metalcore technical death metal avant-garde metal",
+      "years_active": "2000–present",
+      "members": [
+        {
+          "name": "Tommy Giles Rogers",
+          "role": ""
+        },
+        {
+          "name": "Paul Waggoner",
+          "role": ""
+        },
+        {
+          "name": "Dan Briggs",
+          "role": ""
+        },
+        {
+          "name": "Blake Richardson",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://www.betweentheburiedandme.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/Between_The_Buried_And_Me",
+      "reference_checked_at": "2026-10-02T02:21:51.867505+00:00"
+    },
+    "blind-channel": {
+      "origin": "Oulu , Finland",
+      "genres": "Nu metal",
+      "years_active": "2013–2024 2026–present",
+      "members": [
+        {
+          "name": "Niko Moilanen",
+          "role": ""
+        },
+        {
+          "name": "Joonas Porko",
+          "role": ""
+        },
+        {
+          "name": "Olli Matela",
+          "role": ""
+        },
+        {
+          "name": "Tommi Lalli",
+          "role": ""
+        },
+        {
+          "name": "Aleksi Kaunisvesi",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://www.blindchannelofficial.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/Blind_Channel",
+      "reference_checked_at": "2026-10-02T02:21:57.467955+00:00"
+    },
+    "bruce-springsteen": {
+      "origin": "Freehold, New Jersey , U.S.",
+      "genres": "Rock heartland rock folk rock pop rock",
+      "years_active": "1964–present",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://brucespringsteen.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+      "reference_checked_at": "2026-10-02T02:21:57.501125+00:00"
+    },
+    "blue-oyster-cult": {
+      "origin": "Stony Brook, New York , U.S.",
+      "genres": "Hard rock heavy metal progressive rock occult rock psychedelic rock (early) acid rock (early) pop rock (1980s)",
+      "years_active": "1967–1986 1987–present",
+      "members": [
+        {
+          "name": "Buck Dharma",
+          "role": ""
+        },
+        {
+          "name": "Eric Bloom",
+          "role": ""
+        },
+        {
+          "name": "Danny Miranda",
+          "role": ""
+        },
+        {
+          "name": "Richie Castellano",
+          "role": ""
+        },
+        {
+          "name": "Jules Radino",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://www.blueoystercult.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/Blue_Oyster_Cult",
+      "reference_checked_at": "2026-10-02T02:21:57.774813+00:00"
+    },
+    "cannibal-corpse": {
+      "origin": "Buffalo, New York , U.S.",
+      "genres": "Death metal",
+      "years_active": "1988–present",
+      "members": [
+        {
+          "name": "Alex Webster",
+          "role": ""
+        },
+        {
+          "name": "Paul Mazurkiewicz",
+          "role": ""
+        },
+        {
+          "name": "Rob Barrett",
+          "role": ""
+        },
+        {
+          "name": "George Fisher",
+          "role": ""
+        },
+        {
+          "name": "Erik Rutan",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://cannibalcorpse.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Cannibal_Corpse",
+      "reference_checked_at": "2026-10-02T02:22:02.532849+00:00"
+    },
+    "dark-tranquillity": {
+      "origin": "Billdal , Gothenburg , Sweden",
+      "genres": "Melodic death metal",
+      "years_active": "1989–present",
+      "members": [
+        {
+          "name": "Mikael Stanne",
+          "role": ""
+        },
+        {
+          "name": "Martin Brändström",
+          "role": ""
+        },
+        {
+          "name": "Johan Reinholdz",
+          "role": ""
+        },
+        {
+          "name": "Christian Jansson",
+          "role": ""
+        },
+        {
+          "name": "Joakim Strandberg Nilsson",
+          "role": ""
+        },
+        {
+          "name": "Peter Lyse Karmark",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://darktranquillity.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Dark_Tranquillity",
+      "reference_checked_at": "2026-10-02T02:22:02.611122+00:00"
+    },
+    "darkthrone": {
+      "origin": "Kolbotn , Akershus , Norway",
+      "genres": "Black metal heavy metal doom metal speed metal death metal (early)",
+      "years_active": "1986–present",
+      "members": [
+        {
+          "name": "Fenriz",
+          "role": ""
+        },
+        {
+          "name": "Nocturno Culto",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/Darkthrone",
+      "reference_checked_at": "2026-10-02T02:22:02.626031+00:00"
+    },
+    "deftones": {
+      "origin": "Sacramento, California , U.S.",
+      "genres": "Alternative metal art rock nu metal (early)",
+      "years_active": "1988–present",
+      "members": [
+        {
+          "name": "Stephen Carpenter",
+          "role": ""
+        },
+        {
+          "name": "Abe Cunningham",
+          "role": ""
+        },
+        {
+          "name": "Chino Moreno",
+          "role": ""
+        },
+        {
+          "name": "Frank Delgado",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://deftones.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Deftones",
+      "reference_checked_at": "2026-10-02T02:22:08.129081+00:00"
+    },
+    "death": {
+      "origin": "Altamonte Springs, Florida , U.S.",
+      "genres": "Death metal progressive metal technical death metal",
+      "years_active": "1983–1995 1997–2001",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://emptywords.org",
+      "reference_url": "https://en.wikipedia.org/wiki/Death_%28metal_band%29",
+      "reference_checked_at": "2026-10-02T02:22:08.222417+00:00"
+    },
+    "def-leppard": {
+      "origin": "Sheffield , England",
+      "genres": "Hard rock glam metal arena rock power pop heavy metal (early)",
+      "years_active": "1976–present",
+      "members": [
+        {
+          "name": "Rick Savage",
+          "role": ""
+        },
+        {
+          "name": "Joe Elliott",
+          "role": ""
+        },
+        {
+          "name": "Rick Allen",
+          "role": ""
+        },
+        {
+          "name": "Phil Collen",
+          "role": ""
+        },
+        {
+          "name": "Vivian Campbell",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://defleppard.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Def_Leppard",
+      "reference_checked_at": "2026-10-02T02:22:08.321969+00:00"
+    },
+    "deep-purple": {
+      "origin": "London, England",
+      "genres": "Hard rock heavy metal progressive rock",
+      "years_active": "1968–1976 1984–present",
+      "members": [
+        {
+          "name": "Ian Paice",
+          "role": ""
+        },
+        {
+          "name": "Roger Glover",
+          "role": ""
+        },
+        {
+          "name": "Ian Gillan",
+          "role": ""
+        },
+        {
+          "name": "Don Airey",
+          "role": ""
+        },
+        {
+          "name": "Simon McBride",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://deep-purple.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/Deep_Purple",
+      "reference_checked_at": "2026-10-02T02:22:08.480623+00:00",
+      "reviewed": {
+        "members": [
+          {
+            "name": "Ian Gillan",
+            "role": "Вокал"
+          },
+          {
+            "name": "Roger Glover",
+            "role": "Бас"
+          },
+          {
+            "name": "Ian Paice",
+            "role": "Ударные"
+          },
+          {
+            "name": "Don Airey",
+            "role": "Клавишные"
+          },
+          {
+            "name": "Simon McBride",
+            "role": "Гитара"
+          }
+        ],
+        "members_note": "Состав указан на официальном сайте группы.",
+        "members_source": "https://deeppurple.com/pages/the-band",
+        "members_checked_at": "2026-10-02T02:29:28.923484+00:00",
+        "about": ""
+      },
+      "events": [
+        {
+          "date": "2026-10-01",
+          "city": "Cluj",
+          "country": "Romania",
+          "venue": "BT Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-02",
+          "city": "Budapest",
+          "country": "Hungary",
+          "venue": "Laszlo Papp Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-04",
+          "city": "Bratislava",
+          "country": "Slovakia",
+          "venue": "Tipos Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-05",
+          "city": "Vienna",
+          "country": "Austria",
+          "venue": "Stadthalle",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-07",
+          "city": "Prague",
+          "country": "Czech Republic",
+          "venue": "O2 Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-08",
+          "city": "Lodz",
+          "country": "Poland",
+          "venue": "Atlas Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-10",
+          "city": "Belgrade",
+          "country": "Serbia",
+          "venue": "Stark Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-11",
+          "city": "Skopie",
+          "country": "North Macedonia",
+          "venue": "Boris Trajkovski Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-13",
+          "city": "Athens",
+          "country": "Greece",
+          "venue": "Telekom Centre Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-16",
+          "city": "Zurich",
+          "country": "Switzerland",
+          "venue": "Hallenstadion",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-17",
+          "city": "Milan",
+          "country": "Italy",
+          "venue": "Unipol Forum",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-19",
+          "city": "Barcelona",
+          "country": "Spain",
+          "venue": "St Jordi Club",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-20",
+          "city": "Madrid",
+          "country": "Spain",
+          "venue": "Movistar Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-22",
+          "city": "Paris",
+          "country": "France",
+          "venue": "Adidas Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-23",
+          "city": "Antwerp",
+          "country": "Belgium",
+          "venue": "Lotto Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-25",
+          "city": "Copenhagen",
+          "country": "Denmark",
+          "venue": "Royal Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-26",
+          "city": "Stockholm",
+          "country": "Sweden",
+          "venue": "Avicii Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-28",
+          "city": "Oslo",
+          "country": "Norway",
+          "venue": "Spektrum Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-29",
+          "city": "Gothenburg",
+          "country": "Sweden",
+          "venue": "Scandinavium",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-10-31",
+          "city": "Leipzig",
+          "country": "Germany",
+          "venue": "QI Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-01",
+          "city": "Hamburg",
+          "country": "Germany",
+          "venue": "Sporthalle",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-03",
+          "city": "Dortmund",
+          "country": "Germany",
+          "venue": "Westfalenhalle",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-04",
+          "city": "Berlin",
+          "country": "Germany",
+          "venue": "Uber Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-06",
+          "city": "Frankfurt",
+          "country": "Germany",
+          "venue": "Festhalle",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-07",
+          "city": "Nuremberg",
+          "country": "Germany",
+          "venue": "Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-09",
+          "city": "Amsterdam",
+          "country": "Netherlands",
+          "venue": "Ziggodome",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-10",
+          "city": "Strasbourg",
+          "country": "France",
+          "venue": "Zenith",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-12",
+          "city": "Bordeaux",
+          "country": "France",
+          "venue": "Arkéa Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-13",
+          "city": "Nantes",
+          "country": "France",
+          "venue": "Zenith",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-15",
+          "city": "Lyon",
+          "country": "France",
+          "venue": "LDLC Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-18",
+          "city": "Newcastle",
+          "country": "United Kingdom",
+          "venue": "Utilita",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-19",
+          "city": "Glasgow",
+          "country": "United Kingdom",
+          "venue": "OVO Hydro",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-21",
+          "city": "Birmingham",
+          "country": "United Kingdom",
+          "venue": "BP Pulse Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-22",
+          "city": "Manchester",
+          "country": "United Kingdom",
+          "venue": "AO Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-24",
+          "city": "London",
+          "country": "United Kingdom",
+          "venue": "Eventim Apollo",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-11-25",
+          "city": "London",
+          "country": "United Kingdom",
+          "venue": "Royal Albert Hall",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-12-05",
+          "city": "Sao Paulo",
+          "country": "Brazil",
+          "venue": "Sushi Hall",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-12-08",
+          "city": "Santiago",
+          "country": "Chile",
+          "venue": "Movistar Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-12-10",
+          "city": "Buenos Aires",
+          "country": "Argentina",
+          "venue": "Movistar Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-12-13",
+          "city": "Monterey",
+          "country": "Mexico",
+          "venue": "Monterey Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-12-16",
+          "city": "Guadalajara",
+          "country": "Mexico",
+          "venue": "Arena Guadalajara",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2026-12-19",
+          "city": "Mexico City",
+          "country": "Mexico",
+          "venue": "Estadio Fray Nano",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
+        }
+      ],
+      "tour_source": "https://deep-purple.com/tour-dates-2/",
+      "tour_checked_at": "2026-10-02T02:29:28.923484+00:00"
+    },
+    "devin-townsend": {
+      "origin": "",
+      "genres": "Heavy metal extreme metal progressive metal alternative metal hard rock ambient",
+      "years_active": "1980s–present",
+      "members": [
+        {
+          "name": "List",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://hevydevy.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Devin_Townsend",
+      "reference_checked_at": "2026-10-02T02:22:14.124848+00:00"
+    },
+    "dio": {
+      "origin": "Cortland, New York , U.S.",
+      "genres": "Heavy metal",
+      "years_active": "1982–2010",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://www.ronniejamesdio.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Dio_%28band%29",
+      "reference_checked_at": "2026-10-02T02:22:18.913197+00:00"
+    },
+    "dokken": {
+      "origin": "Los Angeles , California, U.S.",
+      "genres": "Glam metal heavy metal hard rock",
+      "years_active": "1976 –1989, 1993–present",
+      "members": [
+        {
+          "name": "Don Dokken",
+          "role": ""
+        },
+        {
+          "name": "Chris McCarvill",
+          "role": ""
+        },
+        {
+          "name": "BJ Zampa",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://dokken.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Dokken",
+      "reference_checked_at": "2026-10-02T02:22:18.982316+00:00"
+    },
+    "dream-theater": {
+      "origin": "Boston , Massachusetts , U.S.",
+      "genres": "Progressive metal",
+      "years_active": "1985–present",
+      "members": [
+        {
+          "name": "John Myung",
+          "role": ""
+        },
+        {
+          "name": "John Petrucci",
+          "role": ""
+        },
+        {
+          "name": "Mike Portnoy",
+          "role": ""
+        },
+        {
+          "name": "James LaBrie",
+          "role": ""
+        },
+        {
+          "name": "Jordan Rudess",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://dreamtheater.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Dream_Theater",
+      "reference_checked_at": "2026-10-02T02:22:19.166251+00:00"
+    },
+    "enter-shikari": {
+      "origin": "St Albans , Hertfordshire , England",
+      "genres": "Alternative rock electronic rock post-hardcore electronicore",
+      "years_active": "1999–present",
+      "members": [
+        {
+          "name": "Chris Batten",
+          "role": ""
+        },
+        {
+          "name": "Rou Reynolds",
+          "role": ""
+        },
+        {
+          "name": "Rob Rolfe",
+          "role": ""
+        },
+        {
+          "name": "Rory Clewlow",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://entershikari.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Enter_Shikari",
+      "reference_checked_at": "2026-10-02T02:22:26.892832+00:00"
+    },
+    "eminem": {
+      "origin": "Detroit , Michigan, U.S.",
+      "genres": "Hip-hop",
+      "years_active": "1988–present",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://eminem.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Eminem",
+      "reference_checked_at": "2026-10-02T02:22:27.335272+00:00"
+    },
+    "fates-warning": {
+      "origin": "Hartford, Connecticut , U.S.",
+      "genres": "Progressive metal heavy metal",
+      "years_active": "1982–present",
+      "members": [
+        {
+          "name": "Jim Matheos",
+          "role": ""
+        },
+        {
+          "name": "Ray Alder",
+          "role": ""
+        },
+        {
+          "name": "Joey Vera",
+          "role": ""
+        },
+        {
+          "name": "Bobby Jarzombek",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://www.fateswarning.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Fates_Warning",
+      "reference_checked_at": "2026-10-02T02:22:32.227532+00:00"
+    },
+    "foo-fighters": {
+      "origin": "Seattle , Washington , U.S.",
+      "genres": "Alternative rock post-grunge hard rock pop rock grunge (early)",
+      "years_active": "1994–present",
+      "members": [
+        {
+          "name": "Dave Grohl",
+          "role": ""
+        },
+        {
+          "name": "Nate Mendel",
+          "role": ""
+        },
+        {
+          "name": "Pat Smear",
+          "role": ""
+        },
+        {
+          "name": "Chris Shiflett",
+          "role": ""
+        },
+        {
+          "name": "Rami Jaffee",
+          "role": ""
+        },
+        {
+          "name": "Ilan Rubin",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://foofighters.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Foo_Fighters",
+      "reference_checked_at": "2026-10-02T02:22:32.346829+00:00"
+    },
+    "gentle-giant": {
+      "origin": "Portsmouth , England",
+      "genres": "Progressive rock",
+      "years_active": "1970–1980",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://gentlegiantband.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Gentle_Giant",
+      "reference_checked_at": "2026-10-02T02:22:38.684883+00:00"
+    },
+    "genesis": {
+      "origin": "Godalming , Surrey , England",
+      "genres": "Progressive rock art rock pop rock soft rock",
+      "years_active": "1967–2000 2002 2006–2007 2020–2022",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://genesis-music.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Genesis_%28band%29",
+      "reference_checked_at": "2026-10-02T02:22:38.929723+00:00"
+    },
+    "ghost": {
+      "origin": "Linköping , Östergötland , Sweden",
+      "genres": "Hard rock heavy metal arena rock pop rock",
+      "years_active": "2006–2026",
+      "members": [
+        {
+          "name": "Tobias Forge",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://ghost-official.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29",
+      "reference_checked_at": "2026-10-02T02:22:39.085442+00:00"
+    },
+    "gorgoroth": {
+      "origin": "Hyllestad , Sognefjord , Norway",
+      "genres": "Black metal",
+      "years_active": "1992–present",
+      "members": [
+        {
+          "name": "Infernus",
+          "role": ""
+        },
+        {
+          "name": "Tomas Asklund",
+          "role": ""
+        },
+        {
+          "name": "Atterigner",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://gorgoroth.info",
+      "reference_url": "https://en.wikipedia.org/wiki/Gorgoroth",
+      "reference_checked_at": "2026-10-02T02:22:44.184390+00:00"
+    },
+    "great-white": {
+      "origin": "Los Angeles, California, U.S.",
+      "genres": "Hard rock glam metal",
+      "years_active": "1977–2001 2006–present",
+      "members": [
+        {
+          "name": "Michael Lardie",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://officialgreatwhite.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Great_White",
+      "reference_checked_at": "2026-10-02T02:22:44.362884+00:00"
+    },
+    "guns-n-roses": {
+      "origin": "Los Angeles , California, U.S.",
+      "genres": "Hard rock heavy metal",
+      "years_active": "1985–present",
+      "members": [
+        {
+          "name": "Axl Rose",
+          "role": ""
+        },
+        {
+          "name": "Duff McKagan",
+          "role": ""
+        },
+        {
+          "name": "Slash",
+          "role": ""
+        },
+        {
+          "name": "Dizzy Reed",
+          "role": ""
+        },
+        {
+          "name": "Richard Fortus",
+          "role": ""
+        },
+        {
+          "name": "Melissa Reese",
+          "role": ""
+        },
+        {
+          "name": "Isaac Carpenter",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://gunsnroses.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Guns_N%E2%80%99_Roses",
+      "reference_checked_at": "2026-10-02T02:22:44.969656+00:00"
+    },
+    "halestorm": {
+      "origin": "Red Lion, Pennsylvania , U.S.",
+      "genres": "Hard rock heavy metal alternative metal post-grunge alternative rock",
+      "years_active": "1997–present",
+      "members": [
+        {
+          "name": "Lzzy Hale",
+          "role": ""
+        },
+        {
+          "name": "Arejay Hale",
+          "role": ""
+        },
+        {
+          "name": "Joe Hottinger",
+          "role": ""
+        },
+        {
+          "name": "Josh Smith",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://www.halestormrocks.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/Halestorm",
+      "reference_checked_at": "2026-10-02T02:22:50.377630+00:00"
+    },
+    "i-am-morbid": {
+      "origin": "",
+      "genres": "Death metal",
+      "years_active": "2016–present",
+      "members": [
+        {
+          "name": "David Vincent",
+          "role": ""
+        },
+        {
+          "name": "Bill Hudson",
+          "role": ""
+        },
+        {
+          "name": "Richie Brown",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/I_Am_Morbid",
+      "reference_checked_at": "2026-10-02T02:22:50.444222+00:00",
+      "reviewed": {
+        "members": [
+          {
+            "name": "David Vincent",
+            "role": "Вокал, бас"
+          },
+          {
+            "name": "Bill Hudson",
+            "role": "Гитара"
+          },
+          {
+            "name": "Richie Brown",
+            "role": "Гитара"
+          }
+        ],
+        "members_note": "Pete Sandoval сообщил об уходе 30 сентября 2026 года. Имя нового барабанщика в подключённом сообщении не указано.",
+        "members_source": "https://blabbermouth.net/news/pete-sandoval-exits-i-am-morbid-i-havent-been-feeling-the-same-connection-with-these-songs-anymore",
+        "members_checked_at": "2026-10-02T02:29:28.923484+00:00",
+        "about": "Проект исполняет материал первых четырёх альбомов Morbid Angel: Altars of Madness, Blessed Are the Sick, Covenant и Domination."
+      },
+      "events": [
+        {
+          "date": "2026-12-11",
+          "city": "San Donà di Piave",
+          "country": "Italy",
+          "venue": "Revolver Club",
+          "source_url": "https://metalitalia.com/articolo/morbidfest-2026-due-date-in-italia-con-i-am-morbid-atheist-e-cancer/"
+        },
+        {
+          "date": "2026-12-12",
+          "city": "Milano",
+          "country": "Italy",
+          "venue": "Legend Club",
+          "source_url": "https://metalitalia.com/articolo/morbidfest-2026-due-date-in-italia-con-i-am-morbid-atheist-e-cancer/"
+        }
+      ],
+      "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
+      "tour_source": "https://www.ticketone.it/eventseries/i-am-morbid-atheist-cancer-stellvris-4254596/"
+    },
+    "immortal": {
+      "origin": "Bergen , Norway",
+      "genres": "Black metal",
+      "years_active": "1991–2003 2006–present",
+      "members": [
+        {
+          "name": "Demonaz Doom Occulta",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://immortalofficial.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Immortal_%28band%29",
+      "reference_checked_at": "2026-10-02T02:22:55.531640+00:00"
+    },
+    "in-flames": {
+      "origin": "Gothenburg , Sweden",
+      "genres": "Melodic death metal alternative metal",
+      "years_active": "1990–present",
+      "members": [
+        {
+          "name": "Anders Fridén",
+          "role": ""
+        },
+        {
+          "name": "Björn Gelotte",
+          "role": ""
+        },
+        {
+          "name": "Chris Broderick",
+          "role": ""
+        },
+        {
+          "name": "Liam Wilson",
+          "role": ""
+        },
+        {
+          "name": "Jon Rice",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://www.inflames.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/In_Flames",
+      "reference_checked_at": "2026-10-02T02:22:55.758346+00:00"
+    },
+    "iron-maiden": {
+      "origin": "London, England",
+      "genres": "Heavy metal",
+      "years_active": "1975–present",
+      "members": [
+        {
+          "name": "Steve Harris",
+          "role": ""
+        },
+        {
+          "name": "Dave Murray",
+          "role": ""
+        },
+        {
+          "name": "Adrian Smith",
+          "role": ""
+        },
+        {
+          "name": "Bruce Dickinson",
+          "role": ""
+        },
+        {
+          "name": "Nicko McBrain",
+          "role": ""
+        },
+        {
+          "name": "Janick Gers",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://ironmaiden.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Iron_Maiden",
+      "reference_checked_at": "2026-10-02T02:22:55.988234+00:00"
+    },
+    "kid-rock": {
+      "origin": "",
+      "genres": "Rock hip-hop country heavy metal",
+      "years_active": "1988–present",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://kidrock.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Kid_Rock",
+      "reference_checked_at": "2026-10-02T02:23:02.718310+00:00"
+    },
+    "king-crimson": {
+      "origin": "London, England",
+      "genres": "Progressive rock art rock experimental rock progressive metal post-progressive new wave",
+      "years_active": "1968–1974 1981–1984 1994–2008 2013–2021",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://dgmlive.com",
+      "reference_url": "https://en.wikipedia.org/wiki/King_Crimson",
+      "reference_checked_at": "2026-10-02T02:23:02.982586+00:00"
+    },
+    "judas-priest": {
+      "origin": "Birmingham , England",
+      "genres": "Heavy metal",
+      "years_active": "1969–1970 1970–1992 1996–present",
+      "members": [
+        {
+          "name": "Ian Hill",
+          "role": ""
+        },
+        {
+          "name": "Rob Halford",
+          "role": ""
+        },
+        {
+          "name": "Glenn Tipton",
+          "role": ""
+        },
+        {
+          "name": "Scott Travis",
+          "role": ""
+        },
+        {
+          "name": "Richie Faulkner",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://judaspriest.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Judas_Priest",
+      "reference_checked_at": "2026-10-02T02:23:03.363778+00:00"
+    },
+    "kiss": {
+      "origin": "New York City , U.S.",
+      "genres": "Hard rock heavy metal shock rock glam metal",
+      "years_active": "1973–2023 2025–2026",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://kissonline.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Kiss_%28band%29",
+      "reference_checked_at": "2026-10-02T02:23:09.573822+00:00"
+    },
+    "kreator": {
+      "origin": "Essen , North Rhine-Westphalia , Germany",
+      "genres": "Thrash metal",
+      "years_active": "1982–present",
+      "members": [
+        {
+          "name": "Miland \"Mille\" Petrozza",
+          "role": ""
+        },
+        {
+          "name": "Jürgen \"Ventor\" Reil",
+          "role": ""
+        },
+        {
+          "name": "Sami Yli-Sirniö",
+          "role": ""
+        },
+        {
+          "name": "Frédéric Leclercq",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://kreator-terrorzone.de",
+      "reference_url": "https://en.wikipedia.org/wiki/Kreator",
+      "reference_checked_at": "2026-10-02T02:23:09.734222+00:00"
+    },
+    "led-zeppelin": {
+      "origin": "London , England",
+      "genres": "Hard rock blues rock folk rock",
+      "years_active": "1968–1980",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://ledzeppelin.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
+      "reference_checked_at": "2026-10-02T02:23:09.915857+00:00"
+    },
+    "leprous": {
+      "origin": "Notodden , Norway",
+      "genres": "Progressive metal progressive rock avant-garde metal alternative metal",
+      "years_active": "2001–present",
+      "members": [
+        {
+          "name": "Einar Solberg",
+          "role": ""
+        },
+        {
+          "name": "Tor Oddmund Suhrke",
+          "role": ""
+        },
+        {
+          "name": "Robin Ognedal",
+          "role": ""
+        },
+        {
+          "name": "Baard Kolstad",
+          "role": ""
+        },
+        {
+          "name": "Simen Børven",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://leprous.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Leprous",
+      "reference_checked_at": "2026-10-02T02:23:10.965648+00:00"
+    },
+    "marillion": {
+      "origin": "Aylesbury , Buckinghamshire, England",
+      "genres": "Neo-prog progressive rock art rock",
+      "years_active": "1979–present",
+      "members": [
+        {
+          "name": "Steve Rothery",
+          "role": ""
+        },
+        {
+          "name": "Mark Kelly",
+          "role": ""
+        },
+        {
+          "name": "Pete Trewavas",
+          "role": ""
+        },
+        {
+          "name": "Ian Mosley",
+          "role": ""
+        },
+        {
+          "name": "Steve Hogarth",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://marillion.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Marillion",
+      "reference_checked_at": "2026-10-02T02:23:15.280688+00:00"
+    },
+    "linkin-park": {
+      "origin": "Agoura Hills, California , U.S.",
+      "genres": "Alternative rock nu metal rap rock electronic rock",
+      "years_active": "1996–2017 2023–present",
+      "members": [
+        {
+          "name": "Brad Delson",
+          "role": ""
+        },
+        {
+          "name": "Mike Shinoda",
+          "role": ""
+        },
+        {
+          "name": "Joe Hahn",
+          "role": ""
+        },
+        {
+          "name": "Dave Farrell",
+          "role": ""
+        },
+        {
+          "name": "Emily Armstrong",
+          "role": ""
+        },
+        {
+          "name": "Colin Brittain",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://linkinpark.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "reference_checked_at": "2026-10-02T02:23:15.305507+00:00"
+    },
+    "manowar": {
+      "origin": "Auburn, New York , U.S.",
+      "genres": "Heavy metal power metal",
+      "years_active": "1980–present",
+      "members": [
+        {
+          "name": "Joey DeMaio",
+          "role": ""
+        },
+        {
+          "name": "Eric Adams",
+          "role": ""
+        },
+        {
+          "name": "Dave Chedrick",
+          "role": ""
+        },
+        {
+          "name": "Michael Angelo Batio",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://manowar.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Manowar",
+      "reference_checked_at": "2026-10-02T02:23:15.662594+00:00"
+    },
+    "megadeth": {
+      "origin": "Los Angeles , California , U.S.",
+      "genres": "Thrash metal speed metal heavy metal",
+      "years_active": "1983–2002 2004–present",
+      "members": [
+        {
+          "name": "Dave Mustaine",
+          "role": ""
+        },
+        {
+          "name": "James LoMenzo",
+          "role": ""
+        },
+        {
+          "name": "Dirk Verbeuren",
+          "role": ""
+        },
+        {
+          "name": "Teemu Mäntysaari",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://megadeth.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Megadeth",
+      "reference_checked_at": "2026-10-02T02:23:21.201150+00:00"
+    },
+    "meshuggah": {
+      "origin": "Umeå , Sweden",
+      "genres": "Progressive metal djent avant-garde metal technical death metal groove metal",
+      "years_active": "1987–present",
+      "members": [
+        {
+          "name": "Jens Kidman",
+          "role": ""
+        },
+        {
+          "name": "Fredrik Thordendal",
+          "role": ""
+        },
+        {
+          "name": "Tomas Haake",
+          "role": ""
+        },
+        {
+          "name": "Mårten Hagström",
+          "role": ""
+        },
+        {
+          "name": "Dick Lövgren",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://meshuggah.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Meshuggah",
+      "reference_checked_at": "2026-10-02T02:23:21.259970+00:00"
+    },
+    "metallica": {
+      "origin": "Los Angeles , California, U.S.",
+      "genres": "Heavy metal thrash metal speed metal hard rock",
+      "years_active": "1981–present",
+      "members": [
+        {
+          "name": "James Hetfield",
+          "role": ""
+        },
+        {
+          "name": "Lars Ulrich",
+          "role": ""
+        },
+        {
+          "name": "Kirk Hammett",
+          "role": ""
+        },
+        {
+          "name": "Robert Trujillo",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://metallica.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Metallica",
+      "reference_checked_at": "2026-10-02T02:23:21.523300+00:00"
+    },
+    "morbid-angel": {
+      "origin": "Tampa, Florida , U.S.",
+      "genres": "Death metal",
+      "years_active": "1983–present",
+      "members": [
+        {
+          "name": "Trey Azagthoth",
+          "role": ""
+        },
+        {
+          "name": "Steve Tucker",
+          "role": ""
+        },
+        {
+          "name": "Dan Vadim Von",
+          "role": ""
+        },
+        {
+          "name": "Charlie Koryn",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://morbidangel.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Morbid_Angel",
+      "reference_checked_at": "2026-10-02T02:23:27.242236+00:00"
+    },
+    "napalm-death": {
+      "origin": "Meriden, West Midlands , England",
+      "genres": "Grindcore death metal crust punk anarcho-punk (early)",
+      "years_active": "1981–present",
+      "members": [
+        {
+          "name": "Shane Embury",
+          "role": ""
+        },
+        {
+          "name": "Barney Greenway",
+          "role": ""
+        },
+        {
+          "name": "Danny Herrera",
+          "role": ""
+        },
+        {
+          "name": "John Cooke",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://napalmdeath.org/",
+      "reference_url": "https://en.wikipedia.org/wiki/Napalm_Death",
+      "reference_checked_at": "2026-10-02T02:23:27.302264+00:00"
+    },
+    "motorhead": {
+      "origin": "London , England",
+      "genres": "Heavy metal hard rock speed metal",
+      "years_active": "1975–2015",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://imotorhead.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Mot%C3%B6rhead",
+      "reference_checked_at": "2026-10-02T02:23:27.629824+00:00"
+    },
+    "motley-crue": {
+      "origin": "Hollywood, California , U.S.",
+      "genres": "Heavy metal glam metal hard rock",
+      "years_active": "1981–2002 2004–2015 2018–present",
+      "members": [
+        {
+          "name": "Nikki Sixx",
+          "role": ""
+        },
+        {
+          "name": "Tommy Lee",
+          "role": ""
+        },
+        {
+          "name": "Vince Neil",
+          "role": ""
+        },
+        {
+          "name": "John 5",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://motley.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/Motley_Crue",
+      "reference_checked_at": "2026-10-02T02:23:27.807486+00:00"
+    },
+    "opeth": {
+      "origin": "Stockholm , Sweden",
+      "genres": "Progressive metal progressive rock death metal",
+      "years_active": "1990–present",
+      "members": [
+        {
+          "name": "Mikael Åkerfeldt",
+          "role": ""
+        },
+        {
+          "name": "Martín Méndez",
+          "role": ""
+        },
+        {
+          "name": "Fredrik Åkesson",
+          "role": ""
+        },
+        {
+          "name": "Joakim Svalberg",
+          "role": ""
+        },
+        {
+          "name": "Waltteri Väyrynen",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://opeth.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Opeth",
+      "reference_checked_at": "2026-10-02T02:23:32.787545+00:00",
+      "reviewed": {
+        "members": [
+          {
+            "name": "Mikael Åkerfeldt",
+            "role": "Вокал, гитара"
+          },
+          {
+            "name": "Martín Méndez",
+            "role": "Бас"
+          },
+          {
+            "name": "Fredrik Åkesson",
+            "role": "Гитара, вокал"
+          },
+          {
+            "name": "Joakim Svalberg",
+            "role": "Клавишные, вокал"
+          },
+          {
+            "name": "Waltteri Väyrynen",
+            "role": "Ударные"
+          }
+        ],
+        "members_note": "Состав указан на официальном сайте группы.",
+        "members_source": "https://opeth.com/band/lineup",
+        "members_checked_at": "2026-10-02T02:29:28.923484+00:00",
+        "about": ""
+      },
+      "events": [
+        {
+          "date": "2026-10-03",
+          "city": "Mumbai",
+          "country": "India",
+          "venue": "Nesco Center",
+          "source_url": "https://opeth.com/?v=1.0.24"
+        },
+        {
+          "date": "2026-10-04",
+          "city": "Bengaluru",
+          "country": "India",
+          "venue": "Bhartiya Mall Of Bengaluru",
+          "source_url": "https://opeth.com/?v=1.0.24"
+        },
+        {
+          "date": "2026-11-01",
+          "city": "Santiago",
+          "country": "Chile",
+          "venue": "Movistar Arena",
+          "source_url": "https://opeth.com/?v=1.0.24"
+        },
+        {
+          "date": "2026-11-03",
+          "city": "Comuna 10",
+          "country": "Argentina",
+          "venue": "Teatro Gran Rivadavia",
+          "source_url": "https://opeth.com/?v=1.0.24"
+        }
+      ],
+      "tour_source": "https://opeth.com/tour-dates",
+      "tour_checked_at": "2026-10-02T02:29:28.923484+00:00"
+    },
+    "nightwish": {
+      "origin": "Kitee , Finland",
+      "genres": "Symphonic metal power metal progressive metal gothic metal",
+      "years_active": "1996–present",
+      "members": [
+        {
+          "name": "Tuomas Holopainen",
+          "role": ""
+        },
+        {
+          "name": "Emppu Vuorinen",
+          "role": ""
+        },
+        {
+          "name": "Troy Donockley",
+          "role": ""
+        },
+        {
+          "name": "Floor Jansen",
+          "role": ""
+        },
+        {
+          "name": "Kai Hahto",
+          "role": ""
+        },
+        {
+          "name": "Jukka Koskinen",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://nightwish.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Nightwish",
+      "reference_checked_at": "2026-10-02T02:23:32.919110+00:00"
+    },
+    "of-mice-men": {
+      "origin": "",
+      "genres": "Tragedy , Dramatic Fiction",
+      "years_active": "",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/Of_Mice_%26_Men",
+      "reference_checked_at": "2026-10-02T02:23:33.014549+00:00"
+    },
+    "pearl-jam": {
+      "origin": "Seattle, Washington , U.S.",
+      "genres": "Grunge alternative rock hard rock",
+      "years_active": "1990–present",
+      "members": [
+        {
+          "name": "Jeff Ament",
+          "role": ""
+        },
+        {
+          "name": "Stone Gossard",
+          "role": ""
+        },
+        {
+          "name": "Mike McCready",
+          "role": ""
+        },
+        {
+          "name": "Eddie Vedder",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://pearljam.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Pearl_Jam",
+      "reference_checked_at": "2026-10-02T02:23:38.734210+00:00"
+    },
+    "pain-of-salvation": {
+      "origin": "Eskilstuna , Sweden",
+      "genres": "Progressive metal , progressive rock",
+      "years_active": "1984−1991 (as Reality) 1991−present (as Pain of Salvation)",
+      "members": [
+        {
+          "name": "Daniel Gildenlöw",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://painofsalvation.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Pain_Of_Salvation",
+      "reference_checked_at": "2026-10-02T02:23:38.911911+00:00"
+    },
+    "ozzy-osbourne": {
+      "origin": "Aston , Birmingham, England",
+      "genres": "Heavy metal hard rock",
+      "years_active": "1967–2025",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://ozzy.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Ozzy_Osbourne",
+      "reference_checked_at": "2026-10-02T02:23:39.151319+00:00"
+    },
+    "powerman-5000": {
+      "origin": "Boston, Massachusetts , U.S.",
+      "genres": "Industrial metal nu metal hard rock alternative metal electronic rock punk rock",
+      "years_active": "1991–present",
+      "members": [
+        {
+          "name": "Spider One",
+          "role": ""
+        },
+        {
+          "name": "DJ Rattan",
+          "role": ""
+        },
+        {
+          "name": "Taylor Haycraft",
+          "role": ""
+        },
+        {
+          "name": "Dan Schiz",
+          "role": ""
+        },
+        {
+          "name": "Evan9 (Evan Rodaniche)",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://powerman5000.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Powerman_5000",
+      "reference_checked_at": "2026-10-02T02:23:43.476775+00:00"
+    },
+    "pink-floyd": {
+      "origin": "London, England",
+      "genres": "Progressive rock art rock psychedelic rock experimental rock",
+      "years_active": "1965–1994 2005 2007 2013–2014 2022",
+      "members": [
+        {
+          "name": "Nick Mason",
+          "role": ""
+        },
+        {
+          "name": "David Gilmour",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://pinkfloyd.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Pink_Floyd",
+      "reference_checked_at": "2026-10-02T02:23:43.809645+00:00"
+    },
+    "porcupine-tree": {
+      "origin": "Hemel Hempstead , Hertfordshire , England",
+      "genres": "Progressive rock progressive metal post-progressive psychedelic rock experimental rock",
+      "years_active": "1987–2010 2021–present",
+      "members": [
+        {
+          "name": "Steven Wilson",
+          "role": ""
+        },
+        {
+          "name": "Richard Barbieri",
+          "role": ""
+        },
+        {
+          "name": "Gavin Harrison",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://porcupinetree.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Porcupine_Tree",
+      "reference_checked_at": "2026-10-02T02:23:43.961911+00:00"
+    },
+    "queensryche": {
+      "origin": "Bellevue, Washington , U.S.",
+      "genres": "Progressive metal heavy metal",
+      "years_active": "1980–present",
+      "members": [
+        {
+          "name": "Michael Wilton",
+          "role": ""
+        },
+        {
+          "name": "Eddie Jackson",
+          "role": ""
+        },
+        {
+          "name": "Mike Stone",
+          "role": ""
+        },
+        {
+          "name": "Todd La Torre",
+          "role": ""
+        },
+        {
+          "name": "Casey Grillo",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://queensrycheofficial.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Queensr%C3%BFche",
+      "reference_checked_at": "2026-10-02T02:23:48.682680+00:00"
+    },
+    "rammstein": {
+      "origin": "Berlin , Germany",
+      "genres": "Neue Deutsche Härte industrial metal",
+      "years_active": "1994–present",
+      "members": [
+        {
+          "name": "Till Lindemann",
+          "role": ""
+        },
+        {
+          "name": "Paul Landers",
+          "role": ""
+        },
+        {
+          "name": "Christoph Schneider",
+          "role": ""
+        },
+        {
+          "name": "Christian Lorenz",
+          "role": ""
+        },
+        {
+          "name": "Richard Kruspe",
+          "role": ""
+        },
+        {
+          "name": "Oliver Riedel",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://rammstein.de",
+      "reference_url": "https://en.wikipedia.org/wiki/Rammstein",
+      "reference_checked_at": "2026-10-02T02:23:48.795639+00:00"
+    },
+    "rainbow": {
+      "origin": "Hertford , Hertfordshire , England",
+      "genres": "Hard rock heavy metal",
+      "years_active": "1975–1984 1993–1997 2015–2019",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/Rainbow_%28rock_band%29",
+      "reference_checked_at": "2026-10-02T02:23:48.912446+00:00"
+    },
+    "rage-against-the-machine": {
+      "origin": "Los Angeles, California, U.S.",
+      "genres": "Rap metal rap rock funk metal alternative metal",
+      "years_active": "1991–2000 2007–2011 2019–2024",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://ratm.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Rage_Against_The_Machine",
+      "reference_checked_at": "2026-10-02T02:23:49.087898+00:00"
+    },
+    "rush": {
+      "origin": "Toronto , Ontario, Canada",
+      "genres": "Progressive rock hard rock heavy metal",
+      "years_active": "1968–2015 2025–present",
+      "members": [
+        {
+          "name": "Alex Lifeson",
+          "role": ""
+        },
+        {
+          "name": "Geddy Lee",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://rush.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Rush_%28band%29",
+      "reference_checked_at": "2026-10-02T02:23:54.281041+00:00"
+    },
+    "sepultura": {
+      "origin": "Belo Horizonte , Minas Gerais , Brazil",
+      "genres": "Groove metal thrash metal death metal alternative metal",
+      "years_active": "1984–present",
+      "members": [
+        {
+          "name": "Paulo Jr.",
+          "role": ""
+        },
+        {
+          "name": "Andreas Kisser",
+          "role": ""
+        },
+        {
+          "name": "Derrick Green",
+          "role": ""
+        },
+        {
+          "name": "Greyson Nekrutman",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://sepultura.com.br",
+      "reference_url": "https://en.wikipedia.org/wiki/Sepultura",
+      "reference_checked_at": "2026-10-02T02:23:59.171144+00:00"
+    },
+    "slayer": {
+      "origin": "Huntington Park, California , U.S.",
+      "genres": "Thrash metal",
+      "years_active": "1981–2019 2024–present",
+      "members": [
+        {
+          "name": "Kerry King",
+          "role": ""
+        },
+        {
+          "name": "Tom Araya",
+          "role": ""
+        },
+        {
+          "name": "Paul Bostaph",
+          "role": ""
+        },
+        {
+          "name": "Gary Holt",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://slayer.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Slayer",
+      "reference_checked_at": "2026-10-02T02:24:04.410334+00:00"
+    },
+    "static-dress": {
+      "origin": "Leeds , West Yorkshire , England",
+      "genres": "Post-hardcore pop screamo metalcore emo",
+      "years_active": "2018–present",
+      "members": [
+        {
+          "name": "Olli Appleyard",
+          "role": ""
+        },
+        {
+          "name": "Sam Ogden",
+          "role": ""
+        },
+        {
+          "name": "George Holding",
+          "role": ""
+        },
+        {
+          "name": "Vincent Weight",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://staticdress.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/Static_Dress",
+      "reference_checked_at": "2026-10-02T02:24:04.476470+00:00"
+    },
+    "soundgarden": {
+      "origin": "Seattle , Washington, United States",
+      "genres": "Grunge heavy metal alternative metal alternative rock",
+      "years_active": "1984–97 2010–17 2019 2025 2026",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://soundgardenworld.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Soundgarden",
+      "reference_checked_at": "2026-10-02T02:24:04.657516+00:00"
+    },
+    "steven-wilson": {
+      "origin": "Hemel Hempstead , Hertfordshire , England",
+      "genres": "Progressive rock art rock post-progressive",
+      "years_active": "1980–present",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://stevenwilsonhq.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Steven_Wilson",
+      "reference_checked_at": "2026-10-02T02:24:10.162277+00:00"
+    },
+    "symphony-x": {
+      "origin": "Middletown, New Jersey , U.S.",
+      "genres": "Progressive metal power metal neoclassical metal symphonic metal",
+      "years_active": "1994–present",
+      "members": [
+        {
+          "name": "Michael Romeo",
+          "role": ""
+        },
+        {
+          "name": "Michael Pinnella",
+          "role": ""
+        },
+        {
+          "name": "Russell Allen",
+          "role": ""
+        },
+        {
+          "name": "Jason Rullo",
+          "role": ""
+        },
+        {
+          "name": "Michael LePond",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://www.symphonyx.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Symphony_X",
+      "reference_checked_at": "2026-10-02T02:24:10.223580+00:00"
+    },
+    "system-of-a-down": {
+      "origin": "Glendale, California , U.S.",
+      "genres": "Alternative metal nu metal hard rock progressive metal",
+      "years_active": "1994–2006 2010–present",
+      "members": [
+        {
+          "name": "Serj Tankian",
+          "role": ""
+        },
+        {
+          "name": "Daron Malakian",
+          "role": ""
+        },
+        {
+          "name": "Shavo Odadjian",
+          "role": ""
+        },
+        {
+          "name": "John Dolmayan",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://systemofadown.com",
+      "reference_url": "https://en.wikipedia.org/wiki/System_Of_A_Down",
+      "reference_checked_at": "2026-10-02T02:24:10.517090+00:00"
+    },
+    "the-contortionist": {
+      "origin": "Indianapolis , Indiana , U.S.",
+      "genres": "Progressive metal progressive rock deathcore (early)",
+      "years_active": "2007–present",
+      "members": [
+        {
+          "name": "Robby Baca",
+          "role": ""
+        },
+        {
+          "name": "Joey Baca",
+          "role": ""
+        },
+        {
+          "name": "Cameron Maynard",
+          "role": ""
+        },
+        {
+          "name": "Michael Lessard",
+          "role": ""
+        },
+        {
+          "name": "Eric Guenther",
+          "role": ""
+        },
+        {
+          "name": "Jordan Eberhardt",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://www.thecontortionist.net/",
+      "reference_url": "https://en.wikipedia.org/wiki/The_Contortionist",
+      "reference_checked_at": "2026-10-02T02:24:15.845786+00:00"
+    },
+    "terrorizer": {
+      "origin": "Los Angeles , California , U.S.",
+      "genres": "Death-grind death metal grindcore",
+      "years_active": "1985–1989 2005–2006 2009–2023 2023–present",
+      "members": [
+        {
+          "name": "Pete Sandoval",
+          "role": ""
+        },
+        {
+          "name": "Richie Brown",
+          "role": ""
+        },
+        {
+          "name": "Antony Hämäläinen",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://terrorizergrindcore.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Terrorizer",
+      "reference_checked_at": "2026-10-02T02:24:15.889966+00:00",
+      "reviewed": {
+        "members": [
+          {
+            "name": "Pete Sandoval",
+            "role": "Ударные"
+          },
+          {
+            "name": "Brian Werner",
+            "role": "Вокал · последний гастрольный состав"
+          },
+          {
+            "name": "Richie Brown",
+            "role": "Гитара · последний гастрольный состав"
+          }
+        ],
+        "members_note": "После ухода David Vincent состав меняется. Здесь участники последнего известного гастрольного состава без Vincent; полный новый состав в подключённом заявлении не указан.",
+        "members_source": "https://blabbermouth.net/news/pete-sandoval-says-terrorizer-will-carry-on-without-david-vincent-its-better-for-us-to-continue-on-separate-paths-professionally",
+        "members_checked_at": "2026-10-02T02:29:28.923484+00:00",
+        "about": ""
+      }
+    },
+    "thin-lizzy": {
+      "origin": "Dublin , Ireland",
+      "genres": "Hard rock blues rock heavy metal folk rock (early)",
+      "years_active": "1969–1983 • 1994–2019",
+      "members": [
+        {
+          "name": "Scott Gorham",
+          "role": ""
+        },
+        {
+          "name": "Darren Wharton",
+          "role": ""
+        },
+        {
+          "name": "Ricky Warwick",
+          "role": ""
+        },
+        {
+          "name": "Damon Johnson",
+          "role": ""
+        },
+        {
+          "name": "Scott Travis",
+          "role": ""
+        },
+        {
+          "name": "Troy Sanders",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://thinlizzyofficial.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Thin_Lizzy",
+      "reference_checked_at": "2026-10-02T02:24:21.306857+00:00"
+    },
+    "the-rolling-stones": {
+      "origin": "London , England",
+      "genres": "Rock pop blues",
+      "years_active": "1962–present",
+      "members": [
+        {
+          "name": "Mick Jagger",
+          "role": ""
+        },
+        {
+          "name": "Keith Richards",
+          "role": ""
+        },
+        {
+          "name": "Ronnie Wood",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://rollingstones.com",
+      "reference_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+      "reference_checked_at": "2026-10-02T02:24:21.723987+00:00"
+    },
+    "the-pretty-reckless": {
+      "origin": "New York City , U.S.",
+      "genres": "Hard rock alternative rock post-grunge blues rock",
+      "years_active": "2009–present",
+      "members": [
+        {
+          "name": "Taylor Momsen",
+          "role": ""
+        },
+        {
+          "name": "Ben Phillips",
+          "role": ""
+        },
+        {
+          "name": "Mark Damon",
+          "role": ""
+        },
+        {
+          "name": "Jamie Perkins",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://theprettyreckless.com",
+      "reference_url": "https://en.wikipedia.org/wiki/The_Pretty_Reckless",
+      "reference_checked_at": "2026-10-02T02:24:21.745968+00:00"
+    },
+    "thrice": {
+      "origin": "Irvine, California , U.S.",
+      "genres": "Post-hardcore pop-punk experimental rock emo alternative rock art rock melodic hardcore",
+      "years_active": "1998–2012 2015–present",
+      "members": [
+        {
+          "name": "Eddie Breckenridge",
+          "role": ""
+        },
+        {
+          "name": "Riley Breckenridge",
+          "role": ""
+        },
+        {
+          "name": "Dustin Kensrue",
+          "role": ""
+        },
+        {
+          "name": "Teppei Teranishi",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://thrice.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Thrice",
+      "reference_checked_at": "2026-10-02T02:24:27.126668+00:00"
+    },
+    "tom-morello": {
+      "origin": "Libertyville, Illinois , U.S.",
+      "genres": "Alternative metal funk metal rap metal nu metal hardcore punk crossover folk EDM",
+      "years_active": "1979–present",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/Tom_Morello",
+      "reference_checked_at": "2026-10-02T02:24:27.437674+00:00"
+    },
+    "twisted-sister": {
+      "origin": "Ho-Ho-Kus, New Jersey , U.S.",
+      "genres": "Heavy metal glam metal hard rock shock rock",
+      "years_active": "1972–1988 1998 2000 2001 2003–2016 2023 2025–present",
+      "members": [
+        {
+          "name": "Jay Jay French",
+          "role": ""
+        },
+        {
+          "name": "Eddie \"Fingers\" Ojeda",
+          "role": ""
+        },
+        {
+          "name": "Russell Pzütto",
+          "role": ""
+        },
+        {
+          "name": "Sebastian Bach",
+          "role": ""
+        },
+        {
+          "name": "Joey Cassata",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://twistedsister.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Twisted_Sister",
+      "reference_checked_at": "2026-10-02T02:24:27.460773+00:00"
+    },
+    "tool": {
+      "origin": "Los Angeles , California, U.S.",
+      "genres": "Alternative metal art rock post-metal progressive metal progressive rock",
+      "years_active": "1990–present",
+      "members": [
+        {
+          "name": "Maynard James Keenan",
+          "role": ""
+        },
+        {
+          "name": "Adam Jones",
+          "role": ""
+        },
+        {
+          "name": "Danny Carey",
+          "role": ""
+        },
+        {
+          "name": "Justin Chancellor",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://toolband.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Tool_%28band%29",
+      "reference_checked_at": "2026-10-02T02:24:27.471101+00:00"
+    },
+    "ufo": {
+      "origin": "London , England",
+      "genres": "Hard rock , heavy metal , space rock (early)",
+      "years_active": "1968–1983 1984–1989 1991–2024",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://ufo.tmstor.es",
+      "reference_url": "https://en.wikipedia.org/wiki/UFO_%28band%29",
+      "reference_checked_at": "2026-10-02T02:24:32.254768+00:00"
+    },
+    "van-halen": {
+      "origin": "Pasadena, California , U.S.",
+      "genres": "Hard rock heavy metal pop rock glam metal",
+      "years_active": "1972–1999 2003–2020",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://van-halen.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Van_Halen",
+      "reference_checked_at": "2026-10-02T02:24:32.587714+00:00"
+    },
+    "whitesnake": {
+      "origin": "London, England",
+      "genres": "Hard rock blues rock glam metal heavy metal",
+      "years_active": "1978–1990 1994 1997 2003–2022",
+      "members": [],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://whitesnake.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Whitesnake",
+      "reference_checked_at": "2026-10-02T02:24:37.925560+00:00"
+    },
+    "yes": {
+      "origin": "London, England",
+      "genres": "Progressive rock art rock symphonic rock pop rock",
+      "years_active": "1968–1981 1983–2004 2009–present",
+      "members": [
+        {
+          "name": "Steve Howe",
+          "role": ""
+        },
+        {
+          "name": "Geoff Downes",
+          "role": ""
+        },
+        {
+          "name": "Billy Sherwood",
+          "role": ""
+        },
+        {
+          "name": "Jon Davison",
+          "role": ""
+        },
+        {
+          "name": "Jay Schellen",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://yesworld.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Yes_%28band%29",
+      "reference_checked_at": "2026-10-02T02:24:38.071253+00:00"
+    },
+    "wolves-in-the-throne-room": {
+      "origin": "Olympia, Washington , U.S.",
+      "genres": "Atmospheric black metal dark ambient",
+      "years_active": "2002–present",
+      "members": [
+        {
+          "name": "Nathan Weaver",
+          "role": ""
+        },
+        {
+          "name": "Aaron Weaver",
+          "role": ""
+        },
+        {
+          "name": "Kody Keyworth",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://wittr.com/",
+      "reference_url": "https://en.wikipedia.org/wiki/Wolves_In_The_Throne_Room",
+      "reference_checked_at": "2026-10-02T02:24:38.114494+00:00",
+      "tour_attempted_at": "2026-10-02T02:31:20.016569+00:00",
+      "tour_calendar_year": 2026,
+      "events": [
+        {
+          "date": "2026-10-21",
+          "city": "Athina",
+          "country": "Greece",
+          "venue": "KYTTARO",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-10-23",
+          "city": "Leipzig",
+          "country": "Germany",
+          "venue": "UT Connewitz",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-10-24",
+          "city": "Maastricht",
+          "country": "Netherlands",
+          "venue": "Samhain Festival",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-10-25",
+          "city": "Brugse Poort-rooigem",
+          "country": "Belgium",
+          "venue": "Bruges is Doomed",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-10-27",
+          "city": "Berlin",
+          "country": "Germany",
+          "venue": "Hole⁴⁴",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-10-28",
+          "city": "Essen",
+          "country": "Germany",
+          "venue": "Turock",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-10-29",
+          "city": "München",
+          "country": "Germany",
+          "venue": "Backstage",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-10-30",
+          "city": "Stuttgart",
+          "country": "Germany",
+          "venue": "Im Wizemann",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-10-31",
+          "city": "Praha",
+          "country": "Czech Republic",
+          "venue": "Futurum Music Bar",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-01",
+          "city": "Vienna",
+          "country": "Austria",
+          "venue": "Simm City",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-03",
+          "city": "Kraków",
+          "country": "Poland",
+          "venue": "Hype Park",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-04",
+          "city": "Zagreb",
+          "country": "Croatia",
+          "venue": "Klub Močvara",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-05",
+          "city": "Milano",
+          "country": "Italy",
+          "venue": "Legend Club",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-06",
+          "city": "Aarau",
+          "country": "Switzerland",
+          "venue": "KIFF",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-07",
+          "city": "Vaureal",
+          "country": "France",
+          "venue": "Le Forum",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-08",
+          "city": "Manchester",
+          "country": "United Kingdom",
+          "venue": "Damnation Festival",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-09",
+          "city": "London",
+          "country": "United Kingdom",
+          "venue": "O2 Academy Islington",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-11",
+          "city": "Copenhagen",
+          "country": "Denmark",
+          "venue": "Pumpehuset",
+          "source_url": "https://wittr.com/"
+        },
+        {
+          "date": "2026-11-12",
+          "city": "Stockholm",
+          "country": "Sweden",
+          "venue": "Slaktkyrkan",
+          "source_url": "https://wittr.com/"
+        }
+      ],
+      "tour_source": "https://wittr.com/",
+      "tour_checked_at": "2026-10-02T02:36:41.817985+00:00"
+    },
+    "carcass": {
+      "origin": "Liverpool , England",
+      "genres": "Death metal melodic death metal grindcore goregrind (early)",
+      "years_active": "1985–1996 2007–present",
+      "members": [
+        {
+          "name": "Bill Steer",
+          "role": ""
+        },
+        {
+          "name": "Jeff Walker",
+          "role": ""
+        },
+        {
+          "name": "Daniel Wilding",
+          "role": ""
+        },
+        {
+          "name": "James Blackford",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/Carcass_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:16.420909+00:00"
+    },
+    "camel": {
+      "origin": "Guildford , Surrey , England",
+      "genres": "Progressive rock",
+      "years_active": "1971–1984 1991–present",
+      "members": [
+        {
+          "name": "Andrew Latimer",
+          "role": ""
+        },
+        {
+          "name": "Colin Bass",
+          "role": ""
+        },
+        {
+          "name": "Denis Clement",
+          "role": ""
+        },
+        {
+          "name": "Pete Jones",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://camelproductions.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Camel_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:16.495726+00:00"
+    },
+    "anthrax": {
+      "origin": "Queens , New York City, U.S.",
+      "genres": "Thrash metal speed metal groove metal alternative metal",
+      "years_active": "1981–present",
+      "members": [
+        {
+          "name": "Scott Ian",
+          "role": ""
+        },
+        {
+          "name": "Charlie Benante",
+          "role": ""
+        },
+        {
+          "name": "Frank Bello",
+          "role": ""
+        },
+        {
+          "name": "Joey Belladonna",
+          "role": ""
+        },
+        {
+          "name": "Jonathan Donais",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://anthrax.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Anthrax_%28American_band%29",
+      "reference_checked_at": "2026-10-02T02:26:16.593822+00:00"
+    },
+    "behemoth": {
+      "origin": "Gdańsk , Poland",
+      "genres": "Blackened death metal black metal (early)",
+      "years_active": "1991–present",
+      "members": [
+        {
+          "name": "Nergal",
+          "role": ""
+        },
+        {
+          "name": "Inferno",
+          "role": ""
+        },
+        {
+          "name": "Orion",
+          "role": ""
+        },
+        {
+          "name": "Seth",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "https://www.behemoth.pl",
+      "reference_url": "https://en.wikipedia.org/wiki/Behemoth_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:16.652417+00:00"
+    },
+    "deicide": {
+      "origin": "Tampa, Florida , U.S.",
+      "genres": "Death metal",
+      "years_active": "1987–present",
+      "members": [
+        {
+          "name": "Glen Benton",
+          "role": ""
+        },
+        {
+          "name": "Steve Asheim",
+          "role": ""
+        },
+        {
+          "name": "Taylor Nordberg",
+          "role": ""
+        },
+        {
+          "name": "Jadran \"Conan\" Gonzalez",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://deicideofficial.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Deicide_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:21.963568+00:00"
+    },
+    "dismember": {
+      "origin": "Stockholm , Sweden",
+      "genres": "Death metal",
+      "years_active": "1988–2011, 2019–present",
+      "members": [
+        {
+          "name": "Fred Estby",
+          "role": ""
+        },
+        {
+          "name": "Matti Kärki",
+          "role": ""
+        },
+        {
+          "name": "Richard Cabeza",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://dismember.se",
+      "reference_url": "https://en.wikipedia.org/wiki/Dismember_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:22.111036+00:00"
+    },
+    "destruction": {
+      "origin": "Weil am Rhein , Germany",
+      "genres": "Thrash metal black metal (early)",
+      "years_active": "1982–present",
+      "members": [
+        {
+          "name": "Marcel \"Schmier\" Schirmer",
+          "role": ""
+        },
+        {
+          "name": "Randy Black",
+          "role": ""
+        },
+        {
+          "name": "Damir Eskic",
+          "role": ""
+        },
+        {
+          "name": "Martin Furia",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://destruction.de",
+      "reference_url": "https://en.wikipedia.org/wiki/Destruction_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:22.156283+00:00"
+    },
+    "entombed": {
+      "origin": "Stockholm , Sweden",
+      "genres": "Death metal death 'n' roll",
+      "years_active": "1987–2014, 2016–present",
+      "members": [
+        {
+          "name": "Alex Hellid",
+          "role": ""
+        },
+        {
+          "name": "Nicke Andersson",
+          "role": ""
+        },
+        {
+          "name": "Uffe Cederlund",
+          "role": ""
+        },
+        {
+          "name": "Jörgen Sandström",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/Entombed_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:27.352357+00:00"
+    },
+    "enslaved": {
+      "origin": "Haugesund , Norway",
+      "genres": "Progressive metal Viking metal black metal",
+      "years_active": "1991–present",
+      "members": [
+        {
+          "name": "Ivar Bjørnson",
+          "role": ""
+        },
+        {
+          "name": "Grutle Kjellson",
+          "role": ""
+        },
+        {
+          "name": "Arve Isdal",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/Enslaved_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:27.434665+00:00"
+    },
+    "gojira": {
+      "origin": "Ondres , Landes , France",
+      "genres": "Progressive metal technical death metal groove metal post-metal",
+      "years_active": "1996-present",
+      "members": [
+        {
+          "name": "Joe Duplantier",
+          "role": ""
+        },
+        {
+          "name": "Mario Duplantier",
+          "role": ""
+        },
+        {
+          "name": "Christian Andreu",
+          "role": ""
+        },
+        {
+          "name": "Jean-Michel Labadie",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://gojira-music.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Gojira_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:27.730126+00:00"
+    },
+    "exodus": {
+      "origin": "Richmond, California , U.S.",
+      "genres": "Thrash metal",
+      "years_active": "1979–1993 1997–1998 2001–present",
+      "members": [
+        {
+          "name": "Tom Hunting",
+          "role": ""
+        },
+        {
+          "name": "Gary Holt",
+          "role": ""
+        },
+        {
+          "name": "Jack Gibson",
+          "role": ""
+        },
+        {
+          "name": "Lee Altus",
+          "role": ""
+        },
+        {
+          "name": "Rob Dukes",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://exodusattack.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Exodus_%28American_band%29",
+      "reference_checked_at": "2026-10-02T02:26:27.841258+00:00"
+    },
+    "haken": {
+      "origin": "London , England",
+      "genres": "Progressive metal progressive rock",
+      "years_active": "2007–present",
+      "members": [
+        {
+          "name": "Ross Jennings",
+          "role": ""
+        },
+        {
+          "name": "Richard Henshall",
+          "role": ""
+        },
+        {
+          "name": "Raymond Hearne",
+          "role": ""
+        },
+        {
+          "name": "Peter Jones",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://hakenmusic.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Haken_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:33.556676+00:00"
+    },
+    "immolation": {
+      "origin": "Yonkers, New York , U.S.",
+      "genres": "Death metal",
+      "years_active": "1986–present",
+      "members": [
+        {
+          "name": "Robert Vigna",
+          "role": ""
+        },
+        {
+          "name": "Ross Dolan",
+          "role": ""
+        },
+        {
+          "name": "Steve Shalaty",
+          "role": ""
+        },
+        {
+          "name": "Alex Bouks",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://immolation.info",
+      "reference_url": "https://en.wikipedia.org/wiki/Immolation_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:33.615499+00:00"
+    },
+    "grave-digger": {
+      "origin": "Gladbeck , West Germany",
+      "genres": "Heavy metal power metal",
+      "years_active": "1980–1987 1988–present",
+      "members": [
+        {
+          "name": "Jens Becker",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://grave-digger-clan.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Grave_Digger_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:33.710594+00:00"
+    },
+    "imminence": {
+      "origin": "Trelleborg , Sweden",
+      "genres": "Metalcore melodic metalcore alternative rock post-hardcore",
+      "years_active": "2009 ( 2009 ) –present",
+      "members": [
+        {
+          "name": "Eddie Berg",
+          "role": ""
+        },
+        {
+          "name": "Harald Barrett",
+          "role": ""
+        },
+        {
+          "name": "Alex Arnoldsson",
+          "role": ""
+        },
+        {
+          "name": "Christian Höijer",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://www.imminenceswe.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Imminence_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:33.770410+00:00"
+    },
+    "jethro-tull": {
+      "origin": "Blackpool , Lancashire, England",
+      "genres": "Progressive rock folk rock hard rock blues rock",
+      "years_active": "1967–2011 2017–present",
+      "members": [
+        {
+          "name": "Ian Anderson",
+          "role": ""
+        },
+        {
+          "name": "David Goodier",
+          "role": ""
+        },
+        {
+          "name": "John O'Hara",
+          "role": ""
+        },
+        {
+          "name": "Scott Hammond",
+          "role": ""
+        },
+        {
+          "name": "Jack Clark",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://jethrotull.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Jethro_Tull_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:38.720510+00:00"
+    },
+    "mastodon": {
+      "origin": "Atlanta, Georgia , U.S.",
+      "genres": "Progressive metal sludge metal stoner metal alternative metal",
+      "years_active": "2000–present",
+      "members": [
+        {
+          "name": "Brann Dailor",
+          "role": ""
+        },
+        {
+          "name": "Bill Kelliher",
+          "role": ""
+        },
+        {
+          "name": "Troy Sanders",
+          "role": ""
+        },
+        {
+          "name": "João Nogueira",
+          "role": ""
+        },
+        {
+          "name": "Nick Johnston",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://mastodonrocks.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Mastodon_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:38.865149+00:00"
+    },
+    "obituary": {
+      "origin": "Tampa, Florida , U.S.",
+      "genres": "Death metal",
+      "years_active": "1984–1998 2003–present",
+      "members": [
+        {
+          "name": "John Tardy",
+          "role": ""
+        },
+        {
+          "name": "Donald Tardy",
+          "role": ""
+        },
+        {
+          "name": "Trevor Peres",
+          "role": ""
+        },
+        {
+          "name": "Terry Butler",
+          "role": ""
+        },
+        {
+          "name": "Ken Andrews",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://obituary.cc",
+      "reference_url": "https://en.wikipedia.org/wiki/Obituary_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:38.921358+00:00"
+    },
+    "mayhem": {
+      "origin": "Oslo , Norway",
+      "genres": "Black metal",
+      "years_active": "1984–1993 1995–present",
+      "members": [
+        {
+          "name": "Necrobutcher",
+          "role": ""
+        },
+        {
+          "name": "Hellhammer",
+          "role": ""
+        },
+        {
+          "name": "Attila Csihar",
+          "role": ""
+        },
+        {
+          "name": "Teloch",
+          "role": ""
+        },
+        {
+          "name": "Ghul",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://thetruemayhem.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Mayhem_%28band%29",
+      "reference_checked_at": "2026-10-02T02:26:38.968142+00:00"
+    },
+    "descape": {
+      "about": "Канадская металкор-группа. Новые релизы и видео доступны в разделе новостей.",
+      "members": [],
+      "members_note": "Участники, упомянутые в новости; список может быть неполным.",
+      "members_source": "https://www.theprp.com/2026/10/01/news/descapes-true-colors-music-video-debuts/",
+      "reference_url": "https://www.theprp.com/2026/10/01/news/descapes-true-colors-music-video-debuts/",
+      "reference_checked_at": "2026-10-02T02:29:28.923484+00:00"
+    },
+    "shogun-mojo": {
+      "about": "Проект с участием гитариста KISS Tommy Thayer и вокалиста Dan Reed из Dan Reed Network.",
+      "members": [
+        {
+          "name": "Tommy Thayer",
+          "role": "Гитара"
+        },
+        {
+          "name": "Dan Reed",
+          "role": "Вокал"
+        }
+      ],
+      "members_note": "Участники, упомянутые в новости; список может быть неполным.",
+      "members_source": "http://www.darkside.ru/news/184167/",
+      "reference_url": "http://www.darkside.ru/news/184167/",
+      "reference_checked_at": "2026-10-02T02:29:28.923484+00:00"
+    },
+    "the-l-i-f-e-project": {
+      "about": "Дуэт Джоша Рэнда и Касандры Карсон.",
+      "members": [
+        {
+          "name": "Josh Rand",
+          "role": ""
+        },
+        {
+          "name": "Casandra Carson",
+          "role": ""
+        }
+      ],
+      "members_note": "Участники, упомянутые в новости; список может быть неполным.",
+      "members_source": "https://www.theprp.com/2026/10/01/news/the-l-i-f-e-project-stone-sour-etc-release-their-cover-of-led-zeppelins-immigrant-song/",
+      "reference_url": "https://www.theprp.com/2026/10/01/news/the-l-i-f-e-project-stone-sour-etc-release-their-cover-of-led-zeppelins-immigrant-song/",
+      "reference_checked_at": "2026-10-02T02:29:28.923484+00:00"
+    },
+    "emperor": {
+      "origin": "Notodden , Norway",
+      "genres": "Symphonic black metal progressive metal",
+      "years_active": "1991–2001 2005–2007 2013–2014 2016–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Ihsahn",
+          "role": ""
+        },
+        {
+          "name": "Samoth",
+          "role": ""
+        },
+        {
+          "name": "Trym",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://emperorhorde.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Emperor_%28Norwegian_band%29",
+      "reference_checked_at": "2026-10-02T02:35:23.274412+00:00"
+    },
+    "overkill": {
+      "origin": "Old Bridge Township, New Jersey , U.S.",
+      "genres": "Thrash metal",
+      "years_active": "1980–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "D.D. Verni",
+          "role": ""
+        },
+        {
+          "name": "Bobby \"Blitz\" Ellsworth",
+          "role": ""
+        },
+        {
+          "name": "Dave Linsk",
+          "role": ""
+        },
+        {
+          "name": "Derek Tailer",
+          "role": ""
+        },
+        {
+          "name": "Jeramie Kling",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://wreckingcrew.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Overkill_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:11.781832+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:11.781929+00:00"
+    },
+    "periphery": {
+      "origin": "Washington, D.C. , U.S.",
+      "genres": "Progressive metal djent progressive metalcore",
+      "years_active": "2005–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Misha Mansoor",
+          "role": ""
+        },
+        {
+          "name": "Jake Bowen",
+          "role": ""
+        },
+        {
+          "name": "Matt Halpern",
+          "role": ""
+        },
+        {
+          "name": "Spencer Sotelo",
+          "role": ""
+        },
+        {
+          "name": "Mark Holcomb",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://periphery.net",
+      "reference_url": "https://en.wikipedia.org/wiki/Periphery_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:11.926875+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:11.926897+00:00"
+    },
+    "riverside": {
+      "origin": "Warsaw , Poland",
+      "genres": "Progressive rock progressive metal",
+      "years_active": "2001–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Piotr Kozieradzki",
+          "role": ""
+        },
+        {
+          "name": "Michał Łapaj",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://riversideband.pl",
+      "reference_url": "https://en.wikipedia.org/wiki/Riverside_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:12.441557+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:12.441578+00:00"
+    },
+    "saxon": {
+      "origin": "Barnsley , Yorkshire , England",
+      "genres": "Heavy metal",
+      "years_active": "1975–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Biff Byford",
+          "role": ""
+        },
+        {
+          "name": "Paul Quinn",
+          "role": ""
+        },
+        {
+          "name": "Nigel Glockler",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://saxon747.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Saxon_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:12.571694+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:12.571717+00:00"
+    },
+    "scorpions": {
+      "origin": "Hanover , West Germany",
+      "genres": "Hard rock heavy metal glam metal (1980s) krautrock (early)",
+      "years_active": "1965–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Rudolf Schenker",
+          "role": ""
+        },
+        {
+          "name": "Klaus Meine",
+          "role": ""
+        },
+        {
+          "name": "Matthias Jabs",
+          "role": ""
+        },
+        {
+          "name": "Paweł Mąciwoda",
+          "role": ""
+        },
+        {
+          "name": "Mikkey Dee",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://the-scorpions.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Scorpions_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:12.823129+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:12.823155+00:00"
+    },
+    "set-your-goals": {
+      "origin": "San Francisco, California , U.S.",
+      "genres": "Melodic hardcore pop punk easycore",
+      "years_active": "2004–2013 2015–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Jordan Brown",
+          "role": ""
+        },
+        {
+          "name": "Matt Wilson",
+          "role": ""
+        },
+        {
+          "name": "Joe Saucedo",
+          "role": ""
+        },
+        {
+          "name": "Audelio Flores",
+          "role": ""
+        },
+        {
+          "name": "Daniel Coddaire",
+          "role": ""
+        },
+        {
+          "name": "Mike Ambrose",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "",
+      "reference_url": "https://en.wikipedia.org/wiki/Set_Your_Goals_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:13.180737+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:13.180759+00:00"
+    },
+    "skid-row": {
+      "origin": "Toms River, New Jersey , U.S.",
+      "genres": "Heavy metal hard rock glam metal",
+      "years_active": "1986–1996 1999–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Dave Sabo",
+          "role": ""
+        },
+        {
+          "name": "Rachel Bolan",
+          "role": ""
+        },
+        {
+          "name": "Scotti Hill",
+          "role": ""
+        },
+        {
+          "name": "Rob Hammersmith",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://skidrow.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Skid_Row_%28American_band%29",
+      "reference_checked_at": "2026-10-02T02:31:13.347604+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:13.347625+00:00"
+    },
+    "sodom": {
+      "origin": "Gelsenkirchen , North Rhine-Westphalia, West Germany",
+      "genres": "Thrash metal black metal (early)",
+      "years_active": "1982–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Tom Angelripper",
+          "role": ""
+        },
+        {
+          "name": "Frank \"Blackfire\" Gosdzik",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://sodomized.info",
+      "reference_url": "https://en.wikipedia.org/wiki/Sodom_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:13.738310+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:13.738332+00:00"
+    },
+    "suffocation": {
+      "origin": "Centereach, New York , U.S.",
+      "genres": "Technical death metal brutal death metal",
+      "years_active": "1989–1998 2003–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Terrance Hobbs",
+          "role": ""
+        },
+        {
+          "name": "Derek Boyer",
+          "role": ""
+        },
+        {
+          "name": "Charlie Errigo",
+          "role": ""
+        },
+        {
+          "name": "Ricky Myers",
+          "role": ""
+        },
+        {
+          "name": "John Longstreth",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://suffocationofficial.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Suffocation_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:13.866672+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:13.866696+00:00"
+    },
+    "tesla": {
+      "origin": "Sacramento, California , U.S.",
+      "genres": "Hard rock blues rock glam metal (early)",
+      "years_active": "1981–1996 2000–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Brian Wheat",
+          "role": ""
+        },
+        {
+          "name": "Frank Hannon",
+          "role": ""
+        },
+        {
+          "name": "Jeff Keith",
+          "role": ""
+        },
+        {
+          "name": "Dave Rude",
+          "role": ""
+        },
+        {
+          "name": "Steve Brown",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://teslatheband.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Tesla_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:13.977074+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:13.977098+00:00"
+    },
+    "testament": {
+      "origin": "Berkeley, California , U.S.",
+      "genres": "Thrash metal",
+      "years_active": "1983–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Eric Peterson",
+          "role": ""
+        },
+        {
+          "name": "Chuck Billy",
+          "role": ""
+        },
+        {
+          "name": "Alex Skolnick",
+          "role": ""
+        },
+        {
+          "name": "Steve Di Giorgio",
+          "role": ""
+        },
+        {
+          "name": "Chris Dovas",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://www.testamentlegions.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Testament_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:14.223909+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:14.224029+00:00"
+    },
+    "uriah-heep": {
+      "origin": "London, England",
+      "genres": "Hard rock progressive rock heavy metal",
+      "years_active": "1969–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Mick Box",
+          "role": ""
+        },
+        {
+          "name": "Phil Lanzon",
+          "role": ""
+        },
+        {
+          "name": "Bernie Shaw",
+          "role": ""
+        },
+        {
+          "name": "Russell Gilbrook",
+          "role": ""
+        },
+        {
+          "name": "Dave Rimmer",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://uriah-heep.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Uriah_Heep_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:14.325327+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:14.325350+00:00"
+    },
+    "venom": {
+      "origin": "Newcastle upon Tyne , England",
+      "genres": "Heavy metal speed metal thrash metal first-wave black metal",
+      "years_active": "1978–1992 1995–2002 2005–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Stuart \"Rage\" Dixon",
+          "role": ""
+        },
+        {
+          "name": "Danny \"Dante\" Needham",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://venomslegions.com",
+      "reference_url": "https://en.wikipedia.org/wiki/Venom_%28band%29",
+      "reference_checked_at": "2026-10-02T02:31:14.400610+00:00",
+      "reference_attempted_at": "2026-10-02T02:31:14.400632+00:00"
+    },
+    "w-a-s-p": {
+      "origin": "Los Angeles, California , U.S.",
+      "genres": "Heavy metal glam metal shock rock",
+      "years_active": "1982–present",
+      "instruments": "",
+      "members": [
+        {
+          "name": "Blackie Lawless",
+          "role": ""
+        },
+        {
+          "name": "Doug Blair",
+          "role": ""
+        },
+        {
+          "name": "Aquiles Priester",
+          "role": ""
+        }
+      ],
+      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "website": "http://waspnation.com",
+      "reference_url": "https://en.wikipedia.org/wiki/W.A.S.P._%28band%29",
+      "reference_checked_at": "2026-10-02T02:35:28.551872+00:00"
+    }
+  }
+}

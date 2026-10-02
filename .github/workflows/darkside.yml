@@ -64,3 +64,15 @@ jobs:
           else
             echo "State and articles unchanged"
           fi
+
+      - name: Refresh public artist profiles
+        if: success()
+        run: |
+          python refresh_artist_profiles.py --limit 6 --budget 40
+          if [[ -n "$(git status --porcelain -- docs/artist_profiles.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/artist_profiles.json
+            git commit -m "Update public artist profiles"
+            git push
+          fi

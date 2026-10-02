@@ -5,7 +5,8 @@ article directly; “К ленте” opens the archive. No Telegram messages ar
 
 Views: all news, favorite artists, artist directory/profile, saved articles.
 Event filters show tour/concert news and release news, including songs/videos.
-These are classified stories, not a complete event or release calendar.
+Global event filters classify stories. Artist profiles now also contain sourced
+concert dates where available; see group-profiles.md.
 No dates, cities, discographies or external listings are invented.
 
 Preferences use localStorage under metal-news.preferences.v1. They persist in

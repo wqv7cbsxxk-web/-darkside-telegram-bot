@@ -228,6 +228,20 @@ def telegram_api(method, payload=None):
     return data.get("result")
 
 
+def configure_open_menu(chat_id=None):
+    """Configure a real Telegram menu entry, without sending a message."""
+    expected = {"type": "web_app", "text": "Открыть", "web_app": {"url": get_webapp_base_url() + "?view=bands"}}
+    scopes = [{}]
+    if chat_id and str(chat_id).isdigit():
+        scopes.append({"chat_id": int(chat_id)})
+    for scope in scopes:
+        if telegram_api("getChatMenuButton", scope) != expected:
+            telegram_api("setChatMenuButton", dict(scope, menu_button=expected))
+        if telegram_api("getChatMenuButton", scope) != expected:
+            raise RuntimeError("Telegram menu verification failed")
+    print("Telegram menu verified: Открыть -> Mini App home")
+
+
 def resolve_chat_id(state):
     if TELEGRAM_CHAT_ID:
         return TELEGRAM_CHAT_ID
@@ -837,6 +851,10 @@ def send_test_latest(chat_id, state):
 def main():
     state = load_state()
     chat_id = resolve_chat_id(state)
+    try:
+        configure_open_menu(chat_id)
+    except Exception as e:
+        print("Telegram menu warning:", type(e).__name__)
 
     if TEST_LATEST:
         send_test_latest(chat_id, state)

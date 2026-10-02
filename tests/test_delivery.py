@@ -20,6 +20,9 @@ class DeliveryTests(unittest.TestCase):
         state_file = patch.object(bot, "STATE_FILE", str(Path(self.directory.name) / "state.json"))
         state_file.start()
         self.addCleanup(state_file.stop)
+        menu = patch.object(bot, "configure_open_menu")
+        menu.start()
+        self.addCleanup(menu.stop)
 
     def test_pending_news_survives_restart_and_empty_feed(self):
         state = bot.load_state()

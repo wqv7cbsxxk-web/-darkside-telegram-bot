@@ -122,6 +122,7 @@ class TranslationTests(unittest.TestCase):
              patch.object(bot, "_translate_mymemory", new=lambda text: ""), \
              patch.object(bot, "load_state", return_value=state), \
              patch.object(bot, "resolve_chat_id", return_value="test-chat"), \
+             patch.object(bot, "configure_open_menu"), \
              patch.object(bot, "collect_candidates", return_value=[candidate]), \
              patch.object(bot, "save_state"), patch.object(bot, "save_article") as save, \
              patch.object(bot, "telegram_api") as api, patch.object(runner.time, "sleep"):

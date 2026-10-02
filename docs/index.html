@@ -21,6 +21,8 @@
 <h1 id="viewTitle">Твоя музыкальная лента</h1><p id="viewIntro" class="muted intro">Новости, релизы и концерты из любимых изданий.</p>
 <nav class="nav" aria-label="Разделы"><button data-view="all">Все новости</button><button data-view="mine">Мои группы</button><button data-view="bands">Группы</button><button data-view="saved">Сохранено</button></nav>
 <div id="bandHero" class="hidden"></div>
+<nav id="bandTabs" class="filters hidden" aria-label="Информация о группе"><button data-band-section="news">Новости</button><button data-band-section="tour">Тур</button><button data-band-section="where">Где сейчас</button><button data-band-section="members">Состав</button><button data-band-section="about">О группе</button></nav>
+<div id="bandInfo" class="hidden"></div>
 <div id="filters" class="filters" aria-label="Тип новости"><button data-topic="all">Всё</button><button data-topic="live">Туры и концерты</button><button data-topic="releases">Релизы</button></div>
 <label class="hidden" for="search">Поиск</label><input id="search" aria-label="Поиск новостей или групп" type="search" placeholder="Найти новость или группу" autocomplete="off">
 <p id="resultCount" class="muted" aria-live="polite"></p><div id="list"></div>
@@ -36,7 +38,8 @@ const tg=window.Telegram?.WebApp;
 if(tg){tg.ready();tg.expand();const p=tg.themeParams||{};for(const [key,value] of [['--bg',p.bg_color],['--text',p.text_color],['--muted',p.hint_color],['--panel',p.secondary_bg_color]])if(value)document.documentElement.style.setProperty(key,value);}
 const $=id=>document.getElementById(id), qs=new URLSearchParams(location.search);
 const KEY='metal-news.preferences.v1';
-let prefs={favorites:[],saved:[],custom:[]}, articles=[],catalog=[],view='all',topic='all',band=null,current=null,query='',tries=0;
+let prefs={favorites:[],saved:[],custom:[]}, articles=[],catalog=[],view='all',topic='all',band=null,current=null,query='',tries=0,bandSection='news',profiles={};
+if(['all','mine','bands','saved'].includes(qs.get('view')))view=qs.get('view');
 try{const p=JSON.parse(localStorage.getItem(KEY)||'null');if(p&&typeof p==='object')prefs={favorites:Array.isArray(p.favorites)?p.favorites.filter(x=>typeof x==='string'):[],saved:Array.isArray(p.saved)?p.saved.filter(x=>typeof x==='string'):[],custom:Array.isArray(p.custom)?p.custom.filter(x=>x&&typeof x.name==='string'&&typeof x.id==='string'):[]};}catch(e){}
 function persist(){try{localStorage.setItem(KEY,JSON.stringify(prefs));$('storageNotice').textContent='';}catch(e){$('storageNotice').textContent='Не удалось сохранить настройки. Сейчас они действуют только до закрытия приложения.';}}
 function norm(s){return String(s||'').toLocaleLowerCase().replaceAll('’',"'").replaceAll('ё','е').replace(/\s+/g,' ').trim();}
@@ -50,7 +53,7 @@ function button(text,fn,cls){const b=node('button',text,cls);b.type='button';b.a
 function toggleFavorite(id){prefs.favorites=isFavorite(id)?prefs.favorites.filter(x=>x!==id):[...prefs.favorites,id];persist();renderBrowse();if(current)renderTags(current);}
 function star(b){const el=button(isFavorite(b.id)?'★':'☆',()=>toggleFavorite(b.id),'star');el.setAttribute('aria-label',(isFavorite(b.id)?'Убрать из избранного: ':'Добавить в избранное: ')+b.name);el.setAttribute('aria-pressed',String(isFavorite(b.id)));return el;}
 function date(a){const d=new Date(a.published);return Number.isNaN(d.getTime())?'':d.toLocaleDateString('ru-RU',{day:'numeric',month:'short'});}
-function openBand(b){history.replaceState(null,'',location.pathname);band=b;view='band';topic='all';query='';$('search').value='';current=null;showBrowse();renderBrowse();scrollTop();}
+function openBand(b){history.replaceState(null,'','?band='+encodeURIComponent(b.id));band=b;bandSection='news';view='band';topic='all';query='';$('search').value='';current=null;showBrowse();renderBrowse();scrollTop();}
 function scrollTop(){window.scrollTo?.({top:0,behavior:'instant'});}
 function showBrowse(){ $('browse').classList.remove('hidden');$('content').classList.add('hidden');$('backBtn').classList.toggle('hidden',view!=='band'); }
 function renderTags(a){$('articleTags').replaceChildren();for(const b of artistList(a)){const chip=button(b.name,()=>openBand(b));$('articleTags').append(chip,star(b));}}
@@ -64,7 +67,10 @@ const intros={all:'Новости, релизы и концерты из люб�
 $('viewTitle').textContent=titles[view];$('viewIntro').textContent=intros[view];for(const b of document.querySelectorAll('[data-view]')){if(b.dataset.view===view)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');}
 for(const b of document.querySelectorAll('[data-topic]'))b.setAttribute('aria-pressed',String(b.dataset.topic===topic));
 $('filters').classList.toggle('hidden',view==='bands');$('preferencesNote').classList.toggle('hidden',!['bands','mine'].includes(view));$('search').placeholder=view==='bands'?'Поиск группы':'Найти новость или группу';$('list').replaceChildren();$('bandHero').replaceChildren();$('bandHero').classList.toggle('hidden',view!=='band');
+$('bandTabs').classList.toggle('hidden',view!=='band');$('bandInfo').classList.add('hidden');$('search').classList.remove('hidden');
+for(const b of document.querySelectorAll('[data-band-section]'))b.setAttribute('aria-pressed',String(b.dataset.bandSection===bandSection));
 if(view==='band'){$('bandHero').append(node('div',isFavorite(band.id)?'В твоём избранном':'Добавь группу в свою ленту','muted'),star(band));}
+if(view==='band'&&bandSection!=='news'){$('filters').classList.add('hidden');$('search').classList.add('hidden');$('resultCount').textContent='';renderProfile();return;}
 if(view==='bands'){
 const filtered=allBands().filter(b=>norm([b.name,...(b.aliases||[])].join(' ')).includes(norm(query))).sort((a,b)=>Number(isFavorite(b.id))-Number(isFavorite(a.id))||a.name.localeCompare(b.name));
 $('resultCount').textContent=`Избрано: ${prefs.favorites.length} · Найдено групп: ${filtered.length}`;
@@ -75,16 +81,32 @@ const selected=selectArticles(articles,{view,topic,band,query});$('resultCount')
 if(!selected.length){if(view==='mine'&&!prefs.favorites.length)empty('Выбери любимые группы, и здесь появятся их новости.',()=>setView('bands'),'Выбрать группы');else empty(view==='saved'?'Здесь пока нет сохранённых статей из доступного архива.':'В доступном архиве нет подходящих материалов. Попробуй другой фильтр.');}
 for(const a of selected){const card=node('article',undefined,'card');card.append(node('div',[a.source,date(a)].filter(Boolean).join(' · '),'muted'),button(a.title,()=>openArticle(a),'headline'),node('p',a.short||''));const tags=node('div',undefined,'tags');for(const b of artistList(a).slice(0,3))tags.append(button(b.name,()=>openBand(b)));card.append(tags);const footer=node('div',undefined,'card-footer');footer.append(button('Читать →',()=>openArticle(a),'read'),button(prefs.saved.includes(a.id)?'✓':'＋',()=>{prefs.saved=prefs.saved.includes(a.id)?prefs.saved.filter(x=>x!==a.id):[...prefs.saved,a.id];persist();renderBrowse();},'bookmark'));footer.lastChild.setAttribute('aria-label',prefs.saved.includes(a.id)?'Убрать из сохранённого':'Сохранить статью');card.append(footer);$('list').append(card);}
 }
+
+function profileFor(b){const raw=profiles[b.id]||{},review=raw.reviewed||{};const age=Date.now()-new Date(review.members_checked_at||0).getTime();if(review.members_checked_at&&age>30*86400000)return {...raw,members_note:(raw.members_note||'')+' Ручная проверка состава устарела; показаны сведения справочника.'};return {...raw,...review};}
+function upcomingEvents(p,now=new Date()){const today=now.toLocaleDateString('sv-SE',{timeZone:'Asia/Novosibirsk'});return (p.events||[]).filter(e=>/^\d{4}-\d{2}-\d{2}$/.test(e.date)&&e.city&&e.date>=today).sort((a,b)=>a.date.localeCompare(b.date));}
+function sourceLabel(url){try{return new URL(url).hostname.replace(/^www\./,'');}catch(e){return 'Источник';}}
+function source(parent,url,label){if(!/^https?:\/\//i.test(url||''))return;const a=node('a',label||sourceLabel(url),'source');a.href=url;a.target='_blank';a.rel='noopener';parent.append(a);}
+function checked(parent,value){if(value){const d=new Date(value);if(!Number.isNaN(d.getTime()))parent.append(node('p','Проверено: '+d.toLocaleDateString('ru-RU'),'muted'));}}
+function eventDate(e){return new Date(e.date+'T12:00:00').toLocaleDateString('ru-RU',{day:'numeric',month:'long',year:'numeric'});}
+function eventCard(e){const card=node('div',undefined,'card');card.append(node('div',eventDate(e),'muted'),node('h2',[e.city,e.country].filter(Boolean).join(' · ')),node('p',e.venue||''));source(card,e.source_url,'Афиша / источник ↗');return card;}
+function renderProfile(){const holder=$('bandInfo');holder.classList.remove('hidden');holder.replaceChildren();const p=profileFor(band),events=upcomingEvents(p);
+if(bandSection==='tour'){holder.append(node('h2','Предстоящие концерты'));if(!events.length)holder.append(node('p','В нашей базе пока нет подтверждённых будущих дат. Это не означает, что группа не выступает.','muted'));for(const e of events)holder.append(eventCard(e));checked(holder,p.tour_checked_at);source(holder,p.tour_source||p.website,'Расписание на сайте группы ↗');return;}
+if(bandSection==='where'){holder.append(node('h2','Где выступают'));const today=new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Novosibirsk'});if(events.length){holder.append(node('p',events[0].date===today?'По афише на сегодняшнюю дату:':'Ближайшая дата из нашей афиши:'));holder.append(eventCard(events[0]));}else holder.append(node('p','Актуальное расписание выступлений для этой группы пока не подключено.','muted'));holder.append(node('p','Показываем место выступления по афише. Фактическое местоположение участников не известно.','muted'));checked(holder,p.tour_checked_at);return;}
+if(bandSection==='members'){holder.append(node('h2','Состав'));if(p.members_note)holder.append(node('p',p.members_note,'muted'));if(p.members?.length){for(const member of p.members){const row=node('div',undefined,'band-row');row.append(node('div',member.name));if(member.role)row.append(node('div',member.role,'muted'));holder.append(row);}}else holder.append(node('p','Подтверждённый список участников пока не добавлен.','muted'));checked(holder,p.members_checked_at||p.reference_checked_at);source(holder,p.members_source||p.reference_url,'Источник состава ↗');return;}
+holder.append(node('h2',band.name));for(const [label,value] of [['Откуда',p.origin],['Жанры',p.genres],['Годы активности',p.years_active],['Инструменты',p.instruments]])if(value){const row=node('div',undefined,'band-row');row.append(node('div',label,'muted'),node('div',value));holder.append(row);}if(p.about)holder.append(node('p',p.about));if(!p.reference_url&&!p.about)holder.append(node('p','Справка пока не подключена. Новости этой группы доступны в соседнем разделе.','muted'));checked(holder,p.reference_checked_at);source(holder,p.website,'Сайт группы ↗');source(holder,p.reference_url,'Справочник ↗');}
+
 $('closeBtn').addEventListener('click',()=>{if(tg)tg.close();else history.back();});
 $('backBtn').addEventListener('click',()=>{if(current){current=null;history.replaceState(null,'',location.pathname);showBrowse();renderBrowse();scrollTop();}else setView('all');});
 $('saveArticle').addEventListener('click',()=>{if(!current)return;prefs.saved=prefs.saved.includes(current.id)?prefs.saved.filter(x=>x!==current.id):[...prefs.saved,current.id];persist();updateSave();});
 $('search').addEventListener('input',e=>{query=e.target.value;renderBrowse();});
 for(const b of document.querySelectorAll('[data-view]'))b.addEventListener('click',()=>setView(b.dataset.view));
 for(const b of document.querySelectorAll('[data-topic]'))b.addEventListener('click',()=>{topic=b.dataset.topic;renderBrowse();});
-let loadedCatalog=false;
+for(const b of document.querySelectorAll('[data-band-section]'))b.addEventListener('click',()=>{bandSection=b.dataset.bandSection;renderBrowse();});
+let loadedCatalog=false,loadedProfiles=false;
 async function load(){tries++;try{const r=await fetch('articles.json?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();articles=(data.articles||[]).filter(a=>a&&a.id).sort((a,b)=>new Date(b.published)-new Date(a.published));if(!loadedCatalog){loadedCatalog=true;try{const c=await fetch('artists.json',{cache:'no-cache'});if(c.ok)catalog=(await c.json()).artists||[];}catch(e){}if(!catalog.length)catalog=[...new Map(articles.flatMap(a=>a.artists||[]).map(a=>[a.id,a])).values()];}
-const id=qs.get('id');if(id&&!articles.some(a=>String(a.id)===id))throw Error('Article not published');$('status').classList.add('hidden');$('app').classList.remove('hidden');renderBrowse();if(id)openArticle(articles.find(a=>String(a.id)===id),false);return;}catch(e){console.log(e);}if(tries<60){$('statusText').textContent=qs.get('id')?'Статья публикуется. Ещё несколько секунд…':'Не удалось загрузить ленту. Повторяю…';setTimeout(load,3000);}else{$('statusText').textContent='Не удалось загрузить материал. Попробуй открыть приложение позже.';document.querySelector('.spinner').style.display='none';$('status').append(button('Повторить',()=>{tries=0;load();}));}}
-window.MetalNews={selectArticles,mention,artistList,setView,openBand,toggleFavorite,get preferences(){return prefs;}};
+if(!loadedProfiles){loadedProfiles=true;try{const r=await fetch('artist_profiles.json?t='+Date.now(),{cache:'no-store'});if(r.ok)profiles=(await r.json()).profiles||{};}catch(e){}}
+const id=qs.get('id');if(id&&!articles.some(a=>String(a.id)===id))throw Error('Article not published');$('status').classList.add('hidden');$('app').classList.remove('hidden');renderBrowse();if(id)openArticle(articles.find(a=>String(a.id)===id),false);else if(qs.get('band')){const b=allBands().find(b=>b.id===qs.get('band'));if(b)openBand(b);}return;}catch(e){console.log(e);}if(tries<60){$('statusText').textContent=qs.get('id')?'Статья публикуется. Ещё несколько секунд…':'Не удалось загрузить ленту. Повторяю…';setTimeout(load,3000);}else{$('statusText').textContent='Не удалось загрузить материал. Попробуй открыть приложение позже.';document.querySelector('.spinner').style.display='none';$('status').append(button('Повторить',()=>{tries=0;load();}));}}
+window.MetalNews={profileFor,upcomingEvents,selectArticles,mention,artistList,setView,openBand,toggleFavorite,get preferences(){return prefs;}};
 load();
 })();
 </script>
