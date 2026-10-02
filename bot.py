@@ -231,15 +231,17 @@ def telegram_api(method, payload=None):
 def configure_open_menu(chat_id=None):
     """Configure a real Telegram menu entry, without sending a message."""
     expected = {"type": "web_app", "text": "Открыть", "web_app": {"url": get_webapp_base_url() + "?view=bands"}}
+    # Both published entry routes open the main feed, including existing buttons.
+    accepted = (expected, dict(expected, web_app={"url": get_webapp_base_url() + "?view=all"}))
     scopes = [{}]
     if chat_id and str(chat_id).isdigit():
         scopes.append({"chat_id": int(chat_id)})
     for scope in scopes:
-        if telegram_api("getChatMenuButton", scope) != expected:
+        if telegram_api("getChatMenuButton", scope) not in accepted:
             telegram_api("setChatMenuButton", dict(scope, menu_button=expected))
         # Telegram can briefly return the previous menu after a successful set.
         for attempt in range(3):
-            if telegram_api("getChatMenuButton", scope) == expected:
+            if telegram_api("getChatMenuButton", scope) in accepted:
                 break
             if attempt == 2:
                 raise RuntimeError("Telegram menu verification failed")

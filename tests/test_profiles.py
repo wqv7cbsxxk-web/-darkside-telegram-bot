@@ -60,3 +60,9 @@ class ProfileTests(unittest.TestCase):
             bot.configure_open_menu()
         clock.sleep.assert_called_once_with(1)
         self.assertEqual(api.call_count,4)
+
+    def test_both_published_feed_entry_urls_are_accepted(self):
+        current={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=all'}}
+        with patch.object(bot,'get_webapp_base_url',return_value='https://example.org/'),patch.object(bot,'telegram_api',return_value=current) as api:
+            bot.configure_open_menu()
+        self.assertTrue(all(c.args[0]=='getChatMenuButton' for c in api.call_args_list))

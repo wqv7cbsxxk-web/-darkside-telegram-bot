@@ -3,7 +3,8 @@
 configure_menu.py sets a real Telegram MenuButtonWebApp labelled “Открыть”,
 pointing to the existing Mini App at ?view=bands (a legacy menu URL now routed to the news feed). It checks the current default
 menu and the configured private-chat override, updates only differences and
-reads them back for verification. It sends no messages. A dedicated push-triggered
+reads them back for verification. Both ?view=bands and ?view=all are accepted
+as published entry routes because both open the main news feed. It sends no messages. A dedicated push-triggered
 workflow activates it using the existing Telegram secrets; normal bot runs also
 keep the menu configured. Negative group/channel IDs do not receive a private
 chat menu override.
