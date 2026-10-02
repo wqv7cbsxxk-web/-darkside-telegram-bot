@@ -268,7 +268,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.betweentheburiedandme.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Between_The_Buried_And_Me",
-      "reference_checked_at": "2026-10-02T02:21:51.867505+00:00"
+      "reference_checked_at": "2026-10-02T02:21:51.867505+00:00",
+      "tour_attempted_at": "2026-10-02T19:14:46.146901+00:00"
     },
     "blind-channel": {
       "origin": "Oulu , Finland",
@@ -299,7 +300,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.blindchannelofficial.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blind_Channel",
-      "reference_checked_at": "2026-10-02T02:21:57.467955+00:00"
+      "reference_checked_at": "2026-10-02T02:21:57.467955+00:00",
+      "tour_attempted_at": "2026-10-02T19:14:46.352928+00:00"
     },
     "bruce-springsteen": {
       "origin": "Freehold, New Jersey , U.S.",
@@ -309,7 +311,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://brucespringsteen.net",
       "reference_url": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
-      "reference_checked_at": "2026-10-02T02:21:57.501125+00:00"
+      "reference_checked_at": "2026-10-02T02:21:57.501125+00:00",
+      "tour_attempted_at": "2026-10-02T19:14:46.531902+00:00"
     },
     "blue-oyster-cult": {
       "origin": "Stony Brook, New York , U.S.",
@@ -340,7 +343,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.blueoystercult.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blue_Oyster_Cult",
-      "reference_checked_at": "2026-10-02T02:21:57.774813+00:00"
+      "reference_checked_at": "2026-10-02T02:21:57.774813+00:00",
+      "tour_attempted_at": "2026-10-02T19:14:46.988004+00:00"
     },
     "cannibal-corpse": {
       "origin": "Buffalo, New York , U.S.",
