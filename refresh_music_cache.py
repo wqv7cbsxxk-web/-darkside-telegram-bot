@@ -3,7 +3,7 @@ import json,time,requests
 from pathlib import Path
 from urllib.parse import urlencode
 from datetime import datetime,timezone
-from music_reference import parse_members,parse_album,history_title
+from music_reference import parse_members,parse_album,history_title,parse_discography,discography_title
 BASE='https://www.wikidata.org/w/api.php';WIKI='https://en.wikipedia.org/w/api.php'
 s=requests.Session();s.headers['User-Agent']='MetalNewsAggregator/2.0 (https://github.com/wqv7cbsxxk-web/-darkside-telegram-bot; non-commercial reference reader)'
 cache={};stamp=datetime.now(timezone.utc).isoformat();last=0
@@ -37,17 +37,21 @@ for ident in ['dream-theater','deep-purple','opeth','wolves-in-the-throne-room']
   e=entities([qid])[qid];ids=list(dict.fromkeys(val(x)['id'] for x in e.get('claims',{}).get('P527',[]) if val(x) and x.get('rank')!='deprecated'))
   people=entities(ids);inst=list(dict.fromkeys([val(x)['id'] for person in people.values() for x in person.get('claims',{}).get('P1303',[]) if val(x)]+[x['datavalue']['value']['id'] for member in e.get('claims',{}).get('P527',[]) for x in member.get('qualifiers',{}).get('P1303',[]) if x.get('datavalue')]))
   entities(inst)
+  facts=list(dict.fromkeys(val(x)['id'] for prop in ['P136','P740','P495'] for x in e.get('claims',{}).get(prop,[]) if isinstance(val(x),dict) and val(x).get('id')))
+  entities(facts)
   q=f'SELECT ?album ?albumLabel (MIN(?released) AS ?date) WHERE {{ ?album wdt:P175 wd:{qid}; wdt:P31/wdt:P279* wd:Q482994. OPTIONAL {{ ?album wdt:P577 ?released }} SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en,ru". }} }} GROUP BY ?album ?albumLabel ORDER BY ?date LIMIT 200'
   albums=request('https://query.wikidata.org/sparql?'+urlencode({'query':q,'format':'json'}))['results']['bindings']
   parsed=request(api(WIKI,{'action':'parse','page':e['sitelinks']['enwiki']['title'],'prop':'text','redirects':1}))
-  raw=parsed['parse']['text']['*'];parsed['_parsed_members']=parse_members(raw);history=history_title(raw);parsed['_history_title']=history;parsed['parse'].pop('text',None)
+  raw=parsed['parse']['text']['*'];parsed['_parsed_members']=parse_members(raw);parsed['_parsed_discography']=parse_discography(raw);disco=discography_title(raw);parsed['_discography_title']=disco;history=history_title(raw);parsed['_history_title']=history;parsed['parse'].pop('text',None)
   if history:
    extra=request(api(WIKI,{'action':'parse','page':history,'prop':'text','redirects':1}));extra['_parsed_members']=parse_members(extra['parse']['text']['*']);extra['parse'].pop('text',None)
+  if disco:
+   details=request(api(WIKI,{'action':'parse','page':disco,'prop':'text','redirects':1}));details['_parsed_discography']=parse_discography(details['parse']['text']['*']);details['parse'].pop('text',None)
   if ident=='dream-theater':
    entry=next((a for a in albums if a['albumLabel']['value']=='Images and Words'),None)
    if entry:
     albumid=entry['album']['value'].split('/')[-1];album=entities([albumid])[albumid]
-    title=album['sitelinks']['enwiki']['title'];detail=request(api(WIKI,{'action':'parse','page':title,'prop':'text','redirects':1}))
+    title=album['sitelinks']['enwiki']['title'];request(api(WIKI,{'action':'query','prop':'pageprops','titles':title,'redirects':1}));detail=request(api(WIKI,{'action':'parse','page':title,'prop':'text','redirects':1}))
     detail['_parsed_album']=parse_album(detail['parse']['text']['*']);detail['parse'].pop('text',None)
   p['qid']=qid
   if e.get('claims',{}).get('P434'):p['mbid']=val(e['claims']['P434'][0])

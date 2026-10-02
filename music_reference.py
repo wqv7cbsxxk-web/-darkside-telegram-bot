@@ -10,12 +10,12 @@ def document(html):
 
 def parse_members(html):
     rows=[];active=False;kind='unclassified'
-    for el in document(html).select('h2,h3,h4,ul,p,table'):
+    for el in document(html).select('h2,h3,h4,dt,ul,p,table'):
         text=el.get_text(' ',strip=True);lower=text.lower()
         if el.name=='h2':
             active=bool(re.fullmatch(r'(band |official |full-time )?members|current members|former members',lower));kind='current' if 'current' in lower else 'former' if 'former' in lower else 'unclassified';continue
         if not active:continue
-        if el.name in ('h3','h4','p'):
+        if el.name in ('h3','h4','dt','p'):
             if el.name=='p' and not el.find('b'):continue
             kind='current' if re.search(r'^current',lower) else 'former' if re.search(r'^former|^past',lower) else 'unclassified';continue
         if el.find_parent(['ul','table']) or 'gallery' in el.get('class',[]):continue
@@ -64,3 +64,32 @@ def parse_album(html):
                 a=li.find('a',href=True)
                 credits.append(dict(text=li.get_text(' ',strip=True),title=(a.get('title') or unquote(a['href'].split('/wiki/')[-1]).replace('_',' ')) if a else None))
     return dict(tracks=tracks,credits=credits)
+
+def parse_discography(html):
+    rows=[];active=False;kind='studio'
+    for el in document(html).select('h2,h3,h4,dt,p,ul,table'):
+        text=el.get_text(' ',strip=True);lower=text.lower()
+        if el.name in ('h2','h3','h4','dt') or el.name=='p' and el.find('b'):
+            if el.name=='h2':active=bool(re.search('discography|^albums$|studio albums|live albums|compilation albums',lower))
+            if not active:continue
+            if 'studio albums'in lower or lower=='discography':kind='studio'
+            elif 'live albums'in lower:kind='live'
+            elif 'compilation albums'in lower:kind='compilation'
+            elif re.search('singles|extended plays|eps|soundtrack|video|other appearances|demos',lower):kind=None
+            elif el.name=='dt':kind=None
+            continue
+        if not active or not kind or el.find_parent(['ul','table']):continue
+        entries=el.find_all('li',recursive=False) if el.name=='ul' else el.select('tr') if el.name=='table' else []
+        for entry in entries:
+            italic=entry.find('i');a=italic.select_one('a[title]') if italic else entry.select_one('a[title]');name=italic.get_text(' ',strip=True) if italic else a.get_text(' ',strip=True) if a else '';text=entry.get_text(' ',strip=True);tail=text[text.find(name)+len(name):] if name else text;year=re.search(r'\b(?:19|20)\d{2}\b',tail) or re.search(r'\b(?:19|20)\d{2}\b',text)
+            if not name or not year:continue
+            title=a['title'] if a else name
+            if not name or re.search('discography|chart|certification|records|RIAA|Billboard',title,re.I):continue
+            from urllib.parse import quote
+            rows.append(dict(id='wiki:'+title,name=name,date=year[0],kind=kind,wiki_title=title,source_url='https://en.wikipedia.org/wiki/'+quote(title.replace(' ','_'),safe="~()*!.'")))
+    return list({row['kind']+'|'+row['wiki_title']:row for row in rows}.values())
+
+def discography_title(html):
+    for a in document(html).select('.hatnote a[title]'):
+        if a['title'].lower().endswith('discography'):return a['title']
+    return None

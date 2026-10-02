@@ -11,3 +11,7 @@ class ReferenceTests(unittest.TestCase):
  def test_members_without_links_and_tables(self):
   raw='<h2>Members</h2><p><b>Former</b></p><ul><li>Chris Collins – vocals (1986)</li></ul><p><b>Current</b></p><table><tr><th>Name</th><th>Years active</th><th>Instruments</th></tr><tr><td><a href="/wiki/Player">Player</a></td><td>1990–present</td><td>guitar</td></tr></table>'
   rows=parse_members(raw);self.assertEqual(len(rows),2);self.assertEqual(rows[0]['name'],'Chris Collins');self.assertEqual(rows[0]['kind'],'former');self.assertIn('1990–present',rows[1]['text'])
+ def test_discography_plain_titles_categories_and_release_year(self):
+  from music_reference import parse_discography
+  raw='<h2>Discography</h2><dl><dt>Studio albums</dt></dl><ul><li><i>Plain Album</i> (2021)</li></ul><dl><dt>EPs</dt></dl><ul><li><i>An EP</i> (2023)</li></ul><dl><dt>Live albums</dt></dl><ul><li><i>Live at Roadburn 2008</i> (2009)</li></ul><h2>References</h2><ul><li><i>Noise</i> (2026)</li></ul>'
+  albums=parse_discography(raw);self.assertEqual(len(albums),2);self.assertEqual(albums[0]['kind'],'studio');self.assertEqual(albums[1]['kind'],'live');self.assertEqual(albums[1]['date'],'2009')
