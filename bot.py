@@ -19,7 +19,7 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 TEST_LATEST = os.environ.get("TEST_LATEST", "false").strip().lower() == "true"
 WEBAPP_BASE_URL = os.environ.get("WEBAPP_BASE_URL", "").strip()
-WEBAPP_VERSION = "20261003-5"
+WEBAPP_VERSION = "20261003-6"
 DISPLAY_TZ = os.environ.get("DISPLAY_TZ", "Asia/Novosibirsk").strip()
 ARTICLES_FILE = "docs/articles.json"
 MAX_ARTICLES = 150
