@@ -3,16 +3,19 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 const data=JSON.parse(fs.readFileSync('docs/articles.json','utf8'));
 const catalog=JSON.parse(fs.readFileSync('docs/artists.json','utf8'));
-const script=[...fs.readFileSync('docs/index.html','utf8').matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
+const html=fs.readFileSync('docs/index.html','utf8');
+const script=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
+for(const tag of html.matchAll(/<script\b[^>]*\bsrc=[^>]*>/g))assert.match(tag[0],/\b(?:async|defer)\b/,'a stalled script download must not block parsing or the inline news app');
 const profiles=JSON.parse(fs.readFileSync('docs/artist_profiles.json','utf8'));
 const seedJson=fs.readFileSync('docs/index.html','utf8').match(/<script id="articlesSeed" type="application\/json">([\s\S]*?)<\/script>/)[1];
 const storage=new Map();
-async function boot(article=null,initialSearch='',fetchImpl=null){
+async function boot(article=null,initialSearch='',fetchImpl=null,telegram=null,storageUnavailable=false){
  const nodes=new Map();
  function element(){return {textContent:'',style:{},children:[],dataset:{},events:{},classList:{add(){},remove(){},toggle(){}},setAttribute(k,v){this[k]=v},removeAttribute(k){delete this[k]},addEventListener(k,v){this.events[k]=v},append(...els){this.children.push(...els)},replaceChildren(...els){this.children=[...els]},get lastChild(){return this.children.at(-1)}};}
  const sections=['news','tour','where','members','about'].map(name=>Object.assign(element(),{dataset:{bandSection:name}}));
  const document={documentElement:{style:{setProperty(){}}},getElementById(id){if(!nodes.has(id)){const el=element();if(id==='articlesSeed')el.textContent=seedJson;nodes.set(id,el)}return nodes.get(id)},createElement:element,querySelectorAll(selector){return selector==='[data-band-section]'?sections:[]},querySelector(){return element()}};
- const window={};const context={document,window,location:{search:article?'?id='+article.id:initialSearch,pathname:'/'},URLSearchParams,Date,String,console,history:{back(){},replaceState(){}},localStorage:{getItem(k){return storage.get(k)},setItem(k,v){storage.set(k,v)}},setTimeout(){throw Error('No retry expected')},fetch:fetchImpl||async function(url){return {ok:true,json:async()=>url.startsWith('articles.json')?data:url.startsWith('artists.json')?catalog:profiles}}};
+ document.head=element();
+ const window={addEventListener(){},Telegram:telegram?{WebApp:telegram}:undefined};const context={document,window,location:{search:article?'?id='+article.id:initialSearch,pathname:'/'},URLSearchParams,Date,String,console,history:{back(){},replaceState(){}},localStorage:{getItem(k){if(storageUnavailable)throw Error('Storage denied');return storage.get(k)},setItem(k,v){if(storageUnavailable)throw Error('Storage denied');storage.set(k,v)}},setTimeout(){throw Error('No retry expected')},fetch:fetchImpl||async function(url){return {ok:true,json:async()=>url.startsWith('articles.json')?data:url.startsWith('artists.json')?catalog:profiles}}};
  vm.runInNewContext(script,context);await new Promise(resolve=>setImmediate(resolve));return {nodes,app:window.MetalNews,sections};
 }
 (async()=>{
@@ -20,6 +23,11 @@ async function boot(article=null,initialSearch='',fetchImpl=null){
   const {nodes}=await boot(a);assert.deepEqual(nodes.get('article').children.map(p=>p.textContent),a.paragraphs);
   assert.equal(nodes.get('title').textContent,a.title);
  }
+ storage.delete('metal-news.articles.v1');
+ const sdkUnavailable=await boot(null,'',()=>new Promise(()=>{}));assert.ok(sdkUnavailable.nodes.get('list').children.length,'cold startup must display bundled news while Telegram SDK and feed requests are unavailable');
+ const sdkBroken=await boot(null,'',()=>new Promise(()=>{}),{ready(){throw Error('SDK unavailable')},expand(){throw Error('WebView unsupported')}});assert.ok(sdkBroken.nodes.get('list').children.length,'Telegram bridge errors must not abort app startup');
+ const noStorage=await boot(null,'',()=>new Promise(()=>{}),null,true);assert.ok(noStorage.nodes.get('list').children.length,'denied local storage must not hide the bundled news feed');
+ storage.set('metal-news.articles.v1','invalid cached JSON');const corruptCache=await boot(null,'',()=>new Promise(()=>{}));assert.ok(corruptCache.nodes.get('list').children.length,'a corrupt cache must not prevent use of the bundled news feed');
  const legacy=await boot(null,'?view=bands');assert.equal(legacy.nodes.get('viewTitle').textContent,'Твоя музыкальная лента');
  const {app,nodes,sections}=await boot();assert.ok(nodes.get('list').children.length);
  app.toggleFavorite('wolves-in-the-throne-room');
