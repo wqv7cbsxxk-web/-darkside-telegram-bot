@@ -48,6 +48,26 @@ class TranslationTests(unittest.TestCase):
         self.assertNotIn("View this post", text)
         self.assertIn("Bruce Springsteen", runner._page_entities)
 
+    def test_metalinjection_full_body_preserves_all_ten_tracks(self):
+        response = Response(); response.status_code = 200
+        response._content = (FIXTURE.parent / 'metalinjection-top-tracks.html').read_bytes()
+        response.encoding = 'utf-8'
+        with patch.object(bot.session, 'get', return_value=response):
+            paragraphs = runner.fetch_full_article('https://metalinjection.net/playlist/top-tracks-test')
+        self.assertEqual(len(paragraphs), 15)
+        self.assertEqual([int(p.split('.')[0]) for p in paragraphs[-10:]], list(range(1, 11)))
+        self.assertIn('The Arson Choir', paragraphs[-1])
+        for noise in ('Archives menu', 'Related stories', 'newsletter', 'http', '<iframe'):
+            self.assertNotIn(noise, ' '.join(paragraphs))
+
+    def test_metalinjection_rss_teaser_is_never_treated_as_full_article(self):
+        response = Response(); response.status_code = 403
+        candidate = {'source': 'Metal Injection', 'link': 'https://metalinjection.net/test',
+                     'rss_body': 'Also including picks from TEMIC and Dead Poet Society.'}
+        with patch.object(bot.session, 'get', return_value=response):
+            with self.assertRaises(runner.ArticleContentUnavailable):
+                runner.prepare_texts(candidate)
+
     def test_article_wide_cleanup_removes_split_publisher_boilerplate(self):
         paragraphs = runner.clean_article_paragraphs([
             "The band announced a new album today.",
@@ -98,6 +118,7 @@ class TranslationTests(unittest.TestCase):
     def test_mangled_entity_placeholders_are_rejected(self):
         self.assertFalse(runner.valid_provider_result("Группа __keep_0__ выпустила альбом.", "Band __KEEP_0__ releases album."))
         self.assertTrue(runner.valid_provider_result("Группа __KEEP_0__ выпустила альбом.", "Band __KEEP_0__ releases album."))
+        self.assertFalse(runner.valid_provider_result('Гитарист __KEEP_0__KEEP_1__.', '__KEEP_0__ guitarist __KEEP_1__.'))
 
     def test_nested_quoted_title_restores_all_name_tokens(self):
         source = 'The album “Dream Theater Live” is out now.'
@@ -107,6 +128,16 @@ class TranslationTests(unittest.TestCase):
     def test_short_russian_translation_is_valid(self):
         self.assertTrue(runner._translation_is_good("Даты тура"))
         self.assertFalse(runner._translation_is_good("QUERY LENGTH LIMIT EXCEEDED"))
+
+    def test_translation_cannot_omit_years_or_list_numbers(self):
+        self.assertFalse(runner.valid_provider_result('Они играют вместе в этой группе.', 'They have played together since 2011.'))
+        self.assertTrue(runner.valid_provider_result('Они играют вместе с 2011 года.', 'They have played together since 2011.'))
+        self.assertFalse(runner.valid_provider_result('Также этот фильм ищут как: TEMIC.', 'Also including picks from TEMIC.'))
+
+    def test_tour_dates_and_venue_names_are_preserved_verbatim(self):
+        itinerary = '04/02 Santiago, CHL – Teatro Caupolican 04/04 Mendoza, ARG Maipú'
+        with patch.object(runner, '_translate_chunk', side_effect=AssertionError('Itinerary should stay intact')):
+            self.assertEqual(runner.translate_to_ru(itinerary), itinerary)
 
     def test_429_respects_retry_after_and_does_not_repeat_provider_calls(self):
         calls = []
