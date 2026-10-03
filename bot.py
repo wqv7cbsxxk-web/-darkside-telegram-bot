@@ -19,7 +19,7 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 TEST_LATEST = os.environ.get("TEST_LATEST", "false").strip().lower() == "true"
 WEBAPP_BASE_URL = os.environ.get("WEBAPP_BASE_URL", "").strip()
-WEBAPP_VERSION = "20261003-6"
+WEBAPP_VERSION = "20261003-7"
 DISPLAY_TZ = os.environ.get("DISPLAY_TZ", "Asia/Novosibirsk").strip()
 ARTICLES_FILE = "docs/articles.json"
 MAX_ARTICLES = 150
@@ -245,10 +245,13 @@ def configure_open_menu(chat_id=None):
     for scope in scopes:
         # Telegram may briefly return the previous menu after a successful set.
         for attempt in range(6):
-            if telegram_api("getChatMenuButton", scope) in accepted:
+            actual = telegram_api("getChatMenuButton", scope)
+            if actual in accepted:
+                print("Telegram menu verified:", "chat" if scope else "default", expected["web_app"]["url"])
                 break
             if attempt == 5:
-                raise RuntimeError("Telegram menu verification failed")
+                public_button = {key: (actual or {}).get(key) for key in ("type", "text", "web_app")}
+                raise RuntimeError(f"Telegram menu verification failed ({'chat' if scope else 'default'}): {public_button}")
             time.sleep(2)
     print("Telegram menu verified: Открыть -> Mini App home")
 
