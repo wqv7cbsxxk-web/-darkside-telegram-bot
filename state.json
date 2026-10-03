@@ -258,7 +258,16 @@
     "738654a0218a91981437787274fb3b721d4a2d4e",
     "5b9d85dc3d9307f4ef478807fe63348466cbff44",
     "742ae02d96f3cba523e9270a73416dd05d54c260",
-    "231060fbd30d2cc4f16f59718e0a194def692de7"
+    "231060fbd30d2cc4f16f59718e0a194def692de7",
+    "212b8d4e0876a5f0bb58b60f94eef468e2c7ef0f",
+    "5777c7abb1fb459fba8f9a1853120b910152ac19",
+    "e1b36a611cee576fcfcda4024004f5e9fbd59f03",
+    "d49cd02a206d518ff649a2c10d8fd896f5fb0a4e",
+    "659534bb4cee09269f7688fdb93f570d27f4bce1",
+    "ae89c2f98946c6924cfcd021a55173ad7688769b",
+    "ad2f510b5563b2f6a77c6994ff2f844a8500fb25",
+    "f2e07be970222885e07b827fa5460842a99c7c92",
+    "7acd7958841a326c1cf1ea51f5358251603e696a"
   ],
   "recent_titles": [
     {
@@ -565,6 +574,46 @@
       "title": "To The Grave's 'Liberation Front' Out Now, Grab Your Copy From Metal Injection",
       "source": "Metal Injection",
       "ts": 1790997440
+    },
+    {
+      "title": "Slash Feat. Myles Kennedy And The Conspirators Announce New Album “Flying Blind” & World Tour",
+      "source": "ThePRP",
+      "ts": 1790998202
+    },
+    {
+      "title": "Cold World, Madball, Integrity, Combust, Etc. Booked For 2027 ‘Disturbin’ The Peace’ Festival",
+      "source": "ThePRP",
+      "ts": 1790998225
+    },
+    {
+      "title": "Starset Premiere New Single “T r a n s f u s 1 0 n”",
+      "source": "ThePRP",
+      "ts": 1790998229
+    },
+    {
+      "title": "Igorrr Set Dates For Early 2027 European Tour With Secret Chiefs 3 & Fange",
+      "source": "ThePRP",
+      "ts": 1790998232
+    },
+    {
+      "title": "Agalloch’s “Marrow Of The Spirit” Gets New Mix & Master For Upcoming Reissue",
+      "source": "ThePRP",
+      "ts": 1790998241
+    },
+    {
+      "title": "Новое видео SLASH FEATURING MYLES KENNEDY &amp; THE CONSPIRATORS",
+      "source": "Darkside",
+      "ts": 1790998244
+    },
+    {
+      "title": "Scroll Eater Premiere “Deliver The Word” Music Video, Unbroken Reign’s Jackson Scott Guests",
+      "source": "ThePRP",
+      "ts": 1790998248
+    },
+    {
+      "title": "With A Vengeance (Ex-Bad Wolves, Etc.) Launch “Oblivion” Music Video",
+      "source": "ThePRP",
+      "ts": 1790998255
     }
   ],
   "initialized_sources": [
@@ -871,54 +920,6 @@
       "retry_after": 1790982282
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Cold World, Madball, Integrity, Combust, Etc. Booked For 2027 ‘Disturbin’ The Peace’ Festival",
-      "link": "https://www.theprp.com/2026/10/02/news/cold-world-madball-integrity-combust-etc-booked-for-2027-disturbin-the-peace-festival/",
-      "rss_body": "Plus Division Of Mind, The S.E.T., Iron Mind and more.",
-      "tags": "News Cold World Combust Integrity Madball",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T18:27:45+00:00",
-      "id": "e1b36a611cee576fcfcda4024004f5e9fbd59f03",
-      "retry_after": 1790997738
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Starset Premiere New Single “T r a n s f u s 1 0 n”",
-      "link": "https://www.theprp.com/2026/10/02/news/starset-premiere-new-single-t-r-a-n-s-f-u-s-1-0-n/",
-      "rss_body": "You can catch them out currently with Breaking Benjamin and Kami Kehoe.",
-      "tags": "News Starset",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T18:09:16+00:00",
-      "id": "d49cd02a206d518ff649a2c10d8fd896f5fb0a4e",
-      "retry_after": 1790982230
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Igorrr Set Dates For Early 2027 European Tour With Secret Chiefs 3 & Fange",
-      "link": "https://www.theprp.com/2026/10/02/news/igorrr-set-dates-for-early-2027-european-tour-with-secret-chiefs-3-fange/",
-      "rss_body": "Beginning in France in March",
-      "tags": "News Fange Igorrr Secret Chiefs 3",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T17:55:50+00:00",
-      "id": "659534bb4cee09269f7688fdb93f570d27f4bce1",
-      "retry_after": 1790982230
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Agalloch’s “Marrow Of The Spirit” Gets New Mix & Master For Upcoming Reissue",
-      "link": "https://www.theprp.com/2026/10/02/news/agallochs-marrow-of-the-spirit-gets-new-mix-master-for-upcoming-reissue/",
-      "rss_body": "You can hear an updated track and more now",
-      "tags": "News Agalloch",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T17:44:44+00:00",
-      "id": "ae89c2f98946c6924cfcd021a55173ad7688769b",
-      "retry_after": 1790982231
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "The October Progressive Injection: Featuring Enslaved, TEMIC, The Pineapple Thief & More",
@@ -928,31 +929,7 @@
       "category": "Прогрессив",
       "published": "2026-10-02T17:34:15+00:00",
       "id": "bd4701e52104d02b3fa9d9c8a0074c6c5282d5aa",
-      "retry_after": 1790982232
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Scroll Eater Premiere “Deliver The Word” Music Video, Unbroken Reign’s Jackson Scott Guests",
-      "link": "https://www.theprp.com/2026/10/02/news/scroll-eater-premiere-deliver-the-word-music-video-unbroken-reigns-jackson-scott-guests/",
-      "rss_body": "The group recently signed with Facedown Records",
-      "tags": "News Scroll Eater",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T17:26:33+00:00",
-      "id": "f2e07be970222885e07b827fa5460842a99c7c92",
-      "retry_after": 1790982232
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "With A Vengeance (Ex-Bad Wolves, Etc.) Launch “Oblivion” Music Video",
-      "link": "https://www.theprp.com/2026/10/02/news/with-a-vengeance-ex-bad-wolves-etc-launch-oblivion-music-video/",
-      "rss_body": "Their second single thus far",
-      "tags": "News Bad Wolves Tommy Vext With A Vengeance",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T17:04:33+00:00",
-      "id": "7acd7958841a326c1cf1ea51f5358251603e696a",
-      "retry_after": 1790982233
+      "retry_after": 1790998545
     },
     {
       "source": "Louder",
@@ -1087,21 +1064,6 @@
       "retry_after": 1790982258
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Slash Feat. Myles Kennedy And The Conspirators Announce New Album “Flying Blind” & World Tour",
-      "link": "https://www.theprp.com/2026/10/02/news/slash-feat-myles-kennedy-and-the-conspirators-announce-new-album-flying-blind-world-tour/",
-      "rss_body": "They've also launched a music video for the title track.",
-      "tags": "News Slash Slash Feat. Myles Kennedy And The Conspirators",
-      "category": "Хэви-метал",
-      "published": "2026-10-02T20:11:10+00:00",
-      "id": "212b8d4e0876a5f0bb58b60f94eef468e2c7ef0f",
-      "duplicate_ids": [
-        "5777c7abb1fb459fba8f9a1853120b910152ac19"
-      ],
-      "retry_after": 1790997654
-    },
-    {
       "source": "Ultimate Classic Rock",
       "priority": 80,
       "title": "38 Special Extends 50th Anniversary Run With First 2027 Dates",
@@ -1111,19 +1073,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T19:20:36+00:00",
       "id": "7ac2851f28e0a4a07ac271f63e3b24e302e2bb57",
-      "retry_after": 1790997730
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео SLASH FEATURING MYLES KENNEDY &amp; THE CONSPIRATORS",
-      "link": "http://www.darkside.ru/news/184191/",
-      "rss_body": "\"Flying Blind\", новое видео группы SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS, доступно для просмотра ниже. Эта песня взята из альбома \"Flying Blind\", выходящего 26 февраля на Gibson Records:\n\n01. Avarice And Greed\n\n02. Good Time Girl\n\n03. Thrill Seeker\n\n04. One Of Your Kind\n\n05. Flying Blind\n\n06. Looking For A Miracle\n\n07. Sweet Kill\n\n08. Here In Babylon\n\n09. Living The Dream\n\n10. (Don't) Thread The Needle\n\n11. Rev My Heart\n\n12. Stem The Flow\n\nАльбом из 12 треков, записанный в основном вживую с давним продюсером Michael'ом «Elvis» Baskette'ом на Studio Barbarosa во Флориде, запечатлел Slash'а на гитаре и педальной стил-гитаре, Myles'а Kennedy на вокале, Todd'а Kerns'а на басу, Brent'а Fitz'а на барабанах и Frank'а Sidoris'а на ритм-гитаре в моменты максимальной непосредственности, инстинктивности и слаженности. Основную часть пластинки коллектив записал примерно за неделю, нередко успевая по две песни в день, при этом музыканты играли вместе в одной комнате.\n\n«Это очень весёлая, спонтанная рок-н-ролльная пластинка, — говорит Slash о „Flying Blind\". — Она очень прямолинейная, приземлённая и сырая».\n\nПесня родилась спонтанно во время предпродакшна: Slash показал рифф, когда музыканты готовились к репетиции. Композиция развилась быстро, соединив безошибочный хард-роковый драйв SMKC со взмывающей мелодией и мгновенным хуком, благодаря чему в итоге стала естественным выбором для знакомства с альбомом.\n\nSlash объясняет: «Она появилась в студии, пока мы стояли там на предпродакшне: ко мне пришёл рифф и начал развиваться. До прихода ребят у меня от этой песни не было ничего, а потом мы начали вечернюю репетицию и сыграли этот рифф. Всё сложилось очень быстро.\n\nЧто касается того, почему она стала первым синглом... ты никогда не знаешь, каким будет первый сингл, пока не запишешь его. Когда я начал об этом думать, у „Flying Blind\" оказались как раз подходящая мелодичность и хук, чтобы стать материалом для сингла».\n\nПо словам Myles'а Kennedy, текст заглавного трека посвящён тем лазейкам, к которым люди порой прибегают в поисках удовлетворения.\n\n«Мне очень понравилось подбирать мелодию к этой песне, — добавляет Kennedy. — В том, как начинается аккордовая последовательность, была приятная плавность. Текст о том, как люди иногда пытаются срезать путь и найти лёгкий способ достичь счастья или просветления».\n\nSMKC также анонсировали мировой тур 2027 года «Flying Blind», который стартует в Латинской Америке в апреле, а затем доберётся до Северной Америки 23 апреля и продолжится по Великобритании и Европе. Североамериканская часть включает два вечера в The Wiltern в Лос-Анджелесе, а также выступления в нью-йоркском Beacon Theatre, нэшвиллском Ryman Auditorium, бостонском Citizens House of Blues, денверском Fillmore Auditorium и других знаковых залах.\n\nВ честь выхода «Flying Blind» SMKC объединились с Fandiem и запустили специальный благотворительный розыгрыш, где фанаты могут выиграть поездку мечты в Уэльс и познакомиться со Slash'ем за кулисами в замке Кардифф. Средства от акции пойдут в American Foundation for Suicide Prevention (AFSP) и National Alliance on Mental Illness (NAMI).\n\nПобедитель и один сопровождающий получат авиаперелёт в Кардифф и обратно, три ночи в отеле, места в гостевом списке Slash'а на его выступление в замке Кардифф, доступ за кулисы для встречи со Slash'ем, просмотр шоу из зала у пульта, возможность попасть на предконцертный саундчек, набор мерча Slash'а, обзорную экскурсию по Южному Уэльсу и ужин перед шоу.\n\nФанаты могут сделать пожертвование и принять участие в розыгрыше на сайте www.fandiem.com/slash, получив шанс на эксклюзивный опыт и одновременно помогая собирать средства для двух организаций, занимающихся психическим здоровьем и профилактикой суицида.\n\nSMKC по-прежнему работают так же, как в самом начале: собраться в комнате, играть и посмотреть, что получится. Эта философия и стоит за «Flying Blind», первым полноформатным студийным альбомом коллектива со времён признанного «4» 2022 года. Часть песен выросла из демо и музыкальных набросков Slash'а, другие возникли спонтанно, когда музыканты играли вместе в одной комнате.\n\nSlash принёс исходный материал Kennedy, который добавил вокальные мелодии и тексты, после чего песни превратились в полноценные аранжировки вместе с басистом Todd'ом Kerns'ом, барабанщиком Brent'ом Fitz'ем и ритм-гитаристом Frank'ом Sidoris'ом.\n\n«Он невероятный автор риффов, — говорит Kennedy о Slash'е. — Он ещё и придумывает простые аккордовые последовательности, которые очень хорошо подходят для мелодий. Это работает и не стареет».\n\nВ отличие от прежних альбомов SMKC, риффы и аранжировки которых порой складывались на ежевечерних саундчеках и в ходе долгих гастролей, значительная часть «Flying Blind» появилась на свет короткими сконцентрированными рывками между другими проектами участников.\n\nSlash развивал материал, пока гастролировал с GUNS N' ROSES, записывал свой признанный блюзовый альбом «Orgy Of The Damned» и запускал S.E.R.P.E.N.T. Festival. Kennedy начал работу над песнями во время перерыва в деятельности ALTER BRIDGE и при создании своего третьего сольного альбома.\n\n«Наш график плотный, и приходится его придерживаться, иначе всё остальное начинает страдать, — говорит он. — Теперь само собой разумеется, что ты всегда что-то создаёшь. Это как мышца. Творческой части мозга некогда атрофироваться, и ты просто продолжаешь двигаться вперёд».\n\nКоллектив вновь собрался с Baskette'ом, который ранее продюсировал «World On Fire» (2014) и «Living The Dream» (2018) для SMKC, на его студии Studio Barbarosa во Флориде. То, что все оставались вместе на протяжении всех сессий, позволило музыкальной и человеческой химии, лежащей в основе коллектива, стать неотъемлемой частью записи.\n\nПеред началом сессий Slash дал Baskette'у две чёткие инструкции: записывать все живьём и не перегружать партии после записи.\n\n«Он по-настоящему этого придерживался, — говорит Slash. — Всё получилось отлично».\n\nАранжировки были в основном готовы до начала записи, но оставались достаточно открытыми, чтобы вместить спонтанные идеи прямо в студии. Поскольку музыканты играли одновременно, команде удалось сохранить как можно больше естественного взаимодействия и энергии каждого цельного исполнения.\n\nKennedy записал свой вокал несколько месяцев спустя и называет готовый альбом вершиной в истории записей SMKC.\n\n«Из всех пластинок звучание и исполнение на „Flying Blind\" нравятся мне больше всего. Всё очень живое. Оно прямо здесь», — говорит он.\n\nВ своих 12 треках «Flying Blind» исследует широкий спектр звучаний, не отказываясь от прямого хард-рокового фундамента группы. «Good Time Girl» сочетает хук на токбоксе с отчётливым кантри-акцентом, навеянным пионером гитары Джимми Брайантом и стил-гитаристом Спиди Уэстом, а «Sweet Kill» выдаёт нахальный, построенный на риффах рок, который Slash называет «наверное, самой восьмидесятнической вещью, что я сделал за долгое время».\n\n«One Of Your Kind» движется на пониженном строе с тяжёлым нагнетанием, тогда как резкие аккорды в панковом духе ведут «Here In Babylon». «Thrill Seeker» построена вокруг головокружительного нисходящего риффа, который при этом остаётся глубоко в грув-кармане, а «Rev My Heart» это классический рок-н-ролльный разгон, опирающийся на незабываемую последовательность аккордов и текст, навеянный тем вечером, когда Kennedy впервые встретил свою будущую жену.\n\nИнструментал «Living The Dream» продолжает традицию SMKC, давая Slash'у простор для импровизации и выводя его безошибочно узнаваемую гитарную игру на передний план.\n\n«Я записывал по такому инструменталу на каждом альбоме CONSPIRATORS, кроме „Apocalyptic Love\", — говорит Slash. — Приятно иметь вещь, которую можно раскрыть и на которой можно импровизировать, где у меня нет никаких конкретных рамок и ограничителей. Хорошо делать новую на каждой пластинке, чтобы вживую не приходилось играть одну и ту же».\n\nОдно из самых заметных отступлений альбома, «Looking For A Miracle»: это первая песня, которую Slash написал на педальной стил-гитаре, и первая, где звучит записанное соло гитариста на этом инструменте. Исходную музыкальную идею Slash развил на педальной стил-гитаре, а затем адаптировал под обычную гитару, чтобы весь коллектив мог её отрепетировать. Потом он вернулся к педальной стил-гитаре во время записи и выстроил соло уже на Studio Barbarosa.\n\n«Я обожаю педальную стил-гитару, — говорит Slash. — Это один из тех инструментов, возможности которых просто невероятны. Так что для меня это стало отдельным увлечением. Но это серьёзное обязательство. Инструмент довольно сложный».\n\nKennedy и остальные участники наблюдали, как отношения Slash'а с инструментом развивались со временем.\n\n«Долгое время мы приезжали репетировать перед турами или заниматься предпродакшном, а потом уезжали, а Slash оставался в своей студии и до глубокой ночи отрабатывал педальную стил-гитару», — вспоминает Myles.\n\nАльбом завершается песней «Stem The Flow», масштабным финальным заявлением о разочаровании в институтах и системах, которые когда-то считались несокрушимыми.\n\nЖёсткий, спонтанный и разносторонний «Flying Blind» запечатлел SMKC звучащими так же свободно, сыро и слаженно, как всегда.\n\nКорни SMKC уходят к звёздному одноимённому сольному альбому Slash'а 2010 года, на котором Kennedy выступил одним из нескольких приглашённых вокалистов. Возникшая после этого музыкальная и человеческая связь быстро переросла в постоянный коллектив.\n\n«Работа с CONSPIRATORS началась как счастливая случайность после того первого сольного альбома, — говорит Slash. — Я выстроил с этими ребятами отношения и на музыкальном, и на личном уровне, от которых не собирался отказываться, когда GUNS перезапустились».\n\nТо, что начиналось без долгосрочного плана, выросло в пятнадцатилетнее партнёрство, пять студийных альбомов и множество мировых туров.\n\n«У меня в голове не укладывается, что эти пятнадцать лет пролетели так быстро, — говорит Kennedy. — Как одно мгновение. Но, как говорится, время летит, когда ты веселишься, а нам очень весело. Это из тех случаев, когда хочется ущипнуть себя».\n\nСпустя пятнадцать лет после образования SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS продолжают оттачивать звучание, неся факел живого, нелакированного рок-н-ролла. Для Slash'а движущей силой «Flying Blind» и SMKC остаётся чистое удовольствие от игры.\n\n«Когда мы начинали, у нас ничего не было, — говорит Slash. — Мы не собирались покорять мир. Всё было ради чистого удовольствия. Так что теперь мы собираемся, играем, отлично проводим время, потом выезжаем в тур и делаем это снова при следующей возможности», — смеётся Slash. «Пока есть электричество, мы будем втыкать штекер в розетку».\n\n#Slash #Rock #_Rock #HardRock #Hard_Rock #Hard 'n' Heavy #_Hard 'n' Heavy",
-      "tags": "",
-      "category": "Хард-рок",
-      "published": "2026-10-02T17:35:23+00:00",
-      "id": "ad2f510b5563b2f6a77c6994ff2f844a8500fb25",
-      "retry_after": 1790982232
+      "retry_after": 1790998521
     }
   ]
 }
