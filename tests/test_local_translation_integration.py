@@ -21,14 +21,16 @@ class OfflineTranslationIntegration(unittest.TestCase):
                      'title': 'Tom Morello festival will be streamed live',
                      'link': 'https://www.theprp.com/offline-smoke', 'rss_body': '',
                      'category': 'Хэви-метал', 'published': bot.parse_datetime('2026-10-01T17:58:55+00:00')}
+        def public_disabled(text):
+            raise AssertionError('Public API called')
         with tempfile.TemporaryDirectory() as directory, \
              patch.object(runner, 'TRANSLATION_CACHE_FILE', str(Path(directory) / 'cache.json')), \
              patch.object(runner, '_translation_cache', {}), \
              patch.object(runner, '_cache_loaded', True), \
              patch.object(bot.session, 'get', return_value=response), \
-             patch.object(bot, '_translate_google', side_effect=AssertionError('Public API called')), \
-             patch.object(bot, '_translate_lingva', side_effect=AssertionError('Public API called')), \
-             patch.object(bot, '_translate_mymemory', side_effect=AssertionError('Public API called')):
+             patch.object(bot, '_translate_google', new=public_disabled), \
+             patch.object(bot, '_translate_lingva', new=public_disabled), \
+             patch.object(bot, '_translate_mymemory', new=public_disabled):
             article = runner.prepare_article(candidate)
         self.assertFalse(article.get('translation_pending'))
         self.assertEqual(len(article['paragraphs']), 4)
