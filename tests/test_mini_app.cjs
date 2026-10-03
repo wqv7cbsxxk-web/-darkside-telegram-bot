@@ -5,12 +5,13 @@ const data=JSON.parse(fs.readFileSync('docs/articles.json','utf8'));
 const catalog=JSON.parse(fs.readFileSync('docs/artists.json','utf8'));
 const script=[...fs.readFileSync('docs/index.html','utf8').matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
 const profiles=JSON.parse(fs.readFileSync('docs/artist_profiles.json','utf8'));
+const seedJson=fs.readFileSync('docs/index.html','utf8').match(/<script id="articlesSeed" type="application\/json">([\s\S]*?)<\/script>/)[1];
 const storage=new Map();
 async function boot(article=null,initialSearch='',fetchImpl=null){
  const nodes=new Map();
  function element(){return {textContent:'',style:{},children:[],dataset:{},events:{},classList:{add(){},remove(){},toggle(){}},setAttribute(k,v){this[k]=v},removeAttribute(k){delete this[k]},addEventListener(k,v){this.events[k]=v},append(...els){this.children.push(...els)},replaceChildren(...els){this.children=[...els]},get lastChild(){return this.children.at(-1)}};}
  const sections=['news','tour','where','members','about'].map(name=>Object.assign(element(),{dataset:{bandSection:name}}));
- const document={documentElement:{style:{setProperty(){}}},getElementById(id){if(!nodes.has(id))nodes.set(id,element());return nodes.get(id)},createElement:element,querySelectorAll(selector){return selector==='[data-band-section]'?sections:[]},querySelector(){return element()}};
+ const document={documentElement:{style:{setProperty(){}}},getElementById(id){if(!nodes.has(id)){const el=element();if(id==='articlesSeed')el.textContent=seedJson;nodes.set(id,el)}return nodes.get(id)},createElement:element,querySelectorAll(selector){return selector==='[data-band-section]'?sections:[]},querySelector(){return element()}};
  const window={};const context={document,window,location:{search:article?'?id='+article.id:initialSearch,pathname:'/'},URLSearchParams,Date,String,console,history:{back(){},replaceState(){}},localStorage:{getItem(k){return storage.get(k)},setItem(k,v){storage.set(k,v)}},setTimeout(){throw Error('No retry expected')},fetch:fetchImpl||async function(url){return {ok:true,json:async()=>url.startsWith('articles.json')?data:url.startsWith('artists.json')?catalog:profiles}}};
  vm.runInNewContext(script,context);await new Promise(resolve=>setImmediate(resolve));return {nodes,app:window.MetalNews,sections};
 }
@@ -26,7 +27,7 @@ async function boot(article=null,initialSearch='',fetchImpl=null){
  assert.equal(mine.length,1);assert.ok(mine[0].paragraphs[6].startsWith('6. Wretched Spirits'));
  const restarted=await boot();assert.ok(restarted.app.preferences.favorites.includes('wolves-in-the-throne-room'));
  const offline=await boot(null,'',()=>new Promise(()=>{}));assert.ok(offline.nodes.get('list').children.length,'cached feed must render before the network responds');
- storage.delete('metal-news.articles.v1');const optionalDataOffline=await boot(null,'',async url=>url.startsWith('articles.json')?{ok:true,json:async()=>data}:new Promise(()=>{}));assert.ok(optionalDataOffline.nodes.get('list').children.length,'fresh feed must render without waiting for optional catalogs or profiles');
+ storage.delete('metal-news.articles.v1');const optionalDataOffline=await boot(null,'',async url=>url.startsWith('articles.json')?new Promise(()=>{}):new Promise(()=>{}));assert.ok(optionalDataOffline.nodes.get('list').children.length,'bundled news seed must render even when the WebView cannot finish network requests');
  assert.equal(restarted.app.selectArticles(data.articles,{view:'mine',topic:'releases'}).length,1);
  assert.equal(restarted.app.selectArticles(data.articles,{view:'mine',topic:'live'}).length,0);
  assert.equal(app.selectArticles(data.articles,{band:{id:'iron-maiden'}}).length,1);
