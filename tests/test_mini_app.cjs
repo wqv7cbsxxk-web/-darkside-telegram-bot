@@ -4,7 +4,8 @@ const vm = require('node:vm');
 const data=JSON.parse(fs.readFileSync('docs/articles.json','utf8'));
 const catalog=JSON.parse(fs.readFileSync('docs/artists.json','utf8'));
 const html=fs.readFileSync('docs/index.html','utf8');
-const script=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)][0][1];
+const script=html.match(/<script id="appCode">([\s\S]*?)<\/script>/)[1];
+assert.equal(script,fs.readFileSync('docs/app.js','utf8'),'published app must match its maintained source');
 for(const tag of html.matchAll(/<script\b[^>]*\bsrc=[^>]*>/g))assert.match(tag[0],/\b(?:async|defer)\b/,'a stalled script download must not block parsing or the inline news app');
 const profiles=JSON.parse(fs.readFileSync('docs/artist_profiles.json','utf8'));
 const seedJson=fs.readFileSync('docs/index.html','utf8').match(/<script id="articlesSeed" type="application\/json">([\s\S]*?)<\/script>/)[1];
@@ -28,7 +29,7 @@ async function boot(article=null,initialSearch='',fetchImpl=null,telegram=null,s
  const sdkBroken=await boot(null,'',()=>new Promise(()=>{}),{ready(){throw Error('SDK unavailable')},expand(){throw Error('WebView unsupported')}});assert.ok(sdkBroken.nodes.get('list').children.length,'Telegram bridge errors must not abort app startup');
  const noStorage=await boot(null,'',()=>new Promise(()=>{}),null,true);assert.ok(noStorage.nodes.get('list').children.length,'denied local storage must not hide the bundled news feed');
  storage.set('metal-news.articles.v1','invalid cached JSON');const corruptCache=await boot(null,'',()=>new Promise(()=>{}));assert.ok(corruptCache.nodes.get('list').children.length,'a corrupt cache must not prevent use of the bundled news feed');
- const legacy=await boot(null,'?view=bands');assert.equal(legacy.nodes.get('viewTitle').textContent,'Твоя музыкальная лента');
+ const legacy=await boot(null,'?view=bands');assert.equal(legacy.nodes.get('viewTitle').textContent,'Лента');
  const {app,nodes,sections}=await boot();assert.ok(nodes.get('list').children.length);
  app.toggleFavorite('wolves-in-the-throne-room');
  let mine=app.selectArticles(data.articles,{view:'mine'});

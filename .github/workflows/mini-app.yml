@@ -1,0 +1,34 @@
+name: Verify Mini App design and navigation
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'build_mini_app_data.py'
+      - 'package*.json'
+      - 'tests/test_*app.cjs'
+      - 'tests/test_redesign.cjs'
+      - '.github/workflows/mini-app.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify embedded app matches maintained sources
+        run: |
+          python build_mini_app_data.py
+          node tests/test_mini_app.cjs
