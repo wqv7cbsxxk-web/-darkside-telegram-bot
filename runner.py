@@ -87,7 +87,7 @@ def clean_source_text(text):
     text = html.unescape(str(text))
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
-    m = re.search(r"\bthe\s+post\b.*?\bappeared\s+first\s+on\b", text, flags=re.I | re.S)
+    m = re.search(r"\b(?:the|korea)\s+post\b.*?\bappeared\s+first\s+on\b", text, flags=re.I | re.S)
     if m:
         text = text[:m.start()].rstrip(" .,:;-\n")
     text = re.sub(r"\b(?:continue reading|read more|read the full article)\b.*$", "", text, flags=re.I | re.S).strip()
@@ -97,6 +97,27 @@ def clean_source_text(text):
         lines.pop()
     text = "\n\n".join(lines)
     return re.sub(r"(?:\s+#[\wА-Яа-яЁё-]+){2,}\s*$", "", text).strip()
+
+
+def clean_article_paragraphs(paragraphs):
+    """Clean boilerplate that a publisher splits across separate HTML blocks."""
+    joined = clean_source_text("\n\n".join(str(p).strip() for p in paragraphs if p and str(p).strip()))
+    if not joined:
+        return []
+    bad_phrases = (
+        "subscribe to", "sign up", "cookie", "privacy policy", "advertisement",
+        "follow us", "related:", "newsletter", "all rights reserved", "share this",
+        "recommended for you", "you may also like",
+        "the latest news, features and interviews direct to your inbox",
+        "you must confirm your public display name before commenting",
+        "please logout and then login again",
+    )
+    result = []
+    for paragraph in re.split(r"\n{2,}", joined):
+        paragraph = clean_source_text(paragraph)
+        if paragraph and not any(phrase in paragraph.lower() for phrase in bad_phrases):
+            result.append(paragraph)
+    return result
 
 
 def fetch_full_article(url):
@@ -123,7 +144,7 @@ def fetch_full_article(url):
             for tag in container.find_all("p"):
                 tag.insert_before("\n")
                 tag.insert_after("\n")
-            return full_rss_paragraphs(container.get_text(" ", strip=False))
+            return clean_article_paragraphs(full_rss_paragraphs(container.get_text(" ", strip=False)))
         if (urlsplit(url).hostname or "").lower() in {"theprp.com", "www.theprp.com"}:
             container = soup.select_one(".entry-content")
             if container is None:
@@ -141,11 +162,11 @@ def fetch_full_article(url):
                 text = clean_source_text(tag.get_text(" ", strip=True))
                 if text and not re.match(r"(?:A post shared by|View this post on Instagram)\b", text, re.I):
                     paragraphs.append(text)
-            return paragraphs
+            return clean_article_paragraphs(paragraphs)
         candidates = [soup.find("article"), soup.find("main"), soup.select_one(".entry-content"), soup.select_one(".post-content"), soup.select_one(".article-content"), soup.select_one(".td-post-content")]
         container = next((x for x in candidates if x is not None), soup)
         paragraphs, seen = [], set()
-        bad_phrases = ("subscribe to", "sign up", "cookie", "privacy policy", "advertisement", "follow us", "related:", "newsletter", "all rights reserved", "share this", "recommended for you", "you may also like")
+        bad_phrases = ("subscribe to", "sign up", "cookie", "privacy policy", "advertisement", "follow us", "related:", "newsletter", "all rights reserved", "share this", "recommended for you", "you may also like", "the latest news, features and interviews direct to your inbox", "you must confirm your public display name before commenting", "please logout and then login again")
         for p in container.find_all("p"):
             text = clean_source_text(re.sub(r"\s+", " ", p.get_text(" ", strip=True)).strip())
             if len(text) < 45:
@@ -158,7 +179,7 @@ def fetch_full_article(url):
                 continue
             seen.add(key)
             paragraphs.append(text)
-        return paragraphs
+        return clean_article_paragraphs(paragraphs)
     except Exception as exc:
         print("article fetch failed:", url, exc)
         return []
@@ -343,6 +364,7 @@ def prepare_texts(cand):
         chosen = "rss"
     if not source_paragraphs and rss_text:
         source_paragraphs = [rss_text]
+    source_paragraphs = clean_article_paragraphs(source_paragraphs)
     translated = []
     for paragraph in source_paragraphs:
         # Darkside's Russian edition already provides the translation. Keep
@@ -350,6 +372,7 @@ def prepare_texts(cand):
         result = paragraph if cand["source"] == "Darkside" else translate_to_ru(paragraph)
         if result:
             translated.append(re.sub(r"\s+", " ", result).strip())
+    translated = clean_article_paragraphs(translated)
     preview_source = " ".join(translated[:2]).strip() or translate_to_ru(rss_text)
     short = bot.make_short_excerpt(preview_source, min_chars=220, max_chars=380) if preview_source else ""
     if cand.get("id"):
