@@ -1104,7 +1104,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://gorgoroth.info",
       "reference_url": "https://en.wikipedia.org/wiki/Gorgoroth",
-      "reference_checked_at": "2026-10-02T02:22:44.184390+00:00"
+      "reference_checked_at": "2026-10-02T02:22:44.184390+00:00",
+      "tour_attempted_at": "2026-10-03T04:43:17.591014+00:00"
     },
     "great-white": {
       "origin": "Los Angeles, California, U.S.",
@@ -1119,7 +1120,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://officialgreatwhite.com",
       "reference_url": "https://en.wikipedia.org/wiki/Great_White",
-      "reference_checked_at": "2026-10-02T02:22:44.362884+00:00"
+      "reference_checked_at": "2026-10-02T02:22:44.362884+00:00",
+      "tour_attempted_at": "2026-10-03T04:43:18.284717+00:00"
     },
     "guns-n-roses": {
       "origin": "Los Angeles , California, U.S.",
@@ -1158,7 +1160,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://gunsnroses.com",
       "reference_url": "https://en.wikipedia.org/wiki/Guns_N%E2%80%99_Roses",
-      "reference_checked_at": "2026-10-02T02:22:44.969656+00:00"
+      "reference_checked_at": "2026-10-02T02:22:44.969656+00:00",
+      "tour_attempted_at": "2026-10-03T04:43:18.696605+00:00"
     },
     "halestorm": {
       "origin": "Red Lion, Pennsylvania , U.S.",
@@ -1185,7 +1188,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.halestormrocks.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Halestorm",
-      "reference_checked_at": "2026-10-02T02:22:50.377630+00:00"
+      "reference_checked_at": "2026-10-02T02:22:50.377630+00:00",
+      "tour_attempted_at": "2026-10-03T04:43:19.166909+00:00"
     },
     "i-am-morbid": {
       "origin": "",
