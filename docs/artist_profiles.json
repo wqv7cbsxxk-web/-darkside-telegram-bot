@@ -1265,7 +1265,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://immortalofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Immortal_%28band%29",
-      "reference_checked_at": "2026-10-02T02:22:55.531640+00:00"
+      "reference_checked_at": "2026-10-02T02:22:55.531640+00:00",
+      "tour_attempted_at": "2026-10-03T07:13:03.942529+00:00"
     },
     "in-flames": {
       "origin": "Gothenburg , Sweden",
@@ -1296,7 +1297,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.inflames.com/",
       "reference_url": "https://en.wikipedia.org/wiki/In_Flames",
-      "reference_checked_at": "2026-10-02T02:22:55.758346+00:00"
+      "reference_checked_at": "2026-10-02T02:22:55.758346+00:00",
+      "tour_attempted_at": "2026-10-03T07:13:04.351577+00:00"
     },
     "iron-maiden": {
       "origin": "London, England",
@@ -1331,7 +1333,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ironmaiden.com",
       "reference_url": "https://en.wikipedia.org/wiki/Iron_Maiden",
-      "reference_checked_at": "2026-10-02T02:22:55.988234+00:00"
+      "reference_checked_at": "2026-10-02T02:22:55.988234+00:00",
+      "tour_attempted_at": "2026-10-03T07:13:04.731493+00:00"
     },
     "kid-rock": {
       "origin": "",
@@ -1341,7 +1344,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://kidrock.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kid_Rock",
-      "reference_checked_at": "2026-10-02T02:23:02.718310+00:00"
+      "reference_checked_at": "2026-10-02T02:23:02.718310+00:00",
+      "tour_attempted_at": "2026-10-03T07:13:05.061393+00:00"
     },
     "king-crimson": {
       "origin": "London, England",
