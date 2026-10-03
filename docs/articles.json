@@ -342,9 +342,18 @@
         "10. The Arson Choir , \"A Thousand Terrible Things\""
       ],
       "artists": [
-        "Amon Amarth",
-        "A Perfect Circle",
-        "Imminence"
+        {
+          "id": "devin-townsend",
+          "name": "Devin Townsend"
+        },
+        {
+          "id": "haken",
+          "name": "Haken"
+        },
+        {
+          "id": "imminence",
+          "name": "Imminence"
+        }
       ],
       "original_title": "Amon Amarth, A Perfect Circle, The Arson Choir & More Added to Metal Injection's Top Tracks of the Week",
       "topics": [],
