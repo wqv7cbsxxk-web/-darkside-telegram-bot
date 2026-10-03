@@ -27,6 +27,7 @@ async function boot(article=null,initialSearch='',fetchImpl=null){
  assert.equal(mine.length,1);assert.ok(mine[0].paragraphs[6].startsWith('6. Wretched Spirits'));
  const restarted=await boot();assert.ok(restarted.app.preferences.favorites.includes('wolves-in-the-throne-room'));
  const offline=await boot(null,'',()=>new Promise(()=>{}));assert.ok(offline.nodes.get('list').children.length,'cached feed must render before the network responds');
+ storage.set('metal-news.articles.v1',JSON.stringify({articles:[data.articles.at(-1)],cachedAt:1}));const refreshedSeed=await boot(null,'',()=>new Promise(()=>{}));assert.ok(refreshedSeed.nodes.get('list').children.length>1,'new embedded feed must replace an older local cache when offline');
  storage.delete('metal-news.articles.v1');const optionalDataOffline=await boot(null,'',async url=>url.startsWith('articles.json')?new Promise(()=>{}):new Promise(()=>{}));assert.ok(optionalDataOffline.nodes.get('list').children.length,'bundled news seed must render even when the WebView cannot finish network requests');
  storage.delete('metal-news.articles.v1');const notYetPublished=await boot(null,'?id=not-yet-published',()=>new Promise(()=>{}));assert.ok(notYetPublished.nodes.get('list').children.length,'an article link missing from the bundled snapshot must still open the feed instead of leaving the spinner');
  assert.equal(restarted.app.selectArticles(data.articles,{view:'mine',topic:'releases'}).length,1);
