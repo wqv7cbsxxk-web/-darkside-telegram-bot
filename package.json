@@ -1,0 +1,6 @@
+{
+  "name": "metal-news-mini-app",
+  "private": true,
+  "scripts": {"test": "node tests/test_mini_app.cjs && node tests/test_music_data.cjs && node tests/test_redesign.cjs"},
+  "devDependencies": {"linkedom": "0.18.12"}
+}
