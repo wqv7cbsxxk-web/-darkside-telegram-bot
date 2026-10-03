@@ -237,16 +237,19 @@ def configure_open_menu(chat_id=None):
     scopes = [{}]
     if chat_id and str(chat_id).isdigit():
         scopes.append({"chat_id": int(chat_id)})
+    # Set both scopes before verifying either: a stale global readback must not
+    # prevent the chat-specific button from being updated.
     for scope in scopes:
         if telegram_api("getChatMenuButton", scope) not in accepted:
             telegram_api("setChatMenuButton", dict(scope, menu_button=expected))
-        # Telegram can briefly return the previous menu after a successful set.
-        for attempt in range(3):
+    for scope in scopes:
+        # Telegram may briefly return the previous menu after a successful set.
+        for attempt in range(6):
             if telegram_api("getChatMenuButton", scope) in accepted:
                 break
-            if attempt == 2:
+            if attempt == 5:
                 raise RuntimeError("Telegram menu verification failed")
-            time.sleep(1)
+            time.sleep(2)
     print("Telegram menu verified: Открыть -> Mini App home")
 
 
