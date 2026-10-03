@@ -818,6 +818,9 @@ def prepare_article(cand):
 def send_news(chat_id, cand):
     article = prepare_article(cand)
 
+    if article.get('translation_pending'):
+        raise RuntimeError('Translation unavailable; news kept in queue for retry')
+
     # Сначала сохраняем статью локально.
     # GitHub Actions закоммитит docs/articles.json после выполнения бота.
     save_article(article)
