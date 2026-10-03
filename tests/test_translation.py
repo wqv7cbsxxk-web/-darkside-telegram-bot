@@ -48,6 +48,16 @@ class TranslationTests(unittest.TestCase):
         self.assertNotIn("View this post", text)
         self.assertIn("Bruce Springsteen", runner._page_entities)
 
+    def test_article_wide_cleanup_removes_split_publisher_boilerplate(self):
+        paragraphs = runner.clean_article_paragraphs([
+            "The band announced a new album today.",
+            "The Post", "A band announced a new album today",
+            "appeared first on Metal Injection.",
+            "The latest news, features and interviews direct to your inbox.",
+            "You must confirm your public display name before commenting.",
+        ])
+        self.assertEqual(paragraphs, ["The band announced a new album today."])
+
     def test_provider_chunks_fit_mymemory_limit(self):
         calls = []
         def provider(text):
