@@ -501,7 +501,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://defleppard.com",
       "reference_url": "https://en.wikipedia.org/wiki/Def_Leppard",
-      "reference_checked_at": "2026-10-02T02:22:08.321969+00:00"
+      "reference_checked_at": "2026-10-02T02:22:08.321969+00:00",
+      "tour_attempted_at": "2026-10-03T01:48:10.863149+00:00"
     },
     "deep-purple": {
       "origin": "London, England",
@@ -869,7 +870,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://hevydevy.com",
       "reference_url": "https://en.wikipedia.org/wiki/Devin_Townsend",
-      "reference_checked_at": "2026-10-02T02:22:14.124848+00:00"
+      "reference_checked_at": "2026-10-02T02:22:14.124848+00:00",
+      "tour_attempted_at": "2026-10-03T01:48:11.660737+00:00"
     },
     "dio": {
       "origin": "Cortland, New York , U.S.",
@@ -879,7 +881,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.ronniejamesdio.com",
       "reference_url": "https://en.wikipedia.org/wiki/Dio_%28band%29",
-      "reference_checked_at": "2026-10-02T02:22:18.913197+00:00"
+      "reference_checked_at": "2026-10-02T02:22:18.913197+00:00",
+      "tour_attempted_at": "2026-10-03T01:48:14.127314+00:00"
     },
     "dokken": {
       "origin": "Los Angeles , California, U.S.",
@@ -902,7 +905,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://dokken.net",
       "reference_url": "https://en.wikipedia.org/wiki/Dokken",
-      "reference_checked_at": "2026-10-02T02:22:18.982316+00:00"
+      "reference_checked_at": "2026-10-02T02:22:18.982316+00:00",
+      "tour_attempted_at": "2026-10-03T01:48:14.816256+00:00"
     },
     "dream-theater": {
       "origin": "Boston , Massachusetts , U.S.",
