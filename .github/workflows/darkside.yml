@@ -1,6 +1,10 @@
 name: Metal News Aggregator to Telegram
 
 on:
+  push:
+    paths:
+      - 'local_translation.py'
+      - '.github/workflows/darkside.yml'
   schedule:
     - cron: "2-59/5 * * * *"
   workflow_dispatch:
@@ -38,11 +42,25 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Cache offline translation model
+        uses: actions/cache@v4
+        with:
+          path: .translation-model
+          key: argos-en-ru-1.9-591d743a
+
+      - name: Install verified English to Russian model
+        run: python local_translation.py
+
       - name: Test article pipeline
         run: |
           python -m unittest discover -s tests -v
           node tests/test_mini_app.cjs
           node tests/test_music_data.cjs
+
+      - name: Test real offline translation without public APIs
+        env:
+          LOCAL_TRANSLATION_MODEL: '.translation-model/translate-en_ru-1_9'
+        run: python -m unittest discover -s tests -p test_local_translation_integration.py -v
 
       - name: Run aggregator
         env:
@@ -50,6 +68,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TEST_LATEST: ${{ inputs.test_latest || 'false' }}
           DISPLAY_TZ: "Asia/Novosibirsk"
+          LOCAL_TRANSLATION_MODEL: '.translation-model/translate-en_ru-1_9'
         run: python runner.py
 
       - name: Embed current feed for Telegram WebView
