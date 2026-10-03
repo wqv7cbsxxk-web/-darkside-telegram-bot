@@ -26,6 +26,7 @@ async function boot(article=null,initialSearch='',fetchImpl=null){
  assert.equal(mine.length,1);assert.ok(mine[0].paragraphs[6].startsWith('6. Wretched Spirits'));
  const restarted=await boot();assert.ok(restarted.app.preferences.favorites.includes('wolves-in-the-throne-room'));
  const offline=await boot(null,'',()=>new Promise(()=>{}));assert.ok(offline.nodes.get('list').children.length,'cached feed must render before the network responds');
+ storage.delete('metal-news.articles.v1');const optionalDataOffline=await boot(null,'',async url=>url.startsWith('articles.json')?{ok:true,json:async()=>data}:new Promise(()=>{}));assert.ok(optionalDataOffline.nodes.get('list').children.length,'fresh feed must render without waiting for optional catalogs or profiles');
  assert.equal(restarted.app.selectArticles(data.articles,{view:'mine',topic:'releases'}).length,1);
  assert.equal(restarted.app.selectArticles(data.articles,{view:'mine',topic:'live'}).length,0);
  assert.equal(app.selectArticles(data.articles,{band:{id:'iron-maiden'}}).length,1);
