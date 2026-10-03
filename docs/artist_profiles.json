@@ -939,7 +939,8 @@
       "reference_url": "https://en.wikipedia.org/wiki/Dream_Theater",
       "reference_checked_at": "2026-10-02T02:22:19.166251+00:00",
       "qid": "Q162586",
-      "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d"
+      "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
+      "tour_attempted_at": "2026-10-03T03:17:22.504527+00:00"
     },
     "enter-shikari": {
       "origin": "St Albans , Hertfordshire , England",
@@ -966,7 +967,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://entershikari.com",
       "reference_url": "https://en.wikipedia.org/wiki/Enter_Shikari",
-      "reference_checked_at": "2026-10-02T02:22:26.892832+00:00"
+      "reference_checked_at": "2026-10-02T02:22:26.892832+00:00",
+      "tour_attempted_at": "2026-10-03T03:17:24.301680+00:00"
     },
     "eminem": {
       "origin": "Detroit , Michigan, U.S.",
@@ -976,7 +978,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://eminem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Eminem",
-      "reference_checked_at": "2026-10-02T02:22:27.335272+00:00"
+      "reference_checked_at": "2026-10-02T02:22:27.335272+00:00",
+      "tour_attempted_at": "2026-10-03T03:17:25.856625+00:00"
     },
     "fates-warning": {
       "origin": "Hartford, Connecticut , U.S.",
@@ -1003,7 +1006,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.fateswarning.com",
       "reference_url": "https://en.wikipedia.org/wiki/Fates_Warning",
-      "reference_checked_at": "2026-10-02T02:22:32.227532+00:00"
+      "reference_checked_at": "2026-10-02T02:22:32.227532+00:00",
+      "tour_attempted_at": "2026-10-03T03:17:27.365783+00:00"
     },
     "foo-fighters": {
       "origin": "Seattle , Washington , U.S.",
