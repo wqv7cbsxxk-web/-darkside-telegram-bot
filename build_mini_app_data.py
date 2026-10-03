@@ -7,6 +7,7 @@ from pathlib import Path
 
 ARTICLES = Path("docs/articles.json")
 INDEX = Path("docs/index.html")
+MUSIC = Path("docs/music-data.js")
 PATTERN = re.compile(
     r'(<script id="articlesSeed" type="application/json">).*?(</script>)',
     re.DOTALL,
@@ -22,6 +23,13 @@ def build():
     updated, count = PATTERN.subn(lambda m: m.group(1) + payload + m.group(2), html, count=1)
     if count != 1:
         raise RuntimeError("articlesSeed element is missing from docs/index.html")
+    music = MUSIC.read_text(encoding="utf-8").replace("</script", "<\\/script")
+    updated, count = re.subn(
+        r'(<script id="musicData">).*?(</script>)',
+        lambda m: m.group(1) + music + m.group(2), updated, count=1, flags=re.DOTALL,
+    )
+    if count != 1:
+        raise RuntimeError("musicData element is missing from docs/index.html")
     INDEX.write_text(updated, encoding="utf-8")
 
 
