@@ -9,6 +9,7 @@ import os
 import re
 from pathlib import Path
 import zipfile
+from collections import Counter
 
 MODEL_URL = 'https://argos-net.com/v1/translate-en_ru-1_9.argosmodel'
 MODEL_SHA256 = '591d743ae103752b88ffc38785c50421320f4eff93c8967e0d3d2e14d4e27811'
@@ -66,7 +67,7 @@ def translate(chunk):
         normalized = re.sub(r'__KEEP_\d+__|[A-Za-z]+',
                             lambda m: m[0] if m[0].startswith('__KEEP_') else m[0].lower(), chunk)
         result = _translate(normalized)
-    if all(result.count(token) == chunk.count(token) for token in tokens):
+    if Counter(re.findall(r'__KEEP_\d+__', result)) == Counter(tokens):
         return result
     # NMT can omit an unfamiliar name token, especially in headlines. Retry
     # the surrounding prose separately rather than losing any named entity.
