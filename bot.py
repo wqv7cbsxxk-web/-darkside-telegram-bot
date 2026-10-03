@@ -243,16 +243,17 @@ def configure_open_menu(chat_id=None):
         if telegram_api("getChatMenuButton", scope) not in accepted:
             telegram_api("setChatMenuButton", dict(scope, menu_button=expected))
     for scope in scopes:
-        # Telegram may briefly return the previous menu after a successful set.
-        for attempt in range(6):
+        # The API can return the previous button for over a minute after a set.
+        # Allow its readback to settle rather than failing a successful update.
+        for attempt in range(20):
             actual = telegram_api("getChatMenuButton", scope)
             if actual in accepted:
                 print("Telegram menu verified:", "chat" if scope else "default", expected["web_app"]["url"])
                 break
-            if attempt == 5:
+            if attempt == 19:
                 public_button = {key: (actual or {}).get(key) for key in ("type", "text", "web_app")}
                 raise RuntimeError(f"Telegram menu verification failed ({'chat' if scope else 'default'}): {public_button}")
-            time.sleep(2)
+            time.sleep(5)
     print("Telegram menu verified: Открыть -> Mini App home")
 
 
