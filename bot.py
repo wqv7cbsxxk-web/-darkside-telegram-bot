@@ -19,6 +19,7 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 TEST_LATEST = os.environ.get("TEST_LATEST", "false").strip().lower() == "true"
 WEBAPP_BASE_URL = os.environ.get("WEBAPP_BASE_URL", "").strip()
+WEBAPP_VERSION = "20261003-2"
 DISPLAY_TZ = os.environ.get("DISPLAY_TZ", "Asia/Novosibirsk").strip()
 ARTICLES_FILE = "docs/articles.json"
 MAX_ARTICLES = 150
@@ -205,7 +206,7 @@ def save_article(article):
 
 
 def article_webapp_url(article_id):
-    return get_webapp_base_url() + "?id=" + quote(str(article_id), safe="")
+    return get_webapp_base_url() + "?id=" + quote(str(article_id), safe="") + "&v=" + WEBAPP_VERSION
 
 
 def display_time(dt):
@@ -230,9 +231,9 @@ def telegram_api(method, payload=None):
 
 def configure_open_menu(chat_id=None):
     """Configure a real Telegram menu entry, without sending a message."""
-    expected = {"type": "web_app", "text": "Открыть", "web_app": {"url": get_webapp_base_url() + "?view=bands"}}
+    expected = {"type": "web_app", "text": "Открыть", "web_app": {"url": get_webapp_base_url() + "?view=bands&v=" + WEBAPP_VERSION}}
     # Both published entry routes open the main feed, including existing buttons.
-    accepted = (expected, dict(expected, web_app={"url": get_webapp_base_url() + "?view=all"}))
+    accepted = (expected, dict(expected, web_app={"url": get_webapp_base_url() + "?view=all&v=" + WEBAPP_VERSION}))
     scopes = [{}]
     if chat_id and str(chat_id).isdigit():
         scopes.append({"chat_id": int(chat_id)})
