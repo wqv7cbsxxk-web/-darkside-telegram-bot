@@ -99,6 +99,11 @@ class TranslationTests(unittest.TestCase):
         self.assertFalse(runner.valid_provider_result("Группа __keep_0__ выпустила альбом.", "Band __KEEP_0__ releases album."))
         self.assertTrue(runner.valid_provider_result("Группа __KEEP_0__ выпустила альбом.", "Band __KEEP_0__ releases album."))
 
+    def test_nested_quoted_title_restores_all_name_tokens(self):
+        source = 'The album “Dream Theater Live” is out now.'
+        protected, kept = runner._protect_entities(source)
+        self.assertEqual(runner._restore_entities(protected, kept), source)
+
     def test_short_russian_translation_is_valid(self):
         self.assertTrue(runner._translation_is_good("Даты тура"))
         self.assertFalse(runner._translation_is_good("QUERY LENGTH LIMIT EXCEEDED"))
@@ -121,7 +126,7 @@ class TranslationTests(unittest.TestCase):
         data = json.loads(self.cache.read_text())
         self.assertGreater(data["provider_retry_after"]["_translate_google"], runner.time.time())
 
-    def test_news_with_unavailable_translation_is_sent_as_complete_labeled_original(self):
+    def test_news_with_unavailable_translation_stays_in_queue(self):
         candidate = {"id": "pending", "source": "ThePRP", "title": "Festival will be broadcast live",
                      "category": "Хэви-метал", "link": URL,
                      "rss_body": "This festival will be streamed for free.",
@@ -139,17 +144,40 @@ class TranslationTests(unittest.TestCase):
              patch.object(bot, "save_state"), patch.object(bot, "save_article") as save, \
              patch.object(bot, "telegram_api") as api, patch.object(runner.time, "sleep"):
             bot.main()
-        api.assert_called_once()
-        save.assert_called_once()
-        saved = save.call_args.args[0]
-        self.assertTrue(saved["translation_pending"])
-        self.assertEqual(saved["title"], candidate["title"])
-        self.assertEqual(len(saved["paragraphs"]), 4)
-        self.assertTrue(saved["paragraphs"][0].startswith("This weekend"))
-        payload = api.call_args.args[1]
-        self.assertIn("оригинал, перевод ожидает повтора", payload["text"])
-        self.assertTrue(payload["disable_web_page_preview"])
-        self.assertEqual(state["sent_ids"], [candidate["id"]])
+        api.assert_not_called()
+        save.assert_not_called()
+        self.assertEqual(state["sent_ids"], [])
+        self.assertEqual(state['pending_news'][0]['id'], candidate['id'])
+        self.assertGreater(state['pending_news'][0]['retry_after'], runner.time.time())
+
+    def test_local_translation_precedes_public_services(self):
+        original = 'This event will be broadcast live.'
+        translated = 'Это событие будут транслировать в прямом эфире.'
+        with patch.object(runner.local_translation, 'enabled', return_value=True), \
+             patch.object(runner.local_translation, 'translate', new=lambda text: translated), \
+             patch.object(bot, '_translate_google') as public, patch.object(runner.time, 'sleep'):
+            self.assertEqual(runner.translate_to_ru(original), translated)
+        public.assert_not_called()
+
+    def test_cached_mixed_language_result_is_retranslated(self):
+        original = 'The band will release a new album tomorrow.'
+        runner._cache_loaded = True
+        runner._translation_cache[original] = 'Группа объявила о новом альбоме. This album will be released tomorrow.'
+        expected = 'Группа выпустит новый альбом завтра.'
+        with patch.object(bot, '_translate_google', new=lambda text: expected), patch.object(runner.time, 'sleep'):
+            self.assertEqual(runner.translate_to_ru(original), expected)
+
+    def test_local_model_omitted_name_is_restored_by_prose_retry(self):
+        source = '__KEEP_0__ members unite in a new project __KEEP_1__'
+        def inference(text):
+            if '__KEEP_' in text:
+                return '__KEEP_0__ участники нового проекта'
+            return 'участники объединяются в новом проекте'
+        with patch.object(runner.local_translation, '_translate', new=inference):
+            result = runner.local_translation.translate(source)
+        self.assertIn('__KEEP_0__', result)
+        self.assertIn('__KEEP_1__', result)
+        self.assertTrue(runner.valid_provider_result(result, source))
 
     def test_saved_original_stays_pending_when_retry_providers_are_unavailable(self):
         article = {"id": "pending", "source": "ThePRP", "title": "Festival will be broadcast live",
