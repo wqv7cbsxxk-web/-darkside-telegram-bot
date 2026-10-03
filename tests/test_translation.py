@@ -34,6 +34,7 @@ class TranslationTests(unittest.TestCase):
         runner._page_entities.clear()
         runner._cache_loaded = False
         runner._article_translation_failed = False
+        runner._prepared_article_text.clear()
 
     def test_theprp_body_excludes_sidebar_and_instagram_caption(self):
         with patch.object(bot.session, "get", return_value=page()):
@@ -110,7 +111,7 @@ class TranslationTests(unittest.TestCase):
         data = json.loads(self.cache.read_text())
         self.assertGreater(data["provider_retry_after"]["_translate_google"], runner.time.time())
 
-    def test_untranslated_news_is_not_sent_or_marked_seen(self):
+    def test_news_with_unavailable_translation_is_sent_as_complete_labeled_original(self):
         candidate = {"id": "pending", "source": "ThePRP", "title": "Festival will be broadcast live",
                      "category": "Хэви-метал", "link": URL,
                      "rss_body": "This festival will be streamed for free.",
@@ -123,13 +124,42 @@ class TranslationTests(unittest.TestCase):
              patch.object(bot, "load_state", return_value=state), \
              patch.object(bot, "resolve_chat_id", return_value="test-chat"), \
              patch.object(bot, "configure_open_menu"), \
+             patch.object(bot, "article_webapp_url", return_value="https://example.test/article"), \
              patch.object(bot, "collect_candidates", return_value=[candidate]), \
              patch.object(bot, "save_state"), patch.object(bot, "save_article") as save, \
              patch.object(bot, "telegram_api") as api, patch.object(runner.time, "sleep"):
             bot.main()
-        api.assert_not_called()
-        save.assert_not_called()
-        self.assertEqual(state["sent_ids"], [])
+        api.assert_called_once()
+        save.assert_called_once()
+        saved = save.call_args.args[0]
+        self.assertTrue(saved["translation_pending"])
+        self.assertEqual(saved["title"], candidate["title"])
+        self.assertEqual(len(saved["paragraphs"]), 4)
+        self.assertTrue(saved["paragraphs"][0].startswith("This weekend"))
+        payload = api.call_args.args[1]
+        self.assertIn("оригинал, перевод ожидает повтора", payload["text"])
+        self.assertTrue(payload["disable_web_page_preview"])
+        self.assertEqual(state["sent_ids"], [candidate["id"]])
+
+    def test_saved_original_stays_pending_when_retry_providers_are_unavailable(self):
+        article = {"id": "pending", "source": "ThePRP", "title": "Festival will be broadcast live",
+                   "original_title": "Festival will be broadcast live", "category": "Хэви-метал",
+                   "original_url": URL, "published": "2026-10-01T17:58:55+00:00",
+                   "paragraphs": ["This weekend the festival will be streamed for free."],
+                   "translation_pending": True}
+        articles = {"articles": [article]}
+        with patch.object(bot, "load_articles", return_value=articles), \
+             patch.object(bot, "_translate_google", new=lambda text: ""), \
+             patch.object(bot, "_translate_lingva", new=lambda text: ""), \
+             patch.object(bot, "_translate_mymemory", new=lambda text: ""), \
+             patch.object(bot.session, "get", return_value=page()), \
+             patch.object(runner, "TRANSLATION_CACHE_FILE", str(self.cache)), \
+             patch.object(bot, "ARTICLES_FILE", str(self.cache.with_name("articles.json"))), \
+             patch.object(runner.time, "sleep"):
+            runner.retry_saved_translations(limit=1)
+        saved = json.loads((self.cache.parent / "articles.json").read_text())
+        self.assertTrue(saved["articles"][0]["translation_pending"])
+        self.assertTrue(saved["articles"][0]["translation_retry_after"] > runner.time.time())
 
 
 if __name__ == "__main__":

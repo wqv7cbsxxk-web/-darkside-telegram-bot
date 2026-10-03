@@ -17,6 +17,7 @@ TRANSLATION_CACHE_FILE = "translation_cache.json"
 _provider_retry_after = {}
 _cache_loaded = False
 _article_translation_failed = False
+_prepared_article_text = {}
 
 
 class TranslationUnavailable(RuntimeError):
@@ -351,6 +352,11 @@ def prepare_texts(cand):
             translated.append(re.sub(r"\s+", " ", result).strip())
     preview_source = " ".join(translated[:2]).strip() or translate_to_ru(rss_text)
     short = bot.make_short_excerpt(preview_source, min_chars=220, max_chars=380) if preview_source else ""
+    if cand.get("id"):
+        _prepared_article_text[cand["id"]] = {
+            "original": [re.sub(r"\s+", " ", p).strip() for p in source_paragraphs if p.strip()],
+            "translated": translated,
+        }
     print(f"ARTICLE {cand['source']}: page={article_size} chars; rss={rss_size} chars; chosen={chosen}; saved={sum(map(len, translated))} chars/{len(translated)} paragraphs")
     return short, translated
 
@@ -367,8 +373,22 @@ def prepare_article(cand):
     global _article_translation_failed
     _article_translation_failed = False
     article = _base_prepare_article(cand)
+    prepared = _prepared_article_text.pop(cand["id"], {})
     if _article_translation_failed:
-        raise TranslationUnavailable("Article translation incomplete; retry on a later run")
+        # Keep the complete cleaned source available while public translation
+        # providers are unavailable. The item remains marked for later retry.
+        original = prepared.get("original") or [clean_source_text(cand.get("rss_body", ""))]
+        original = [p for p in original if p]
+        article.update({
+            "title": cand["title"],
+            "short": bot.make_short_excerpt(" ".join(original[:2]), min_chars=220, max_chars=380),
+            "paragraphs": original,
+            "translation_pending": True,
+        })
+    elif prepared.get("translated"):
+        # The base bot has a legacy four-paragraph limit; retain the full
+        # cleaned article that this pipeline has already extracted.
+        article["paragraphs"] = prepared["translated"]
     return index_article(article, cand['title'])
 
 
@@ -408,8 +428,13 @@ def retry_saved_translations(limit=2):
             print("Saved article translation pending:", article["id"], exc)
             article["translation_retry_after"] = int(time.time()) + 3600
             continue
+        if result.get("translation_pending"):
+            print("Saved article translation still pending:", article["id"])
+            article["translation_retry_after"] = int(time.time()) + 3600
+            continue
         article.update({key: result[key] for key in ("title", "short", "paragraphs", "artists", "topics", "original_title")})
         article.pop("translation_pending", None)
+        article.pop("translation_retry_after", None)
         article.pop("translation_retry_after", None)
     if changed:
         Path(bot.ARTICLES_FILE).write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

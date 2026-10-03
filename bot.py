@@ -818,6 +818,7 @@ def send_news(chat_id, cand):
     short_e = html.escape(article["short"])
     meta_e = html.escape(
         f'{article["category"]} · {article["source"]} · {display_time(cand["published"])}'
+        + (' · оригинал, перевод ожидает повтора' if article.get("translation_pending") else '')
     )
 
     text = (
