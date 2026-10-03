@@ -58,7 +58,7 @@ class ProfileTests(unittest.TestCase):
         expected={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=bands&v=20261003-2'}}
         with patch.object(bot,'time') as clock,patch.object(bot,'get_webapp_base_url',return_value='https://example.org/'),patch.object(bot,'telegram_api',side_effect=[{'type':'commands'},True,{'type':'commands'},expected]) as api:
             bot.configure_open_menu()
-        clock.sleep.assert_called_once_with(1)
+        clock.sleep.assert_called_once_with(2)
         self.assertEqual(api.call_count,4)
 
     def test_both_published_feed_entry_urls_are_accepted(self):
