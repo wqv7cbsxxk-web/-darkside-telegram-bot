@@ -1,6 +1,7 @@
 """Embed the current news snapshot so Telegram WebView can open offline."""
 import json
 import re
+import time
 from pathlib import Path
 
 
@@ -14,7 +15,7 @@ PATTERN = re.compile(
 
 def build():
     articles = json.loads(ARTICLES.read_text(encoding="utf-8")).get("articles", [])
-    payload = json.dumps({"articles": articles}, ensure_ascii=False, separators=(",", ":"))
+    payload = json.dumps({"articles": articles, "generated_at": int(time.time() * 1000)}, ensure_ascii=False, separators=(",", ":"))
     # Prevent article text from closing the raw-text script element.
     payload = payload.replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
     html = INDEX.read_text(encoding="utf-8")
