@@ -3,6 +3,7 @@ import json
 import os
 import re
 import time
+from collections import Counter
 from pathlib import Path
 from urllib.parse import quote, urlsplit
 
@@ -23,6 +24,10 @@ _prepared_article_text = {}
 
 class TranslationUnavailable(RuntimeError):
     """Keep a news item eligible for a later run instead of sending English."""
+
+
+class ArticleContentUnavailable(RuntimeError):
+    """A publisher teaser must never be published as a complete article."""
 
 
 def load_translation_cache():
@@ -148,6 +153,28 @@ def fetch_full_article(url):
                 tag.insert_before("\n")
                 tag.insert_after("\n")
             return clean_article_paragraphs(full_rss_paragraphs(container.get_text(" ", strip=False)))
+        if (urlsplit(url).hostname or '').lower() in {'metalinjection.net', 'www.metalinjection.net'}:
+            container = soup.select_one('.entry-content, .post-content, .article-content, [itemprop="articleBody"]')
+            if container is None:
+                return []
+            for tag in container.select('iframe, .instagram-media, .twitter-tweet, .newsletter, .related-posts, .sharedaddy'):
+                tag.decompose()
+            for tag in container.find_all(['a', 'strong', 'b', 'em', 'i']):
+                name = tag.get_text(' ', strip=True)
+                if _looks_like_release_title(name):
+                    _page_entities.add(name)
+            paragraphs = []
+            for tag in container.find_all(['p', 'li']):
+                if tag.name == 'p' and tag.find('li'):
+                    continue
+                text = clean_source_text(tag.get_text(' ', strip=True))
+                if not text:
+                    continue
+                if tag.name == 'li' and tag.parent.name == 'ol':
+                    number = list(tag.parent.find_all('li', recursive=False)).index(tag) + int(tag.parent.get('start', 1))
+                    text = f'{number}. {text}'
+                paragraphs.append(text)
+            return clean_article_paragraphs(paragraphs)
         if (urlsplit(url).hostname or "").lower() in {"theprp.com", "www.theprp.com"}:
             container = soup.select_one(".entry-content")
             if container is None:
@@ -243,9 +270,16 @@ def contains_english_prose(text):
 
 
 def valid_provider_result(result, source):
-    return _translation_is_good(result) and all(
-        result.count(token) == source.count(token) for token in re.findall(r"__KEEP_\d+__", source)
-    )
+    # Observed Argos subtitle template: music "picks" became a film lookup.
+    if re.search(r'этот фильм ищут|оригинальное название:', result, re.I) and not re.search(r'\b(?:film|movie|original title)\b', source, re.I):
+        return False
+    return (_translation_is_good(result) and translation_numbers(result) == translation_numbers(source)
+            and Counter(re.findall(r'__KEEP_\d+__', result)) == Counter(re.findall(r'__KEEP_\d+__', source)))
+
+
+def translation_numbers(text):
+    text = re.sub(r'__KEEP_\d+__', '', text)
+    return Counter(int(value) for value in re.findall(r'\d+', text))
 
 
 def _translate_chunk(chunk):
@@ -296,8 +330,14 @@ def translate_to_ru(text):
     text = clean_source_text(text)
     if not text:
         return ""
+    # A tour itinerary is a list of dates, cities and proper venue names;
+    # retain it verbatim rather than making translation a prerequisite.
+    if re.match(r'^\d{1,2}/\d{1,2}\s+[A-Z]', text):
+        return text
     load_translation_cache()
-    if text in _translation_cache and '__KEEP_' not in _translation_cache[text] and not contains_english_prose(_translation_cache[text]):
+    if (text in _translation_cache and '__KEEP_' not in _translation_cache[text]
+            and not contains_english_prose(_translation_cache[text])
+            and translation_numbers(text) == translation_numbers(_translation_cache[text])):
         return _translation_cache[text]
     if bot._looks_russian(text) and not contains_english_prose(text):
         _translation_cache[text] = text
@@ -308,16 +348,11 @@ def translate_to_ru(text):
     # MyMemory rejects requests over 500 characters even with HTTP 200.
     # Use a common safe limit for every provider, including sentence fallback.
     sentences = bot.split_sentences(protected) or [protected]
-    chunks, current = [], ""
+    chunks = []
     for sentence in sentences:
-        candidate = (current + " " + sentence).strip()
-        if current and len(candidate) > 450:
-            chunks.append(current)
-            current = sentence
-        else:
-            current = candidate
-    if current:
-        chunks.append(current)
+        # Translate each sentence independently: models sometimes drop the
+        # final sentence when several statements are passed together.
+        chunks.append(sentence)
     normalized = []
     for chunk in chunks:
         while len(chunk) > 450:
@@ -374,6 +409,8 @@ def prepare_texts(cand):
     article_paragraphs = fetch_full_article(cand["link"])
     rss_text = clean_source_text(cand.get("rss_body", ""))
     rss_paragraphs = full_rss_paragraphs(rss_text)
+    if cand['source'] == 'Metal Injection' and not article_paragraphs:
+        raise ArticleContentUnavailable('Metal Injection full page unavailable; RSS contains only an excerpt')
     article_size = sum(map(len, article_paragraphs))
     rss_size = sum(map(len, rss_paragraphs))
     if (cand["source"] in {"Darkside", "ThePRP"} and article_paragraphs) or (article_size >= 500 and article_size >= rss_size * 0.75):
@@ -399,6 +436,7 @@ def prepare_texts(cand):
         _prepared_article_text[cand["id"]] = {
             "original": [re.sub(r"\s+", " ", p).strip() for p in source_paragraphs if p.strip()],
             "translated": translated,
+            "content_complete": chosen == 'page',
         }
     print(f"ARTICLE {cand['source']}: page={article_size} chars; rss={rss_size} chars; chosen={chosen}; saved={sum(map(len, translated))} chars/{len(translated)} paragraphs")
     return short, translated
@@ -419,6 +457,7 @@ def prepare_article(cand):
     prepared = _prepared_article_text.pop(cand["id"], {})
     if cand['source'] != 'Darkside' and prepared.get('original'):
         article['original_paragraphs'] = prepared['original']
+        article['content_complete'] = prepared.get('content_complete', False)
     if _article_translation_failed:
         # Keep the complete cleaned source available while public translation
         # providers are unavailable. The item remains marked for later retry.
@@ -446,28 +485,35 @@ def retry_saved_translations(limit=2):
     data = bot.load_articles()
     attempts = 0
     changed = False
-    for article in data["articles"]:
+    for article in sorted(data["articles"], key=lambda item: item.get('translation_last_attempt', 0)):
         if article.get("source") == "Darkside":
             continue
         texts = [article.get("title", "")] + article.get("paragraphs", [])
-        pending = article.get("translation_pending") or any(
+        pending = article.get("translation_pending") or article.get('content_pending') or any(
             '__KEEP_' in text or (not bot._looks_russian(text) and contains_english_prose(text))
             or re.search(r'\b(?:This|The|Their|It|They)\s+[a-z]+(?:\s+[a-z]+){3,}', text)
             for text in texts
         )
         if not pending:
             continue
-        article["translation_pending"] = True
+        if not article.get('content_pending'):
+            article["translation_pending"] = True
         changed = True
         if attempts >= limit or time.time() < article.get("translation_retry_after", 0):
             continue
         attempts += 1
+        article['translation_last_attempt'] = int(time.time())
         cand = {"id": article["id"], "title": article.get("original_title", article["title"]), "source": article["source"],
                 "category": article["category"], "link": article["original_url"],
                 "published": bot.parse_datetime(article["published"]),
             "rss_body": "\n\n".join(article.get("original_paragraphs", article["paragraphs"]))}
         try:
             result = prepare_article(cand)
+        except ArticleContentUnavailable as exc:
+            print('Saved article content pending:', article['id'], exc)
+            article['content_pending'] = True
+            article['translation_retry_after'] = int(time.time()) + 300
+            continue
         except TranslationUnavailable as exc:
             print("Saved article translation pending:", article["id"], exc)
             article["translation_retry_after"] = int(time.time()) + 3600
@@ -478,6 +524,9 @@ def retry_saved_translations(limit=2):
             continue
         article.update({key: result[key] for key in ("title", "short", "paragraphs", "artists", "topics", "original_title")})
         article.pop("translation_pending", None)
+        article.pop('content_pending', None)
+        article.pop('content_status', None)
+        article['content_complete'] = result.get('content_complete', False)
         if result.get('original_paragraphs'):
             article['original_paragraphs'] = result['original_paragraphs']
         article.pop("translation_retry_after", None)
