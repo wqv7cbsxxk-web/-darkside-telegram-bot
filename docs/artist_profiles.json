@@ -1042,7 +1042,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://foofighters.com",
       "reference_url": "https://en.wikipedia.org/wiki/Foo_Fighters",
-      "reference_checked_at": "2026-10-02T02:22:32.346829+00:00"
+      "reference_checked_at": "2026-10-02T02:22:32.346829+00:00",
+      "tour_attempted_at": "2026-10-03T03:30:58.033205+00:00"
     },
     "gentle-giant": {
       "origin": "Portsmouth , England",
@@ -1052,7 +1053,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://gentlegiantband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gentle_Giant",
-      "reference_checked_at": "2026-10-02T02:22:38.684883+00:00"
+      "reference_checked_at": "2026-10-02T02:22:38.684883+00:00",
+      "tour_attempted_at": "2026-10-03T03:30:58.841082+00:00"
     },
     "genesis": {
       "origin": "Godalming , Surrey , England",
@@ -1062,7 +1064,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://genesis-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Genesis_%28band%29",
-      "reference_checked_at": "2026-10-02T02:22:38.929723+00:00"
+      "reference_checked_at": "2026-10-02T02:22:38.929723+00:00",
+      "tour_attempted_at": "2026-10-03T03:30:59.229009+00:00"
     },
     "ghost": {
       "origin": "Linköping , Östergötland , Sweden",
@@ -1077,7 +1080,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ghost-official.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29",
-      "reference_checked_at": "2026-10-02T02:22:39.085442+00:00"
+      "reference_checked_at": "2026-10-02T02:22:39.085442+00:00",
+      "tour_attempted_at": "2026-10-03T03:30:59.544226+00:00"
     },
     "gorgoroth": {
       "origin": "Hyllestad , Sognefjord , Norway",
