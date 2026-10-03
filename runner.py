@@ -89,7 +89,7 @@ def clean_source_text(text):
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
     m = re.search(r"\b(?:the|korea)\s+post\b.*?\bappeared\s+first\s+on\b", text, flags=re.I | re.S)
     if m:
-        text = text[:m.start()].rstrip(" .,:;-\n")
+        text = text[:m.start()].rstrip()
     text = re.sub(r"\b(?:continue reading|read more|read the full article)\b.*$", "", text, flags=re.I | re.S).strip()
     text = re.sub(r"\bthis article\b.*?\boriginally appeared (?:on|at)\b.*$", "", text, flags=re.I | re.S).strip()
     lines = [line.strip() for line in text.splitlines() if line.strip()]
