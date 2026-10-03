@@ -16,7 +16,7 @@ console.log('Music data: exact birthday age, deceased age, partial dates, period
 const fs=require('node:fs');const bundled=JSON.parse(fs.readFileSync('docs/music_cache.json','utf8'));
 for(const response of Object.values(bundled))response._retrieved_at=new Date().toISOString();
 m.seed(bundled);global.fetch=async()=>{throw Error('Unexpected HTTP request for cached albums')};
-m.albums('Q162586').then(rows=>{assert.ok(rows.some(a=>a.name==='Images and Words'));console.log('Bundled album cache survives URL encoding differences.');}).catch(e=>{console.error(e);process.exitCode=1});
+m.albums('Q162586').then(rows=>{assert.ok(rows.some(a=>a.name==='Images and Words'));assert.deepEqual(rows.map(a=>a.date),rows.map(a=>a.date).sort().reverse());console.log('Bundled album cache survives URL encoding differences.');}).catch(e=>{console.error(e);process.exitCode=1});
 const searchUrl='https://www.wikidata.org/w/api.php?'+new URLSearchParams({action:'wbsearchentities',search:'ABBA',language:'en',uselang:'ru',limit:12,format:'json',origin:'*'});
 m.seed({[searchUrl]:{search:[{id:'Q999999100',label:'ABBA',description:'шведская поп-группа'},{id:'Q999999101',label:'ABBA',description:'альбом группы ABBA'}]},'https://www.wikidata.org/test-fixture':{entities:{Q999999100:{id:'Q999999100',claims:{P31:[claim({id:'Q215380'})]}},Q999999101:{id:'Q999999101',claims:{P31:[claim({id:'Q482994'})]}}}}});
 m.search('ABBA').then(rows=>{assert.equal(rows.length,1);assert.equal(rows[0].qid,'Q999999100');console.log('Artist search rejects an identically named album.');}).catch(e=>{console.error(e);process.exitCode=1});

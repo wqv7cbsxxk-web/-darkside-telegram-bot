@@ -129,3 +129,12 @@ class PipelineTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class ArticleOrderTests(unittest.TestCase):
+    def test_newest_articles_are_retained_when_old_backlog_is_saved(self):
+        with tempfile.TemporaryDirectory() as directory, patch.object(bot, "ARTICLES_FILE", str(Path(directory) / "articles.json")), patch.object(bot, "MAX_ARTICLES", 2):
+            for ident, date in [("new", "2026-10-03T12:00:00Z"), ("middle", "2026-10-02T12:00:00Z"), ("old", "2026-10-01T12:00:00Z")]:
+                bot.save_article({"id": ident, "published": date})
+            rows = json.loads(Path(bot.ARTICLES_FILE).read_text())["articles"]
+            self.assertEqual([x["id"] for x in rows], ["new", "middle"])

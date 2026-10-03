@@ -11,19 +11,19 @@ async function boot(search=''){
  const {document,window:domWindow}=parseHTML(fs.readFileSync('docs/index.html','utf8'));
  const window={Event:domWindow.Event};
  Object.defineProperty(domWindow.HTMLSelectElement.prototype,'value',{configurable:true,get(){return [...this.options].find(x=>x.selected)?.value||'';},set(value){for(const o of this.options)o.selected=o.value===String(value);}});
- const handlers={};
+ const handlers={},timers=[];let feed=articles,fail=false;
  window.scrollY=0;window.scrollTo=({top})=>window.scrollY=top;
  window.addEventListener=(name,fn)=>handlers[name]=fn;
  window.matchMedia=()=>({matches:false,addEventListener(){}});
  // Toast timing is irrelevant to the assertions and must not slow CI.
  window.setTimeout=()=>1;
  window.MusicData={seed(){},span:(b,e)=>(b?.text||'?')+' → '+(e?.text||'?'),async search(){return [{id:'wd:Q1779',qid:'Q1779',name:'ABBA',description:'шведская поп-группа'}]},async group(b){return {qid:'Q1',entity:{labels:{}},members:[],wikiMembers:[],description:'Описание из источника',source_url:'https://www.wikidata.org/wiki/Q1'}},async albums(){return [{id:'wiki:Images and Words',name:'Images and Words',date:'1992'}]},async albumByTitle(){return {name:'Images and Words',tracks:[{title:'Pull Me Under',number:'1'}],credits:[{text:'Mike Portnoy – drums',title:'Mike Portnoy'}],wiki_url:'https://en.wikipedia.org/wiki/Images_and_Words'}},async personByTitle(){return {name:'Mike Portnoy',projects:[],age:59,instruments:'drums'}}};
- const context={document,window,URLSearchParams,Date,String,Map,Set,console,history:{replaceState(){}},location:{search,pathname:'/'},localStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v)},fetch:async url=>({ok:true,json:async()=>url.startsWith('articles.json')?articles:url.startsWith('artists.json')?catalog:url.startsWith('artist_profiles.json')?profiles:{}}),setTimeout:()=>1,clearTimeout(){}};
+ const context={document,window,URLSearchParams,Date,String,Map,Set,console,history:{replaceState(){}},location:{search,pathname:'/'},localStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v)},fetch:async url=>({ok:!fail,json:async()=>url.startsWith('articles.json')?feed:url.startsWith('artists.json')?catalog:url.startsWith('artist_profiles.json')?profiles:{}}),setTimeout:(fn,delay)=>{timers.push({fn,delay});return timers.length;},clearTimeout(){}};
  vm.runInNewContext(script,context);await new Promise(r=>setImmediate(r));
  const app=window.MetalNews;
  const click=selector=>{const el=document.querySelector(selector);assert(el,'Missing '+selector);el.dispatchEvent(new window.Event('click',{bubbles:true}));};
  const change=(el,value)=>{assert(el);if(el.type==='checkbox')el.checked=value;else el.value=String(value);el.dispatchEvent(new window.Event('change',{bubbles:true}));};
- return {document,window,app,click,change,handlers};
+ return {document,window,app,click,change,handlers,timers,setFeed:data=>feed=data,setFailure:value=>fail=value};
 }
 (async()=>{
  storage.set('metal-news.preferences.v1',JSON.stringify({favorites:['opeth'],blocked:[],saved:[],custom:[]}));
@@ -57,5 +57,14 @@ async function boot(search=''){
  app.openSettings();for(const row of document.querySelectorAll('.setting-check'))if(articles.articles.some(a=>a.source===row.textContent))change(row.querySelector('input'),false);app.closeSettings();app.setView('all');app.setView('all');assert.equal(app.selectArticles(articles.articles).length,0);assert(document.querySelector('#list').textContent.includes('Изменить фильтры'));
  // Mark read after scrolling; exact title/url navigation is preserved.
  app.openArticle(story);window.scrollY=200;handlers.scroll();assert(app.preferences.read.includes(story.id));
+ // A successful initial request must keep polling; newly published news goes first.
+ storage.clear();const live=await boot();assert.equal(live.timers.at(-1).delay,60000);
+ const fresh={...articles.articles[0],id:'fresh',title:'Самая свежая новость',published:'2026-10-03T12:00:00Z'};
+ live.setFeed({articles:[articles.articles[0],fresh,...articles.articles.slice(1)]});
+ await live.timers.at(-1).fn();assert.equal(live.document.querySelector('#list .headline').textContent,fresh.title);
+ const visible=live.document.querySelector('#list').textContent;
+ live.setFailure(true);await live.app.refresh();assert.equal(live.document.querySelector('#list').textContent,visible);assert.equal(live.timers.at(-1).delay,30000);
+ live.setFailure(false);live.app.openArticle(fresh);live.setFeed(articles);await live.app.refresh();assert.equal(live.app.state.current.id,'fresh','refresh must preserve an open article even if it leaves the archive');assert.equal(live.timers.at(-1).delay,60000);
+ assert.deepEqual(Array.from(live.app.newestFirst([{date:'1992'},{date:''},{date:'2025'}],'date'),x=>x.date),['2025','1992','']);
  console.log('Redesign: migration, root tabs, persisted filters/theme, complete deep links, scroll/back stacks, musician/album navigation and archived saved snapshots verified.');
 })().catch(e=>{console.error(e);process.exitCode=1});
