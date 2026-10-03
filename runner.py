@@ -7,6 +7,7 @@ from pathlib import Path
 from urllib.parse import quote, urlsplit
 
 import bot
+import local_translation
 from article_index import index_article
 
 # Metal News v5 text layer.
@@ -73,6 +74,8 @@ def call_translation_provider(provider, text):
         raise
 
 EXTRA_PROTECTED_NAMES = [
+    'Enter Shikari', 'Imminence', 'Alienist', 'SLAM BAND', 'Filth', 'Lzzy Hale',
+    'Noel Gallagher', 'Oasis', 'Autumn Tomb', 'The Sword', 'Zombi', 'Jacob Churchward',
     "Thrice", "Slipknot", "Marilyn Manson", "Set Your Goals",
     "Metal Injection", "Blabbermouth", "Decibel", "ThePRP",
     "No Clean Singing", "Louder", "Ultimate Classic Rock",
@@ -165,6 +168,10 @@ def fetch_full_article(url):
             return clean_article_paragraphs(paragraphs)
         candidates = [soup.find("article"), soup.find("main"), soup.select_one(".entry-content"), soup.select_one(".post-content"), soup.select_one(".article-content"), soup.select_one(".td-post-content")]
         container = next((x for x in candidates if x is not None), soup)
+        for tag in container.find_all(['a', 'i', 'em', 'strong', 'b']):
+            name = tag.get_text(' ', strip=True)
+            if _looks_like_release_title(name):
+                _page_entities.add(name)
         paragraphs, seen = [], set()
         bad_phrases = ("subscribe to", "sign up", "cookie", "privacy policy", "advertisement", "follow us", "related:", "newsletter", "all rights reserved", "share this", "recommended for you", "you may also like", "the latest news, features and interviews direct to your inbox", "you must confirm your public display name before commenting", "please logout and then login again")
         for p in container.find_all("p"):
@@ -187,6 +194,8 @@ def fetch_full_article(url):
 
 def _looks_like_release_title(value):
     value = value.strip(" ,.;:!?")
+    if re.search(r"\b(?:you are|we are|i am|i'm|we're|they are|will be|do not|don't)\b", value, re.I):
+        return False
     words = re.findall(r"[A-Za-zА-Яа-яЁё0-9]+", value)
     if not 1 <= len(words) <= 8 or len(value) > 90:
         return False
@@ -211,7 +220,7 @@ def _protect_entities(text):
 
 
 def _restore_entities(text, kept):
-    for token, value in kept.items():
+    for token, value in reversed(list(kept.items())):
         text = text.replace(token, value)
     return text
 
@@ -222,12 +231,20 @@ def _translation_is_good(text):
     check = re.sub(r"__KEEP_\d+__", "", text)
     cyr = len(re.findall(r"[А-Яа-яЁё]", check))
     lat = len(re.findall(r"[A-Za-z]", check))
-    return (cyr >= 2 and cyr >= lat * 0.55) or cyr >= 30
+    return ((cyr >= 2 and cyr >= lat * 0.55) or cyr >= 30) and not contains_english_prose(text)
+
+
+def contains_english_prose(text):
+    protected, _ = _protect_entities(text)
+    check = re.sub(r'__KEEP_\d+__', '', protected)
+    phrases = re.findall(r"[A-Za-z][A-Za-z’'-]*(?:\s+[A-Za-z][A-Za-z’'-]*){2,}", check)
+    return any(not phrase.isupper() and re.search(r'\b(?:will|this|that|their|with|was|been|announces?|released?|says?)\b', phrase, re.I)
+               for phrase in phrases)
 
 
 def valid_provider_result(result, source):
     return _translation_is_good(result) and all(
-        token in result for token in re.findall(r"__KEEP_\d+__", source)
+        result.count(token) == source.count(token) for token in re.findall(r"__KEEP_\d+__", source)
     )
 
 
@@ -235,6 +252,8 @@ def _translate_chunk(chunk):
     global _article_translation_failed
     errors = []
     providers = (bot._translate_google, bot._translate_lingva, bot._translate_mymemory)
+    if local_translation.enabled():
+        providers = (local_translation.translate,) + providers
     for provider in providers:
         try:
             result = call_translation_provider(provider, chunk)
@@ -278,9 +297,9 @@ def translate_to_ru(text):
     if not text:
         return ""
     load_translation_cache()
-    if text in _translation_cache:
+    if text in _translation_cache and '__KEEP_' not in _translation_cache[text] and not contains_english_prose(_translation_cache[text]):
         return _translation_cache[text]
-    if bot._looks_russian(text):
+    if bot._looks_russian(text) and not contains_english_prose(text):
         _translation_cache[text] = text
         return text
     protected, kept = _protect_entities(text)
@@ -351,6 +370,7 @@ def full_rss_paragraphs(text):
 
 
 def prepare_texts(cand):
+    _page_entities.clear()
     article_paragraphs = fetch_full_article(cand["link"])
     rss_text = clean_source_text(cand.get("rss_body", ""))
     rss_paragraphs = full_rss_paragraphs(rss_text)
@@ -397,6 +417,8 @@ def prepare_article(cand):
     _article_translation_failed = False
     article = _base_prepare_article(cand)
     prepared = _prepared_article_text.pop(cand["id"], {})
+    if cand['source'] != 'Darkside' and prepared.get('original'):
+        article['original_paragraphs'] = prepared['original']
     if _article_translation_failed:
         # Keep the complete cleaned source available while public translation
         # providers are unavailable. The item remains marked for later retry.
@@ -421,7 +443,6 @@ bot.prepare_article = prepare_article
 def retry_saved_translations(limit=2):
     """Repair previously sent English prose without sending messages again."""
     load_translation_cache()
-    translated_values = set(_translation_cache.values())
     data = bot.load_articles()
     attempts = 0
     changed = False
@@ -430,9 +451,9 @@ def retry_saved_translations(limit=2):
             continue
         texts = [article.get("title", "")] + article.get("paragraphs", [])
         pending = article.get("translation_pending") or any(
-            text not in translated_values and not bot._looks_russian(text) and re.search(
-                r"\b(?:will|this|that|their|announces?|released?|says?|with|was|been)\b", text, re.I
-            ) for text in texts
+            '__KEEP_' in text or (not bot._looks_russian(text) and contains_english_prose(text))
+            or re.search(r'\b(?:This|The|Their|It|They)\s+[a-z]+(?:\s+[a-z]+){3,}', text)
+            for text in texts
         )
         if not pending:
             continue
@@ -444,7 +465,7 @@ def retry_saved_translations(limit=2):
         cand = {"id": article["id"], "title": article.get("original_title", article["title"]), "source": article["source"],
                 "category": article["category"], "link": article["original_url"],
                 "published": bot.parse_datetime(article["published"]),
-                "rss_body": "\n\n".join(article["paragraphs"])}
+            "rss_body": "\n\n".join(article.get("original_paragraphs", article["paragraphs"]))}
         try:
             result = prepare_article(cand)
         except TranslationUnavailable as exc:
@@ -457,7 +478,8 @@ def retry_saved_translations(limit=2):
             continue
         article.update({key: result[key] for key in ("title", "short", "paragraphs", "artists", "topics", "original_title")})
         article.pop("translation_pending", None)
-        article.pop("translation_retry_after", None)
+        if result.get('original_paragraphs'):
+            article['original_paragraphs'] = result['original_paragraphs']
         article.pop("translation_retry_after", None)
     if changed:
         Path(bot.ARTICLES_FILE).write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
