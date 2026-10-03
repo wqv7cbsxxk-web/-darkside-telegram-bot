@@ -104,7 +104,7 @@ class PipelineTests(unittest.TestCase):
             self.assertEqual(method, "sendMessage")
             self.assertNotIn("6. Wretched Spirits", payload["text"])
             self.assertTrue(payload["disable_web_page_preview"])
-            self.assertEqual(payload["reply_markup"]["inline_keyboard"][0][0]["web_app"]["url"], "https://example.com/?id=184168")
+            self.assertEqual(payload["reply_markup"]["inline_keyboard"][0][0]["web_app"]["url"], "https://example.com/?id=184168&v=20261003-2")
 
     def test_failed_translation_preserves_original_list_item(self):
         original = "6. Wretched Spirits, Land of the Light 06:14"
