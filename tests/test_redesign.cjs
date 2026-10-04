@@ -28,8 +28,10 @@ async function boot(search=''){
  return {document,window,app,click,change,handlers,timers,setFeed:data=>feed=data,setFailure:value=>fail=value};
 }
 (async()=>{
+ const html=fs.readFileSync('docs/index.html','utf8'),css=fs.readFileSync('docs/app.css','utf8');assert(html.includes('class="article-actions"')&&html.includes('class="reading-control"'));assert(css.includes('#articleTags{')&&css.includes('.article-actions button'));
  storage.set('metal-news.preferences.v1',JSON.stringify({favorites:['opeth'],blocked:[],saved:[],custom:[]}));
  const {app,document,window,click,change,handlers}=await boot();
+
  assert(app.preferences.favorites.includes('opeth'),'preserve legacy favorites');
  assert.equal(document.querySelectorAll('.nav [data-view]').length,4);
  click('[data-view="bands"]');assert(document.querySelector('.favorite-grid'),'favorites have a compact grid');assert(document.querySelector('.favorite-tile .favorite-open'));assert.equal(app.state.view,'bands');assert(document.querySelector('#list').textContent.includes('Opeth'));assert(!document.querySelector('#list').textContent.includes('Metallica'));
@@ -82,7 +84,7 @@ async function boot(search=''){
  scrollCase.app.setView('discover');assert.equal(scrollCase.document.querySelectorAll('.band-row').length,0);
  assert(!scrollCase.document.querySelector('.nav [data-view="discover"]'));
  assert(scrollCase.document.querySelector('.nav [data-view="concerts"]'));
- scrollCase.app.setView('concerts');assert(scrollCase.document.querySelectorAll('.concert-card').length>0);
+ scrollCase.app.setView('concerts');assert(scrollCase.document.querySelectorAll('.concert-card').length>0);assert.equal(scrollCase.document.querySelector('.genre-source')?.textContent,'Жанр: metal');
  const sample={...articles.articles[0],media:[{type:'image',url:'https://example.org/photo.jpg',caption:'Band'},{type:'video',url:'https://youtu.be/test'},{type:'image',url:'javascript:alert(1)'}]};
  scrollCase.app.openArticle(sample);assert.equal(scrollCase.document.querySelectorAll('.article-media img').length,1);assert.equal(scrollCase.document.querySelector('.media-link').href,'https://youtu.be/test');
  scrollCase.app.openNotifications();assert(scrollCase.document.querySelectorAll('.notification-row').length>0);
