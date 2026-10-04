@@ -9,7 +9,7 @@
       "venue": "Лофт-парк «Подземка»",
       "source_url": "https://live.mts.ru/novosibirsk/announcements/huzzy-b-0910-novosibirsk-podzemka?eventId=0",
       "source": "МТС Live",
-      "checked_at": "2026-10-04T01:34:12.492150+00:00"
+      "checked_at": "2026-10-04T01:43:23.974426+00:00"
     },
     {
       "id": "8e937aaafbe4d9fe8d63",
@@ -20,7 +20,7 @@
       "venue": "Лофт-парк «Подземка»",
       "source_url": "https://live.mts.ru/novosibirsk/announcements/chestnyy-v-novosibirske?eventId=28281772",
       "source": "МТС Live",
-      "checked_at": "2026-10-04T01:34:12.492185+00:00"
+      "checked_at": "2026-10-04T01:43:23.974464+00:00"
     },
     {
       "id": "cc5d7f7dcbaa0487503d",
@@ -31,7 +31,7 @@
       "venue": "Лофт-парк «Подземка»",
       "source_url": "https://live.mts.ru/novosibirsk/announcements/mukka-novosibirsk-13-oktyabrya-podzemka?eventId=28721617",
       "source": "МТС Live",
-      "checked_at": "2026-10-04T01:34:12.492202+00:00"
+      "checked_at": "2026-10-04T01:43:23.974477+00:00"
     },
     {
       "id": "2a5b099fbd7084f3ea72",
@@ -42,7 +42,7 @@
       "venue": "Лофт-парк «Подземка»",
       "source_url": "https://live.mts.ru/novosibirsk/announcements/cold-carti-1510-novosibirsk-podzemka?eventId=0",
       "source": "МТС Live",
-      "checked_at": "2026-10-04T01:34:12.492215+00:00"
+      "checked_at": "2026-10-04T01:43:23.974488+00:00"
     },
     {
       "id": "43ff01eab272b60fcd23",
@@ -53,7 +53,7 @@
       "venue": "Лофт-парк «Подземка»",
       "source_url": "https://live.mts.ru/novosibirsk/announcements/dimma-urih-1?eventId=28943313",
       "source": "МТС Live",
-      "checked_at": "2026-10-04T01:34:12.492228+00:00"
+      "checked_at": "2026-10-04T01:43:23.974500+00:00"
     },
     {
       "id": "5ec60973e6c95749eb4f",
@@ -64,7 +64,8 @@
       "venue": "Лофт-парк «Подземка»",
       "source_url": "https://live.mts.ru/novosibirsk/announcements/koncert-vektor-a-v-novosibirske?eventId=0",
       "source": "МТС Live",
-      "checked_at": "2026-10-04T01:34:12.492239+00:00"
+      "checked_at": "2026-10-04T01:43:23.974510+00:00"
     }
-  ]
+  ],
+  "checked_at": "2026-10-04T01:43:23.974518+00:00"
 }

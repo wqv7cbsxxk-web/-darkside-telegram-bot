@@ -1878,7 +1878,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://nightwish.com",
       "reference_url": "https://en.wikipedia.org/wiki/Nightwish",
-      "reference_checked_at": "2026-10-02T02:23:32.919110+00:00"
+      "reference_checked_at": "2026-10-02T02:23:32.919110+00:00",
+      "tour_attempted_at": "2026-10-04T01:43:03.061959+00:00"
     },
     "of-mice-men": {
       "origin": "",
@@ -1915,7 +1916,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://pearljam.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pearl_Jam",
-      "reference_checked_at": "2026-10-02T02:23:38.734210+00:00"
+      "reference_checked_at": "2026-10-02T02:23:38.734210+00:00",
+      "tour_attempted_at": "2026-10-04T01:43:03.471282+00:00"
     },
     "pain-of-salvation": {
       "origin": "Eskilstuna , Sweden",
@@ -1930,7 +1932,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://painofsalvation.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pain_Of_Salvation",
-      "reference_checked_at": "2026-10-02T02:23:38.911911+00:00"
+      "reference_checked_at": "2026-10-02T02:23:38.911911+00:00",
+      "tour_attempted_at": "2026-10-04T01:43:04.395246+00:00"
     },
     "ozzy-osbourne": {
       "origin": "Aston , Birmingham, England",
@@ -1940,7 +1943,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ozzy.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ozzy_Osbourne",
-      "reference_checked_at": "2026-10-02T02:23:39.151319+00:00"
+      "reference_checked_at": "2026-10-02T02:23:39.151319+00:00",
+      "tour_attempted_at": "2026-10-04T01:43:04.785323+00:00"
     },
     "powerman-5000": {
       "origin": "Boston, Massachusetts , U.S.",

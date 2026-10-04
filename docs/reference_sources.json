@@ -12,18 +12,682 @@
           "source_url": "https://hulder.bandcamp.com/album/verbolgen"
         },
         {
-          "name": "Godslastering: Hymns of a Forlorn Peasantry",
-          "date": "2021-01-22",
+          "name": "A Beacon From Darkened Skies",
+          "date": "2025-08-19",
           "kind": "release",
-          "source_url": "https://hulder.bandcamp.com/album/godslastering-hymns-of-a-forlorn-peasantry"
+          "source_url": "https://hulder.bandcamp.com/album/a-beacon-from-darkened-skies"
+        },
+        {
+          "name": "Winds of Autumnal Sorrow",
+          "date": "2025-01-01",
+          "kind": "release",
+          "source_url": "https://hulder.bandcamp.com/album/winds-of-autumnal-sorrow"
         },
         {
           "name": "Verses in Oath",
           "date": "2024-04-04",
           "kind": "release",
           "source_url": "https://hulder.bandcamp.com/album/verses-in-oath"
+        },
+        {
+          "name": "Benighted In Blood",
+          "date": "2022-12-30",
+          "kind": "release",
+          "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
+        }
+      ],
+      "bandcamp_checked_at": "2026-10-04T01:43:22.035103+00:00"
+    },
+    "ac-dc": {
+      "name": "AC/DC",
+      "musicbrainz_url": "https://musicbrainz.org/artist/66c662b6-6e2f-4930-8610-912e24c63ed1",
+      "reference_checked_at": "2026-10-04T01:43:12.106742+00:00",
+      "genres": "blues rock, classic rock, hard rock, rock, rock and roll",
+      "website": "https://www.acdc.com/",
+      "members": [
+        {
+          "name": "Angus Young",
+          "role": "guitar, original",
+          "begin": "1973-11"
+        },
+        {
+          "name": "Stevie Young",
+          "role": "guitar",
+          "begin": "2014-04"
+        },
+        {
+          "name": "Stevie Young",
+          "role": "background vocals",
+          "begin": "2014-04"
+        },
+        {
+          "name": "Brian Johnson",
+          "role": "lead vocals",
+          "begin": "2018-08"
+        },
+        {
+          "name": "Phil Rudd",
+          "role": "drums (drum set)",
+          "begin": "2018-08"
+        },
+        {
+          "name": "Cliff Williams",
+          "role": "background vocals",
+          "begin": "2018-08"
+        },
+        {
+          "name": "Cliff Williams",
+          "role": "bass guitar",
+          "begin": "2018-08"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/66c662b6-6e2f-4930-8610-912e24c63ed1",
+      "albums": [
+        {
+          "name": "Whole Lotta Rosie Vol. 2 (Live)",
+          "date": "2020-03-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/00195813-2e52-4feb-b6d8-f3deb4cea38b"
+        },
+        {
+          "name": "It’s a Long Way to the Top (If You Wanna Rock ’n’ Roll)",
+          "date": "1975-12-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/003d1678-c263-3b6b-9212-920b0e04c181"
+        },
+        {
+          "name": "The Collection",
+          "date": "2012-11-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0275d14a-9da2-4129-b02e-1a54a58759a2"
+        },
+        {
+          "name": "The Razors Edge",
+          "date": "1990-09-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/03759365-2f74-3f12-b884-280d3aa17f0e"
+        },
+        {
+          "name": "Family Jewels",
+          "date": "2005-03-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0380c273-c45a-3413-ab3a-afed023c5288"
+        },
+        {
+          "name": "Live",
+          "date": "1992-10-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0608c865-89be-32df-9473-7acbe734f850"
+        },
+        {
+          "name": "Girls Got Rhythm",
+          "date": "1979-11-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/06565200-68fe-3c4a-a4ab-7468f572a493"
+        },
+        {
+          "name": "Beating Around the Bush",
+          "date": "1980-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/06629ae9-f8e2-4948-90c7-4685146a7a58"
+        },
+        {
+          "name": "Let There Be Rock",
+          "date": "1977-10-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/082bcec9-2e2b-4c66-a67c-017c1850fa49"
+        },
+        {
+          "name": "Whole Lotta Rosie Vol. 1 (Live)",
+          "date": "2020-03-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0b0960e4-8094-4156-9200-5c5167e6d65a"
+        },
+        {
+          "name": "Are You Ready",
+          "date": "1991-04-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0e3cf020-506c-3e57-98bc-d9dff50a052a"
+        },
+        {
+          "name": "Highway to Hell",
+          "date": "1979-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/11019e1c-7eb7-4aaa-a69f-b2b342e3c32f"
+        },
+        {
+          "name": "High Voltage",
+          "date": "1975-06-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/11d2a2c1-b671-4771-a8b3-32822eae9232"
+        },
+        {
+          "name": "Powerage / For Those About to Rock",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/12e6eb62-436c-4ef9-aea0-2ed622c430ed"
+        },
+        {
+          "name": "Power Up",
+          "date": "2020-11-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/17841c18-e49d-45d6-b11b-db867ab6d452"
+        },
+        {
+          "name": "Backtracks",
+          "date": "2009-11-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1e481f99-f1c7-4624-a28c-ea88929d2f19"
+        },
+        {
+          "name": "Bonfire",
+          "date": "1997-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1ff3e238-2ce9-3cfa-9617-d0a5c7116964"
+        },
+        {
+          "name": "3 Record Set",
+          "date": "1980",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/21075907-5013-4d86-b116-379a800772c4"
+        },
+        {
+          "name": "T.N.T.",
+          "date": "1976-03-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/264b533c-5901-4bc9-a36f-022757060b5a"
+        },
+        {
+          "name": "Danger",
+          "date": "1985-08-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/27d5e2fd-51f5-4af5-992b-010f3edf9f29"
+        },
+        {
+          "name": "Rock Your Heart Out",
+          "date": "1991-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/280e478d-7522-30f1-98eb-6293d02c7695"
+        },
+        {
+          "name": "Volts",
+          "date": "1997-11-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/285eb586-72b7-4009-96fc-530d38de7f33"
+        },
+        {
+          "name": "Whole Lotta Rosie Vol. 2 (Live)",
+          "date": "2020-03-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2aac964b-a9e0-45b6-b0cd-121ee7867035"
+        },
+        {
+          "name": "High Voltage",
+          "date": "1975-02-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2b81e645-4586-4456-843a-9bc19a217470"
+        },
+        {
+          "name": "You Shook Me All Night Long",
+          "date": "1980-08-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2d65e57e-3335-4baa-8c74-3f512f454fc6"
+        },
+        {
+          "name": "AC/DC",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/301900ef-42b8-41d2-bce8-031411d574f7"
+        },
+        {
+          "name": "Ballbreaker / Highway to Hell",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3115365a-ccca-470f-9394-ccca96796290"
+        },
+        {
+          "name": "For Those About to Rock (We Salute You)",
+          "date": "1981-11-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/331084ff-497b-3e3a-958e-0fefdae80cb6"
+        },
+        {
+          "name": "Vol. 1",
+          "date": "1981",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3552c01a-9ef0-4335-b2f5-8b374d9268de"
+        },
+        {
+          "name": "Cover You in Oil",
+          "date": "1996-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3ba45731-8653-3f45-b343-c9d9f5917c64"
+        },
+        {
+          "name": "Guns for Hire",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3ff5b91a-074f-43c9-a558-0b895e85493b"
+        },
+        {
+          "name": "Whole Lotta Rosie Vol. 1 (Live)",
+          "date": "2020-03-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/408661b9-d80a-45c2-bc97-b79254ed43f6"
+        },
+        {
+          "name": "Ballbreaker",
+          "date": "1995-09-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/46fd6f83-e94a-3060-8457-13b8ea8e1262"
+        },
+        {
+          "name": "Moneytalks",
+          "date": "1990-11-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4e077fce-479e-3c9e-abb9-ce3de3aee356"
+        },
+        {
+          "name": "Who Made Who",
+          "date": "1986-05-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4e34b10b-ed62-37cc-9347-33a0bebfb058"
+        },
+        {
+          "name": "You Shook Me All Night Long (Live)",
+          "date": "2021-01-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4f3006e2-d5d8-487f-b99e-11cc6c1e1974"
+        },
+        {
+          "name": "Stiff Upper Lip",
+          "date": "2000-02-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5259dd42-3636-31c5-9311-d011b25af780"
+        },
+        {
+          "name": "Flick of the Switch / Let There Be Rock",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/56ebd150-dbb8-4fae-9c2f-aa199eda2e16"
+        },
+        {
+          "name": "Greatest Hits Broadcast Collection",
+          "date": "2024-07-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/582242bf-a50f-4361-988a-305a8c0e5cfd"
+        },
+        {
+          "name": "Double Dynamite 2 Originals",
+          "date": "1979",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5b908300-e915-4205-91c5-300df4129698"
+        },
+        {
+          "name": "Live at River Plate",
+          "date": "2012-11-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6b90494f-015e-4878-b18e-27b4766d2899"
+        },
+        {
+          "name": "Hells Bells",
+          "date": "1980-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6e931929-62d1-4b8d-af1a-8d309fffcf81"
+        },
+        {
+          "name": "Collector’s Crate",
+          "date": "2008-10-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6f49568f-1786-450a-bc0d-65775fad2351"
+        },
+        {
+          "name": "For Those About to Rock",
+          "date": "1982",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/723536ce-0b7f-4ba5-bdd7-514bdbb1ce73"
+        },
+        {
+          "name": "Rock and Roll Ain’t Noise Pollution",
+          "date": "1981-07-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/72bee2b7-af7d-4e4a-98fe-a6579979d005"
+        },
+        {
+          "name": "Back in Black",
+          "date": "1980",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/79c5075c-630c-498d-b7c6-d83b4a982490"
+        },
+        {
+          "name": "Thunder Box",
+          "date": "2026-06-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7ab043c8-090a-47ba-a119-45b42f8a7214"
+        },
+        {
+          "name": "Flick of the Switch",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7b1217ed-1d54-420c-bcd5-5f36346c4f3b"
+        },
+        {
+          "name": "Nervous Shakedown",
+          "date": "1983-09-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7d755711-677e-468f-a7a9-5ce1258815be"
+        },
+        {
+          "name": "Jailbreak",
+          "date": "1976-06-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/839abd45-5b8e-4c7c-a696-cada621e3b9b"
+        },
+        {
+          "name": "Boom Box",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/86c89f20-5e26-4346-8d3c-544e544f2c36"
+        },
+        {
+          "name": "Rock or Bust",
+          "date": "2014-11-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8bc8ca25-77ae-43a6-a242-038093dbcb08"
+        },
+        {
+          "name": "Dirty Deeds Done Dirt Cheap",
+          "date": "1976-10-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8dc9a7a2-3813-44b2-91c5-fe160fcbe774"
+        },
+        {
+          "name": "Flick of the Switch",
+          "date": "1983-08-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/91a288b8-8404-3d1e-991c-cdc837cf915d"
+        },
+        {
+          "name": "Vol. 2",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9a3052fb-7986-4bec-b458-744da18be5c2"
+        },
+        {
+          "name": "Sink the Pink",
+          "date": "1985",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9d5134e2-d6fc-4388-aaf5-b27e58cc9acb"
+        },
+        {
+          "name": "For Those About to Rock (We Salute You)",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9e8b7b01-637b-47a7-badb-7180a715208c"
+        },
+        {
+          "name": "Can I Sit Next to You, Girl",
+          "date": "1974-07-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9fc60817-1725-317a-84c1-7bb0d161cff9"
+        },
+        {
+          "name": "That’s the Way I Wanna Rock n Roll",
+          "date": "1988-03-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a15238b4-3263-340b-ade6-11c124278f04"
+        },
+        {
+          "name": "Heatseeker",
+          "date": "1988-01-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a2b87b4e-c31c-3142-bdeb-9848367fd1e2"
+        },
+        {
+          "name": "Whole Lotta Rosie Vol. 2 (Live)",
+          "date": "2020-03-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a91ef0c5-d35b-47bd-878e-b6af1ffbd3f3"
+        },
+        {
+          "name": "Love at First Feel",
+          "date": "1977-01-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a9637d3f-adac-48dd-9ae4-7feb509c1a24"
+        },
+        {
+          "name": "Fly on the Wall",
+          "date": "1985-06-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/af8a0f91-5326-3acb-b6e1-03a9b22d30e6"
+        },
+        {
+          "name": "Black Ice",
+          "date": "2008-10-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/afca53c1-c5b3-3f91-8590-281b0aa12722"
+        },
+        {
+          "name": "Whole Lotta Rosie (Live)",
+          "date": "2021-01-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b07d372e-b76a-4ee1-8536-247dfa719c27"
+        },
+        {
+          "name": "Let’s Get It Up",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b2f24b9e-a2a5-4ba1-8ac2-37e5719f80b2"
+        },
+        {
+          "name": "Shake Your Foundations",
+          "date": "1985-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ba147383-c3a1-4093-af52-3b66184b7260"
+        },
+        {
+          "name": "Blow Up Your Video",
+          "date": "1988-01-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/baab9433-37a8-32ee-a1d3-34c7d6cf6e69"
+        },
+        {
+          "name": "Let There Be Rock / Powerage",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bbb7ec70-ed50-4296-b681-c3b9c86d36a7"
+        },
+        {
+          "name": "Thunderstruck",
+          "date": "1990-09-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bf9efb49-57d4-3edb-ae4d-bc592ee28028"
+        },
+        {
+          "name": "High Voltage",
+          "date": "1976-05-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c7962404-3148-46ba-bf57-d96633079708"
+        },
+        {
+          "name": "Stiff Upper Lip",
+          "date": "2000-02-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c8dcd7b4-d104-3559-bc18-a62f559e912e"
+        },
+        {
+          "name": "Iron Man 2",
+          "date": "2010-04-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c915097c-9fcf-40fe-b808-51134ea79047"
+        },
+        {
+          "name": "Let There Be Rock",
+          "date": "1977-03-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c9673ff0-15b5-394d-a5ec-3d2a27dfce83"
+        },
+        {
+          "name": "If You Want Blood You’ve Got It",
+          "date": "1978-10-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cab2e7ae-e042-31e2-b403-d93159e5907b"
+        },
+        {
+          "name": "Against the Current",
+          "date": "1978",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ce4189cc-3bad-4eb6-8ef5-4e19b712c729"
+        },
+        {
+          "name": "Reunion in Dallas",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ce590bb9-5acd-4054-a3a6-4a420bff7f9e"
+        },
+        {
+          "name": "Rock ’n’ Roll Damnation",
+          "date": "1978-05-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ce931e79-89ed-4598-b768-bf8c08e0f6c3"
+        },
+        {
+          "name": "On the Highway to Melbourne the 1988 Hometown Broadcast",
+          "date": "2019-01-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cf4525ca-a0ff-43bf-aa58-8528d5418d3b"
+        },
+        {
+          "name": "The Complete Collection",
+          "date": "2012-11-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cfb028c0-4046-49bf-9b86-7018f3322c45"
+        },
+        {
+          "name": "Powerage",
+          "date": "1978-05-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d1b829ec-6112-3562-b38f-26949564e106"
+        },
+        {
+          "name": "Back in Black",
+          "date": "1980-07-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d3bc1a64-7561-3787-b680-0003aa50f8f1"
+        },
+        {
+          "name": "Hard as a Rock",
+          "date": "1995-09-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d4702669-2523-3a95-a705-5341ad332460"
+        },
+        {
+          "name": "1996 Ballbreaker Australian Tour EP",
+          "date": "1996-08-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d7422dbe-3f27-3d1b-9009-48a76052681e"
+        },
+        {
+          "name": "Problem Child",
+          "date": "1977-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d7d5c0ec-906c-493b-918e-b42932b00cae"
+        },
+        {
+          "name": "Dog Eat Dog",
+          "date": "1977-03-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/db199e31-dca1-420d-ab4c-c3c199cfd5b1"
+        },
+        {
+          "name": "T.N.T.",
+          "date": "1975-12-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e01e5b5c-5ca6-3876-b6ff-b9ad88dd71ee"
+        },
+        {
+          "name": "Whole Lotta Rosie",
+          "date": "1977-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e09e4d07-0b4d-46f5-b987-26c12a7b0947"
+        },
+        {
+          "name": "Box Set",
+          "date": "2000-11-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e13a1634-fd73-4338-a914-4c2ca2e2b97b"
+        },
+        {
+          "name": "’74 Jailbreak",
+          "date": "1984-10-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e39dbe62-9fd1-3f94-a695-6cc275e07587"
+        },
+        {
+          "name": "Rock and Roll Ain’t Noise Pollution",
+          "date": "1980-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e45e7c2b-d568-46cd-ac16-cb696f8eb643"
+        },
+        {
+          "name": "Baby, Please Don’t Go",
+          "date": "1975-03-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e71ced90-84a2-4534-95cf-0f41e6985c5a"
+        },
+        {
+          "name": "The Early Years",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e755a36c-8f1d-42d4-9d7d-86cc01b8c8c1"
+        },
+        {
+          "name": "Sight & Sound Collection",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f241944e-a0a9-44dc-9226-7aded16fe576"
+        },
+        {
+          "name": "Touch Too Much",
+          "date": "1980-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f2622cb3-8559-4516-92f0-82b0c8358dae"
+        },
+        {
+          "name": "Dirty Deeds Done Dirt Cheap",
+          "date": "1976-09-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f30734f4-333c-344c-98e9-71174cc5ebde"
+        },
+        {
+          "name": "Don't Switch the Power (PWR/UP Tour, Hippodrome Paris Longchamp, 13 août 2024)",
+          "date": "2024",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f5fe2912-b6e3-4b0a-bc93-0bb2f3060398"
+        },
+        {
+          "name": "Hail Caesar",
+          "date": "1995-12-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f6e6f465-5fec-350f-b08b-a43f18cfc864"
+        },
+        {
+          "name": "Highway to Hell",
+          "date": "1979-07-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f85647ec-a69b-3b0a-ad04-bb6076c4dcf1"
+        },
+        {
+          "name": "Dirty Deeds Done Dirt Cheap / The Razors Edge",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f9fd62e4-bf49-40ab-8405-27650753e03c"
         }
       ]
     }
+  },
+  "checked": {
+    "ac-dc": "2026-10-04T01:43:12.106995+00:00",
+    "accept": "2026-10-04T01:43:13.460406+00:00"
   }
 }
