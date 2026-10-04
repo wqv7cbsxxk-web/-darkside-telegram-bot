@@ -2087,7 +2087,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rammstein.de",
       "reference_url": "https://en.wikipedia.org/wiki/Rammstein",
-      "reference_checked_at": "2026-10-02T02:23:48.795639+00:00"
+      "reference_checked_at": "2026-10-02T02:23:48.795639+00:00",
+      "tour_attempted_at": "2026-10-04T02:35:42.597796+00:00"
     },
     "rainbow": {
       "origin": "Hertford , Hertfordshire , England",
@@ -2107,7 +2108,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ratm.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rage_Against_The_Machine",
-      "reference_checked_at": "2026-10-02T02:23:49.087898+00:00"
+      "reference_checked_at": "2026-10-02T02:23:49.087898+00:00",
+      "tour_attempted_at": "2026-10-04T02:35:43.006797+00:00"
     },
     "rush": {
       "origin": "Toronto , Ontario, Canada",
@@ -2126,7 +2128,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rush.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rush_%28band%29",
-      "reference_checked_at": "2026-10-02T02:23:54.281041+00:00"
+      "reference_checked_at": "2026-10-02T02:23:54.281041+00:00",
+      "tour_attempted_at": "2026-10-04T02:35:43.622068+00:00"
     },
     "sepultura": {
       "origin": "Belo Horizonte , Minas Gerais , Brazil",
@@ -2153,7 +2156,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://sepultura.com.br",
       "reference_url": "https://en.wikipedia.org/wiki/Sepultura",
-      "reference_checked_at": "2026-10-02T02:23:59.171144+00:00"
+      "reference_checked_at": "2026-10-02T02:23:59.171144+00:00",
+      "tour_attempted_at": "2026-10-04T02:35:44.459231+00:00"
     },
     "slayer": {
       "origin": "Huntington Park, California , U.S.",

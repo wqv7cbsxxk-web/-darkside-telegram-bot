@@ -1341,12 +1341,646 @@
           "source_url": "https://musicbrainz.org/release-group/ff98c692-e417-4c03-a208-eb2f511fc032"
         }
       ]
+    },
+    "alice-in-chains": {
+      "name": "Alice In Chains",
+      "musicbrainz_url": "https://musicbrainz.org/artist/4bd95eea-b9f6-4d70-a36c-cfea77431553",
+      "reference_checked_at": "2026-10-04T02:35:53.356692+00:00",
+      "genres": "acoustic rock, alternative metal, alternative rock, doom metal, glam metal, grunge, hard rock, heavy metal, rock, sludge metal, stoner metal",
+      "website": "https://aliceinchains.com/",
+      "members": [
+        {
+          "name": "Jerry Cantrell",
+          "role": "background vocals, electric guitar, lead vocals, original",
+          "begin": "1987"
+        },
+        {
+          "name": "Sean Kinney",
+          "role": "drums (drum set), original",
+          "begin": "1987"
+        },
+        {
+          "name": "Mike Inez",
+          "role": "bass guitar",
+          "begin": "1993-01-27"
+        },
+        {
+          "name": "William DuVall",
+          "role": "background vocals, electric guitar, lead vocals",
+          "begin": "2006"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/4bd95eea-b9f6-4d70-a36c-cfea77431553",
+      "albums": [
+        {
+          "name": "Johnny Steroid’s Last Show",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/01040d4a-536b-3bdf-a25f-d4281edda5c4"
+        },
+        {
+          "name": "Dirt / Facelift",
+          "date": "1993-10-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0908ce78-930f-41fb-b82b-b864260b08f5"
+        },
+        {
+          "name": "Live Facelift",
+          "date": "1991-07-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0cc67e9e-c609-4c3d-a922-bfdb3a9affab"
+        },
+        {
+          "name": "Angry Chair",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0ce1ba03-67a5-4a4e-b7eb-353da16ddf77"
+        },
+        {
+          "name": "Discover Beyond",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0d0fd06e-0029-4b10-96e7-97fabdbc26ad"
+        },
+        {
+          "name": "A Looking in View",
+          "date": "2009-06-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0d28f605-dbc8-4fc1-ae67-7e709b893dc2"
+        },
+        {
+          "name": "No Excuses",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0eece779-0568-43fa-93dd-c22e63ed9c1f"
+        },
+        {
+          "name": "…In Blunderland",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0f02f5c8-3144-3a51-a58f-86485eff810e"
+        },
+        {
+          "name": "Jar of Flies / Facelift / Dirt",
+          "date": "2001-09-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0f262b9c-b7b7-4a34-abcd-884f22210f3b"
+        },
+        {
+          "name": "Them Bones",
+          "date": "1993",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/14291f3f-24f2-4187-b6d6-d920c206fb23"
+        },
+        {
+          "name": "Sunshine",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/15b52598-2889-36ff-b983-fca527c976ff"
+        },
+        {
+          "name": "Bleed the Freak (American radio broadcast)",
+          "date": "2019",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1e8eeacf-cc41-451e-b9d3-f587fdf51023"
+        },
+        {
+          "name": "Man in the Box (American radio broadcast)",
+          "date": "2019",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1f461d16-ba25-4fb7-9ac6-f7a689a0c669"
+        },
+        {
+          "name": "Live & Unchained",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1f68f857-9f9d-3188-9ed5-3e5539a5e624"
+        },
+        {
+          "name": "Dirt & Sap",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/23b0c78d-5683-44f4-ad85-d83ec243ab92"
+        },
+        {
+          "name": "The World Is in Chains",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2561afb0-185c-3af4-a033-dcae39090216"
+        },
+        {
+          "name": "We Die Young",
+          "date": "2019",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/26a3ffba-a2e5-49cd-982a-f2f9be069999"
+        },
+        {
+          "name": "Original Album Classics",
+          "date": "2011-09-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/277db49b-3e41-4826-9c2b-3694e693a01d"
+        },
+        {
+          "name": "Nightland",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2aa2f593-eeab-4389-857e-7e769d03e1bc"
+        },
+        {
+          "name": "Nothing Safe: The Best of the Box",
+          "date": "1999-06-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2bc02541-210d-35bf-b465-eb27a1e65c30"
+        },
+        {
+          "name": "1992-11-28: Dirtiest Live: La Brique, Montreal, QC, Canada",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2dba1079-d5af-3aa7-9bdc-959b3a9efcdb"
+        },
+        {
+          "name": "Sap",
+          "date": "1992-02-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/31ca9d55-22a2-321c-8c49-6abf1b5d2539"
+        },
+        {
+          "name": "It Aint Like That (live)",
+          "date": "2019",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3a142b90-bd02-45f8-8333-76c2fcd981f5"
+        },
+        {
+          "name": "Jar of Flies",
+          "date": "1994-01-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3b6b7688-c97b-3d11-9334-3158468074f7"
+        },
+        {
+          "name": "Discover Further",
+          "date": "2010-11-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3ccbe6ca-e383-4534-b4f0-e116908246f7"
+        },
+        {
+          "name": "Seattle Connection, Part 1",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/445d8146-5acd-423c-9335-5e77b2bf2ba5"
+        },
+        {
+          "name": "Sea of Sorrow",
+          "date": "2015-09-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/459dc064-3f14-4c1e-a952-989680baa229"
+        },
+        {
+          "name": "Music Bank: The Videos + Nothing Safe: The Best of the Box",
+          "date": "2003-11-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/52443b1f-3a50-4328-8475-09155ef76fd1"
+        },
+        {
+          "name": "Tears",
+          "date": "2016-11-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/524ea9a0-de39-44ac-9b6d-f2d63f3481aa"
+        },
+        {
+          "name": "Alice in Chains",
+          "date": "1989",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5918ad2b-91e7-4edd-b8e9-dfb57afa0f80"
+        },
+        {
+          "name": "Get Born Again",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/591bb35c-3bbb-41bb-becf-6b478b50de70"
+        },
+        {
+          "name": "Man in the Box",
+          "date": "1991-03-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/59d540b1-a132-4d31-9a34-6ce63a17c644"
+        },
+        {
+          "name": "Discover",
+          "date": "2008-04-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5b418ba2-d425-333f-9de3-647dc1294b90"
+        },
+        {
+          "name": "Black Gives Way to Blue",
+          "date": "2009-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5bf55ee1-5074-4fbe-9cce-fde92e9161cf"
+        },
+        {
+          "name": "Up Close",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5c0ade9c-6e18-49eb-a297-5f72aea00cdb"
+        },
+        {
+          "name": "1994-02-23: Swarm: Osaka-jō Hall, Osaka, Japan",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/604b4857-31b6-34ec-aef8-73e64861ffd6"
+        },
+        {
+          "name": "Love Hate Live",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/617647a0-e3ff-37d1-b168-eb67a52878dd"
+        },
+        {
+          "name": "×2: Facelift / Alice in Chains",
+          "date": "2007-09-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/648d39d0-c399-4c02-9d73-ef10aa13de57"
+        },
+        {
+          "name": "Live on Air Tonight",
+          "date": "2022",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/64ccd5e1-51d3-4405-8781-4b7a941e703a"
+        },
+        {
+          "name": "Working Class Heroes",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/66356b94-2d23-357a-b2cd-2d3e7114891f"
+        },
+        {
+          "name": "Rainier Fog",
+          "date": "2018-08-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/66a00e64-afa2-409f-a5b0-8b5eaaa3f14b"
+        },
+        {
+          "name": "Over Now",
+          "date": "1995-11-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a7e77d5-5b4f-335d-9280-c03cef8169b4"
+        },
+        {
+          "name": "Stone",
+          "date": "2013-03-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6bd0c854-85b7-450f-9196-51266bf8fb32"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2001-07-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/716684b0-7f1a-3495-a652-3a8099c9e1d5"
+        },
+        {
+          "name": "FM Broadcast",
+          "date": "2020-10-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/73e4d1f5-b8eb-479f-b6d6-d2812670eca4"
+        },
+        {
+          "name": "Down in a Hole",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/76978ed1-4c60-4370-b768-eb8b253bd7bc"
+        },
+        {
+          "name": "Jar of Flies/ Sap",
+          "date": "2016-10-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/778031d3-bfaa-4aec-90f6-3ee1e9de4fa7"
+        },
+        {
+          "name": "Them Bones",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/795f20ee-8ac5-3737-ad17-74981fe5a9a5"
+        },
+        {
+          "name": "Hollow",
+          "date": "2013-01-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/799a0246-43b3-4942-abba-69a00296b936"
+        },
+        {
+          "name": "Facelift",
+          "date": "1990-08-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7d026b9c-9159-34b5-a40d-14f134718394"
+        },
+        {
+          "name": "The Nona Tapes",
+          "date": "1995-02-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7d5ece3f-55ce-4ee9-bb8e-4a581fa396b3"
+        },
+        {
+          "name": "Discover More",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7e908256-a8c0-4be2-be89-7cb98e400086"
+        },
+        {
+          "name": "U.S.A. 1993",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7e9dbfeb-39da-4070-afa8-10a1036a5d54"
+        },
+        {
+          "name": "The Devil Put Dinosaurs Here",
+          "date": "2013-05-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7f925584-7f01-4965-addf-e5d254f875d1"
+        },
+        {
+          "name": "Greatest Songs",
+          "date": "2018",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8647fa2c-1e28-4586-8f37-9f9e794ced07"
+        },
+        {
+          "name": "Dirty Toy Town",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/87cd63f8-0585-3dde-b621-9986e556a8f2"
+        },
+        {
+          "name": "The One You Know",
+          "date": "2018-05-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/88255f71-84cd-4ee8-af50-ed0eab04271e"
+        },
+        {
+          "name": "Boot!",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/884aab7d-7b3e-37ea-a6e2-5d7eaf74e95e"
+        },
+        {
+          "name": "What the Hell Have I",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/88f78add-bd13-415c-bb8a-056d89227e53"
+        },
+        {
+          "name": "Black Antenna",
+          "date": "2019",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8b9571b5-2a84-4154-b0d7-fbc48c4fd194"
+        },
+        {
+          "name": "1992‐11‐29: Concert Hall, Toronto, ON, Canada",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/912e4de0-df44-3493-9ea9-70d64f679da9"
+        },
+        {
+          "name": "Dirt",
+          "date": "1992-09-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/92d8f0c4-8c64-3bee-bee1-812a70e77efa"
+        },
+        {
+          "name": "Live in Oakland October 8th 1992",
+          "date": "2017-07-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9659a33f-6798-48cc-9098-85f14a01b96d"
+        },
+        {
+          "name": "1990‐11‐05: Marquee, Dallas, TX, USA",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/97653af2-7410-4eff-ac68-68c94f8ed5d3"
+        },
+        {
+          "name": "We Die Young",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9883cf9d-4c40-328a-a7c4-8dba838cf098"
+        },
+        {
+          "name": "Rooster",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/98bbe710-573c-4208-ab7b-87bd0f9bac5e"
+        },
+        {
+          "name": "1990-09-15: Sheraton La Reina, Los Angeles, CA, USA",
+          "date": "2015-09-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a1d9c419-345c-41f8-8d4b-bdc54e73e7a4"
+        },
+        {
+          "name": "Savage Messiah",
+          "date": "1993",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a45061bb-eb8a-4f65-a63e-fe3b98f8a492"
+        },
+        {
+          "name": "Music Bank",
+          "date": "1999-10-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a5112dbe-4ab0-3cbe-8451-6006f5b2aab9"
+        },
+        {
+          "name": "Live",
+          "date": "2000-12-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a5516cae-2097-3047-a7b6-86f740e83bda"
+        },
+        {
+          "name": "We Die Young",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ae925e75-36da-3f4c-90bf-2b8502aa508e"
+        },
+        {
+          "name": "Jar of Flies / Sap",
+          "date": "1994-01-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b0e3ce49-cac3-3850-b5fb-eccb6a8a2d9e"
+        },
+        {
+          "name": "Again",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b203eaf1-d16a-4cb3-83a3-99959c249e4c"
+        },
+        {
+          "name": "So Far Under",
+          "date": "2018-06-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b276f7c1-fa0a-40d1-9572-eedf208955c6"
+        },
+        {
+          "name": "1991-10-06: Hollywood Palladium, Los Angeles, CA, USA",
+          "date": "2015-02-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b522e38e-e5dd-4d97-a3aa-37c60c808c49"
+        },
+        {
+          "name": "Would?",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bb5379c9-507e-3915-ba85-9ff301f6b3f1"
+        },
+        {
+          "name": "2005‐02‐18: K‐ROCK Tsunami Continued Care Relief Concert, Premier, Seattle, WA, USA",
+          "date": "2005",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bd1e27e4-7e46-3225-9c62-6c6f21dc33d2"
+        },
+        {
+          "name": "The Best of Alice in Chains",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/be37d14c-1a0f-402e-819c-ffd1381c5b0b"
+        },
+        {
+          "name": "We Die Young",
+          "date": "1990-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c183caef-a475-42e9-af99-13b0b8e2a150"
+        },
+        {
+          "name": "1990-09-02: Motorized: Seattle Center, Seattle, WA, USA",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c2fb0917-88f1-442f-8c8d-0b448f09ecac"
+        },
+        {
+          "name": "The Treehouse Tapes",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c31f840b-bafa-45e4-99fa-aba3af71355d"
+        },
+        {
+          "name": "Dirt / MTV Unplugged",
+          "date": "2006-04-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c64bb896-e04b-43df-9c84-8a81e85a8f0b"
+        },
+        {
+          "name": "Rooster",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c727485b-17b3-3b6d-b188-0946741079bd"
+        },
+        {
+          "name": "Chained to the Studio",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cb3a601f-448f-3c5c-bfb3-fdcff122e4ca"
+        },
+        {
+          "name": "Check My Brain",
+          "date": "2009-08-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cdd6a95d-2113-4253-ad8a-33b2dcd5f02d"
+        },
+        {
+          "name": "Heaven Beside You",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cf5eb1fe-3e62-30d6-9190-ac8ffdf84cfa"
+        },
+        {
+          "name": "Grind",
+          "date": "1995-10-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d064dc52-999a-303c-9112-a37fe0d9940a"
+        },
+        {
+          "name": "Alice in Chains",
+          "date": "1995-11-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d2f5bcb9-a6e7-3d24-b2d6-95890b188c94"
+        },
+        {
+          "name": "Freak Show: California Broadcasts 1990 & 1992",
+          "date": "2016-07-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d398da57-1165-478c-982f-d5ace7db1117"
+        },
+        {
+          "name": "Heroin",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d545b876-50f7-394d-bed5-c023119347f7"
+        },
+        {
+          "name": "Dirty Rhythm",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/df2aa227-0d95-4a32-95f5-c084efd63e24"
+        },
+        {
+          "name": "The Essential Alice in Chains",
+          "date": "2006-07-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e1b7e76e-09ff-36fd-b1fd-0c6cb199b817"
+        },
+        {
+          "name": "1993: Come and Save Me: Paris, France",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ea12c28e-697a-3520-b760-3a1dbc29e3e8"
+        },
+        {
+          "name": "Music Bank: The Videos",
+          "date": "2001-08-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ebab9f77-3f82-41e2-a802-8ef0f4b56734"
+        },
+        {
+          "name": "Under the Knife",
+          "date": "2015-08-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f10eeaec-8039-4f59-a63e-642d62be510a"
+        },
+        {
+          "name": "Facelift / Dirt / Alice in Chains",
+          "date": "2003-12-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f33650e9-6b2a-46c6-8ea1-dbbcc69dfe73"
+        },
+        {
+          "name": "The Full Discover Package",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fb34dc2a-5038-448c-b135-e5558a286102"
+        },
+        {
+          "name": "MTV Unplugged",
+          "date": "1996-04-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fd9e039a-0a75-3b48-b7b5-66e66bd355fe"
+        },
+        {
+          "name": "Tilburg 1993",
+          "date": "",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ff1b4319-0034-4ab2-b78f-3b258b401153"
+        },
+        {
+          "name": "Never Fade",
+          "date": "2018-08-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ff6c7086-9eda-4b3e-95e6-251c0f1633c0"
+        }
+      ]
     }
   },
   "checked": {
     "ac-dc": "2026-10-04T01:43:12.106995+00:00",
     "accept": "2026-10-04T01:43:13.460406+00:00",
     "aerosmith": "2026-10-04T02:04:51.020073+00:00",
-    "alice-cooper": "2026-10-04T02:04:52.281767+00:00"
+    "alice-cooper": "2026-10-04T02:04:52.281767+00:00",
+    "alice-in-chains": "2026-10-04T02:35:53.356847+00:00",
+    "anthrax": "2026-10-04T02:35:54.644629+00:00"
   }
 }
