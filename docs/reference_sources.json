@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "hulder": {
+      "name": "Hulder",
+      "website": "https://hulder-official.com/",
+      "bandcamp_url": "https://hulder.bandcamp.com/music",
+      "albums": [
+        {
+          "name": "Verbolgen",
+          "date": "2026-08-07",
+          "kind": "release",
+          "source_url": "https://hulder.bandcamp.com/album/verbolgen"
+        },
+        {
+          "name": "Godslastering: Hymns of a Forlorn Peasantry",
+          "date": "2021-01-22",
+          "kind": "release",
+          "source_url": "https://hulder.bandcamp.com/album/godslastering-hymns-of-a-forlorn-peasantry"
+        },
+        {
+          "name": "Verses in Oath",
+          "date": "2024-04-04",
+          "kind": "release",
+          "source_url": "https://hulder.bandcamp.com/album/verses-in-oath"
+        }
+      ]
+    }
+  }
+}

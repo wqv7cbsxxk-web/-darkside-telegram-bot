@@ -10,6 +10,7 @@ const storage=new Map();
 async function boot(search=''){
  const {document,window:domWindow}=parseHTML(fs.readFileSync('docs/index.html','utf8'));
  document.getElementById('articlesSeed').textContent=JSON.stringify({...articles,generated_at:Date.now()});
+ document.getElementById('concertsSeed').textContent=JSON.stringify({events:[{id:'test-city-event',title:'Test band concert',date:'2099-10-09',time:'19:00',city:'Новосибирск',venue:'Test venue',source_url:'https://example.org/show'}]});
  const window={Event:domWindow.Event};
  Object.defineProperty(domWindow.HTMLSelectElement.prototype,'value',{configurable:true,get(){return [...this.options].find(x=>x.selected)?.value||'';},set(value){for(const o of this.options)o.selected=o.value===String(value);}});
  const handlers={},timers=[];let feed=articles,fail=false;
@@ -32,7 +33,7 @@ async function boot(search=''){
  assert(app.preferences.favorites.includes('opeth'),'preserve legacy favorites');
  assert.equal(document.querySelectorAll('.nav [data-view]').length,4);
  click('[data-view="bands"]');assert(document.querySelector('.favorite-grid'),'favorites have a compact grid');assert(document.querySelector('.favorite-tile .favorite-open'));assert.equal(app.state.view,'bands');assert(document.querySelector('#list').textContent.includes('Opeth'));assert(!document.querySelector('#list').textContent.includes('Metallica'));
- click('[data-view="all"]');const initial=document.querySelectorAll('#list article').length;assert(initial>2);assert(document.querySelector('.card.is-unread .read-state').textContent.includes('Не прочитано'));
+ click('[data-view="all"]');const initial=document.querySelectorAll('#list article').length;assert(initial>2);assert(document.querySelector('.card.is-unread .read-state').textContent.includes('Новая'));
  app.openSettings();assert(!document.querySelector('#settingsPanel').classList.contains('hidden'));
  const checks=[...document.querySelectorAll('.setting-check')];
  change(checks.find(x=>x.textContent==='Darkside').querySelector('input'),false);
@@ -67,5 +68,22 @@ async function boot(search=''){
  live.setFailure(true);await live.app.refresh();assert.equal(live.document.querySelector('#list').textContent,visible);assert.equal(live.timers.at(-1).delay,30000);
  live.setFailure(false);live.app.openArticle(fresh);live.setFeed(articles);await live.app.refresh();assert.equal(live.app.state.current.id,'fresh','refresh must preserve an open article even if it leaves the archive');assert.equal(live.timers.at(-1).delay,60000);
  assert.deepEqual(Array.from(live.app.newestFirst([{date:'1992'},{date:''},{date:'2025'}],'date'),x=>x.date),['2025','1992','']);
+
+ // Scrolling acknowledges only a headline visible long enough; opening is unnecessary.
+ storage.clear();const scrollCase=await boot();scrollCase.window.innerHeight=800;
+ const cards=[...scrollCase.document.querySelectorAll('.card')];
+ const id=cards[0].dataset.articleId, other=cards[1].dataset.articleId;
+ cards[0].querySelector('.headline').getBoundingClientRect=()=>({top:100,bottom:180,height:80});
+ cards[1].querySelector('.headline').getBoundingClientRect=()=>({top:1900,bottom:1980,height:80});
+ assert(!scrollCase.app.preferences.read.includes(id));
+ scrollCase.handlers.scroll();const dwell=scrollCase.timers.findLast(x=>x.delay===1200);assert(dwell);dwell.fn();
+ assert(scrollCase.app.preferences.read.includes(id));assert(!scrollCase.app.preferences.read.includes(other));
+ assert(cards[0].classList.contains('is-read'));assert.equal(scrollCase.app.state.current,null);
+ scrollCase.app.setView('discover');assert.equal(scrollCase.document.querySelectorAll('.band-row').length,0);
+ assert(!scrollCase.document.querySelector('.nav [data-view="discover"]'));
+ assert(scrollCase.document.querySelector('.nav [data-view="concerts"]'));
+ scrollCase.app.setView('concerts');assert(scrollCase.document.querySelectorAll('.concert-card').length>0);
+ scrollCase.app.openNotifications();assert(scrollCase.document.querySelectorAll('.notification-row').length>0);
+
  console.log('Redesign: migration, root tabs, persisted filters/theme, complete deep links, scroll/back stacks, musician/album navigation and archived saved snapshots verified.');
 })().catch(e=>{console.error(e);process.exitCode=1});
