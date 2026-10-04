@@ -2532,7 +2532,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://twistedsister.com",
       "reference_url": "https://en.wikipedia.org/wiki/Twisted_Sister",
-      "reference_checked_at": "2026-10-02T02:24:27.460773+00:00"
+      "reference_checked_at": "2026-10-02T02:24:27.460773+00:00",
+      "tour_attempted_at": "2026-10-04T19:58:58.353595+00:00"
     },
     "tool": {
       "origin": "Los Angeles , California, U.S.",
@@ -2559,7 +2560,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://toolband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Tool_%28band%29",
-      "reference_checked_at": "2026-10-02T02:24:27.471101+00:00"
+      "reference_checked_at": "2026-10-02T02:24:27.471101+00:00",
+      "tour_attempted_at": "2026-10-04T19:58:58.893470+00:00"
     },
     "ufo": {
       "origin": "London , England",
@@ -2569,7 +2571,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ufo.tmstor.es",
       "reference_url": "https://en.wikipedia.org/wiki/UFO_%28band%29",
-      "reference_checked_at": "2026-10-02T02:24:32.254768+00:00"
+      "reference_checked_at": "2026-10-02T02:24:32.254768+00:00",
+      "tour_attempted_at": "2026-10-04T19:58:59.033809+00:00"
     },
     "van-halen": {
       "origin": "Pasadena, California , U.S.",
@@ -2579,7 +2582,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://van-halen.com",
       "reference_url": "https://en.wikipedia.org/wiki/Van_Halen",
-      "reference_checked_at": "2026-10-02T02:24:32.587714+00:00"
+      "reference_checked_at": "2026-10-02T02:24:32.587714+00:00",
+      "tour_attempted_at": "2026-10-04T19:58:59.361444+00:00"
     },
     "whitesnake": {
       "origin": "London, England",

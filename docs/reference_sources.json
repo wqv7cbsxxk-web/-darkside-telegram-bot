@@ -3801,6 +3801,300 @@
           "source_url": "https://musicbrainz.org/release-group/fc3ddbd9-6e1b-3777-99f2-6ef324f2ad23"
         }
       ]
+    },
+    "blind-channel": {
+      "name": "Blind Channel",
+      "musicbrainz_url": "https://musicbrainz.org/artist/84cae50d-bdab-4597-89a3-0ebb06ca2247",
+      "reference_checked_at": "2026-10-04T19:59:06.893335+00:00",
+      "genres": "alternative rock, metal, nu metal, post-hardcore, rock",
+      "website": "https://www.blindchannelofficial.com/",
+      "members": [
+        {
+          "name": "Tommi Lalli",
+          "role": "drums (drum set)",
+          "begin": "2013"
+        },
+        {
+          "name": "Olli Matela",
+          "role": "bass",
+          "begin": "2013"
+        },
+        {
+          "name": "Niko Moilanen",
+          "role": "lead vocals",
+          "begin": "2013"
+        },
+        {
+          "name": "Joonas Porko",
+          "role": "background vocals",
+          "begin": "2013"
+        },
+        {
+          "name": "Joonas Porko",
+          "role": "guitar",
+          "begin": "2013"
+        },
+        {
+          "name": "Alex Mattson",
+          "role": "percussion, sampler",
+          "begin": "2020-10"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/84cae50d-bdab-4597-89a3-0ebb06ca2247",
+      "albums": [
+        {
+          "name": "Dark Side",
+          "date": "2021-01-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0019b54b-4664-4091-9547-ed7fd9c537d5"
+        },
+        {
+          "name": "We Are No Saints",
+          "date": "2021-11-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/064e9d3e-ec6f-4835-a286-f0dfb3126f38"
+        },
+        {
+          "name": "Snake",
+          "date": "2019-06-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0d655dbe-4f03-455c-8126-6e464e3da531"
+        },
+        {
+          "name": "Blood Brothers",
+          "date": "2018-04-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/18694391-2136-47e0-b241-7400cf1459b3"
+        },
+        {
+          "name": "Timebomb",
+          "date": "2019-03-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1adba53f-798a-41d6-a35d-4b443ce911f6"
+        },
+        {
+          "name": "Don't Fix Me",
+          "date": "2022-06-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22e29dfd-b7c0-4814-acc9-f37a481acdfc"
+        },
+        {
+          "name": "DEADZONE (idobi Session)",
+          "date": "2024",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/236ae3d3-1f11-4b3b-be49-ce1e3806f0f5"
+        },
+        {
+          "name": "Into the Void",
+          "date": "2026-10-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3a643e53-34d1-4cfc-a010-ac3943153422"
+        },
+        {
+          "name": "Out of Town",
+          "date": "2018-03-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3b732540-7d36-4c9a-8a85-0387fa9055b6"
+        },
+        {
+          "name": "Deadzone",
+          "date": "2023-08-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3b774321-5e1d-4408-8639-701fe1d25c83"
+        },
+        {
+          "name": "Sharks Love Blood",
+          "date": "2018-03-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/482cdb4a-0e36-47b9-a543-8bf014a34494"
+        },
+        {
+          "name": "Bad Idea",
+          "date": "2022-02-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/489a60df-34e9-4601-b762-c019c4e47df7"
+        },
+        {
+          "name": "Died Enough for You",
+          "date": "2019-11-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/49b9c412-0fa6-4f9e-92b1-1e4225235c3c"
+        },
+        {
+          "name": "Lifestyles of the Sick & Dangerous",
+          "date": "2022-07-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4a111951-00ef-4b43-845e-1eb1d48fe5d3"
+        },
+        {
+          "name": "Alive or Only Burning",
+          "date": "2022-09-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4d528cae-48c4-4d45-a522-500efd143c52"
+        },
+        {
+          "name": "Deja Fu",
+          "date": "2016-06-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4e7f9d83-31ec-48ac-8b15-843734e7ac75"
+        },
+        {
+          "name": "Revolutions",
+          "date": "2016-09-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/554a544a-8a37-4697-bdb0-07b63a62d958"
+        },
+        {
+          "name": "Over My Dead Body",
+          "date": "2018-11-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/576ad1fe-bea7-4b48-84e8-2049522dc830"
+        },
+        {
+          "name": "Left Outside Alone",
+          "date": "2020-07-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5be12028-04bf-4c3a-9934-af531179a59e"
+        },
+        {
+          "name": "Stars We See",
+          "date": "2026-09-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5c93246a-19e3-4d5c-a2a6-5a2f54fe0060"
+        },
+        {
+          "name": "Everybody (Backstreet's Back) (idobi session)",
+          "date": "2024",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6f8e7e9a-8050-47b2-a122-c9853b7f3f11"
+        },
+        {
+          "name": "Unforgiving",
+          "date": "2015-06-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7d8a8be0-af78-49c4-97e4-8f64844175be"
+        },
+        {
+          "name": "Exit Emotions",
+          "date": "2024-03-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7e05c5ae-2acd-48d2-b9fe-12f47b50a664"
+        },
+        {
+          "name": "Calling Out",
+          "date": "2014-03-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7e662580-8b1a-400d-992b-0167c2fdff1d"
+        },
+        {
+          "name": "Violent Pop",
+          "date": "2020-03-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/842af3ef-4b56-4b03-b231-fa80b8dcfb52"
+        },
+        {
+          "name": "Painstream",
+          "date": "2026-10-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/844d05fa-5c6f-4127-8b36-c978fd5ce0c2"
+        },
+        {
+          "name": "Naysayers",
+          "date": "2014-03-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8ed797f9-6bfc-4aa5-8fc9-2cb1feb9ae12"
+        },
+        {
+          "name": "Dark Side (idobi Session)",
+          "date": "2024",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/93d98f83-16b5-4a22-926e-df9ca3ccdc1c"
+        },
+        {
+          "name": "Enemy for Me",
+          "date": "2016-09-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/969e7b35-042f-4e2b-9586-e61c21ca1c70"
+        },
+        {
+          "name": "Balboa",
+          "date": "2021-08-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9a10c81d-00c8-435c-b4a2-3b6eacbd201f"
+        },
+        {
+          "name": "EVERYBODY (BLOODBROS BACK)",
+          "date": "2024-09-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b89b75bd-4912-439a-99e1-6bafb5e54d50"
+        },
+        {
+          "name": "HAPPY DOOMSDAY",
+          "date": "2023-05-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ba53407c-ff25-40f8-9969-f9f7d6dc8d32"
+        },
+        {
+          "name": "Don't",
+          "date": "2015-09-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/be2541c3-f842-456d-bccf-af40cab37eb7"
+        },
+        {
+          "name": "Foreshadow",
+          "date": "2015-06-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cf0a5824-be8d-4b92-bb1d-bec3941dac99"
+        },
+        {
+          "name": "FLATLINE",
+          "date": "2023-02-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d18e40b7-a420-4fb9-ad91-7ad8e42cb41c"
+        },
+        {
+          "name": "Diana/No Encores In a Swan Song",
+          "date": "2026-08-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d3719c07-d150-4d8f-bc14-5d2f07d9485c"
+        },
+        {
+          "name": "Bad Idea - Alex Mattson Remix",
+          "date": "2022-12-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d489067d-65ab-4658-b317-b02b711f7b53"
+        },
+        {
+          "name": "Can't Hold Us",
+          "date": "2017-03-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d8056485-df45-49f8-890c-8c7b6cfa1d6c"
+        },
+        {
+          "name": "Alone Against All",
+          "date": "2018-03-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dc0a1c14-9639-4739-a12a-ae6754974afc"
+        },
+        {
+          "name": "Fever",
+          "date": "2020-01-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ee0834a9-c467-4a78-9b8c-287b82f6a3f7"
+        },
+        {
+          "name": "Wolfpack",
+          "date": "2018-03-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f03a1c06-48aa-4812-b920-9a89b65ad3eb"
+        },
+        {
+          "name": "Darker Than Black",
+          "date": "2016-02-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f11c02a8-a963-42d4-af77-843b56c91d90"
+        }
+      ]
     }
   },
   "checked": {
@@ -3815,6 +4109,8 @@
     "ayreon": "2026-10-04T12:36:43.655909+00:00",
     "behemoth": "2026-10-04T12:36:44.904740+00:00",
     "between-the-buried-and-me": "2026-10-04T17:01:26.001056+00:00",
-    "black-sabbath": "2026-10-04T17:01:30.511096+00:00"
+    "black-sabbath": "2026-10-04T17:01:30.511096+00:00",
+    "blind-channel": "2026-10-04T19:59:06.893409+00:00",
+    "blue-oyster-cult": "2026-10-04T19:59:08.172017+00:00"
   }
 }
