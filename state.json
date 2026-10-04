@@ -327,7 +327,8 @@
     "fe7ff9177f6896d21d45327a2f2c70416cdb0595",
     "8f3645a9524d490a2bdf9c57531d09870a52321e",
     "fe90e8779886e44ab6a7d56c49f1f662aeb91ee1",
-    "7e8e3496334d6e1f966ae492d8b82f7b9273bb0c"
+    "7e8e3496334d6e1f966ae492d8b82f7b9273bb0c",
+    "76eaaf2cba507e4c6ae3ff5bde6cd38c6f77649a"
   ],
   "recent_titles": [
     {
@@ -974,6 +975,11 @@
       "title": "Metallica pull out the big guns and drop a deep cut on night two of their Sphere residency",
       "source": "Louder",
       "ts": 1791117343
+    },
+    {
+      "title": "“He stopped my vocal takes so many times because the dogs were fighting”: How Katatonia became Sweden’s answer to Tool",
+      "source": "Louder",
+      "ts": 1791133194
     }
   ],
   "initialized_sources": [
@@ -998,7 +1004,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T07:17:39+00:00",
       "id": "d221d52a23b9fd4592f27a04382b339c37371ad7",
-      "retry_after": 1791117681
+      "retry_after": 1791133557
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1010,7 +1016,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T04:17:42+00:00",
       "id": "6f43b0fcbe02d371a93b1c3fd1f1bcbae7360589",
-      "retry_after": 1791117682
+      "retry_after": 1791133559
     },
     {
       "source": "Metal Injection",
@@ -1022,7 +1028,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-01T17:12:56+00:00",
       "id": "25cfcf010d47132c62d05d103fd6b4383319ca8b",
-      "retry_after": 1791117682
+      "retry_after": 1791133559
     },
     {
       "source": "Louder",
@@ -1034,7 +1040,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T17:00:00+00:00",
       "id": "5da3ffc36fed1ebf581a093fa07b89f089e74819",
-      "retry_after": 1791117686
+      "retry_after": 1791133565
     },
     {
       "source": "Metal Injection",
@@ -1046,7 +1052,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-01T15:34:25+00:00",
       "id": "f9d084fa99db7cff6f1bfa766926b58683768fde",
-      "retry_after": 1791117687
+      "retry_after": 1791133565
     },
     {
       "source": "Metal Injection",
@@ -1058,7 +1064,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T15:18:06+00:00",
       "id": "1f015c5a80b88913c42e03b55e82204b7216bf13",
-      "retry_after": 1791117687
+      "retry_after": 1791133565
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1070,7 +1076,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T12:41:34+00:00",
       "id": "e68e36628a811ed8585afbcfcf42d0a4444026ca",
-      "retry_after": 1791117671
+      "retry_after": 1791133544
     },
     {
       "source": "Louder",
@@ -1082,7 +1088,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T11:14:38+00:00",
       "id": "947a38c8fba5e6f685164698839be2d60a8c085e",
-      "retry_after": 1791117673
+      "retry_after": 1791133547
     },
     {
       "source": "Louder",
@@ -1094,7 +1100,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T08:12:15+00:00",
       "id": "0dd606061d373d27d8c3c995d6240870e61834af",
-      "retry_after": 1791117678
+      "retry_after": 1791133553
     },
     {
       "source": "Metal Injection",
@@ -1106,7 +1112,7 @@
       "category": "Прогрессив",
       "published": "2026-10-02T17:34:15+00:00",
       "id": "bd4701e52104d02b3fa9d9c8a0074c6c5282d5aa",
-      "retry_after": 1791117664
+      "retry_after": 1791133534
     },
     {
       "source": "Metal Injection",
@@ -1118,7 +1124,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:55:06+00:00",
       "id": "5ad6921c06e7e524048e11b524256b2f70c57554",
-      "retry_after": 1791117664
+      "retry_after": 1791133534
     },
     {
       "source": "Metal Injection",
@@ -1130,7 +1136,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:19:04+00:00",
       "id": "d579c449412d504f22f4267c4dfba97b661fb2bb",
-      "retry_after": 1791117664
+      "retry_after": 1791133534
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1142,7 +1148,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T19:20:36+00:00",
       "id": "7ac2851f28e0a4a07ac271f63e3b24e302e2bb57",
-      "retry_after": 1791117664
+      "retry_after": 1791133534
     },
     {
       "source": "Louder",
@@ -1154,7 +1160,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-03T23:00:00+00:00",
       "id": "d7b0f04e4d5cc6bfde1d773c1597c5904adc4a73",
-      "retry_after": 1791117647
+      "retry_after": 1791133511
     },
     {
       "source": "Louder",
@@ -1166,7 +1172,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T20:00:00+00:00",
       "id": "0680ef74bd93e3bac6cd9a0f50940866c013a303",
-      "retry_after": 1791117650
+      "retry_after": 1791133514
     },
     {
       "source": "Metal Injection",
@@ -1178,7 +1184,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T15:49:54+00:00",
       "id": "4c556e3c4693b2825ab305fe46d6c6bb18174fcd",
-      "retry_after": 1791117650
+      "retry_after": 1791133514
     },
     {
       "source": "Metal Injection",
@@ -1190,7 +1196,7 @@
       "category": "Хард-рок",
       "published": "2026-10-03T15:42:44+00:00",
       "id": "0f2eef09fabc4707f1cfcbea0cc981e872e3d4b4",
-      "retry_after": 1791117650
+      "retry_after": 1791133514
     },
     {
       "source": "Metal Injection",
@@ -1202,7 +1208,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-03T15:02:00+00:00",
       "id": "16e9958f137e6ec57d1c760f156fb4a7c4175d0c",
-      "retry_after": 1791117650
+      "retry_after": 1791133514
     },
     {
       "source": "Louder",
@@ -1214,7 +1220,43 @@
       "category": "Прогрессив",
       "published": "2026-10-03T14:18:50+00:00",
       "id": "02a6de81053ceaf5e66a760b3286622d77ab2c6d",
-      "retry_after": 1791117652
+      "retry_after": 1791133517
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Jack Black Performs Insane \"War Pigs\" Cover With Black Sabbath's Geezer Butler at Tom Morello's Fest",
+      "link": "https://metalinjection.net/news/watch-jack-black-performs-insane-war-pigs-cover-with-black-sabbaths-geezer-butler-at-tom-morellos-fest",
+      "rss_body": "When comedian Jack Black and his Black Sabbath tribute band took the stage on Saturday night, they brought out a heavy hitter to assist with the heavy jams. Geezer Butler […]",
+      "tags": "Latest News In the News Black Sabbath jack black scott ian tom morello tony iommi geezer butler bill ward Ozzy Osbourne",
+      "category": "Хэви-метал",
+      "published": "2026-10-04T16:37:35+00:00",
+      "id": "8300ce8b81f61edf03d25ded1088d4e983522e71",
+      "retry_after": 1791133449
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The Best Deep Cut From Every Anthrax Album",
+      "link": "https://metalinjection.net/lists/the-best-deep-cut-from-every-anthrax-album",
+      "rss_body": "Twelve albums, twelve songs that never got the spotlight, and every one of them deserves a second look",
+      "tags": "Lists Anthrax featured2",
+      "category": "Хэви-метал",
+      "published": "2026-10-04T14:39:08+00:00",
+      "id": "5d6ea2f7c10e0fe824c1a6bf53bef6f153d85795",
+      "retry_after": 1791133495
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "No Repeats: Metallica Changes Entire Set at Second Sphere Show",
+      "link": "https://ultimateclassicrock.com/metallica-sphere-night-two/",
+      "rss_body": "The show included two songs that hadn’t been played in 11 and seven years respectively.",
+      "tags": "News Set List Metallica Sphere UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-04T13:22:56+00:00",
+      "id": "bc768fbed4bc42fa28ef5916932ee64c76a74318",
+      "retry_after": 1791133508
     }
   ]
 }
