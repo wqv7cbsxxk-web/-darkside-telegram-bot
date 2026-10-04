@@ -684,10 +684,669 @@
           "source_url": "https://musicbrainz.org/release-group/f9fd62e4-bf49-40ab-8405-27650753e03c"
         }
       ]
+    },
+    "aerosmith": {
+      "name": "Aerosmith",
+      "musicbrainz_url": "https://musicbrainz.org/artist/3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
+      "reference_checked_at": "2026-10-04T02:04:51.019835+00:00",
+      "genres": "aor, arena rock, blues rock, classic rock, glam metal, hard rock, rock, rock and roll",
+      "website": "https://www.aerosmith.com/",
+      "members": [
+        {
+          "name": "Tom Hamilton",
+          "role": "bass guitar, original",
+          "begin": "1970-10"
+        },
+        {
+          "name": "Tom Hamilton",
+          "role": "background vocals, original",
+          "begin": "1970-10"
+        },
+        {
+          "name": "Joey Kramer",
+          "role": "drums (drum set), original",
+          "begin": "1970-10"
+        },
+        {
+          "name": "Joey Kramer",
+          "role": "original, percussion",
+          "begin": "1970-10"
+        },
+        {
+          "name": "Steven Tyler",
+          "role": "harmonica, lead vocals, original, piano",
+          "begin": "1970-10"
+        },
+        {
+          "name": "Steven Tyler",
+          "role": "original, percussion",
+          "begin": "1970-10"
+        },
+        {
+          "name": "Joe Perry",
+          "role": "background vocals, guitar, original",
+          "begin": "1984-04"
+        },
+        {
+          "name": "Brad Whitford",
+          "role": "guitar",
+          "begin": "1984-04"
+        },
+        {
+          "name": "Brad Whitford",
+          "role": "background vocals",
+          "begin": "1984-04"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
+      "albums": [
+        {
+          "name": "Dream On",
+          "date": "1973-06-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/000515ae-33d9-4b21-886a-b2c11b8ab5e0"
+        },
+        {
+          "name": "Darkness",
+          "date": "1985",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0102d286-455a-4929-9e5d-a003f99456ff"
+        },
+        {
+          "name": "Classics Live!",
+          "date": "1986",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/028f6c48-907c-3a5c-b64f-c0e18e9a4371"
+        },
+        {
+          "name": "Pink",
+          "date": "1997-12-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0a758c68-ecce-3d00-aea9-94181f818c76"
+        },
+        {
+          "name": "Amazing",
+          "date": "1993-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/10a1a692-67e5-3700-8d5a-6db85af06dba"
+        },
+        {
+          "name": "Rock in a Hard Place",
+          "date": "1982-08-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1b1fddf5-4faa-3da6-a36b-b512f3e92046"
+        },
+        {
+          "name": "Music From Another Dimension!",
+          "date": "2012-11-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1ffa5a81-67c9-4e39-af6e-fcb4b101ddef"
+        },
+        {
+          "name": "Lover Alot",
+          "date": "2012-08-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/20db48fb-2031-4212-8d77-d61d98fdf65a"
+        },
+        {
+          "name": "Rocks Donington 2014",
+          "date": "2014-09-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/23bfbfde-7249-4dc2-80ac-180ccb54635e"
+        },
+        {
+          "name": "Rockin’ the Joint",
+          "date": "2005-10-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/27d22fb5-d92a-368d-a098-5942e5cbe9ec"
+        },
+        {
+          "name": "Get Your Wings",
+          "date": "1974-03-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/29346fb6-69c8-3f12-90c3-9d6cbce18259"
+        },
+        {
+          "name": "Aerosmith / Get Your Wings / Toys in the Attic",
+          "date": "1998-06-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2ce9ce9a-b9c1-48e2-ae51-73a5973c81a8"
+        },
+        {
+          "name": "Eat the Rich",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2e75b92a-0bf5-4aae-ae74-6c75d80b9ac2"
+        },
+        {
+          "name": "Just Push Play",
+          "date": "2001-03-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2fb275a3-1cd9-33b6-95e4-70fe3f092649"
+        },
+        {
+          "name": "Classics Live! Complete",
+          "date": "1998-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/32917855-d91f-3827-aa68-604cae59c3e4"
+        },
+        {
+          "name": "Fly Away From Here",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/334f33a9-ab45-4231-9557-cd8af34e93c5"
+        },
+        {
+          "name": "One More Time",
+          "date": "2025-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/33538f26-d59e-43cb-9c85-ea39f063433f"
+        },
+        {
+          "name": "Come Together",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/35b30301-472c-4bc5-8d7a-4a707e33337d"
+        },
+        {
+          "name": "A Little South of Sanity",
+          "date": "1998-10-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3f3762e8-d74c-3ee1-8c67-ccff034390f2"
+        },
+        {
+          "name": "Crazy",
+          "date": "1994-10-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4646d3f8-4c47-3ba9-8765-e514cd93de52"
+        },
+        {
+          "name": "Live Texxas Jam ’78",
+          "date": "1988",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/46720758-5d9b-4900-b708-ff16fa66deaf"
+        },
+        {
+          "name": "O, Yeah! Ultimate Aerosmith Hits",
+          "date": "2002-06-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/46b0f87b-0665-3110-ad6c-8fcf1811cd3a"
+        },
+        {
+          "name": "Pandora’s Toys",
+          "date": "1994-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/477255f2-78a9-39db-9a4c-f3eadd2e7285"
+        },
+        {
+          "name": "Made in America",
+          "date": "1997-03-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/48e673a8-6acd-3645-bb51-bff4bcad2f1b"
+        },
+        {
+          "name": "Rock for the Rising Sun",
+          "date": "2013-07-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4946bf87-eb17-421a-91e9-d1e71ef3c2bd"
+        },
+        {
+          "name": "Fever",
+          "date": "1994",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4959e663-9806-4d12-a172-678ad8cf7cb6"
+        },
+        {
+          "name": "Janie’s Got a Gun",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4fec98b9-3a13-3b6c-8cfe-3da1f21c3cff"
+        },
+        {
+          "name": "Chip Away the Stone",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/51769544-48c6-4d20-9d5c-a0d0a4d62ff3"
+        },
+        {
+          "name": "Sweet Emotion From Pandora’s Box",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/54c1f175-1282-367a-800b-830d4f33f2c2"
+        },
+        {
+          "name": "I Don’t Want to Miss a Thing",
+          "date": "1998-07-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/55fca8e9-74ee-352a-97a4-82fe299d3826"
+        },
+        {
+          "name": "Young Lust: The Aerosmith Anthology",
+          "date": "2001-11-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/56629ce5-f281-3fe3-8d43-4a40f55594ff"
+        },
+        {
+          "name": "2 for 1: Pump + Permanent Vacation",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/58193511-d309-4db2-832b-e834a8a48a27"
+        },
+        {
+          "name": "Night in the Ruts",
+          "date": "1979-11-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5aad45b5-1b5c-3764-9386-dd3efcc6a16d"
+        },
+        {
+          "name": "Live! Bootleg",
+          "date": "1978-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5b5b7af8-a499-3d7e-8cb2-9bd0bb448d7a"
+        },
+        {
+          "name": "Sweet Emotion",
+          "date": "1975-05-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5c342da5-1b5c-418c-a04e-c08d1a80fa82"
+        },
+        {
+          "name": "4 Original Albums",
+          "date": "2010-12-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5e045ca7-dec1-49ca-afb6-37eea83755a7"
+        },
+        {
+          "name": "1971: The Road Starts Hear",
+          "date": "2021-11-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5fd34829-f6ee-4a4d-bc41-cd4a3d5b18da"
+        },
+        {
+          "name": "The Collection: Presenting 3 Original Album Classics",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/651d489e-110a-4378-b78a-4c6f25dbd448"
+        },
+        {
+          "name": "Honkin’ on Bobo",
+          "date": "2003-03-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/65ad56ff-dcef-378c-b172-4a92aedb6958"
+        },
+        {
+          "name": "Angel",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/672481f0-3641-39a0-a903-6c6ed2c083bf"
+        },
+        {
+          "name": "Falling in Love (Is Hard on the Knees)",
+          "date": "1997-02-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6b20c189-d871-3986-a235-f6bf4a80735e"
+        },
+        {
+          "name": "Aerosmith’s Greatest Hits",
+          "date": "1980-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6feaecba-88b1-3a6a-91fb-2f6a3aacfada"
+        },
+        {
+          "name": "Get a Grip",
+          "date": "1993-04-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/73c6a7b0-1dc2-3ddc-a720-c29505271711"
+        },
+        {
+          "name": "Gems",
+          "date": "1988-11-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/741b9e5f-4c07-38fb-bc05-5e9117d1521d"
+        },
+        {
+          "name": "Wild Woman (Lainey Wilson version)",
+          "date": "2025-12-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/750662e7-d7f1-4f60-9862-e1bacf3dd574"
+        },
+        {
+          "name": "Legendary Child",
+          "date": "2012-05-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/765c5c0b-d205-44eb-a9bf-3c056a0434ee"
+        },
+        {
+          "name": "Shela",
+          "date": "1985",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/765fe8c3-01b7-4ecd-b8df-d439b12dd42d"
+        },
+        {
+          "name": "Rocks",
+          "date": "1976-05-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/775d9a2d-effc-35c8-b80a-f9a4e4206d27"
+        },
+        {
+          "name": "Same Old Song and Dance",
+          "date": "1974",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7a348960-d37f-4446-b44d-d64fff6cdfe3"
+        },
+        {
+          "name": "Nine Lives",
+          "date": "1997-03-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7b30dd01-ee8f-392c-862d-4598e46b83f8"
+        },
+        {
+          "name": "20th Century Masters: The Millennium Collection: The Best of Aerosmith",
+          "date": "2007-11-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8053ecaf-3b10-4a8a-a7af-3ad688da5c66"
+        },
+        {
+          "name": "Train Kept A Rollin’",
+          "date": "1974",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/816ab1ac-c48b-4411-b806-db25a9373a83"
+        },
+        {
+          "name": "You Gotta Move",
+          "date": "2004-11-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/82312566-bb34-35da-a0e3-321a47fe0218"
+        },
+        {
+          "name": "Mama Kin",
+          "date": "2026-01-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/855b71dc-6bc0-4ec6-ab56-cf1f44bc2459"
+        },
+        {
+          "name": "Cryin’",
+          "date": "1993-09-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8700a827-e3f7-4760-9561-cd8e24f15afb"
+        },
+        {
+          "name": "Classics Live! II",
+          "date": "1987-10-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8992201e-f6ee-3c55-8099-bc94f6d8a2ac"
+        },
+        {
+          "name": "Aerosmith",
+          "date": "1973-01-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8a58cc1a-be0d-3b1b-8d0d-aa8f467a59da"
+        },
+        {
+          "name": "Hole in My Soul",
+          "date": "1997-06-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8b1412c8-68fb-37a7-8801-b0762fd1b540"
+        },
+        {
+          "name": "Jaded",
+          "date": "2001-02-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8bcdd7a9-e0c3-3719-98c9-250f125de5a9"
+        },
+        {
+          "name": "Draw the Line",
+          "date": "1977-12-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8c064b13-6668-3d6c-a508-1e5d671a207d"
+        },
+        {
+          "name": "The Big Ten-Inch Sampler… Can You Handle It?",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8d9dd4a4-3c75-39e5-89f2-faf19c938c23"
+        },
+        {
+          "name": "Pump",
+          "date": "1989-09-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8f174877-ffc4-39b9-b247-a39fff4097a1"
+        },
+        {
+          "name": "Rag Doll",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/98568f2c-3c76-303e-b57a-28c5d2dd22f1"
+        },
+        {
+          "name": "What Could Have Been Love",
+          "date": "2012-08-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9b47c0d2-144f-4375-a51d-999d19abb66f"
+        },
+        {
+          "name": "Walkin’ The Dog / Mama Kin",
+          "date": "2026-02-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9d6a7455-3841-4cfd-8cdf-1ce1262b4728"
+        },
+        {
+          "name": "Get a Live",
+          "date": "1994",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a27a6de5-2e23-43cf-b858-a72342c78147"
+        },
+        {
+          "name": "5ive of a Kind - Dream On (Live)",
+          "date": "1973",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a2cde389-1bcd-4608-8892-e3fb5d61f98b"
+        },
+        {
+          "name": "The Other Side",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a6fedae5-39e2-3008-a796-cfbd1d7da7fc"
+        },
+        {
+          "name": "Shut Up and Dance",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ade934fe-0818-349a-b6cf-87bce6fe4004"
+        },
+        {
+          "name": "Dream On",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ae871407-6a25-3dab-ad04-e72a5fa5cb39"
+        },
+        {
+          "name": "Tough Love: Best of the Ballads",
+          "date": "2011-01-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/af4e57bd-ae6d-45db-9351-0c47835a4323"
+        },
+        {
+          "name": "Draw the Line",
+          "date": "1977",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/af56ce2b-b72d-4f4c-bbd9-b413f2925dce"
+        },
+        {
+          "name": "Vacation Club",
+          "date": "1988-12-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b0cdbc0a-f487-4eda-b607-4114c077f72d"
+        },
+        {
+          "name": "Special Australian Tour Souvenir",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bae7defc-895d-4d59-b1c5-377ff34bf2a1"
+        },
+        {
+          "name": "Done With Mirrors",
+          "date": "1985-11-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c4e9623e-19c6-34ab-8fce-4e8a4f4d3f76"
+        },
+        {
+          "name": "Permanent Vacation",
+          "date": "1987-03-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c522e905-3986-3f09-89f3-5d8bb09cc93e"
+        },
+        {
+          "name": "Let The Rocks Do The Talking",
+          "date": "2016",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c95c3293-e07c-426d-8e0d-14608eb42eea"
+        },
+        {
+          "name": "Livin’ on the Edge",
+          "date": "1993-02-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cdd55ae8-f601-33ac-b6d2-3495e6853bf5"
+        },
+        {
+          "name": "Toys in the Attic",
+          "date": "1975-04-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d03bb6b1-d7b4-38ea-974e-847cbb31dca4"
+        },
+        {
+          "name": "Boston 1994 (HQ Remastered)",
+          "date": "2024-10-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d32aeb72-ff23-495e-b131-4a48c9c86714"
+        },
+        {
+          "name": "Girls of Summer",
+          "date": "2002-08-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d3ee70a1-6dda-4c78-9683-4b6cecaa909c"
+        },
+        {
+          "name": "Devil’s Got a New Disguise: The Very Best of Aerosmith",
+          "date": "2006-10-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d67f5fa9-7a04-3232-be4c-255261de35cf"
+        },
+        {
+          "name": "Classic Aerosmith: The Universal Masters Collection",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dd94b510-8ea8-339a-a586-191ceb3b8145"
+        },
+        {
+          "name": "Pandora’s Box",
+          "date": "1991-11-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ddaa79f5-a0e3-3771-80a7-691c57d32946"
+        },
+        {
+          "name": "Anthology",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e2255b98-9ccb-3991-821e-2a3ac6cb44d9"
+        },
+        {
+          "name": "Big Ones",
+          "date": "1994-10-31",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e3dfcdbd-9c0d-3d9d-a025-3fe261b2ca0f"
+        },
+        {
+          "name": "Big Ones You Can Look At",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e7b23035-7cfc-4ce0-94c3-9d56cd42648c"
+        },
+        {
+          "name": "What It Takes",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/eb0c8e13-84fa-3f40-af1b-1bf4c6d5f62a"
+        },
+        {
+          "name": "Dude (Looks Like a Lady)",
+          "date": "1987-09-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ef99e15f-dda2-3be3-b4d6-8fa6fc6555b1"
+        },
+        {
+          "name": "Walk on Water",
+          "date": "1995-01-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f09af63d-a18a-4685-a44d-7bfc0adb3577"
+        },
+        {
+          "name": "Box of Fire",
+          "date": "1994-11-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f229fe85-68c6-437e-8e34-fe75187c50d7"
+        },
+        {
+          "name": "USA 1994",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f45b4f1e-173f-4aae-8bca-e2984552d441"
+        },
+        {
+          "name": "Gripping Stuff!",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f55dba55-3eb4-4b81-b40b-4236871ff3a9"
+        },
+        {
+          "name": "Walk This Way",
+          "date": "1975",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f7059e3d-16a1-46ef-b879-ee1e24acf6cd"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2023-08-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f9dc4cdb-2c30-444e-be3d-8ad9684604d7"
+        },
+        {
+          "name": "Love in an Elevator",
+          "date": "1989-08-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fa30a56b-02d4-4c7b-9ed8-67f2466d8895"
+        },
+        {
+          "name": "Blind Man",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fa48b0dd-a94c-3189-ba48-5b04cb69e88e"
+        },
+        {
+          "name": "Full Circle",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fb55bd08-7e46-45f2-ad49-8c74ef3d16f7"
+        },
+        {
+          "name": "Rock This Way",
+          "date": "2009-06-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fd33f4d1-5130-4713-8891-12ac6b83792e"
+        },
+        {
+          "name": "My Only Angel",
+          "date": "2025-09-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ff98c692-e417-4c03-a208-eb2f511fc032"
+        }
+      ]
     }
   },
   "checked": {
     "ac-dc": "2026-10-04T01:43:12.106995+00:00",
-    "accept": "2026-10-04T01:43:13.460406+00:00"
+    "accept": "2026-10-04T01:43:13.460406+00:00",
+    "aerosmith": "2026-10-04T02:04:51.020073+00:00",
+    "alice-cooper": "2026-10-04T02:04:52.281767+00:00"
   }
 }

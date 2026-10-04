@@ -1975,7 +1975,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://powerman5000.com",
       "reference_url": "https://en.wikipedia.org/wiki/Powerman_5000",
-      "reference_checked_at": "2026-10-02T02:23:43.476775+00:00"
+      "reference_checked_at": "2026-10-02T02:23:43.476775+00:00",
+      "tour_attempted_at": "2026-10-04T02:04:40.046907+00:00"
     },
     "pink-floyd": {
       "origin": "London, England",
@@ -1994,7 +1995,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://pinkfloyd.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pink_Floyd",
-      "reference_checked_at": "2026-10-02T02:23:43.809645+00:00"
+      "reference_checked_at": "2026-10-02T02:23:43.809645+00:00",
+      "tour_attempted_at": "2026-10-04T02:04:40.456541+00:00"
     },
     "porcupine-tree": {
       "origin": "Hemel Hempstead , Hertfordshire , England",
@@ -2017,7 +2019,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://porcupinetree.com",
       "reference_url": "https://en.wikipedia.org/wiki/Porcupine_Tree",
-      "reference_checked_at": "2026-10-02T02:23:43.961911+00:00"
+      "reference_checked_at": "2026-10-02T02:23:43.961911+00:00",
+      "tour_attempted_at": "2026-10-04T02:04:40.742939+00:00"
     },
     "queensryche": {
       "origin": "Bellevue, Washington , U.S.",
@@ -2048,7 +2051,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://queensrycheofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Queensr%C3%BFche",
-      "reference_checked_at": "2026-10-02T02:23:48.682680+00:00"
+      "reference_checked_at": "2026-10-02T02:23:48.682680+00:00",
+      "tour_attempted_at": "2026-10-04T02:04:43.241209+00:00"
     },
     "rammstein": {
       "origin": "Berlin , Germany",
