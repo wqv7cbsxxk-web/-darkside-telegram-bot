@@ -1355,7 +1355,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://dgmlive.com",
       "reference_url": "https://en.wikipedia.org/wiki/King_Crimson",
-      "reference_checked_at": "2026-10-02T02:23:02.982586+00:00"
+      "reference_checked_at": "2026-10-02T02:23:02.982586+00:00",
+      "tour_attempted_at": "2026-10-04T00:38:17.770185+00:00"
     },
     "judas-priest": {
       "origin": "Birmingham , England",
@@ -1386,7 +1387,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://judaspriest.com",
       "reference_url": "https://en.wikipedia.org/wiki/Judas_Priest",
-      "reference_checked_at": "2026-10-02T02:23:03.363778+00:00"
+      "reference_checked_at": "2026-10-02T02:23:03.363778+00:00",
+      "tour_attempted_at": "2026-10-04T00:38:18.032889+00:00"
     },
     "kiss": {
       "origin": "New York City , U.S.",
@@ -1396,7 +1398,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://kissonline.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kiss_%28band%29",
-      "reference_checked_at": "2026-10-02T02:23:09.573822+00:00"
+      "reference_checked_at": "2026-10-02T02:23:09.573822+00:00",
+      "tour_attempted_at": "2026-10-04T00:38:19.043829+00:00"
     },
     "kreator": {
       "origin": "Essen , North Rhine-Westphalia , Germany",
@@ -1423,7 +1426,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://kreator-terrorzone.de",
       "reference_url": "https://en.wikipedia.org/wiki/Kreator",
-      "reference_checked_at": "2026-10-02T02:23:09.734222+00:00"
+      "reference_checked_at": "2026-10-02T02:23:09.734222+00:00",
+      "tour_attempted_at": "2026-10-04T00:38:19.809226+00:00"
     },
     "led-zeppelin": {
       "origin": "London , England",
