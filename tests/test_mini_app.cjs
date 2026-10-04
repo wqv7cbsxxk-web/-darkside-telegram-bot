@@ -12,7 +12,7 @@ const seedJson=JSON.stringify({...data,generated_at:Date.now()});
 const storage=new Map();
 async function boot(article=null,initialSearch='',fetchImpl=null,telegram=null,storageUnavailable=false){
  const nodes=new Map();
- function element(){return {textContent:'',style:{},children:[],dataset:{},events:{},classList:{add(){},remove(){},toggle(){}},setAttribute(k,v){this[k]=v},removeAttribute(k){delete this[k]},addEventListener(k,v){this.events[k]=v},append(...els){this.children.push(...els)},replaceChildren(...els){this.children=[...els]},get lastChild(){return this.children.at(-1)}};}
+ function element(tag='div'){return {tagName:String(tag).toUpperCase(),className:'',textContent:'',style:{},children:[],dataset:{},events:{},classList:{add(){},remove(){},toggle(){}},setAttribute(k,v){this[k]=v},removeAttribute(k){delete this[k]},addEventListener(k,v){this.events[k]=v},append(...els){this.children.push(...els)},before(...els){this.beforeChildren=els},replaceChildren(...els){this.children=[...els]},get lastChild(){return this.children.at(-1)}};}
  const sections=['news','tour','where','members','about'].map(name=>Object.assign(element(),{dataset:{bandSection:name}}));
  const document={documentElement:{style:{setProperty(){}}},getElementById(id){if(!nodes.has(id)){const el=element();if(id==='articlesSeed')el.textContent=seedJson;nodes.set(id,el)}return nodes.get(id)},createElement:element,querySelectorAll(selector){return selector==='[data-band-section]'?sections:[]},querySelector(){return element()}};
  document.head=element();
@@ -21,7 +21,7 @@ async function boot(article=null,initialSearch='',fetchImpl=null,telegram=null,s
 }
 (async()=>{
  for(const a of [data.articles.find(a=>a.original_url.endsWith('/184168/')),data.articles.find(a=>a.original_url.includes('tom-morellos-power'))]){
-  const {nodes}=await boot(a);assert.deepEqual(nodes.get('article').children.map(p=>p.textContent),a.paragraphs);
+  const {nodes}=await boot(a);const body=nodes.get('article').children,paragraphs=body.filter(x=>x.tagName==='P'),full=body.find(x=>x.className==='article-fulltext');assert.deepEqual(paragraphs.map(p=>p.textContent),a.paragraphs.slice(0,3));if(a.paragraphs.length>3){assert.equal(full.children.length-1,a.paragraphs.length-3);assert.equal(full.children[0].textContent,'Полный текст · ещё '+(a.paragraphs.length-3)+' абз.');}else assert.equal(full,undefined);
   assert.equal(nodes.get('title').textContent,a.title);
  }
  storage.delete('metal-news.articles.v1');
