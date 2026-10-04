@@ -2266,7 +2266,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.symphonyx.com",
       "reference_url": "https://en.wikipedia.org/wiki/Symphony_X",
-      "reference_checked_at": "2026-10-02T02:24:10.223580+00:00"
+      "reference_checked_at": "2026-10-02T02:24:10.223580+00:00",
+      "tour_attempted_at": "2026-10-04T12:36:35.104286+00:00"
     },
     "system-of-a-down": {
       "origin": "Glendale, California , U.S.",
@@ -2293,7 +2294,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://systemofadown.com",
       "reference_url": "https://en.wikipedia.org/wiki/System_Of_A_Down",
-      "reference_checked_at": "2026-10-02T02:24:10.517090+00:00"
+      "reference_checked_at": "2026-10-02T02:24:10.517090+00:00",
+      "tour_attempted_at": "2026-10-04T12:36:35.675909+00:00"
     },
     "the-contortionist": {
       "origin": "Indianapolis , Indiana , U.S.",
@@ -2328,7 +2330,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.thecontortionist.net/",
       "reference_url": "https://en.wikipedia.org/wiki/The_Contortionist",
-      "reference_checked_at": "2026-10-02T02:24:15.845786+00:00"
+      "reference_checked_at": "2026-10-02T02:24:15.845786+00:00",
+      "tour_attempted_at": "2026-10-04T12:36:35.948217+00:00"
     },
     "terrorizer": {
       "origin": "Los Angeles , California , U.S.",
@@ -2371,7 +2374,8 @@
         "members_source": "https://blabbermouth.net/news/pete-sandoval-says-terrorizer-will-carry-on-without-david-vincent-its-better-for-us-to-continue-on-separate-paths-professionally",
         "members_checked_at": "2026-10-02T02:29:28.923484+00:00",
         "about": ""
-      }
+      },
+      "tour_attempted_at": "2026-10-04T12:36:36.203394+00:00"
     },
     "thin-lizzy": {
       "origin": "Dublin , Ireland",

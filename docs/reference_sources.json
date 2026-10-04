@@ -2663,6 +2663,278 @@
           "source_url": "https://musicbrainz.org/release-group/fef7ece7-0063-3caa-aad4-bb15f9de3229"
         }
       ]
+    },
+    "ayreon": {
+      "name": "Ayreon",
+      "musicbrainz_url": "https://musicbrainz.org/artist/7bbfd77c-1102-4831-9ba8-246fb67460b3",
+      "reference_checked_at": "2026-10-04T12:36:43.655806+00:00",
+      "genres": "folk rock, metal, progressive metal, progressive rock, rock opera, space rock, symphonic metal",
+      "bandcamp_url": "https://ayreon.bandcamp.com/",
+      "website": "https://www.arjenlucassen.com/content/arjens-projects/ayreon/",
+      "members": [
+        {
+          "name": "Arjen Anthony Lucassen",
+          "role": "original",
+          "begin": "1995"
+        },
+        {
+          "name": "Ed Warby",
+          "role": "additional, drums (drum set)",
+          "begin": "1997"
+        },
+        {
+          "name": "Joost van den Broek",
+          "role": "additional, keyboard",
+          "begin": null
+        },
+        {
+          "name": "Jeroen Goossens",
+          "role": "additional, flute",
+          "begin": null
+        },
+        {
+          "name": "Ben Mathot",
+          "role": "additional, violin",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/7bbfd77c-1102-4831-9ba8-246fb67460b3",
+      "albums": [
+        {
+          "name": "The Theater Equation",
+          "date": "2016-06-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/05342745-73b1-4d28-9e78-3bd51c4544b9"
+        },
+        {
+          "name": "Talk of the Town",
+          "date": "2020-09-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0f4b3a70-3d31-4d9e-aca6-94d63c72991b"
+        },
+        {
+          "name": "Loser",
+          "date": "2026-02-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/18320e1e-f873-49c1-957f-053138a2799f"
+        },
+        {
+          "name": "The Day That the World Breaks Down (live)",
+          "date": "2024-04-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1a154a0a-ccd0-48be-be57-6d44738929b2"
+        },
+        {
+          "name": "The Last Day of War and the First Day of Peace",
+          "date": "2020-11-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2190c67e-8a1b-4827-bf63-0a3a2b379d71"
+        },
+        {
+          "name": "The Sixth Extinction (live)",
+          "date": "2024-01-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2296cfc7-b794-4ffa-a1c6-5eac17b31e43"
+        },
+        {
+          "name": "Day Eleven: Love",
+          "date": "2004-04-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/23a27238-001a-356a-b468-5d7cba19fa0a"
+        },
+        {
+          "name": "Universal Migrator, Part 1: The Dream Sequencer",
+          "date": "2000-05-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4c5839ba-b652-3346-87dc-ba3ba891cc39"
+        },
+        {
+          "name": "The Stranger From Within",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5bb6368e-a6aa-39bb-8a2a-c961f5e9ee44"
+        },
+        {
+          "name": "The Theory of Everything",
+          "date": "2013-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6281bcfe-058e-4cd3-85bc-66f47c28960b"
+        },
+        {
+          "name": "Temple of the Cat",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/709c07f3-0899-3a4a-a424-782324b660dd"
+        },
+        {
+          "name": "Actual Fantasy: Revisited",
+          "date": "2004-12-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/70be9840-6974-4532-b926-fb0c02856b57"
+        },
+        {
+          "name": "Into the Electric Castle: A Space Opera",
+          "date": "1998",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7964d6a1-c568-3620-ba36-5d3626da55f4"
+        },
+        {
+          "name": "30th Anniversary: An Amazing Flight Through Time",
+          "date": "2026-05-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7dcd9732-5975-4805-a08c-fc5a24374fb8"
+        },
+        {
+          "name": "Into the Black Hole (2022 remixed & remastered)",
+          "date": "2022-09-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/87a3281f-303f-4877-88ad-2c1d758d3abe"
+        },
+        {
+          "name": "Sail Away to Avalon",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/88752239-989a-3b48-91f6-62ca974d2b32"
+        },
+        {
+          "name": "Limited Edition 7″",
+          "date": "2013-10-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/95834b04-1f71-4190-bf11-baddbe79ec23"
+        },
+        {
+          "name": "Ayreon Universe",
+          "date": "2018-03-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9f21091e-37e9-4c43-af16-6b02e1875c0a"
+        },
+        {
+          "name": "01011001",
+          "date": "2008-01-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9f320611-1b34-3460-8db5-d4ef421d4751"
+        },
+        {
+          "name": "The Source",
+          "date": "2017-04-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a2e5bab3-af18-4f8f-a5f6-0a140d14ea13"
+        },
+        {
+          "name": "01011001: Live Beneath the Waves",
+          "date": "2024-05-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a330cb5c-f0b4-40ff-b393-dd5efac7c58b"
+        },
+        {
+          "name": "Transitus",
+          "date": "2020-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a7f9c284-ffc5-4640-b725-3ac559add563"
+        },
+        {
+          "name": "Everybody Dies",
+          "date": "2026-03-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a9feddf3-63c6-4147-af61-879f79d3dd39"
+        },
+        {
+          "name": "Universal Migrator, Part 2: Flight of the Migrator",
+          "date": "2000-05-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/aa296166-9a29-3b59-8b48-1d80f789ca81"
+        },
+        {
+          "name": "Timeline",
+          "date": "2008-11-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/acb1cf12-6dfc-3794-9f0a-2bf1b3b0c1e7"
+        },
+        {
+          "name": "Loser",
+          "date": "2004-07-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b082b27b-49e5-37e2-8173-f637f91c42c1"
+        },
+        {
+          "name": "Universal Migrator, Part I & II",
+          "date": "2004-07-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b75ed627-2e45-42e4-9546-90d20b64f7a7"
+        },
+        {
+          "name": "Hopelessly Slipping Away / Get Out! Now!",
+          "date": "2020-07-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bd9fccde-7201-471c-8d3e-0a5d20fdd82b"
+        },
+        {
+          "name": "The Final Experiment",
+          "date": "1995",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c1ab78c7-e895-3151-9c84-0f296cce8b1e"
+        },
+        {
+          "name": "Elected",
+          "date": "2008-04-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c878e5f1-a833-3c0a-b60a-e2e2f0c5784d"
+        },
+        {
+          "name": "Day Two: Isolation (2025 remixed & remastered)",
+          "date": "2025-01-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d045d132-65fd-475e-b620-e935a20ee429"
+        },
+        {
+          "name": "The Human Equation",
+          "date": "2004-05-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d220f354-c66e-3747-8a69-670f5a445610"
+        },
+        {
+          "name": "Actual Fantasy",
+          "date": "1996-10-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ddfc760e-7288-3503-b052-9e8260757891"
+        },
+        {
+          "name": "Electric Castle Live and Other Tales",
+          "date": "2020-03-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e0d39a17-453d-4b14-865c-53b84896fad8"
+        },
+        {
+          "name": "This Human Equation",
+          "date": "2020-09-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e22d8ff8-4625-4e6a-ae6f-4d57dfe7e907"
+        },
+        {
+          "name": "And the Druids Turn to Stone (2022 remixed & remastered)",
+          "date": "2022-10-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e2c596e8-b6c0-45ea-a4e9-7aef57abb838"
+        },
+        {
+          "name": "The Year of ’41",
+          "date": "2026-04-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ea28735c-83cf-483a-9f50-49df62bbf214"
+        },
+        {
+          "name": "Come Back to Me",
+          "date": "2005-06-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/edea490d-0577-4992-800e-3c1411e4272e"
+        },
+        {
+          "name": "Ayreonauts Only",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f0e30af9-2682-3a5e-83e0-4f4ed9dc6632"
+        }
+      ]
     }
   },
   "checked": {
@@ -2673,6 +2945,8 @@
     "alice-in-chains": "2026-10-04T02:35:53.356847+00:00",
     "anthrax": "2026-10-04T02:35:54.644629+00:00",
     "arch-enemy": "2026-10-04T06:24:02.395598+00:00",
-    "at-the-gates": "2026-10-04T06:24:06.237858+00:00"
+    "at-the-gates": "2026-10-04T06:24:06.237858+00:00",
+    "ayreon": "2026-10-04T12:36:43.655909+00:00",
+    "behemoth": "2026-10-04T12:36:44.904740+00:00"
   }
 }
