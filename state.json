@@ -317,7 +317,9 @@
     "a9c0ff61a39f06cee5b4e322d9b2edcaf2ac2fd6",
     "5887a810910a6b6d6c08d2260a2612137dcbdc70",
     "2482918b43231c4ff80c765f2ff3cdecbc6eb801",
-    "77980ff1b2bb116c3d8d6947edac20a4b7d69407"
+    "77980ff1b2bb116c3d8d6947edac20a4b7d69407",
+    "0f6cb6bd7646dcf5492dedc4f94f4b08b5c2318a",
+    "4fb1d51971034380642b574465dc755bf16f5758"
   ],
   "recent_titles": [
     {
@@ -914,6 +916,16 @@
       "title": "Crowdfunding Campaign Launched For Hunter Young (Moodring, PSYCHO-FRAME) Amid His Health Decline",
       "source": "ThePRP",
       "ts": 1791078117
+    },
+    {
+      "title": "Watch: Deafheaven Debut Their Heavy New Song “Hunter” Live In Chicago",
+      "source": "ThePRP",
+      "ts": 1791079357
+    },
+    {
+      "title": "Tom Morello Welcomed Members Of System Of A Down, Foo Fighters, Public Enemy & More During His ‘Power To The People’ Set",
+      "source": "ThePRP",
+      "ts": 1791079382
     }
   ],
   "initialized_sources": [
@@ -938,7 +950,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T07:17:39+00:00",
       "id": "d221d52a23b9fd4592f27a04382b339c37371ad7",
-      "retry_after": 1791078467
+      "retry_after": 1791079760
     },
     {
       "source": "Ultimate Classic Rock",
@@ -950,7 +962,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T04:17:42+00:00",
       "id": "6f43b0fcbe02d371a93b1c3fd1f1bcbae7360589",
-      "retry_after": 1791078471
+      "retry_after": 1791079766
     },
     {
       "source": "Metal Injection",
@@ -962,7 +974,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-01T17:12:56+00:00",
       "id": "25cfcf010d47132c62d05d103fd6b4383319ca8b",
-      "retry_after": 1791078471
+      "retry_after": 1791079766
     },
     {
       "source": "Louder",
@@ -974,7 +986,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T17:00:00+00:00",
       "id": "5da3ffc36fed1ebf581a093fa07b89f089e74819",
-      "retry_after": 1791078480
+      "retry_after": 1791079773
     },
     {
       "source": "Metal Injection",
@@ -986,7 +998,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-01T15:34:25+00:00",
       "id": "f9d084fa99db7cff6f1bfa766926b58683768fde",
-      "retry_after": 1791078480
+      "retry_after": 1791079773
     },
     {
       "source": "Metal Injection",
@@ -998,7 +1010,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T15:18:06+00:00",
       "id": "1f015c5a80b88913c42e03b55e82204b7216bf13",
-      "retry_after": 1791078480
+      "retry_after": 1791079773
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1010,7 +1022,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T12:41:34+00:00",
       "id": "e68e36628a811ed8585afbcfcf42d0a4444026ca",
-      "retry_after": 1791078454
+      "retry_after": 1791079739
     },
     {
       "source": "Louder",
@@ -1022,7 +1034,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T11:14:38+00:00",
       "id": "947a38c8fba5e6f685164698839be2d60a8c085e",
-      "retry_after": 1791078457
+      "retry_after": 1791079743
     },
     {
       "source": "Louder",
@@ -1034,7 +1046,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T08:12:15+00:00",
       "id": "0dd606061d373d27d8c3c995d6240870e61834af",
-      "retry_after": 1791078463
+      "retry_after": 1791079751
     },
     {
       "source": "Metal Injection",
@@ -1046,7 +1058,7 @@
       "category": "Прогрессив",
       "published": "2026-10-02T17:34:15+00:00",
       "id": "bd4701e52104d02b3fa9d9c8a0074c6c5282d5aa",
-      "retry_after": 1791078441
+      "retry_after": 1791079717
     },
     {
       "source": "Metal Injection",
@@ -1058,7 +1070,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:55:06+00:00",
       "id": "5ad6921c06e7e524048e11b524256b2f70c57554",
-      "retry_after": 1791078441
+      "retry_after": 1791079717
     },
     {
       "source": "Metal Injection",
@@ -1070,7 +1082,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:19:04+00:00",
       "id": "d579c449412d504f22f4267c4dfba97b661fb2bb",
-      "retry_after": 1791078441
+      "retry_after": 1791079717
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1082,7 +1094,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T19:20:36+00:00",
       "id": "7ac2851f28e0a4a07ac271f63e3b24e302e2bb57",
-      "retry_after": 1791078440
+      "retry_after": 1791079717
     },
     {
       "source": "Louder",
@@ -1094,7 +1106,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-03T23:00:00+00:00",
       "id": "d7b0f04e4d5cc6bfde1d773c1597c5904adc4a73",
-      "retry_after": 1791078421
+      "retry_after": 1791079688
     },
     {
       "source": "Louder",
@@ -1106,7 +1118,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T20:00:00+00:00",
       "id": "0680ef74bd93e3bac6cd9a0f50940866c013a303",
-      "retry_after": 1791078424
+      "retry_after": 1791079693
     },
     {
       "source": "Metal Injection",
@@ -1118,7 +1130,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T15:49:54+00:00",
       "id": "4c556e3c4693b2825ab305fe46d6c6bb18174fcd",
-      "retry_after": 1791078424
+      "retry_after": 1791079693
     },
     {
       "source": "Metal Injection",
@@ -1130,7 +1142,7 @@
       "category": "Хард-рок",
       "published": "2026-10-03T15:42:44+00:00",
       "id": "0f2eef09fabc4707f1cfcbea0cc981e872e3d4b4",
-      "retry_after": 1791078424
+      "retry_after": 1791079693
     },
     {
       "source": "Metal Injection",
@@ -1142,7 +1154,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-03T15:02:00+00:00",
       "id": "16e9958f137e6ec57d1c760f156fb4a7c4175d0c",
-      "retry_after": 1791078424
+      "retry_after": 1791079693
     },
     {
       "source": "Louder",
@@ -1154,7 +1166,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T14:18:50+00:00",
       "id": "02a6de81053ceaf5e66a760b3286622d77ab2c6d",
-      "retry_after": 1791078427
+      "retry_after": 1791079698
     }
   ]
 }
