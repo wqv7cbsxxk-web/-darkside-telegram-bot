@@ -1681,7 +1681,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://morbidangel.com",
       "reference_url": "https://en.wikipedia.org/wiki/Morbid_Angel",
-      "reference_checked_at": "2026-10-02T02:23:27.242236+00:00"
+      "reference_checked_at": "2026-10-02T02:23:27.242236+00:00",
+      "tour_attempted_at": "2026-10-04T01:09:42.980544+00:00"
     },
     "napalm-death": {
       "origin": "Meriden, West Midlands , England",
@@ -1708,7 +1709,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://napalmdeath.org/",
       "reference_url": "https://en.wikipedia.org/wiki/Napalm_Death",
-      "reference_checked_at": "2026-10-02T02:23:27.302264+00:00"
+      "reference_checked_at": "2026-10-02T02:23:27.302264+00:00",
+      "tour_attempted_at": "2026-10-04T01:09:43.677396+00:00"
     },
     "motorhead": {
       "origin": "London , England",
@@ -1718,7 +1720,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://imotorhead.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mot%C3%B6rhead",
-      "reference_checked_at": "2026-10-02T02:23:27.629824+00:00"
+      "reference_checked_at": "2026-10-02T02:23:27.629824+00:00",
+      "tour_attempted_at": "2026-10-04T01:09:43.996677+00:00"
     },
     "motley-crue": {
       "origin": "Hollywood, California , U.S.",
@@ -1745,7 +1748,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://motley.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Motley_Crue",
-      "reference_checked_at": "2026-10-02T02:23:27.807486+00:00"
+      "reference_checked_at": "2026-10-02T02:23:27.807486+00:00",
+      "tour_attempted_at": "2026-10-04T01:09:44.277662+00:00"
     },
     "opeth": {
       "origin": "Stockholm , Sweden",
