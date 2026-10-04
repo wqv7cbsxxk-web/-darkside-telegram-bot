@@ -47,7 +47,7 @@ async function boot(search=''){
  const restarted=await boot();assert.equal(restarted.app.preferences.settings.theme,'light');assert(restarted.app.preferences.settings.disabledSources.includes('Darkside'));
  // No article truncation; even a filtered source remains accessible by deep link.
  const wolves=articles.articles.find(a=>a.original_url.endsWith('/184168/'));
- const direct=await boot('?id='+wolves.id);assert.equal(direct.document.querySelector('#article').children.length,wolves.paragraphs.length);assert(direct.document.querySelector('#article').textContent.includes('6. Wretched Spirits'));
+ const direct=await boot('?id='+wolves.id);assert.equal(direct.document.querySelectorAll('#article > p').length,3);assert.equal(direct.document.querySelectorAll('#article .article-fulltext p').length,wolves.paragraphs.length-3);assert(direct.document.querySelector('#article').textContent.includes('6. Wretched Spirits'));assert.match(direct.document.querySelector('.article-fulltext summary').textContent,/Полный текст/);
  // Restore scroll after reading and keep separate root stacks.
  window.scrollY=480;const story=app.selectArticles(articles.articles).find(a=>a.artists.length);app.openArticle(story);assert.equal(window.scrollY,0);app.goBack();assert.equal(window.scrollY,480);
  app.openArticle(story);app.setView('bands');app.setView('all');assert.equal(app.state.current.id,story.id);app.goBack();
