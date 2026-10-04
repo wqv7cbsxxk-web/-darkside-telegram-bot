@@ -320,7 +320,9 @@
     "77980ff1b2bb116c3d8d6947edac20a4b7d69407",
     "0f6cb6bd7646dcf5492dedc4f94f4b08b5c2318a",
     "4fb1d51971034380642b574465dc755bf16f5758",
-    "a9af0a31f208923d8707e42576eda293f13e2f75"
+    "a9af0a31f208923d8707e42576eda293f13e2f75",
+    "856a8c40c0367aa0b0924e7a00a9b2580bd2ba52",
+    "b77396f552885804942fc66c367b080173abb0f9"
   ],
   "recent_titles": [
     {
@@ -932,6 +934,16 @@
       "title": "Watch: Jack Black Welcomed Black Sabbath’s Geezer Butler Onstage For A ‘Jack Sabbath’ “War Pigs” Cover At ‘Power To The People’ Festival",
       "source": "ThePRP",
       "ts": 1791081258
+    },
+    {
+      "title": "The rise of the Manic Street Preachers, the British glam punk rebels people loved to hate",
+      "source": "Louder",
+      "ts": 1791094950
+    },
+    {
+      "title": "This classic 1967 album laid the foundation for progressive rock – why has it been forgotten?",
+      "source": "Louder",
+      "ts": 1791094963
     }
   ],
   "initialized_sources": [
@@ -956,7 +968,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T07:17:39+00:00",
       "id": "d221d52a23b9fd4592f27a04382b339c37371ad7",
-      "retry_after": 1791081611
+      "retry_after": 1791095308
     },
     {
       "source": "Ultimate Classic Rock",
@@ -968,7 +980,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T04:17:42+00:00",
       "id": "6f43b0fcbe02d371a93b1c3fd1f1bcbae7360589",
-      "retry_after": 1791081615
+      "retry_after": 1791095311
     },
     {
       "source": "Metal Injection",
@@ -980,7 +992,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-01T17:12:56+00:00",
       "id": "25cfcf010d47132c62d05d103fd6b4383319ca8b",
-      "retry_after": 1791081615
+      "retry_after": 1791095311
     },
     {
       "source": "Louder",
@@ -992,7 +1004,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T17:00:00+00:00",
       "id": "5da3ffc36fed1ebf581a093fa07b89f089e74819",
-      "retry_after": 1791081622
+      "retry_after": 1791095316
     },
     {
       "source": "Metal Injection",
@@ -1004,7 +1016,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-01T15:34:25+00:00",
       "id": "f9d084fa99db7cff6f1bfa766926b58683768fde",
-      "retry_after": 1791081622
+      "retry_after": 1791095316
     },
     {
       "source": "Metal Injection",
@@ -1016,7 +1028,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T15:18:06+00:00",
       "id": "1f015c5a80b88913c42e03b55e82204b7216bf13",
-      "retry_after": 1791081623
+      "retry_after": 1791095316
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1028,7 +1040,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T12:41:34+00:00",
       "id": "e68e36628a811ed8585afbcfcf42d0a4444026ca",
-      "retry_after": 1791081597
+      "retry_after": 1791095297
     },
     {
       "source": "Louder",
@@ -1040,7 +1052,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T11:14:38+00:00",
       "id": "947a38c8fba5e6f685164698839be2d60a8c085e",
-      "retry_after": 1791081601
+      "retry_after": 1791095300
     },
     {
       "source": "Louder",
@@ -1052,7 +1064,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T08:12:15+00:00",
       "id": "0dd606061d373d27d8c3c995d6240870e61834af",
-      "retry_after": 1791081607
+      "retry_after": 1791095304
     },
     {
       "source": "Metal Injection",
@@ -1064,7 +1076,7 @@
       "category": "Прогрессив",
       "published": "2026-10-02T17:34:15+00:00",
       "id": "bd4701e52104d02b3fa9d9c8a0074c6c5282d5aa",
-      "retry_after": 1791081584
+      "retry_after": 1791095288
     },
     {
       "source": "Metal Injection",
@@ -1076,7 +1088,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:55:06+00:00",
       "id": "5ad6921c06e7e524048e11b524256b2f70c57554",
-      "retry_after": 1791081584
+      "retry_after": 1791095288
     },
     {
       "source": "Metal Injection",
@@ -1088,7 +1100,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:19:04+00:00",
       "id": "d579c449412d504f22f4267c4dfba97b661fb2bb",
-      "retry_after": 1791081584
+      "retry_after": 1791095288
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1100,7 +1112,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T19:20:36+00:00",
       "id": "7ac2851f28e0a4a07ac271f63e3b24e302e2bb57",
-      "retry_after": 1791081584
+      "retry_after": 1791095288
     },
     {
       "source": "Louder",
@@ -1112,7 +1124,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-03T23:00:00+00:00",
       "id": "d7b0f04e4d5cc6bfde1d773c1597c5904adc4a73",
-      "retry_after": 1791081564
+      "retry_after": 1791095268
     },
     {
       "source": "Louder",
@@ -1124,7 +1136,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T20:00:00+00:00",
       "id": "0680ef74bd93e3bac6cd9a0f50940866c013a303",
-      "retry_after": 1791081567
+      "retry_after": 1791095272
     },
     {
       "source": "Metal Injection",
@@ -1136,7 +1148,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T15:49:54+00:00",
       "id": "4c556e3c4693b2825ab305fe46d6c6bb18174fcd",
-      "retry_after": 1791081568
+      "retry_after": 1791095272
     },
     {
       "source": "Metal Injection",
@@ -1148,7 +1160,7 @@
       "category": "Хард-рок",
       "published": "2026-10-03T15:42:44+00:00",
       "id": "0f2eef09fabc4707f1cfcbea0cc981e872e3d4b4",
-      "retry_after": 1791081568
+      "retry_after": 1791095272
     },
     {
       "source": "Metal Injection",
@@ -1160,7 +1172,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-03T15:02:00+00:00",
       "id": "16e9958f137e6ec57d1c760f156fb4a7c4175d0c",
-      "retry_after": 1791081568
+      "retry_after": 1791095272
     },
     {
       "source": "Louder",
@@ -1172,7 +1184,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T14:18:50+00:00",
       "id": "02a6de81053ceaf5e66a760b3286622d77ab2c6d",
-      "retry_after": 1791081571
+      "retry_after": 1791095275
     }
   ]
 }
