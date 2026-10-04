@@ -2410,7 +2410,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://thinlizzyofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Thin_Lizzy",
-      "reference_checked_at": "2026-10-02T02:24:21.306857+00:00"
+      "reference_checked_at": "2026-10-02T02:24:21.306857+00:00",
+      "tour_attempted_at": "2026-10-04T17:01:16.215845+00:00"
     },
     "the-rolling-stones": {
       "origin": "London , England",
@@ -2433,7 +2434,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rollingstones.com",
       "reference_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
-      "reference_checked_at": "2026-10-02T02:24:21.723987+00:00"
+      "reference_checked_at": "2026-10-02T02:24:21.723987+00:00",
+      "tour_attempted_at": "2026-10-04T17:01:16.554771+00:00"
     },
     "the-pretty-reckless": {
       "origin": "New York City , U.S.",
@@ -2460,7 +2462,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://theprettyreckless.com",
       "reference_url": "https://en.wikipedia.org/wiki/The_Pretty_Reckless",
-      "reference_checked_at": "2026-10-02T02:24:21.745968+00:00"
+      "reference_checked_at": "2026-10-02T02:24:21.745968+00:00",
+      "tour_attempted_at": "2026-10-04T17:01:16.888433+00:00"
     },
     "thrice": {
       "origin": "Irvine, California , U.S.",
@@ -2487,7 +2490,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://thrice.net",
       "reference_url": "https://en.wikipedia.org/wiki/Thrice",
-      "reference_checked_at": "2026-10-02T02:24:27.126668+00:00"
+      "reference_checked_at": "2026-10-02T02:24:27.126668+00:00",
+      "tour_attempted_at": "2026-10-04T17:01:17.954037+00:00"
     },
     "tom-morello": {
       "origin": "Libertyville, Illinois , U.S.",

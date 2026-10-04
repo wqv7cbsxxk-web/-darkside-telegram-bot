@@ -2935,6 +2935,872 @@
           "source_url": "https://musicbrainz.org/release-group/f0e30af9-2682-3a5e-83e0-4f4ed9dc6632"
         }
       ]
+    },
+    "between-the-buried-and-me": {
+      "name": "Between The Buried And Me",
+      "musicbrainz_url": "https://musicbrainz.org/artist/1870fb43-50f1-4660-a879-bb596d1519b6",
+      "reference_checked_at": "2026-10-04T17:01:26.000939+00:00",
+      "genres": "mathcore, metal, metalcore, progressive metal, progressive metalcore",
+      "bandcamp_url": "https://btbam.bandcamp.com/",
+      "website": "http://btbammerch.com/",
+      "members": [
+        {
+          "name": "Thomas Giles",
+          "role": "keyboard, lead vocals, original",
+          "begin": "2000"
+        },
+        {
+          "name": "Paul Waggoner",
+          "role": "background vocals, guitar, original",
+          "begin": "2000"
+        },
+        {
+          "name": "Dan Briggs",
+          "role": "background vocals, bass guitar, keyboard",
+          "begin": "2005"
+        },
+        {
+          "name": "Blake Richardson",
+          "role": "drums (drum set)",
+          "begin": "2005"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/1870fb43-50f1-4660-a879-bb596d1519b6",
+      "albums": [
+        {
+          "name": "Revolution in Limbo",
+          "date": "2021-07-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/02845ceb-af62-465d-b635-2769c648f4a5"
+        },
+        {
+          "name": "All Out War / Between the Buried and Me",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0c9f9fe8-bf2c-4973-9b3b-fcf731566649"
+        },
+        {
+          "name": "Jellybelly",
+          "date": "2026-07-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1828bacb-c002-42fb-a028-fa6d51745d7e"
+        },
+        {
+          "name": "The Blue Nowhere",
+          "date": "2025-09-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1cb93418-7e71-4e8e-8a1a-712ee7596cb3"
+        },
+        {
+          "name": "Alaska",
+          "date": "2005-09-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1e69e3fb-a1a9-3db5-a8a1-d187ce405c26"
+        },
+        {
+          "name": "Fix the Error",
+          "date": "2021-06-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22940237-75ea-4c22-8ca9-68a1c639420b"
+        },
+        {
+          "name": "The Great Misdirect Live",
+          "date": "2022-06-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/23fe0436-5711-4e8f-b2cb-6d74d30ccabf"
+        },
+        {
+          "name": "Coma Ecliptic",
+          "date": "2015-06-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/39fc630f-f02c-4c9c-9d15-4cbf19fd370c"
+        },
+        {
+          "name": "Snapshot",
+          "date": "2013",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3eae7d16-536c-4a57-bdb5-41253a7e7213"
+        },
+        {
+          "name": "The Great Misdirect",
+          "date": "2009-10-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/40fb55dc-3f50-45cb-a550-5593677ad227"
+        },
+        {
+          "name": "The Anatomy Of",
+          "date": "2006-06-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/50550e56-8bb0-3d06-93d9-b93fd0ad723d"
+        },
+        {
+          "name": "Absent Thereafter",
+          "date": "2025-07-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/567c131e-8594-418c-bb61-72e5108863e4"
+        },
+        {
+          "name": "Bohemian Rhapsody / Vertical Beta 461",
+          "date": "2016-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/56d27802-32ff-4a03-9264-208203f6894a"
+        },
+        {
+          "name": "Psychomanteum (live at the Caverns 2026)",
+          "date": "2026-09-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/58018be3-4939-419e-9852-49bc52631b88"
+        },
+        {
+          "name": "God Terror (live in Denver 2025)",
+          "date": "2026-01-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5ff2fc75-c88d-4cf1-b241-0af5fd4e0854"
+        },
+        {
+          "name": "Future Sequence: Live at the Fidelitorium",
+          "date": "2014-08-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6934b88b-ddc2-4e53-9306-442cc6a974a4"
+        },
+        {
+          "name": "Colors_Live",
+          "date": "2008-10-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6a54ccfb-4865-3f3f-a58f-108a855fb644"
+        },
+        {
+          "name": "The Blue Nowhere",
+          "date": "2025-09-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6c190247-152d-47e1-a8f8-91a2e778a472"
+        },
+        {
+          "name": "Demo",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6c4eba5c-7f12-3406-9bc6-6fc6b0d1dc79"
+        },
+        {
+          "name": "Automata II",
+          "date": "2018-07-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/822fe1fb-41a9-45b1-b79d-78fb7fbcfd21"
+        },
+        {
+          "name": "The Silent Circus",
+          "date": "2003-10-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/88076c6d-921c-3257-8cd5-ab99e5a5796e"
+        },
+        {
+          "name": "Things We Tell Ourselves in the Dark",
+          "date": "2025-06-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/896f1ba6-45f2-4999-976e-c8a00c20f8c2"
+        },
+        {
+          "name": "The Parallax II: Future Sequence",
+          "date": "2012-05-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8b09f173-6bd4-41f5-9920-403dccf66a95"
+        },
+        {
+          "name": "Colors",
+          "date": "2007-09-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/97c06f4a-0206-3547-b5f4-c44be9334bc1"
+        },
+        {
+          "name": "Astral Body (live)",
+          "date": "2013",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9c128da7-0cb5-465b-be7e-2de435b35913"
+        },
+        {
+          "name": "The Great Misdirect – Album Sampler",
+          "date": "2009-09-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a6ea6b4b-38e9-495f-9bf6-711fcd2bbc3b"
+        },
+        {
+          "name": "Best of Between the Buried and Me",
+          "date": "2011-03-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a76a22be-dbac-495f-ac26-e17355789e4c"
+        },
+        {
+          "name": "Turn On the Darkness (live)",
+          "date": "2017-04-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a9f3e50a-b192-4248-a36f-1ea2a702ba2f"
+        },
+        {
+          "name": "Colors II",
+          "date": "2021-08-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/adf5f8d1-a33e-4da8-b55b-39f67680050a"
+        },
+        {
+          "name": "BTBAM × TDH Split",
+          "date": "2018-03-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b7991411-1f0c-4ee2-8835-71f21228e2eb"
+        },
+        {
+          "name": "Automata I",
+          "date": "2018-03-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bb991e7b-248e-42be-afc6-3381fff13989"
+        },
+        {
+          "name": "Between the Buried and Me",
+          "date": "2002-04-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c317a140-7987-3203-b0fe-b9e771704ccd"
+        },
+        {
+          "name": "Coma Ecliptic: Live",
+          "date": "2017-04-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d8304124-1683-4575-845a-693b1659cd88"
+        },
+        {
+          "name": "Condemned to the Gallows",
+          "date": "2018-01-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ecbcc068-60b1-4759-ad65-5b8f2bbfadcb"
+        },
+        {
+          "name": "The Parallax: Hypersleep Dialogues / The Parallax II: Future Sequence",
+          "date": "2013-04-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ee29ab1a-6a00-44ab-a563-b1a5cc6ce898"
+        },
+        {
+          "name": "The Parallax: Hypersleep Dialogues",
+          "date": "2011-04-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f0fe1be4-3b29-4ae5-806c-6691c515dfb4"
+        }
+      ]
+    },
+    "black-sabbath": {
+      "name": "Black Sabbath",
+      "musicbrainz_url": "https://musicbrainz.org/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+      "reference_checked_at": "2026-10-04T17:01:30.510830+00:00",
+      "genres": "blues rock, classic rock, doom metal, hard rock, heavy metal, metal, rock, traditional doom metal",
+      "website": "https://www.blacksabbath.com/",
+      "members": [
+        {
+          "name": "Geezer Butler",
+          "role": "bass guitar, original, synthesizer",
+          "begin": "1997"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+      "albums": [
+        {
+          "name": "TYR",
+          "date": "1990-08-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/00f64d57-aeaf-3925-ac5e-072fdcb7c3f6"
+        },
+        {
+          "name": "Gypsy",
+          "date": "1976",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/01ad2c94-c147-44c6-a3b3-b04d78700fc5"
+        },
+        {
+          "name": "The Complete 70’s Replica CD Collection: 1970–1978",
+          "date": "2001-10-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/043e6abd-a759-416c-b01b-bf6dd1d5b2ca"
+        },
+        {
+          "name": "Cross Purposes",
+          "date": "1994-01-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0a321887-9d3d-3600-90d1-67540a409177"
+        },
+        {
+          "name": "Iron Man / Paranoid",
+          "date": "1975",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0a92b9e8-8163-405d-a450-7c915f8e1934"
+        },
+        {
+          "name": "Dehumanizer",
+          "date": "1992-06-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0db80cc3-becc-3ee7-8abe-de42d368ca54"
+        },
+        {
+          "name": "Reflection",
+          "date": "1975",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/13ae7e82-cdc3-42af-99f6-4dab5038e614"
+        },
+        {
+          "name": "Iron Man",
+          "date": "1971",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/14b2c9cf-65af-47be-81b6-1a6346825a09"
+        },
+        {
+          "name": "The Gallery, Volume 6",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/166019db-5842-4722-b210-31beeb92dc4d"
+        },
+        {
+          "name": "Never Say Die",
+          "date": "1978-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1f60c67f-8b1c-4c72-aeea-fddd2fbc94f0"
+        },
+        {
+          "name": "Black Mass",
+          "date": "1999-12-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22a75db3-b3cd-30d0-89f4-854477888728"
+        },
+        {
+          "name": "Headless Cross",
+          "date": "1989-06-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/230fa643-0fdf-34a4-b6e4-3cf8563dcf11"
+        },
+        {
+          "name": "The Original Black Sabbath",
+          "date": "1976",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2387c0f2-4c49-47c3-9aa1-f37c299e0138"
+        },
+        {
+          "name": "Mob Rules",
+          "date": "1981-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/23c714de-7830-4a16-a7a8-d6e91b34704d"
+        },
+        {
+          "name": "Forever",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/271283a0-a9a6-4647-88fe-bd098e220ba6"
+        },
+        {
+          "name": "The Wizard",
+          "date": "1970",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/28526f39-fd8b-4e0f-aa74-31454ffec289"
+        },
+        {
+          "name": "Paranoid",
+          "date": "1970-08-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2f1757aa-01ec-4d58-9b6b-297dc3a9722f"
+        },
+        {
+          "name": "The Ultimate Collection",
+          "date": "2016-10-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3044d284-4aea-4dbb-849b-40e443998c54"
+        },
+        {
+          "name": "Sabbath Bloody Sabbath",
+          "date": "1973",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/305f4400-c949-42c4-91b5-b22f03123e2b"
+        },
+        {
+          "name": "The Best of Black Sabbath",
+          "date": "1996-11-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/32e5387e-e2f2-335f-a5b8-5ae22a689943"
+        },
+        {
+          "name": "Mob Rules",
+          "date": "1981-11-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/35cb9c0a-3cce-3efd-ac19-014f4811620d"
+        },
+        {
+          "name": "Live… Gathered in Their Masses",
+          "date": "2013-11-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/36c31ee4-b582-4c24-bc25-03c4dd84ad5a"
+        },
+        {
+          "name": "Under Wheels of Confusion: 1970–1987",
+          "date": "1996-11-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/37d6c36a-8469-3304-a2ec-a124021289df"
+        },
+        {
+          "name": "Between Heaven & Hell: The Best of Black Sabbath",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/393bf9b5-94a8-3990-8e8b-ad5df2a191a9"
+        },
+        {
+          "name": "Live at Hammersmith Odeon",
+          "date": "2007-05-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3eb564fc-e527-3c35-b7b8-13bc60a75db9"
+        },
+        {
+          "name": "The Ozzy Osbourne Years",
+          "date": "1991-10-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4097007c-2f17-3763-830c-91c199a06c63"
+        },
+        {
+          "name": "The Sabbath Collection",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/40a39272-ffdc-35ab-ac7c-3c89d88eda28"
+        },
+        {
+          "name": "Iron Man",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/40a4d833-83db-388b-9064-1bca7bf4bb88"
+        },
+        {
+          "name": "Heaven and Hell",
+          "date": "1980-04-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/43ac82b5-eceb-3909-a153-3c00ea9c7b9a"
+        },
+        {
+          "name": "The Black Sabbath Story",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/45625871-3888-367a-a35e-75cca63512e8"
+        },
+        {
+          "name": "Cross Box",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4a9f43de-5d9f-4022-bafa-f571fadbc904"
+        },
+        {
+          "name": "Reunion",
+          "date": "1998-10-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5048cda8-4269-3226-a289-71ef84c3ff0e"
+        },
+        {
+          "name": "The Collection",
+          "date": "1999-06-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5107cf74-3621-359b-bfb0-70bd454234b2"
+        },
+        {
+          "name": "Hand of Doom: 4 Record Set",
+          "date": "1984",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5597aa22-9cf0-4508-929b-f0bf53c71748"
+        },
+        {
+          "name": "Symptom of the Universe: The Original Black Sabbath 1970–1978",
+          "date": "2002-10-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5a0c8edc-94b9-3776-97e9-d5bd56f191f4"
+        },
+        {
+          "name": "13",
+          "date": "2013-06-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5cbae3a0-6d55-497b-97b3-6c30a3264313"
+        },
+        {
+          "name": "Supersonic Years: The Seventies Singles Box Set",
+          "date": "2018-06-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5d7f6b3a-8940-4e9f-bbf2-2805e626dab5"
+        },
+        {
+          "name": "Ozzy Osbourne Best Tracks",
+          "date": "1996-02-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5e51e782-dcb8-40fd-be02-d1be76318ae7"
+        },
+        {
+          "name": "The Ultimate in Heavy Metal",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6007a363-71be-4384-851e-4d0e2dade742"
+        },
+        {
+          "name": "Tomorrow’s Dream",
+          "date": "1972",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/605abbf7-9ec4-4fd9-9a36-67e73e293828"
+        },
+        {
+          "name": "Live at Last",
+          "date": "1980-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/60f90477-1113-30e6-8b73-a2629ec7d0ec"
+        },
+        {
+          "name": "Hand of Doom: 1970–1978",
+          "date": "2023-12-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/68563367-b4d2-4d8e-81fd-58177903d966"
+        },
+        {
+          "name": "The Masters of Heavy Metal",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/692115d9-adb7-4b27-9f1c-9aedbe93474d"
+        },
+        {
+          "name": "Collection",
+          "date": "2025-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6b705b68-a5a7-47a2-899d-66b2a4c5b7a7"
+        },
+        {
+          "name": "Between Heaven and Hell: 1970–1983",
+          "date": "1995-09-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/751a95be-f17d-312f-b229-8145ebc531cf"
+        },
+        {
+          "name": "Anno Domini: 1989–1995",
+          "date": "2024-05-31",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/76109961-0d11-4a85-9dbe-b8a4c0c9f81f"
+        },
+        {
+          "name": "Rock Giants",
+          "date": "1997-08-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7d841a28-c4eb-311d-8570-a05533cf18bb"
+        },
+        {
+          "name": "Attention! Black Sabbath!",
+          "date": "1972-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7ffe94e1-6c57-47a8-b164-dea4fe39fe89"
+        },
+        {
+          "name": "Black Sabbath",
+          "date": "1970-02-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/826c9743-a3f0-3479-bf06-8df2e140ef1d"
+        },
+        {
+          "name": "The Singles: 1970–1978",
+          "date": "2000-09-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8633d4e7-c101-3c4a-9468-3f8f51b9e32e"
+        },
+        {
+          "name": "The Ten Year War",
+          "date": "2017-10-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8678c050-cffb-4c53-a789-a20632293304"
+        },
+        {
+          "name": "Rock Champions",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/87edf30c-e586-4c88-b386-b7d58ca70995"
+        },
+        {
+          "name": "The End",
+          "date": "2016-01-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/89bcb51e-c554-4440-9fbe-79493cebed39"
+        },
+        {
+          "name": "Vol 4",
+          "date": "1972-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8c292627-3459-3852-8ebc-226c12db175d"
+        },
+        {
+          "name": "The History of Rock: Volume Twenty Seven",
+          "date": "1984",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8ed49e47-c1b6-488d-a869-35599f69fbbf"
+        },
+        {
+          "name": "Sabotage",
+          "date": "1975-07-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8ef6fc58-d87a-46cf-ab9d-077291784ada"
+        },
+        {
+          "name": "It’s Alright",
+          "date": "1976",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9099fcc3-a26b-4a0b-99f8-286aa2c1c666"
+        },
+        {
+          "name": "Black Sabbath / Paranoid",
+          "date": "1976",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/92c80d1e-4ed5-427c-b3ec-ab215b63504b"
+        },
+        {
+          "name": "Backtrackin’",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9349ccb7-9cff-3946-8a8f-8e7f5884950b"
+        },
+        {
+          "name": "Sweet Leaf",
+          "date": "1971",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9382394e-ccbf-4bdc-b721-0c9981107c4b"
+        },
+        {
+          "name": "The Complete Ozzy Years: 1970–1978",
+          "date": "2010-11-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/95f2b56e-761b-4c5a-a82f-8837abf66d66"
+        },
+        {
+          "name": "The Vinyl Collection: 1970–1978",
+          "date": "2012-12-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/975dc0e1-1d73-4934-a59a-5432a11e5f4b"
+        },
+        {
+          "name": "Live Evil",
+          "date": "1982",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/99422f01-9939-38bf-972a-4a502d19ad41"
+        },
+        {
+          "name": "Attention! Black Sabbath! Volume 2",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9f10c0c4-309b-45de-8a94-0fb19cc75e33"
+        },
+        {
+          "name": "Iron Man",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9f6da4f0-484c-3315-bb78-a11512a4df51"
+        },
+        {
+          "name": "Seventh Star",
+          "date": "1986-01-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9ff01b54-79d5-343b-9a52-242e5627d652"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "1977",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a0a6e8e0-71dc-39d3-9f1f-066ae17e869b"
+        },
+        {
+          "name": "Cross Purposes – Live",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a109b4ff-3783-304a-b69d-77785b52547c"
+        },
+        {
+          "name": "The Best of Ozzy Osbourne Years",
+          "date": "1995-02-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a2b9216c-aa72-41cc-ab5e-6279899a90e5"
+        },
+        {
+          "name": "The Sabbath Stones",
+          "date": "1996-04-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a95c06e4-472a-31b2-97c3-608eeb9c0883"
+        },
+        {
+          "name": "The End",
+          "date": "2017-11-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ada5be7e-5237-45ff-876d-68bb6ef466ad"
+        },
+        {
+          "name": "The Complete Albums 1970–1978",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b29cdcf3-44c7-4d13-9462-8de278e40a44"
+        },
+        {
+          "name": "Black Sabbath",
+          "date": "1990-10-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b3d0a501-7fe6-4428-9d1e-eb6699f0d863"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2009-06-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b4c87ec2-4cff-4c89-bfe8-d0c4ea841816"
+        },
+        {
+          "name": "Greatest Hits 1970–1978",
+          "date": "2006-03-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b5b8f41e-2168-3952-8abb-7f84ca0d2f58"
+        },
+        {
+          "name": "Die Young",
+          "date": "1980-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bbaccab5-623f-4a81-858c-62c233de0d3f"
+        },
+        {
+          "name": "Black Box: The Complete Original Black Sabbath 1970–1978",
+          "date": "2004-04-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bf70c36b-6f8f-31d1-b348-f67065409b1b"
+        },
+        {
+          "name": "Am I Going Insane (Radio)",
+          "date": "1976-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c146f6ff-d8b9-4216-844a-7e90301db976"
+        },
+        {
+          "name": "The Very Best of Black Sabbath",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c794373a-7b6e-32e2-884e-03f605bfa228"
+        },
+        {
+          "name": "Hard Road",
+          "date": "1978-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c7c2a0c1-c486-4fbe-87ab-d72a883b49ad"
+        },
+        {
+          "name": "Blackest Sabbath: Black Sabbath 1970–1987",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c9617eb6-abd0-3e3b-b337-45303f4ead40"
+        },
+        {
+          "name": "Paranoid",
+          "date": "1970-09-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cc053745-c447-3566-8f27-bed5438c9133"
+        },
+        {
+          "name": "Vol 4 / Master of Reality",
+          "date": "1977",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d319e2f1-3066-4f16-bd8e-4c4365bc692d"
+        },
+        {
+          "name": "Black Sabbath",
+          "date": "1970",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d38fc9a6-62bd-40bd-8162-7a4146d3e519"
+        },
+        {
+          "name": "Heavy Metal, Vol. 1",
+          "date": "1984",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d4c34b6a-ce19-41f8-953d-11648c0194ef"
+        },
+        {
+          "name": "Forbidden",
+          "date": "1995-06-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dcb2536b-a011-33d3-b364-a4e724e5a7a8"
+        },
+        {
+          "name": "Sabbath Bloody Sabbath",
+          "date": "1973-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dd9bd473-0232-3a12-b51e-742de1aca5ca"
+        },
+        {
+          "name": "Technical Ecstasy",
+          "date": "1976-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/de117377-2f09-3502-8959-e1eca1b583a8"
+        },
+        {
+          "name": "Born Again",
+          "date": "1983-08-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/de7de788-0f31-338a-9d82-8a09108e429f"
+        },
+        {
+          "name": "Master of Reality",
+          "date": "1971-07-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e51e9779-2edc-3b39-959c-299fdb5ed940"
+        },
+        {
+          "name": "Past Lives",
+          "date": "2002-08-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e5499f6f-b3b9-3c0c-98da-8d53be41ffbd"
+        },
+        {
+          "name": "Never Say Die!",
+          "date": "1978-09-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/eb8c8e6c-b554-31d3-bae0-1c4ea64336d0"
+        },
+        {
+          "name": "The Dio Years",
+          "date": "2007-03-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ebe9bc5e-d5da-31c4-8e8a-8c5c54700b48"
+        },
+        {
+          "name": "Evil Woman",
+          "date": "1970-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ed678655-e87f-467a-825d-1172eec3531d"
+        },
+        {
+          "name": "Sabbath Bloody Sabbath / Black Sabbath",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/edf5c7c6-5508-49eb-b554-dc8bad3b72df"
+        },
+        {
+          "name": "Children of the Grave",
+          "date": "1972",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f09319ba-afbd-4d5b-8353-ed4518fbf4c0"
+        },
+        {
+          "name": "Neon Knights",
+          "date": "1980-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f5857b20-d4f6-4232-bf6c-ae3c14e3ade3"
+        },
+        {
+          "name": "The Rules of Hell",
+          "date": "2008-07-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f91d34e0-a85c-3677-8d75-88f994f45683"
+        },
+        {
+          "name": "The Eternal Idol",
+          "date": "1987-11-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fb123ba6-4a78-3ed3-bee3-cf939fac6411"
+        },
+        {
+          "name": "We Sold Our Soul for Rock ’n’ Roll",
+          "date": "1976",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fc3ddbd9-6e1b-3777-99f2-6ef324f2ad23"
+        }
+      ]
     }
   },
   "checked": {
@@ -2947,6 +3813,8 @@
     "arch-enemy": "2026-10-04T06:24:02.395598+00:00",
     "at-the-gates": "2026-10-04T06:24:06.237858+00:00",
     "ayreon": "2026-10-04T12:36:43.655909+00:00",
-    "behemoth": "2026-10-04T12:36:44.904740+00:00"
+    "behemoth": "2026-10-04T12:36:44.904740+00:00",
+    "between-the-buried-and-me": "2026-10-04T17:01:26.001056+00:00",
+    "black-sabbath": "2026-10-04T17:01:30.511096+00:00"
   }
 }
