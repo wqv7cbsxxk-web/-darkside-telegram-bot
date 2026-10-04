@@ -38,8 +38,8 @@ def build():
     )
     if count != 1:
         raise RuntimeError("musicData element is missing from docs/index.html")
-    json_seeds = {"profilesSeed", "artistsSeed", "musicSeed"}
-    for element, source, script in [("appCode", APP, True), ("appStyles", STYLES, False), ("profilesSeed", PROFILES, True), ("artistsSeed", ARTISTS, True), ("musicSeed", MUSIC_CACHE, True)]:
+    json_seeds = {"profilesSeed", "artistsSeed", "musicSeed", "metalArchivesSeed"}
+    for element, source, script in [("metalArchivesSeed", Path("docs/metal_archives.json"), True), ("appCode", APP, True), ("appStyles", STYLES, False), ("profilesSeed", PROFILES, True), ("artistsSeed", ARTISTS, True), ("musicSeed", MUSIC_CACHE, True)]:
         text = source.read_text(encoding="utf-8")
         if element in json_seeds:
             text = json.dumps(json.loads(text), ensure_ascii=False, separators=(",", ":"))

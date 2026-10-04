@@ -31,8 +31,8 @@ async function boot(search=''){
  const {app,document,window,click,change,handlers}=await boot();
  assert(app.preferences.favorites.includes('opeth'),'preserve legacy favorites');
  assert.equal(document.querySelectorAll('.nav [data-view]').length,4);
- click('[data-view="bands"]');assert.equal(app.state.view,'bands');assert(document.querySelector('#list').textContent.includes('Opeth'));assert(!document.querySelector('#list').textContent.includes('Metallica'));
- click('[data-view="all"]');const initial=document.querySelectorAll('#list article').length;assert(initial>2);
+ click('[data-view="bands"]');assert(document.querySelector('.favorite-grid'),'favorites have a compact grid');assert(document.querySelector('.favorite-tile .favorite-open'));assert.equal(app.state.view,'bands');assert(document.querySelector('#list').textContent.includes('Opeth'));assert(!document.querySelector('#list').textContent.includes('Metallica'));
+ click('[data-view="all"]');const initial=document.querySelectorAll('#list article').length;assert(initial>2);assert(document.querySelector('.card.is-unread .read-state').textContent.includes('Не прочитано'));
  app.openSettings();assert(!document.querySelector('#settingsPanel').classList.contains('hidden'));
  const checks=[...document.querySelectorAll('.setting-check')];
  change(checks.find(x=>x.textContent==='Darkside').querySelector('input'),false);
@@ -57,7 +57,7 @@ async function boot(search=''){
  // Source, category and topic switches all apply; all sources off has a recovery action.
  app.openSettings();for(const row of document.querySelectorAll('.setting-check'))if(articles.articles.some(a=>a.source===row.textContent))change(row.querySelector('input'),false);app.closeSettings();app.setView('all');app.setView('all');assert.equal(app.selectArticles(articles.articles).length,0);assert(document.querySelector('#list').textContent.includes('Изменить фильтры'));
  // Mark read after scrolling; exact title/url navigation is preserved.
- app.openArticle(story);window.scrollY=200;handlers.scroll();assert(app.preferences.read.includes(story.id));
+ app.openArticle(story);window.scrollY=200;handlers.scroll();assert(app.preferences.read.includes(story.id));app.goBack();app.setView('saved');assert(document.querySelector('[data-article-id="'+story.id+'"]').classList.contains('is-read'));app.openBand({id:'iron-maiden',name:'Iron Maiden'});assert([...document.querySelectorAll('#bandInfo a')].some(a=>a.href.includes('metal-archives.com')));
  // A successful initial request must keep polling; newly published news goes first.
  storage.clear();const live=await boot();assert.equal(live.timers.at(-1).delay,60000);
  const fresh={...articles.articles[0],id:'fresh',title:'Самая свежая новость',published:'2026-10-03T12:00:00Z'};
