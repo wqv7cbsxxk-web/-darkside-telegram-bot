@@ -2,13 +2,14 @@ const assert=require('node:assert/strict');
 const fs=require('node:fs');
 const vm=require('node:vm');
 const {parseHTML}=require('linkedom');
-const articles=JSON.parse(fs.readFileSync('docs/articles.json','utf8'));
+const articles=JSON.parse(fs.readFileSync('tests/fixtures/articles.json','utf8'));
 const catalog=JSON.parse(fs.readFileSync('docs/artists.json','utf8'));
 const profiles=JSON.parse(fs.readFileSync('docs/artist_profiles.json','utf8'));
 const script=fs.readFileSync('docs/app.js','utf8');
 const storage=new Map();
 async function boot(search=''){
  const {document,window:domWindow}=parseHTML(fs.readFileSync('docs/index.html','utf8'));
+ document.getElementById('articlesSeed').textContent=JSON.stringify({...articles,generated_at:Date.now()});
  const window={Event:domWindow.Event};
  Object.defineProperty(domWindow.HTMLSelectElement.prototype,'value',{configurable:true,get(){return [...this.options].find(x=>x.selected)?.value||'';},set(value){for(const o of this.options)o.selected=o.value===String(value);}});
  const handlers={},timers=[];let feed=articles,fail=false;
@@ -31,7 +32,7 @@ async function boot(search=''){
  assert(app.preferences.favorites.includes('opeth'),'preserve legacy favorites');
  assert.equal(document.querySelectorAll('.nav [data-view]').length,4);
  click('[data-view="bands"]');assert.equal(app.state.view,'bands');assert(document.querySelector('#list').textContent.includes('Opeth'));assert(!document.querySelector('#list').textContent.includes('Metallica'));
- click('[data-view="all"]');const initial=document.querySelectorAll('#list article').length;assert(initial>20);
+ click('[data-view="all"]');const initial=document.querySelectorAll('#list article').length;assert(initial>2);
  app.openSettings();assert(!document.querySelector('#settingsPanel').classList.contains('hidden'));
  const checks=[...document.querySelectorAll('.setting-check')];
  change(checks.find(x=>x.textContent==='Darkside').querySelector('input'),false);

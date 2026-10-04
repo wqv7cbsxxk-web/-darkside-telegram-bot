@@ -1,14 +1,14 @@
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const vm = require('node:vm');
-const data=JSON.parse(fs.readFileSync('docs/articles.json','utf8'));
+const data=JSON.parse(fs.readFileSync('tests/fixtures/articles.json','utf8'));
 const catalog=JSON.parse(fs.readFileSync('docs/artists.json','utf8'));
 const html=fs.readFileSync('docs/index.html','utf8');
 const script=html.match(/<script id="appCode">([\s\S]*?)<\/script>/)[1];
 assert.equal(script,fs.readFileSync('docs/app.js','utf8'),'published app must match its maintained source');
 for(const tag of html.matchAll(/<script\b[^>]*\bsrc=[^>]*>/g))assert.match(tag[0],/\b(?:async|defer)\b/,'a stalled script download must not block parsing or the inline news app');
 const profiles=JSON.parse(fs.readFileSync('docs/artist_profiles.json','utf8'));
-const seedJson=fs.readFileSync('docs/index.html','utf8').match(/<script id="articlesSeed" type="application\/json">([\s\S]*?)<\/script>/)[1];
+const seedJson=JSON.stringify({...data,generated_at:Date.now()});
 const storage=new Map();
 async function boot(article=null,initialSearch='',fetchImpl=null,telegram=null,storageUnavailable=false){
  const nodes=new Map();
