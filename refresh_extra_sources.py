@@ -15,6 +15,16 @@ REVIEWED={'hulder':{'name':'Hulder','website':'https://hulder-official.com/','ba
 def now():return datetime.now(timezone.utc).isoformat()
 def get(url,params=None):
     r=SESSION.get(url,params=params,timeout=14);r.raise_for_status();return r
+def metal_genres(row):
+    # Broad "rock" categories and band names alone never establish metal.
+    values=[]
+    for key in ('genres','genre','tags','description'):
+        value=row.get('announcement',{}).get(key,row.get(key,''))
+        if isinstance(value,(dict,list)):value=json.dumps(value,ensure_ascii=False)
+        values.append(str(value))
+    text=' '.join(values)
+    return ['metal'] if re.search(r'\bmetal\b|метал(?:л)?|deathcore|дэткор',text,re.I) else []
+
 def parse_concerts(html,source_url=MTS):
     soup=BeautifulSoup(html,'html.parser')
     script=soup.select_one('#__NEXT_DATA__')
@@ -27,12 +37,14 @@ def parse_concerts(html,source_url=MTS):
         if row.get('status')!='Registered':continue
         stamp=row.get('date','')
         if not re.fullmatch(r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}',stamp):continue
+        genres=metal_genres(row)
+        if not genres:continue
         title=row.get('announcement',{}).get('title','').strip()
         if not title or not row.get('widgetUrl','').startswith('/novosibirsk/announcements/'):continue
         key=re.sub(r'[^\w]+','',title.casefold())+'|'+stamp
         if key in seen:continue
         seen.add(key);identifier=hashlib.sha256((key+'|'+venue['title']).encode()).hexdigest()[:20]
-        events.append({'id':identifier,'title':title,'date':stamp[:10],'time':stamp[11:16],'city':city,'venue':venue['title'],'source_url':urljoin(source_url,row['widgetUrl']),'source':'МТС Live','checked_at':now()})
+        events.append({'id':identifier,'genres':genres,'genre_source':source_url,'title':title,'date':stamp[:10],'time':stamp[11:16],'city':city,'venue':venue['title'],'source_url':urljoin(source_url,row['widgetUrl']),'source':'МТС Live','checked_at':now()})
     return events
 def parse_bandcamp_release(html,expected,url):
     soup=BeautifulSoup(html,'html.parser')
@@ -101,7 +113,6 @@ def refresh(limit=4):
     REF.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
     try:
         events=parse_concerts(get(MTS).text)
-        if not events:raise ValueError('Empty schedule retained for inspection')
         EVENTS.write_text(json.dumps({'events':events,'checked_at':now()},ensure_ascii=False,indent=2)+'\n')
         print('Concerts refreshed:',len(events))
     except Exception as e:print('Concert schedule retained:',type(e).__name__)

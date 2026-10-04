@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='metal-news-shell-20261004-3',SCOPE=new URL(self.registration.scope);
+const CACHE='metal-news-shell-20261004-4',SCOPE=new URL(self.registration.scope);
 const path=name=>new URL(name,SCOPE).href;
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(['./','pwa.js','manifest.webmanifest','icons/metal-news-20261004-180.png','icons/metal-news-20261004-192.png','icons/metal-news-20261004-512.png'].map(path))).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('metal-news-shell-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));

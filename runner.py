@@ -1,3 +1,5 @@
+from article_media import extract_media
+_page_media = {}
 import html
 import json
 import os
@@ -139,6 +141,7 @@ def fetch_full_article(url):
         # Darkside has unbalanced font/a tags. Parse its bytes with HTML5 rules
         # (including the declared Windows-1251 encoding), as the browser does.
         soup = bot.BeautifulSoup(r.content, "html5lib") if is_darkside else bot.BeautifulSoup(r.text, "html.parser")
+        _page_media[url] = extract_media(soup, url)
         for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "aside", "form", "button", "svg"]):
             tag.decompose()
         if is_darkside:
@@ -455,6 +458,7 @@ def prepare_article(cand):
     _article_translation_failed = False
     article = _base_prepare_article(cand)
     prepared = _prepared_article_text.pop(cand["id"], {})
+    article["media"] = _page_media.pop(cand["link"], [])
     if cand['source'] != 'Darkside' and prepared.get('original'):
         article['original_paragraphs'] = prepared['original']
         article['content_complete'] = prepared.get('content_complete', False)
@@ -523,6 +527,8 @@ def retry_saved_translations(limit=2):
             article["translation_retry_after"] = int(time.time()) + 3600
             continue
         article.update({key: result[key] for key in ("title", "short", "paragraphs", "artists", "topics", "original_title")})
+        if result.get("media"):
+            article["media"] = result["media"]
         article.pop("translation_pending", None)
         article.pop('content_pending', None)
         article.pop('content_status', None)

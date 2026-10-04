@@ -6,6 +6,8 @@ on:
     paths:
       - 'local_translation.py'
       - 'runner.py'
+      - 'article_media.py'
+      - 'refresh_extra_sources.py'
       - 'bot.py'
       - 'tests/**'
       - 'build_mini_app_data.py'
@@ -80,7 +82,9 @@ jobs:
       - name: Embed current feed for Telegram WebView
         id: embed
         if: ${{ always() && (steps.aggregator.outcome == 'success' || steps.aggregator.outcome == 'failure') }}
-        run: python build_mini_app_data.py
+        run: |
+          python article_media.py
+          python build_mini_app_data.py
 
       - name: Save bot state and Mini App articles
         if: ${{ always() && steps.embed.outcome == 'success' }}

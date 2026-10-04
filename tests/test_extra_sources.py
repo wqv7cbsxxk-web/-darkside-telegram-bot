@@ -2,9 +2,11 @@ import json, unittest
 from refresh_extra_sources import parse_concerts,parse_bandcamp_release,parse_musicbrainz_artist
 class ExtraSourcesTests(unittest.TestCase):
     def test_concerts_deduplicate_and_reject_wrong_city(self):
-        state={'Core':{'region':{'name':'Новосибирск'}},'Venues':{'venue':{'title':'Подземка'}},'Schedule':{'venueEventCollection':{'items':[{'status':'Registered','date':'2026-10-18T19:00:00','announcement':{'title':'Концерт Lumen'},'widgetUrl':'/novosibirsk/announcements/lumen'}]*2}}}
+        state={'Core':{'region':{'name':'Новосибирск'}},'Venues':{'venue':{'title':'Подземка'}},'Schedule':{'venueEventCollection':{'items':[{'status':'Registered','date':'2026-10-18T19:00:00','announcement':{'title':'Metal band','genres':['heavy metal']},'widgetUrl':'/novosibirsk/announcements/lumen'}]*2}}}
         def html():return '<script id="__NEXT_DATA__">'+json.dumps({'props':{'pageProps':{'initialState':state}}})+'</script>'
         rows=parse_concerts(html());self.assertEqual(len(rows),1);self.assertEqual(rows[0]['time'],'19:00')
+        state['Schedule']['venueEventCollection']['items'][0]['announcement']['genres']=['rock']
+        self.assertEqual(parse_concerts(html()),[])
         state['Core']['region']['name']='Москва'
         with self.assertRaises(ValueError):parse_concerts(html())
     def test_bandcamp_preserves_date_without_inventing_studio_type(self):

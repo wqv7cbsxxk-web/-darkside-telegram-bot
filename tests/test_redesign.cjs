@@ -10,7 +10,7 @@ const storage=new Map();
 async function boot(search=''){
  const {document,window:domWindow}=parseHTML(fs.readFileSync('docs/index.html','utf8'));
  document.getElementById('articlesSeed').textContent=JSON.stringify({...articles,generated_at:Date.now()});
- document.getElementById('concertsSeed').textContent=JSON.stringify({events:[{id:'test-city-event',title:'Test band concert',date:'2099-10-09',time:'19:00',city:'Новосибирск',venue:'Test venue',source_url:'https://example.org/show'}]});
+ document.getElementById('concertsSeed').textContent=JSON.stringify({events:[{id:'test-city-event',genres:['metal'],genre_source:'https://example.org/show',title:'Test band concert',date:'2099-10-09',time:'19:00',city:'Новосибирск',venue:'Test venue',source_url:'https://example.org/show'}]});
  const window={Event:domWindow.Event};
  Object.defineProperty(domWindow.HTMLSelectElement.prototype,'value',{configurable:true,get(){return [...this.options].find(x=>x.selected)?.value||'';},set(value){for(const o of this.options)o.selected=o.value===String(value);}});
  const handlers={},timers=[];let feed=articles,fail=false;
@@ -83,6 +83,8 @@ async function boot(search=''){
  assert(!scrollCase.document.querySelector('.nav [data-view="discover"]'));
  assert(scrollCase.document.querySelector('.nav [data-view="concerts"]'));
  scrollCase.app.setView('concerts');assert(scrollCase.document.querySelectorAll('.concert-card').length>0);
+ const sample={...articles.articles[0],media:[{type:'image',url:'https://example.org/photo.jpg',caption:'Band'},{type:'video',url:'https://youtu.be/test'},{type:'image',url:'javascript:alert(1)'}]};
+ scrollCase.app.openArticle(sample);assert.equal(scrollCase.document.querySelectorAll('.article-media img').length,1);assert.equal(scrollCase.document.querySelector('.media-link').href,'https://youtu.be/test');
  scrollCase.app.openNotifications();assert(scrollCase.document.querySelectorAll('.notification-row').length>0);
 
  console.log('Redesign: migration, root tabs, persisted filters/theme, complete deep links, scroll/back stacks, musician/album navigation and archived saved snapshots verified.');
