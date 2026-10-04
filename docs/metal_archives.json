@@ -43,11 +43,26 @@
         }
       ],
       "discography_url": "https://www.metal-archives.com/band/discography/id/25/tab/main"
+    },
+    "dream-theater": {
+      "name": "Dream Theater",
+      "source_url": "https://www.metal-archives.com/bands/Dream_Theater/37",
+      "content_unavailable": true
+    },
+    "opeth": {
+      "name": "Opeth",
+      "source_url": "https://www.metal-archives.com/bands/Opeth/38",
+      "content_unavailable": true
+    },
+    "wolves-in-the-throne-room": {
+      "name": "Wolves In The Throne Room",
+      "source_url": "https://www.metal-archives.com/bands/Wolves_In_The_Throne_Room/35741",
+      "content_unavailable": true
     }
   },
   "checked": {
-    "dream-theater": "2026-10-04T00:50:04Z",
-    "opeth": "2026-10-04T00:50:13Z",
-    "wolves-in-the-throne-room": "2026-10-04T00:50:21Z"
+    "dream-theater": "2026-10-04T00:58:20Z",
+    "opeth": "2026-10-04T00:58:21Z",
+    "wolves-in-the-throne-room": "2026-10-04T00:58:22Z"
   }
 }

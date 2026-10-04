@@ -1565,7 +1565,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://manowar.com",
       "reference_url": "https://en.wikipedia.org/wiki/Manowar",
-      "reference_checked_at": "2026-10-02T02:23:15.662594+00:00"
+      "reference_checked_at": "2026-10-02T02:23:15.662594+00:00",
+      "tour_attempted_at": "2026-10-04T00:58:09.981776+00:00"
     },
     "megadeth": {
       "origin": "Los Angeles , California , U.S.",
@@ -1592,7 +1593,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://megadeth.com",
       "reference_url": "https://en.wikipedia.org/wiki/Megadeth",
-      "reference_checked_at": "2026-10-02T02:23:21.201150+00:00"
+      "reference_checked_at": "2026-10-02T02:23:21.201150+00:00",
+      "tour_attempted_at": "2026-10-04T00:58:10.813885+00:00"
     },
     "meshuggah": {
       "origin": "Umeå , Sweden",
@@ -1623,7 +1625,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://meshuggah.net",
       "reference_url": "https://en.wikipedia.org/wiki/Meshuggah",
-      "reference_checked_at": "2026-10-02T02:23:21.259970+00:00"
+      "reference_checked_at": "2026-10-02T02:23:21.259970+00:00",
+      "tour_attempted_at": "2026-10-04T00:58:12.885581+00:00"
     },
     "metallica": {
       "origin": "Los Angeles , California, U.S.",
@@ -1650,7 +1653,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://metallica.com",
       "reference_url": "https://en.wikipedia.org/wiki/Metallica",
-      "reference_checked_at": "2026-10-02T02:23:21.523300+00:00"
+      "reference_checked_at": "2026-10-02T02:23:21.523300+00:00",
+      "tour_attempted_at": "2026-10-04T00:58:13.333111+00:00"
     },
     "morbid-angel": {
       "origin": "Tampa, Florida , U.S.",
