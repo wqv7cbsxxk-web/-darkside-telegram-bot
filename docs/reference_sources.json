@@ -4095,6 +4095,617 @@
           "source_url": "https://musicbrainz.org/release-group/f11c02a8-a963-42d4-af77-843b56c91d90"
         }
       ]
+    },
+    "bruce-springsteen": {
+      "name": "Bruce Springsteen",
+      "musicbrainz_url": "https://musicbrainz.org/artist/70248960-cb53-4ea4-943a-edb18f7d336f",
+      "reference_checked_at": "2026-10-04T22:47:06.319022+00:00",
+      "genres": "alternative folk, americana, aor, classic rock, contemporary folk, folk, folk rock, heartland rock, pop rock, rock, rock and roll, singer-songwriter, soft rock",
+      "website": "https://brucespringsteen.net/",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/70248960-cb53-4ea4-943a-edb18f7d336f",
+      "albums": [
+        {
+          "name": "The Live Series: Stripped Down",
+          "date": "2020-07-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/012d7288-51d6-40f6-ad11-25c25bd6635f"
+        },
+        {
+          "name": "Road Diary",
+          "date": "2024-10-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/09205013-ee8b-4a48-be3b-212f3e90df47"
+        },
+        {
+          "name": "The Live Series: Songs of Character",
+          "date": "2023-04-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0c7f4c82-9543-47ad-afde-4b4b3e45a41c"
+        },
+        {
+          "name": "The Live Series Collection",
+          "date": "2020-06-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0c8d9a0b-baba-40fd-88fe-9e4c0cdd7fd3"
+        },
+        {
+          "name": "The Born in the U.S.A. 12″ Single Collection",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0d849d30-df2d-442e-bc3f-0476027faedc"
+        },
+        {
+          "name": "The Live Series: Songs of New Jersey",
+          "date": "2023-09-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/113cb855-77f4-4ee3-9ad3-8b9df53ecc75"
+        },
+        {
+          "name": "The Live Series: Songs of Summer",
+          "date": "2020-05-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/11faa778-4ae8-46d5-b6aa-073a7dd71e83"
+        },
+        {
+          "name": "A Concert for the Kristen Ann Carr Fund",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/12099757-b8a8-45d8-b95a-9bb5dc2748e7"
+        },
+        {
+          "name": "The Live Series: Songs of Introspection",
+          "date": "2023-07-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/121eb4d3-5b70-459e-898a-e9d0c4cb423a"
+        },
+        {
+          "name": "Born in the U.S.A. Collection",
+          "date": "2023-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/12af4ff3-1dc3-4e36-93ea-e0637b063848"
+        },
+        {
+          "name": "The Live Series: Songs of Hope",
+          "date": "2019-03-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/13495166-82b8-4f39-a134-2c7d744b899e"
+        },
+        {
+          "name": "The Darkness Tour ’78",
+          "date": "2023-06-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/13eaa7cf-b801-4c29-8d14-a230ea6b86de"
+        },
+        {
+          "name": "Darkness on the Edge of Town Tour 1978, Vol. 1",
+          "date": "2021-04-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/13f3f629-65a4-46be-9317-b58d3bbec8a9"
+        },
+        {
+          "name": "Best of Bruce Springsteen",
+          "date": "2024-04-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/14a3c52f-855e-4c76-8de6-37f395e8aeab"
+        },
+        {
+          "name": "Lost and Found: Selections From the Lost Albums",
+          "date": "2025-06-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1b16edcb-a529-4e05-85da-0e896b8a907a"
+        },
+        {
+          "name": "Nebraska / Greetings From Asbury Park, N.J.",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/21a2cabb-d1cc-4eaf-ac0a-6bd349441f9c"
+        },
+        {
+          "name": "Human Touch",
+          "date": "1992-03-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/220de9c6-fa5f-39e3-ae89-1faf8a8bbc67"
+        },
+        {
+          "name": "The Album Collection, Vol. 1: 1973–1984",
+          "date": "2014-11-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/229019c4-e9da-4bc4-b857-ebf1ac583f2a"
+        },
+        {
+          "name": "The Promise",
+          "date": "2010-11-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2872c420-5a5f-482e-b00c-199541c5b9b3"
+        },
+        {
+          "name": "The Live Series: Songs of Love",
+          "date": "2019-08-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/287b4139-95f4-41b2-a40a-7cef683a4ada"
+        },
+        {
+          "name": "The Promise: The Darkness on the Edge of Town Story",
+          "date": "2010-11-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2cdcbdc4-b5b1-4afa-853f-f84faae2a0e0"
+        },
+        {
+          "name": "The Live Series: Songs on Keys",
+          "date": "2023-12-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2e505747-7df8-4ca7-8cd3-455b5fe89ada"
+        },
+        {
+          "name": "Nebraska",
+          "date": "1982-09-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/324aee0c-36ec-35c1-9c93-b67a1d428037"
+        },
+        {
+          "name": "The Live Series: Songs of Friendship",
+          "date": "2019-01-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/398fc9f6-7616-4939-9169-f65cbedd0792"
+        },
+        {
+          "name": "Born to Run",
+          "date": "1975-08-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/39b22944-7503-3937-8bba-09b17281cc6a"
+        },
+        {
+          "name": "Definitive Collection",
+          "date": "2006-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3b75264e-b299-43b1-836a-b3e65c5778ea"
+        },
+        {
+          "name": "Born in the U.S.A.",
+          "date": "1984-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3c39a076-8e52-38f2-8076-260d0672fb23"
+        },
+        {
+          "name": "The Collection 1973–84",
+          "date": "2010-08-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3eb2f3c8-1975-48b2-b455-acc202057386"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2009-01-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4039e96d-8312-36be-8511-d6b786043ebf"
+        },
+        {
+          "name": "Live in New York City",
+          "date": "2001-03-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/407bbe17-0fd9-333a-94d7-382bde11080e"
+        },
+        {
+          "name": "The Wild, the Innocent & the E Street Shuffle / Darkness on the Edge of Town",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4318adaa-84bb-4f6b-8e2e-4689fc1067be"
+        },
+        {
+          "name": "The Ghost of Tom Joad",
+          "date": "1995-11-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/46ab3187-496d-3565-900e-57d89bacd22c"
+        },
+        {
+          "name": "Metlife Stadium 2016",
+          "date": "2016",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4851df98-1d21-4cb7-8d1f-da37fd16c443"
+        },
+        {
+          "name": "Letter to You",
+          "date": "2020-10-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/48e335f3-8e4a-4e38-b2df-e1514b9f9126"
+        },
+        {
+          "name": "The Wild, the Innocent & The E Street Shuffle",
+          "date": "1973-11-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4b443e66-52a7-3cc9-a522-0dc64a6a51dc"
+        },
+        {
+          "name": "The Reunion Tour ’99",
+          "date": "2024-07-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4c2aeda7-8633-4f96-bf5f-cc3af27792aa"
+        },
+        {
+          "name": "Video Anthology / 1978–88",
+          "date": "1989-03-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/514ef4c3-e518-4181-947b-bba360056b62"
+        },
+        {
+          "name": "1978‐09‐19: Capitol Theatre, Passaic, NJ, USA",
+          "date": "1978",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5747ee46-1a6c-3a25-b53e-cd4c7ec3bd04"
+        },
+        {
+          "name": "Magic",
+          "date": "2007-07-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5af7998f-9b53-3ebb-8f09-ebfbca703a59"
+        },
+        {
+          "name": "The Live Series: Songs Under Cover",
+          "date": "2020-02-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5cc69684-9d14-440a-8852-8f6b432e8f1f"
+        },
+        {
+          "name": "We Shall Overcome: The Seeger Sessions",
+          "date": "2006-04-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/602387fa-a76f-3895-9039-1c812c6cb28c"
+        },
+        {
+          "name": "Digital Program 2003",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/607858fd-1f1a-4cf1-abb3-2c77cc25ac3c"
+        },
+        {
+          "name": "18 Tracks",
+          "date": "1999-03-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/609d33d6-e77e-3983-8670-1e1a0172453d"
+        },
+        {
+          "name": "Tracks",
+          "date": "1998-11-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/60ba10e0-9f77-3237-8b0a-967b31679a1b"
+        },
+        {
+          "name": "The Live Series: Songs Under Cover, Vol. 2",
+          "date": "2021-03-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/60d5f5e6-960c-4094-bab5-ab15e36ee2a5"
+        },
+        {
+          "name": "1978‐07‐07: The Roxy Theatre, West Hollywood, CA, USA",
+          "date": "1978",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6a118838-5cef-447f-aee4-84dda2eba8ad"
+        },
+        {
+          "name": "Nebraska / Darkness on the Edge of Town",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6d954eab-7389-4dbb-aaca-7037b71e6e22"
+        },
+        {
+          "name": "Nebraska / Lucky Town / In Concert: MTV Plugged",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6e44ac1b-536d-4766-9c65-3599571d3691"
+        },
+        {
+          "name": "Collection: 1973–2012",
+          "date": "2013-03-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7e740659-f899-49f3-9790-66116d64e9e4"
+        },
+        {
+          "name": "The Live Series: Songs of Location",
+          "date": "2022-04-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f5fa800-5f38-4f19-82ad-ae4a7369acb1"
+        },
+        {
+          "name": "1978‐12‐15: Winterland Ballroom, San Francisco, CA, USA",
+          "date": "1978",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f76b82a-912f-39ee-bf39-477f3cf2c062"
+        },
+        {
+          "name": "Human Touch & Lucky Town",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/81e56a68-8b36-43e7-b3ab-1084f824448b"
+        },
+        {
+          "name": "Greetings From Asbury Park N.J. / The Wild, the Innocent and the E Street Shuffle / Darkness on the Edge of Town",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8435fc60-e3c1-439d-896d-7deb2fe4489c"
+        },
+        {
+          "name": "Live/1975–85",
+          "date": "1985",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/85206823-9808-3da2-a9d7-2e9b8b0f4e99"
+        },
+        {
+          "name": "Greetings From Asbury Park, N.J. / The Wild, the Innocent and the E Street Shuffle",
+          "date": "1991-12-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/88813fc2-9ed6-4644-9290-df2411d1670d"
+        },
+        {
+          "name": "The River",
+          "date": "1980-10-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8a6f6ede-b60a-3cad-b3b9-cfb57e9e1dbd"
+        },
+        {
+          "name": "Blood Brothers",
+          "date": "1996-11-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8c632eed-9d50-4bc8-b76d-9c99313d0113"
+        },
+        {
+          "name": "Western Stars Plus Songs From the Film",
+          "date": "2019-10-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8d959848-4560-457d-af41-68c12d3cba13"
+        },
+        {
+          "name": "Chapter and Verse",
+          "date": "2016-09-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8de6367e-f8bb-43cd-8ad9-180cae0c6859"
+        },
+        {
+          "name": "1980‐12‐31: Nassau Veterans Memorial Coliseum, Uniondale, NY, USA",
+          "date": "1981",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/97263724-7eec-4ff0-a802-b20b9471a653"
+        },
+        {
+          "name": "The Live Series: Songs of the Road",
+          "date": "2018-11-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9a85d243-398b-4509-a912-dbd4370b2a0c"
+        },
+        {
+          "name": "1980‐12‐28: Nassau Veterans Memorial Coliseum, Uniondale, NY, USA",
+          "date": "1981",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9c918659-bb87-3f8e-afc9-837ea99e586d"
+        },
+        {
+          "name": "Working on a Dream",
+          "date": "2008-12-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9cec178a-f785-33c5-8888-63ba27efca4c"
+        },
+        {
+          "name": "1986‐10‐13: Shoreline Amphitheatre, Mountain View, CA, USA",
+          "date": "1986",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9d9a13d5-b415-45e5-8f2c-4cdfdd308c44"
+        },
+        {
+          "name": "The Live Series: Songs of Conscience",
+          "date": "2024-09-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9eb47c27-b5c9-4018-9b58-2054f611da3d"
+        },
+        {
+          "name": "1978‐08‐09: The Agora, Cleveland, OH, USA",
+          "date": "1979",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a1b6282e-a9e9-3e8a-a6e3-d25b24e712b7"
+        },
+        {
+          "name": "The Live Series: Songs of Celebration",
+          "date": "2024-03-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a2873b00-abeb-4396-9d2a-24c1c6b9127e"
+        },
+        {
+          "name": "Collected Works of Bruce Springsteen",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a98a27c8-5da5-4a8d-a98f-90a91b776e0a"
+        },
+        {
+          "name": "1975‐02‐05: The Main Point, Bryn Mawr, PA, USA",
+          "date": "1976",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/af0c4ebb-3d9c-3159-8bce-322ca62744bb"
+        },
+        {
+          "name": "Nebraska / The Ghost of Tom Joad",
+          "date": "2006-09-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/af4e50d8-b08e-4c60-9395-2c147ede62eb"
+        },
+        {
+          "name": "Tunnel of Love",
+          "date": "1987-09-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b3559cb2-d7ad-32eb-a17e-54a873ce4122"
+        },
+        {
+          "name": "Darkness on the Edge of Town",
+          "date": "1978-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b613123b-a234-3f48-9c45-e05bf4e6b9e7"
+        },
+        {
+          "name": "The Live Series: Songs From Around the World, Vol. 2",
+          "date": "2024-05-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b8353ab3-98d2-4dc8-a7e1-386a6f306727"
+        },
+        {
+          "name": "1981‐06‐05: Wembley Arena, London, England, UK",
+          "date": "1981",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ba66b831-4810-4227-8386-cda82799a6ac"
+        },
+        {
+          "name": "Western Stars",
+          "date": "2019-05-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c0ae827c-bb5b-4c98-ab3a-1d9573c110ac"
+        },
+        {
+          "name": "Lucky Town",
+          "date": "1992-03-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c0e8b10a-9478-30ea-a299-90ab2b703ab0"
+        },
+        {
+          "name": "Japanese Singles Collection: Greatest Hits",
+          "date": "2023-10-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c1fcee20-dbc4-4bea-98c3-26b2b514986d"
+        },
+        {
+          "name": "The Essential Bruce Springsteen",
+          "date": "2003-11-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c3369f7a-b550-4a2f-beb9-b64675015705"
+        },
+        {
+          "name": "Greetings From Asbury Park, N.J.",
+          "date": "1973-01-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c497fc44-ddaf-3cce-a9b4-bfec958a0f3c"
+        },
+        {
+          "name": "The Bruce Springsteen Collection",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c760a3af-763f-48c9-bc8d-5001130c7331"
+        },
+        {
+          "name": "Born to Run / Darkness on the Edge of Town",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c7d15bdb-2c9b-44f1-b76e-2cdde02b4d2e"
+        },
+        {
+          "name": "The Live Series: Songs Under Cover, Vol. 3",
+          "date": "2024-12-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ca49a124-cd96-4d3d-be18-1fcef56243fb"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "date": "1982",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cc168b35-1bc6-4f93-baaa-c9825fcd3699"
+        },
+        {
+          "name": "The Rising",
+          "date": "2002-07-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d19453c0-cd72-3468-b110-0f898c111e5e"
+        },
+        {
+          "name": "2013‐05‐08: HK Areena, Turku, Finland",
+          "date": "2013",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d43c0c6d-c6dc-4bb3-a592-56c740bb8858"
+        },
+        {
+          "name": "The Live Series: Songs From Around the World",
+          "date": "2019-10-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d5e79633-a542-44b7-95ac-965d4f7f69c2"
+        },
+        {
+          "name": "Devils & Dust",
+          "date": "2005-04-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d5f992ab-6238-3b28-bf2b-7b16d913c9f6"
+        },
+        {
+          "name": "Only the Strong Survive: Covers, Vol. 1",
+          "date": "2022-11-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d6c1b942-edc7-4bca-bd34-6c43760272af"
+        },
+        {
+          "name": "Wrecking Ball",
+          "date": "2012-03-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d875c2f0-27d5-4946-81f9-3ebaf6636ccd"
+        },
+        {
+          "name": "The Album Collection Vol. 2, 1987–1996",
+          "date": "2018-05-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d94d0f16-8d93-4fd1-aa81-3770da717079"
+        },
+        {
+          "name": "Live in Dublin",
+          "date": "2007-06-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d97a6cf4-3f7e-321c-9729-9331e5c57e99"
+        },
+        {
+          "name": "Nebraska / Tunnel of Love / The Ghost of Tom Joad",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ddf3e647-82c7-4589-967d-30d3fde36756"
+        },
+        {
+          "name": "Retrospective",
+          "date": "1982",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dfe499e1-df9a-44df-8f95-65af2ba16eb3"
+        },
+        {
+          "name": "Bruce Springsteen & The E Street Band – The Born in the U.S.A. Tour ’84 – ’85",
+          "date": "2024-06-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e5c28ba7-eff0-4b97-bbf3-afc19ee06acc"
+        },
+        {
+          "name": "High Hopes",
+          "date": "2014-01-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e9afb320-60f4-42b1-bc4d-49d7d2e49010"
+        },
+        {
+          "name": "1988‐07‐03: Stockholms Stadion, Stockholm, Sweden",
+          "date": "1988",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e9de0d16-ee7b-4f99-a127-5d17c3dc4741"
+        },
+        {
+          "name": "Born in the U.S.A. Live: London 2013",
+          "date": "2013",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ef931ea0-e27e-42ff-b6f0-1473d61019b4"
+        },
+        {
+          "name": "Greetings From Asbury Park, N.J. / The Wild, the Innocent and the E Street Shuffle / Born to Run",
+          "date": "1980",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f4790d67-2e8c-42b8-828a-68d936fd119a"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "1995-02-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f722b0db-3035-3b4b-b499-57e42d4219c7"
+        },
+        {
+          "name": "Tracks II: The Lost Albums",
+          "date": "2025-06-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f731060c-05d4-439d-8351-59e5e5eb91a0"
+        }
+      ]
     }
   },
   "checked": {
@@ -4111,6 +4722,8 @@
     "between-the-buried-and-me": "2026-10-04T17:01:26.001056+00:00",
     "black-sabbath": "2026-10-04T17:01:30.511096+00:00",
     "blind-channel": "2026-10-04T19:59:06.893409+00:00",
-    "blue-oyster-cult": "2026-10-04T19:59:08.172017+00:00"
+    "blue-oyster-cult": "2026-10-04T19:59:08.172017+00:00",
+    "bruce-springsteen": "2026-10-04T22:47:06.319218+00:00",
+    "camel": "2026-10-04T22:47:07.564597+00:00"
   }
 }

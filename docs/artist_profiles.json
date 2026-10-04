@@ -2593,7 +2593,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://whitesnake.com",
       "reference_url": "https://en.wikipedia.org/wiki/Whitesnake",
-      "reference_checked_at": "2026-10-02T02:24:37.925560+00:00"
+      "reference_checked_at": "2026-10-02T02:24:37.925560+00:00",
+      "tour_attempted_at": "2026-10-04T22:46:39.506622+00:00"
     },
     "yes": {
       "origin": "London, England",
@@ -2624,7 +2625,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://yesworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Yes_%28band%29",
-      "reference_checked_at": "2026-10-02T02:24:38.071253+00:00"
+      "reference_checked_at": "2026-10-02T02:24:38.071253+00:00",
+      "tour_attempted_at": "2026-10-04T22:46:46.641427+00:00"
     },
     "wolves-in-the-throne-room": {
       "origin": "Olympia, Washington , U.S.",
@@ -2842,7 +2844,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://camelproductions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Camel_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:16.495726+00:00"
+      "reference_checked_at": "2026-10-02T02:26:16.495726+00:00",
+      "tour_attempted_at": "2026-10-04T22:46:58.782080+00:00"
     },
     "anthrax": {
       "origin": "Queens , New York City, U.S.",
@@ -2873,7 +2876,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://anthrax.com",
       "reference_url": "https://en.wikipedia.org/wiki/Anthrax_%28American_band%29",
-      "reference_checked_at": "2026-10-02T02:26:16.593822+00:00"
+      "reference_checked_at": "2026-10-02T02:26:16.593822+00:00",
+      "tour_attempted_at": "2026-10-04T22:46:59.205340+00:00"
     },
     "behemoth": {
       "origin": "Gdańsk , Poland",
