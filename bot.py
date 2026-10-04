@@ -7,7 +7,7 @@ import time
 from difflib import SequenceMatcher
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import quote
+from urllib.parse import quote, urlsplit, parse_qs
 from zoneinfo import ZoneInfo
 
 import feedparser
@@ -235,6 +235,13 @@ def configure_open_menu(chat_id=None):
     expected = {"type": "web_app", "text": "Открыть", "web_app": {"url": get_webapp_base_url() + "?view=bands&v=" + WEBAPP_VERSION}}
     # Both published entry routes open the main feed, including existing buttons.
     accepted = (expected, dict(expected, web_app={"url": get_webapp_base_url() + "?view=all&v=" + WEBAPP_VERSION}))
+    def same_destination(button):
+        if not isinstance(button, dict) or button.get('type') != 'web_app' or button.get('text') != expected['text']:
+            return False
+        actual_url = urlsplit(button.get('web_app', {}).get('url', ''))
+        base_url = urlsplit(get_webapp_base_url())
+        query = parse_qs(actual_url.query)
+        return (actual_url.scheme, actual_url.netloc, actual_url.path) == (base_url.scheme, base_url.netloc, base_url.path) and query.get('view') in [['bands'], ['all']] and set(query) <= {'view', 'v'}
     scopes = [{}]
     if chat_id and str(chat_id).isdigit():
         scopes.append({"chat_id": int(chat_id)})
@@ -250,6 +257,9 @@ def configure_open_menu(chat_id=None):
             actual = telegram_api("getChatMenuButton", scope)
             if actual in accepted:
                 print("Telegram menu verified:", "chat" if scope else "default", expected["web_app"]["url"])
+                break
+            if attempt == 19 and same_destination(actual):
+                print('Telegram menu destination verified; API still reports an earlier cache revision:', actual['web_app']['url'])
                 break
             if attempt == 19:
                 public_button = {key: (actual or {}).get(key) for key in ("type", "text", "web_app")}

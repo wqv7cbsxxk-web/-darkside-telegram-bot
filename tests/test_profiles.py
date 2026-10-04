@@ -54,6 +54,12 @@ class ProfileTests(unittest.TestCase):
         with patch.object(bot,'time'),patch.object(bot,'get_webapp_base_url',return_value='https://example.org/'),patch.object(bot,'telegram_api',return_value={'type':'commands'}):
             with self.assertRaises(RuntimeError):bot.configure_open_menu()
 
+    def test_older_cache_revision_on_the_same_menu_destination_is_accepted(self):
+        old={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=bands&v=20261003-9'}}
+        with patch.object(bot,'WEBAPP_BASE_URL','https://example.org/'), patch.object(bot,'telegram_api',return_value=old) as api, patch.object(bot.time,'sleep'):
+            bot.configure_open_menu()
+        self.assertTrue(any(call.args[0]=='setChatMenuButton' for call in api.call_args_list))
+
     def test_menu_readback_can_briefly_return_previous_value(self):
         expected={'type':'web_app','text':'Открыть','web_app':{'url':'https://example.org/?view=bands&v='+bot.WEBAPP_VERSION}}
         with patch.object(bot,'time') as clock,patch.object(bot,'get_webapp_base_url',return_value='https://example.org/'),patch.object(bot,'telegram_api',side_effect=[{'type':'commands'},True,{'type':'commands'},expected]) as api:
