@@ -1437,7 +1437,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ledzeppelin.com",
       "reference_url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
-      "reference_checked_at": "2026-10-02T02:23:09.915857+00:00"
+      "reference_checked_at": "2026-10-02T02:23:09.915857+00:00",
+      "tour_attempted_at": "2026-10-04T00:47:01.182973+00:00"
     },
     "leprous": {
       "origin": "Notodden , Norway",
@@ -1468,7 +1469,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://leprous.net",
       "reference_url": "https://en.wikipedia.org/wiki/Leprous",
-      "reference_checked_at": "2026-10-02T02:23:10.965648+00:00"
+      "reference_checked_at": "2026-10-02T02:23:10.965648+00:00",
+      "tour_attempted_at": "2026-10-04T00:47:01.397520+00:00"
     },
     "marillion": {
       "origin": "Aylesbury , Buckinghamshire, England",
@@ -1499,7 +1501,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://marillion.com",
       "reference_url": "https://en.wikipedia.org/wiki/Marillion",
-      "reference_checked_at": "2026-10-02T02:23:15.280688+00:00"
+      "reference_checked_at": "2026-10-02T02:23:15.280688+00:00",
+      "tour_attempted_at": "2026-10-04T00:47:02.378430+00:00"
     },
     "linkin-park": {
       "origin": "Agoura Hills, California , U.S.",
@@ -1534,7 +1537,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://linkinpark.com",
       "reference_url": "https://en.wikipedia.org/wiki/Linkin_Park",
-      "reference_checked_at": "2026-10-02T02:23:15.305507+00:00"
+      "reference_checked_at": "2026-10-02T02:23:15.305507+00:00",
+      "tour_attempted_at": "2026-10-04T00:47:02.757073+00:00"
     },
     "manowar": {
       "origin": "Auburn, New York , U.S.",
