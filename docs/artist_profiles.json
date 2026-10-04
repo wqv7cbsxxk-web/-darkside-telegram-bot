@@ -2184,7 +2184,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://slayer.net",
       "reference_url": "https://en.wikipedia.org/wiki/Slayer",
-      "reference_checked_at": "2026-10-02T02:24:04.410334+00:00"
+      "reference_checked_at": "2026-10-02T02:24:04.410334+00:00",
+      "tour_attempted_at": "2026-10-04T06:23:46.803844+00:00"
     },
     "static-dress": {
       "origin": "Leeds , West Yorkshire , England",
@@ -2211,7 +2212,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://staticdress.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Static_Dress",
-      "reference_checked_at": "2026-10-02T02:24:04.476470+00:00"
+      "reference_checked_at": "2026-10-02T02:24:04.476470+00:00",
+      "tour_attempted_at": "2026-10-04T06:23:47.232913+00:00"
     },
     "soundgarden": {
       "origin": "Seattle , Washington, United States",
@@ -2221,7 +2223,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://soundgardenworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Soundgarden",
-      "reference_checked_at": "2026-10-02T02:24:04.657516+00:00"
+      "reference_checked_at": "2026-10-02T02:24:04.657516+00:00",
+      "tour_attempted_at": "2026-10-04T06:23:54.916247+00:00"
     },
     "steven-wilson": {
       "origin": "Hemel Hempstead , Hertfordshire , England",
@@ -2231,7 +2234,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://stevenwilsonhq.com",
       "reference_url": "https://en.wikipedia.org/wiki/Steven_Wilson",
-      "reference_checked_at": "2026-10-02T02:24:10.162277+00:00"
+      "reference_checked_at": "2026-10-02T02:24:10.162277+00:00",
+      "tour_attempted_at": "2026-10-04T06:23:55.138359+00:00"
     },
     "symphony-x": {
       "origin": "Middletown, New Jersey , U.S.",

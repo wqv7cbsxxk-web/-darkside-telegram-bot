@@ -1973,6 +1973,696 @@
           "source_url": "https://musicbrainz.org/release-group/ff6c7086-9eda-4b3e-95e6-251c0f1633c0"
         }
       ]
+    },
+    "arch-enemy": {
+      "name": "Arch Enemy",
+      "musicbrainz_url": "https://musicbrainz.org/artist/e631bb92-3e2b-43e3-a2cb-b605e2fb53bd",
+      "reference_checked_at": "2026-10-04T06:24:02.395455+00:00",
+      "genres": "death metal, melodic death metal, metal",
+      "bandcamp_url": "https://archenemyofficial.bandcamp.com/",
+      "website": "https://www.archenemy.net/",
+      "members": [
+        {
+          "name": "Michael Amott",
+          "role": "bass guitar, guitar, keyboard, original",
+          "begin": "1996"
+        },
+        {
+          "name": "Daniel Erlandsson",
+          "role": "drums (drum set)",
+          "begin": "1998"
+        },
+        {
+          "name": "Sharlee D’Angelo",
+          "role": "bass guitar",
+          "begin": "1999"
+        },
+        {
+          "name": "Joey Concepcion",
+          "role": "guitar",
+          "begin": "2023"
+        },
+        {
+          "name": "Lauren Hart",
+          "role": "lead vocals, principal",
+          "begin": "2026-02-19"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/e631bb92-3e2b-43e3-a2cb-b605e2fb53bd",
+      "albums": [
+        {
+          "name": "Burning Angel",
+          "date": "2002-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0160cac6-066d-38cf-9b63-e1f6b0a0365c"
+        },
+        {
+          "name": "Doomsday Machine / This Godless Endeavor",
+          "date": "2005-07-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/06b1b22c-f0cd-481a-bf84-eea921902550"
+        },
+        {
+          "name": "You Will Know My Name",
+          "date": "2014-05-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0af869d6-0f6e-40a4-986c-c3b99d610324"
+        },
+        {
+          "name": "Wages of Sin",
+          "date": "2001-04-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/10078a3b-c70f-3a1c-b7ee-3540daf7c259"
+        },
+        {
+          "name": "Manifesto of Arch Enemy",
+          "date": "2009-02-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1294587b-c383-3982-832d-3c838ba09eb2"
+        },
+        {
+          "name": "Handshake With Hell",
+          "date": "2022-02-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1c7e7184-7db7-4781-a058-d80a9310b5a2"
+        },
+        {
+          "name": "Burning Japan Live 1999",
+          "date": "2000-08-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1ef9b6bc-4ed1-32be-bce5-7aa9849e7c43"
+        },
+        {
+          "name": "Nemesis (live at Wacken 2016)",
+          "date": "2017",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/233676df-72a8-4e5d-bd83-72b51715af73"
+        },
+        {
+          "name": "Break the Spell",
+          "date": "2025-09-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/274b5f89-1580-4ae6-963c-d13a4786cc0b"
+        },
+        {
+          "name": "Faith Divides Us – Death Unites Us / The Root of All Evil",
+          "date": "2009",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2777ecb6-3af4-43a3-bc75-56dbc36676aa"
+        },
+        {
+          "name": "Reason to Believe",
+          "date": "2018-12-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/27d8ec01-1bd8-49bb-befa-9be1b8e15144"
+        },
+        {
+          "name": "The World Is Yours",
+          "date": "2017-07-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2ae37eb4-68c2-445c-94ef-83852e0397a0"
+        },
+        {
+          "name": "Live Apocalypse",
+          "date": "2006-07-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2cc5af9f-70a2-3aa0-b179-b7d27a854653"
+        },
+        {
+          "name": "Stigmata",
+          "date": "1998-03-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/371fdde1-894c-3b15-8b00-743b62c6c569"
+        },
+        {
+          "name": "1996–2017",
+          "date": "2018-03-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4a107a9f-d76e-4a00-813a-6a61ecbbcc13"
+        },
+        {
+          "name": "The Eagle Flies Alone",
+          "date": "2017-08-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4c9aa80c-c6e8-4436-bf0a-e18c05270ca8"
+        },
+        {
+          "name": "Blood Dynasty",
+          "date": "2024-12-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4ce7b8db-4990-4e5e-87af-1fd482653dc0"
+        },
+        {
+          "name": "House of Mirrors",
+          "date": "2021-12-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4e875360-d497-4b56-a9bc-7da5a1d420dc"
+        },
+        {
+          "name": "Diva Satanica",
+          "date": "2017",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/53533d97-1ca2-492d-aaba-49e6d1943da7"
+        },
+        {
+          "name": "Burning Waldrock",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/554f3848-9d69-428a-aad6-8faaed514242"
+        },
+        {
+          "name": "2008‐03‐07: CLUB CITTA’, Kawasaki, Japan",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5bddf278-1a06-4f72-a508-13e5b185a7fb"
+        },
+        {
+          "name": "No More Regrets",
+          "date": "2014-05-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5bf21507-6314-4ced-a384-6264afa5f8ce"
+        },
+        {
+          "name": "Will to Power",
+          "date": "2017-09-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/60513b93-3aaf-4748-a0ef-9a308979308f"
+        },
+        {
+          "name": "Blood Dynasty",
+          "date": "2025-03-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/61bd26db-da33-4efe-807d-56a42ce4b6ca"
+        },
+        {
+          "name": "Burning Bridges",
+          "date": "1999-05-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6418ab16-7a51-397c-940a-3303bddce64a"
+        },
+        {
+          "name": "Paper Tiger",
+          "date": "2025-02-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/68e29f5f-746d-4219-9c8b-d25e45a2a522"
+        },
+        {
+          "name": "The Root of All Evil",
+          "date": "2009-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/691efffa-e256-40e5-95f5-de7dc7b9f227"
+        },
+        {
+          "name": "Tyrants of the Rising Sun: Live in Japan",
+          "date": "2008-11-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/69776375-54ef-3b25-b49d-0feea9d64478"
+        },
+        {
+          "name": "Stolen Life (2015 version)",
+          "date": "2016-06-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/75448408-189d-4b8f-9212-9de915dd5fb5"
+        },
+        {
+          "name": "In the Eye of the Storm",
+          "date": "2022-07-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/77e94ead-88e1-4c35-a90a-edd573165406"
+        },
+        {
+          "name": "War Eternal Tour: Tokyo Sacrifice",
+          "date": "2016-01-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/81bd5d92-4b99-4a53-b8e7-693c78f04618"
+        },
+        {
+          "name": "Revolution Begins",
+          "date": "2007-08-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8343f4fa-1c0d-3483-9f01-728d8189ee80"
+        },
+        {
+          "name": "War Eternal (live at Wacken 2016)",
+          "date": "2017-01-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8762fbc9-f4d1-42a5-9243-773b0623e03c"
+        },
+        {
+          "name": "Demo",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8dd8c25f-5f49-4837-8138-d49af712b9d5"
+        },
+        {
+          "name": "Original Album Collection",
+          "date": "2015-05-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8eef428f-acd8-4209-b70a-357cf6cc3929"
+        },
+        {
+          "name": "Black Earth",
+          "date": "1996-10-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/93f2e570-3c57-3d64-be73-2cf079df36bb"
+        },
+        {
+          "name": "Liars & Thieves",
+          "date": "2024-10-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/98e86f3d-c434-450f-bedb-cc9c5b6b3377"
+        },
+        {
+          "name": "Astro Khaos 2012: Official Live Bootleg",
+          "date": "2012-12-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a26d96b3-5a61-48c0-a5d5-3afd4631a915"
+        },
+        {
+          "name": "Deceiver, Deceiver",
+          "date": "2021-10-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a3b067c9-bd70-42e7-9f1e-888717e971c7"
+        },
+        {
+          "name": "2006-10-14: Loud Park Festival, Makuhari Messe, Chiba, Japan",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a67fedf8-7e68-42e9-a5ec-e884f1a08c5c"
+        },
+        {
+          "name": "A Collection of Rare & Unreleased Songs From the Arch Enemy Vault",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a7994f02-8c47-4e06-9568-f67ec65c8c65"
+        },
+        {
+          "name": "Lord of the Storm",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/adbe27dc-00fd-4dd0-a9a9-5818f9960c1f"
+        },
+        {
+          "name": "To the Last Breath",
+          "date": "2026-02-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b8b6f283-ba71-40f4-8dce-be5b9e3bad9a"
+        },
+        {
+          "name": "2018-06-24: Hellfest, Val de Moine, Clisson, France",
+          "date": "2018",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/babe8d49-a2de-4815-b49c-d4d6dce39e77"
+        },
+        {
+          "name": "Doomsday Machine",
+          "date": "2005-07-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/caab743f-0de7-3411-a93d-ca1634f01318"
+        },
+        {
+          "name": "My Shadow and I",
+          "date": "2022-03-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cd46e1e2-f13d-41ae-962c-596f9c6df65c"
+        },
+        {
+          "name": "Rise of the Tyrant",
+          "date": "2007-09-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cee80c21-1a9b-3d53-add1-e492e7cf67d1"
+        },
+        {
+          "name": "2007‐10‐22: Loud Park Festival, Osaka, Japan",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cfcdd629-b358-4a94-93cb-bce2cca46eeb"
+        },
+        {
+          "name": "Dead Eyes See No Future EP",
+          "date": "2004-06-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d47c6324-3629-3554-abcc-c4971c3c91b8"
+        },
+        {
+          "name": "Dawn of Khaos",
+          "date": "2011-04-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d495fe13-d762-4bf3-84a5-b7103c5bd9c8"
+        },
+        {
+          "name": "War Eternal",
+          "date": "2014-03-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d4bb6120-4c77-4a3c-8ef3-70f913136444"
+        },
+        {
+          "name": "Dream Stealer",
+          "date": "2024-07-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d5e222c7-eecf-44ba-b01a-13c203848b94"
+        },
+        {
+          "name": "As the Stages Burn!",
+          "date": "2017-03-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d96eccd0-a0f2-4c5b-88de-d76cc3a80c30"
+        },
+        {
+          "name": "Live in Gothenburg",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d9d556ed-f4b9-4186-bce1-a31f82c89f4d"
+        },
+        {
+          "name": "Iron Destiny / Breaking the Law",
+          "date": "2014-11-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dac2354e-4c93-4730-86bb-965e83c1c927"
+        },
+        {
+          "name": "Nemesisway",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dfb3d9d7-581a-4be5-9cf5-e23c2ad4a3b0"
+        },
+        {
+          "name": "Covered in Blood",
+          "date": "2019-01-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e41deb0b-73a2-40f0-b52b-df8d727bf8bf"
+        },
+        {
+          "name": "Råpunk EP",
+          "date": "2018-02-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e4ee6cfd-f517-4653-8421-eed9c61c4217"
+        },
+        {
+          "name": "Enemy Within: The Best of Arch Enemy",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e4f1085e-f3e9-4540-822c-a1fbf65af6aa"
+        },
+        {
+          "name": "Stolen Life",
+          "date": "2015-02-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/eaed6dd4-cec8-42de-9c3b-095dcdfb6f66"
+        },
+        {
+          "name": "War Eternal",
+          "date": "2014-06-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ebf848c8-c6a5-4235-97e6-2498bf44687b"
+        },
+        {
+          "name": "Deceivers",
+          "date": "2022-08-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ed2263c4-7222-42e5-8229-b582ceb6f80f"
+        },
+        {
+          "name": "Live Power",
+          "date": "2017-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f150448a-a623-4d95-b581-d4e74c541d21"
+        },
+        {
+          "name": "Nitad",
+          "date": "2014-06-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f27ad1c8-4a9f-4527-bbab-66cb91ce93ae"
+        },
+        {
+          "name": "Anthems of Rebellion",
+          "date": "2003-07-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f3d65616-3061-3497-b795-2068a6c03f1e"
+        },
+        {
+          "name": "As the Pages Burn",
+          "date": "2014-04-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fabc1301-1dc1-4bc8-bdd7-a2290508f938"
+        },
+        {
+          "name": "Sunset Over the Empire",
+          "date": "2022-05-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fb4d4747-6c18-43b0-a53d-6738f959b233"
+        },
+        {
+          "name": "Khaos Legions",
+          "date": "2011-05-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fc5d71d1-7a06-4b6c-9169-a68d9ec6ab6b"
+        }
+      ]
+    },
+    "at-the-gates": {
+      "name": "At The Gates",
+      "musicbrainz_url": "https://musicbrainz.org/artist/35f92c4a-69d0-4ed1-ab9e-05259db89d14",
+      "reference_checked_at": "2026-10-04T06:24:06.237754+00:00",
+      "genres": "death metal, melodic death metal, metal",
+      "bandcamp_url": "https://atthegates.bandcamp.com/",
+      "website": "http://atthegates.se/",
+      "members": [
+        {
+          "name": "Jonas Björler",
+          "role": "bass guitar",
+          "begin": "2010"
+        },
+        {
+          "name": "Adrian Erlandsson",
+          "role": "drums (drum set)",
+          "begin": "2010"
+        },
+        {
+          "name": "Martin Larsson",
+          "role": "guitar",
+          "begin": "2010"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/35f92c4a-69d0-4ed1-ab9e-05259db89d14",
+      "albums": [
+        {
+          "name": "Spectre of Extinction",
+          "date": "2021-04-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/119d539e-8045-43cb-934d-ac999c283291"
+        },
+        {
+          "name": "The Fall Into Time",
+          "date": "2021-06-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1c9a8cd1-5563-470f-93ac-5dc94cb702b2"
+        },
+        {
+          "name": "The Red in the Sky Is Ours",
+          "date": "1992-07-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1d27d188-2cef-3170-968b-ecb9b0c262f0"
+        },
+        {
+          "name": "The Fever Mask",
+          "date": "2026-02-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/21cf307f-fdb9-4d04-8324-b737609e64eb"
+        },
+        {
+          "name": "The Mirror Black",
+          "date": "2019-01-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2562a3e5-4813-47ef-b3a4-5fae3bd9a7b7"
+        },
+        {
+          "name": "To Drink From the Night Itself",
+          "date": "2018-03-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2fb3dafb-6980-449f-9764-8e4de634ddf5"
+        },
+        {
+          "name": "Demo 1995",
+          "date": "1995-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3e35de4f-186a-4c43-8766-13022f263220"
+        },
+        {
+          "name": "The Paradox",
+          "date": "2021-05-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/44862d4c-01f5-4dc1-9a80-678b099c0adb"
+        },
+        {
+          "name": "With Fear I Kiss the Burning Darkness",
+          "date": "1993-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4fe36593-e469-3e0a-a575-3a1525e6962b"
+        },
+        {
+          "name": "To Drink From the Night Itself",
+          "date": "2018-05-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/53d3015e-0a04-47da-99a7-422692d60b04"
+        },
+        {
+          "name": "Terminal Spirit Disease",
+          "date": "1994-07-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/560ff499-b29b-3ee1-8ac8-cbca363da640"
+        },
+        {
+          "name": "Demo 1992",
+          "date": "1992-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5950e360-7812-4137-877d-5f20d601f164"
+        },
+        {
+          "name": "Slaughter of the Soul",
+          "date": "1995-11-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/675e453b-43c5-3c05-9ac8-dc526471e583"
+        },
+        {
+          "name": "Live in Krakow",
+          "date": "2019-04-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/681d7011-99ba-4786-b73d-addaa624ea64"
+        },
+        {
+          "name": "The Flames of the End",
+          "date": "2010",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6fafbb1a-c586-4574-9237-fa5f999f3eaf"
+        },
+        {
+          "name": "The Ghost of a Future Dead",
+          "date": "2026-04-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/717ffd39-881e-41d8-a8cc-1aa6dfec62ed"
+        },
+        {
+          "name": "Death and the Labyrinth",
+          "date": "2014-10-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7811654b-a0fa-47a5-a1b6-819154636f2f"
+        },
+        {
+          "name": "The Dissonant Void",
+          "date": "2026-04-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/79ff6a60-da2e-47cf-84d0-6f43f989ad9d"
+        },
+        {
+          "name": "Purgatory Unleashed: Live at Wacken",
+          "date": "2010-03-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7b4e0314-e7db-42ec-b353-da945a88c4fb"
+        },
+        {
+          "name": "Cursed to Tour",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8741ff17-884b-30f1-b627-f2184dd185c7"
+        },
+        {
+          "name": "We Are Connected / Language of the Dead",
+          "date": "2015-03-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/895e8593-bb2f-423e-b571-745ec348050d"
+        },
+        {
+          "name": "Daggers of Black Haze",
+          "date": "2018-04-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/96e45a51-c49b-421e-980b-11b94bdaca7a"
+        },
+        {
+          "name": "The Nightmare of Being",
+          "date": "2021-07-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/970aa5a8-c733-40ee-865e-f0b60efb7c04"
+        },
+        {
+          "name": "At War With Reality",
+          "date": "2014-10-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/973b2b3f-1048-4c6a-8fe9-7be3e9fe8272"
+        },
+        {
+          "name": "The Red in the Sky Is Ours / With Fear I Kiss the Burning Darkness",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9ef6ca92-5657-477e-bded-ed31ec50c0ce"
+        },
+        {
+          "name": "1996-06-21: Slaughter Tour",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a57486ab-d87c-39e8-a018-40d26c6af53f"
+        },
+        {
+          "name": "1994: Rock City Club, Nottingham, UK",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a5f8ef37-e68e-3da2-a536-8cd476b4eb77"
+        },
+        {
+          "name": "Captor of Sin / Mandatory Suicide",
+          "date": "2014-04-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b0ec1266-8869-4a2d-8ee0-ef8115b96bb9"
+        },
+        {
+          "name": "A Stare Bound in Stone",
+          "date": "2018-03-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b4937505-c500-4945-8875-5e0b77b72024"
+        },
+        {
+          "name": "With the Pantheons Blind",
+          "date": "2019-01-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c720a0d3-d710-43f6-92ab-1b166f551832"
+        },
+        {
+          "name": "Suicidal Final Art",
+          "date": "2001-06-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d580cc80-fc70-3ae5-8b15-8b21b72b8c5b"
+        },
+        {
+          "name": "Gardens of Grief",
+          "date": "1991-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/da838599-c4dc-34e2-9d5c-c9a356880e20"
+        },
+        {
+          "name": "Gardens of Grief / In the Embrace of Evil",
+          "date": "2001-06-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ded3cd31-6010-35cb-9771-6e7d0bc09de5"
+        },
+        {
+          "name": "At War With Reality",
+          "date": "2014-10-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/edd07643-be52-4800-a68e-bab9610b6bd5"
+        },
+        {
+          "name": "Raped by the Light of Christ",
+          "date": "2018-03-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f7181763-8332-4eb1-828f-3789bed68804"
+        },
+        {
+          "name": "1991-04-26: Estalstuna, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fef7ece7-0063-3caa-aad4-bb15f9de3229"
+        }
+      ]
     }
   },
   "checked": {
@@ -1981,6 +2671,8 @@
     "aerosmith": "2026-10-04T02:04:51.020073+00:00",
     "alice-cooper": "2026-10-04T02:04:52.281767+00:00",
     "alice-in-chains": "2026-10-04T02:35:53.356847+00:00",
-    "anthrax": "2026-10-04T02:35:54.644629+00:00"
+    "anthrax": "2026-10-04T02:35:54.644629+00:00",
+    "arch-enemy": "2026-10-04T06:24:02.395598+00:00",
+    "at-the-gates": "2026-10-04T06:24:06.237858+00:00"
   }
 }
