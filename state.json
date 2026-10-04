@@ -335,7 +335,9 @@
     "a9693d9a93c2fb7eb694941762fb8dc6538c6c59",
     "f759f1e29f642fa1db14e8f3737d7c7382616e60",
     "d3da209281510cc15c9d8315ddee936420bf60cf",
-    "90552c9f12758156cd6f535bff46f7324af95466"
+    "90552c9f12758156cd6f535bff46f7324af95466",
+    "436c16ff487ec4809ff20d2726604e7980f1239e",
+    "4a7b183fa91df023db498fdb73b593fb6082d4d2"
   ],
   "recent_titles": [
     {
@@ -1022,6 +1024,16 @@
       "title": "Ov Sulfur might be deathcore brutes, but they've got grand ambitions",
       "source": "Louder",
       "ts": 1791143885
+    },
+    {
+      "title": "Ian Anderson’s guided tour of Jethro Tull – Ritchie Blackmore, Steve Harris, Benny Hill, Spinal Tap and more",
+      "source": "Louder",
+      "ts": 1791153903
+    },
+    {
+      "title": "SHADES OF BLACK: BEFOULED MALEDICTION, KILAT, I HELVETE, FERNDOM",
+      "source": "No Clean Singing",
+      "ts": 1791153923
     }
   ],
   "initialized_sources": [
@@ -1046,7 +1058,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T07:17:39+00:00",
       "id": "d221d52a23b9fd4592f27a04382b339c37371ad7",
-      "retry_after": 1791144223
+      "retry_after": 1791154285
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1058,7 +1070,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T04:17:42+00:00",
       "id": "6f43b0fcbe02d371a93b1c3fd1f1bcbae7360589",
-      "retry_after": 1791144225
+      "retry_after": 1791154287
     },
     {
       "source": "Metal Injection",
@@ -1070,7 +1082,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-01T17:12:56+00:00",
       "id": "25cfcf010d47132c62d05d103fd6b4383319ca8b",
-      "retry_after": 1791144225
+      "retry_after": 1791154287
     },
     {
       "source": "Louder",
@@ -1082,7 +1094,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T17:00:00+00:00",
       "id": "5da3ffc36fed1ebf581a093fa07b89f089e74819",
-      "retry_after": 1791144229
+      "retry_after": 1791154292
     },
     {
       "source": "Metal Injection",
@@ -1094,7 +1106,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-01T15:34:25+00:00",
       "id": "f9d084fa99db7cff6f1bfa766926b58683768fde",
-      "retry_after": 1791144229
+      "retry_after": 1791154292
     },
     {
       "source": "Metal Injection",
@@ -1106,7 +1118,7 @@
       "category": "Прогрессив",
       "published": "2026-10-01T15:18:06+00:00",
       "id": "1f015c5a80b88913c42e03b55e82204b7216bf13",
-      "retry_after": 1791144229
+      "retry_after": 1791154292
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1118,7 +1130,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T12:41:34+00:00",
       "id": "e68e36628a811ed8585afbcfcf42d0a4444026ca",
-      "retry_after": 1791144214
+      "retry_after": 1791154274
     },
     {
       "source": "Louder",
@@ -1130,7 +1142,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T11:14:38+00:00",
       "id": "947a38c8fba5e6f685164698839be2d60a8c085e",
-      "retry_after": 1791144216
+      "retry_after": 1791154276
     },
     {
       "source": "Louder",
@@ -1142,7 +1154,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T08:12:15+00:00",
       "id": "0dd606061d373d27d8c3c995d6240870e61834af",
-      "retry_after": 1791144220
+      "retry_after": 1791154281
     },
     {
       "source": "Metal Injection",
@@ -1154,7 +1166,7 @@
       "category": "Прогрессив",
       "published": "2026-10-02T17:34:15+00:00",
       "id": "bd4701e52104d02b3fa9d9c8a0074c6c5282d5aa",
-      "retry_after": 1791144207
+      "retry_after": 1791154254
     },
     {
       "source": "Metal Injection",
@@ -1166,7 +1178,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:55:06+00:00",
       "id": "5ad6921c06e7e524048e11b524256b2f70c57554",
-      "retry_after": 1791144207
+      "retry_after": 1791154254
     },
     {
       "source": "Metal Injection",
@@ -1178,7 +1190,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-02T16:19:04+00:00",
       "id": "d579c449412d504f22f4267c4dfba97b661fb2bb",
-      "retry_after": 1791144208
+      "retry_after": 1791154254
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1190,7 +1202,7 @@
       "category": "Хард-рок",
       "published": "2026-10-02T19:20:36+00:00",
       "id": "7ac2851f28e0a4a07ac271f63e3b24e302e2bb57",
-      "retry_after": 1791144207
+      "retry_after": 1791154254
     },
     {
       "source": "Louder",
@@ -1202,7 +1214,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-03T23:00:00+00:00",
       "id": "d7b0f04e4d5cc6bfde1d773c1597c5904adc4a73",
-      "retry_after": 1791144192
+      "retry_after": 1791154232
     },
     {
       "source": "Louder",
@@ -1214,7 +1226,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T20:00:00+00:00",
       "id": "0680ef74bd93e3bac6cd9a0f50940866c013a303",
-      "retry_after": 1791144194
+      "retry_after": 1791154235
     },
     {
       "source": "Metal Injection",
@@ -1226,7 +1238,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T15:49:54+00:00",
       "id": "4c556e3c4693b2825ab305fe46d6c6bb18174fcd",
-      "retry_after": 1791144195
+      "retry_after": 1791154235
     },
     {
       "source": "Metal Injection",
@@ -1238,7 +1250,7 @@
       "category": "Хард-рок",
       "published": "2026-10-03T15:42:44+00:00",
       "id": "0f2eef09fabc4707f1cfcbea0cc981e872e3d4b4",
-      "retry_after": 1791144195
+      "retry_after": 1791154236
     },
     {
       "source": "Metal Injection",
@@ -1250,7 +1262,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-03T15:02:00+00:00",
       "id": "16e9958f137e6ec57d1c760f156fb4a7c4175d0c",
-      "retry_after": 1791144195
+      "retry_after": 1791154236
     },
     {
       "source": "Louder",
@@ -1262,7 +1274,7 @@
       "category": "Прогрессив",
       "published": "2026-10-03T14:18:50+00:00",
       "id": "02a6de81053ceaf5e66a760b3286622d77ab2c6d",
-      "retry_after": 1791144197
+      "retry_after": 1791154238
     },
     {
       "source": "Metal Injection",
@@ -1274,7 +1286,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-04T16:37:35+00:00",
       "id": "8300ce8b81f61edf03d25ded1088d4e983522e71",
-      "retry_after": 1791144186
+      "retry_after": 1791154223
     },
     {
       "source": "Metal Injection",
@@ -1286,7 +1298,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-04T14:39:08+00:00",
       "id": "5d6ea2f7c10e0fe824c1a6bf53bef6f153d85795",
-      "retry_after": 1791144186
+      "retry_after": 1791154224
     },
     {
       "source": "Ultimate Classic Rock",
@@ -1298,7 +1310,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-04T13:22:56+00:00",
       "id": "bc768fbed4bc42fa28ef5916932ee64c76a74318",
-      "retry_after": 1791144190
+      "retry_after": 1791154230
     },
     {
       "source": "ThePRP",
@@ -1310,19 +1322,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-04T19:13:48+00:00",
       "id": "17ecfce825c2dfeec7ab5bf782206b2835c4a214",
-      "retry_after": 1791144134
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "SHADES OF BLACK: BEFOULED MALEDICTION, KILAT, I HELVETE, FERNDOM",
-      "link": "https://www.nocleansinging.com/2026/10/04/shades-of-black-befouled-malediction-kilat-i-helvete-ferndom/",
-      "rss_body": "(written by Islander) For reasons that are too embarrassing to disclose I’m getting a very late start today. Fortunately, I did my listening in previous days and made my picks yesterday. It’s just the writing that I left for this morning. With so much time already gone before I started, and honestly not feeling great,\n\n[...]",
-      "tags": "Album Reviews SHADES OF BLACK SHORT BUT SWEET Befouled Malediction Ferndom i Helvete Kilat",
-      "category": "Прогрессив",
-      "published": "2026-10-04T18:12:14+00:00",
-      "id": "4a7b183fa91df023db498fdb73b593fb6082d4d2",
-      "retry_after": 1791144177
+      "retry_after": 1791154219
     },
     {
       "source": "Metal Injection",
@@ -1334,7 +1334,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-04T17:20:00+00:00",
       "id": "80bf393c28d7b653f26599d0e87a1751bd47193c",
-      "retry_after": 1791144177
+      "retry_after": 1791154223
     }
   ]
 }
