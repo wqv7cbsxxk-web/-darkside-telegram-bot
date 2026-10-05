@@ -2904,7 +2904,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.behemoth.pl",
       "reference_url": "https://en.wikipedia.org/wiki/Behemoth_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:16.652417+00:00"
+      "reference_checked_at": "2026-10-02T02:26:16.652417+00:00",
+      "tour_attempted_at": "2026-10-05T01:20:22.298712+00:00"
     },
     "deicide": {
       "origin": "Tampa, Florida , U.S.",
@@ -2931,7 +2932,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://deicideofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deicide_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:21.963568+00:00"
+      "reference_checked_at": "2026-10-02T02:26:21.963568+00:00",
+      "tour_attempted_at": "2026-10-05T01:20:23.082380+00:00"
     },
     "dismember": {
       "origin": "Stockholm , Sweden",
@@ -2954,7 +2956,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://dismember.se",
       "reference_url": "https://en.wikipedia.org/wiki/Dismember_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:22.111036+00:00"
+      "reference_checked_at": "2026-10-02T02:26:22.111036+00:00",
+      "tour_attempted_at": "2026-10-05T01:20:23.925142+00:00"
     },
     "destruction": {
       "origin": "Weil am Rhein , Germany",
@@ -2981,7 +2984,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://destruction.de",
       "reference_url": "https://en.wikipedia.org/wiki/Destruction_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:22.156283+00:00"
+      "reference_checked_at": "2026-10-02T02:26:22.156283+00:00",
+      "tour_attempted_at": "2026-10-05T01:20:25.113120+00:00"
     },
     "entombed": {
       "origin": "Stockholm , Sweden",
