@@ -6184,6 +6184,643 @@
           "source_url": "https://musicbrainz.org/release-group/fe937e12-5c1d-3848-abe6-db0096455151"
         }
       ]
+    },
+    "deep-purple": {
+      "name": "Deep Purple",
+      "musicbrainz_url": "https://musicbrainz.org/artist/79491354-3d83-40e3-9d8e-7592d58d790a",
+      "reference_checked_at": "2026-10-05T16:02:31.342195+00:00",
+      "genres": "blues rock, classic rock, hard rock, heavy metal, progressive rock, rock",
+      "website": "https://www.deep-purple.com/",
+      "members": [
+        {
+          "name": "Roger Glover",
+          "role": "bass guitar",
+          "begin": "1984-04"
+        },
+        {
+          "name": "Ian Paice",
+          "role": "drums (drum set), original, percussion",
+          "begin": "1984-04"
+        },
+        {
+          "name": "Ian Gillan",
+          "role": "harmonica, lead vocals, percussion",
+          "begin": "1992-08"
+        },
+        {
+          "name": "Don Airey",
+          "role": "keyboard, organ",
+          "begin": "2002-03"
+        },
+        {
+          "name": "Simon McBride",
+          "role": "guitar",
+          "begin": "2022-09"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/79491354-3d83-40e3-9d8e-7592d58d790a",
+      "albums": [
+        {
+          "name": "Infinite",
+          "date": "2017-04-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/01f46d72-4a95-4dd8-b8f0-41b59b2a1939"
+        },
+        {
+          "name": "Best",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/029e59da-43c7-46f5-abad-6c70886c61c2"
+        },
+        {
+          "name": "Nightbird & Company: Cosmic Connections",
+          "date": "1976-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0365c113-8044-4861-8e55-3446a62df5c8"
+        },
+        {
+          "name": "Machine Head / Who Do We Think We Are",
+          "date": "1983",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/06f94ee5-b6bb-3a84-a09f-1c8f3ecae012"
+        },
+        {
+          "name": "The Compact Disc Anthology",
+          "date": "1991-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/06fc327b-7426-3d5b-a195-e18d79864187"
+        },
+        {
+          "name": "Mark I&II",
+          "date": "1973",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/07a098dc-f4c6-4c2e-95dd-d8e236473c56"
+        },
+        {
+          "name": "Progression",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/080b82bf-2aee-36f9-bace-56d56849505b"
+        },
+        {
+          "name": "Turning to Crime",
+          "date": "2021-11-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/09e40d7f-d1ee-42b1-85fd-5a852dd21c08"
+        },
+        {
+          "name": "Элтон Джон / Ансамбль “Дип Перпл”",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0a16bbe8-4435-48e4-9ecc-5c969f5b96af"
+        },
+        {
+          "name": "The Anthology",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1fd8daaa-5b9b-4a3e-a636-24430af42cbf"
+        },
+        {
+          "name": "Rock Giants",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2164b31f-32df-4d8d-934e-b07c58925633"
+        },
+        {
+          "name": "Deep Purple",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2679bfd6-252e-431e-9166-e5bb0354a3e0"
+        },
+        {
+          "name": "=1",
+          "date": "2024-07-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2b19b441-703c-4af1-8b05-fbfaaf79a41a"
+        },
+        {
+          "name": "Smoke on the Water",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2d3e6543-0ec6-3732-b6be-480c74bc6f7a"
+        },
+        {
+          "name": "Stereo Pop Special‐48",
+          "date": "1973",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2d5ebe04-3764-43ae-9c7c-6b0c2a144b4c"
+        },
+        {
+          "name": "Hush",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2de5cd1f-81ce-31e1-9704-32f2d2ac236c"
+        },
+        {
+          "name": "Lo mejor de Deep Purple",
+          "date": "1981",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2e52ead1-2f09-4601-b6d3-de732ff80cc0"
+        },
+        {
+          "name": "24 Carat Purple",
+          "date": "1975",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2fb6cb21-7e44-3c3a-94be-6852cb15061f"
+        },
+        {
+          "name": "In Concert / Live in London / New, Live and Rare",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/307c3398-4946-4ba2-82f2-9d538e58cf7f"
+        },
+        {
+          "name": "The House of Blue Light",
+          "date": "1987-01-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3627b95b-c892-3c42-bbf6-d203ef6ffe6b"
+        },
+        {
+          "name": "The Best Of",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3a01d3ae-b305-469a-ad15-e709c869e3cd"
+        },
+        {
+          "name": "The Book of Taliesyn",
+          "date": "1968-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3a2bbe30-d2c7-367b-9326-f0082adad661"
+        },
+        {
+          "name": "Early Purple",
+          "date": "1972",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3d9d0850-a713-49c4-896c-2d2631235f94"
+        },
+        {
+          "name": "Perfect Strangers",
+          "date": "1984-11-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/41a276ce-ea2b-377c-9ad8-0ef0bfd1f5c2"
+        },
+        {
+          "name": "The Very Best of Deep Purple",
+          "date": "1969",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4202aeb4-a8f5-4806-a4d5-0c91d9696267"
+        },
+        {
+          "name": "Greatest Purple",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/45edf895-bb90-3823-b1b9-f37016393abc"
+        },
+        {
+          "name": "Rapture of the Deep",
+          "date": "2005-10-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/47b949bf-dc12-3b49-9f31-f1176577d7d1"
+        },
+        {
+          "name": "The Battle Rages On…",
+          "date": "1993-07-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4859ab03-71a1-3217-93ec-df15dca6e2e3"
+        },
+        {
+          "name": "Purple Passages",
+          "date": "1972",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/48b15bd3-55f6-35e0-b9ad-63cce07ffcfa"
+        },
+        {
+          "name": "Platinum: The Ultimate Collection",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4a8dda1d-c393-3128-bd4a-0a595868f2cf"
+        },
+        {
+          "name": "Machine Head / Feel Good",
+          "date": "1972",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5255251c-4e04-4cfe-9473-5bac6aa8bcd7"
+        },
+        {
+          "name": "Purple Rainbows",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/54ec0395-5ad6-4a96-9d7c-f9ba2b8a1e32"
+        },
+        {
+          "name": "Collection",
+          "date": "1981",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/560eb4f3-66f9-41ac-a72b-f82ea9d604d9"
+        },
+        {
+          "name": "The Best of Deep Purple",
+          "date": "1991-10-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/58569816-c9d0-48ff-800d-6a946f084161"
+        },
+        {
+          "name": "Fireworks",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5a1e00dc-9d16-4156-bdc4-ae4b4752b263"
+        },
+        {
+          "name": "Black Night: Best",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5b2dfedf-6804-3229-b986-86245f5fb0ac"
+        },
+        {
+          "name": "Speed Kings",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5cfdfc0a-c61f-489b-8915-225288111f21"
+        },
+        {
+          "name": "Purple Chronicle",
+          "date": "1993-11-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5d2675fa-9464-35df-b5a8-8ab0a7139d2f"
+        },
+        {
+          "name": "18 Very Best Songs",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/622c728e-dce0-42fd-a198-8e843ca7e1e5"
+        },
+        {
+          "name": "The Most of Deep Purple",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/62acfc44-3c77-46b6-97a9-600d94ee76cb"
+        },
+        {
+          "name": "Stereo Pop Special‐12",
+          "date": "1972",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6416297a-4645-4097-b8ed-e9a1947682eb"
+        },
+        {
+          "name": "The Best of Deep Purple",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6c7d7aa0-cab0-3fd3-aca4-d1debf0fed21"
+        },
+        {
+          "name": "Hard Rock Heroes",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7494352e-198f-459a-a3b1-398044625a75"
+        },
+        {
+          "name": "Anthology, Vol. 1",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/756d1fed-ad47-4bf4-bbf4-bd2f4b2601d8"
+        },
+        {
+          "name": "Stereo Pop Special‐74",
+          "date": "1974-08-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/75d3058d-b6bf-47c3-b424-ef78418bba3a"
+        },
+        {
+          "name": "Heavy Metal Pioneers",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/77168cba-06e9-4aed-82c1-a02208801918"
+        },
+        {
+          "name": "Powerhouse",
+          "date": "1977",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7a31cb17-9323-398f-8dda-de1d28c7e864"
+        },
+        {
+          "name": "Best",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7aae7140-547c-4779-9062-375d2efb7d2a"
+        },
+        {
+          "name": "The Best of Deep Purple",
+          "date": "1970",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7bc52267-cc24-4234-b029-61016f67e880"
+        },
+        {
+          "name": "Lo mas profundo de… Deep Purple",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7beb9786-2a71-4b1a-ab63-82b2e283cf7d"
+        },
+        {
+          "name": "The Mark 2 Purple Singles",
+          "date": "1979",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/811d9f0a-2625-4418-bcee-5fccc3448860"
+        },
+        {
+          "name": "Now What?!",
+          "date": "2013-04-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/83afd89b-8746-4ff5-b1f4-aa64863de85e"
+        },
+        {
+          "name": "Knocking at Your Back Door: The Best of Deep Purple in the 80’s",
+          "date": "1991-12-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/84ab97f1-9eee-33fd-991b-0fc631127c72"
+        },
+        {
+          "name": "Ian Gillan featuring Deep Purple – Best",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8d106d12-c87b-4dba-9b64-f843fd3edb7c"
+        },
+        {
+          "name": "The History of Rock: Volume Twenty Seven",
+          "date": "1984",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8ed49e47-c1b6-488d-a869-35599f69fbbf"
+        },
+        {
+          "name": "Deep Purple",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8f2d5c39-13bc-4593-bd7a-9697d6d554d0"
+        },
+        {
+          "name": "Burn / Highway Star",
+          "date": "1979",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9081445c-7d85-48a8-9050-048fa6234a04"
+        },
+        {
+          "name": "Shades of Deep Purple & The Book of Taliesyn",
+          "date": "1975",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9556dde3-c943-44aa-aad1-be1dab23f1ca"
+        },
+        {
+          "name": "In Rock / Mashmakhan",
+          "date": "1970",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/956f7e9a-753a-4d90-b9e6-358a601110cc"
+        },
+        {
+          "name": "Stormbringer",
+          "date": "1974-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/95d17f98-dfe2-36c4-b950-fcdc1bdbc279"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "1991-09-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/983b9738-7486-443f-b5d1-723ed4d7e7b2"
+        },
+        {
+          "name": "Deep Purple’s Greatest Hits",
+          "date": "1976",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/98be4736-0f4d-4389-bc35-0df2340982bc"
+        },
+        {
+          "name": "Nightbird & Company",
+          "date": "1975",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/98c038f7-e07d-41ce-9546-6ecdf62575c5"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a06a2ece-5b3a-4eef-8476-befdb94ae1ef"
+        },
+        {
+          "name": "The Deep Purple Singles A’s & B’s",
+          "date": "1978",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a383b201-375b-3e80-9773-9c2b2a202202"
+        },
+        {
+          "name": "Progressive Story",
+          "date": "1971",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a63515b9-d673-4d93-984c-d959a62f8f23"
+        },
+        {
+          "name": "Platinum 1 Greatest Hits 1970–72",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a70c9f19-ea27-4c7f-b4ba-47c9e0ecb796"
+        },
+        {
+          "name": "CD Collection",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a796426c-42c8-4013-b8b2-f5bf597fa3c4"
+        },
+        {
+          "name": "Best of Deep Purple",
+          "date": "1970",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a922478f-b4cd-4d6f-91cd-d8ef04408405"
+        },
+        {
+          "name": "Smoke on the Water: The Best of",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/abe71889-aef6-3256-a52f-27069887e4a0"
+        },
+        {
+          "name": "In Rock / Machine Head",
+          "date": "1984",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b194f8e3-e748-4630-b8a3-bc8cffee85d6"
+        },
+        {
+          "name": "Bananas",
+          "date": "2003-08-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b2c0f9df-aaed-3ed2-af0c-1dd53ea02498"
+        },
+        {
+          "name": "Very Best of Deep Purple",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b5a5ed86-5e55-4a59-8b36-8f84fd19c495"
+        },
+        {
+          "name": "Knocking at Your Back Door / Perfect Strangers",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b6b82db4-f305-4d1a-aa2b-728adb8e75e8"
+        },
+        {
+          "name": "Fireball",
+          "date": "1971-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b9547871-240a-3ca4-97d7-9f2dfffe471c"
+        },
+        {
+          "name": "The Best of Deep Purple in Brazil",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bab45660-d7e9-44f8-83e3-5f455176b485"
+        },
+        {
+          "name": "Deep Purple",
+          "date": "1969-06-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bacc3ccf-32aa-3103-b50c-4edaa35e6fb6"
+        },
+        {
+          "name": "Shades of Deep Purple",
+          "date": "1968-07-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bdb083d6-be5e-32b3-97df-3d899a8ff858"
+        },
+        {
+          "name": "The Best of Deep Purple",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bf793653-9c0c-30bc-8d05-1ddbb2db2dee"
+        },
+        {
+          "name": "When We Rock, We Rock and When We Roll, We Roll",
+          "date": "1978-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c395bd9a-da7d-32d6-8749-7782018f8b32"
+        },
+        {
+          "name": "In Rock / Machine Head / 24 Carat Purple",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c8471f9b-6b00-4e3e-9eac-daffb37d75fb"
+        },
+        {
+          "name": "Collection",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c88aab40-eae1-4ef3-84da-6f6c51e627b6"
+        },
+        {
+          "name": "Abandon",
+          "date": "1998-05-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ca8b119f-376c-3e8c-840a-4a9e572dfa25"
+        },
+        {
+          "name": "New, Live and Rare",
+          "date": "1980",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cb6c9232-41c8-36e5-aa26-c1d202d71194"
+        },
+        {
+          "name": "Stars & Schlager",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cbc6880c-3794-4db6-856e-13c74ac26c67"
+        },
+        {
+          "name": "Machine Head",
+          "date": "1972-03-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d00243c5-adcf-3018-9aa7-1957d7a5a774"
+        },
+        {
+          "name": "Come Taste the Band",
+          "date": "1975-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d12f085d-7861-36cd-a2fb-55a18ddc6e56"
+        },
+        {
+          "name": "The Best of Deep Purple",
+          "date": "1972",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d33738a6-384b-418b-8e09-5b8dd7605d8b"
+        },
+        {
+          "name": "Battle of Deep Purple & Jimi Hendrix",
+          "date": "1970",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d7451c1d-f369-4762-aff9-33e4c3a36361"
+        },
+        {
+          "name": "Whoosh!",
+          "date": "2020-06-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dd3a44e9-8dc3-4803-8392-62452672fabe"
+        },
+        {
+          "name": "Deepest Purple: The Very Best of Deep Purple",
+          "date": "1980",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/df192da2-3a41-39ba-9517-58e74b48986c"
+        },
+        {
+          "name": "No. 1",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e5b08d58-c532-4c15-bcbe-51c7e69448a0"
+        },
+        {
+          "name": "SPLAT!",
+          "date": "2026-07-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e67fe079-daef-490b-9f2d-fbc4b68e4466"
+        },
+        {
+          "name": "Burn",
+          "date": "1974-02-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e8459360-b0d1-331e-a1e7-9717c962d29f"
+        },
+        {
+          "name": "Deep Purple in Rock",
+          "date": "1970-06-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ebdb53c3-fbae-34b1-81cb-f825c9a56822"
+        },
+        {
+          "name": "Purpendicular",
+          "date": "1996-02-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ed6487db-873e-317b-9a72-6085b53ea966"
+        },
+        {
+          "name": "Who Do We Think We Are",
+          "date": "1973-01-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/edba2b6f-8f50-3bc9-b2ac-1df8bdb51daa"
+        },
+        {
+          "name": "Slaves and Masters",
+          "date": "1990-10-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f00f78f4-f04c-3e38-9797-892c047f3a0a"
+        },
+        {
+          "name": "Deep Purple",
+          "date": "1977",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f03a4804-ae08-481f-ad56-9d18d45a7b61"
+        },
+        {
+          "name": "Four Maxi Single Box",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f5b98ad6-5eed-405b-ae5e-b169ccbd31e2"
+        }
+      ]
     }
   },
   "checked": {
@@ -6206,6 +6843,8 @@
     "cannibal-corpse": "2026-10-05T01:20:32.515660+00:00",
     "carcass": "2026-10-05T01:20:36.519387+00:00",
     "dark-tranquillity": "2026-10-05T07:14:03.164471+00:00",
-    "darkthrone": "2026-10-05T07:14:07.115947+00:00"
+    "darkthrone": "2026-10-05T07:14:07.115947+00:00",
+    "death": "2026-10-05T16:02:26.872493+00:00",
+    "deep-purple": "2026-10-05T16:02:31.342385+00:00"
   }
 }

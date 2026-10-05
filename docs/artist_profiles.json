@@ -3166,7 +3166,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://grave-digger-clan.com",
       "reference_url": "https://en.wikipedia.org/wiki/Grave_Digger_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:33.710594+00:00"
+      "reference_checked_at": "2026-10-02T02:26:33.710594+00:00",
+      "tour_attempted_at": "2026-10-05T16:02:17.890544+00:00"
     },
     "imminence": {
       "origin": "Trelleborg , Sweden",
@@ -3193,7 +3194,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.imminenceswe.com",
       "reference_url": "https://en.wikipedia.org/wiki/Imminence_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:33.770410+00:00"
+      "reference_checked_at": "2026-10-02T02:26:33.770410+00:00",
+      "tour_attempted_at": "2026-10-05T16:02:19.104576+00:00"
     },
     "jethro-tull": {
       "origin": "Blackpool , Lancashire, England",
@@ -3224,7 +3226,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://jethrotull.com",
       "reference_url": "https://en.wikipedia.org/wiki/Jethro_Tull_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:38.720510+00:00"
+      "reference_checked_at": "2026-10-02T02:26:38.720510+00:00",
+      "tour_attempted_at": "2026-10-05T16:02:19.264697+00:00"
     },
     "mastodon": {
       "origin": "Atlanta, Georgia , U.S.",
@@ -3255,7 +3258,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://mastodonrocks.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mastodon_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:38.865149+00:00"
+      "reference_checked_at": "2026-10-02T02:26:38.865149+00:00",
+      "tour_attempted_at": "2026-10-05T16:02:19.583568+00:00"
     },
     "obituary": {
       "origin": "Tampa, Florida , U.S.",
