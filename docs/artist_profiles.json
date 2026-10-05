@@ -3290,7 +3290,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://obituary.cc",
       "reference_url": "https://en.wikipedia.org/wiki/Obituary_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:38.921358+00:00"
+      "reference_checked_at": "2026-10-02T02:26:38.921358+00:00",
+      "tour_attempted_at": "2026-10-05T22:27:00.384919+00:00"
     },
     "mayhem": {
       "origin": "Oslo , Norway",
@@ -3321,7 +3322,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://thetruemayhem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mayhem_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:38.968142+00:00"
+      "reference_checked_at": "2026-10-02T02:26:38.968142+00:00",
+      "tour_attempted_at": "2026-10-05T22:27:03.738366+00:00"
     },
     "descape": {
       "about": "Канадская металкор-группа. Новые релизы и видео доступны в разделе новостей.",
@@ -3387,7 +3389,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://emperorhorde.com",
       "reference_url": "https://en.wikipedia.org/wiki/Emperor_%28Norwegian_band%29",
-      "reference_checked_at": "2026-10-02T02:35:23.274412+00:00"
+      "reference_checked_at": "2026-10-02T02:35:23.274412+00:00",
+      "tour_attempted_at": "2026-10-05T22:27:04.228327+00:00"
     },
     "overkill": {
       "origin": "Old Bridge Township, New Jersey , U.S.",
@@ -3420,7 +3423,8 @@
       "website": "http://wreckingcrew.com",
       "reference_url": "https://en.wikipedia.org/wiki/Overkill_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:11.781832+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:11.781929+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:11.781929+00:00",
+      "tour_attempted_at": "2026-10-05T22:27:04.527703+00:00"
     },
     "periphery": {
       "origin": "Washington, D.C. , U.S.",

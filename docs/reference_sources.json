@@ -6821,6 +6821,1276 @@
           "source_url": "https://musicbrainz.org/release-group/f5b98ad6-5eed-405b-ae5e-b169ccbd31e2"
         }
       ]
+    },
+    "def-leppard": {
+      "name": "Def Leppard",
+      "musicbrainz_url": "https://musicbrainz.org/artist/7249b899-8db8-43e7-9e6e-22f1e736024e",
+      "reference_checked_at": "2026-10-05T22:27:11.946130+00:00",
+      "genres": "alternative rock, aor, classic rock, glam, glam metal, glam rock, hard rock, heavy metal, nwobhm, pop rock, post-grunge, rock",
+      "website": "http://www.defleppard.com/",
+      "members": [
+        {
+          "name": "Joe Elliott",
+          "role": "acoustic guitar, lead vocals, original",
+          "begin": "1977"
+        },
+        {
+          "name": "Rick Savage",
+          "role": "bass guitar, original",
+          "begin": "1977"
+        },
+        {
+          "name": "Rick Allen",
+          "role": "drums (drum set)",
+          "begin": "1978-11-28"
+        },
+        {
+          "name": "Phil Collen",
+          "role": "electric guitar",
+          "begin": "1982"
+        },
+        {
+          "name": "Vivian Campbell",
+          "role": "electric guitar",
+          "begin": "1992"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/7249b899-8db8-43e7-9e6e-22f1e736024e",
+      "albums": [
+        {
+          "name": "Leppard on the Loose",
+          "date": "2021-04-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/00cbc4e7-1781-47e5-a9df-5b2d6c9fbbaf"
+        },
+        {
+          "name": "Hysteria at the O₂",
+          "date": "2020-05-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0272778f-b1b9-4a93-902b-865f9b1e20df"
+        },
+        {
+          "name": "Viva! Hysteria: Live at The Joint, Las Vegas",
+          "date": "2013-10-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/060e7743-719a-4111-a2fa-369260d4734a"
+        },
+        {
+          "name": "CD Collection, Volume Two",
+          "date": "2019-06-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/07b40657-fea2-4d8a-9444-e6bbbda454bd"
+        },
+        {
+          "name": "Now",
+          "date": "2002-08-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/09248078-e7c0-3c56-ae2e-1d9bd0164aaa"
+        },
+        {
+          "name": "Mirror Ball: Live & More",
+          "date": "2011-05-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0944ca92-9162-4713-98d2-2d09ae26ae52"
+        },
+        {
+          "name": "Work It Out",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0bad5101-6d60-487f-ad01-5b289b7d3a3d"
+        },
+        {
+          "name": "Def Leppard 4",
+          "date": "1989-11-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/11f18fc5-8e05-454d-8b3f-c4c5c02aa2d0"
+        },
+        {
+          "name": "Hysteria",
+          "date": "1987-08-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/12fa3845-7c62-36e5-a8da-8be137155a72"
+        },
+        {
+          "name": "Make Love Like a Man",
+          "date": "1992-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/156025a6-a5e4-3207-bd21-ff547e2f8d10"
+        },
+        {
+          "name": "Foolin’",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/16b58c84-ee98-4d96-b7a9-186f6120949a"
+        },
+        {
+          "name": "Women",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1820c0c5-7e0a-4186-9468-c74cf559a21b"
+        },
+        {
+          "name": "Retro Active",
+          "date": "1993-10-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/19a139a1-c38d-3d7e-bcbe-fabefadae6ec"
+        },
+        {
+          "name": "Old School Leppard",
+          "date": "2021-03-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1d7b8e57-ce33-4e19-a203-a29de41d884e"
+        },
+        {
+          "name": "Slang",
+          "date": "1996-04-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22b3257b-e65e-4b86-a5cd-dbe145ab8cdd"
+        },
+        {
+          "name": "X",
+          "date": "2002-07-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/233dec0f-611d-36c6-8675-90fb53707adb"
+        },
+        {
+          "name": "On Through the Night",
+          "date": "1980-03-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/23434a86-e665-3722-8dae-214f0fb97f3a"
+        },
+        {
+          "name": "Let’s Go",
+          "date": "2015-10-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2488985e-981b-403d-9852-188d1eb86e2a"
+        },
+        {
+          "name": "Rock Brigade",
+          "date": "1980",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2cc7192b-9275-4164-b584-32c63688b3c9"
+        },
+        {
+          "name": "Euphoria",
+          "date": "1999-06-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2dca8523-24e2-3a51-8bb4-038e979e689b"
+        },
+        {
+          "name": "Love Bites",
+          "date": "1988-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2f1b9ea0-d42c-46dd-bdb0-6ff3d4abcdfb"
+        },
+        {
+          "name": "Hysteria / Adrenalize",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2f7deee6-5e71-4dd4-a73e-532b7d30076c"
+        },
+        {
+          "name": "Pour Some Sugar on Me (2012)",
+          "date": "2012-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2fc41163-5606-41b6-bc9d-eafbe06b31b1"
+        },
+        {
+          "name": "Live at the L.A. Forum 1983",
+          "date": "2018",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2fd7c431-22e6-49cc-9ac3-217d47a0876b"
+        },
+        {
+          "name": "Action",
+          "date": "1994-01-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/331ca7ed-0075-308e-8e9b-fedeec1f7f7b"
+        },
+        {
+          "name": "Rock of Ages: The DVD Collection",
+          "date": "2005-11-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/351838e9-34c6-367f-aff3-2ede30141fde"
+        },
+        {
+          "name": "Let’s Get Rocked",
+          "date": "1992-03-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/36ff265d-a97c-35f0-9a0e-93a0206e700f"
+        },
+        {
+          "name": "All Timers",
+          "date": "2021-04-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3e272fb9-8891-4a75-938a-91534645dcf7"
+        },
+        {
+          "name": "Def Leppard",
+          "date": "2015-10-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3ef1f2b2-4ff0-482d-8b42-c2c2ea6b144d"
+        },
+        {
+          "name": "CD Collection, Volume One",
+          "date": "2018-06-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/40eb5c97-7b52-41f3-aeff-f28f478bbe9c"
+        },
+        {
+          "name": "High ’n’ Dry",
+          "date": "1981-07-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/419fa215-3740-3b1c-aa04-a209eab30789"
+        },
+        {
+          "name": "When Love and Hate Collide",
+          "date": "1995-10-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/42cc5ca3-0145-3f8b-9481-51ebf819d584"
+        },
+        {
+          "name": "Hysteria 2013",
+          "date": "2013-03-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/47f66f61-29cb-48c4-aeb1-390bee2d9bd5"
+        },
+        {
+          "name": "The Two Arm Years",
+          "date": "2021-03-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/48578b8a-fc01-4eae-b45b-ebc3fe76f091"
+        },
+        {
+          "name": "All I Want Is Everything",
+          "date": "1996-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4c411cb6-5de1-3db5-954a-197bcc1586a8"
+        },
+        {
+          "name": "Hello America",
+          "date": "1980-02-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4ce753b7-121d-40b9-af2f-21b15e5341a5"
+        },
+        {
+          "name": "From Hits Vegas Live 2020",
+          "date": "2021-02-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4e2bb495-e1f8-4ccf-9817-30a5b60879c5"
+        },
+        {
+          "name": "Deep Cuts",
+          "date": "2021-02-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/504fd8d1-c8b7-485c-894d-f2cea1d761c9"
+        },
+        {
+          "name": "Too Late for Love",
+          "date": "1983-11-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/507b3142-0e5c-3bb7-b43e-54f91766b052"
+        },
+        {
+          "name": "Tonight",
+          "date": "1993-04-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5170eeab-0b19-4714-84e9-87a7b7bcfae5"
+        },
+        {
+          "name": "Drastic Symphonies",
+          "date": "2023-05-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/55595537-5cec-45ab-8f2d-7fc912c93493"
+        },
+        {
+          "name": "Miss You in a Heartbeat",
+          "date": "1993-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/573b84ff-4eec-3483-80a2-d4a6a56a0294"
+        },
+        {
+          "name": "Yeah!",
+          "date": "2006-05-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5826c723-c45c-3640-80d6-ea176f45159b"
+        },
+        {
+          "name": "Adrenalize",
+          "date": "1992-03-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5b930454-b937-3d49-b26c-e82c4eded9bc"
+        },
+        {
+          "name": "Pour Some Sugar on Me",
+          "date": "1987-09-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5bf6006c-5ed4-324d-b070-8c220dd33316"
+        },
+        {
+          "name": "Goodbye",
+          "date": "1999-09-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5eea7604-4ccf-3da4-8847-dda3723c9479"
+        },
+        {
+          "name": "Electric Warriors",
+          "date": "2021-02-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/64160d70-4ef7-42ec-be52-9cc4686da419"
+        },
+        {
+          "name": "Have You Ever Needed Someone So Bad",
+          "date": "1992-11-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6f743bd5-eb16-3372-a206-a5cdd522c9be"
+        },
+        {
+          "name": "London to Vegas",
+          "date": "2020-05-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/71acfdd2-3e3a-410e-a342-de1f11bf8216"
+        },
+        {
+          "name": "Pour Some Sugar on Me",
+          "date": "2023-04-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/728c9e06-6f8f-49c6-bae1-270fd416612a"
+        },
+        {
+          "name": "Wasted",
+          "date": "1979-11-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/73d18e39-f21b-4a80-b740-ec767ba74fe9"
+        },
+        {
+          "name": "Let It Go",
+          "date": "1981-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/79e79895-cdac-4156-8ee3-d5c6e5af8ab6"
+        },
+        {
+          "name": "Diamond Star Halos",
+          "date": "2022-05-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7e4ae23f-0e18-4102-8d14-56b23f617573"
+        },
+        {
+          "name": "Too Many Jitterbugs: B‐Sides and Rarities",
+          "date": "2020-03-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7e9b1eb0-4de4-4ac4-93ce-ada12f7b1089"
+        },
+        {
+          "name": "And There Will Be a Next Time… Live From Detroit",
+          "date": "2017-01-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f959888-609d-495b-bbbb-e865642ea91e"
+        },
+        {
+          "name": "Live: In the Round, in Your Face",
+          "date": "1989-03-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/803a90cb-1951-35c5-a70e-2384b6f6ccf6"
+        },
+        {
+          "name": "Best Of",
+          "date": "2004-10-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/808e0f24-2c40-3ce0-82c1-b7dd4ac44289"
+        },
+        {
+          "name": "Rock of Ages: The Definitive Collection",
+          "date": "2005-05-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/83272528-ad97-370e-80a3-c15139fa1c2d"
+        },
+        {
+          "name": "The Ballad Album",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/847fa66b-c698-31da-8ae3-e05829dcada2"
+        },
+        {
+          "name": "Undefeated",
+          "date": "2011-04-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/85736fbe-be4e-4c4d-8a38-7cb3f354fcb3"
+        },
+        {
+          "name": "Raw: Early BBC Recordings",
+          "date": "2020-03-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/858596d8-2015-4d1e-a683-de58d3d0a7d5"
+        },
+        {
+          "name": "Promises",
+          "date": "1999-07-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8c05d7a8-c391-3c6b-830c-affd6bb1129f"
+        },
+        {
+          "name": "Long Long Way to Go",
+          "date": "2003-04-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/913d9763-581f-3ddb-9d64-e8ea701124ec"
+        },
+        {
+          "name": "Spotify Singles",
+          "date": "2018-07-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/93182c36-ec6b-4183-b2ce-d818a022ec95"
+        },
+        {
+          "name": "Hysteria",
+          "date": "1987-11-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/956def60-5670-3eb3-8f9a-7a96a8ce041e"
+        },
+        {
+          "name": "Classic Albums: Iron Maiden / Def Leppard",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9d472e72-bd5e-4f98-8634-87f1ec47772c"
+        },
+        {
+          "name": "Diamond Star Heroes: Live From Sheffield",
+          "date": "2025-11-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9dfda6d3-6cdb-4b4e-bc1b-0d57949a9910"
+        },
+        {
+          "name": "Pour Some Sugar on Me / Rock of Ages 2012",
+          "date": "2012-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9f9f5d79-fe9c-4738-9ffa-8733fc5fb80a"
+        },
+        {
+          "name": "The Def Leppard E.P.",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a7f824fe-ff7e-4540-9e76-f32e5f9ce1dd"
+        },
+        {
+          "name": "The Early Years 79–81",
+          "date": "2020-03-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ab85309b-671e-4f34-9885-6984820bc6d3"
+        },
+        {
+          "name": "When the Walls Came Tumbling Down: Live in Oxford",
+          "date": "2020-03-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ac2637f0-a034-4ad6-9e3e-67699cbd3c79"
+        },
+        {
+          "name": "Armageddon It",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b027204b-5ed0-3dc7-9b75-32780416084e"
+        },
+        {
+          "name": "Def Leppard: The Las Vegas Residency Set List",
+          "date": "2026-02-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b6c201dd-7410-43ee-bdc3-6e062393a773"
+        },
+        {
+          "name": "Live at Abbey Road Studios",
+          "date": "2018-04-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b8c99d7f-e8bc-4e2c-bd83-f9caaf25aae3"
+        },
+        {
+          "name": "Vault: Def Leppard Greatest Hits 1980–1995",
+          "date": "1995-10-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b9a9668e-239a-3322-8164-ef4b59da4274"
+        },
+        {
+          "name": "Rock of Ages",
+          "date": "1983-05-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bf2a0dae-c899-404c-a216-1a654e44fe5d"
+        },
+        {
+          "name": "Photograph",
+          "date": "1983-02-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c0fbff68-6f70-4e54-b88c-9a58ee944c00"
+        },
+        {
+          "name": "Live at the Leadmill",
+          "date": "2024-04-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c10f93bb-fc0e-4ee8-9f68-cdba65ab7fae"
+        },
+        {
+          "name": "Work It Out",
+          "date": "1996-07-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c8f5dab0-94b2-3459-aa8a-b427812b2298"
+        },
+        {
+          "name": "Epic Leppard",
+          "date": "2021-02-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cad4d085-32bf-4e24-9ffd-5b3f835f4a18"
+        },
+        {
+          "name": "Historia / In the Round, in Your Face: DVD Collection",
+          "date": "2002-02-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ccb77c82-8ccb-48fb-a5a1-a95427c8492e"
+        },
+        {
+          "name": "The Story So Far: The Best of Def Leppard",
+          "date": "2018-11-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cf73cda9-b53d-49e3-8fcc-90d7ce126f2b"
+        },
+        {
+          "name": "Bringin’ On the Heartbreak",
+          "date": "1981-11-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d0551bbe-f5a4-4943-a363-c32716125ae1"
+        },
+        {
+          "name": "Slang",
+          "date": "1996-05-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d58266a8-e00c-3a64-b7e1-549e28f772ee"
+        },
+        {
+          "name": "In the 80’s",
+          "date": "2014-03-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d5be40ed-408f-4895-832a-fe31110d1053"
+        },
+        {
+          "name": "Pyromania",
+          "date": "1983-01-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d77df681-b779-3d6d-b66a-3bfd15985e3e"
+        },
+        {
+          "name": "The Viv Years",
+          "date": "2021-03-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d9f600e2-6537-4cc8-88b5-88d591390b30"
+        },
+        {
+          "name": "Def Leppard Hits Vegas",
+          "date": "2020-05-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dd5538f1-34d9-44c7-8d91-d8a9b21384d0"
+        },
+        {
+          "name": "Animal",
+          "date": "1987-07-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ddd1ea05-5513-3518-9cdb-f12c08179e31"
+        },
+        {
+          "name": "Heaven Is",
+          "date": "1993-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e1495abb-99ae-3cd0-ad3c-9daef8825934"
+        },
+        {
+          "name": "Breathe a Sigh",
+          "date": "1996-11-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e225eed1-173a-3ecd-b291-c3e056a7c534"
+        },
+        {
+          "name": "X, Yeah! & Songs From the Sparkle Lounge: Rarities From the Vault",
+          "date": "2021-06-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e2f9ca1d-df74-4c19-9cf5-5c7bc2b90a93"
+        },
+        {
+          "name": "Rock of Ages (2012)",
+          "date": "2012-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e33ef085-065d-49c4-b120-7b47f5210d6f"
+        },
+        {
+          "name": "Two Steps Behind",
+          "date": "1993-12-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e5fc444f-2e63-34d3-93a6-c9c4b924ab42"
+        },
+        {
+          "name": "Let There Be Drums",
+          "date": "2021-03-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e7c02e55-b78e-41e7-9c88-60d6863a9358"
+        },
+        {
+          "name": "Rock & Roll Hall of Fame",
+          "date": "2020-08-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ef052f47-04ad-49fd-9b6f-c64d9afe7562"
+        },
+        {
+          "name": "CD Collection, Volume 3",
+          "date": "2021-06-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f7202f85-8b63-4534-93f3-fc0d5a2b9102"
+        },
+        {
+          "name": "The Lost Session",
+          "date": "2018-01-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f82c9568-c522-482c-8348-22b23f27d4d5"
+        },
+        {
+          "name": "Songs From the Sparkle Lounge",
+          "date": "2008-04-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f8494f1a-caf3-37bd-9e36-05028306bfff"
+        },
+        {
+          "name": "Rocket",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f8883c2c-b3a5-3037-a231-cf00c81ebd42"
+        }
+      ]
+    },
+    "deftones": {
+      "name": "Deftones",
+      "musicbrainz_url": "https://musicbrainz.org/artist/7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "reference_checked_at": "2026-10-05T22:27:15.979642+00:00",
+      "genres": "alternative metal, alternative rock, heavy metal, metal, nu metal, shoegaze",
+      "bandcamp_url": "https://deftones.bandcamp.com/",
+      "website": "https://www.deftones.com/",
+      "members": [
+        {
+          "name": "Stephen Carpenter",
+          "role": "guitar, original",
+          "begin": "1988"
+        },
+        {
+          "name": "Abe Cunningham",
+          "role": "drums (drum set), original",
+          "begin": "1988"
+        },
+        {
+          "name": "Chino Moreno",
+          "role": "guitar, lead vocals, original",
+          "begin": "1988"
+        },
+        {
+          "name": "Frank Delgado",
+          "role": "keyboard, sampler, turntable",
+          "begin": "1999"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "albums": [
+        {
+          "name": "Sextape",
+          "date": "2010-10-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/059ecd22-ce5a-4737-9d5e-35e0ae99d5c3"
+        },
+        {
+          "name": "Alpha Test",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0891dcb0-ff81-3a54-94dc-5c344d1b69bf"
+        },
+        {
+          "name": "Adrenaline",
+          "date": "1995-10-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0b4ea447-444c-34ba-ba87-96496f2e15b8"
+        },
+        {
+          "name": "2001-06-30: Wasted at Wâldrock: Festivalterrein Zomerweg, Burgum, Netherlands",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0c60e380-089e-344d-8347-7e81b5c45eec"
+        },
+        {
+          "name": "Freaks! The Ultimate Collection of Demo’s and Rarities",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0e47f8a7-5606-4dff-b064-5d6a41589fdc"
+        },
+        {
+          "name": "Prayers/Triangles",
+          "date": "2016-02-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/10c3488d-b050-4a2f-836b-69a84130cc82"
+        },
+        {
+          "name": "Be Quiet and Drive (Far Away)",
+          "date": "1998-06-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1187bbbc-7a4b-30c3-9c7e-cc3d32cda16f"
+        },
+        {
+          "name": "Viva Las Vegas",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/13c7d76f-4063-3214-9ac5-bf1c61e7b7c6"
+        },
+        {
+          "name": "1999-07-20: Ozzfest, Shoreline Amphitheatre, Mountain View, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/17e0262b-1d72-4f24-a558-caf1083a4760"
+        },
+        {
+          "name": "Hole in the Earth",
+          "date": "2006-10-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1be18bfb-2b6e-3f58-a04a-17b899ed6348"
+        },
+        {
+          "name": "2001-08-04: Rolling Rock Town Fair, Latrobe, PA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1c78d784-19fc-3f32-b5f9-e892cd9f5e40"
+        },
+        {
+          "name": "2007-02-13: Estación Mapocho, Santiago de Chile, Chile",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1cdd5db2-fae8-4cd8-ad94-a7d0818e5e0e"
+        },
+        {
+          "name": "1997-09-23: Bottom of the Hill, San Francisco, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1d37790f-93fa-456b-8080-2305c213b8f8"
+        },
+        {
+          "name": "2000-08-31: Two Days a Week Festival, Wiesen, Austria",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1d899d6f-ca0c-3941-9bb4-99b3c07eb562"
+        },
+        {
+          "name": "Doomed User",
+          "date": "2016-03-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/21efc500-1956-41f3-9a97-5e04813859a4"
+        },
+        {
+          "name": "2003-06-07: Pinkpop Festival, Megaland, Landgraaf, Netherlands",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/221323ec-c847-457c-9ab5-c24f8d261119"
+        },
+        {
+          "name": "(Like) Linus",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/24811ca9-fbcb-3c24-bde2-5e22c71d9ef4"
+        },
+        {
+          "name": "B‐Sides & Rarities, Vol. 2",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2a9e2546-e84b-450c-8871-1ccd63dac762"
+        },
+        {
+          "name": "1992-12-03: Cactus Club, San Jose, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2d76cd81-4750-4276-bbe6-1b51e0a7377b"
+        },
+        {
+          "name": "milk of the madonna",
+          "date": "2025-08-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2eb487d8-ce9c-4127-922b-1dd9241ae862"
+        },
+        {
+          "name": "Don’t Fuck With the Deftones",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2fea539b-bc9f-3abe-b8d8-60ff9a58f14b"
+        },
+        {
+          "name": "Knife Prty (Purity Ring remix)",
+          "date": "2020-10-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3181da65-3415-4f9b-acb9-0a1b63efb6ac"
+        },
+        {
+          "name": "The Studio Album Collection",
+          "date": "2016-04-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/33370b6e-abea-4328-b6bb-624d69f40551"
+        },
+        {
+          "name": "Hexagram",
+          "date": "2003-09-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/36f889e9-3885-3766-a2dc-528e2a010a8a"
+        },
+        {
+          "name": "Teenager (Robert Smith remix)",
+          "date": "2020-12-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/384d03c6-6566-460e-9e46-113eb2f2e6f8"
+        },
+        {
+          "name": "Deftones",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3df608ab-1e44-4dd8-90e2-a5378ffc440c"
+        },
+        {
+          "name": "Rocket Skates",
+          "date": "2010-04-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3fb1fb55-e096-4ad6-a44d-e86c819450b5"
+        },
+        {
+          "name": "Live: Volume 1 – Selections From Adrenaline",
+          "date": "2013-04-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/406ad8a3-c864-493b-a52e-dc9b86ade1db"
+        },
+        {
+          "name": "Tempest",
+          "date": "2012-10-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/42b5624e-6e78-4056-9fde-428127c85065"
+        },
+        {
+          "name": "School Superstars: A Compilation of Rare and Unreleased Tracks",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/459c9452-d413-42bc-8a00-4c65b9ddac50"
+        },
+        {
+          "name": "Leathers",
+          "date": "2012-09-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/45f8e1e0-9c84-4c43-bb55-7584bc9dea6d"
+        },
+        {
+          "name": "Covers",
+          "date": "2011-04-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/46810601-f064-474b-aaad-64ac114815bc"
+        },
+        {
+          "name": "Minerva",
+          "date": "2003-05-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/48a25395-2556-3438-85ba-5ea5e040073b"
+        },
+        {
+          "name": "2003-06-05: Pinkpop Festival, Megaland, Landgraaf, Netherlands",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/491d0bb7-fff4-4134-b401-716ba3e587dc"
+        },
+        {
+          "name": "2001‐01‐21: Rock in Rio III",
+          "date": "2001-01-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4a9d48dd-1fbe-4df8-a1a1-6734a82f80b3"
+        },
+        {
+          "name": "Engine No. 9 / 7 Words",
+          "date": "1993-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4abd2d5c-e63e-4e84-beca-965e9a859574"
+        },
+        {
+          "name": "Gore",
+          "date": "2016-04-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4c0a6c9b-090b-4159-a359-a328d94c50d3"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/50e674d6-829b-4671-9573-d203ea3a606e"
+        },
+        {
+          "name": "Live in Hawaii: Music in High Places",
+          "date": "2002-08-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/51712b17-c450-343f-b230-a137a2a5a14d"
+        },
+        {
+          "name": "My Own Summer (Shove It)",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5c46f2e5-edc3-31cf-9e1a-c3426265fd4f"
+        },
+        {
+          "name": "…And Friends",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5cd315e7-372b-4bb9-8a22-a1be94f502ed"
+        },
+        {
+          "name": "private music",
+          "date": "2025-08-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5e9a3ca5-82ce-47da-9409-83f6f953b4a2"
+        },
+        {
+          "name": "1995-12-19: SOMA, San Diego, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/600c6fc7-9a8b-40f1-8658-71dada174b03"
+        },
+        {
+          "name": "Digital Bath (Telefon Tel Aviv version) / Feiticeira (Arca remix)",
+          "date": "2021-06-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6089d57b-733f-4c93-b619-a3c5e655c514"
+        },
+        {
+          "name": "Milk",
+          "date": "2015-11-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/622f320b-9cbc-4dd8-bc13-37baf5320d5d"
+        },
+        {
+          "name": "Anger",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/651efb43-6c17-3acc-9689-87b32138fdd2"
+        },
+        {
+          "name": "Ceremony (WHOKILLEDXIX Ceremonial version)",
+          "date": "2021-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6ddf9ecf-a9fa-4a5b-a915-7b33350ebba6"
+        },
+        {
+          "name": "Around the Fur",
+          "date": "1997-07-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6f935b80-160f-3787-97d6-a4ce342cf8c5"
+        },
+        {
+          "name": "1998-11-21: Electric Factory, Philadelphia, PA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/71d590e6-e8cb-451f-9245-5bc23da1db1c"
+        },
+        {
+          "name": "1998-08-22: Bizarre Festival, Butzweilerhof, Cologne, Germany",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/73ef96e9-3e29-43b0-8ad2-896b765e2a3c"
+        },
+        {
+          "name": "1997-10-19: Studion, Stockholm, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/76eeb8e0-0180-4c09-8699-27f12a13162c"
+        },
+        {
+          "name": "B‐Sides & Rarities",
+          "date": "2005-10-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/78b906d6-0cb5-3570-bce6-30e28771ed86"
+        },
+        {
+          "name": "Root / Nosebleed",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7d1f1b4f-0504-4778-ae53-5b7750878e27"
+        },
+        {
+          "name": "2000-08-13: Acoustic Live in Las Vegas (X-107.5)",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f2286d1-6a70-3911-a1c2-5b1014ecb7c9"
+        },
+        {
+          "name": "Saturday Night Wrist",
+          "date": "2006-10-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/82be2ea8-9c50-3024-a1be-cf35c2e5fd69"
+        },
+        {
+          "name": "Covers",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/82be9e45-65af-3d06-b673-877c0eafe8a6"
+        },
+        {
+          "name": "1996‐12‐20: Maritime Hall, San Francisco, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/83d5bb21-ba92-4877-a227-c6578480eef7"
+        },
+        {
+          "name": "2000-08-19: Flughafen Weeze, Weeze, Germany",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/85b0c2ff-1b39-4bc1-abc1-c621df3ca5f8"
+        },
+        {
+          "name": "Koi no Yokan",
+          "date": "2012-11-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/87338b87-34e2-4f11-8e2e-600636b6dbcb"
+        },
+        {
+          "name": "The Deftones",
+          "date": "1992-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8769394d-68a2-4ce4-b1cc-355fef4b7369"
+        },
+        {
+          "name": "International Super Hits",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/88955b76-e39a-42b9-bbdf-a09c345c69e6"
+        },
+        {
+          "name": "2000-06-29: Circuit City Rock Stage, Milwaukee, WI, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/890de1c7-9ee4-4b96-aba9-fc3b56358e68"
+        },
+        {
+          "name": "The Vinyl Collection",
+          "date": "2011-10-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/894f364d-61cd-425b-9201-4f716fc5e720"
+        },
+        {
+          "name": "My Own Summer School",
+          "date": "2010",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/89b1dcc0-d764-45a4-aa06-b7a240ea9c77"
+        },
+        {
+          "name": "2003-09-27: Palais Omnisports de Paris-Bercy, Paris, France",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/89f1d08c-e7da-3920-9e10-a563d2f7c2fd"
+        },
+        {
+          "name": "Live",
+          "date": "1998-04-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8deab666-2f98-3297-891b-685889f1ee4f"
+        },
+        {
+          "name": "2001‐01‐26: Estadio Chile, Santiago de Chile, Chile",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/969347da-6dce-4731-bf5f-b4ebb7a52d5d"
+        },
+        {
+          "name": "Got Milk??",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/96fd4235-40db-419b-8fe9-4141a30a1f55"
+        },
+        {
+          "name": "My Own Summer (Areal Kollen mix)",
+          "date": "2020-04-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/992b6475-766d-4138-b9b9-1fbabe16195f"
+        },
+        {
+          "name": "Rare & Acoustic",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9d91859f-f2fe-324e-b466-9b64696eebaa"
+        },
+        {
+          "name": "Around the Max",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a3f4774d-cb5d-48a5-ac8a-bbed94e4a1c8"
+        },
+        {
+          "name": "White Pony",
+          "date": "2000-04-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a7d33e96-8e09-3aff-8629-44812a1b8489"
+        },
+        {
+          "name": "1997-05-03: Bojangles, Sacramento, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/adfdfdde-7b8c-464c-b986-094b1dde94ad"
+        },
+        {
+          "name": "Demos & Rarities",
+          "date": "2023",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/af52c724-283a-4dcc-bb4b-409e6e357c39"
+        },
+        {
+          "name": "Change (In the House of Flies)",
+          "date": "2000-07-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b3522d64-98c3-3c6e-ac70-21e2131e3f9b"
+        },
+        {
+          "name": "2018-10-06: Zilker Park, Austin, TX, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b5115f1a-3e2e-48e9-9c79-89047c990812"
+        },
+        {
+          "name": "Mein",
+          "date": "2007-03-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b7c5414b-b56b-34f8-b27e-5558b0d98b07"
+        },
+        {
+          "name": "Root / Engine No. 9",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ba852d8b-604a-4c25-96d0-224676f41dbe"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2010",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bcc2bbf0-83e9-46a3-8493-0efdc5fec5d6"
+        },
+        {
+          "name": "1992-12-03: Cactus Club, San Jose, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c0fc35df-8bb5-4a6c-a72b-205819912747"
+        },
+        {
+          "name": "Genesis",
+          "date": "2020-09-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c59e184b-fa81-4c87-9474-eca5549e2449"
+        },
+        {
+          "name": "You’ve Seen the Butcher",
+          "date": "2010-11-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cb9f5072-a7e1-436d-914d-501dc0cc1524"
+        },
+        {
+          "name": "Ohms",
+          "date": "2020-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cc2075d9-3f46-4d74-82a9-31492bf2a7e4"
+        },
+        {
+          "name": "Lightning Strikes",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d4e51543-71fb-3527-89e6-8c2502299af7"
+        },
+        {
+          "name": "1997-10-13: The Max, Melkweg, Amsterdam, Netherlands",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d850ed25-fef5-418a-aef9-731aabe1702d"
+        },
+        {
+          "name": "2000‐11‐18: Asbury Park Convention Hall, Asbury Park, NJ, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/db3e33dc-947d-4f99-ae05-eb15f4426d9b"
+        },
+        {
+          "name": "Live at Dynamo Open Air 1998",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/db639ba9-df55-3a65-ae7a-20a937edb7d9"
+        },
+        {
+          "name": "my mind is a mountain",
+          "date": "2025-07-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e2c76c91-cfa9-4474-9fd3-72c99141e3c6"
+        },
+        {
+          "name": "Mascara",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ea7a94fb-669f-49af-931b-1a9627c5913b"
+        },
+        {
+          "name": "Back to School (Mini Maggit)",
+          "date": "2000-12-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f15fac13-e490-3368-86c8-58c7087d0932"
+        },
+        {
+          "name": "Ohms",
+          "date": "2020-08-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f177c312-b1e6-4020-b7b3-ec68015cd4fa"
+        },
+        {
+          "name": "Diamond Eyes",
+          "date": "2010-04-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f21cec66-4e3a-42fc-b7e4-59b17bed0cca"
+        },
+        {
+          "name": "2000-06-06: Brixton Academy, London, UK",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f39a7db5-fb44-3f36-929e-b27e9deca183"
+        },
+        {
+          "name": "Deftones",
+          "date": "2003-05-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f423c6e6-410c-3b43-94ec-8f7a2c02f052"
+        },
+        {
+          "name": "The Ultimate Demo Collection",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f5ffbbc7-03fd-361d-a4d1-2a08d34f17c7"
+        },
+        {
+          "name": "1997-11-01: The Palace, Los Angeles, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f658234b-470f-48aa-938d-c99d47f8fd48"
+        },
+        {
+          "name": "Rare!",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f6ebceb8-ff7e-36ff-ac32-becb8f8b125c"
+        },
+        {
+          "name": "2001-02-27: Coliseu do Porto, Porto, Portugal",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fa518a5d-8a81-4037-bbe9-c5af158f178c"
+        },
+        {
+          "name": "Passenger (Mike Shinoda remix)",
+          "date": "2020-11-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fe32463c-3c5c-4dd0-b7a3-36a84ec0877e"
+        },
+        {
+          "name": "Limited Festival Edition",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fedb89cf-1e19-41d0-82a1-5818764aae5d"
+        }
+      ]
     }
   },
   "checked": {
@@ -6845,6 +8115,8 @@
     "dark-tranquillity": "2026-10-05T07:14:03.164471+00:00",
     "darkthrone": "2026-10-05T07:14:07.115947+00:00",
     "death": "2026-10-05T16:02:26.872493+00:00",
-    "deep-purple": "2026-10-05T16:02:31.342385+00:00"
+    "deep-purple": "2026-10-05T16:02:31.342385+00:00",
+    "def-leppard": "2026-10-05T22:27:11.946312+00:00",
+    "deftones": "2026-10-05T22:27:15.979863+00:00"
   }
 }
