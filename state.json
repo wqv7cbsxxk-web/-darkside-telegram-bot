@@ -349,7 +349,16 @@
     "03874235a0be100fa1a165acdacfb92a9445fd93",
     "77f10be2fc7cc8ce068da103991e5d616a2deea3",
     "de5447172abf6b80cec33e4d5c4c50da5bdec9dd",
-    "c8e584e25d2031466f63b46b0455b5179c40bea6"
+    "c8e584e25d2031466f63b46b0455b5179c40bea6",
+    "537c997a686c0164289bd765cc5bc0122231456f",
+    "1d7a14c98b0b3fdf355407acf8cc723d5d7bb20c",
+    "81fee41cd5d1e2cad58a1ce7795a11c2f32f7fb2",
+    "feb2564faaa4eab40dc543b5120a3f8dff147ab1",
+    "6d62edad7761b7d4729512c07044002f61e23f81",
+    "b95f9fc48b1e929be33fb46b2f828c7829bf001b",
+    "6035cbe10b99963a5471ea225e2eb67d10a833de",
+    "0039be2ebe78eee1b62e9dfbd36c99457a78bb53",
+    "3475276d1f2c82184c515e805874285723c4134f"
   ],
   "recent_titles": [
     {
@@ -1106,6 +1115,46 @@
       "title": "Classic Rock Tracks Of The Week: October 5, 2026",
       "source": "Louder",
       "ts": 1791184420
+    },
+    {
+      "title": "Новое видео THY CATAFALQUE",
+      "source": "Darkside",
+      "ts": 1791215987
+    },
+    {
+      "title": "Фрагмент нового релиза RAMMSTEIN",
+      "source": "Darkside",
+      "ts": 1791215988
+    },
+    {
+      "title": "AN NCS VIDEO PREMIERE: UNTU — “RAMPOGAN”",
+      "source": "No Clean Singing",
+      "ts": 1791216007
+    },
+    {
+      "title": "Новый вокалист FEAR FACTORY: «Я пытался звучать максимально похоже на BURTON C. BELL»",
+      "source": "Darkside",
+      "ts": 1791216009
+    },
+    {
+      "title": "Brian May recalls the moment he learned that Freddie Mercury had played his final Queen gig",
+      "source": "Louder",
+      "ts": 1791216098
+    },
+    {
+      "title": "See the New Trailer for Scorpions' Upcoming Biopic",
+      "source": "Ultimate Classic Rock",
+      "ts": 1791216108
+    },
+    {
+      "title": "BRUCE DICKINSON: «Для IRON MAIDEN припасены еще тузы в рукаве»",
+      "source": "Darkside",
+      "ts": 1791216111
+    },
+    {
+      "title": "ANAGNORISIS: “CAREGRIEVER”",
+      "source": "No Clean Singing",
+      "ts": 1791216127
     }
   ],
   "initialized_sources": [
@@ -1279,7 +1328,7 @@
     {
       "source": "Louder",
       "priority": 84,
-      "title": "Queens of the Stone Age's John Homme on the genius of Dave Grohl",
+      "title": "Queens of the Stone Age's Josh Homme on the genius of Dave Grohl",
       "link": "https://www.loudersound.com/bands-artists/hes-so-easy-to-play-with-its-really-addictive-queens-of-the-stone-ages-john-homme-on-the-genius-of-dave-grohls-drumming",
       "rss_body": "Queens Of The Stone Age\n\nmainman\n\nJosh Homme\n\nhas opened up on his love of working with\n\nDave Grohl\n\n– describing his drumming skills as \"addictive\".\n\nGrohl made his name as the drummer with grunge icons\n\nNirvana\n\n, and is now widely known as the singing/guitar playing frontman of rock giants\n\nFoo Fighters\n\n.\n\nBut he still gets behind the kit whenever he gets a chance. Arguably, Grohl's greatest post-Nirvana drumming work came on the 2002 Queens Of The Stone Age album\n\nSongs For The Deaf\n\n.\n\nAnd Homme would likely go along with that, judging by how fondly he talks about his experience of working with Grohl.\n\nIn a new, wide-ranging interview with Rick Beato, Homme says: \"He's so easy to play with, it's kind of – it's so easy that it's really addictive. It doesn't really matter what he sits behind.\n\n\"Of course when he sits behind the drums it's so musical. So whatever you play on a song, he just does it back here and that feels so comfortable.\n\n\"You play him a riff and he'll play that riff back at you on the drums. And then he'll play a drum counter-melody that would have been a harmony going on, that's being beaten out of it. That's where the stuff is so inspiring. It's sick.\n\n\"He does this very strange thing where everything is the same hardness. He can make a floor tom as loud as a snare and I'm always like, 'what the fuck?'\n\n\"Someone could say 'well he hits them all hard', except when he's doing it soft it's the same too. So there's this sonic consistency across all boundaries. He can just dial it up and dial it back.\"\n\nIn 2018,\n\nMetal Hammer published a deep dive\n\ninto whether Grohl is the best rock drummer in the world.\n\nQOTSA's ninth album\n\nPerfecth\n\nwill be released later this month.",
       "tags": "Bands & Artists",
@@ -1430,6 +1479,138 @@
       "category": "Экстремальный метал",
       "published": "2026-10-05T02:04:32+00:00",
       "id": "9b584e80ea6211536b02492b245ea5f2cf3bc246",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Aerosmith Teases a Comeback Concert: Watch the Clip Here",
+      "link": "https://ultimateclassicrock.com/aerosmith-comeback-concert-tease/",
+      "rss_body": "The rest of the details will be revealed tomorrow.",
+      "tags": "News Aerosmith UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-05T15:05:13+00:00",
+      "id": "024fc01756a0cc3fbe9abee5e90c4e7543ea1c53",
+      "retry_after": 1791216324
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Voivod Cancels U.S. Tour Amid Family Health Emergency",
+      "link": "https://metalinjection.net/news/voivod-cancels-u-s-tour-amid-family-health-emergency",
+      "rss_body": "The Voivod clan is having a hard time this year.",
+      "tags": "Latest News voivod BAT",
+      "category": "Хэви-метал",
+      "published": "2026-10-05T14:49:51+00:00",
+      "id": "79988d2c24607a85d552fa2d59ef4d43ba37f4d5",
+      "retry_after": 1791216398
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "ENTER - Win 'Back to the Beginning' Screening Tickets + Much More",
+      "link": "https://ultimateclassicrock.com/enter-win-back-to-the-beginning-screening-tickets-ozzy-shopping-spree-contest/",
+      "rss_body": "Enter now for your chance to win tickets to see the new concert documentary, 'Ozzy & Black Sabbath: Back to the Beginning,' as well as an Ozzy shopping spree.",
+      "tags": "Contests Exclusive News Back to the Beginning Black Sabbath Ozzy Osbourne UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-05T13:47:52+00:00",
+      "id": "68ce823a66e3dfc926b7dd4019dd568ef156434c",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Переиздание THE SMASHING PUMPKINS выйдет зимой",
+      "link": "http://www.darkside.ru/news/184234/",
+      "rss_body": "Обладатели «Грэмми», рок-группа THE SMASHING PUMPKINS объявили о переиздании к 30-летию любимого сборника 1996 года «The Aeroplane Flies High» на лейбле UMe. Оно выйдет как в стандартном комплекте из пяти LP, так и в ограниченном издании на цветном виниле и будет доступен с 18 декабря.\n\nПервоначально вышедший в конце 1996 года, «The Aeroplane Flies High» включает расширенные издания каждого из пяти синглов с «Mellon Collie And The Infinite Sadness»: «Bullet With Butterfly Wings», «1979», «Zero», «Tonight, Tonight» и «Thirty-Three». Каверы на THE CARS, BLONDIE и THE CURE, а также би-сайды и раритеты добавили ещё одну главу в историю одной из самых признанных эпох PUMPKINS и смело подчеркнули, насколько невероятно плодовитым и творческим был этот период для Billy Corgan'а. Тридцать лет спустя «The Aeroplane Flies High» живёт как священное продолжение «Mellon Collie».\n\nДополняют праздник новые сертификационные вехи двух знаковых альбомов группы: «Mellon Collie And The Infinite Sadness» теперь сертифицирован как 11-кратно платиновый, а «Siamese Dream» как семикратно платиновый.\n\nВместе с «The Aeroplane Flies High» THE SMASHING PUMPKINS переиздали сборник би-сайдов 1994 года «Pisces Iscariot» и «Adore» 1998 года на стандартном чёрном виниле. Кроме того, группа выпустила новый эксклюзив для розничной продажи под названием «Absolute Zeros», в который вошли главные хиты эпохи Virgin, включая «1979», «Today», «Disarm» и другие.\n\nПразднование «The Aeroplane Flies High» совпадает с началом масштабного тура THE SMASHING PUMPKINS «Rats In A Cage», одного из самых амбициозных концертных проектов группы на сегодняшний день. Тур продлится до ноября, и в нём коллектив играет два отдельных сета: один посвящён недавнему 30-летию знакового альбома 1995 года «Mellon Collie And The Infinite Sadness», а другой представляет собой путешествие по почти четырём десятилетиям карьеры с хитами, редкими темами и любимыми песнями поклонников.\n\nПереиздание «The Aeroplane Flies High» и тур «Rats In A Cage» следуют за многогранным юбилейным размахом 2025 года вокруг «Mellon Collie», а также за переизданием к 25-летию «Machina/The Machines Of God». Каждое из этих событий стало частью невероятно продуктивного десятилетия для THE SMASHING PUMPKINS, когда поток вдохновения породил «Cyr» 2020 года, тройной альбом «Atum: A Rock Opera In Three Parts» 2022/2023 годов и «Aghori Mhori Mei» 2024 года.\n\nПомимо всей деятельности в PUMPKINS, неизменно плодовитый Billy Corgan занят и другими начинаниями. Его широко хвалимый подкаст «The Magnificent Others», вступающий во второй год, недавно представил откровенные беседы о творчестве и наследии с Tommy Lee, Todd'ом Rundgren'ом, Джоном Карпентером и Ann Wilson. Corgan также дебютировал на Coachella, выйдя на сцену с Sombr'ом в рамках неожиданного выступления.\n\nВ качестве президента National Wrestling Alliance Corgan привёл эту спортивную организацию к знаковой сделке с Comet TV, вернув NWA на бесплатное эфирное телевидение по всей стране впервые с начала девяностых. Ранее в этом году Corgan и PUMPKINS также вернулись на Lollapalooza с исторически значимым хедлайнерским сетом, первым на этом фестивале со времён его гастрольного воплощения начала девяностых.\n\nГруппа отправилась в тур «Rats In A Cage» 30 сентября, ознаменовав очередной яркий момент в выдающемся году для Corgan'а и PUMPKINS.\n\nТрек-лист:\n\nLP 1 - Bullet With Butterfly Wings\n\n01. Bullet With Butterfly Wings\n\n02. ...Said Sadly\n\n03. You're All I've Got Tonight\n\n04. Clones (We're All)\n\n05. A Night Like This\n\n06. Destination Unknown\n\n07. Dreaming\n\nLP 2 - 1979\n\n01. 1979\n\n02. Ugly\n\n03. The Boy\n\n04. Cherry\n\n05. Believe\n\n06. Set The Ray To Jerry\n\nLP 3 - Zero\n\n01. Zero\n\n02. God\n\n03. Mouths Of Babes\n\n04. Tribute To Johnny\n\n05. Marquis In Spades\n\n06. Pennies\n\n07. Pastichio Medley\n\nLP 4 - Tonight, Tonight\n\n01. Tonight, Tonight\n\n02. Meladori Magpie\n\n03. Rotten Apples\n\n04. Jupiter's Lament\n\n05. Medellia Of The Gray Skies\n\n06. Blank\n\n07. Tonite Reprise\n\nLP 5 - Thirty-Three\n\n01. Thirty-Three\n\n02. The Last Song\n\n03. The Aeroplane Flies High (Turns Left, Looks Right)\n\n04. Transformer\n\n05. The Bells\n\n06. My Blue Heaven",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-05T13:34:30+00:00",
+      "id": "8b4959a8adcb4f729e75f4eafc7d388f74e9c615",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Glenn Hughes, Lee Aaron and more pay tribute to Sass Jordan, dead at 63",
+      "link": "https://www.loudersound.com/bands-artists/glenn-hughes-lee-aaron-pay-tribute-to-sass-jordan-dead-at-63",
+      "rss_body": "Glenn Hughes, Lee Aaron, and Mike Garson are among the musicians who've paid tribute to Canadian rock star Sass Jordan following her death, aged 65.\n\nNews of the singer's passing on October 2 was shared by her family on her social media channels.\n\nThe statement reads: \"On Oct 2 2026, surrounded by her loving family, Sass Jordan peacefully crossed over to the other side.\n\n\"She remains in our hearts, an inimitable force of nature. An irreplaceable being of light and joy!\"\n\nIn a statement, the singer's PR Eric Alper said, \"Over four decades, she gave Canadian rock one of its most recognizable voices, carved out space for women in a genre long dominated by men, and opened doors for the young musicians who came through her band.\"\n\nBorn in Birmingham, England, in 1960, Jordan moved to Montreal with her family aged three, and began performing with bands in her adopted hometown in her mid-teens. The singer's debut album,\n\nTell Somebody\n\n, was released on Atlantic Records in 1988, with singles Double Trouble and Tell Somebody peaking just outside the Top 10.\n\n\"They played the\n\nTell Somebody\n\nvideo on Much Music a lot,\" Jordan recalled. \"I remember going in two weeks from relative obscurity to being recognized as the girl in the video.\"\n\nIn 1990, Jordan moved to Los Angeles and released her best-known album,\n\nRacine,\n\ntwo years later. She played shows with AC/DC, the Rolling Stones, Aerosmith and more, with future Foo Fighters star Taylor Hawkins on drums.\n\nIn 2003, Jordan was hired as a judge on TV talent show\n\nCanadian Idol,\n\na position she held for six seasons.\n\nOn September 1, Jordan canceled her scheduled 2026 shows, citing \"a serious medical condition.\"\n\nFollowing the announcement of the singer's passing, Glenn Hughes posted, \"Gab and I are totally in shock, RIP my dear friend Sass.\"\n\n\"A true friend. We had so much love, joy and laughter, and music together. RIP My Sasseroonie Girl.\"\n\nFellow Canadian rock singer Lee Aaron posted, \"Oh man…unexpected and crushing…my heartfelt condolences go out to Sass Jordan’s family, bandmates and loved ones. ❤️The world has lost a formidable talent. RIP Sweet rock’n’roll sister…I thought we’d have many more years of making music and getting silly backstage together.\"\n\nSinger Bif Naked wrote, \"It’s so Heartbreaking.\"\n\nDavid Bowie's long-time keyboard player Mike Garson posted:\n\n\"I’m heartbroken to hear of the passing of Sass Jordan.\n\n\"Sass and I had the joy of working together on our A Bowie Celebration tours. She was an extraordinary singer, but what I remember just as much was the person behind that unmistakable voice.\n\n\"She had a great heart, a wonderful spirit, an incredible feel for the music, and a wicked sense of humor. She was an absolute joy to work with, both onstage and off.\n\n\"When Sass joined us, she said that performing Bowie’s music every night felt like “playing a love letter to his memory.” It was an honor to share those nights and that music with her.\n\n\"My deepest condolences to her family, friends, fellow musicians, and everyone who loved her.\n\n\"Sass was one of a kind, and she will be deeply missed.\"\n\nA post shared by Sass Jordan (@sass.jordan)\n\nA photo posted by\n\nA post shared by Lee Aaron (@leeaaron.music)\n\nA photo posted by",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-05T13:00:00+00:00",
+      "id": "79c285bc3de24006597209515a1cb183cf992d8b",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Why Alice Cooper Had to Destroy the Alice Cooper Group",
+      "link": "https://ultimateclassicrock.com/why-alice-cooper-had-to-destroy-the-alice-cooper-group/",
+      "rss_body": "\"I don't want Alice to die. So I'm going to keep Alice going.\"",
+      "tags": "News Alice Cooper Alice Cooper Group UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-05T12:59:45+00:00",
+      "id": "5a1430840554ccd4cd59aafadbe4295bf3d1c4ea",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Сингл M&#214;TLEY CR&#220;E попал в клуб миллиардеров",
+      "link": "http://www.darkside.ru/news/184170/",
+      "rss_body": "Один из главных хитов MÖTLEY CRÜE, \"Kickstart My Heart\", стал новым участником миллиардеров Spotify, присоединившись тем самым к песням Ozzy Osbourne, BLACK SABBATH, METALLICA, AEROSMITH and LED ZEPPELIN.",
+      "tags": "",
+      "category": "Хард-рок",
+      "published": "2026-10-05T12:51:08+00:00",
+      "id": "8a9d0c9b8631eb4c1fb57b8cf7c804dd4b44cfc9",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "When Bon Jovi Nearly Stole Guns N’ Roses’ Name",
+      "link": "https://ultimateclassicrock.com/bon-jovi-nearly-stole-guns-n-roses-name/",
+      "rss_body": "Jon Bon Jovi was looking for a title that summarized his band’s cowboy image.",
+      "tags": "News Bon Jovi Guns N' Roses Jon Bon Jovi UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-05T12:42:49+00:00",
+      "id": "20e14b38f9521c1a81eadd6fc406a30318dac32d",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "BRUCE KULICK обещает перерождение",
+      "link": "http://www.darkside.ru/news/184184/",
+      "rss_body": "BRUCE KULICK в интервью в подкасте \"Beardo & Weirdo\" подтвердил, что работает над новым альбомом с басистом SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS Todd'ом Kerns'ом:\n\n«[Мы с Todd'ом] работаем над несколькими песнями для новой записи со мной. Но получается это только тогда, когда мне удаётся поймать его в те два дня, что он бывает дома [из-за плотного гастрольного графика]. Но я пишу материал для пластинки. Хотя я собираюсь поступить так, как, похоже, делают все сейчас: выпускать по одной песне, а потом из них сложится альбом. Тогда у вас будет и физический CD, и полноценный альбом».\n\nГоворя об операции на сердечном клапане, перенесённой в апреле, Bruce продолжил:\n\n«Первая песня, должен признаться, родилась ещё в период восстановления, а моей задачей тогда было просто делать всё, что в моих силах. Это была моя работа, потому что больше я почти ни на что не был способен: только есть, спать и позволять [моей жене] Лизе обо мне заботиться.\n\nНо я написал для неё песню под названием „Without Her\", которую очень люблю, очень битловская по духу вещь. В первом куплете всё в красках про операционную. Второй куплет про восстановление, а в припеве говорится, что без неё я бы не справился.\n\nИ вот я показал её нескольким друзьям, и один из моих добрых друзей, Joe McGuinness, который играет с Chris'ом Jericho' в [KISS-кавер-коллективе] KUARANTINE, а он замечательный музыкант, вдруг говорит: „Я бы мог добавить на это бэк-вокал\". Я отвечаю: „Хорошо\". А потом слушаю и думаю: „Боже мой\". И он предлагает: „Давай поработаем над чем-нибудь ещё\".\n\nТак что я работаю с ним, а ещё с другим близким другом, местным парнем Pat'ом [Patrick'ом] Vitagliano, который поёт в коллективе THE BONES. Они часто играют здесь. У него есть ещё один проект, PAPER COWBOY. Я подбросил ему пару идей. Я не знал, чего ожидать. Мы с ним близки, и мне нравится, какой он классный музыкант, но я не знал, что он сделает. И он просто сносит мне голову, потому что это не похоже ни на что из того, что он делает обычно. Я такой: „Боже мой, что ты сделал? Я не видел в тебе этой стороны\".\n\nТак что я работаю с ним, работаю с Todd'ом, когда он дома, те самые два дня в году, и двигаюсь дальше. Какой будет первая песня, я пока не знаю, но я одержим идеей довести её до конца. И сколько труда нужно вложить… Я очень щепетилен, и люди, с которыми я работаю, тоже. Всё не делается тяп-ляп. Всё должно быть правильно аранжировано, и все партии должны быть исполнены как надо. С барабанами мне помог Joey Cassata. Я знаю, что у него теперь концерты с TWISTED SISTER и Sebastian'ом Bach'ем».\n\nKulick назвал свою новую сольную музыку «прекрасным перерождением».\n\n«Потому что я говорил о записи последние два года и о сочинении песен с тех пор, как ушёл из [GRAND FUNK RAILROAD, где играл на гитаре]. Просто я не хотел больше разъезжать, ведь это было их наследие, а я хотел сосредоточиться на своём».",
+      "tags": "",
+      "category": "Хард-рок",
+      "published": "2026-10-05T11:52:02+00:00",
+      "id": "d09f7ddd37407d506dad98b837461f4d1f6c5e75",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Концертное видео EPICA",
+      "link": "http://www.darkside.ru/news/184197/",
+      "rss_body": "Consign To Oblivion (Live at The Symphonic Synergy), новое концертное видео EPICA, доступно для просмотра",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-05T10:55:56+00:00",
+      "id": "60fc64a105c631f16bc8f63c605f3edf5f0b4403",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Pub Landlord Al Murray didn’t want to be just another punk fan",
+      "link": "https://www.loudersound.com/bands-artists/interviews/pub-landlord-al-murray-record-collection",
+      "rss_body": "In 2016\n\nAl Murray\n\n– best known for his comedy creation The Pub Landlord – told Prog about his eclectic attitude to music, which gave rise to his extensive and wide-ranging record collection.\n\nWhen I went to boarding school in Bedford,\n\neveryone was into punk\n\n. I thought, “I want to be into something for myself – how can I carve out my own thing?” Someone had a copy of\n\nGenesis\n\n’\n\nSeconds Out\n\nso I got into that. The sound of strings doesn’t frighten me: I don’t come at prog thinking it’s elitist music. I played in orchestras growing up and they were not elite; they were people scraping away to make a nice sound. So I don’t have an allergy to musicianship or classical music. I was always coming at rock music with that on board.\n\nThe first album I bought was\n\nAnd Then There Were Three\n\n. You’d go into Andy’s Records in Bedford with four quid in your pocket and think, “I like that band, but I can’t afford that double album, so what\n\ncan\n\nI get?” It was all about cassette tapes for me – at school you couldn’t have a record player and you had to pack things away neatly, like being in the army. So you might not buy that expensive double, but you’d get what was in your price bracket.\n\nBrowsing in record shops was exactly how Nick Hornby describes it in\n\nHigh Fidelity:\n\nyou don’t just look at the records you want, but the ones you already have; you’re touching base. I was looking at stuff I couldn’t afford and thinking, “One day I’ll buy that copy of\n\nRelayer\n\n.”\n\nI learned about prog through making friends who were into it. When I got to uni (I studied History at Oxford) on my first weekend I met Simon Oakes from\n\nSuns Of The Tundra\n\nand he had a tape of Genesis at Knebworth – wow, that was like gold dust. At uni I had more money to spend and that’s when I really started listening to and playing music.\n\nI’d studied percussion at school and I played in a jazz band there. On my year off I was in a covers band who I tortured into playing\n\nSolsbury Hill\n\n. I was like, “Right lads, this is in 7,” and they were like, “What the fuck are you on about?” “Basically we miss a bit of the end of this bar – don’t worry, I’ll play it right.” And then there’s that bit where we’ve all got to\n\nreally\n\ncount.\n\nAt uni I had a friend who was a massive\n\nRush\n\nfan so occasionally you’d try and play some\n\nreally\n\ndifficult music. It was fun, but I always just tried to have a broader palette than fall back on the music I really love – I’m a big fan of lots of “normal” rock and pop too. Although I do remember a friend coming round with a Jane Siberry tape and me throwing it behind a cupboard because I wanted to listen to\n\nLarks’ Tongues In Aspic\n\n. I lied to him about it for ages. He still won’t know – he’s not a\n\nProg\n\nreader!\n\nFrom\n\nLarks’ Tongues\n\nto\n\nRed\n\n, that period of\n\nKing Crimson\n\nis really amazing – you can’t take it as three records; it’s one hot stretch. Look at the YouTube footage. That music is angry for a reason. They’re all pushing to get space. When I moved into my first flat in London,\n\nRed\n\nwas the soundtrack to nights in playing Risk. It’s my favourite Crimson album, and that’ll always stay with me.\n\nI never got tribalism in music – if something’s good I’ll like it. But prog always felt like something I had to defend.\n\nBowie\n\nwalks along the faultline between rock and prog all the time. He inhabits the faultline – utilises it. Those\n\nBerlin albums\n\nare especially out there because\n\nBrian Eno\n\n’s an art rocker; and then you’ve got\n\nRobert Fripp\n\n. You’re not going to have Fripp on a record and it come out ordinary.\n\nIn the 90s I listened to a lot of\n\nBeatles\n\n.\n\nRevolver\n\nis the first prog record of all\n\n, and their best by a million miles. There’s a constant stylistic shift – each track is something one band alone would mine a career from.\n\nTomorrow Never Knows\n\nis the invention modal, syncretic music that would become dance music – yes, the Beatles did that too.\n\nSimilarly,\n\nKing Crimson’s\n\nIn The Court Of The Crimson King\n\nisn’t the first prog album, it’s just the first that\n\nannounces\n\nit is.\n\nThe Who\n\nhad been mining that seam for years and you can hear their effect on Genesis – who want to be The Who, but they’re too polite. They also want to be soul boys, but if you’ve got a\n\nclassically-trained pianist\n\nin the band you’ll end up with\n\nSelling England By The Pound\n\n, which isn’t about having your heart broken but having your country broken – as worthwhile a lament as any love song.\n\nTool’s Lateralus sounds completely timeless; it doesn’t sound like it’s been glued together, like a Metallica record\n\nMy favourite Genesis record ia a toss-up between\n\nThe Lamb Lies Down On Broadway\n\n– no one’s made anything that good for a very long time – and\n\nDuke\n\n, which is a very compelling record. I follow Genesis through the “pop” years too, because even singles like\n\nMama\n\nare plain weird.\n\nIn the 80s and 90s prog lost its confidence – it had the shit kicked out of it and was told to go away. It went in on itself and doubled down on the gnarly bits rather than writing lovely melodies. Then people start not taking no for an answer and you got fantastic bands like\n\nTool\n\ncoming through.\n\nLateralus\n\nsounds completely timeless; it doesn’t sound like it’s been glued together, like a\n\nMetallica\n\nrecord – and I love Metallica, but their records do sound like they’ve been boiled in a bag a bit. You know Tool can play the record from start to finish. Danny Carey is such an amazing drummer; you wanna hear him, you don’t want to be deprived of that band.\n\nThe stuff I’ve got into in the last year has stemmed from Steven Wilson’s\n\nHand.Cannot.Erase.\n\n. I was completely beguiled by that record. I always liked\n\nPorcupine Tree\n\n, but here he’s coming from pure melody, and you get this witheringly good band playing it. From there you listen to\n\nMarco Minnemann\n\n, who I’m a little afraid of because he’s a drummer.\n\nThe Aristocrats\n\nstuff is hilarious; then there’s\n\nNick Beggs\n\n’ stuff, and\n\nCraig Blundell\n\n, who’s a friend of mine – he does this prog dubstep grime project, Dr Octopus.\n\nBut my kids have influenced me on this last one:\n\nElvis\n\n. They were really into him for a while and I don’t know where they found him. Suddenly they wanted\n\nThe Sun Sessions\n\non all the time. Elvis\n\nis\n\nprog rock: he invents rock and roll by taking two things and sticking them together. He’s even wearing capes by the end of it. In his Vegas period he invents orchestration in rock and roll in the way\n\nJon Anderson\n\ndescribes how he puts his own music together.\n\nElvis would do that live: “I need a trombone here and the drummer to go nuts.” All the time Ronnie Tutt’s going for it with a\n\nhuge\n\ndrumkit. If you leave Elvis out of this you’re making a fundamental mistake. He came onstage to\n\nAlso Sprach Zarathustra –\n\nhow much more prog could you be?",
+      "tags": "Interviews Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-05T10:00:00+00:00",
+      "id": "636302c5b1ddb12f4d0563687ecb24f63d79ccbc",
       "retry_after": 0
     }
   ]
