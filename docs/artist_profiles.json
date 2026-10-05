@@ -3062,7 +3062,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://gojira-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gojira_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:27.730126+00:00"
+      "reference_checked_at": "2026-10-02T02:26:27.730126+00:00",
+      "tour_attempted_at": "2026-10-05T07:13:54.528110+00:00"
     },
     "exodus": {
       "origin": "Richmond, California , U.S.",
@@ -3093,7 +3094,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://exodusattack.com",
       "reference_url": "https://en.wikipedia.org/wiki/Exodus_%28American_band%29",
-      "reference_checked_at": "2026-10-02T02:26:27.841258+00:00"
+      "reference_checked_at": "2026-10-02T02:26:27.841258+00:00",
+      "tour_attempted_at": "2026-10-05T07:13:54.831083+00:00"
     },
     "haken": {
       "origin": "London , England",
@@ -3120,7 +3122,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://hakenmusic.com",
       "reference_url": "https://en.wikipedia.org/wiki/Haken_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:33.556676+00:00"
+      "reference_checked_at": "2026-10-02T02:26:33.556676+00:00",
+      "tour_attempted_at": "2026-10-05T07:13:55.013324+00:00"
     },
     "immolation": {
       "origin": "Yonkers, New York , U.S.",
@@ -3147,7 +3150,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://immolation.info",
       "reference_url": "https://en.wikipedia.org/wiki/Immolation_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:33.615499+00:00"
+      "reference_checked_at": "2026-10-02T02:26:33.615499+00:00",
+      "tour_attempted_at": "2026-10-05T07:13:55.513766+00:00"
     },
     "grave-digger": {
       "origin": "Gladbeck , West Germany",

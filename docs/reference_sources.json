@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-04T01:43:22.035103+00:00"
+      "bandcamp_checked_at": "2026-10-05T07:14:16.094738+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -5417,6 +5417,773 @@
           "source_url": "https://musicbrainz.org/release-group/f5595a71-6763-4938-be6a-4dca6a9e5ad9"
         }
       ]
+    },
+    "dark-tranquillity": {
+      "name": "Dark Tranquillity",
+      "musicbrainz_url": "https://musicbrainz.org/artist/9d30e408-1559-448b-b491-2f8de1583ccf",
+      "reference_checked_at": "2026-10-05T07:14:03.164344+00:00",
+      "genres": "death metal, melodic death metal, metal",
+      "bandcamp_url": "https://darktranquillity.bandcamp.com/",
+      "website": "https://www.darktranquillity.com/",
+      "members": [
+        {
+          "name": "Mikael Stanne",
+          "role": "guitar, lead vocals, original",
+          "begin": "1989"
+        },
+        {
+          "name": "Martin Brändström",
+          "role": "keyboard, synthesizer",
+          "begin": "1998"
+        },
+        {
+          "name": "Christopher Amott",
+          "role": "guitar",
+          "begin": "2020"
+        },
+        {
+          "name": "Johan Reinholdz",
+          "role": "guitar",
+          "begin": "2020"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/9d30e408-1559-448b-b491-2f8de1583ccf",
+      "albums": [
+        {
+          "name": "The Gallery",
+          "date": "1995-04-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/06a50231-c772-3766-8f20-54dd144a2421"
+        },
+        {
+          "name": "We Are the Void",
+          "date": "2010-02-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0f4dea33-546e-4e26-a5cb-2a181a11e319"
+        },
+        {
+          "name": "Where Death Is Most Alive",
+          "date": "2009-10-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/10242ea0-eeef-4f1d-893d-445d2e373ae4"
+        },
+        {
+          "name": "The Dying Fragments",
+          "date": "2009-10-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/109ff19d-89a1-4e3e-b31d-ae947af077f9"
+        },
+        {
+          "name": "A Memory Construct",
+          "date": "2014-03-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/12e4f515-069b-45b7-8a67-5af567a239fd"
+        },
+        {
+          "name": "Forward Momentum",
+          "date": "2016-10-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1c841971-ada4-448b-ab81-049ddc2124c3"
+        },
+        {
+          "name": "Misery’s Crown / Focus Shift",
+          "date": "2007",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1ca97268-d63b-415f-b03e-898f7fb13aee"
+        },
+        {
+          "name": "Trail of Life Decayed: Demo-91",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/202b8dab-0638-3532-a0f2-562948069b9e"
+        },
+        {
+          "name": "1991-02-22: Gothenburg, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/21c734a0-c255-35df-8cb6-66fc314d5cbf"
+        },
+        {
+          "name": "1991 – 2025",
+          "date": "2025-12-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/232f3a62-5a6c-4a0b-a40e-a921495380e2"
+        },
+        {
+          "name": "The Absolute",
+          "date": "2017-03-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2590012b-781b-4918-88ec-270fb996ca5f"
+        },
+        {
+          "name": "Promo ’94",
+          "date": "1994-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/34cd3f70-4651-491c-ba7f-75ca3ed9778f"
+        },
+        {
+          "name": "Enter Suicidal Angels",
+          "date": "1996-09-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3f685bbb-e32f-3406-91b3-0ed09bf54e89"
+        },
+        {
+          "name": "Misery’s Crown",
+          "date": "2009-09-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/436423f2-010b-4435-bb0d-96512e96cd98"
+        },
+        {
+          "name": "The Pitiless",
+          "date": "2016-09-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/44bea761-209e-442a-9f1a-b3467393c76a"
+        },
+        {
+          "name": "Live Damage",
+          "date": "2003-09-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4a11d8df-47a5-3cd3-8103-e9e572563cbf"
+        },
+        {
+          "name": "The Mind’s I",
+          "date": "1997-04-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4f19ca64-128f-3b6b-97f1-b4ca24b48a56"
+        },
+        {
+          "name": "Construct",
+          "date": "2013-05-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5305a8e1-69c3-4ad8-a2de-d08a54569c61"
+        },
+        {
+          "name": "Moment",
+          "date": "2020-11-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/54405528-7479-47dc-bf39-eb740b9c74a3"
+        },
+        {
+          "name": "Endtime Signals",
+          "date": "2024-08-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5800eabd-0bf7-4f9b-9070-603395692219"
+        },
+        {
+          "name": "Projector",
+          "date": "1999-06-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/588e5abe-dacf-3ff7-a43c-9d9f0e68c140"
+        },
+        {
+          "name": "Haven",
+          "date": "2000-07-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/58b8be30-4934-325d-ae03-21923a1b1e29"
+        },
+        {
+          "name": "Manifesto of Dark Tranquillity",
+          "date": "2009-02-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5c9573a2-a927-3cbe-951e-42aea1cc349b"
+        },
+        {
+          "name": "The Dark Unbroken",
+          "date": "2020-10-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5eb8cc22-24ab-4640-91d5-eb0f9dd73dcc"
+        },
+        {
+          "name": "Exposures: In Retrospect and Denial",
+          "date": "2004-10-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/60332b98-ca56-372d-8dac-305b7cdafaf6"
+        },
+        {
+          "name": "Atoma",
+          "date": "2016-10-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/607b28e6-b950-4b25-be1b-5e828bf7632f"
+        },
+        {
+          "name": "2001-02-08: Popstad, Gothenburg, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/621eda08-9fb4-37a0-bb84-18ceeb4f2ecf"
+        },
+        {
+          "name": "Live Gates Of Metal",
+          "date": "2006-02-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6726d41e-75ad-4ae0-8e86-751fdba81d86"
+        },
+        {
+          "name": "Lost to Apathy EP",
+          "date": "2004-11-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6b0c56c6-d069-3893-8ecf-bc77837a6562"
+        },
+        {
+          "name": "Tranquillity",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/70ef6330-cc7a-3b2f-9812-cf27a7c8d031"
+        },
+        {
+          "name": "Identical to None",
+          "date": "2020-10-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/718c6bb4-f6b7-416c-883d-3ac490140bef"
+        },
+        {
+          "name": "Yesterworlds",
+          "date": "2009-05-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/758c709c-82bd-4deb-a9d5-e8c804522b7a"
+        },
+        {
+          "name": "Phantom Days",
+          "date": "2020-09-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/77040802-3c78-4e7c-9596-39b3460872be"
+        },
+        {
+          "name": "Character",
+          "date": "2005-01-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/78984954-a080-3141-ae8f-32fea9d95905"
+        },
+        {
+          "name": "Atoma",
+          "date": "2016-11-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8365d48b-8569-4e36-967f-4d7373c53adb"
+        },
+        {
+          "name": "1999-10-23: Gothenburg, Sweden",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8d4f0200-ef1d-39b7-8d87-99333cba732a"
+        },
+        {
+          "name": "A Closer End",
+          "date": "2008-05-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/921ce342-552b-3388-9c11-06a5f48f7073"
+        },
+        {
+          "name": "Fiction",
+          "date": "2007-04-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9581e23a-ba4f-3111-a5dd-02d3d280e6ee"
+        },
+        {
+          "name": "Of Chaos and Eternal Night",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/99859dad-1b90-3f5f-b9f5-f971c8108ef7"
+        },
+        {
+          "name": "Zero Distance",
+          "date": "2011",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9c952f41-f19b-4fb2-9bae-5723babafc6d"
+        },
+        {
+          "name": "Not Nothing",
+          "date": "2024-06-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a19f7b61-02be-4e0f-a42d-c1e4dd54123e"
+        },
+        {
+          "name": "Unforgivable",
+          "date": "2024-05-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/acd70879-8739-41f7-b525-23f6be65e8ae"
+        },
+        {
+          "name": "A Moonclad Reflection",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b4b60d11-702c-3be4-b66a-0dc974a6e41d"
+        },
+        {
+          "name": "Where Death Is Most Alive",
+          "date": "2008-09-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b78e6a88-af94-4903-8f20-68e3fbcfd08c"
+        },
+        {
+          "name": "Rehearsal December 1990",
+          "date": "1990-12-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b98fd677-790a-4d48-915c-b4fd827b8fea"
+        },
+        {
+          "name": "Promotape 1992",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/be2034eb-68d2-42e4-9f64-866efdabdd72"
+        },
+        {
+          "name": "Focus Shift",
+          "date": "2007-04-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bf94fe07-1d5b-3627-b2bd-2c32ee9d887d"
+        },
+        {
+          "name": "Furtive Monologue / Focus Shift",
+          "date": "2007",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c7188f57-4b82-4c14-ab74-1c3391a5205c"
+        },
+        {
+          "name": "Damage Done",
+          "date": "2002-07-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ce727cb4-d95a-3316-b416-97faab82b3be"
+        },
+        {
+          "name": "Sorrow’s Architect",
+          "date": "2013-06-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d1e2d1d5-f032-49c1-ac17-3adfca93a099"
+        },
+        {
+          "name": "Skydancer",
+          "date": "1993-08-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d46e1ef2-db69-33f7-a44c-0b55b4ae1776"
+        },
+        {
+          "name": "The Dying Fragments",
+          "date": "2009-10-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d8b26e18-8865-4594-a5d6-3fd187b49050"
+        },
+        {
+          "name": "Skydancer / Of Chaos and Eternal Night",
+          "date": "1995-12-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ed4142e0-ce32-4481-8d2d-9429aa273e19"
+        },
+        {
+          "name": "Zero Distance EP",
+          "date": "2012-10-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ef18b4bf-1a93-4758-9c3c-c161d0ae02a1"
+        },
+        {
+          "name": "Punish My Wacken",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f59d26b7-1ed1-3ca2-86fc-91bb26fc446d"
+        },
+        {
+          "name": "The Last Imagination",
+          "date": "2024-03-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fd9ac364-b645-4372-817d-b1ec3fee5ffd"
+        },
+        {
+          "name": "Enfeebled Earth",
+          "date": "1990-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ffe190c2-0028-4a13-ab7f-f5dde5d7da31"
+        }
+      ]
+    },
+    "darkthrone": {
+      "name": "Darkthrone",
+      "musicbrainz_url": "https://musicbrainz.org/artist/af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+      "reference_checked_at": "2026-10-05T07:14:07.115830+00:00",
+      "genres": "black 'n' roll, black metal, crust punk, death metal, heavy metal, speed metal",
+      "website": "http://www.darkthrone.no/",
+      "members": [
+        {
+          "name": "Fenriz",
+          "role": "drums (drum set), original",
+          "begin": "1986"
+        },
+        {
+          "name": "Nocturno Culto",
+          "role": "lead vocals",
+          "begin": "1988"
+        },
+        {
+          "name": "Nocturno Culto",
+          "role": "bass",
+          "begin": "1988"
+        },
+        {
+          "name": "Nocturno Culto",
+          "role": "guitar",
+          "begin": "1988"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+      "albums": [
+        {
+          "name": "Total Death",
+          "date": "1996-01-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/021f995a-36ae-3a3e-9381-3c16328842d9"
+        },
+        {
+          "name": "Thulcandra",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/077bb8c5-ebc1-45a0-9632-157eae58f57a"
+        },
+        {
+          "name": "Return to Ultima Thule",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/112246bb-6221-400b-953e-d8fb132b9e02"
+        },
+        {
+          "name": "Clamor",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1175b96e-6b27-3dfe-8b31-52c6035cbd77"
+        },
+        {
+          "name": "Cromlech / Spectres Over Gorgoroth",
+          "date": "",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/12afb705-f36c-486a-9fb8-539a02686913"
+        },
+        {
+          "name": "Sardonic Wrath",
+          "date": "2004-09-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1c4c8693-f604-3d8a-9d9b-1efd3e2f74c6"
+        },
+        {
+          "name": "Black Dawn Affiliation",
+          "date": "2024-04-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1d6ac07d-c140-4a7b-9045-e5801ba1433b"
+        },
+        {
+          "name": "The Cult Is Alive",
+          "date": "2006-02-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/223bb067-927c-364b-9c61-32d52854a83c"
+        },
+        {
+          "name": "A Blaze in the Dark Past",
+          "date": "2015",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/266a5ea5-ba5e-4da5-879a-153d50eb2d21"
+        },
+        {
+          "name": "A Night of Unholy Black Metal",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/27ecaffc-31ae-3ff3-82cc-aa5de7caf53b"
+        },
+        {
+          "name": "Plaguewielder",
+          "date": "2001-09-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/29ebc7c8-f20a-3ab5-a912-06135dd3edc2"
+        },
+        {
+          "name": "The True Legends in Black",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2e6144ca-0f7b-378f-b1fc-0ba5ef07646c"
+        },
+        {
+          "name": "Live From the Past",
+          "date": "2006",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/35947326-c63c-4296-8f2e-29a6f936b423"
+        },
+        {
+          "name": "A Blaze in the Northern Sky",
+          "date": "1992-03-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3ab57384-506c-33ff-9ecc-e5a6134e17bd"
+        },
+        {
+          "name": "Burial Bliss / Visual Aggression",
+          "date": "2017-06-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3ee64531-f8e9-4bd3-9266-7bc07d2f8f66"
+        },
+        {
+          "name": "Ravishing Grimness",
+          "date": "1999-09-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3f210f1f-e460-3c43-9c98-69ab569e5e5a"
+        },
+        {
+          "name": "Cromlech",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/425733bb-32b0-39e6-afa5-6241f76f6d82"
+        },
+        {
+          "name": "A Blaze in the Northern Sky / Preparing for War: Vol.1",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/43528ff3-8ea8-4c7a-9e42-64f819aefb54"
+        },
+        {
+          "name": "Eternal Hails......",
+          "date": "2021-06-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/43fd1f55-35a0-413d-856f-2939b7ecae46"
+        },
+        {
+          "name": "Forest of Darkness",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/44cc0581-2c8d-41a4-914d-40a872fb7750"
+        },
+        {
+          "name": "Shadows of Iconoclasm",
+          "date": "2021-04-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4c66870f-d6e5-4cf8-9650-3990a5e7bad6"
+        },
+        {
+          "name": "Panzerfaust",
+          "date": "1995-06-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4df5fc7d-52fd-3a03-ac15-6cf7693c7ff8"
+        },
+        {
+          "name": "Preparing for War",
+          "date": "2000-11-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4ef0e7f1-3f62-379e-afa4-f6bc34709179"
+        },
+        {
+          "name": "Arctic Thunder",
+          "date": "2016-10-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/508d34cd-4b92-45d8-bfbf-eec9bc41c90c"
+        },
+        {
+          "name": "NWOBHM: New Wave of Black Heavy Metal",
+          "date": "2007-07-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5130c365-9fd1-3146-893c-5680b55dab56"
+        },
+        {
+          "name": "The Hardship of the Scots",
+          "date": "2019-04-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/57a982ec-c8a5-4252-8a6e-442169123ffd"
+        },
+        {
+          "name": "Pre‐Historic Metal",
+          "date": "2026-05-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/597bcce2-5e06-4753-9f8b-822d058a174c"
+        },
+        {
+          "name": "Goatlord: Original",
+          "date": "2023-02-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6644850c-c120-4d38-b0bb-44f9c8d09897"
+        },
+        {
+          "name": "Hate Cloak",
+          "date": "2021-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a22fca1-2321-4c60-82b2-13e26eb95c79"
+        },
+        {
+          "name": "Old Star",
+          "date": "2019-05-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/72372bea-19a3-41a4-bca6-eee55b44a52d"
+        },
+        {
+          "name": "Soulside Journey",
+          "date": "1991-01-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7d4f11c8-0409-325e-a584-94c0812118c5"
+        },
+        {
+          "name": "A New Dimension",
+          "date": "1988-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81a4c37d-5730-3cc5-8a28-47f83b79375d"
+        },
+        {
+          "name": "Crossing the Triangle of Flames",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8a64f937-8000-30a1-8056-2c50b12de1aa"
+        },
+        {
+          "name": "Baptized in Blood",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8f7eb53a-5102-4f4b-9df4-e59857234a3a"
+        },
+        {
+          "name": "Circle the Wagons",
+          "date": "2010-03-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/92202c68-3c25-4cb4-bbb0-9fb0de0148f5"
+        },
+        {
+          "name": "The Roots of Evilness",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9d74d897-7ec9-30f4-9658-be7ff7c3adbb"
+        },
+        {
+          "name": "Too Old Too Cold",
+          "date": "2006-01-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9fef68e6-d85d-3b6d-a70f-ed9a86886620"
+        },
+        {
+          "name": "F.O.A.D.",
+          "date": "2007-09-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a25080f5-366f-36af-9e94-2c34e4457516"
+        },
+        {
+          "name": "As Wolves Among Sheep… Live in Oslo",
+          "date": "2026-04-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a2608d01-dae9-4c97-841d-4ce88510bdae"
+        },
+        {
+          "name": "Black Death and Beyond",
+          "date": "2014-05-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/af6a304b-f352-43a5-b8b2-05d6158ba80a"
+        },
+        {
+          "name": "Under beskyttelse av mørke",
+          "date": "2005-08-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b0ee8e0b-6d42-3dba-900b-c3da3b3f0296"
+        },
+        {
+          "name": "The Underground Resistance",
+          "date": "2013-02-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b119ab25-29ae-4a29-81ea-52596ca6cd1b"
+        },
+        {
+          "name": "Thulcandra",
+          "date": "1989-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b3464846-ef04-3aa5-ba29-8784bbd283ef"
+        },
+        {
+          "name": "Goatlord",
+          "date": "1996-10-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b4a20f34-a3dc-3343-b0b1-7de0543d78ed"
+        },
+        {
+          "name": "The Wind of 666 Black Hearts",
+          "date": "2017-10-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b9ea6de9-87dc-49ad-9759-d33bc4108e14"
+        },
+        {
+          "name": "Sempiternal Past: The Darkthrone Demos",
+          "date": "2011-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/baa88be1-cf12-41f8-835e-38455fe3df95"
+        },
+        {
+          "name": "Transilvanian Hunger",
+          "date": "1994-02-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bc9a4ab3-2ce0-3a49-b48f-3742169d0636"
+        },
+        {
+          "name": "Introducing Darkthrone",
+          "date": "2013-04-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bf7e7266-618e-4e5b-88ea-98a39a127bf9"
+        },
+        {
+          "name": "Frostland Tapes",
+          "date": "2008-05-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bfab321d-40a1-3263-8ad2-c27f1e2377a5"
+        },
+        {
+          "name": "Astral Fortress",
+          "date": "2022-10-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cd62895e-6f2b-435a-bf2d-97bb6521c70b"
+        },
+        {
+          "name": "Forebyggende krig",
+          "date": "2006-11-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cf96dc48-0cb4-3802-8b62-fadcbf8fce3f"
+        },
+        {
+          "name": "Land of Frost",
+          "date": "1988-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d509ba92-8056-3abf-9700-8ff39b4cfa86"
+        },
+        {
+          "name": "Pre‐Historic Metal",
+          "date": "2026-03-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e16bf76d-6cf1-47b4-9ce7-50975d7636df"
+        },
+        {
+          "name": "The Fist in the Face of God",
+          "date": "2026-03-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ef08e3a8-2880-43f8-97fd-d09bfa93a0a2"
+        },
+        {
+          "name": "Hate Them",
+          "date": "2003-03-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ef2f78b9-5925-3b0a-8a78-3060c476a15b"
+        },
+        {
+          "name": "Dark Thrones and Black Flags",
+          "date": "2008-10-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f0a13972-15c7-3109-b833-119d0927224e"
+        },
+        {
+          "name": "Under a Funeral Moon",
+          "date": "1993-02-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f388f4e5-e63d-3659-897e-55165eed4df5"
+        },
+        {
+          "name": "Caravan of Broken Ghosts",
+          "date": "2022-10-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f4caaefc-03d8-498e-96fe-101b987feefa"
+        },
+        {
+          "name": "It Beckons Us All",
+          "date": "2024-04-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fe629a38-a88e-4e15-b426-ef858419a0b4"
+        },
+        {
+          "name": "Evil Past",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fe937e12-5c1d-3848-abe6-db0096455151"
+        }
+      ]
     }
   },
   "checked": {
@@ -5437,6 +6204,8 @@
     "bruce-springsteen": "2026-10-04T22:47:06.319218+00:00",
     "camel": "2026-10-04T22:47:07.564597+00:00",
     "cannibal-corpse": "2026-10-05T01:20:32.515660+00:00",
-    "carcass": "2026-10-05T01:20:36.519387+00:00"
+    "carcass": "2026-10-05T01:20:36.519387+00:00",
+    "dark-tranquillity": "2026-10-05T07:14:03.164471+00:00",
+    "darkthrone": "2026-10-05T07:14:07.115947+00:00"
   }
 }
