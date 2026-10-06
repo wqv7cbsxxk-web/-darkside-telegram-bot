@@ -8091,6 +8091,334 @@
           "source_url": "https://musicbrainz.org/release-group/fedb89cf-1e19-41d0-82a1-5818764aae5d"
         }
       ]
+    },
+    "deicide": {
+      "name": "Deicide",
+      "musicbrainz_url": "https://musicbrainz.org/artist/0bd96fa4-9835-49b0-a1f2-7421e6a79dfa",
+      "reference_checked_at": "2026-10-06T02:25:58.538980+00:00",
+      "genres": "death metal",
+      "bandcamp_url": "https://deicide.bandcamp.com/",
+      "members": [
+        {
+          "name": "Steve Asheim",
+          "role": "drums (drum set), original",
+          "begin": "1989"
+        },
+        {
+          "name": "Glen Benton",
+          "role": "electric bass guitar, lead vocals, original",
+          "begin": "1989"
+        },
+        {
+          "name": "Taylor Nordberg",
+          "role": "background vocals",
+          "begin": "2022"
+        },
+        {
+          "name": "Taylor Nordberg",
+          "role": "electric guitar",
+          "begin": "2022"
+        },
+        {
+          "name": "Jadran \"Conan\" Gonzalez",
+          "role": "guitar",
+          "begin": "2024"
+        },
+        {
+          "name": "Jadran \"Conan\" Gonzalez",
+          "role": "electric guitar",
+          "begin": "2024"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/0bd96fa4-9835-49b0-a1f2-7421e6a79dfa",
+      "albums": [
+        {
+          "name": "Serpents of the Light",
+          "date": "1997-10-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/10ed744b-ffd8-3ac9-8684-8a36482b752f"
+        },
+        {
+          "name": "Till Death Do Us Part",
+          "date": "2008-04-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1410bc47-9411-30d0-9bbb-4b524b0a3f61"
+        },
+        {
+          "name": "Songs of Pain",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/150d7950-b53a-4a24-8277-7921b8e311ba"
+        },
+        {
+          "name": "From Unknown Heights You Shall Fall",
+          "date": "2024-04-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1bcd850c-6cc6-4854-a3b3-f35d5bf39c83"
+        },
+        {
+          "name": "Deny the Cross",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1fab3323-a0da-4035-8ef7-33d670dba88e"
+        },
+        {
+          "name": "Doomsday L.A.",
+          "date": "2007-04-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/28c07094-de09-4d3e-86c7-5cdaedf76426"
+        },
+        {
+          "name": "The Complete Roadrunner Collection 1990–2001",
+          "date": "2013-03-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2cc5ef0c-0643-4695-8156-5d4fa0473e2e"
+        },
+        {
+          "name": "In the Minds of Evil",
+          "date": "2013-11-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/319b28c8-2e94-4151-85f5-5e165ab41519"
+        },
+        {
+          "name": "Screaming Ancient Incantations",
+          "date": "2023-06-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3609bd52-78bf-4f0b-b4cd-56316cb86d94"
+        },
+        {
+          "name": "Legion",
+          "date": "1992-05-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3d95a372-2f13-3ef6-97bc-6aad955ce502"
+        },
+        {
+          "name": "When London Burns",
+          "date": "2006-03-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4ecd2c03-0dab-37d3-ad28-a35990fe8d34"
+        },
+        {
+          "name": "Sever the Tongue",
+          "date": "2024-02-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/580f353f-eaa0-4f6e-a737-add991f27bee"
+        },
+        {
+          "name": "The Stench of Redemption",
+          "date": "2006-08-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5a8114d3-fc2f-32d5-bc1e-2062c134b0a9"
+        },
+        {
+          "name": "Once Upon the Cross",
+          "date": "1995-04-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/62123614-f937-3044-b565-e67593a11330"
+        },
+        {
+          "name": "When Satan Lives",
+          "date": "1998-10-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/658fd0ea-682e-361e-b661-fe0b91aacdbf"
+        },
+        {
+          "name": "The Best of Deicide",
+          "date": "2016-10-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/67d8ecea-2ebb-4b43-8877-7d8e72113102"
+        },
+        {
+          "name": "Live in Nottingham",
+          "date": "2010-12-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7472ac6c-a6e7-4e94-90f4-451f666e9d59"
+        },
+        {
+          "name": "Children of the Underworld: The Complete Roadrunner Years",
+          "date": "2025-07-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/76210d4f-da67-4a14-8374-4e043b89200e"
+        },
+        {
+          "name": "To Hell With God",
+          "date": "2011-02-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7f985a75-6024-4b86-a4a8-ed826a0139cc"
+        },
+        {
+          "name": "Defying the Sacred",
+          "date": "2018-08-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/87a9101e-8b84-44b8-961a-6585e5719fae"
+        },
+        {
+          "name": "Overtures of Blasphemy",
+          "date": "2018-09-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8b98683b-c963-42bd-b0fd-3185513ac931"
+        },
+        {
+          "name": "Amon: Feasting the Beast",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/995065d6-0702-375e-a1d7-53de16be40f0"
+        },
+        {
+          "name": "Deicide",
+          "date": "1990-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a003a8b2-9926-311e-9356-3757e086b2fb"
+        },
+        {
+          "name": "Scars of the Crucifix",
+          "date": "2004-02-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a04005e2-d023-3087-b110-0d79edf0df89"
+        },
+        {
+          "name": "Crucifixation: The Early Years",
+          "date": "2022-11-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a707ef2e-00b1-454c-aaf7-278bd1e39343"
+        },
+        {
+          "name": "Best of Deicide",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ad08f001-274d-303e-b4a0-e5f3038df839"
+        },
+        {
+          "name": "Bible Bashers",
+          "date": "2023-02-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b39ba88a-5d50-4e46-adf5-b14a8ce37387"
+        },
+        {
+          "name": "The Stench of Redemption 666 EP",
+          "date": "2006-06-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b3d60e00-4f3e-39e1-a574-e5cc1c40f784"
+        },
+        {
+          "name": "Deicide / Cryptopsy / Six Feet Under",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d178f753-fc37-4c6a-ba97-13a053c271b4"
+        },
+        {
+          "name": "Once Upon the Cross / Serpents of the Light",
+          "date": "2023-01-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/da34fc9c-5f32-4fba-8c0e-0a25e851fd0a"
+        },
+        {
+          "name": "Bury the Cross…With Your Christ",
+          "date": "2023-12-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e13ad50b-5d83-4f9d-be15-20c302439bb8"
+        },
+        {
+          "name": "Banished by Sin",
+          "date": "2024-04-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ec532546-cd7d-4dc3-af93-98a48c19d72d"
+        },
+        {
+          "name": "Seal the Tomb Below",
+          "date": "2018-08-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f0550c12-aefa-43d0-a89f-ce96814a4152"
+        },
+        {
+          "name": "Death Metal Live",
+          "date": "2009",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f0f44f4c-30ea-4033-a25b-61e6b1a0a5d1"
+        },
+        {
+          "name": "In Torment in Hell",
+          "date": "2001-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f146abc8-42a4-35fc-b0d3-f4b975c92dde"
+        },
+        {
+          "name": "Excommunicated",
+          "date": "2018-07-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f944fa9a-f550-419f-ac06-f9cb5b5f4436"
+        },
+        {
+          "name": "Insineratehymn",
+          "date": "2000-06-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fc02b10c-8a09-38d6-b612-22c47794d2c6"
+        }
+      ]
+    },
+    "descape": {
+      "name": "Descape",
+      "musicbrainz_url": "https://musicbrainz.org/artist/a177dde7-ae06-4f8c-bcd1-15e029c93e48",
+      "reference_checked_at": "2026-10-06T02:26:02.680445+00:00",
+      "genres": "",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/a177dde7-ae06-4f8c-bcd1-15e029c93e48",
+      "albums": [
+        {
+          "name": "One More Day",
+          "date": "2021-11-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1f2fee6a-647a-4f1c-9cc0-79034c012bd3"
+        },
+        {
+          "name": "You Had It All",
+          "date": "2022-07-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2c2eb356-2541-42b6-bab5-213cbfd0f3cc"
+        },
+        {
+          "name": "My Way Back Home",
+          "date": "2022-02-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/35fe4ee7-58eb-4f2b-ac27-d599daf17f24"
+        },
+        {
+          "name": "Searching For Answers",
+          "date": "2022-08-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/63fa80e8-62cc-4889-ba17-73703a0715d4"
+        },
+        {
+          "name": "Echoes",
+          "date": "2021-09-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7464979a-fd89-4252-aaa1-44c102de2569"
+        },
+        {
+          "name": "You Had It All But It Fell Apart",
+          "date": "2023-08-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/76cf084d-bb41-4e53-8f4d-169f7d8ae448"
+        },
+        {
+          "name": "As We All Wither",
+          "date": "2025-11-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/805af83a-7376-462f-a988-64cb5df62235"
+        },
+        {
+          "name": "Emptiness/Nothingness",
+          "date": "2022-05-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d3c6663b-b0b6-4055-b057-89d2db54d985"
+        },
+        {
+          "name": "Living A Lie",
+          "date": "2022-01-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f047cf4c-1138-4c89-a288-b42fdd228316"
+        }
+      ]
     }
   },
   "checked": {
@@ -8117,6 +8445,8 @@
     "death": "2026-10-05T16:02:26.872493+00:00",
     "deep-purple": "2026-10-05T16:02:31.342385+00:00",
     "def-leppard": "2026-10-05T22:27:11.946312+00:00",
-    "deftones": "2026-10-05T22:27:15.979863+00:00"
+    "deftones": "2026-10-05T22:27:15.979863+00:00",
+    "deicide": "2026-10-06T02:25:58.539103+00:00",
+    "descape": "2026-10-06T02:26:02.680542+00:00"
   }
 }

@@ -3457,7 +3457,8 @@
       "website": "http://periphery.net",
       "reference_url": "https://en.wikipedia.org/wiki/Periphery_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:11.926875+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:11.926897+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:11.926897+00:00",
+      "tour_attempted_at": "2026-10-06T02:25:45.181308+00:00"
     },
     "riverside": {
       "origin": "Warsaw , Poland",
@@ -3478,7 +3479,8 @@
       "website": "http://riversideband.pl",
       "reference_url": "https://en.wikipedia.org/wiki/Riverside_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:12.441557+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:12.441578+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:12.441578+00:00",
+      "tour_attempted_at": "2026-10-06T02:25:47.276750+00:00"
     },
     "saxon": {
       "origin": "Barnsley , Yorkshire , England",
@@ -3503,7 +3505,8 @@
       "website": "http://saxon747.com",
       "reference_url": "https://en.wikipedia.org/wiki/Saxon_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:12.571694+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:12.571717+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:12.571717+00:00",
+      "tour_attempted_at": "2026-10-06T02:25:47.893889+00:00"
     },
     "scorpions": {
       "origin": "Hanover , West Germany",
@@ -3536,7 +3539,82 @@
       "website": "http://the-scorpions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Scorpions_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:12.823129+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:12.823155+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:12.823155+00:00",
+      "events": [
+        {
+          "date": "2027-08-27",
+          "city": "Zapopan",
+          "country": "Mexico",
+          "venue": "Auditorio Telmex",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-08-30",
+          "city": "Ciudad de México",
+          "country": "Mexico",
+          "venue": "Palacio de los Deportes",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-09-02",
+          "city": "Monterrey",
+          "country": "Mexico",
+          "venue": "Auditorio Banamex",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-09-09",
+          "city": "Las Vegas",
+          "country": "United States",
+          "venue": "PH Live at Planet Hollywood",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-09-11",
+          "city": "Las Vegas",
+          "country": "United States",
+          "venue": "PH Live at Planet Hollywood",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-09-14",
+          "city": "Las Vegas",
+          "country": "United States",
+          "venue": "PH Live at Planet Hollywood",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-09-16",
+          "city": "Las Vegas",
+          "country": "United States",
+          "venue": "PH Live at Planet Hollywood",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-09-18",
+          "city": "Las Vegas",
+          "country": "United States",
+          "venue": "PH Live at Planet Hollywood",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-09-21",
+          "city": "Las Vegas",
+          "country": "United States",
+          "venue": "PH Live at Planet Hollywood",
+          "source_url": "http://the-scorpions.com"
+        },
+        {
+          "date": "2027-09-23",
+          "city": "Las Vegas",
+          "country": "United States",
+          "venue": "PH Live at Planet Hollywood",
+          "source_url": "http://the-scorpions.com"
+        }
+      ],
+      "tour_checked_at": "2026-10-06T02:25:50.638074+00:00",
+      "tour_source": "http://the-scorpions.com",
+      "tour_attempted_at": "2026-10-06T02:25:50.638090+00:00"
     },
     "set-your-goals": {
       "origin": "San Francisco, California , U.S.",
