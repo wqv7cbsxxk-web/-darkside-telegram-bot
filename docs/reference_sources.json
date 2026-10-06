@@ -8869,6 +8869,1092 @@
           "source_url": "https://musicbrainz.org/release-group/fc580032-973b-3e15-a612-ff95f5c37f47"
         }
       ]
+    },
+    "dokken": {
+      "name": "Dokken",
+      "musicbrainz_url": "https://musicbrainz.org/artist/09ade3bd-b110-4277-b923-7dc32e6a3f92",
+      "reference_checked_at": "2026-10-06T20:47:33.912575+00:00",
+      "genres": "glam metal, hard rock, heavy metal",
+      "website": "https://www.dokken.net/",
+      "members": [
+        {
+          "name": "Don Dokken",
+          "role": "lead vocals, original",
+          "begin": "1993"
+        },
+        {
+          "name": "Jon Levin",
+          "role": "electric guitar",
+          "begin": "2003"
+        },
+        {
+          "name": "Chris McCarvill",
+          "role": "bass guitar",
+          "begin": "2015"
+        },
+        {
+          "name": "BJ Zampa",
+          "role": "drums (drum set)",
+          "begin": "2019"
+        },
+        {
+          "name": "Greg Leon",
+          "role": "",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/09ade3bd-b110-4277-b923-7dc32e6a3f92",
+      "albums": [
+        {
+          "name": "The Elektra Albums 1983-1987",
+          "date": "2022-11-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/02effac0-1412-430f-b122-f5a4b4a513e4"
+        },
+        {
+          "name": "An Introduction To Dokken",
+          "date": "2018",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0c273566-2789-4545-bce3-1ad020c02ef9"
+        },
+        {
+          "name": "Original Album Series",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0ff43c07-f344-4827-a257-2d4a24c48f28"
+        },
+        {
+          "name": "Back for the Attack",
+          "date": "1987-11-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1cb07ed6-5ea5-3ac8-ace8-09aebaafb195"
+        },
+        {
+          "name": "The Very Best of Dokken",
+          "date": "1999-07-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/275c1587-81b9-39de-b134-91d734c8cdc4"
+        },
+        {
+          "name": "Lightning Strikes Again",
+          "date": "2008-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2c14a2da-ecaf-322c-9036-1d92e70432dc"
+        },
+        {
+          "name": "Hell to Pay! At the Starland Ballroom",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2ede794b-6aeb-38fd-9877-a045bda4fbad"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2010-03-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2ee7f26c-a8ce-4cd2-ae81-3ea9452c2d72"
+        },
+        {
+          "name": "Alone Again",
+          "date": "1988-12-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/37600fd7-7957-4ec1-97fc-2bb989dd1766"
+        },
+        {
+          "name": "2004-06-30: The Quest Club, Minneapolis, MN, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/39b28045-7f6c-377e-a7f0-ec6629f11381"
+        },
+        {
+          "name": "Rare and Imported, Volume 4",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3daeb695-32b0-41cc-b245-191ac9b7439d"
+        },
+        {
+          "name": "Return to the East Live 2016",
+          "date": "2016",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3db99b9e-f9f5-40ad-a921-f3162ee8ed1b"
+        },
+        {
+          "name": "Bus Stop / Lies",
+          "date": "2010-05-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3e160f59-3014-4d05-ae48-da4480068b65"
+        },
+        {
+          "name": "Beast From the East",
+          "date": "1988-11-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3ee85b3b-c748-3aa8-8e17-8aa1afe078a2"
+        },
+        {
+          "name": "The Lost Songs: 1978–1981",
+          "date": "2000-08-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3fe816de-5ca7-4ea9-9b88-0f349cea4e8a"
+        },
+        {
+          "name": "The Anthems",
+          "date": "2011-03-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4045c074-01e0-4d0a-8dc4-34468f918cc3"
+        },
+        {
+          "name": "Live… ’95 + bonus tracks",
+          "date": "2017-10-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/406ede3d-47d7-4c85-9644-597113b3485b"
+        },
+        {
+          "name": "Best of Dokken",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/46482774-252b-3739-83a7-1bb09bd60990"
+        },
+        {
+          "name": "Dokken",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4746ac61-4733-4d60-b8b6-ff3dccf9c07e"
+        },
+        {
+          "name": "Change the World: An Introduction",
+          "date": "2004-10-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4e79da27-06c0-3e28-a875-f61bf3ab346b"
+        },
+        {
+          "name": "Tooth and Nail",
+          "date": "1984-09-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4ffe7e68-8d2e-3fae-931c-b452baff4223"
+        },
+        {
+          "name": "Japan Live ’95",
+          "date": "2003-09-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/52d0e5b6-f660-3a8a-a93a-b52382610cda"
+        },
+        {
+          "name": "Burning Like A Flame",
+          "date": "1988-11-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/55460e78-f937-45fc-a717-6d182049ca71"
+        },
+        {
+          "name": "Sacramento Is Burning",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/595a1257-1fb5-3b50-bc2d-0836ac4bdf79"
+        },
+        {
+          "name": "Under Lock and Key",
+          "date": "1985-11-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5cfa77ba-880a-31a6-a7ce-7056e2b6bd8d"
+        },
+        {
+          "name": "Unchain the Night",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5f06642d-cc6d-3bcd-b76e-b9bb700f7573"
+        },
+        {
+          "name": "King Biscuit Flower Hour",
+          "date": "1984",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5f085c04-0ff4-40c2-8dde-6b5b1bd8f7ad"
+        },
+        {
+          "name": "Burning Like a Flame",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/641935e8-0f0e-4c3d-962c-886032739116"
+        },
+        {
+          "name": "Too High to Fly",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/668ef39c-eba9-36a2-b202-ac3254db989d"
+        },
+        {
+          "name": "Broken Bones",
+          "date": "2012-05-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/68cb81a2-0e2d-4a84-a391-76fea69d45ab"
+        },
+        {
+          "name": "Live From the Sun",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/703057f0-4947-3edd-9050-d58eba207531"
+        },
+        {
+          "name": "Rhino Hi‐Five: Dokken",
+          "date": "2006-05-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/76277fde-dd55-48fa-a318-c60d86627411"
+        },
+        {
+          "name": "Rare and Imported, Volume 3",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7cfcfe35-5707-3a8f-b42b-280646cd91be"
+        },
+        {
+          "name": "From Conception: Live 1981",
+          "date": "2007-03-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8117432e-b805-365f-890a-f30a60a16963"
+        },
+        {
+          "name": "Heaven Comes Down",
+          "date": "2023-10-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8873ce7c-d224-4288-b083-0f902b658f49"
+        },
+        {
+          "name": "No Answer",
+          "date": "2020-07-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/89bb4736-9f13-4a4c-b2bb-7f3922d7f6db"
+        },
+        {
+          "name": "The Undying Light: The Classic 1995 Milwaukee and Hollywood Broadcasts",
+          "date": "2020-02-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8f0bf586-688f-4714-a425-7def28e86337"
+        },
+        {
+          "name": "So Many Tears",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/91a500d6-2d19-4dd1-9509-7f14610f1d84"
+        },
+        {
+          "name": "Rare and Imported, Volume 2",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/93d4ea9a-a7c9-356b-bc07-d153d01932a0"
+        },
+        {
+          "name": "Alone Again and Other Hits",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9717b192-57c0-361d-b6a6-35ed64940970"
+        },
+        {
+          "name": "Yesterday & Today",
+          "date": "2001-04-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a19fcc3f-d9f5-32cb-8d22-38dc79133a74"
+        },
+        {
+          "name": "In My Dreams (live)",
+          "date": "2018-03-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a241cbbf-a446-4a1e-99d5-f4ad2ae95745"
+        },
+        {
+          "name": "Erase the Slate",
+          "date": "1999-06-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a5616ae9-290c-32f2-af8b-0d069d4bf814"
+        },
+        {
+          "name": "Dokken",
+          "date": "1994-12-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a6d76952-c8c4-46d0-87fb-97d741cd96c9"
+        },
+        {
+          "name": "It’s Another Day",
+          "date": "2018-03-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ad665d65-783f-4dd7-9858-81fc5dc92dcf"
+        },
+        {
+          "name": "Day After Day (You Don’t Care for Me)",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ada81117-7219-49cf-badd-05e90e6e9f5d"
+        },
+        {
+          "name": "Over the Mountain",
+          "date": "2023-10-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aebd0ced-a181-4f24-812f-ef7f0ab9dd0f"
+        },
+        {
+          "name": "One Live Night",
+          "date": "1995-03-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b0895746-ba51-3f00-ac8a-f03bd01266f6"
+        },
+        {
+          "name": "Shadowlife",
+          "date": "1997-04-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b124f46a-65bf-3719-b680-0995616bf0f0"
+        },
+        {
+          "name": "Back in the Streets",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b2d8f939-12f2-389d-bcc4-6d6ad042d4d3"
+        },
+        {
+          "name": "2004-07-14: In-Store Acoustic Session, Venue Vintage Vinyl, Fords, NJ, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b866bb6c-0a76-3a03-b85f-8eb51682549d"
+        },
+        {
+          "name": "Gypsy",
+          "date": "2023-09-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c243d055-0159-4b45-bda2-afd4d8ce585f"
+        },
+        {
+          "name": "Alone Again",
+          "date": "2018-04-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c74bded9-e278-492f-b410-0c7b853ca3d0"
+        },
+        {
+          "name": "Almost Over",
+          "date": "2009-11-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cb25edf5-748c-4ff3-bd47-d597a396dcb3"
+        },
+        {
+          "name": "Dysfunctional",
+          "date": "1995-05-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cd8b1be8-c81a-390b-8518-cd4c147d0250"
+        },
+        {
+          "name": "Then and Now",
+          "date": "2013-08-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d250a5e5-0c0d-4625-92a9-c5457e546385"
+        },
+        {
+          "name": "Long Way Home",
+          "date": "2002-04-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d263959c-722b-33c5-9e69-ac1096f18e83"
+        },
+        {
+          "name": "Breaking the Chains",
+          "date": "1981",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d9f0c34c-0220-31b9-b1ca-6a599604bf65"
+        },
+        {
+          "name": "1985-11-30: Unchain The Tokyo Night, Shibuya Public Hall, Tokyo, Japan",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dd045c29-e3c5-456c-b8c1-3eeaa834ae8c"
+        },
+        {
+          "name": "Dream Warriors",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dde16622-4323-46bb-b399-32799240b2e1"
+        },
+        {
+          "name": "10 Live!",
+          "date": "2014-06-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e4292aa7-ffaf-482e-bebb-e82c483a25ae"
+        },
+        {
+          "name": "Step Into the Light",
+          "date": "2020-05-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f00ca70a-c9c1-4385-b53c-241870115d4a"
+        },
+        {
+          "name": "Fugitive",
+          "date": "2023-08-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f2dd3cdd-825d-4bb0-a14d-42a944426242"
+        },
+        {
+          "name": "The Definitive Rock Collection",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f6423bb0-7448-3e85-a337-ff0357cd6012"
+        },
+        {
+          "name": "Hell to Pay",
+          "date": "2004-07-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f80a7838-6973-37c4-ae3a-62e1a3425d82"
+        },
+        {
+          "name": "Rare and Imported, Volume 1",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ff31eb64-4c20-33ca-bb0b-714a09fec22c"
+        }
+      ]
+    },
+    "dream-theater": {
+      "name": "Dream Theater",
+      "musicbrainz_url": "https://musicbrainz.org/artist/28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
+      "reference_checked_at": "2026-10-06T20:47:38.138012+00:00",
+      "genres": "heavy metal, metal, progressive, progressive metal",
+      "bandcamp_url": "https://dreamtheaterofficial.bandcamp.com/",
+      "website": "https://dreamtheater.net/",
+      "members": [
+        {
+          "name": "John Myung",
+          "role": "Chapman stick, electric bass guitar, original",
+          "begin": "1985"
+        },
+        {
+          "name": "John Petrucci",
+          "role": "background vocals, guitar, original",
+          "begin": "1985"
+        },
+        {
+          "name": "James LaBrie",
+          "role": "lead vocals",
+          "begin": "1991"
+        },
+        {
+          "name": "Jordan Rudess",
+          "role": "continuum, keyboard, lap steel guitar",
+          "begin": "1999"
+        },
+        {
+          "name": "Mike Portnoy",
+          "role": "background vocals, original",
+          "begin": "2023-10-25"
+        },
+        {
+          "name": "Mike Portnoy",
+          "role": "original, percussion",
+          "begin": "2023-10-25"
+        },
+        {
+          "name": "Mike Portnoy",
+          "role": "drums (drum set), original",
+          "begin": "2023-10-25"
+        },
+        {
+          "name": "Steve Stone",
+          "role": "",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
+      "albums": [
+        {
+          "name": "Untethered Angel",
+          "date": "2018-12-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0226a35f-cb6f-4573-bd52-de7810917860"
+        },
+        {
+          "name": "Lost Not Forgotten Archives: Live in Tokyo, 2010",
+          "date": "2026-03-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/041c7e96-f608-4fc4-901b-8a313e559cc2"
+        },
+        {
+          "name": "Lost Not Forgotten Archives: Live at Wacken (2015)",
+          "date": "2022-12-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/042e740e-292a-46d9-ab45-02a302ec76a4"
+        },
+        {
+          "name": "Lost Not Forgotten Archives: Live at Madison Square Garden (2010)",
+          "date": "2023-01-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0530dea9-811a-49a7-82e5-d7c9f6d3e049"
+        },
+        {
+          "name": "Lost Not Forgotten Archives: Live in Berlin (2019)",
+          "date": "2022-08-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/07869b16-8966-477a-977a-e94ac2a2908b"
+        },
+        {
+          "name": "Lost Not Forgotten Archives: Distance Over Time Demos (2018)",
+          "date": "2023-02-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/08ab4400-3fe3-4b43-9ddc-abeecb686ff3"
+        },
+        {
+          "name": "Original Album Series",
+          "date": "2011-10-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0939c8bd-fd9f-493e-b083-7d9ddd34bacf"
+        },
+        {
+          "name": "Distant Memories: Live in London",
+          "date": "2020-11-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0f72b199-4b40-4035-8065-fd36826cb8f4"
+        },
+        {
+          "name": "Lost Not Forgotten Archives: Images and Words – Live in Japan, 2017",
+          "date": "2021-06-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1138d908-5310-42d9-9c56-b52730ef2c0d"
+        },
+        {
+          "name": "Images and Words – Live in Tokyo",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1195dabe-2e7f-479e-b685-7db554686c8a"
+        },
+        {
+          "name": "Quarantième: Live à Paris",
+          "date": "2025-11-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1540c9e8-c7b4-4aca-980c-198dda18b38f"
+        },
+        {
+          "name": "Dream Theater",
+          "date": "2013-09-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1b537b55-6543-436e-b569-91fc789eff43"
+        },
+        {
+          "name": "Live at the Marquee",
+          "date": "1993-07-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1b653bcc-b623-32ac-83df-523332a2bb2a"
+        },
+        {
+          "name": "Falling Into Infinity Demos 1996–1997",
+          "date": "2007-09-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1b93d9af-3943-3801-b667-a271a848ba58"
+        },
+        {
+          "name": "Invisible Monster",
+          "date": "2021-09-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/243618d8-2c66-49d6-9e70-4ae6fab84dee"
+        },
+        {
+          "name": "The Studio Albums 1992–2016",
+          "date": "2025-11-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/25b4c6b1-7e16-4dd7-a582-887b652af70a"
+        },
+        {
+          "name": "Uncovered 2003–2005",
+          "date": "2009-07-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/25cfe91c-a472-4282-a79e-cb5789fda010"
+        },
+        {
+          "name": "When Dream and Day Reunite",
+          "date": "2005-02-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/25ee747d-db86-3fc3-86d3-dc09af57fbca"
+        },
+        {
+          "name": "Vol. 1",
+          "date": "2024-09-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/26349f26-24d2-4b08-a20f-2da1f280b735"
+        },
+        {
+          "name": "Falling Into Infinity",
+          "date": "1997-09-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/27c67830-6dc8-3af8-a970-7a1fb2fc6f1b"
+        },
+        {
+          "name": "Live at Budokan",
+          "date": "2004-10-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2a6a414b-b0f3-3984-b7aa-7bc6e468c495"
+        },
+        {
+          "name": "Forsaken EP",
+          "date": "2007",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2fa204c7-88b2-351e-b176-efe5477cd248"
+        },
+        {
+          "name": "Night Terror (Live à Paris 2024)",
+          "date": "2025-11-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/305fde57-04c0-4006-bc3b-56bf0bb4414d"
+        },
+        {
+          "name": "A Broken Man",
+          "date": "2024-12-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/33c67dc1-916e-4daf-8140-71cd1274217d"
+        },
+        {
+          "name": "When Dream and Day Unite",
+          "date": "1989-03-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/37302ce5-6ce0-336e-8b9d-9c73930a7bea"
+        },
+        {
+          "name": "The Gift of Music",
+          "date": "2015-12-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/38bfa82d-ac82-4752-bee5-3dd6af44e431"
+        },
+        {
+          "name": "Through Her Eyes",
+          "date": "2000-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/38e7178d-69e1-3c18-aaf7-6b7a2e6c03ea"
+        },
+        {
+          "name": "Breaking the Fourth Wall: Live From the Boston Opera House",
+          "date": "2014-09-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3910f0b0-c0c4-46bc-8094-1b45d5ad7a8d"
+        },
+        {
+          "name": "Los Angeles, California 5/18/98",
+          "date": "2003-05-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/39fb20c7-128e-3890-9d12-0c476fff54fb"
+        },
+        {
+          "name": "Live Scenes From New York",
+          "date": "2001-08-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3adb24b5-0936-3eeb-90bf-b6ef716b423f"
+        },
+        {
+          "name": "Distance Over Time",
+          "date": "2019-02-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3d2ef7c3-f13e-4f23-9e83-51ec75023017"
+        },
+        {
+          "name": "Once in a LIVEtime",
+          "date": "1998-10-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3d54b846-c980-3c7d-94f7-0371b60d8dc3"
+        },
+        {
+          "name": "Train of Thought",
+          "date": "2003-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3eb5524e-34c6-31d8-97cc-fb98356825fb"
+        },
+        {
+          "name": "Tenement Funster / Flick of the Wrist / Lily of the Valley",
+          "date": "2009-05-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3f8f6507-130a-4400-b9bd-790ab79fe34a"
+        },
+        {
+          "name": "The Studio Albums 1992–2011",
+          "date": "2014-06-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/413620ce-b765-435e-8659-4736ff0f1795"
+        },
+        {
+          "name": "Systematic Chaos",
+          "date": "2007-05-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/44aef5b4-36fc-3b45-b58b-59f2ca69d453"
+        },
+        {
+          "name": "Another Day",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/48961c8f-c2be-3c73-b295-8d364c67996f"
+        },
+        {
+          "name": "Tokyo, Japan 10/28/95",
+          "date": "2004-03-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/49188177-2d10-3575-826b-660a6a2df1a6"
+        },
+        {
+          "name": "The Number of the Beast",
+          "date": "2005-02-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/52cd5551-dba1-3abf-b491-12e2e483ad85"
+        },
+        {
+          "name": "Fall Into the Light",
+          "date": "2019-01-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5423786e-c7d2-4560-9c8b-54cb003cc21f"
+        },
+        {
+          "name": "The Silent Man",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/54a88920-675f-4ec6-a97a-14af7e64e5e1"
+        },
+        {
+          "name": "The Enemy Inside",
+          "date": "2013-08-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/58d5150f-1513-43ec-a949-ccd5367506bb"
+        },
+        {
+          "name": "Octavarium",
+          "date": "2005-06-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5a52d5f9-9173-3d88-bc27-569e333f9207"
+        },
+        {
+          "name": "Awake",
+          "date": "1994-10-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/676ab2e6-17e6-32e8-9060-191a931ea7b2"
+        },
+        {
+          "name": "Score: 20th Anniversary World Tour",
+          "date": "2006-08-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6fd0112d-7b32-3543-b662-63eea1104dc9"
+        },
+        {
+          "name": "Dark Side of the Moon",
+          "date": "2006-04-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7009f8ff-85e5-31a2-b80d-9ee056228c13"
+        },
+        {
+          "name": "Six Degrees of Inner Turbulence",
+          "date": "2002-01-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/74a4416f-1c7f-3f67-8208-b978c7b9379d"
+        },
+        {
+          "name": "Lie",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/77abb3e9-f993-3eaf-8e16-161834ca5ce5"
+        },
+        {
+          "name": "Hollow Years",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/786b6f2a-4d79-3c8d-8951-f005544a2009"
+        },
+        {
+          "name": "Night Terror",
+          "date": "2024-10-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/85045562-af22-4c55-aed7-78db3f24f9a2"
+        },
+        {
+          "name": "A Dramatic Turn of Events",
+          "date": "2011-08-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/85791a2b-ce2f-4dcd-96e6-3935420666b9"
+        },
+        {
+          "name": "The Making of Falling Into Infinity",
+          "date": "1997-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/861c1259-4dfb-3a02-8077-24158121c7b0"
+        },
+        {
+          "name": "A Change of Seasons",
+          "date": "1995-09-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8b539152-b730-336b-ab40-05122c441f4a"
+        },
+        {
+          "name": "Lost Not Forgotten Archives: …and Beyond – Live in Japan, 2017",
+          "date": "2022-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8be3bd57-ea72-4dba-a35e-963d4394c7fc"
+        },
+        {
+          "name": "Illumination Theory",
+          "date": "2014-04-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8cb38168-7c1f-40eb-ba9e-ccc60b80e73f"
+        },
+        {
+          "name": "Wither",
+          "date": "2009-09-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/90452cf4-5d78-4d26-af1b-bbb54835971a"
+        },
+        {
+          "name": "Barstool Warrior (Live à Paris 2024)",
+          "date": "2025-10-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/937c9a4e-ca85-466f-9ba2-b570951d7161"
+        },
+        {
+          "name": "When Dream and Day Unite Demos 1987–1989",
+          "date": "2004-03-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/93e3c568-4150-305e-a983-203580b987ca"
+        },
+        {
+          "name": "Awake Demos 1994",
+          "date": "2006-04-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/96285e87-db4a-3a52-bb61-6852f291998e"
+        },
+        {
+          "name": "Overture 1928 / Strange Déjà Vu (Live à Paris 2024)",
+          "date": "2025-09-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/98042b8a-3048-4fd2-934c-5e8939cc7f10"
+        },
+        {
+          "name": "Fatal Tragedy",
+          "date": "2020-11-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/980c3e38-6f8c-4a66-90d7-e2213d101814"
+        },
+        {
+          "name": "Our New World",
+          "date": "2016-09-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/98a3a4ff-05f5-4aab-9f90-c1b228bc79b7"
+        },
+        {
+          "name": "Images and Words: Live in Tokyo / 5 Years in a LIVEtime",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/98d9a87f-d48a-4d08-9b88-20f4b5f3c67e"
+        },
+        {
+          "name": "Made in Japan",
+          "date": "2007-09-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/998ddffa-fa94-3e40-8ebd-32dea98b2f73"
+        },
+        {
+          "name": "Take Your Fingers From My Hair",
+          "date": "2009-06-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9b770260-45c5-4e8e-98b4-3f8207316d1a"
+        },
+        {
+          "name": "The Majesty Demos 1985–1986",
+          "date": "2003-05-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9ffc45c0-7487-3c2b-8fe8-631dc7e4cd3b"
+        },
+        {
+          "name": "The Astonishing",
+          "date": "2016-01-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a6e607ef-5c6e-4feb-97f7-a5b49efbdd87"
+        },
+        {
+          "name": "Larks’ Tongues in Aspic, Part II",
+          "date": "2009-06-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a6eb12c9-ee88-42d0-8797-de9910f31c75"
+        },
+        {
+          "name": "New York City 3/4/93",
+          "date": "2007-09-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b0aed975-15c1-3adf-90f3-905b607c2099"
+        },
+        {
+          "name": "Pull Me Under",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b1fa5ed2-2909-4fa4-9db7-86a9711fae68"
+        },
+        {
+          "name": "The Triple Album Collection",
+          "date": "2012-10-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b44e11d1-3823-4ed0-853f-ed9b6863063e"
+        },
+        {
+          "name": "Metropolis 2000: Scenes From New York",
+          "date": "2001-04-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b615365e-cb1d-4947-a10a-9b53bea76f0d"
+        },
+        {
+          "name": "Images and Words Demos 1989–1991",
+          "date": "2005-02-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b844f626-4889-30eb-a2da-797ca954e42b"
+        },
+        {
+          "name": "Black Clouds & Silver Linings",
+          "date": "2009-06-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ba5ef564-b2f8-3bb5-9d8f-57828cfa767c"
+        },
+        {
+          "name": "Odyssey",
+          "date": "2009-05-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bd35ad68-2549-4a6d-8792-a08f002301f8"
+        },
+        {
+          "name": "Stargazer",
+          "date": "2009-05-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bd6a0ac3-0ff3-4565-9ce9-1252e2676b10"
+        },
+        {
+          "name": "Paralyzed",
+          "date": "2019-02-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c15ba33b-7c7f-4e59-8f7d-2a3a762b8c45"
+        },
+        {
+          "name": "The Making of Scenes From a Memory",
+          "date": "2003-05-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c3ec58ca-0e4a-3c3f-80e3-fb7e19b70de2"
+        },
+        {
+          "name": "Chaos in Motion 2007–2008",
+          "date": "2008-09-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c48575c7-b967-3fd4-976c-2b8863a5a3e0"
+        },
+        {
+          "name": "5 Years in a LIVEtime",
+          "date": "1998-10-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c928fb61-c68d-4b85-8cf8-6a08b026378b"
+        },
+        {
+          "name": "Midnight Messiah",
+          "date": "2025-01-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c9808024-4be0-4dec-a488-ad366ae0ba99"
+        },
+        {
+          "name": "Instrumental III: No Sleep Since Brooklyn",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cd3706ff-0e52-34c3-929c-01d2687ec8a0"
+        },
+        {
+          "name": "The Holiday Spirit Carries On",
+          "date": "2020-12-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cdba3615-7fe7-4763-a93c-eb69b0854d1f"
+        },
+        {
+          "name": "Happy Holidays From Dream Theater",
+          "date": "2013-12-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cffe803d-fab2-4491-b49e-b9082c88228d"
+        },
+        {
+          "name": "Live at Luna Park",
+          "date": "2013-10-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d3877b37-76b2-454f-b92f-dfede8d52034"
+        },
+        {
+          "name": "Master of Puppets",
+          "date": "2004-03-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d4672c3c-9429-33ca-bed1-d71e7eeb0178"
+        },
+        {
+          "name": "The Alien",
+          "date": "2021-08-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d8a349c6-8653-4586-a5c2-251a4cd3f96d"
+        },
+        {
+          "name": "Metropolis, Pt. 2: Scenes From a Memory",
+          "date": "1999-10-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d8ae7015-d78b-307e-bcde-5b0dd1e61528"
+        },
+        {
+          "name": "Parasomnia",
+          "date": "2025-02-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d8dd9dab-00ea-4814-b4d4-ca16f8779cc8"
+        },
+        {
+          "name": "1995‐01‐24: Urawa‐Shi Bunka Kaikan, Saitama, Japan",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/de7cf018-ab3a-34ff-9bce-3e81500b5120"
+        },
+        {
+          "name": "Santiago, Chile 12/6/05",
+          "date": "2009-07-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e111f754-75e4-4454-ba2b-9fd0e6ee2fa8"
+        },
+        {
+          "name": "Dying to Live Forever",
+          "date": "2015",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e3f7e801-8cc5-458f-9b3d-e3e12fce4704"
+        },
+        {
+          "name": "Old Bridge, New Jersey (1996)",
+          "date": "2006-04-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e4a9c2b1-dd8c-3198-ae22-db5e58c9ff5b"
+        },
+        {
+          "name": "A View From the Top of the World",
+          "date": "2021-10-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/eb48fa61-985e-4020-97d7-0f1dfe7fc109"
+        },
+        {
+          "name": "Images and Words",
+          "date": "1992-07-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ee30c026-b4f4-3e2a-94cf-7e586f1ccae0"
+        },
+        {
+          "name": "A Rite of Passage",
+          "date": "2009-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f3e0a205-fcb9-47b9-938a-a320cfff8e5b"
+        },
+        {
+          "name": "Train of Thought: Instrumental Demos 2003",
+          "date": "2009-07-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f83d76e5-049e-4561-8e13-1ffd3b5a4b15"
+        },
+        {
+          "name": "Greatest Hit (…and 21 Other Pretty Cool Songs)",
+          "date": "2008-03-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f91145cc-91f5-3db2-ac2f-a9cbd09211e6"
+        },
+        {
+          "name": "Pale Blue Dot",
+          "date": "2020-09-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f9cc2817-3bdb-4315-ad57-9dc6043d1de2"
+        },
+        {
+          "name": "Bucharest, Romania 7/4/02",
+          "date": "2007-07-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fa982c74-8543-4297-9ddf-2f159bc3dd61"
+        }
+      ]
     }
   },
   "checked": {
@@ -8901,6 +9987,8 @@
     "destruction": "2026-10-06T09:10:13.564209+00:00",
     "devin-townsend": "2026-10-06T09:10:17.793606+00:00",
     "dio": "2026-10-06T15:59:04.395089+00:00",
-    "dismember": "2026-10-06T15:59:05.690788+00:00"
+    "dismember": "2026-10-06T15:59:05.690788+00:00",
+    "dokken": "2026-10-06T20:47:33.912726+00:00",
+    "dream-theater": "2026-10-06T20:47:38.138165+00:00"
   }
 }
