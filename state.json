@@ -366,49 +366,17 @@
     "7138b26967fb0c3a971a9874cfbb4fcc4e8dc0f1",
     "f2c192dcb3ede5b7094cd6f86af8b732a872b7a4",
     "1dd492dab3a7af6ceb07e1cf2236dced3b433cf0",
-    "1e47245722d84b6ce12108d5ca80b445b2757861"
+    "1e47245722d84b6ce12108d5ca80b445b2757861",
+    "f8571b216ef1ef9897d19e0c9aaf61de08516df8",
+    "6af70de0daf0653459dfe4b0453f48d46cac1c56",
+    "f305d15e975d6c724b71845f0441762dc9c7e294",
+    "7c30556d8e60556b7ac001dedaa1665e5818e980",
+    "bf10e36aaea64763cd0b4b44504562498c11b838",
+    "71e4c18693d2286d6649712994db7c4f4cedf468",
+    "f9b865acdd58f32ce72e95847b85c1ec6f018b17",
+    "dd0da376bd76c00b82aaa081765c9703364fc4c4"
   ],
   "recent_titles": [
-    {
-      "title": "Lzzy Hale Slams Alleged ‘Cornell 7’ Gang Rape: “You Are Not a ‘Promising Young Man’”",
-      "source": "Metal Injection",
-      "ts": 1790884737
-    },
-    {
-      "title": "Новое видео WOLVES IN THE THRONE ROOM",
-      "source": "Darkside",
-      "ts": 1790886490
-    },
-    {
-      "title": "Новое видео SHOGUN MOJO",
-      "source": "Darkside",
-      "ts": 1790886497
-    },
-    {
-      "title": "Бокс-сет IMMORTAL выйдет зимой",
-      "source": "Darkside",
-      "ts": 1790886498
-    },
-    {
-      "title": "Michael McDonald Finally Meets His Long-Lost Son",
-      "source": "Ultimate Classic Rock",
-      "ts": 1790886510
-    },
-    {
-      "title": "Новая песня GRAVE DIGGER",
-      "source": "Darkside",
-      "ts": 1790886511
-    },
-    {
-      "title": "Halestorm’s Lzzy Hale makes powerful statement against sexual assault as Cornell University rape investigation reopens",
-      "source": "Louder",
-      "ts": 1790886523
-    },
-    {
-      "title": "Умер вокалист VENOM",
-      "source": "Darkside",
-      "ts": 1790886524
-    },
     {
       "title": "Новое видео THE ROLLING STONES",
       "source": "Darkside",
@@ -1168,6 +1136,46 @@
       "title": "The Ghost Inside, Escape The Fate, Bleeding Through, Carnifex, Etc. Booked For 2027 Return Of ‘Extreme Thing’ Festival",
       "source": "ThePRP",
       "ts": 1791239213
+    },
+    {
+      "title": "Every Killing Joke album ranked from worst to best: how four men on a mission to recreate \"the sound of the earth vomiting\" influenced Metallica, Nirvana, Faith No More, Ministry and more",
+      "source": "Louder",
+      "ts": 1791253483
+    },
+    {
+      "title": "Long-overdue Scorpions movie Wind Of Change finally has a trailer and a release date",
+      "source": "Louder",
+      "ts": 1791253503
+    },
+    {
+      "title": "Новое видео GR&#214;NWALL",
+      "source": "Darkside",
+      "ts": 1791253506
+    },
+    {
+      "title": "HYPNO5E Debut “Trame Noire” Music Video",
+      "source": "ThePRP",
+      "ts": 1791253509
+    },
+    {
+      "title": "Новое видео NEOVISE",
+      "source": "Darkside",
+      "ts": 1791253510
+    },
+    {
+      "title": "Sepultura To Hold Intimate ‘The Last Ceremony’ Event In São Paulo Just Ahead Of Their Farewell Show",
+      "source": "ThePRP",
+      "ts": 1791253515
+    },
+    {
+      "title": "Yes share new video for Ariadne as they announce a new digital deluxe edition of Aurora",
+      "source": "Louder",
+      "ts": 1791253525
+    },
+    {
+      "title": "Full Album Stream: Margarita –Abysses of Melancholia",
+      "source": "Decibel",
+      "ts": 1791253534
     }
   ],
   "initialized_sources": [
@@ -1636,7 +1644,7 @@
       "category": "Хард-рок",
       "published": "2026-10-05T20:47:15+00:00",
       "id": "c38f37514d144ba60c1095be7289693f8af8d61d",
-      "retry_after": 1791239484
+      "retry_after": 1791253804
     },
     {
       "source": "Metal Injection",
@@ -1648,79 +1656,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-05T20:19:56+00:00",
       "id": "6944f81c1894983ad9ba21c37fc1a903aa0742ee",
-      "retry_after": 1791239488
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео GR&#214;NWALL",
-      "link": "http://www.darkside.ru/news/184239/",
-      "rss_body": "How High (Dedicated To The Fans), новое видео GRÖNWALL, доступно для просмотра. Этот трек взят из последнего альбома Bad Bones.\n\nЭто видео и песня — подарок всем моим фанатам и поклонникам! Спасибо вам от всего сердца за то, что вы пришли, пели вместе со мной и сделали этот год чертовски особенным. Без вас меня бы здесь не было.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-05T19:49:25+00:00",
-      "id": "f305d15e975d6c724b71845f0441762dc9c7e294",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "HYPNO5E Debut “Trame Noire” Music Video",
-      "link": "https://www.theprp.com/2026/10/05/news/hypno5e-debut-trame-noire-music-video/",
-      "rss_body": "The title track to their upcoming album.",
-      "tags": "News Hypno5e",
-      "category": "Хэви-метал",
-      "published": "2026-10-05T19:17:05+00:00",
-      "id": "7c30556d8e60556b7ac001dedaa1665e5818e980",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео NEOVISE",
-      "link": "http://www.darkside.ru/news/184238/",
-      "rss_body": "Lifeline, новое видео NEOVISE, доступно для просмотра.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-05T19:04:22+00:00",
-      "id": "bf10e36aaea64763cd0b4b44504562498c11b838",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Sepultura To Hold Intimate ‘The Last Ceremony’ Event In São Paulo Just Ahead Of Their Farewell Show",
-      "link": "https://www.theprp.com/2026/10/05/news/sepultura-to-hold-intimate-the-last-ceremony-event-in-sao-paulo-just-ahead-of-their-farewell-show/",
-      "rss_body": "Taking place two days ahead of their swan song.",
-      "tags": "News Sepultura",
-      "category": "Хэви-метал",
-      "published": "2026-10-05T19:03:42+00:00",
-      "id": "71e4c18693d2286d6649712994db7c4f4cedf468",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Yes share new video for Ariadne as they announce a new digital deluxe edition of Aurora",
-      "link": "https://www.loudersound.com/music/albums/yes-share-new-video-for-ariadne-as-they-announced-new-digital-deluxe-edition-of-aurora",
-      "rss_body": "Prog legends\n\nYes\n\nhave shared a brand-new video for their song\n\nAriadne\n\n, which is taken from the band's most recent studio album,\n\nAurora\n\n.\n\nThe release heralds the release of a new deluxe digital edition of\n\nAurora\n\n, including instrumentals of the full album, as well as the\n\nAriadne\n\nvideo, directed by Matt Hutchings.\n\n\"\n\nAriadne\n\nwas one of those songs that seemed to reveal itself as we were writing it,” says Jon Davison. “I’ve been captivated by Greek mythology since I was a child, so there was something particularly exciting for me about exploring the story of Ariadne through music.\n\n\"There’s a wonderful sense of mystery and discovery in the song, and that’s what I love most about it. I’m really proud of what we created together, and I hope people feel that same sense of discovery and wonder when they hear it.”\n\nAurora\n\nis also available as a limited deluxe 180g Light Green 2LP+2CD+Blu-ray Artbook & Poster, as well as a Ltd Deluxe 2CD+Blu-ray Artbook, both featuring the stunning artwork of Roger Dean and Freyja Dean, as well as a bonus disc of instrumentals, and a Blu-ray featuring Dolby Atmos, 5.1 Surround Sound & 24bit stereo mixes (by Curtis Schwartz). The album is also available as a Gatefold 180g 2LP and LP booklet, special edition CD digipak and as a digital album.",
-      "tags": "Albums Music",
-      "category": "Прогрессив",
-      "published": "2026-10-05T19:03:00+00:00",
-      "id": "f9b865acdd58f32ce72e95847b85c1ec6f018b17",
-      "retry_after": 0
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Full Album Stream: Margarita –Abysses of Melancholia",
-      "link": "https://www.decibelmagazine.com/2026/10/05/full-album-stream-margarita-abysses-of-melancholia/",
-      "rss_body": "The only French\n\nMargarita\n\nwe’ve ever encountered, this doomy Parisian trio with the unlikely moniker offers up unexpected twists—musical and otherwise—at every turn on its debut six-track full-length,\n\nAbysses of Melancholia\n\n. This sludgy offering is performed by a trio of women—Karen Verdier-Désérable (guitar/vocals), Julie Appéré (bass/vocals/synth), Julie Picard (drums/SPD)—who channel the retro doom of female fronted acts like Blood Ceremony, as well as the grungy skronk of Babes in Toyland and early Hole. It’s moody, melancholic and crushing, taking the vibe from haunting to frightening over the course of nearly 40 minutes.\n\nAbysses of Melancholia\n\nwas recorded and mixed by Stéphane Miollan, with mastering performed by Guillaume Brot at Seeding Waves Studio. It’s set for release on vinyl and digitally via Electric Valley Records on October 9. Place your preorder\n\nhere\n\n.\n\nThe band offered this description of its new album:\n\n“From ‘Blood Incantation,’ where pain becomes a means of expression, to the hazy and melancholic ‘Melting Days,’ the album explores loss on both personal and universal levels. Figures appear and fade: a lonely man, a disappearing self, memories of those who are no longer there.\n\n“Themes of abandonment and refusal run through the record. ‘Not a Mother’ rejects imposed roles and inherited expectations, questioning identities shaped by absence and anger. ‘Abyssal Pain’ turns violence and resentment into a kind of epiphany, where destruction becomes a form of control.\n\n“‘The album closes with ‘Better Off Alone,’ settling into a quieter form of solitude and the weight of unspoken wounds.”",
-      "tags": "Exclusive Featured Full Album Stream Abysses of Melancholia Blood Incantation Doom doomgaze Electric Valley Records France heavy psych Margarita Paris",
-      "category": "Прогрессив",
-      "published": "2026-10-05T19:00:24+00:00",
-      "id": "dd0da376bd76c00b82aaa081765c9703364fc4c4",
-      "retry_after": 0
+      "retry_after": 1791253804
     },
     {
       "source": "ThePRP",
