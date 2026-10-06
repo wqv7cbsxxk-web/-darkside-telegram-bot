@@ -391,49 +391,17 @@
     "b3d036d91829eaa78c7446b003f735544ab4029b",
     "206948af02bce7b558882d566d4901af6f6cf2e8",
     "a4b44a1b6e17c4cc63e828793ee2c23c8ef15dd7",
-    "f610d498995709fea28dd32f8eecd67af1876709"
+    "f610d498995709fea28dd32f8eecd67af1876709",
+    "9241efcf25f14bdacdb89b2bcd1cf2ec901024fc",
+    "95359ec61e3befca96c509ff1ecddd115735e4de",
+    "40485126c18e14acacd886fa8715af67fad00991",
+    "e81e273cd43a49d470dc9739c9a323ff8339e12b",
+    "19e9008f32933bd4dfc3570e0ecd44d6e30c3d2e",
+    "738af95abab74b72a4494389c3b9f0a2a776bb23",
+    "e6c5d928f546c8107ac5b8abb81334bc2f8e767e",
+    "23f6ef35aa84189c8fea84732a838b3db8741678"
   ],
   "recent_titles": [
-    {
-      "title": "Вокалист EXHORDER: «Нами интересуется очень и очень крупный лейбл»",
-      "source": "Darkside",
-      "ts": 1790949923
-    },
-    {
-      "title": "Новое видео YNGWIE MALMSTEEN",
-      "source": "Darkside",
-      "ts": 1790949924
-    },
-    {
-      "title": "BATTLE BEAST не рассматривали никого, кроме MARINA LA TORRACA",
-      "source": "Darkside",
-      "ts": 1790949925
-    },
-    {
-      "title": "ALICE COOPER: «Не хочу я на пенсию, чего вы пристали!?»",
-      "source": "Darkside",
-      "ts": 1790949932
-    },
-    {
-      "title": "Новое видео FIRTAN",
-      "source": "Darkside",
-      "ts": 1790949936
-    },
-    {
-      "title": "Новое видео FEUERSCHWANZ x IN EXTREMO",
-      "source": "Darkside",
-      "ts": 1790949940
-    },
-    {
-      "title": "Новое видео SEVEN KINGDOMS",
-      "source": "Darkside",
-      "ts": 1790949944
-    },
-    {
-      "title": "Новое видео PATRIARCHS IN BLACK",
-      "source": "Darkside",
-      "ts": 1790968431
-    },
     {
       "title": "Новое видео STEVEN WILSON",
       "source": "Darkside",
@@ -1193,6 +1161,46 @@
       "title": "\"There are no rules. You have 12 notes… do whatever you want with them.\" Eddie Van Halen, the life and times of a guitar god",
       "source": "Louder",
       "ts": 1791302324
+    },
+    {
+      "title": "From Ashes To New, NEVERTEL, Dark Divine & Hollow Pact Reveal Early 2027 North American Tour",
+      "source": "ThePRP",
+      "ts": 1791319420
+    },
+    {
+      "title": "Wolves In The Throne Room, Stygian Bough & Spirit Possession Announce 2027 North American Tour",
+      "source": "ThePRP",
+      "ts": 1791319424
+    },
+    {
+      "title": "Undeath Release New Single “Arterial Bombardment”",
+      "source": "ThePRP",
+      "ts": 1791319432
+    },
+    {
+      "title": "Inferi To Part Ways With Vocalist Stevie Boiser After Upcoming Tour",
+      "source": "ThePRP",
+      "ts": 1791319438
+    },
+    {
+      "title": "Linkin Park Now Have Two Diamond-Certified Albums In The United States",
+      "source": "ThePRP",
+      "ts": 1791319445
+    },
+    {
+      "title": "Alter Bridge’s “Tested And Able” Music Video Debuts",
+      "source": "ThePRP",
+      "ts": 1791319448
+    },
+    {
+      "title": "Thursday Announce 2027 Leg Of Their ‘Full City Devolución’ Tour",
+      "source": "ThePRP",
+      "ts": 1791319512
+    },
+    {
+      "title": "Why AC/DC's early British shows erupted in frenzy when Angus Young unleashed 'The Human Kangaroo'",
+      "source": "Louder",
+      "ts": 1791319635
     }
   ],
   "initialized_sources": [
@@ -1709,9 +1717,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-05T17:06:56+00:00",
       "id": "fc9a40ef62c57f3dd022a45b3a188adb3269d796",
-      "duplicate_ids": [
-        "195c25386c32473b121f944f7beb4ec72d34742a"
-      ],
       "retry_after": 0
     },
     {
@@ -2000,6 +2005,117 @@
       "category": "Хард-рок",
       "published": "2026-10-06T09:52:46+00:00",
       "id": "8683d26c1d106218c8defe3c67ac613902114c6c",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Turnstile’s Brendan Yates Throws Out Security Guard For Roughing Up Fan",
+      "link": "https://metalinjection.net/news/watch-turnstiles-brendan-yates-throws-out-security-guard-for-roughing-up-fan",
+      "rss_body": "If there's anything we know about Turnstile frontman Brendan Yates, it's that he doesn't mess around when it comes to protecting fans. He yet again proved that at the band's […]",
+      "tags": "Latest News Turnstile",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T19:37:33+00:00",
+      "id": "543a6329f6ea905e408e5b506c5fd994ed0e6e89",
+      "duplicate_ids": [
+        "faf688f1b9c533b49b05f3e1db70b069a2f4a4a5"
+      ],
+      "retry_after": 1791319721
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "“Greg Lake said, ‘I can’t believe they played Schizoid Man like this”: Italian proggers’ trick got them a record deal",
+      "link": "https://www.loudersound.com/bands-artists/interviews/pfm-record-deal-trick",
+      "rss_body": "In 2017 Italian prog legends\n\nPremiata Forneria Marconi\n\nsigned to InsideOut and released bilingual album\n\nEmotional Tattoos\n\n. That year\n\nProg\n\nvisited the band in their Milan studios to discuss how they continued challenging themselves after nearly 50 years, what it was like being mentored by\n\nGreg Lake\n\n– and that time they ate spaghetti with\n\nJaco Pastorius\n\nand\n\nJoni Mitchell\n\n.\n\nIn the wilfully obtuse world of prog, artists are not often known for doing things the easy way. But while some challenge themselves in terms of instrumental technique, performance or lyrical concepts, Italian prog pioneers Premiata Forneria Marconi set themselves a slightly more unusual task while making their new studio album – or, albums –\n\nEmotional Tattoos\n\n.\n\n“This time we decided to do two different records,” explains singer and drummer Franz Di Cioccio. “The same music, but one in Italian and one in English. It’s the better way to understand what we want to sing about.”\n\n“We made them together at the same time,” says bassist Patrick Djivas. “First the Italian then the English. Sometimes the two were racing each other to be finished.”\n\nHowever, the lyrics on one album don’t necessarily correspond to the other. “How can you say exactly the same things to Italians or to Americans or British people?” asks Djivas. “Especially as Italy has a way of thinking that’s so different to the rest of the world.”\n\nTo demonstrate, the pair sit\n\nProg\n\ndown in their Milan studio and play the English album. The atmospheric 7/8 piano figure of\n\nMorning Freedom (\n\nrenamed\n\nOniro\n\nfor the Italian version) rings from the speakers. When we come to the chorus after which the English version is named, Di Cioccio explains: “We had the English phrase for the chorus first: ‘\n\nMoor-ning Freeee-dom’\n\n. If we’d translated that directly into Italian, it would be\n\n‘mat-i-no di li-ber-ta.’\n\nIt would be a completely different rhythm to the line and feel completely different, not reflecting the emotion it’s supposed to show.\n\n“So in Italian it’s\n\n‘sogni liberi’\n\n–\n\n‘make the dream free’\n\n. From there we build a different lyric. It’s a difficult exercise, but we like it that way.”\n\nFans of the band since their acclaimed 70s output will be aware that making records in Italian and English is not new for PFM. But back when they made career-defining albums such as\n\nPhotos Of Ghosts\n\n, they could rely on the services of one of prog’s most celebrated lyricists to bring their visions to life in a foreign tongue.\n\n“We had Mr\n\nPete Sinfield\n\nwriting lyrics for us,” says Djivas. “He was really heavy on us until we sang it really good in English. But this time Franz did a good job – I think it sounds pretty natural.”\n\nThey continue to get their message across; and in both languages the themes are similar:\n\nThere’s A Fire In Me\n\nand\n\nIt’s My Road\n\noffer up the power of music as a force to heal in the face of a fractious world;\n\nThe Lesson\n\ntakes a “no pain, no gain” philosophy to the challenges of life and love; and opening track\n\nWe’re Not An Island\n\nsounds remarkably apposite to anyone wondering what’s to become of the UK post-Brexit and the US post-Trump, even though Djivas and Di Cioccio insist they had less specific social sentiments to impart.\n\nMost striking of all, though, both lyrically and musically, is\n\nA Day We Share\n\n, which surveys a global landscape in search of common ground, despite observing scenes such as: ‘\n\nEl Paso, Texas, almost in the middle of the night, watching the wall, waiting for the call to tear it all, another Berlin until we win\n\n…’\n\nThe six-minute journey starts with rhythmic punches of acoustic guitar and florid keyboard swoops and swirls, before stepping up the drama with a mesmerising battery of staccato rock riffs; then it unexpectedly sidestepping into a more groove-based, almost rap-like section of stream-of-consciousness observation. Then the curtains are thrown open onto a big, anthemic chorus and a joyfully upbeat Celtic-tinged denouement. Reports of PFM mellowing with age have, it seems, been exaggerated. “We wouldn’t want to play like we did back then,” says Djivas. “It would bore us to death. But we still like to challenge ourselves.”\n\nWe were excited by the music from abroad. King Crimson, Jethro Tull, we got the feeling the wind was changing in our favour\n\nOnly the 71-year-old Di Cioccio remains from their founding line-up, which formed when a Milan‑based quartet of session musicians expanded to a five-piece in a bid to explore more adventurous musical avenues. Djivas would join their ranks a couple of years later on bass – but first, they had to establish themselves within a highly sceptical local industry.\n\n“We were excited by the music we were hearing from abroad at that time,” says Di Cioccio. “\n\nKing Crimson\n\n,\n\nJethro Tull\n\n, Ekseption… we just got the feeling the wind was changing in our favour. So we changed our name and began to move to a more improvisational style. People couldn’t understand why we called ourselves Premiata Forneria Marconi – Award-Winning Bakery.\n\n“When we played our first show under that name, the promoter wouldn’t even announce us! We were opening for\n\nDeep Purple\n\n, and support acts weren’t that common in Italy then. He thought if he announced a band that wasn’t Deep Purple, just a local band, everyone would throw things at us; and if he told them we were called Premiata Forneria Marconi they'd think, ‘What the hell is this?’ So he just refused to introduce us.”\n\nHe didn’t even tell the venue crew to turn the stage lights on – so as they stepped onto the stage in darkness, their only option, as the enduring cliché would have it, was to let their music do the talking. “Back then we used to play covers, like most bands do at first, so we began playing\n\n21st Century Schizoid Man\n\n,” says Di Cioccio. “We used to play the part where they stop and start – the really complicated bit – just looking at the ground and not at our instruments. It would make people a bit shocked that we could play it without looking. At the end the promoter sees the reaction for us, gets up on stage and says, ‘This is Premiata Forneria Marconi. You will be hearing a lot more about them!’”\n\nHe wasn’t wrong: over the coming months, numerous like‑minded compatriots would emerge with similarly avant-garde sounds, many of whom just happened to have curiously elongated names, such as Banco Del Mutuo Soccorso and Biglietto per l’inferno. The Italian prog scene was snowballing, and its leading lights were about to get a major break.\n\nELP had hired a mobile studio but they couldn’t record. Since they’d paid for it they said, ‘Do you want to record your show?\n\n“Greg Lake was given a tape of us when\n\nELP\n\nplayed in Italy. After a month he calls our manager Franco Mamone and he says, ‘Hey, I can’t believe these guys played that song [\n\nSchizoid Man\n\n] like this!’ He says, ‘I want to see them playing it. I used to play with King Crimson and I know how hard it is.’”\n\nA London showcase gig was set up; and, duly impressed, Lake signed PFM to his new label Manticore. Their mentor, keen to introduce them to the English and American markets, hooked the quintet up with erstwhile Crimson lyricist Pete Sinfield. But Sinfield and Lake had a suggestion to make first. “They said, ‘English speakers can’t pronounce Premiata Forneria Marconi’ – they would always put the wrong emphasis on the syllables – Prem-eee-tur Forn-eerie-yur Marconi or something – people knew Marconi because it’s a famous name but otherwise people struggled with it. So we said, ‘We’ll just call ourselves PFM.’”\n\nWith Sinfield they set about turning songs from their second album,\n\nPer un Amico\n\n, into an English language release.\n\nPhotos Of Ghosts\n\nwas also beefed up with a reworked instrumental from their debut,\n\nStoria di un Minuto\n\n. The finished article juxtaposed dazzling, urgent bursts of jazz rock with pastoral, classically tinged folk rock, warped psychedelia and ebullient synth-heavy prog. Helped by\n\nCelebration\n\nbecoming an FM radio hit,\n\nPhotos Of Ghosts\n\nmade them the first Italian act to enter the Billboard Top 200 album chart.\n\n(Image credit: Courtesy of PFM)\n\nBy that time, Djivas had joined and the band were touring incessantly, thrilling crowds with improvisation-heavy shows of the kind that had made the\n\nGrateful Dead\n\nfamous. And how better to capture that magic than with a live album? “ELP had hired a mobile studio in Central Park, but something happened and they couldn’t record that day,” says Di Cioccio. “Since they’d paid for it anyway, they said, ‘Do you want to record your show?’ We agreed – but we pretty much forgot about the recording, so we played normally, improvised pretty much the whole show, and that really made it so much better! Sometimes if you’re aware you’re being recorded live, you’re trying not to make mistakes, and it turns out a bit stiff.”\n\nThat recording formed part of\n\nCook\n\n, a defining album for PFM, retitled and repackaged as\n\nLive In The USA\n\nfor its European release. By that point, it felt like there had never been a better time to make music. The band had found a home from home just off LA’s Sunset Strip, on Alta Loma Road, as referenced in the extended jam\n\nAlta Loma Five ’Till Nine,\n\nwhich they created there.\n\nThe cover was an flag with chocolate inside, but the flag wrapper has been thrown away. We didn’t understand the weight of making fun of America\n\nThey would also stay at the Sunset Marquis hotel. “All the musicians stayed there,” Djivas recalls. “There was a party every night.”\n\nDi Cioccio adds: “I remember one night when\n\nJaco Pastorius\n\nwas recording\n\nHejira\n\nwith\n\nJoni Mitchell\n\n. They come in and he smells that we're cooking in our room. They asked, ‘Hey, is there a party here?’ We say, ‘No, we’re cooking spaghetti. Want some?’ So Joni and Jaco come in. We’re hanging out and Patrick’s playing bass with Jaco. It was a great time.”\n\nThings would turn slightly sour in the US after their 1975 album\n\nChocolate Kings\n\n, which featured former Acqua Fragile singer and fluent English speaker Bernardo Lanzetti. It featured a sleeve design that didn’t go down too well. “The cover was an American flag with chocolate inside, but the flag wrapper has been thrown away,” Djivas explains. “We really didn’t understand the weight of an Italian band in the US making fun of America.” A focus on foreign territories meant they didn’t put out an Italian version of the record, meaning their profile also slipped back home.\n\n1977’s release\n\nJet Lag\n\nwould prove to be their last sung in English, as Lanzetti departed, and drummer Di Cioccio followed\n\nPhil Collins\n\nroute to the lead singer’s mic, and they concentrated on rebuilding their fanbase at home. A pair of records backing Italian folk troubadour Fabrizio De André helped, and they consolidated their position as one of Italy’s best-loved rock acts.\n\nIt’s been over a decade since their last album of new compositions, and their task wasn’t helped when guitarist Franco Mussida called it a day in 2015, leaving the rump of Djivas and Di Cioccio in creative charge of the band. But every cloud… “The new guitar player, Marco Sfogli, is from Naples” says Djivas. “Neapolitans have a lot of heart – they’re very emotional people. So he’s a ridiculously good technical player who can do anything, but he also plays great melodies, and we love that.”\n\nThey cut off the lights twice because I didn’t pay the bills. Not because I couldn’t, but because I was so focused on the album\n\nWhile Sfogli is barely half the age of his new bandmates, he’s of a generation who continue to carve out a strong reputation across Europe, helped by a thriving scene back home (covered, we might add, by the Italian equivalent of this magazine,\n\nProg Italia\n\n). So do Djivas and Di Cioccio hear their influence among the latest crop of Italian bands? “I didn’t listen to anything in the last year,” says Di Cioccio, “and that’s deliberate, because I don’t want to be influenced. Writing songs, arrangements, writing lyrics in Italian, writing in English – it takes focus!”\n\n“I’m the same,” says Djivas. “They cut off the lights in my house twice because I didn’t pay the bills. Not because I couldn’t, but because I was so focused on the album!”\n\nThat “no pain, no gain” philosophy has borne fruit, in the shape of an album (albums) that can stand proudly alongside the records with which they made their reputation all those years ago. “For us, the album is a positive journey,” Di Cioccio says. “We start the album with\n\nYou’re Not An Island\n\n, and then the last lines are: ‘\n\nI’m feeling like a god!\n\n’”\n\nAnd who can deny him such feelings? In terms of European prog at least, PFM deserve a bit of deification.",
+      "tags": "Interviews Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-06T20:00:00+00:00",
+      "id": "8afdeb264a48071de2003eeb6785b7766b856319",
+      "retry_after": 1791319712
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Record Store Day Black Friday: Every 2026 Rock Release",
+      "link": "https://ultimateclassicrock.com/rsd-black-friday-rock-releases/",
+      "rss_body": "Special fall independent store event returns in November.",
+      "tags": "New Albums News Bruce Springsteen Eagles Iron Maiden Record Store Day UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T18:04:49+00:00",
+      "id": "5287569799e8b68ded859108266d40ed5680c281",
+      "retry_after": 1791319803
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Opening Tracks That Defined Iconic Rock Albums",
+      "link": "https://ultimateclassicrock.com/album-opening-songs/",
+      "rss_body": "That first track can make or break whether you hear the rest of the album. Here's why the best opening songs matter so much.",
+      "tags": "Lists Original Features Album Opening Songs Bruce Springsteen Led Zeppelin The Rolling Stones UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-06T17:53:56+00:00",
+      "id": "2d1531d3a8a3e25b3eff728e6f38699d963abd0d",
+      "retry_after": 1791319898
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: New World Man and Eternal Champion Team Up For “Devil Time”",
+      "link": "https://metalinjection.net/new-music/listen-new-world-man-and-eternal-champion-team-up-for-devil-time",
+      "rss_body": "Coming off 'I Am The Machine,' out October 23 via Closed Casket Records.",
+      "tags": "New Music new world man",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T17:37:25+00:00",
+      "id": "00345d122f30b176cff56c77c07178b47f926a66",
+      "retry_after": 1791319898
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Godsmack, Staind, Mötley Crüe, Carcass, King Gizzard & The Lizard Wizard, New Power Trip, Etc. Among 2026 Black Friday ‘Record Store Day’ Releases",
+      "link": "https://www.theprp.com/2026/10/06/news/godsmack-staind-motley-crue-carcass-king-gizzard-the-lizard-wizard-new-power-trip-etc-among-2026-black-friday-record-store-day-releases/",
+      "rss_body": "Plus offerings from Iron Maiden, Motörhead, Thrice, Poppy, Sparta and more.",
+      "tags": "News Black Veil Brides Carcass Godsmack Iron Maiden King Crimson King Gizzard & The Lizard Wizard Motley Crue Motorhead Poppy Power Trip Rainbow Skid Row Staind The Doors Thrice",
+      "category": "Прогрессив",
+      "published": "2026-10-06T17:35:17+00:00",
+      "id": "ca00bbf7b08578d01d6d98d617e7d2a141ceb2c0",
+      "retry_after": 1791319924
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Queens Of The Stone Age’s Josh Homme Announces Benefit Show With Weird Al Yankovic, Jack Black, Beck, Chad Smith & More",
+      "link": "https://www.theprp.com/2026/10/06/news/queens-of-the-stone-ages-josh-homme-announces-benefit-show-with-weird-al-yankovic-jack-black-beck-chad-smith-more/",
+      "rss_body": "'Joshua Homme And Friends...' will also feature Sarah Silverman, John McEnroe, Bill Burr and more.",
+      "tags": "News Andrew Watt Beck Chad Smith Josh Homme Queens Of The Stone Age Red Hot Chili Peppers Troy Van Leeuwen",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T16:57:55+00:00",
+      "id": "1f627db8bb1065cf395941b58e3057ea61b70d7b",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Blast Worship: Bladda",
+      "link": "https://www.decibelmagazine.com/2026/10/06/blast-worship-bladda/",
+      "rss_body": "Where they from?\n\nDallas, Texas. The New York Jets have lost three in a row but the New York Rangers are 3-1, you gotta take what you can get. New York’s goaltender, the legendary Igor Shesterkin, even scored a goal! That surely makes up for the fact that Aaron Glenn has no idea what he’s doing, right? RIGHT?!\n\nWhy the hype?\n\nThe state of Texas right now is home to a thriving mince/grindcore scene that rivals anywhere else in the world currently, and\n\nBladda\n\nremain at the heart of the movement. The band churns out a putrid whirlwind of slimy west coast-influenced crusty grindcore that knows when to stop and take a moment to pound you into submission with some seriously tasty OOMPA-OOMPA beats. Combine that with some off-putting samples and a delightfully absurdist name and WA LA, we have a winner.\n\nLatest release?\n\nHeinous Methods of Cranial Disposal\n\n, self-released. This is low IQ-music in the best way possible: just all blasts and then lumbering crust breakdowns, all mixed together in a putrid stew of down-shifted vocals. This is the sort of stuff cavemen would bash each other’s skulls into after killing a whale. Were they alive at the same time? IDK, DOESN’T MATTER!\n\nHeinous Methods of Cranial Disposal by BLADDA",
+      "tags": "Blast Worship News Streaming Bladda grindcore",
+      "category": "Экстремальный метал",
+      "published": "2026-10-06T16:00:24+00:00",
+      "id": "ff900fe80b6cac3c820656400841b002068e9532",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: “ERADICATION FROM THE TAINT”",
+      "link": "https://www.nocleansinging.com/2026/10/06/an-ncs-premiere-eradication-from-the-taint/",
+      "rss_body": "(written by Islander) Earlier today my friend and NCS comrade DGR made an observation about certain kinds of brutal death metal that coincidentally turns out to be quite relevant to the song from Australia’s Caution that we’re about to premiere. In the context of reviewing an album by New York’s Thaetas, he pointed to “a\n\n[...]",
+      "tags": "Premieres Caution",
+      "category": "Экстремальный метал",
+      "published": "2026-10-06T15:58:20+00:00",
+      "id": "5a9581e4cf7f39f802dcda962ccb6c900d870311",
       "retry_after": 0
     }
   ]
