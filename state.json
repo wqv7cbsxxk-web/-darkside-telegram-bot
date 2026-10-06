@@ -383,49 +383,17 @@
     "5c50239cca43e2ea21bb4f9c26eeeff4a1ae7d6b",
     "a04b3d191d55698ab3e5766250afb2f0816b1972",
     "3336897afdd1d27ae638e4187a2bb25a3817362c",
-    "fbe5aac9fbcae31fe6390f37bf0a2d74ad87219e"
+    "fbe5aac9fbcae31fe6390f37bf0a2d74ad87219e",
+    "3c9c0d1aee847041fcdfee7a6ae94259750812e4",
+    "70a48c607d884308361380a7c660e9eeb3598b60",
+    "f73f7a3c6b373f569c5cce53e88a3d0b14c9ba2e",
+    "b4fb1e58ae4a6029a1a376d16b3b684393086f35",
+    "b3d036d91829eaa78c7446b003f735544ab4029b",
+    "206948af02bce7b558882d566d4901af6f6cf2e8",
+    "a4b44a1b6e17c4cc63e828793ee2c23c8ef15dd7",
+    "f610d498995709fea28dd32f8eecd67af1876709"
   ],
   "recent_titles": [
-    {
-      "title": "Tom Morello’s ‘Power To The People’ Festival To Be Livestreamed For Free",
-      "source": "ThePRP",
-      "ts": 1790899776
-    },
-    {
-      "title": "Новое видео FROZEN CROWN",
-      "source": "Darkside",
-      "ts": 1790926436
-    },
-    {
-      "title": "I AM YOUR GOD исполняют SENTENCED",
-      "source": "Darkside",
-      "ts": 1790926438
-    },
-    {
-      "title": "ANTHRAX не думают о пенсии",
-      "source": "Darkside",
-      "ts": 1790926440
-    },
-    {
-      "title": "Новая песня FAKE NAMES",
-      "source": "Darkside",
-      "ts": 1790926454
-    },
-    {
-      "title": "Новое видео COMEBACK KID",
-      "source": "Darkside",
-      "ts": 1790926456
-    },
-    {
-      "title": "JEFF &#039;MANTAS&#039; DUNN почтил память вокалиста VENOM",
-      "source": "Darkside",
-      "ts": 1790926478
-    },
-    {
-      "title": "METALLICA отыграла первый концерт в Сфере",
-      "source": "Darkside",
-      "ts": 1790949921
-    },
     {
       "title": "Вокалист EXHORDER: «Нами интересуется очень и очень крупный лейбл»",
       "source": "Darkside",
@@ -1185,6 +1153,46 @@
       "title": "Концертное видео MESSA",
       "source": "Darkside",
       "ts": 1791277792
+    },
+    {
+      "title": "Jon Oliva в новом видео SEVEN WITCHES",
+      "source": "Darkside",
+      "ts": 1791302108
+    },
+    {
+      "title": "Новая песня L7",
+      "source": "Darkside",
+      "ts": 1791302110
+    },
+    {
+      "title": "Новое видео ETERNITY'S END",
+      "source": "Darkside",
+      "ts": 1791302111
+    },
+    {
+      "title": "Лидер ANTHRAX: «Я не либерал»",
+      "source": "Darkside",
+      "ts": 1791302114
+    },
+    {
+      "title": "Фрагмент нового релиза HOLLYWOOD VAMPIRES",
+      "source": "Darkside",
+      "ts": 1791302115
+    },
+    {
+      "title": "AN NCS VIDEO PREMIERE: HYPERION — “FIDES NOVEM”",
+      "source": "No Clean Singing",
+      "ts": 1791302142
+    },
+    {
+      "title": "Lammoth: the surprisingly emotional black metal project about a pony from Lord of the Rings",
+      "source": "Louder",
+      "ts": 1791302181
+    },
+    {
+      "title": "\"There are no rules. You have 12 notes… do whatever you want with them.\" Eddie Van Halen, the life and times of a guitar god",
+      "source": "Louder",
+      "ts": 1791302324
     }
   ],
   "initialized_sources": [
@@ -1848,6 +1856,150 @@
       "category": "Хэви-метал",
       "published": "2026-10-06T02:55:46+00:00",
       "id": "33ff5dd2ed8bcc26cc7549939a85d7bdfc9dbc1a",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Mudvayne’s Chad Gray Talks Vocal Injuries: “I’m F***ing Scared to Death”",
+      "link": "https://metalinjection.net/news/mudvaynes-chad-gray-talks-vocal-injuries-im-fing-scared-to-death",
+      "rss_body": "His vocal coach let him know things were indeed not right.",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T15:05:02+00:00",
+      "id": "d80f383e637b1bb4a631dcf007f52dcf7d130b6c",
+      "retry_after": 1791302416
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Рождественский ЕР от ICE NINE KILLS",
+      "link": "http://www.darkside.ru/news/184248/",
+      "rss_body": "ICE NINE KILLS девятого ноября в цифровом варианте выпустят новый ЕР \"A Very Vicious Christmas\", в который войдут интерпретации рождественской классики, записанные для \"Terror Tram Starring Art The Clown\" в Universal Studios Hollywood.\n\nSpencer Charnas: «Это наш ранний подарок на Рождество. Когда нам поручили создать музыкальное сопровождение к нападению Арта Клоуна на «Трамвай ужаса», мы сразу поняли суть задания. Арт обожает Рождество. А кто, как не ICE NINE KILLS, сможет так безвкусно разделаться с некоторыми рождественскими классическими песнями?\n\nС такими текстами, как „О, как же весело умереть в открытом катафалке“ и „Он измельчит твои конечности, как колбасный фарш“, мы не были уверены, что найдём детский хор, родители которого одобрили бы такое, но, к счастью, дух праздника возобладал.\n\nДля нас большая честь, что сценарист и режиссёр «Terrifier» Damien Leone, продюсер Phil Falcone и их команда пригласили нас в свою кровавую песочницу.\n\n«Halloween Horror Nights» — одно из наших любимых мест, и в этом году оно обещает быть ещё более праздничным».\n\nТрек-лист:\n\n01. Carol Of The Bells\n\n02. Jingle Bells\n\n03. We Wish You A Merry Christmas\n\n04. O Christmas Tree\n\n05. Joy To The World\n\n06. The Twelve Days Of Christmas\n\n07. Dance Of The Sugar Plum Fairies (Full Band Version)\n\n08. Dance Of The Sugar Plum Fairies (Orchestral Version)",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T14:55:48+00:00",
+      "id": "645344685ba01476b26927cbebb83fe5c47ef5b8",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Fraud TV Preacher Who Inspired Ozzy, Maiden, Genesis Dead at 86",
+      "link": "https://ultimateclassicrock.com/jim-bakker-dead/",
+      "rss_body": "He was convicted of defrauding his followers out of $158 million.",
+      "tags": "News R.I.P. Genesis Iron Maiden Ozzy Osbourne UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T14:52:46+00:00",
+      "id": "cc5b5344cc21d5bf8ac54b7370ed0cf8410ce3d7",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Nita Strauss Rocks First Post-Pregnancy Performance With Alice Cooper in Vegas",
+      "link": "https://metalinjection.net/news/nita-strauss-alice-cooper-first-show-post-pregnancy-halftime-show",
+      "rss_body": "What a legend.",
+      "tags": "Latest News alice cooper Nita Strauss",
+      "category": "Хард-рок",
+      "published": "2026-10-06T14:21:36+00:00",
+      "id": "6153e1145ec08f3d9d20da6016e4c42fb73058f6",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Гитарист TYPE O NEGATIVE: «Благодаря TikTok мы сейчас очень известны»",
+      "link": "http://www.darkside.ru/news/184207/",
+      "rss_body": "В недавнем интервью Kenny Hickey поговорил о своем пребывании в составе TYPE O NEGATIVE. Коллектив, по сути, прекратил существование после смерти фронтмена Питера Стила: в апреле 2010 года он скончался от сердечной недостаточности в возрасте 48 лет.\n\n«Если оглянуться назад, я считаю, всё в TYPE O должно было сложиться именно так, как сложилось, — сказал гитарист. — Улучшить можно что угодно, но исторически это уже стало самостоятельным явлением.\n\nИ никто не захочет ничего менять. Я бы и сам сейчас ничего не стал менять».\n\nTYPE O NEGATIVE сформировались в конце 1980-х, после распада прежней группы Стила, CARNIVORE. Коллектив просуществовал двадцать лет и обзавёлся мощной армией поклонников благодаря частым гастролям и семи студийным альбомам.\n\nЧто до того, как сегодня музыку TYPE O воспринимают любители хард-рока и хеви-металла, Kenny сказал:\n\n«Команда популярна как никогда. Как никогда! Моей младшей дочери сейчас 24. Я приезжал к ней в колледж, и вокруг были сплошные фанаты TYPE O. Так что мы дотянулись до совершенно нового поколения…\n\nНаше первое поколение слушателей, по большей части, ещё живо, а теперь к нему добавились ещё два. Так что дела идут лучше некуда, дружище».\n\nРост популярности TYPE O NEGATIVE в последние годы Hickey проиллюстрировал так:\n\n«Мы только что получили золотой сертификат за стриминг. Знаешь, сколько прослушиваний для этого нужно? 250 миллионов! Столько набрал сингл \"I Don't Wanna Be Me\". Он выстрелил в TikTok, и это буквально взорвало интерес к группе, а теперь вся остальная наша музыка открылась этим ребятам. Вот что происходит. Благослови Бог TikTok. Благослови Бог TikTok!»\n\nИ добавил:\n\n«Посмотри, что TikTok сделал с CROWBAR. Тяжелейший дум-коллектив, у которого вообще не было коммерческого потенциала, сегодня собирает 1,9 миллиона слушателей на Spotify. Они взлетают по всему миру, и всё благодаря тому, что... Такое могло случиться только в TikTok. Их открыли эти ребята».\n\nНа вопрос, возможно ли, что он объединится с оставшимися в живых участниками TYPE O NEGATIVE ради концерта памяти Стила с приглашёнными музыкантами, Kenny ответил:\n\n«С точки зрения логистики сейчас — нет, это невозможно. Но никогда не говори \"никогда\". Предложения есть. Просто не сейчас».\n\nРанее Kenny Hickey рассказывал, что бывший клавишник TYPE O NEGATIVE Josh Silver, женатый на сестре его жены, не готов брать на себя обязательства по трибьют-проекту в память о Стиле: он долгое время работал парамедиком в Нью-Йорке на городскую службу.\n\nКроме того, Kenny подтвердил, что полноформатная запись концерта давно распавшегося коллектива готовится к официальному выпуску.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T13:58:41+00:00",
+      "id": "f332bac2d0f9198bd1a703c3b08cf4e44b83e863",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "CLEARING THE SLATE ISSUE FIVE",
+      "link": "https://www.nocleansinging.com/2026/10/06/clearing-the-slate-issue-five/",
+      "rss_body": "(Our writer DGR has been playing catch-up on records released earlier this year when other distractions interfered with writing about them. Beginning in mid-July he has delivered four Issues (which you can find here, here, here, and here), and now we have Issue Five bringing together extensive reviews of four more records released in preceding\n\n[...]",
+      "tags": "Album Reviews Avolition Callous DGR Solaris Imperium Thaetas",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T13:57:42+00:00",
+      "id": "efeba4764714b42cd067d0a2a92906faffa18986",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Track Premiere: Invulation – “Third Degree Warfare”",
+      "link": "https://www.decibelmagazine.com/2026/10/06/track-premiere-invulation-third-degree-warfare/",
+      "rss_body": "I’m really excited to show everyone this song today. There’s a few styles of death metal that seem to endlessly endure over time, having been long-established as pillars of the sound’s brutal legacy. This includes the especially bestial variant on display with\n\nInvulation\n\n‘s new song, “Third Degree Warfare.” It’s a style that packs all the power of\n\nImmolation\n\nand\n\nFormulas\n\n-era\n\nMorbid Angel\n\nbut is delivered with the blasphemous, iconoclastic attitude of bands like\n\nAngelcorpse\n\n,\n\nArchgoat\n\nand\n\nBlaspherian\n\n. There’s probably a bit of\n\nHate Eternal\n\nand\n\nDead Congregation\n\nin there as well.\n\nBut aside from these comparisons, here’s what you need to know: the song is a thrilling, well-composed composition of volcanic death metal. If you want to hear something that embodies sheer ferocity and power, it’s hard to beat a sound like this. Nothing needs to be innovated, reimagined, or reinvented here. All you need is dedication, good writing, and the right guitar tones.\n\nHere’s what the project’s mastermind, Andrew Lampe, tells us about the song:\n\n“Fire has always been a tool for inflicting maximum destruction and pain upon the enemy. Only the most diabolical will praise the inhumanity of war and the use of incendiary and chemical weapons on an entire population.”\n\nRegarding the upcoming album, he sums it up with the cheerful thought that “”Humanity has brought its destruction upon itself through its endless desire for conquest and masochism — the culmination of our terminal illness bringing about a cleansing fire. The inferno now descends to burn away the mistakes of a people gone mad.”\n\nListen to “Third Degree Warfare” below (that song title goes hard, damn). And keep your ears set\n\nfor October 30 when\n\nInferno Descends\n\nwill unleash its full destructive fire upon us all.",
+      "tags": "Streaming Track Premiere Andrew Lampe death metal Invulation premiere Sentient Ruin Sentient Ruin Laboratories",
+      "category": "Прогрессив",
+      "published": "2026-10-06T13:30:06+00:00",
+      "id": "8322b76988ed3ee5d415f0f805f3090a0fc365f2",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео THE HAUNT",
+      "link": "http://www.darkside.ru/news/184242/",
+      "rss_body": "Until I Die, новое видео THE HAUNT, доступно для просмотра.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T13:17:54+00:00",
+      "id": "97cf868a77fd420a8db9a47d8b34a02a851c3462",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "How the Who's Fans Turned a Baseball Stadium Into a Pot Farm",
+      "link": "https://ultimateclassicrock.com/the-who-fans-marijuana-anaheim-stadium/",
+      "rss_body": "It was not the first time that the British rock legends had been part of a controversy in the area.",
+      "tags": "Longform News Original Features The Who UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-06T12:58:53+00:00",
+      "id": "49cd8a54975eab55e9662bb2c94a265b2d5c81a9",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "ANETTE OLZON исполнила песни NIGHTWISH с оркестром",
+      "link": "http://www.darkside.ru/news/184243/",
+      "rss_body": "Видео полного выступления ANETTE OLZON в Сан-Паулу, в рамках которого она исполнила композиции NIGHTWISH с оркестром, доступно для просмотра:\n\nTaikatalvi (Nightwish song) (Orchestral)\n\nStorytime (Nightwish song)\n\n7 Days to the Wolves (Nightwish song)\n\nGhost River (Nightwish song)\n\nSong of Myself (Nightwish song)\n\nAmaranth (Nightwish song)\n\nRest Calm (Nightwish song)\n\nLast of the Wilds (Nightwish song)\n\nScaretale (Nightwish song)\n\nLike a Show Inside My Head\n\nTurn Loose the Mermaids (Nightwish song)\n\nThe Islander (Nightwish song)\n\nEncore:\n\nThe Poet and the Pendulum (Nightwish song)\n\nMeadows of Heaven (Nightwish song)\n\nLast Ride of the Day (Nightwish song)\n\nRapture",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T12:13:37+00:00",
+      "id": "ab116787846871db64e4728b211067a86cf3ead9",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Roger Waters Presents Legacy: A Pink Floyd Show adds UK and Ireland dates",
+      "link": "https://www.loudersound.com/bands-artists/roger-waters-presents-legacy-a-pink-floyd-show-adds-uk-and-ireland-dates",
+      "rss_body": "The\n\nRoger Waters\n\n-sanctioned\n\nPink Floyd\n\ntribute show Roger Waters Presents Legacy – A Pink Floyd Show will visit the UK and Ireland next year.\n\nRoger Waters isn't part of the tour, but the 10-piece band will be directed by his son Harry Waters.\n\nNorth American dates\n\nfor the production were announced last week.\n\nThe UK and Ireland shows commence on June 16 at Manchester O2 Apollo and run through to June 29 at Dublin's 3Arena.\n\n\"These songs have meant so much to so many people for so many years, and I’m excited for audiences to come together and experience them live again,\" says Roger Waters. \"Harry has assembled a terrific band, and I can’t wait for fans around the world to see the special show we’ve created together.\"\n\n\"I fell in love with the music immediately,\" says Harry Waters. \"It really had an impact on me, irrespective of any bias, because it was Dad’s music. I still love it deeply to this day. Collaborating with Dad on this new production is such an honour, and I’m so grateful to have the opportunity to bring this music to fans old and new, around the world.\"\n\nWaters Jr.'s connections to the music of Pink Floyd run deep.\n\nAs a two-year-old, his voice was used on Pink Floyd’s\n\nGoodbye Blue Sky\n\n, and he played in his father's solo band for 14 years before being fired prior to the Us + Them tour in 2016.\n\nRoger Waters Presents Legacy – A Pink Floyd Show - tour 2027 (UK and Ireland dates in bold type)\n\nFeb 15: Columbus River Center for the Performing Arts, GA\n\nFeb 17: Clearwater The BayCare Sound, FL\n\nFeb 19: Fort Myers Caloosa Sound Amphitheater, FL\n\nFeb 20: St. Augustine The St. Augustine Amphitheatre, FL\n\nFeb 21: Fort Lauderdale Broward Center for the Performing Arts, FL\n\nFeb 23: Orlando Dr. Phillips Center for the Performing Arts, FL\n\nFeb 25: Atlanta Fox Theatre, GA\n\nFeb 26: Montgomery Montgomery Performing Arts Centre, AL\n\nFeb 27: Nashville The Truth, TN\n\nFeb 28: Huntsville Von Braun Center, AL\n\nMar 02: Green Bay The Weidner, WI\n\nMar 03: Minneapolis Orpheum Theatre, MN\n\nMar 04: Peoria Prairie Home Alliance Theater, IL\n\nMar 06: Chicago The Chicago Theatre, IL\n\nMar 07: Indianapolis Murat Theatre at Old National Centre, IN\n\nMar 9: Louisville The Louisville Palace Theatre, KY\n\nMar 10: Knoxville Knoxville Civic Auditorium, TN\n\nMar 12: Midland Midland Center for the Arts, MI\n\nMar 13: Windsor The Colosseum at Caesars Windsor, ON\n\nMar 14: Columbus Mershon Auditorium, OH\n\nMar 18: Grand Prairie Texas Trust CU Theatre at Grand Prairie, TX\n\nMar 19: Midland Wagner Noël Performing Arts Center, TX\n\nMar 20: San Antonio The Tobin Center, TX\n\nMar 21: Houston The Hobby Center for Performing Arts, TX\n\nApr 06: Pittsburgh Benedum Center, PA\n\nApr 07: Scranton Scranton Cultural Center, PA\n\nApr 09: Portland Merrill Auditorium, ME\n\nApr 10: Mashantucket Premier Theater at Foxwoods Resort Casino, CT:\n\nApr 11: Medford Chevalier Theatre, MA\n\nApr 13: Buffalo UB Center for the Arts, NY\n\nApr 14: Albany Palace Theatre, NY\n\nApr 16: Newark New Jersey Performing Arts Center, NJ\n\nApr 17: Atlantic City Ocean Casino Resort, NJ\n\nApr 18: Lancaster American Music Theatre, PA\n\nApr 20: Charlotte Ovens Auditorium, NC\n\nApr 21: Tysons Capital One Hall, VA\n\nApr 23: Orillia Casino Rama Resort, ON\n\nApr 24: Ottawa Hard Rock Live Ottawa, ON\n\nApr 26: Baltimore The Paramount Baltimore, MD\n\nApr 27: Rochester Kodak Center, NY\n\nApr 29: Utica The Stanley Theatre, NY\n\nApr 30: Richmond Altria Theater, VA\n\nMay 01: Virginia Beach The Dome by Rutter Mills, VA\n\nMay 02: Wilmington CFCC’s Wilson Center, NC\n\nJun 16: Manchester O2 Apollo, UK\n\nJun 17: Glasgow Royal Concert Hall, UK\n\nJun 19: Edinburgh Playhouse, UK\n\nJun 20: Newcastle O2 City Hall, UK\n\nJun 22: Sheffield City Hall, UK\n\nJun 23: Southend Cliffs Pavilion, UK\n\nJun 25: Brighton Centre, UK\n\nJun 26: Wolverhampton Civic at the Halls, UK\n\nJun 27: London Eventim Apollo, UK\n\nJun 29: Dublin 3Arena, IRE\n\nAug 31: Vancouver Queen Elizabeth Theatre, BC\n\nSep 02: Wenatchee Town Toyota Center, WA\n\nSep 04: Portland McMenamins Edgefield, OR\n\nSep 07: San Francisco Golden Gate Theatre, CA\n\nSep 11: Los Angeles Greek Theatre, CA\n\nSep 12: San Diego The Rady Shell at Jacobs Park, CA\n\nSep 15: Salt Lake City Eccles Theater, UT\n\nSep 16: Las Vegas Pearl Concert Theater at Palms Casino Resort, NV\n\nSep 19: Denver Buell Theatre, CO\n\nSep 21: Cleveland Jacobs Pavilion, OH\n\nSep 24: Sylvania Centennial Terrace, OH\n\nSep 25: St. Louis The Fabulous Fox, MO\n\nTickets for Ireland go on general sale at 9am on October 9, with the\n\nUK tickets\n\non sale at noon on the same day.\n\nTickets for the North American shows are on sale\n\nhere\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-06T12:00:00+00:00",
+      "id": "92de61c57285954866e473fdb0d2b707ea9400cb",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Alice Cooper Swears Some of His Snakes Were Acting",
+      "link": "https://ultimateclassicrock.com/alice-cooper-snakes-acting/",
+      "rss_body": "Shock rock icon admits there’s a small chance one of his props could kill him: “What if this is the night?”",
+      "tags": "News Alice Cooper UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-06T09:52:46+00:00",
+      "id": "8683d26c1d106218c8defe3c67ac613902114c6c",
       "retry_after": 0
     }
   ]
