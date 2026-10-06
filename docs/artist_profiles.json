@@ -3804,7 +3804,8 @@
       "website": "http://www.testamentlegions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Testament_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:14.223909+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:14.224029+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:14.224029+00:00",
+      "tour_attempted_at": "2026-10-06T15:58:57.703248+00:00"
     },
     "uriah-heep": {
       "origin": "London, England",
@@ -3837,7 +3838,8 @@
       "website": "http://uriah-heep.com",
       "reference_url": "https://en.wikipedia.org/wiki/Uriah_Heep_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:14.325327+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:14.325350+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:14.325350+00:00",
+      "tour_attempted_at": "2026-10-06T15:58:57.909424+00:00"
     },
     "venom": {
       "origin": "Newcastle upon Tyne , England",
@@ -3858,7 +3860,8 @@
       "website": "http://venomslegions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Venom_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:14.400610+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:14.400632+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:14.400632+00:00",
+      "tour_attempted_at": "2026-10-06T15:58:58.899606+00:00"
     },
     "w-a-s-p": {
       "origin": "Los Angeles, California , U.S.",
@@ -3882,7 +3885,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://waspnation.com",
       "reference_url": "https://en.wikipedia.org/wiki/W.A.S.P._%28band%29",
-      "reference_checked_at": "2026-10-02T02:35:28.551872+00:00"
+      "reference_checked_at": "2026-10-02T02:35:28.551872+00:00",
+      "tour_attempted_at": "2026-10-06T15:58:59.455999+00:00"
     }
   }
 }
