@@ -3680,7 +3680,8 @@
       "website": "http://skidrow.com",
       "reference_url": "https://en.wikipedia.org/wiki/Skid_Row_%28American_band%29",
       "reference_checked_at": "2026-10-02T02:31:13.347604+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:13.347625+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:13.347625+00:00",
+      "tour_attempted_at": "2026-10-06T09:10:05.829770+00:00"
     },
     "sodom": {
       "origin": "Gelsenkirchen , North Rhine-Westphalia, West Germany",
@@ -3701,7 +3702,8 @@
       "website": "http://sodomized.info",
       "reference_url": "https://en.wikipedia.org/wiki/Sodom_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:13.738310+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:13.738332+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:13.738332+00:00",
+      "tour_attempted_at": "2026-10-06T09:10:07.423842+00:00"
     },
     "suffocation": {
       "origin": "Centereach, New York , U.S.",
@@ -3734,7 +3736,8 @@
       "website": "http://suffocationofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Suffocation_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:13.866672+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:13.866696+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:13.866696+00:00",
+      "tour_attempted_at": "2026-10-06T09:10:07.950187+00:00"
     },
     "tesla": {
       "origin": "Sacramento, California , U.S.",
@@ -3767,7 +3770,8 @@
       "website": "http://teslatheband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Tesla_%28band%29",
       "reference_checked_at": "2026-10-02T02:31:13.977074+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:13.977098+00:00"
+      "reference_attempted_at": "2026-10-02T02:31:13.977098+00:00",
+      "tour_attempted_at": "2026-10-06T09:10:08.564027+00:00"
     },
     "testament": {
       "origin": "Berkeley, California , U.S.",

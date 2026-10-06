@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-05T07:14:16.094738+00:00"
+      "bandcamp_checked_at": "2026-10-06T09:10:26.786545+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -8419,6 +8419,456 @@
           "source_url": "https://musicbrainz.org/release-group/f047cf4c-1138-4c89-a288-b42fdd228316"
         }
       ]
+    },
+    "devin-townsend": {
+      "name": "Devin Townsend",
+      "musicbrainz_url": "https://musicbrainz.org/artist/93e8c41e-8e4f-4d08-bbf5-bc1a903b2423",
+      "reference_checked_at": "2026-10-06T09:10:17.793456+00:00",
+      "genres": "ambient, metal, progressive, progressive metal, progressive rock",
+      "bandcamp_url": "https://devintownsendofficial.bandcamp.com/",
+      "website": "https://hevydevy.com/",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/93e8c41e-8e4f-4d08-bbf5-bc1a903b2423",
+      "albums": [
+        {
+          "name": "Galactic Quarantine",
+          "date": "2021-06-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0761ed7f-fb7e-4892-a473-9d64a552bc9c"
+        },
+        {
+          "name": "Ancient",
+          "date": "2016",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/083f656d-8fc4-491b-b0d2-681d8361a0db"
+        },
+        {
+          "name": "Official Bootleg 2000",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/119ed60c-bf0f-3d27-b94e-8409e78ff872"
+        },
+        {
+          "name": "Enter the City (The Afterlife)",
+          "date": "2026-03-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/147ad645-b7a5-454a-b6ad-5264864632e1"
+        },
+        {
+          "name": "Empath Live in America",
+          "date": "2023-08-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/14ac458f-736f-40d0-8c11-db3d71cd3314"
+        },
+        {
+          "name": "Order of Magnitude: Empath Live, Volume 1",
+          "date": "2020-08-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/14fc520a-7958-4908-ac70-e0fe422c37a2"
+        },
+        {
+          "name": "Ass‐Sordid Demos: 1990–1996",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/17ebcefd-d520-3fce-a093-9c3c61f02c3b"
+        },
+        {
+          "name": "Live in Tokyo 1999",
+          "date": "2003-02-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/192bfaff-a0d1-3519-abab-6d63686b51dd"
+        },
+        {
+          "name": "Ocean Machine: Biomech",
+          "date": "1997-07-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1e7f3e84-474a-3851-8ba0-105ca22d5d19"
+        },
+        {
+          "name": "Guitar Improvisation #3",
+          "date": "2020-07-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/21e193a1-1103-44af-9ec1-a79a6c702c47"
+        },
+        {
+          "name": "Hyperdrive! (live in Leeds 2019)",
+          "date": "2021-02-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/25c08500-1e10-4bbc-9d02-feead754d0ca"
+        },
+        {
+          "name": "Infinity",
+          "date": "1998-10-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2be05549-ab98-38d3-a364-2118ebf7fa28"
+        },
+        {
+          "name": "淨化 Purge",
+          "date": "2024-03-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3098d36a-0443-4b81-a7d2-17ded17bae06"
+        },
+        {
+          "name": "Castaway / Genesis (live in London 2019)",
+          "date": "2020-08-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/30edbb6a-a434-4c25-8759-171604f05d35"
+        },
+        {
+          "name": "Eras III",
+          "date": "2018-12-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/313a4ba8-e2a8-425c-8837-3c2def4ac054"
+        },
+        {
+          "name": "Stormbending",
+          "date": "2021-06-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/41ab0b45-a2bc-44d6-9ffd-94575b9a034e"
+        },
+        {
+          "name": "The Puzzle / Snuggles",
+          "date": "2021-12-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/42693c3d-97fb-4356-beba-352d9f954aea"
+        },
+        {
+          "name": "Enter the City",
+          "date": "2026-03-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/490b218b-cd43-486b-97df-c665e2533e91"
+        },
+        {
+          "name": "Lightworker",
+          "date": "2022-10-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4ba3b308-cc76-49dd-801e-8e3b5af44654"
+        },
+        {
+          "name": "Lexin (The War - live)",
+          "date": "2026-09-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4cca8457-6be0-4959-84b5-b129ff297e11"
+        },
+        {
+          "name": "Aftermath",
+          "date": "2021-05-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/530b89b3-d885-4cc4-ab0c-a507239d7b9c"
+        },
+        {
+          "name": "Lightwork",
+          "date": "2022-11-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/56e0dd6f-1e18-479c-a591-4466f6c48466"
+        },
+        {
+          "name": "Ass‐Sordid Demos II",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/59d1dbfe-0bb3-3872-a390-11ba6ab14281"
+        },
+        {
+          "name": "Acoustically Inclined: Live in Leeds",
+          "date": "2021-03-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5a07fde5-35be-4488-b894-7fcd1f5439dd"
+        },
+        {
+          "name": "Devlab",
+          "date": "2004-12-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5da8857b-0cb5-3e45-84d2-be68a9554fbf"
+        },
+        {
+          "name": "Deconstructing Badgers",
+          "date": "2013-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5f60f065-daa6-4712-a770-0280fd468f9e"
+        },
+        {
+          "name": "VIP Stick",
+          "date": "2012-10-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/648d0bc5-da2c-4418-9d59-795307297f51"
+        },
+        {
+          "name": "Quarantine Concert #1: Benefit for Vancouver Hospital Foundation",
+          "date": "2020-04-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/65010030-2aba-4f5c-8130-305c2a10a1e0"
+        },
+        {
+          "name": "Free 10 Songs Compilation",
+          "date": "2011",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/671a0319-e206-4689-bb0a-070f569dfddb"
+        },
+        {
+          "name": "Mask",
+          "date": "2021-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a22e908-cf8d-4482-ac61-0c3409cdde61"
+        },
+        {
+          "name": "Eras IV",
+          "date": "2019-08-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6b3ef6e2-f647-42f6-a437-3c0ce0e547c9"
+        },
+        {
+          "name": "Guitar Improvisation #1",
+          "date": "2020-07-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6d7fdd8c-1be2-4187-8740-921bb5f3285a"
+        },
+        {
+          "name": "Eras I",
+          "date": "2018-06-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/71411339-fd26-4d0f-b06e-e2c3a4b47f7c"
+        },
+        {
+          "name": "Genesis",
+          "date": "2019-02-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/72a1e6af-5a1e-4ef9-88f8-df0071436c2a"
+        },
+        {
+          "name": "Moonpeople",
+          "date": "2022-08-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/74726723-905d-4a54-8a16-34cf716d894d"
+        },
+        {
+          "name": "Iceland",
+          "date": "2016-10-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/75a03fb5-9ae3-4b84-9031-48eabaa63050"
+        },
+        {
+          "name": "Prepare for War / The Big Snit",
+          "date": "2026-05-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/771529ec-1771-471d-ade1-9c1b397cbc02"
+        },
+        {
+          "name": "The Hummer",
+          "date": "2006-03-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/785d92fa-d1e8-363e-a65c-b2b922d6c2d1"
+        },
+        {
+          "name": "The Puzzle",
+          "date": "2021-10-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7c870369-f3b4-404e-b5b9-0fcde00f61b3"
+        },
+        {
+          "name": "Silent Night",
+          "date": "2020-11-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/80069ccb-9e34-42ae-8c9f-5a531e9929cb"
+        },
+        {
+          "name": "Evermore",
+          "date": "2019-03-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/87362962-f79a-4f6e-9072-a87963329598"
+        },
+        {
+          "name": "PowerNerd",
+          "date": "2024-08-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8a8772dd-bc9e-44da-a041-aaae8bc5ecdb"
+        },
+        {
+          "name": "We Are",
+          "date": "2013",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9008e4fa-a339-4356-acf6-94e25e728dc8"
+        },
+        {
+          "name": "First Play Live",
+          "date": "2019-05-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/96c62106-7575-42b0-8f3e-f20e9f04af56"
+        },
+        {
+          "name": "Call of the Void",
+          "date": "2022-09-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9981d978-fe36-4da9-8762-d4979944c6ec"
+        },
+        {
+          "name": "Eras II",
+          "date": "2018-08-31",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a2cdc37e-c2da-4020-97d5-45642057cd53"
+        },
+        {
+          "name": "Ziltoid the Omniscient",
+          "date": "2007-05-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a6b38bb5-56a6-302e-8688-e9d07f593fd0"
+        },
+        {
+          "name": "Discovering Devin Townsend",
+          "date": "2016-09-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/aacb4d1c-731e-4ef5-be8a-008b77174520"
+        },
+        {
+          "name": "Unplugged",
+          "date": "2011-08-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ac81de80-e2ed-46c9-81f9-3440a18f84de"
+        },
+        {
+          "name": "FROGS-R-NICE",
+          "date": "2017-11-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b889fdd8-1410-4e5a-99c9-ffdd702cf363"
+        },
+        {
+          "name": "PowerNerd",
+          "date": "2024-08-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b98e5031-cf0c-4f1e-829e-e9b455d951d5"
+        },
+        {
+          "name": "Christeen",
+          "date": "1998-12-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c17b3df5-b6ff-38f9-8e74-14a279d7169e"
+        },
+        {
+          "name": "Guitar Improvisation #2",
+          "date": "2020-07-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c32a9fa2-ad17-4834-8bd6-28cd21fbdec1"
+        },
+        {
+          "name": "Forgive Me",
+          "date": "2023-07-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c404a468-3b95-4ae0-b2e7-f108415f641d"
+        },
+        {
+          "name": "Epicloud Listening Party!",
+          "date": "2012-08-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c58b277b-7bb8-4925-baa9-fcc7162f2b74"
+        },
+        {
+          "name": "Jainism",
+          "date": "2024-09-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d06d31e2-bcc3-4043-9523-f1d90b51268a"
+        },
+        {
+          "name": "Home at Night",
+          "date": "2026-04-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d314b5d6-aa7d-45bd-b644-95df06c5aef8"
+        },
+        {
+          "name": "The Moth",
+          "date": "2026-05-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d408e36a-7328-40eb-b373-eaa5caa98651"
+        },
+        {
+          "name": "Physicist",
+          "date": "2000-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d8c46e09-12ba-39e1-a98a-2b83279c2fa8"
+        },
+        {
+          "name": "War (live in London 2019)",
+          "date": "2020-10-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dbc7fec9-3ecb-43dd-9a12-487aea29da9f"
+        },
+        {
+          "name": "Evermore",
+          "date": "2023-06-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dc850f43-1dde-43f2-aca3-6609ffc1f6f0"
+        },
+        {
+          "name": "Empath",
+          "date": "2019-03-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/de08cca0-fe80-492e-907c-e3cea7faaa05"
+        },
+        {
+          "name": "Snuggles",
+          "date": "2021-10-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/de57c0b6-df76-45be-b168-86085c3cb684"
+        },
+        {
+          "name": "Z²",
+          "date": "2014-10-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/df95b547-7548-4091-8e77-28bdb4ffc4cf"
+        },
+        {
+          "name": "The Moth",
+          "date": "2025-03-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e49834f8-d449-41b8-8a9b-e18f99a7b276"
+        },
+        {
+          "name": "8 of 10",
+          "date": "2005",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e7514af1-789a-4d57-8ef3-c220f621b9a6"
+        },
+        {
+          "name": "The Retinal Circus",
+          "date": "2013-09-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ea2349cc-09fc-402e-80c8-a8c639b88548"
+        },
+        {
+          "name": "Come Fly With Me",
+          "date": "2021-03-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ec6f7259-e936-4092-a3a8-77c3d3d541bd"
+        },
+        {
+          "name": "Why? (live in London 2019)",
+          "date": "2020-10-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/edff692c-0d2c-46c8-9a39-f01edf2be37d"
+        },
+        {
+          "name": "Infinity ∞ ~ Christeen + 4 Demos ~",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f49c6322-5a00-33e3-bc4e-62dc942cd4c6"
+        },
+        {
+          "name": "Dreampiece",
+          "date": "2022-02-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f588920c-a84a-4d5e-aaa2-57635b8fbab1"
+        },
+        {
+          "name": "Gratitude",
+          "date": "2024-10-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f88f46c0-6d79-471f-83a9-e435e5c9c379"
+        },
+        {
+          "name": "Terria",
+          "date": "2001-08-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fc580032-973b-3e15-a612-ff95f5c37f47"
+        }
+      ]
     }
   },
   "checked": {
@@ -8447,6 +8897,8 @@
     "def-leppard": "2026-10-05T22:27:11.946312+00:00",
     "deftones": "2026-10-05T22:27:15.979863+00:00",
     "deicide": "2026-10-06T02:25:58.539103+00:00",
-    "descape": "2026-10-06T02:26:02.680542+00:00"
+    "descape": "2026-10-06T02:26:02.680542+00:00",
+    "destruction": "2026-10-06T09:10:13.564209+00:00",
+    "devin-townsend": "2026-10-06T09:10:17.793606+00:00"
   }
 }
