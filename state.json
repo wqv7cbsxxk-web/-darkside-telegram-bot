@@ -399,49 +399,17 @@
     "19e9008f32933bd4dfc3570e0ecd44d6e30c3d2e",
     "738af95abab74b72a4494389c3b9f0a2a776bb23",
     "e6c5d928f546c8107ac5b8abb81334bc2f8e767e",
-    "23f6ef35aa84189c8fea84732a838b3db8741678"
+    "23f6ef35aa84189c8fea84732a838b3db8741678",
+    "2a908305b5c8fe928258fbde665a0e005d6a1927",
+    "78fd0c5395b7f5d3c19ba49188607b7084b579a9",
+    "9c6445453c9ade999331fd1ef05aa6c7f9b1f80b",
+    "0fd72b383e3aad40f8c57ef02550c3faddac50cc",
+    "84b9fe7b1552797dd56b86a1f1c335575848ec9f",
+    "ee6434eb3db652acdadb929b4be71efedce49de6",
+    "56ba94035f0889e96ad0c3813c27a2430811a02b",
+    "98cbd9c701434b64e3fc6b5f07a9e7ed20b7fd91"
   ],
   "recent_titles": [
-    {
-      "title": "Новое видео STEVEN WILSON",
-      "source": "Darkside",
-      "ts": 1790981904
-    },
-    {
-      "title": "Новое видео METHANE",
-      "source": "Darkside",
-      "ts": 1790981906
-    },
-    {
-      "title": "Новое видео KING 810",
-      "source": "Darkside",
-      "ts": 1790981911
-    },
-    {
-      "title": "Новое видео MISS MAY I",
-      "source": "Darkside",
-      "ts": 1790981919
-    },
-    {
-      "title": "KYLE THOMAS завершил запись вокала для TROUBLE",
-      "source": "Darkside",
-      "ts": 1790981926
-    },
-    {
-      "title": "CHRIS HARMS выпустит новый альбом зимой",
-      "source": "Darkside",
-      "ts": 1790981928
-    },
-    {
-      "title": "How AC/DC's Bon Scott impacted the life of Mastodon's founding guitarist, Brent Hinds",
-      "source": "Louder",
-      "ts": 1790992043
-    },
-    {
-      "title": "Last man standing: Buddy Guy looks back on the bluesmen who inspired him",
-      "source": "Louder",
-      "ts": 1790992066
-    },
     {
       "title": "Новый альбом AMON AMARTH доступен для прослушивания",
       "source": "Darkside",
@@ -1201,6 +1169,46 @@
       "title": "Why AC/DC's early British shows erupted in frenzy when Angus Young unleashed 'The Human Kangaroo'",
       "source": "Louder",
       "ts": 1791319635
+    },
+    {
+      "title": "Барабанщик ANGEL борется с раком",
+      "source": "Darkside",
+      "ts": 1791331788
+    },
+    {
+      "title": "Фрагмент концертного релиза ALCEST",
+      "source": "Darkside",
+      "ts": 1791331790
+    },
+    {
+      "title": "Body Prison Sign With Greyscale Records, Reveal New EP And “Jesus Wept” Video Featuring To The Grave’s Dane Evans",
+      "source": "ThePRP",
+      "ts": 1791331826
+    },
+    {
+      "title": "Chad Gray (Mudvayne, Etc.) Speaks On His Current Vocal Cord Injury: “To Tell You I’m Scared Would Be The Understatement Of My Life”",
+      "source": "ThePRP",
+      "ts": 1791331842
+    },
+    {
+      "title": "Parkway Drive Set Release Date For Orchestra Live Concert Film/Album “Home”, Debut “Prey” Performance",
+      "source": "ThePRP",
+      "ts": 1791331855
+    },
+    {
+      "title": "Hollywood Undead To Tour Europe And The UK In Early 2027",
+      "source": "ThePRP",
+      "ts": 1791331859
+    },
+    {
+      "title": "Jim Bakker, televangelist who inspired songs by Ozzy Osbourne, Iron Maiden and Genesis, dead at 86",
+      "source": "Louder",
+      "ts": 1791331876
+    },
+    {
+      "title": "Heavy/Hitter Are Recording Their Debut Album",
+      "source": "ThePRP",
+      "ts": 1791331879
     }
   ],
   "initialized_sources": [
@@ -1869,7 +1877,7 @@
       "title": "Mudvayne’s Chad Gray Talks Vocal Injuries: “I’m F***ing Scared to Death”",
       "link": "https://metalinjection.net/news/mudvaynes-chad-gray-talks-vocal-injuries-im-fing-scared-to-death",
       "rss_body": "His vocal coach let him know things were indeed not right.",
-      "tags": "Latest News",
+      "tags": "Latest News mudvayne featured1",
       "category": "Хэви-метал",
       "published": "2026-10-06T15:05:02+00:00",
       "id": "d80f383e637b1bb4a631dcf007f52dcf7d130b6c",
@@ -2017,9 +2025,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-06T19:37:33+00:00",
       "id": "543a6329f6ea905e408e5b506c5fd994ed0e6e89",
-      "duplicate_ids": [
-        "faf688f1b9c533b49b05f3e1db70b069a2f4a4a5"
-      ],
       "retry_after": 1791319721
     },
     {
@@ -2116,6 +2121,165 @@
       "category": "Экстремальный метал",
       "published": "2026-10-06T15:58:20+00:00",
       "id": "5a9581e4cf7f39f802dcda962ccb6c900d870311",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Watch Nita Strauss return to the stage as Alice Cooper performs halftime stadium show in Las Vegas",
+      "link": "https://www.loudersound.com/bands-artists/nita-strauss-return-to-the-stage-alice-cooper",
+      "rss_body": "Guitarist\n\nNita Strauss\n\nhas returned to the stage with\n\nAlice Cooper\n\nfor the first time since leaving his band early this year to go on maternity leave.\n\nStrauss, who gave birth to a son in May, joined Cooper onstage at Allegiant Stadium in Las Vegas, Nevada, on Sunday, as the singer provided the halftime entertainment at the NFL game between the Kansas City Chiefs and the Las Vegas Raiders.\n\nPosting on Instagram, Strauss wrote, \"Quick trip to Vegas for a super fun (but short) Alice Cooper set at Allegiant Stadium Raiders v Chiefs halftime today! Heartbreaking end to the game, but we had a blast.\"\n\nStrauss – who is a Los Angeles Rams fan – joined Cooper & Co. as they performed three old-school classics:\n\nNo More Mr Nice Guy, I'm Eighteen\n\nand\n\nSchool's Out\n\n.\n\nAlas, their performance failed to inspire the home team, as the Chiefs narrowly defeated the Raiders 30-27.\n\nStrauss will be returning to Las Vegas in November as Cooper resumes his Welcome To My Nightmare residency with magician Criss Angel.\n\n“Nita opened our 2026 touring season in Las Vegas back in March and is now returning to close out 2026 with us there, and we’re really looking forward to welcoming the Hurricane back onto the stage,” said Cooper last month. “Bringing Nita back after she took a break to start a family is the perfect way to wrap up 2026.”\n\nCooper also resumes his Alice Attic tour later this month, with\n\nCrossbone Skully\n\nguitarist\n\nAnna Cara\n\nretaining her position as Strauss's temporary replacement. Cooper also begins his\n\nUK book tour\n\nthis weekend. Full dates below.\n\nCooper has also announced that he'll be hosting\n\nAlice In Underland\n\n, a new weekly SiriusXM show available via\n\nLittle Steven’s Underground Garage\n\n(Ch. 21).\n\nAlice Cooper: Devil On My Shoulder UK book tour 2026\n\nOct 11: Cardiff New Theatre\n\nOct 12: Cambridge Corn Exchange\n\nOct 13: London Palladium\n\nOct 14: Brighton Dome\n\nOct 16: Manchester Opera House\n\nOct 17: Stockton Globe\n\nOct 19: Glasgow Pavilion Theatre\n\nOct 20: Wolverhampton Civic Hall\n\nAlice Cooper: Alice's Attic tour 2026\n\nOct 27: Clearwater Ruth Eckerd Hall, FL\n\nOct 30: Richmond Altria Theater, VA\n\nOct 31: Atlantic City Tropicana Casino & Resort, NJ\n\nNov 01: Bethlehem Wind Creek Bethlehem, PA\n\nNov 04: Hershey Theatre, PA\n\nNov 06: Windsor Caesars Windsor – The Colosseum, ON\n\nNov 07: Kalamazoo Wings Event Center, MI\n\nNov 08: Waukegan Genesee Theatre, IL\n\nNov 10: St. Louis Stifel Theatre, MO\n\nNov 11: Park City Hartman Arena, KS\n\nNov 14: Indio Fantasy Springs Casino, CA\n\nNov 15: Prescott Valley Findlay Toyota Center, AZ\n\nNov 17: San Diego Cal Coast Credit Union Open Air Theatre, CA\n\nNov 18: San Jose San Jose Civic, CA\n\nNov 20: Wheatland Hard Rock Live at Hard Rock Hotel + Casino, CA\n\nNov 21: Reno Grand Theatre at Grand Sierra Resort + Casino, NV\n\nFind Alice Cooper tickets\n\n.\n\nAlice Cooper and Criss Angel: Welcome To My Nightmare residency\n\nNov 27: Las Vegas Criss Angel Theater at Planet Hollywood Resort & Casino, NV\n\nNov 28: Las Vegas Criss Angel Theater at Planet Hollywood Resort & Casino, NV\n\nNov 29: Las Vegas Criss Angel Theater at Planet Hollywood Resort & Casino, NV\n\nDec 03: Las Vegas Criss Angel Theater at Planet Hollywood Resort & Casino, NV\n\nDec 04: Las Vegas Criss Angel Theater at Planet Hollywood Resort & Casino, NV\n\nDec 05: Las Vegas Criss Angel Theater at Planet Hollywood Resort & Casino, NV\n\nDec 06: Las Vegas Criss Angel Theater at Planet Hollywood Resort & Casino, NV\n\nFind Alice Cooper and Criss Angel tickets\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-07T00:05:00+00:00",
+      "id": "6647bdb536acdbc34a10d112896eaa4201b2d9d1",
+      "retry_after": 1791332119
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Death Angel Founding Bassist Dennis Pepa Reveals Stage 4 Cancer Diagnosis, Launches GoFundMe",
+      "link": "https://metalinjection.net/news/death-angel-founding-bassist-dennis-pepa-reveals-stage-4-cancer-diagnosis-launches-gofundme",
+      "rss_body": "\"This has to be part of my fight…because there's still so much I want to stick around for.\"",
+      "tags": "Latest News DEATH ANGEL",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T23:27:17+00:00",
+      "id": "a569855f7118ed4136f09e6a2c0fb6806fb07db1",
+      "retry_after": 1791332119
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "War From A Harlots Mouth Release Newly Remastered Version Of “Voyeur”",
+      "link": "https://www.theprp.com/2026/10/06/news/war-from-a-harlots-mouth-release-newly-remastered-version-of-voyeur/",
+      "rss_body": "On deluxe vinyl and digital formats.",
+      "tags": "News War From A Harlots Mouth",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T22:10:26+00:00",
+      "id": "330b0f6482451a0a58089ddcd64b571b5d8a104b",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Лидер MEGADETH хочет нырнуть поглубже",
+      "link": "http://www.darkside.ru/news/184292/",
+      "rss_body": "Во время сессии вопросов и ответов перед выступлением MEGADETH 24 сентября в Grammy Museum в Лос-Анджелесе основатель коллектива Dave Mustaine заявил, что по-прежнему держит слово: 17-й студийный альбом, возглавивший чарты, станет для команды последним. Однако в будущем MEGADETH всё же могут выпустить какой-то дополнительный материал.\n\nРассуждая о творческом процессе, Mustaine объяснил, что в студию коллектив всегда приходит с готовым планом, но иногда планы меняются.\n\n«Мы всегда приходили в студию с подготовленными песнями. Но если ты автор, ты будешь писать. Ты приходишь в студию записывать альбом, и просто взять и выключить творческий поток не так-то легко, смекаете?\n\nЯ не могу сказать, сколько мегабайт риффов остаётся в конце наших песен: мы прослушиваем композицию, и тут рождается новая идея. Я или кто-то из ребят говорим: \"Промотай до конца, перемотай в самый конец песни\", и мы записываем новую идею туда. Когда весь альбом готов, мы возвращаемся и собираем все эти обрывки.\n\nТак что в какой-то момент мы вернёмся к этой записи, посмотрим на все недописанные песни и выясним, что у нас есть. Может быть, мы даже обнаружим новые песни, оставшиеся после сессий».\n\nПозже Mustaine уточнил: если такой материал и увидит свет, то он будет взят из уже записанных сессий.\n\n«У нас есть фрагменты материала, которые остались в конце нескольких треков на разных альбомах, — рассказал он. — Мы можем вернуться и посмотреть, есть ли там что-нибудь стоящее, потому что, чёрт возьми, если там найдётся, скажем, половина \"Holy Wars\" и половина \"Black Friday\", я это выпущу.\n\nНо что касается студийной работы, то моя рука... эта шишка посреди ладони, ей становится всё хуже, и в конце концов это приведёт к тупику. Когда этот день настанет, я пойду на операцию, и либо она поможет, либо нет. А если не поможет — что ж, я прожил чертовски яркую творческую жизнь!»\n\nВ августе 2025 года Dave Mustaine объявил, что одноимённый 17-й студийный альбом MEGADETH станет последним. Пластинка, вышедшая в начале 2026 года, дебютировала на первом месте в Billboard 200 в США, а также возглавила чарты ещё в 10 странах мира. Решение уйти на покой он объяснил заболеванием под названием контрактура Дюпюитрена. По данным Mayo Clinic, при нём один или несколько пальцев сгибаются в сторону ладони и не могут полностью разогнуться. Лечение способно облегчить симптомы и замедлить прогрессирование, но излечить контрактуру Дюпюитрена нельзя.\n\nВ декабре 2025 года в интервью испанскому каналу MariskalRockTV Mustaine пояснил, что не хочет делать операцию до завершения глобального прощального тура коллектива.\n\n«Я отложу это до тех пор, пока не буду готов рискнуть. Потому что если я попробую сейчас, когда я в форме на 95 процентов, сделаю операцию, и она отбросит меня назад, это будет плохое решение.\n\nА если подождать, пока руки начнут мешать, попробовать, и это не сработает, то тогда я уже объеду все города, со всеми попрощаюсь и не оставлю ничего недосказанным или незавершённым».\n\nВ конце 2025 года Mustaine рассказал журналу Kerrang!, что прощальная серия концертов MEGADETH может затянуться надолго.\n\n«Мы всерьёз говорим о гастролях ещё на три-пять лет. А если мы будем ездить так долго, то, чёрт побери, я приближаюсь к дню рождения, о котором даже думать не хочу», — добавил он, имея в виду, что в 2031 году ему исполнится 70 лет.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T22:09:05+00:00",
+      "id": "c1c75846a9109996fc7fd73efd8da21e91d4b549",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Starset’s “T r a n s f u s 1 0 n” Music Video Is Now Streaming",
+      "link": "https://www.theprp.com/2026/10/06/news/starsets-t-r-a-n-s-f-u-s-1-0-n-music-video-is-now-streaming/",
+      "rss_body": "Once again directed by Jeb Hardwick.",
+      "tags": "News Starset",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T21:59:09+00:00",
+      "id": "74c37d2d7031a94d7c68f012d01da753693a303d",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Drug Church Schedule November Mini-Tour",
+      "link": "https://www.theprp.com/2026/10/06/news/drug-church-schedule-november-mini-tour/",
+      "rss_body": "A trio of shows to follow their 'Flyover Fest' appearance.",
+      "tags": "News Drug Church",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T21:51:32+00:00",
+      "id": "fc40d92818ebe15880711360152f5e3b238d1267",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Obscura’s “The Prolonging” Music Video Premieres",
+      "link": "https://www.theprp.com/2026/10/06/news/obscuras-the-prolonging-music-video-premieres/",
+      "rss_body": "\"'The Prolonging' became one of the shortest and fastest tracks we have delivered to date...\"",
+      "tags": "News Obscura Steffen Kummerer",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T21:43:27+00:00",
+      "id": "eb209b6bb611fb2c28acf4cd548f1aca4781a278",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Dieth Part Ways With David Ellefson Ahead Of New Single “Pound Of Flesh”",
+      "link": "https://www.theprp.com/2026/10/06/news/dieth-part-ways-with-david-ellefson-ahead-of-new-single-pound-of-flesh/",
+      "rss_body": "They've also secured a new label home.",
+      "tags": "News David Ellefson Dieth",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T21:28:28+00:00",
+      "id": "b5eefe4802dfdf326eadd59daf99c3e06c5e36f0",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "DAVID ELLEFSON больше не в DIETH",
+      "link": "http://www.darkside.ru/news/184293/",
+      "rss_body": "DIETH подписали контракт с Fireflash Records, что открывает новую главу в истории коллектива. Вместе с договором группа представила обновлённый состав: к ней присоединился шведский басист Tobias Cristiansson, известный по работе с GRAVE, NECROPHOBIC и DISMEMBER. Обновлённый коллектив готовится запустить следующий этап своего пути: с новой музыкой, новым видео и вторым студийным альбомом.\n\nВокалист и гитарист DIETH Guilherme Miranda так прокомментировал сделку с лейблом:\n\n«Это именно тот дом, который нам нужен: здесь разделяют наше видение того, куда можно привести группу. Мы вложили в новую музыку всё сердце и всю душу, и, честно говоря, я просто не могу дождаться того, что мы приготовили. Новый состав, новая музыка, новый альбом — это только начало».\n\nГоворя о приходе Cristiansson'а на смену David Ellefson (экс-MEGADETH), Miranda отметил:\n\n«С огромным удовольствием приветствую в DIETH моего давнего друга Tobias'а. Его послужной список говорит сам за себя, и он идеально вписывается в то, что мы строим. Я безмерно счастлив и горд, что он с нами в этой новой главе».\n\nПервым знакомством с грядущим материалом станет сингл \"Pound Of Flesh\", один из самых brutal-ных, пожалуй, не подходит; один из самых жестоких на сегодня треков группы, который и откроет новый этап жизни DIETH. Песня выйдет вместе с клипом 16 октября.\n\nMiranda рассказывает:\n\n«\"Pound Of Flesh\" получилась свирепой, именно такой, какой я и хотел её видеть. И по музыке, и по тексту это одна из моих любимых вещей среди всего, что мы сделали. Я очень взволнован, ведь для DIETH это новая глава. Мне не терпится, чтобы вы услышали и увидели то, над чем мы работали!»\n\nDIETH образовались в 2022 году в польском Гданьске, а в 2023-м выпустили дебютный альбом \"To Hell And Back\" на Napalm Records. Тем летом коллектив гастролировал по Европе: выступал как хедлайнер на собственных шоу и на фестивалях Graspop Metal Meeting, MotoCultor, Metal On The Hill и Vagos, а также играл на разогреве у TESTAMENT и SEPULTURA.\n\nСевероамериканский дебют группа совершила в январе 2024 года, выступив в качестве прямого саппорта METAL ALLEGIANCE в клубе House Of Blues Anaheim в Калифорнии, а в июле того же года отыграла несколько дат в Европе вместе с KK'S PRIEST.\n\nПоследний на данный момент сингл DIETH, \"Animal Me\", вышел в ноябре 2024 года на всех цифровых платформах.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T21:27:01+00:00",
+      "id": "16a2386a521923b4779359fea87783d91de53926",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео JOHN 5",
+      "link": "http://www.darkside.ru/news/184295/",
+      "rss_body": "The Phantom, новое видео JOHN 5, доступно для просмотра ниже. Режиссером клипа был Mike Savage партии ударных исполнил Joey Aguirre, а за сведение отвечал Barry Pointer. Этот трек выпущен специально по случаю выпуска новых именных гитар.\n\nFender Musical Instruments Corporation (FMIC) и Fender Custom Shop (FCS) объявили о выпуске трёх новых сигнатурных Telecaster, посвящённых искусству John 5, не признающему жанровых границ: Fender John 5 Phantom Telecaster, Fender John 5 Ghost Telecaster и Fender Custom Shop John 5 \"Phantom\" Telecaster. Каждая из гитар передаёт отдельную грань технического мастерства, неповторимого стиля и музыкальной разносторонности John 5'а, делая его фирменное звучание и дизайн доступными большему числу музыкантов в разных ценовых категориях.\n\n«Не знаю, то ли Telecaster выбрала меня, то ли я её, — сказал John 5. — Меня так тянуло к этой форме.\n\nС самого детства Fender был для меня вершиной, лучшим из лучшего, и я мечтал только об одном: чтобы у меня была идеальная гитара и чтобы она радовала и других людей».\n\nПодход John 5 к Telecaster демонстрирует безграничную универсальность инструмента, выводя его культовый дизайн на смелую новую территорию. Он одинаково уверенно чувствует себя и в шреддинге, залитом дисторшном, и в кантри-технике чикен-пикинга, а всей своей карьерой доказывает: для него нет закрытых жанров, стилей и настроений. Преданный поклонник Telecaster с юных лет, он благодаря технически сложной, театральной игре стал одним из самых узнаваемых гитаристов рока.\n\n«John 5 — один из самых самобытных гитаристов современности: он выводит Telecaster за пределы жанров и условностей, и эти три инструмента отражают такую разносторонность, — отметил Джастин Норвелл, директор Fender по гитарным продуктам.\n\nВозвращение Ghost в линейку Fender делает его сигнатурный дизайн доступнее для более широкого круга игроков. Вместе эта коллекция даёт поклонникам любого уровня возможность подключиться к его звуку».\n\nТри сигнатурные модели переводят звук и визуальный стиль John 5 в самостоятельные инструменты, от основной линейки Fender до Fender Custom Shop:\n\nJohn 5 Phantom Telecaster\n\nХард-роковая версия классической Telecaster от John 5. Гитара выполнена в притягательном чёрном цвете с головкой грифа в тон. Здесь сочетаются хамбакеры DiMarzio D Activator и тремоло Floyd Rose FRTS2000 Special Series, что даёт мощный выходной сигнал и возможность экстремального изменения высоты тона.\n\nМинималистичная компоновка органов управления, включающая единственную ручку громкости и кнопку килсвитч, оставляет фокус на самой игре, а обтекаемый дизайн выводит Telecaster на смелую новую территорию.\n\nJohn 5 Ghost Telecaster\n\nАскетичная Telecaster с высоким выходным сигналом, созданная под фирменное звучание John 5. Ghost продолжает линейку Fender в притягивающем взгляд отделке Arctic White с головкой грифа в тон, хромированной фурнитурой и красными акцентами.\n\nКорпус из ньято придаёт модели особое ощущение в руках, а хамбакеры DiMarzio D Activator выдают мощные, насыщенные гейном тона, которыми знаменит John 5. Упрощённая схема управления с единственной ручкой громкости и килсвитчем сохраняет сосредоточенность дизайна и готовность к сцене.\n\nFender Custom Shop John 5 \"Phantom\" Telecaster\n\nЭта модернизированная Telecaster, созданная в Fender Custom Shop, сочетает глянцево-чёрный двухсоставной корпус из отборной ольхи с Ultra Contours и кленовый гриф с профилем Modern \"C\". Накладка грифа из эбена с плоским ламинированием имеет составной радиус 10\"–14\" и 22 ладов medium jumbo.\n\nПара хамбакеров DiMarzio D Activator обеспечивает собранные, мощные тона, а двойной тремоло Floyd Rose Original позволяет экстремально менять высоту звука, сохраняя стабильность строя. Среди дополнительных премиальных деталей: боковые маркеры Luminlay, чёрная фурнитура, запирающиеся колки и сатиновая уретановая отделка грифа.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T20:59:05+00:00",
+      "id": "91f3aec972ddb1120548862cc92ec5a8038d35f7",
+      "duplicate_ids": [
+        "5041b072043af0ca664054debebe73d0c1bd863e"
+      ],
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео ALTER BRIDGE",
+      "link": "http://www.darkside.ru/news/184294/",
+      "rss_body": "Tested and Able, новое видео группы ALTER BRIDGE, доступно для просмотра ниже. Эта песня взята из альбома \"Alter Bridge\", выпущенного девятого января на Napalm Records:\n\n01. Silent Divide (5:06)\n\n02. Rue The Day (4:46)\n\n03. Power Down (4:08)\n\n04. Trust In Me (4:48)\n\n05. Disregarded (3:55)\n\n06. Tested And Able (4:36)\n\n07. What Lies Within (5:07)\n\n08. Hang By A Thread (4:11)\n\n09. Scales Are Falling (5:54)\n\n10. Playing Aces (4:05)\n\n11. What Are You Waiting For (5:00)\n\n12. Slave To Master (9:03)",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T20:15:02+00:00",
+      "id": "385b6908057393a1fa2ebbfcf202e7f7efbf133d",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео RESOLVE",
+      "link": "http://www.darkside.ru/news/184285/",
+      "rss_body": "Godtier, новое видео RESOLVE, доступно для просмотра. Этот трек взят из нового альбома Spread My Ashes Into Space, релиз которого намечен на 15 января.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T19:43:30+00:00",
+      "id": "23b7d118b8f7246e57ecccf155640bb85e6df2b9",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Видео с текстом от NIGHT IN GALES",
+      "link": "http://www.darkside.ru/news/184286/",
+      "rss_body": "Emberfield Veil, новое видео с текстом от NIGHT IN GALES, доступно для просмотра. Этот трек взят из нового альбома Bitter Harvest, релиз которого намечен на 13 ноября:\n\n1. The Great Abyss\n\n2. A Void Devours\n\n3. Hollow Ember\n\n4. Emberfield Veil\n\n5. Wake to Cease\n\n6. Seas of Red\n\n7. Dying Dawn\n\n8. Where Silhouettes Burn\n\n9. Sirens Fade",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-06T19:10:24+00:00",
+      "id": "e33c5d9b9d4f27155d560363f56e14de7e26b10a",
       "retry_after": 0
     }
   ]
