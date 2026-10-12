@@ -13,8 +13,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://alicecooper.com",
       "reference_url": "https://en.wikipedia.org/wiki/Alice_Cooper",
-      "reference_checked_at": "2026-10-02T02:21:40.038085+00:00",
-      "tour_attempted_at": "2026-10-06T20:47:22.782159+00:00"
+      "reference_checked_at": "2026-10-12T09:21:33.979331+00:00",
+      "tour_attempted_at": "2026-10-06T20:47:22.782159+00:00",
+      "instruments": "Vocals harmonica",
+      "reference_attempted_at": "2026-10-12T09:21:33.979469+00:00"
     },
     "accept": {
       "origin": "Solingen , West Germany",
@@ -45,8 +47,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://acceptworldwide.com",
       "reference_url": "https://en.wikipedia.org/wiki/Accept_%28band%29",
-      "reference_checked_at": "2026-10-02T02:21:40.178972+00:00",
-      "tour_attempted_at": "2026-10-06T20:47:25.375013+00:00"
+      "reference_checked_at": "2026-10-12T09:21:34.106657+00:00",
+      "tour_attempted_at": "2026-10-06T20:47:25.375013+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T09:21:34.106684+00:00"
     },
     "ac-dc": {
       "origin": "Sydney , New South Wales, Australia",
@@ -77,8 +81,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://acdc.com",
       "reference_url": "https://en.wikipedia.org/wiki/AC/DC",
-      "reference_checked_at": "2026-10-02T02:21:40.365111+00:00",
-      "tour_attempted_at": "2026-10-06T20:47:25.926958+00:00"
+      "reference_checked_at": "2026-10-12T09:21:34.472020+00:00",
+      "tour_attempted_at": "2026-10-06T20:47:25.926958+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T09:21:34.472212+00:00"
     },
     "aerosmith": {
       "origin": "Boston , Massachusetts, U.S.",
@@ -125,8 +131,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://aerosmith.com",
       "reference_url": "https://en.wikipedia.org/wiki/Aerosmith",
-      "reference_checked_at": "2026-10-02T02:21:40.607333+00:00",
-      "tour_attempted_at": "2026-10-07T00:11:27.717360+00:00"
+      "reference_checked_at": "2026-10-12T09:21:34.837747+00:00",
+      "tour_attempted_at": "2026-10-07T00:11:27.717360+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T09:21:34.837771+00:00"
     },
     "arch-enemy": {
       "origin": "Halmstad , Sweden",
@@ -157,8 +165,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://archenemy.net",
       "reference_url": "https://en.wikipedia.org/wiki/Arch_Enemy",
-      "reference_checked_at": "2026-10-02T02:21:46.476269+00:00",
-      "tour_attempted_at": "2026-10-07T00:11:28.179975+00:00"
+      "reference_checked_at": "2026-10-12T09:21:34.926452+00:00",
+      "tour_attempted_at": "2026-10-07T00:11:28.179975+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T09:21:34.926478+00:00"
     },
     "at-the-gates": {
       "origin": "Gothenburg , Sweden",
@@ -185,8 +195,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.atthegates.se/",
       "reference_url": "https://en.wikipedia.org/wiki/At_The_Gates",
-      "reference_checked_at": "2026-10-02T02:21:46.785553+00:00",
-      "tour_attempted_at": "2026-10-07T00:11:29.613842+00:00"
+      "reference_checked_at": "2026-10-12T09:21:35.170915+00:00",
+      "tour_attempted_at": "2026-10-07T00:11:29.613842+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T09:21:35.170939+00:00"
     },
     "alice-in-chains": {
       "origin": "Seattle , Washington, United States",
@@ -225,7 +237,7 @@
       "website": "http://blacksabbath.com",
       "reference_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
       "reference_checked_at": "2026-10-02T02:21:51.728673+00:00",
-      "tour_attempted_at": "2026-10-02T14:05:49.489200+00:00"
+      "tour_attempted_at": "2026-10-12T09:21:39.276300+00:00"
     },
     "ayreon": {
       "origin": "Waalwijk , North Brabant , Netherlands",
@@ -241,7 +253,7 @@
       "website": "http://ayreon.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ayreon",
       "reference_checked_at": "2026-10-02T02:21:51.803463+00:00",
-      "tour_attempted_at": "2026-10-02T14:05:50.807035+00:00"
+      "tour_attempted_at": "2026-10-12T09:21:40.672790+00:00"
     },
     "between-the-buried-and-me": {
       "origin": "Raleigh, North Carolina , U.S.",
@@ -564,55 +576,6 @@
       },
       "events": [
         {
-          "date": "2026-10-02",
-          "city": "Budapest",
-          "country": "Hungary",
-          "venue": "Laszlo Papp Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-04",
-          "city": "Bratislava",
-          "country": "Slovakia",
-          "venue": "Tipos Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-05",
-          "city": "Vienna",
-          "country": "Austria",
-          "venue": "Stadthalle",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-07",
-          "city": "Prague",
-          "country": "Czech Republic",
-          "venue": "O2 Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-08",
-          "city": "Lodz",
-          "country": "Poland",
-          "venue": "Atlas Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-10",
-          "city": "Belgrade",
-          "country": "Serbia",
-          "venue": "Stark Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-11",
-          "city": "Skopie",
-          "country": "North Macedonia",
-          "venue": "Boris Trajkovski Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
           "date": "2026-10-13",
           "city": "Athens",
           "country": "Greece",
@@ -852,10 +815,10 @@
         }
       ],
       "tour_source": "https://deep-purple.com/tour-dates-2/",
-      "tour_checked_at": "2026-10-02T14:05:48.300600+00:00",
+      "tour_checked_at": "2026-10-12T09:21:37.431142+00:00",
       "qid": "Q101505",
       "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
-      "tour_attempted_at": "2026-10-02T14:05:48.300615+00:00"
+      "tour_attempted_at": "2026-10-12T09:21:37.431167+00:00"
     },
     "devin-townsend": {
       "origin": "",
@@ -1843,7 +1806,7 @@
       "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
       "qid": "Q18557",
       "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
-      "tour_attempted_at": "2026-10-02T14:05:49.199974+00:00"
+      "tour_attempted_at": "2026-10-12T09:21:38.706345+00:00"
     },
     "nightwish": {
       "origin": "Kitee , Finland",

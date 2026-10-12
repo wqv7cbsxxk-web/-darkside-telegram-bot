@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-06T09:10:26.786545+00:00"
+      "bandcamp_checked_at": "2026-10-12T09:21:58.875854+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -9955,6 +9955,638 @@
           "source_url": "https://musicbrainz.org/release-group/fa982c74-8543-4297-9ddf-2f159bc3dd61"
         }
       ]
+    },
+    "enter-shikari": {
+      "name": "Enter Shikari",
+      "musicbrainz_url": "https://musicbrainz.org/artist/329f95db-f02e-40bf-a5f7-0dea11529ce3",
+      "reference_checked_at": "2026-10-12T09:21:49.719395+00:00",
+      "genres": "alternative rock, electronic, electronicore, experimental, metalcore, nintendocore, post-hardcore, rave, rock, screamo",
+      "website": "https://www.entershikari.com/",
+      "members": [
+        {
+          "name": "Chris Batten",
+          "role": "bass guitar, lead vocals, original",
+          "begin": "2003"
+        },
+        {
+          "name": "Rory Clewlow",
+          "role": "background vocals, guitar, original",
+          "begin": "2003"
+        },
+        {
+          "name": "Rou Reynolds",
+          "role": "electronic instruments, guitar, keyboard, lead vocals, original, synthesizer",
+          "begin": "2003"
+        },
+        {
+          "name": "Rob Rolfe",
+          "role": "background vocals, drums (drum set), original, percussion",
+          "begin": "2003"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/329f95db-f02e-40bf-a5f7-0dea11529ce3",
+      "albums": [
+        {
+          "name": "Losing My Grip",
+          "date": "2024-01-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0057046a-c60c-4e93-9f26-3303b6faca91"
+        },
+        {
+          "name": "Live & Acoustic at Alexandra Palace",
+          "date": "2016-02-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/03f7751b-8a53-4961-87c2-1a6374bf9c70"
+        },
+        {
+          "name": "Torn Apart (Joe Ford remix)",
+          "date": "2016-08-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/04fba0ba-7d5a-47cc-82d6-322921cb55dc"
+        },
+        {
+          "name": "Arguing With Thermometers (Alphabet's Heaven remix)",
+          "date": "2012",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/06dd6c26-5273-4a9c-b5c5-6046e222fec1"
+        },
+        {
+          "name": "Enter Shikari Live at Deezer",
+          "date": "2016-04-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/07f4f940-24af-400f-80dd-0e5f96f65c57"
+        },
+        {
+          "name": "A Flash Flood of Colour",
+          "date": "2012-01-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0924c74c-48ba-4373-b19a-718cfbe297a0"
+        },
+        {
+          "name": "Live in London W6. March 2012: Bootleg Series, Vol. 4",
+          "date": "2012-12-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0b1be5fc-1689-45c7-aaf7-11cc57236474"
+        },
+        {
+          "name": "The Void Stares Back",
+          "date": "2022-08-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0cc60e22-7b29-4fb5-88bd-bf2859212620"
+        },
+        {
+          "name": "Live at Alexandra Palace",
+          "date": "2016-11-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0f422fd2-53f6-4f0a-a956-9dd7957d8cc8"
+        },
+        {
+          "name": "Live at Alexandra Palace 2",
+          "date": "2019-02-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/10b9e2b5-86d2-4434-9db1-b81e1d21eed1"
+        },
+        {
+          "name": "Bull",
+          "date": "2022-11-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/167d71ce-4225-4965-b803-f28be0cc8231"
+        },
+        {
+          "name": "Lose Your Self",
+          "date": "2026-04-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1d77908a-7d6a-43b4-8ea1-23c98c291ca3"
+        },
+        {
+          "name": "From Nothing",
+          "date": "2023-10-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/31d51c7a-2b02-40ed-98eb-a9eb356936fc"
+        },
+        {
+          "name": "Juggernauts",
+          "date": "2009-06-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/329ef7af-45e0-3817-bf8f-f2605847fbdc"
+        },
+        {
+          "name": "Arguing With Thermometers",
+          "date": "2012-01-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/36251352-2bff-43e2-a1b3-91cdc0cbf6d4"
+        },
+        {
+          "name": "{ The Dreamer’s Hotel } (Bob Vylan remix)",
+          "date": "2020-09-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/38a9b8b7-246d-4903-8fdb-7bcba43b087e"
+        },
+        {
+          "name": "Solidarity (Rout remix)",
+          "date": "2010",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3a2dcb2e-4240-47e7-9c9f-2bb889adda13"
+        },
+        {
+          "name": "Live Slow. Die Old. EP.",
+          "date": "2017-09-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3a98cec2-c578-4263-8464-9fccd7317124"
+        },
+        {
+          "name": "Common Dreads",
+          "date": "2009-06-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3abb6d1a-aacb-39d1-96b9-15a4ace58ba5"
+        },
+        {
+          "name": "(pls) set me on fire",
+          "date": "2023-01-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/412e3118-fc96-4735-8081-3b3c419d155f"
+        },
+        {
+          "name": "The Sights",
+          "date": "2017-10-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/44c7622e-f5f6-43b5-9081-5a87db03c274"
+        },
+        {
+          "name": "The Last Garrison (S.P.Y remix)",
+          "date": "2015-10-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4893189c-4609-4884-a36e-d72bd96105b2"
+        },
+        {
+          "name": "The Mindsweep: Hospitalised",
+          "date": "2015-10-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/48ab4cb2-6395-43f6-8924-fdae34b3cac8"
+        },
+        {
+          "name": "Take My Country Back",
+          "date": "2018-04-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4a1686e9-9de6-4be3-81cd-d982d43e07cf"
+        },
+        {
+          "name": "Never Let Go of the Microscope",
+          "date": "2014-11-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4aa93600-da62-4cac-9737-3c0a68e0385d"
+        },
+        {
+          "name": "The Quickfire Round (Bootleg Series Vol. 8)",
+          "date": "2018-07-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4ab94bc4-8ecd-4334-be69-5398f4ae1ea8"
+        },
+        {
+          "name": "Live in London NW5 2012 EP",
+          "date": "2012-05-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4b07aac7-4a8c-4dfb-82e0-ca01fb7d6804"
+        },
+        {
+          "name": "Warm Smiles Do Not Make You Welcome Here",
+          "date": "2011",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4de6bb12-e525-481b-ab3b-bfaaa9613d0a"
+        },
+        {
+          "name": "Rabble Rouser",
+          "date": "2017-09-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4f660b3b-344f-452b-aea0-09762767f59b"
+        },
+        {
+          "name": "Undercover Agents",
+          "date": "2019-03-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/51484a83-7f3d-41a1-a53d-3db0de29ae42"
+        },
+        {
+          "name": "Jonny Sniper",
+          "date": "2007-02-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/51d82766-1ecd-3d74-b1f6-32c67c5c90c2"
+        },
+        {
+          "name": "Dancing on the Frontline",
+          "date": "2024-07-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/54b7d133-78d0-4950-b328-bc51100ca36f"
+        },
+        {
+          "name": "We Can Breathe in Space, They Just Don’t Want Us to Escape",
+          "date": "2008-11-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5533bed2-ab6e-3461-8035-0af17933ae65"
+        },
+        {
+          "name": "Sssnakepit (Live at Wembley)",
+          "date": "2025-05-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/567b1c18-84f1-44ed-a704-845e3afde6f4"
+        },
+        {
+          "name": "No Sleep Tonight",
+          "date": "2009-07-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/59a1bffa-c652-4d8a-b43b-099c812231aa"
+        },
+        {
+          "name": "Destabilise",
+          "date": "2010-10-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/59fc6083-7391-427e-9087-0b5e0d942042"
+        },
+        {
+          "name": "A Kiss for the Whole World",
+          "date": "2023-04-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5db5d99d-1763-4898-b9b0-4df4ca1e1828"
+        },
+        {
+          "name": "Bloodshot",
+          "date": "2023-03-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a6a34b0-0cd7-480a-bb61-5a19d0f772f3"
+        },
+        {
+          "name": "Sorry, You’re Not a Winner / OK, Time for Plan B",
+          "date": "2006-10-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6ca3e813-6415-3b8c-a051-2af29b844309"
+        },
+        {
+          "name": "Live in the Barrowland: Bootleg Series Vol. 5",
+          "date": "2013-12-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6e2c10b2-f29b-4970-94a0-18e98cd94a6b"
+        },
+        {
+          "name": "Warped Tour 2010 USA/Canada Radio Promo",
+          "date": "2010",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/727b090a-1f4a-48af-91e8-2d13bd2f93de"
+        },
+        {
+          "name": "The Paddington Frisk",
+          "date": "2013-04-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/72bbec53-10c3-47d7-a8c4-d61efc297d51"
+        },
+        {
+          "name": "Live Outside (Shikari Sound System remix)",
+          "date": "2018-09-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7330f5fc-ce3f-46bf-a862-b087e5884d2b"
+        },
+        {
+          "name": "Nothing Is True & Everything Is Possible",
+          "date": "2020-04-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/78089b69-ab66-497e-ae66-e5060be67994"
+        },
+        {
+          "name": "Mothership",
+          "date": "2006-08-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/78b0acaa-daf9-359b-9907-5ab53125ae1e"
+        },
+        {
+          "name": "Anaesthetist",
+          "date": "2015-01-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/795952c1-0bde-42c0-b886-e090bb24fd8f"
+        },
+        {
+          "name": "Take It Back",
+          "date": "2010",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7ba4aac9-f93c-4b95-85c4-552cd918e1b1"
+        },
+        {
+          "name": "Radiate",
+          "date": "2013-06-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7bdf1906-fd2f-4d4b-8fc1-0c8e1498d6a2"
+        },
+        {
+          "name": "THE GREAT UNKNOWN",
+          "date": "2020-04-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81d3ccde-ee28-4f0e-8c20-2f19c968cae0"
+        },
+        {
+          "name": "Wembley. London. 17th February 2024",
+          "date": "2025-07-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8a8fe57c-c857-474e-951c-78b9da233332"
+        },
+        {
+          "name": "Jonny Sniper Remixes",
+          "date": "2007",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8b8af7eb-4f89-405c-9e19-a42f96fe30f3"
+        },
+        {
+          "name": "Sssnakepit",
+          "date": "2011-09-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9a066bfd-56f8-4107-9716-33ffd554ffdb"
+        },
+        {
+          "name": "Hole",
+          "date": "2025-09-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9ad5c2da-cc92-4695-a77b-6bfe3bc5f842"
+        },
+        {
+          "name": "Torn Apart (live at Alexandra Palace)",
+          "date": "2016-10-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9d76d5f3-edc0-4158-9ee5-3988f4efe124"
+        },
+        {
+          "name": "Supercharge",
+          "date": "2017-05-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9f6b31d9-1c89-4160-a955-34ecd0d74f9f"
+        },
+        {
+          "name": "Tribalism",
+          "date": "2010-02-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a2564b02-3f1c-49c8-8c3c-47f22d5d3689"
+        },
+        {
+          "name": "Pack of Thieves",
+          "date": "2012",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a6073147-ddb3-42c2-a179-6682aeb11c9f"
+        },
+        {
+          "name": "Stop the Clocks",
+          "date": "2019-08-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a7d42b87-bc74-4aae-a294-11c665c5f993"
+        },
+        {
+          "name": "Anaesthetist (Reso remix)",
+          "date": "2015-08-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a9807868-4780-4f1c-acb8-34dba494ac08"
+        },
+        {
+          "name": "Live at Rock City 2009",
+          "date": "2010-02-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ab6cacfa-618f-4874-89f6-505791ff737a"
+        },
+        {
+          "name": "STRANGERS",
+          "date": "2023-11-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ac07235c-ad60-4e19-a667-3cd036472b01"
+        },
+        {
+          "name": "{ The Dreamer’s Hotel }",
+          "date": "2020-02-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aef27af3-f88a-4534-9977-51d46f021987"
+        },
+        {
+          "name": "Rabble Rouser (Dan le Sac remix)",
+          "date": "2019-01-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b670f77d-c4fb-464a-9e9e-6a5929de93ed"
+        },
+        {
+          "name": "Wall (Andy Gray radio mix)",
+          "date": "2009",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b6753e6f-acef-47fc-b1f4-f58c623acfde"
+        },
+        {
+          "name": "Quelle Surprise",
+          "date": "2011-05-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b67cd465-eeb4-4494-bead-c2fa6c63edc4"
+        },
+        {
+          "name": "Live from Planet Earth: Bootleg Series, Volume 3",
+          "date": "2011-07-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b73c3cac-71ac-4772-bd39-f2d69c65807c"
+        },
+        {
+          "name": "Goldfish (Shikari Sound System remix)",
+          "date": "2024-04-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bb593f8f-2b6e-4379-a852-664c8003a6fd"
+        },
+        {
+          "name": "The Zone",
+          "date": "2007-11-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bc43ea96-db51-3af0-b47b-415c7cba1fa2"
+        },
+        {
+          "name": "Nodding Acquaintance",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c2b2468d-233c-3e36-abe7-5ee5b215dad1"
+        },
+        {
+          "name": "Covers",
+          "date": "2015-12-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c5a8fe48-08a8-4f8a-92ba-984be164ae91"
+        },
+        {
+          "name": "Moratorium (Broadcasts From the Interruption)",
+          "date": "2021-04-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c846478f-161d-4600-8d15-6d463b440687"
+        },
+        {
+          "name": "Take to the Skies",
+          "date": "2007-03-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cb61ed2c-9dec-364b-a853-01d27608b94c"
+        },
+        {
+          "name": "Sorry You’re Not a Winner",
+          "date": "2004-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cd39dcab-1239-333d-947f-ed564c3b5a30"
+        },
+        {
+          "name": "T.I.N.A.",
+          "date": "2020-03-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ce19ee04-e050-4328-b91c-0a1155d0253a"
+        },
+        {
+          "name": "Rabble Rouser (live at Alexandra Palace 2)",
+          "date": "2018-11-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cf9145ea-868b-4568-bbe7-10804a0c642d"
+        },
+        {
+          "name": "It Hurts",
+          "date": "2023-02-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d0419437-2bf6-46e8-8ccb-efce350d0adf"
+        },
+        {
+          "name": "Arguing With Thermometers (Remixes)",
+          "date": "2012-03-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d2c06801-b36d-4aa1-9933-377be61e4b6a"
+        },
+        {
+          "name": "Commit No Nuisance",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d407d590-5ae9-4736-b851-a422b1a8c777"
+        },
+        {
+          "name": "The Mindsweep",
+          "date": "2015-01-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d4d92d10-c08a-4686-b5a7-25b9f53e6582"
+        },
+        {
+          "name": "Live Outside",
+          "date": "2017-08-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d8aff2d6-34d5-469d-830b-3dd791d3eaff"
+        },
+        {
+          "name": "Rabble Rouser (Shikari Sound System remix)",
+          "date": "2019-01-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/da7c83d9-539b-49ff-94bd-91ff63c80f04"
+        },
+        {
+          "name": "Anything Can Happen in the Next Half Hour…",
+          "date": "2007-03-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/da93551d-f3fb-44a1-bada-5c3cbb52431d"
+        },
+        {
+          "name": "Slipshod",
+          "date": "2015-01-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dca515cc-dac1-4f38-8724-52d0dbe353ab"
+        },
+        {
+          "name": "The Spark",
+          "date": "2017-09-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dfba140d-ed8d-48be-9e37-7bbba7144275"
+        },
+        {
+          "name": "Gandhi Mate, Gandhi",
+          "date": "2011-12-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e23c827a-508a-42e4-8d60-4b639b991257"
+        },
+        {
+          "name": "Anything Can Happen in the Next Half Hour…",
+          "date": "2004",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e58b33ba-9bf7-3d70-bf54-138e0aa9996f"
+        },
+        {
+          "name": "Sorry You’re Not a Winner (live in Moscow. May 2017)",
+          "date": "2018-11-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/eaaa9699-0e4c-4a41-8ddb-db4dd5d95ef0"
+        },
+        {
+          "name": "The Last Garrison",
+          "date": "2014-10-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/efe85635-e050-4b01-ae9a-fcaf72d2fc3b"
+        },
+        {
+          "name": "Live in London W6 March 2012",
+          "date": "2012-10-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f05a87e1-9d1f-44ad-aa36-8916b7df4086"
+        },
+        {
+          "name": "Higher Ground",
+          "date": "2026-10-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f06ef023-e6bc-4538-8693-1605a9822c40"
+        },
+        {
+          "name": "Live at Milton Keynes: Bootleg Series, Vol. 1",
+          "date": "2009-06-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f07664ad-759a-45e0-a050-5031f00bf754"
+        },
+        {
+          "name": "Hoodwinker",
+          "date": "2016-10-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f3e05a65-a458-4ad6-896c-a20234c263b5"
+        },
+        {
+          "name": "Labyrinth (live in Moscow. May 2017)",
+          "date": "2018-11-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f4620f17-c0bb-45fa-9ccc-7e6369f2ade6"
+        },
+        {
+          "name": "Take to the Skies: Live in Moscow. May 2017",
+          "date": "2019-02-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f72ba7f4-e5ae-404a-b011-40f4bed2f693"
+        },
+        {
+          "name": "The Last Spark. Ancienne Belgique. Brussels, BE. April 2019. (Bootleg Series Vol. 11)",
+          "date": "2020-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f731c036-997b-4426-8e7c-13822c06fdea"
+        },
+        {
+          "name": "Rat Race",
+          "date": "2013-11-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f8108f47-0d81-4f0b-9096-4b9d1efaa882"
+        },
+        {
+          "name": "There’s a Price on Your Head (Jonny & The Snipers Cover)",
+          "date": "2015-12-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fa237be5-0944-493c-8fae-8218fd73ea11"
+        },
+        {
+          "name": "Sorry. You’re Not a Winner",
+          "date": "2006",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fc04889e-e8ed-3095-a69f-343e23a667b3"
+        },
+        {
+          "name": "Redshift",
+          "date": "2016-01-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fe753529-abfd-4fce-bdb5-dfe601bd32fd"
+        },
+        {
+          "name": "Solidarity (live at Alexandra Palace 2)",
+          "date": "2018-11-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/feae7342-c57d-4639-bea2-dfaf29df1019"
+        }
+      ]
     }
   },
   "checked": {
@@ -9991,6 +10623,8 @@
     "dokken": "2026-10-06T20:47:33.912726+00:00",
     "dream-theater": "2026-10-06T20:47:38.138165+00:00",
     "eminem": "2026-10-07T00:11:35.568103+00:00",
-    "emperor": "2026-10-07T00:11:36.857750+00:00"
+    "emperor": "2026-10-07T00:11:36.857750+00:00",
+    "enslaved": "2026-10-12T09:21:45.528509+00:00",
+    "enter-shikari": "2026-10-12T09:21:49.719557+00:00"
   }
 }
