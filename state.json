@@ -427,49 +427,17 @@
     "c38f8c074054dd79a4abfab45db6707db1043eb2",
     "ca4d6da5b1f6c07cba1df0421e05089442b3abbf",
     "7fe352d0a5bc70453347ee0b9b9b7b232f4ca140",
-    "9d31e700eff7d9c27edcda7e612304160d9adb02"
+    "9d31e700eff7d9c27edcda7e612304160d9adb02",
+    "f248e8485db20637aafb127802d45eb9a1ac9467",
+    "de47e9612f6b7ea0166035ae3a3fb4d3a3f1a189",
+    "22ad48a6ade3d71928b62d0680b9534b400c56b7",
+    "dacdd9655ad119bdc41a2c13dddeb725e0023898",
+    "1bfecc24df29d9c2f9121d63023f6b05406d8f7b",
+    "c257806924c93196cd7c80b167f9cdcbb3a92db5",
+    "28625b017fdaffe2366edac2656cdd3b80d15a81",
+    "b2f563f2115f59f71eea7db70dd43960002251b6"
   ],
   "recent_titles": [
-    {
-      "title": "Starset Premiere New Single “T r a n s f u s 1 0 n”",
-      "source": "ThePRP",
-      "ts": 1790998229
-    },
-    {
-      "title": "Igorrr Set Dates For Early 2027 European Tour With Secret Chiefs 3 & Fange",
-      "source": "ThePRP",
-      "ts": 1790998232
-    },
-    {
-      "title": "Agalloch’s “Marrow Of The Spirit” Gets New Mix & Master For Upcoming Reissue",
-      "source": "ThePRP",
-      "ts": 1790998241
-    },
-    {
-      "title": "Новое видео SLASH FEATURING MYLES KENNEDY &amp; THE CONSPIRATORS",
-      "source": "Darkside",
-      "ts": 1790998244
-    },
-    {
-      "title": "Scroll Eater Premiere “Deliver The Word” Music Video, Unbroken Reign’s Jackson Scott Guests",
-      "source": "ThePRP",
-      "ts": 1790998248
-    },
-    {
-      "title": "With A Vengeance (Ex-Bad Wolves, Etc.) Launch “Oblivion” Music Video",
-      "source": "ThePRP",
-      "ts": 1790998255
-    },
-    {
-      "title": "The story behind every song on Radiohead’s Kid A",
-      "source": "Louder",
-      "ts": 1791002509
-    },
-    {
-      "title": "BIG ASS TRUCK I.E. Premiere “DRAGGING MEAT” Music Video, New EP “FOUND ON ROAD DEAD” Due This Month",
-      "source": "ThePRP",
-      "ts": 1791002514
-    },
     {
       "title": "Huntsmen Announce Their Decision To Disband",
       "source": "ThePRP",
@@ -1229,6 +1197,46 @@
       "title": "Metallica Had Another New Setlist Addition For Their Fourth Show At The Sphere",
       "source": "ThePRP",
       "ts": 1791809328
+    },
+    {
+      "title": "Black Map Have Called It Quits",
+      "source": "ThePRP",
+      "ts": 1791840394
+    },
+    {
+      "title": "Why Placebo stopped spilling \"blood and spunk\" across the planet, and grew up",
+      "source": "Louder",
+      "ts": 1791840445
+    },
+    {
+      "title": "Mugs For The 2026 ‘Furnace Fest’ Were Reportedly Repurposed Merch From The MAGA-Aligned ‘Rock The Country’ Festival",
+      "source": "ThePRP",
+      "ts": 1791840456
+    },
+    {
+      "title": "Emily Armstrong Reflects On Her Self-Doubt Over Joining Linkin Park: “Nobody Could Ever, Ever Replace Chester”",
+      "source": "ThePRP",
+      "ts": 1791840466
+    },
+    {
+      "title": "Full Album Stream: Sundowner –Cesspool",
+      "source": "Decibel",
+      "ts": 1791840475
+    },
+    {
+      "title": "Dropout Kings Premiere “Deadname” Music Video",
+      "source": "ThePRP",
+      "ts": 1791840479
+    },
+    {
+      "title": "A 13-Year-Old Fan Stole The Show During Limp Bizkit’s Concert Last Night In Nashville, TN",
+      "source": "ThePRP",
+      "ts": 1791840485
+    },
+    {
+      "title": "The Used’s Orchestral Live Concert Film ‘A Mid Summer Night’s Symphony’ To Premiere In Los Angeles This Month",
+      "source": "ThePRP",
+      "ts": 1791840490
     }
   ],
   "initialized_sources": [
@@ -2377,7 +2385,7 @@
     {
       "source": "Ultimate Classic Rock",
       "priority": 80,
-      "title": "Watch Metallica Debut 'Until It Sleeps' at the Sphere",
+      "title": "Watch Metallica Debut 'Until It Sleeps' at Sphere",
       "link": "https://ultimateclassicrock.com/metallica-until-it-sleeps-sphere/",
       "rss_body": "The entire venue was bathed in (virtual) bovine blood and semen for the debut of the 'Load' single.",
       "tags": "News Load Metallica Sphere UCR",
@@ -3200,6 +3208,162 @@
       "category": "Хэви-метал",
       "published": "2026-10-07T14:54:45+00:00",
       "id": "707f61caeea0454a78d2b8eda3ff610e3d05e4b9",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Battlesnake Announce February Australian Tour Ahead Of Their New Album",
+      "link": "https://www.theprp.com/2026/10/12/news/battlesnake-announce-february-australian-tour-ahead-of-their-new-album/",
+      "rss_body": "\"Bogpocalypse And The Annihilation Of Lucifer\" was recently unveiled for a February 2027 release.",
+      "tags": "News Battlesnake",
+      "category": "Хэви-метал",
+      "published": "2026-10-12T17:40:40+00:00",
+      "id": "f5ecdf45edc664495617eb3650fd9c7f76463ea9",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Converge To Play “Jane Doe”, Oathbreatker To Perform “Rheia” At The First-Ever ‘Lucidity’ Festival In Australia",
+      "link": "https://www.theprp.com/2026/10/12/news/converge-to-play-jane-doe-oathbreatker-to-perfom-rheia-at-the-first-ever-lucidity-festival-in-australia/",
+      "rss_body": "Plus Extortion, Portrayal Of Guilt's first Australian run and more.",
+      "tags": "News Converge Oathbreaker Portrayal Of Guilt Wiegedood",
+      "category": "Хэви-метал",
+      "published": "2026-10-12T17:25:14+00:00",
+      "id": "b7d340cca9414bd1efe39fb34173f52c61027a4a",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Silverstein & Story Of The Year’s ‘Camp Screamo’ Tour Booked For An Australian Leg",
+      "link": "https://www.theprp.com/2026/10/12/news/silverstein-story-of-the-years-camp-screamo-tour-booked-for-an-australian-leg/",
+      "rss_body": "Catch them outback.",
+      "tags": "News Point North Silverstein Story Of The Year",
+      "category": "Хэви-метал",
+      "published": "2026-10-12T17:08:28+00:00",
+      "id": "2f4556565aeb9b926888ba2e908f6a60cb7e03de",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "King 810 Give Their “Queen” EP Its First Vinyl Release",
+      "link": "https://www.theprp.com/2026/10/12/news/king-810-give-their-queen-ep-its-first-vinyl-release/",
+      "rss_body": "Limited to 200 copies.",
+      "tags": "News King 810",
+      "category": "Хэви-метал",
+      "published": "2026-10-12T16:59:10+00:00",
+      "id": "ac3f79f5a41badc963db12da1d04dae0d037ad52",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The 5 Rising Welsh Metal Bands You Need To Know",
+      "link": "https://metalinjection.net/lists/the-5-rising-welsh-metal-bands-you-need-to-know",
+      "rss_body": "Consisting of Ysbrydnos, Breichiau Hir, and more.",
+      "tags": "Lists featured2 hiraeth ysbrydnos Breichiau Hir icantdie defod",
+      "category": "Хэви-метал",
+      "published": "2026-10-12T16:19:23+00:00",
+      "id": "ed145ac3739dc539d4672f04dfcb4c894a3132aa",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: CEREBRAL CURSE — “MANGLED CRANIAL LIQUEFACTION”",
+      "link": "https://www.nocleansinging.com/2026/10/12/an-ncs-premiere-cerebral-curse-mangled-cranial-liquefaction/",
+      "rss_body": "(written by Islander) The Catalonian band Cerebral Curse made their first mark with a three-song promo of delirious death-doom released last year on the Rotted Life label. Wasting no time, they will follow that promo this year with a debut album titled Abominant Incarnations of Sepulchral Depths, to be co-released on November 13th by Rotted\n\n[...]",
+      "tags": "Premieres Cerebral Curse",
+      "category": "Хэви-метал",
+      "published": "2026-10-12T16:04:33+00:00",
+      "id": "6e30036d5448e6318107798db1884a6f975024df",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Video Premiere: Stricken – ‘Dust from the Grave’",
+      "link": "https://www.decibelmagazine.com/2026/10/12/video-premiere-stricken-dust-from-the-grave/",
+      "rss_body": "Seattle sludge trio\n\nStricken\n\nemerge from the underground once again to release their second album,\n\nFrom Dark Dimensions An Unspeakable Presence Awakens\n\n, next month. In the lead up, they’ve shared the video for “Dust from the Grave,” a 12-minute slab that takes listeners through Stricken’s sludge-doom-post-blackened sound.\n\nThe accompanying video jumps around quite a bit, showing various conspiratorial imagery involving religion, politics, nuclear war and ancient philosophy and alchemy. If you’re looking for something bold in its approach to a familiar genre, then Stricken’s “Dust from the Grave” is a good place to start.\n\n“‘Dust From The Grave’ is a play on cosmic horror meeting the real, actual horror of dealing with radioactive pollution from our careless behaviors,” says drummer Chris Wozniak. “Just bury our nuclear waste, and someday we’ll find we’ve created a monster.\n\n“This visualizer for ‘Dust From The Grave’ was created by our good friend Tom Denney, who has also created the artwork for both of our albums. Included in the montage are many images from the Hanford nuclear site in Eastern Washington, one of many pertinent examples of humanity’s flippant attitude toward nuclear waste, and dangerously powerful stuff in general.”\n\nIf you dig what you see and hear in the video below, you can score a copy via\n\nHPGD\n\n.\n\nFrom Dark Dimensions An Unspeakable Presence Awakens by STRICKEN",
+      "tags": "Streaming Track Premiere Videos Doom Metal horror pain gore death premiere Sludge Stricken",
+      "category": "Экстремальный метал",
+      "published": "2026-10-12T16:00:34+00:00",
+      "id": "e83600d677758e48eb78b2574491084155e1c766",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: REPLICANT — “MENACING VOID”",
+      "link": "https://www.nocleansinging.com/2026/10/12/an-ncs-premiere-replicant-menacing-void/",
+      "rss_body": "(written by Islander) We are helping spread the word about a powerful new album-length split that Transcending Obscurity Records will release on November 18th. Aptly titled Indomitable Hostility, the split joins together new songs from two death metal ravagers whose forward-thinking music you should already know — Replicant from New Jersey and Elitist from Denmark.\n\n[...]",
+      "tags": "Premieres Replicant",
+      "category": "Экстремальный метал",
+      "published": "2026-10-12T15:09:12+00:00",
+      "id": "4500642138d9c5f3875b3e1f670b9997ee50c99f",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "James Hetfield: “Metallica Is Not Here… to Influence You With Their Bull****",
+      "link": "https://metalinjection.net/news/james-hetfield-metallica-is-not-here-to-influence-you-with-bull-politics",
+      "rss_body": "The Metallica frontman recently addressed the Sphere audience, taking a dig at other \"entertainers.\"",
+      "tags": "Latest News Metallica featured1",
+      "category": "Хэви-метал",
+      "published": "2026-10-12T15:06:30+00:00",
+      "id": "7118f5120f6c201ef8842f480354d910b7da50e5",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "How Pearl Jam's intense, combative second album Vs. saved the band's soul",
+      "link": "https://www.loudersound.com/music/albums/how-vs-saved-pearl-jam-soul",
+      "rss_body": "In the summer of 1993\n\nTime\n\nmagazine approached the management companies looking after\n\nNirvana\n\nand\n\nPearl Jam\n\nwith a proposal to put their artists on the cover of an autumn issue.\n\nThe magazine was keen to do a feature on the rise of ‘grunge’, the underground musical movement that exploded into the national consciousness from the moment, on January 11, 1992, that Nirvana’s\n\nNevermind\n\nalbum toppled Michael Jackson’s\n\nDangerous\n\nfrom the top of the US\n\nBillboard\n\nchart.\n\nOne week earlier, Pearl Jam had scored a minor chart success of their own, when their debut album\n\nTen\n\ndebuted on the\n\nBillboard\n\n200 album chart at Number 155. This was hardly an achievement to warrant the popping of champagne corks, but it was nonetheless a significant moment for the Seattle band, demonstrating that four months on from its August 27, 1991 release,\n\nTen\n\nstill had legs. A further four months later,\n\nTen\n\npassed the one million sales mark in America.\n\nThen, in August 1992, MTV put Mark Pellington’s haunting video for\n\nJeremy\n\n– based on the true story of 15-year-old Texan schoolboy Jeremy Wade Delle, who shot himself in front of his teacher and classmates – into rotation. At which point\n\nTen\n\nbegan to sell at a rate out-stripping even\n\nNevermind\n\n.\n\nMobbed whenever they appeared in public – “You couldn’t go anywhere without causing a scene,” recalled bassist Jeff Ament – the young musicians began to fret as to where their spontaneous, unselfconscious debut album might ultimately lead them. In a bid to slow down their dizzying ascent, Pearl Jam refused to let Epic release the ballad\n\nBlack\n\nas a single, and asked for a time-out – no more interviews, no more photo shoots, no more videos. But the record's momentum could not be halted.\n\n“When our record started to sell too, it was weird, and really stressful,” guitarist Stone Gossard told this writer. “Everybody was insecure and tense, it was such an odd time.\n\n“For me personally the stress came from being huge but feeling like you were kinda crap. We couldn’t live up to the bands that we thought were the greatest. I don’t ever remember any thoughts like, ‘Wow, we’ve just made the best album ever.’ I just remember thinking that I was looking forward to making our next one.”\n\n“We didn’t expect the record to be a huge deal,” Jeff Ament added. “But I guess it kinda became one.”\n\nThe release of new albums by both Pearl Jam and Nirvana in October 1993 certainly promised to be a huge deal. Though the two bands were often portrayed as bitter rivals in the media – a situation undoubtedly fuelled by snarky Kurt Cobain comments about what he perceived as Pearl Jam’s lack of punk rock credibility – the camps had recently been reconciled, with Cobain and Pearl Jam frontman Vedder even slow-dancing arm-in-arm at the 1992 MTV Awards:\n\n“I probably could have agreed with some of the things he said,\" Vedder later conceded\n\n.\n\n“The only thing that bothered me about that [alleged rivalry] was because it was public, and people were reacting to it: it wasn’t like between us. There was a certain writer who pulled a quote of Jeff Ament’s out, and pulled a quote of Kurt’s out, and that made for interesting press. But really, I always felt like it us against the world, our town against the world, not our band against another band.”\n\nAnd so, when they were approached by\n\nTime\n\n, the two groups took a bilateral decision not to participate in the magazine feature. Despite this, when the October 25, 1993 issue of\n\nTime\n\nhit news stands, it was Eddie Vedder’s face staring out from the cover, which hailed “angry young rockers like Pearl Jam” giving voice to “the passions and fears of a generation.”\n\n“We’ve been swallowed up by the mainstream,” Vedder lamented. “No-one is going to want to listen to us.”\n\nFor once, Pearl Jam's thoughtful frontman called this wrong.\n\n(Image credit: Time magazine)\n\nPre-production for the band’s second album began in February 1993 in Seattle, switching to California the following month. Eighteen months on the road had solidified a unit which had only been in existence for six months when they recorded\n\nTen\n\n, and the new songs largely developed from rehearsal room jams.\n\nThe sound was rawer, looser and more in-your-face, exactly what band leader Gossard - who considered\n\nTen\n\n“over-thought, over-played and over-rocked” - wanted. Working with producer Brendan O’Brien for the first time, the quintet determined to capture this new-found aggression on the record.\n\nWith\n\nVs\n\n. they achieved this and more.\n\nFrom the opening riff of\n\nGo\n\n, the album has a ferocity and bite which leaves the more stately\n\nTen\n\nin the dust, sounding like the work of a hardcore punk band rather than a classic rock outfit. On\n\nAnimal\n\nVedder established the idea of the quintet as a unit (“\n\nfive against one\n\n”) and expressed his growing revulsion with disingenuous media attempts to co-opt his band’s aesthetic and ideas (“\n\nI’d rather be with an animal\n\n”)\n\nThere’s little let-up on this initial explosion of anger. The seething\n\nDaughter\n\ndeals with child abuse,\n\nGlorified G\n\nattacks macho gun culture,\n\nW.M.A.\n\nis a scathing dissection of institutionalised racism and police brutality, while the more tender and melodic\n\nElderly Woman Behind The Counter In A Small Town\n\nwas a meditation upon feelings of entrapment and suffocation, which could be read as a metaphor for the band’s own sense of powerlessness as the machine around them grew.\n\nThat same notion was made even more explicit on\n\nLeash\n\n, with Vedder singing “\n\nWe will find a way, we will find our place\n\n” then screaming “\n\nGet outta my fuckin’ face\n\n.”\n\n“\n\nI will stare the sun down until my eyes go blind\n\n,” Vedder adds defiantly on closing track\n\nIndifference\n\n. “\n\nI won’t change direction, and I won’t change my mind\n\n.”\n\nLest anyone was still in any doubt, the title of the album too was a challenge, a declaration of independence and intent from a group hell-bent on self-determination, stubbornly refusing to buy into the game.\n\n\"For me, that title represented a lot of struggles that you go through trying to make a record,\" Gossard told\n\nRolling Stone\n\n. \"Your own independence - your own soul - versus everybody else's. In this band, and I think in rock in general the art of compromise is almost as important as the art of individual expression. You might have five great artists in the band, but if they can't compromise and work together, you don't have a great band... When I heard that lyric, it made a lot of sense to me.\"\n\nThe group refused to make a single video for the album, and interviews to promote it were vanishingly rare.\n\nOn the surface this stance didn’t immediately impact upon the band’s popularity - the week after\n\nTime\n\nmagazine’s ‘grunge’ special was published,\n\nVs.\n\n, entered the Billboard chart at number 1, selling some 950, 378 copies in its first five days on sale, a sales record that would not be topped for five years.\n\nBut in wilfully taking a stand against the commercial forces of MTV, the mass media and, indeed, their own record label’s marketing plans, Pearl Jam would ultimately save their souls and ensure their continued relevance as a band.\n\nAn upraised middle finger of a record,\n\nVs.\n\nstill sounds as fierce and visceral today.",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-10-12T15:00:00+00:00",
+      "id": "b0ba1e5278850f1f815aa97e9de3383912ece9b5",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Behemoth Joined By Dimmu Borgir's Shagrath For Live Venom Cover",
+      "link": "https://metalinjection.net/news/watch-behemoth-joined-by-dimmu-borgirs-shagrath-for-live-venom-cover",
+      "rss_body": "RIP Cronos.",
+      "tags": "Latest News behemoth",
+      "category": "Экстремальный метал",
+      "published": "2026-10-12T14:34:45+00:00",
+      "id": "0161762704b9d659d48fa0cba42aa5307bd27da7",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Linkin Park's Emily Armstrong reveals anxieties she held around joining the band",
+      "link": "https://www.loudersound.com/bands-artists/linkin-park-emily-armstrong-replacing-chester",
+      "rss_body": "Linkin Park\n\nsinger Emily Armstrong has discussed what sounds like a classic case of imposter syndrome when it came to taking over vocal duties in Linkin Park. Armstrong was revealed as the band's new frontperson in September 2024 following years of Linkin Park inactivity after the death of\n\nChester Bennington\n\nseven years earlier, and she reveals that she had periods of intense doubt over whether she was up to the task of replacing one of rock's most celebrated vocalists.\n\nDiscussing new Linkin Park documentary\n\nUnshatter\n\n, which delves into Linkin Park's emotional and unlikely comeback, Emily tells\n\nPeople\n\n:\n\n“You see it in the documentary where I’m just like, ‘Am I even cut out for this?’ You’re trying to give yourself every reason to just be like, ‘You’re not good. Everybody knows these songs.’ ”\n\nOn how she overcame her self-doubt, Emily says it was important to remember, \"don’t try to be like anybody. You’re not a replacement. Nobody could ever, ever replace Chester. Do what you do.\n\n“The only thing that I could possibly try with the old songs is just to have the same emotional impact as much as I possibly can with the songs, because that’s what you’re ultimately going to want at this point,” she explains. “That’s what I would want as a listener, as a Linkin Park fan. I would want that emotional feeling. And I was like, ‘Okay. I think I could do that.’ ”\n\nEmily's arrival in Linkin Park has proven to be a resounding success; comeback album\n\nFrom Zero\n\n, released in 2024, was widely praised, and the band have headlined arenas, stadiums and festivals around the world in the years since, including a warmly received headline set at this year's Download Festival in june.",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-12T14:21:05+00:00",
+      "id": "76785330e2b3a79abbca86ddd383d215e6e2969e",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS INTERVIEW: MIRROR OF DECEPTION",
+      "link": "https://www.nocleansinging.com/2026/10/12/an-ncs-interview-mirror-of-deception/",
+      "rss_body": "(In the spring of this year the long-running German traditional doom band Mirror of Deception released a new album named Transience, and our Comrade Aleks reached out to the band to discuss it. That led to the following extensive and very interesting interview with guitarist Jochen Fopp. And yes, the music here is a well-earned\n\n[...]",
+      "tags": "Exceptions to the Rule Interviews Comrade Aleks Mirror of Deception",
+      "category": "Прогрессив",
+      "published": "2026-10-12T13:53:17+00:00",
+      "id": "3d4534b4f7365e30c932054eaa86440b8bbcad0d",
       "retry_after": 0
     }
   ]
