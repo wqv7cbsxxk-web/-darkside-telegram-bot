@@ -10915,6 +10915,869 @@
           "source_url": "https://musicbrainz.org/release-group/fd73f60d-e19a-3420-94f7-8d26334989e8"
         }
       ]
+    },
+    "fates-warning": {
+      "name": "Fates Warning",
+      "musicbrainz_url": "https://musicbrainz.org/artist/17fbada3-6dac-42f3-8a6c-8c1c1484f730",
+      "reference_checked_at": "2026-10-12T21:28:28.228771+00:00",
+      "genres": "heavy metal, metal, power metal, progressive metal, progressive rock",
+      "bandcamp_url": "https://fateswarning.bandcamp.com/",
+      "website": "http://www.fateswarning.com/",
+      "members": [
+        {
+          "name": "Jim Matheos",
+          "role": "electric guitar, original",
+          "begin": "1982"
+        },
+        {
+          "name": "Ray Alder",
+          "role": "lead vocals",
+          "begin": "1987"
+        },
+        {
+          "name": "Joey Vera",
+          "role": "bass guitar",
+          "begin": "1996"
+        },
+        {
+          "name": "Bobby Jarzombek",
+          "role": "membranophone",
+          "begin": "2007"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/17fbada3-6dac-42f3-8a6c-8c1c1484f730",
+      "albums": [
+        {
+          "name": "A Pleasant Shade of Gray",
+          "date": "1997-04-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/028655c5-773a-3fb9-9eb2-5ce5198c0f9a"
+        },
+        {
+          "name": "Long Day Good Night",
+          "date": "2020-11-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/096b0eb9-436e-4690-9831-9cbdf855dfab"
+        },
+        {
+          "name": "A Pleasant Shade of Gray Live I–XII",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0a669fc8-d262-342a-b687-99ac6a031f15"
+        },
+        {
+          "name": "A Pleasant Shade of Gray: Part 2",
+          "date": "1997-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/120c232b-1ae9-4e9b-b546-664e379288e7"
+        },
+        {
+          "name": "Pale Fire",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1e7d6f8d-1ff1-4bc7-8fc1-f723bfc9892a"
+        },
+        {
+          "name": "Darkness in a Different Light",
+          "date": "2013-09-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2861cf0f-19ef-47d3-bb6f-a8ffb93cf932"
+        },
+        {
+          "name": "A Pleasant Shade of Dreams",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2d07ca20-386f-4a7b-856d-17e7464244bd"
+        },
+        {
+          "name": "A Handful of Fate",
+          "date": "2010-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2ec2d859-3851-45f0-b11a-7e5fd04103c5"
+        },
+        {
+          "name": "Still Life",
+          "date": "1998-10-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/33f240d9-9f43-3db5-a81e-85a610390a66"
+        },
+        {
+          "name": "Night on Bröcken / The Spectre Within",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/34b3c20d-0318-4ba9-a990-aeb154c3cc85"
+        },
+        {
+          "name": "Theories of Flight",
+          "date": "2016-07-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3de44942-4abf-464c-b87e-221a60cd7d19"
+        },
+        {
+          "name": "Awaken the Guardian",
+          "date": "1986",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/557e1ff1-9e2d-3f15-a0c2-ab89bb87b86d"
+        },
+        {
+          "name": "Now Comes the Rain",
+          "date": "2020",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/59c3fa39-2561-42a9-aa6a-63806bbd9b6b"
+        },
+        {
+          "name": "Nothing Left to Say",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6c9cd8c6-9736-4e9e-b4a3-21fa382044df"
+        },
+        {
+          "name": "Chasing Time",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6fe7de36-538a-3ac0-920c-8e8066e899e7"
+        },
+        {
+          "name": "No Exit",
+          "date": "1988",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/71f50c48-40e7-3a7c-9b58-22488311843e"
+        },
+        {
+          "name": "Awaken the Guardian / No Exit",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7904abf3-b408-4714-9614-4a72878cd614"
+        },
+        {
+          "name": "Anarchy Divine / In a Word",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7c82befa-85a0-4208-805c-1efb17428e5f"
+        },
+        {
+          "name": "Crash and Burn",
+          "date": "1989",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7d4b1b04-61a7-4d01-8d2f-ae38cef1b5ab"
+        },
+        {
+          "name": "Live Over Europe",
+          "date": "2018-06-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/882e8427-1dc5-4420-98c4-6faacdf693c9"
+        },
+        {
+          "name": "Parallels",
+          "date": "1991",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8968e825-e679-3d6c-b5d5-36b372e3de48"
+        },
+        {
+          "name": "Disconnected",
+          "date": "2000-06-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8aa013ca-be69-3504-bfec-3ab37b39cbfa"
+        },
+        {
+          "name": "Inside Out",
+          "date": "1994-07-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/966ce1aa-b37e-34bd-9b2e-411d15e8feed"
+        },
+        {
+          "name": "Awaken the Guardian Live",
+          "date": "2017-04-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a04132e4-f7b0-4271-8b0b-c0c990b7f1e0"
+        },
+        {
+          "name": "Eye to Eye",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d1176f1e-ba2d-4379-b429-6b2152accc2a"
+        },
+        {
+          "name": "Live in Athens",
+          "date": "2005-11-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dc34afb1-e84d-3e8f-8650-25424d70b8f0"
+        },
+        {
+          "name": "FWX",
+          "date": "2004-10-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e166b61e-4a11-3073-b465-031e3112fda6"
+        },
+        {
+          "name": "Perfect Symmetry",
+          "date": "1989-08-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ea159e40-62e8-3572-ada9-68d3197085b0"
+        },
+        {
+          "name": "The Spectre Within",
+          "date": "1985",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ea8da7c5-bd0b-3024-aa64-f5123bbb71be"
+        },
+        {
+          "name": "Night on Bröcken",
+          "date": "1984",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f71fcb48-60db-3755-b6d2-1e591c02ecef"
+        },
+        {
+          "name": "Disconnected / Inside Out",
+          "date": "2006-10-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fb71cf75-f016-4a4b-bcba-91846e54d6ba"
+        },
+        {
+          "name": "Live at the Dynamo",
+          "date": "2025-03-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fee9bc49-0c93-4c1b-af42-cf236d8c6f9b"
+        }
+      ]
+    },
+    "foo-fighters": {
+      "name": "Foo Fighters",
+      "musicbrainz_url": "https://musicbrainz.org/artist/67f66c07-6e61-4026-ade5-7e782fad3a5d",
+      "reference_checked_at": "2026-10-12T21:28:37.468316+00:00",
+      "genres": "alternative rock, grunge, hard rock, post-grunge, rock",
+      "bandcamp_url": "https://foofighters.bandcamp.com/",
+      "website": "https://www.foofighters.com/",
+      "members": [
+        {
+          "name": "Dave Grohl",
+          "role": "electric guitar, lead vocals, original",
+          "begin": "1994-10"
+        },
+        {
+          "name": "Nate Mendel",
+          "role": "bass guitar",
+          "begin": "1995"
+        },
+        {
+          "name": "Chris Shiflett",
+          "role": "background vocals, electric guitar",
+          "begin": "1999-07"
+        },
+        {
+          "name": "Pat Smear",
+          "role": "electric guitar",
+          "begin": "2010"
+        },
+        {
+          "name": "Rami Jaffee",
+          "role": "keyboard",
+          "begin": "2017"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/67f66c07-6e61-4026-ade5-7e782fad3a5d",
+      "albums": [
+        {
+          "name": "Big Me",
+          "date": "1996-03-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/08cc19f6-bbb8-3708-8f54-9aad1da04b17"
+        },
+        {
+          "name": "Let It Die",
+          "date": "2008-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0aed85b3-c739-406a-af3b-7563229538e2"
+        },
+        {
+          "name": "Live at Wembley Stadium",
+          "date": "2008-08-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0c437c9c-3b61-4f82-a792-e5555e6a910a"
+        },
+        {
+          "name": "Echoes, Silence, Patience & Grace",
+          "date": "2007-09-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0ce4a1f2-7908-3865-8f19-08348546424a"
+        },
+        {
+          "name": "12 Days of Christmas",
+          "date": "2011-12-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0faf0613-4246-4d79-808a-ffd283966f02"
+        },
+        {
+          "name": "I’ll Stick Around",
+          "date": "1995-08-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/11860ae7-db08-37ec-a27d-d95d0bb3b360"
+        },
+        {
+          "name": "01050525",
+          "date": "2019-11-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/140b879f-6e24-49be-b723-82b269d97c51"
+        },
+        {
+          "name": "Run Rudolph Run",
+          "date": "2020-12-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/167ba599-95ec-4450-be0c-bec97acab0b2"
+        },
+        {
+          "name": "There Is Nothing Left to Lose",
+          "date": "1999-10-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1cfc9a17-1fdb-30dd-83ca-dce93c481492"
+        },
+        {
+          "name": "DOA",
+          "date": "2005-09-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1d88c4ea-baeb-3237-9e05-2bdcf0c95dce"
+        },
+        {
+          "name": "Stacked Actors",
+          "date": "2000-01-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1ecfacfa-b5f9-3c32-9964-d4efbe1c90de"
+        },
+        {
+          "name": "Times Like These",
+          "date": "2003-01-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2165b571-6263-46cf-9406-90ba9e224737"
+        },
+        {
+          "name": "For All the Cows",
+          "date": "1995-11-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/24fca0e3-1b24-37a2-bc88-233e2c74c368"
+        },
+        {
+          "name": "01999925",
+          "date": "2019-12-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2facedf3-009e-46f0-aaa8-355c5ab23b32"
+        },
+        {
+          "name": "The Line",
+          "date": "2017-09-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/303943c7-d6e5-4e66-8e9f-42962b11cc51"
+        },
+        {
+          "name": "In Your Honor",
+          "date": "2005-06-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/304479f9-ea77-3299-8745-3985f05cfa13"
+        },
+        {
+          "name": "Monkey Wrench",
+          "date": "1997-04-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/393e5ea7-4789-3627-a292-ec5b06d2dd40"
+        },
+        {
+          "name": "My Hero",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3c0e082c-4b07-3df7-86c6-2a49bbe478da"
+        },
+        {
+          "name": "Walking After You",
+          "date": "1998-06-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4059401b-d6ce-36c1-b203-13af1565d90c"
+        },
+        {
+          "name": "Foo Fighters",
+          "date": "1995-06-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/440c9ce8-8ce4-3103-a745-0b385ae70a34"
+        },
+        {
+          "name": "Foo Fighters - RAS FM Broadcast Sydney Showground Australia 26th January 2000 Part One.",
+          "date": "2020-08-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/47607c49-3173-4896-9977-1cd16fac7b58"
+        },
+        {
+          "name": "2017-06-24: Glastonbury Festival of Contemporary Performing Arts",
+          "date": "2017-06-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4824ab74-167e-48db-abb1-8e31088331ba"
+        },
+        {
+          "name": "Waiting on a War",
+          "date": "2021-01-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4b6fa87b-8a1d-4765-8e5f-a1aaf25853ba"
+        },
+        {
+          "name": "00070725: Live at Studio 606",
+          "date": "2019-09-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4e95c839-73e3-42ee-8e4a-7f50c56d061a"
+        },
+        {
+          "name": "All My Life",
+          "date": "2002-09-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/51adc1e7-b462-3c63-bf5a-f88c89c2fa7f"
+        },
+        {
+          "name": "Wasting Light (Bonus Tracks)",
+          "date": "2011-04-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/563efb21-efbd-4d54-ae7d-04c02691529e"
+        },
+        {
+          "name": "Skin and Bones",
+          "date": "2006-11-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/578a8246-a9e7-35cb-b7e9-bb799aba44cc"
+        },
+        {
+          "name": "Foo Fighters - RAS FM Broadcast Sydney Showground Australia 26th January 2000 Part Two.",
+          "date": "2020-08-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/61706fb3-2e37-4324-bb7c-d459d0556ba6"
+        },
+        {
+          "name": "Arlandria",
+          "date": "2011-10-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/61e3c97c-b530-4d59-98f2-fd1dc831ff17"
+        },
+        {
+          "name": "Next Year",
+          "date": "2000-10-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/64817ce7-e1c1-30db-865a-dec8c8119686"
+        },
+        {
+          "name": "Fortunate Son",
+          "date": "2013-05-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/684b4044-fdd7-419a-9843-d65a9c6bde09"
+        },
+        {
+          "name": "This Is a Call",
+          "date": "1995-01-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/69d2a157-4344-3432-b4e5-fea77f8f63f3"
+        },
+        {
+          "name": "Everlong",
+          "date": "1997-08-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6d33e338-7d7f-3d48-ab5c-76d1d1cec262"
+        },
+        {
+          "name": "00020225",
+          "date": "2019-10-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/731ee4f7-138d-453b-9d12-48bccfb19f29"
+        },
+        {
+          "name": "Generator",
+          "date": "2000-02-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/751b4786-782b-3671-b9f7-caa22ea8e50a"
+        },
+        {
+          "name": "Run",
+          "date": "2017-06-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/75331dcb-f68e-41cc-bd4a-10933623d840"
+        },
+        {
+          "name": "Something From Nothing",
+          "date": "2014-10-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7787ae98-1d93-4e2e-ac01-7c5efba958fa"
+        },
+        {
+          "name": "The Colour and the Shape",
+          "date": "1997-05-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7822977a-984d-358d-823f-426139c0eaba"
+        },
+        {
+          "name": "Medium Rare",
+          "date": "2011-04-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7ae0a614-a3c7-44ab-9d1e-30917c646cc3"
+        },
+        {
+          "name": "Long Road to Ruin",
+          "date": "2007-12-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7e5dd0b3-0d30-4b82-a1f1-fcf31b37f553"
+        },
+        {
+          "name": "Live On the Radio 1996",
+          "date": "2020-10-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7fbc5e0d-1285-497d-b059-fa162c09df50"
+        },
+        {
+          "name": "Have It All",
+          "date": "2003-09-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/857ced9f-4582-3065-918a-9cd565610abd"
+        },
+        {
+          "name": "Next Year",
+          "date": "2000-12-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/85b762c9-3658-4b97-be7d-6043baf23bc6"
+        },
+        {
+          "name": "Foo Fighters - Toronto FM Broadcast The Concert Hall Toronto Canada 3rd April 1996 Part One.",
+          "date": "2020-08-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8b38d562-061f-4f0e-8ce0-e5659a5f0a13"
+        },
+        {
+          "name": "00111125: Live in London",
+          "date": "2019-07-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8b75404d-ebb9-4e3e-a8f7-ae329a7253ae"
+        },
+        {
+          "name": "Songs From the Laundry Room",
+          "date": "2015-04-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8fd2fb57-8aba-445a-846a-ed392ee65f38"
+        },
+        {
+          "name": "The Essential Foo Fighters",
+          "date": "2022-10-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/90862a96-1c5b-47a4-b9be-3099187c3f9e"
+        },
+        {
+          "name": "Wasting Light",
+          "date": "2011-04-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/91825bcf-e51d-4357-986c-ac2a49b4d205"
+        },
+        {
+          "name": "00050525: Live in Roswell",
+          "date": "2005",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/92d4a2ba-fe7e-41d6-af79-a25cc7ccfaa6"
+        },
+        {
+          "name": "Resolve",
+          "date": "2005-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9778aae5-9482-3000-9d56-b7568f98104a"
+        },
+        {
+          "name": "Sonic Highways",
+          "date": "2014-11-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9908fab7-baf6-4438-b82c-298bd2c18d98"
+        },
+        {
+          "name": "iTunes Festival: London 2011",
+          "date": "2011-07-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9b53ca83-9c88-437f-a37c-91a02dde8a7e"
+        },
+        {
+          "name": "00950025",
+          "date": "2019-07-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9bca9496-7a7f-457b-a0b7-54572fb8c7d3"
+        },
+        {
+          "name": "Five Songs and a Cover",
+          "date": "2005-11-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9c353f3e-b519-378f-82a0-95b53f720e4f"
+        },
+        {
+          "name": "The One",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9f728e43-3aad-3339-b727-4ef68a262046"
+        },
+        {
+          "name": "What Did I Do? / God as My Witness",
+          "date": "2014-11-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a2a2bab8-ce7b-49d5-9a18-9a8f5a6d09c6"
+        },
+        {
+          "name": "White Limo",
+          "date": "2011-03-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a65aa499-b2a1-40ab-b706-51eb535b3a2d"
+        },
+        {
+          "name": "Wheels",
+          "date": "2009-11-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a76decf5-a1ec-4a87-9c33-67bc24045ad3"
+        },
+        {
+          "name": "00999925",
+          "date": "2019-12-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a9a5bf11-edd7-4917-b68b-58a92a860202"
+        },
+        {
+          "name": "Rope",
+          "date": "2011-02-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a9e57fb4-8733-41f7-8261-2a1c2c51fb6f"
+        },
+        {
+          "name": "One by One",
+          "date": "2002-10-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a9f6787f-0c0b-39e2-aaf7-befba34727b4"
+        },
+        {
+          "name": "Making a Fire (Mark Ronson Re-Version)",
+          "date": "2021-06-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ac2f1329-e78a-480d-a31d-96492145f475"
+        },
+        {
+          "name": "Saint Cecilia EP",
+          "date": "2015-11-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aca2b2b2-05ba-44f6-bde5-5e1f1ad7af82"
+        },
+        {
+          "name": "Soldier",
+          "date": "2017-10-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/af9f0852-a7e9-467f-95ed-86accdee8d7d"
+        },
+        {
+          "name": "00959525",
+          "date": "2020-01-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b0168e19-fa05-4fca-89c6-6742d8b19f3e"
+        },
+        {
+          "name": "No Son of Mine",
+          "date": "2021-01-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b4b537c7-e842-4694-84f8-5028b0c5ba9f"
+        },
+        {
+          "name": "Hail Satin",
+          "date": "2021-07-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b6b43afb-06a7-4e5f-b6f7-abfc97bad6d1"
+        },
+        {
+          "name": "Medicine at Midnight",
+          "date": "2021-02-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b7a4aa10-8e23-43ab-84fb-a0664d99f507"
+        },
+        {
+          "name": "But Here We Are",
+          "date": "2023-06-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b8b9df75-b781-4363-9ec1-2520a4445a09"
+        },
+        {
+          "name": "Are Playing Where??? Vol. II",
+          "date": "2026-08-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ba673a03-5a61-4c6c-a0c6-6508126451af"
+        },
+        {
+          "name": "Your Favorite Toy",
+          "date": "2026-04-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/be128e94-533b-4555-8b94-aca70d83e359"
+        },
+        {
+          "name": "Best of You",
+          "date": "2005-05-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c2bce679-0bc3-3c8c-bb9d-816db5850196"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2009-10-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c54ce9db-9877-4da3-afcd-4da272fb1ef4"
+        },
+        {
+          "name": "Nissan Live Sets At Yahoo! Music",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c8410ccb-a866-46ff-84c1-7c5c1d19a1e0"
+        },
+        {
+          "name": "Foo Fighters - Swedradio FM Broadcast Fryshuset Festival Stockholm Sweden 11th November 1999.",
+          "date": "2021-06-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c9d766e3-7cab-4e65-848c-b8624c8d029a"
+        },
+        {
+          "name": "01070725",
+          "date": "2019-09-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d2ded983-9d62-45c8-a82b-4c12bb2c0d24"
+        },
+        {
+          "name": "The Pretender",
+          "date": "2007-07-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d3c03d3a-85af-39a4-a0f9-df1a7233d05f"
+        },
+        {
+          "name": "00979725",
+          "date": "2019-12-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d47faca5-993c-4c7a-ab3e-ac2cbfcb0f13"
+        },
+        {
+          "name": "No Way Back/Cold Day in the Sun",
+          "date": "2006-03-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d58dd640-6253-4413-816d-378dc0e70ee8"
+        },
+        {
+          "name": "Foo Fighters - Sydney FM Radio Broadcast Sydney RAS Showground Australia 26th January 2000.",
+          "date": "2021-06-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d739af83-ccdd-4728-b6f9-1619886a1156"
+        },
+        {
+          "name": "Are Playing Where??? Vol. I",
+          "date": "2025-10-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d8875a39-7734-4824-ad58-a0832a05b631"
+        },
+        {
+          "name": "Learn to Fly",
+          "date": "1999-10-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/db68b116-0ee9-3dfe-92f3-7c5158fbb56d"
+        },
+        {
+          "name": "The Sky Is a Neighborhood",
+          "date": "2017-08-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dcc393fa-948d-47fd-92e5-2d75fbeea764"
+        },
+        {
+          "name": "Skin and Bones + Hyde Park",
+          "date": "2006-11-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dd1cb9ef-5066-475c-98c6-58f5f988309a"
+        },
+        {
+          "name": "Concrete and Gold",
+          "date": "2017-09-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e0335c44-58cd-433c-86d3-e114b14b7111"
+        },
+        {
+          "name": "01020225",
+          "date": "2019-10-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e3cb8327-efb7-4680-9473-dab986e6283f"
+        },
+        {
+          "name": "Congregation",
+          "date": "2014-10-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e4246ab5-9b1b-488b-865a-29b10d886704"
+        },
+        {
+          "name": "Live in Amsterdam 2000",
+          "date": "2000-07-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e89efb02-5154-4059-a1dd-671550144875"
+        },
+        {
+          "name": "Foo Fighters - Toronto FM Broadcast The Concert Hall Toronto Canada 3rd April 1996 Part Two.",
+          "date": "2020-08-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e89fe690-0782-4a86-87bb-3b88085228c7"
+        },
+        {
+          "name": "Cheer Up, Boys (Your Make Up Is Running)",
+          "date": "2008-04-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ea4fc738-5d7e-4a77-b2d1-45b9a7db52c1"
+        },
+        {
+          "name": "Shame Shame",
+          "date": "2020-11-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/eae0fdb0-d30a-4e19-8545-c59aa615f319"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2009-10-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/edc167ea-ca3e-4178-9f2e-f43d62b19380"
+        },
+        {
+          "name": "DVD/EP",
+          "date": "2003-07-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/efc992cc-020b-46b9-a505-63233b215435"
+        },
+        {
+          "name": "Everywhere But Home",
+          "date": "2003-11-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f0eae3c6-a8e4-4047-8bc6-b92b31444399"
+        },
+        {
+          "name": "Walk",
+          "date": "2011-06-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f4333333-7af6-4683-85fe-b2c34d84520d"
+        },
+        {
+          "name": "02050525",
+          "date": "2019-11-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f4799bdf-a004-4070-8183-54e81592965e"
+        },
+        {
+          "name": "The Feast and the Famine",
+          "date": "2014-10-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f6d1e84f-aa0d-4652-bfd1-c97ba556cc34"
+        },
+        {
+          "name": "Chasing Birds (Preservation Hall Jazz Band Re-Version)",
+          "date": "2021-10-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f6ed4e88-66fb-4e41-90a1-3e4e11d9cab3"
+        },
+        {
+          "name": "Low",
+          "date": "2003-06-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f8e4ecf6-3f15-3daf-bbbf-51ff2d6475f6"
+        },
+        {
+          "name": "Breakout",
+          "date": "2000-07-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fc49efb8-e596-325e-b101-ded441f3f040"
+        }
+      ]
     }
   },
   "checked": {
@@ -10955,6 +11818,8 @@
     "enslaved": "2026-10-12T09:21:45.528509+00:00",
     "enter-shikari": "2026-10-12T09:21:49.719557+00:00",
     "entombed": "2026-10-12T12:49:09.909768+00:00",
-    "exodus": "2026-10-12T12:49:11.161861+00:00"
+    "exodus": "2026-10-12T12:49:11.161861+00:00",
+    "fates-warning": "2026-10-12T21:28:28.228891+00:00",
+    "foo-fighters": "2026-10-12T21:28:37.469364+00:00"
   }
 }

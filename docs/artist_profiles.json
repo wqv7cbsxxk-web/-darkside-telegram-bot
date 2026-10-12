@@ -361,7 +361,7 @@
     },
     "blue-oyster-cult": {
       "origin": "Stony Brook, New York , U.S.",
-      "genres": "Hard rock heavy metal progressive rock occult rock psychedelic rock (early) acid rock (early) pop rock (1980s)",
+      "genres": "Hard rock heavy metal progressive rock occult rock",
       "years_active": "1967–1986 1987–present",
       "members": [
         {
@@ -388,8 +388,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.blueoystercult.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blue_Oyster_Cult",
-      "reference_checked_at": "2026-10-02T02:21:57.774813+00:00",
-      "tour_attempted_at": "2026-10-12T12:49:02.062543+00:00"
+      "reference_checked_at": "2026-10-12T21:28:15.787040+00:00",
+      "tour_attempted_at": "2026-10-12T12:49:02.062543+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T21:28:15.787132+00:00"
     },
     "cannibal-corpse": {
       "origin": "Buffalo, New York , U.S.",
@@ -420,8 +422,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://cannibalcorpse.net",
       "reference_url": "https://en.wikipedia.org/wiki/Cannibal_Corpse",
-      "reference_checked_at": "2026-10-02T02:22:02.532849+00:00",
-      "tour_attempted_at": "2026-10-02T23:00:27.578664+00:00"
+      "reference_checked_at": "2026-10-12T21:28:15.983013+00:00",
+      "tour_attempted_at": "2026-10-12T21:28:16.871310+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T21:28:15.983162+00:00"
     },
     "dark-tranquillity": {
       "origin": "Billdal , Gothenburg , Sweden",
@@ -456,8 +460,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://darktranquillity.com",
       "reference_url": "https://en.wikipedia.org/wiki/Dark_Tranquillity",
-      "reference_checked_at": "2026-10-02T02:22:02.611122+00:00",
-      "tour_attempted_at": "2026-10-02T23:00:28.392130+00:00"
+      "reference_checked_at": "2026-10-12T21:28:16.139266+00:00",
+      "tour_attempted_at": "2026-10-12T21:28:18.063216+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T21:28:16.139284+00:00"
     },
     "darkthrone": {
       "origin": "Kolbotn , Akershus , Norway",
@@ -476,7 +482,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Darkthrone",
-      "reference_checked_at": "2026-10-02T02:22:02.626031+00:00"
+      "reference_checked_at": "2026-10-12T21:28:16.301938+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T21:28:16.301957+00:00"
     },
     "deftones": {
       "origin": "Sacramento, California , U.S.",
@@ -503,19 +511,48 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://deftones.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deftones",
-      "reference_checked_at": "2026-10-02T02:22:08.129081+00:00",
-      "tour_attempted_at": "2026-10-02T23:00:29.122926+00:00"
+      "reference_checked_at": "2026-10-12T21:28:16.517365+00:00",
+      "tour_attempted_at": "2026-10-12T21:28:18.864921+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T21:28:16.517529+00:00"
     },
     "death": {
       "origin": "Altamonte Springs, Florida , U.S.",
       "genres": "Death metal progressive metal technical death metal",
       "years_active": "1983–1995 1997–2001",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Final lineup:",
+          "role": ""
+        },
+        {
+          "name": "Chuck Schuldiner",
+          "role": ""
+        },
+        {
+          "name": "Shannon Hamm",
+          "role": ""
+        },
+        {
+          "name": "Richard Christy",
+          "role": ""
+        },
+        {
+          "name": "Scott Clendenin",
+          "role": ""
+        },
+        {
+          "name": "List of previous members",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://emptywords.org",
       "reference_url": "https://en.wikipedia.org/wiki/Death_%28metal_band%29",
-      "reference_checked_at": "2026-10-02T02:22:08.222417+00:00",
-      "tour_attempted_at": "2026-10-02T23:00:29.754309+00:00"
+      "reference_checked_at": "2026-10-12T21:28:16.694616+00:00",
+      "tour_attempted_at": "2026-10-12T21:28:19.671668+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-12T21:28:16.694636+00:00"
     },
     "def-leppard": {
       "origin": "Sheffield , England",
