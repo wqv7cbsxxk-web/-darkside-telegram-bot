@@ -11,6 +11,7 @@ on:
       - 'bot.py'
       - 'tests/**'
       - 'build_mini_app_data.py'
+      - 'docs/app.js'
       - '.github/workflows/darkside.yml'
   schedule:
     - cron: "2-59/5 * * * *"
