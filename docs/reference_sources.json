@@ -10587,6 +10587,334 @@
           "source_url": "https://musicbrainz.org/release-group/feae7342-c57d-4639-bea2-dfaf29df1019"
         }
       ]
+    },
+    "entombed": {
+      "name": "Entombed",
+      "musicbrainz_url": "https://musicbrainz.org/artist/61b99cc4-06cd-4ad5-9bac-950b2daef9cc",
+      "reference_checked_at": "2026-10-12T12:49:09.909630+00:00",
+      "genres": "death 'n' roll, death metal, metal",
+      "bandcamp_url": "https://entombedband.bandcamp.com/",
+      "website": "http://www.entombed.org/",
+      "members": [
+        {
+          "name": "Nicke Andersson",
+          "role": "drums (drum set), original",
+          "begin": "2016"
+        },
+        {
+          "name": "Uffe Cederlund",
+          "role": "guitar, original",
+          "begin": "2016"
+        },
+        {
+          "name": "Alex Hellid",
+          "role": "guitar, original",
+          "begin": "2016"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/61b99cc4-06cd-4ad5-9bac-950b2daef9cc",
+      "albums": [
+        {
+          "name": "Twilight of the Gods",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0384e586-9190-31d3-a381-6196e8fd4d71"
+        },
+        {
+          "name": "Sons of Satan Praise the Lord",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/049524ee-6c21-33bd-9b80-04c5736355a1"
+        },
+        {
+          "name": "Stranger Aeons",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0679eabd-1384-3ebf-883e-797ccf230bc8"
+        },
+        {
+          "name": "Drowned",
+          "date": "2013-04-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0c9a4ad6-d62b-41c2-a846-5da9cb983292"
+        },
+        {
+          "name": "Gods of Grind on Tour",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0f849cba-b13c-4c2a-b174-bb946b1c900f"
+        },
+        {
+          "name": "Wolverine Blues",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/11b9fb76-d172-47e7-b5b5-fddd1b8c734d"
+        },
+        {
+          "name": "Inferno",
+          "date": "2003-08-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1435311b-81bf-35cd-95fe-1beb61f5aef8"
+        },
+        {
+          "name": "Morning Star",
+          "date": "2001-05-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/19c81859-6b2e-3159-bb07-258ca0b122d8"
+        },
+        {
+          "name": "Amok (2012 Ninetone Version)",
+          "date": "2012-05-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/355e8ce1-db91-4ecf-82e0-e52962a927b8"
+        },
+        {
+          "name": "Left Hand Path",
+          "date": "1990-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3f5ce50c-78a7-30f8-8a03-34b3d7aea9b9"
+        },
+        {
+          "name": "Early Years",
+          "date": "2024-03-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/40bb6827-b09b-49df-9c16-00364965fcc6"
+        },
+        {
+          "name": "Classic Vinyl Collection",
+          "date": "2014-04-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/43bb142a-96a1-4da3-b088-0e6cf3387cef"
+        },
+        {
+          "name": "2006-06-08: Sweden Rock Festival, Norje, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4f7a8c49-dde2-4acf-8d56-2ac41141b280"
+        },
+        {
+          "name": "Night of the Vampires",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/59685715-ab7e-4404-9522-eda618510670"
+        },
+        {
+          "name": "Sinners Bleed",
+          "date": "2019-03-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/599bbc39-4999-482d-abb2-8c49333fb81e"
+        },
+        {
+          "name": "Black Juju",
+          "date": "1999-12-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6040f70a-88aa-31b1-adee-04293a19a96c"
+        },
+        {
+          "name": "Candlemass vs Entombed",
+          "date": "2012",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/60db9f52-8594-4813-9d48-981ccb78fcde"
+        },
+        {
+          "name": "The Best of Entombed",
+          "date": "2016-09-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/69274071-011c-4749-865f-a3500aa7e996"
+        },
+        {
+          "name": "Two Track Sampler",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/783b8a5f-25ae-4e2e-9d84-36e52c4d9adb"
+        },
+        {
+          "name": "Uprising",
+          "date": "2000-03-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/78a573b1-1652-3002-9165-c23bed1dd6af"
+        },
+        {
+          "name": "10 Track Reissue Special",
+          "date": "2013-10-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/80486739-895b-48a8-87f8-7ab08d81c020"
+        },
+        {
+          "name": "1997-06-13: Hultsfred Festival, Hultsfred, Sweden",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/80ea73c2-84f4-311f-9bdd-aab9669cc601"
+        },
+        {
+          "name": "But Life Goes On",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/824f863b-d552-3687-b05d-ff88aed3050f"
+        },
+        {
+          "name": "To Ride, Shoot Straight and Speak the Truth",
+          "date": "2014-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8e383479-b57b-4c28-b042-2b0d41a83249"
+        },
+        {
+          "name": "Two Track Sampler",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8ee9815a-8c6c-3daa-86f0-7522b3b4bec6"
+        },
+        {
+          "name": "Monkey Puss (Live in London)",
+          "date": "1998-09-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8ff71b89-8afa-398a-a8d7-9e16a80f5def"
+        },
+        {
+          "name": "Clandestine",
+          "date": "1991-11-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9044d3bc-862d-31e6-8c71-7e9046cb6aa7"
+        },
+        {
+          "name": "Same Difference",
+          "date": "1998",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/905e44ad-54b0-3768-a9be-8a817bd0fa94"
+        },
+        {
+          "name": "2009-02-16: Pakkahuone, Tampere, Finland",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/95fe4a6f-36dc-3aa7-8383-f2bc95d95755"
+        },
+        {
+          "name": "2011-03-19: Hammerfest, Pontins Holiday Village, Prestatyn, Wales, UK",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9cdfec20-bb9c-4812-91a2-704c8a3497e0"
+        },
+        {
+          "name": "Hollowman",
+          "date": "1993-03-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9e068df5-d1d9-3d6e-8319-9ebef393cff7"
+        },
+        {
+          "name": "Out of Hand",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a3054658-7cf6-39ee-82cd-13653c9c0905"
+        },
+        {
+          "name": "Contempt",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a67dcba0-5b6f-4480-81af-d0eb560882f4"
+        },
+        {
+          "name": "When in Sodom",
+          "date": "2006-06-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c5629890-6f73-3c96-8a63-776ca68a723b"
+        },
+        {
+          "name": "Full of Hell",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c88c445d-09d6-3f35-a2e9-36c667ac0ae5"
+        },
+        {
+          "name": "1999-07-03: Hultsfred Festival, Hultsfred, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cf2141c1-5e3c-33c1-9918-19c660e5a011"
+        },
+        {
+          "name": "Serpent Saints: The Ten Amendments",
+          "date": "2007-06-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cf2f8726-1673-3db7-9db3-22715ad83b8f"
+        },
+        {
+          "name": "Clandestine Malmö",
+          "date": "2017-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d1ac14b5-10c5-4048-933c-6d3325879038"
+        },
+        {
+          "name": "Stranger Aeons",
+          "date": "2019-04-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d2a76a39-ed40-4adb-bbaf-9c145da904d9"
+        },
+        {
+          "name": "When in Sodom Revisited",
+          "date": "2012",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d5830d17-5131-45ea-84d8-54116240dfa6"
+        },
+        {
+          "name": "Crawl",
+          "date": "1991-09-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d959870b-a530-37d4-b4ac-24de75c0e0ce"
+        },
+        {
+          "name": "Clandestine - Live",
+          "date": "2019-05-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d9cb86c3-91ab-49b1-b298-8c1ad718400d"
+        },
+        {
+          "name": "Entombed / The New Bomb Turks",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dd81e903-a4bc-4160-8372-1c232df05f0c"
+        },
+        {
+          "name": "Unreal Estate",
+          "date": "2005-02-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ddac40e2-e783-358f-b685-d24a726c50d4"
+        },
+        {
+          "name": "2002-02-09: Popstad Festival, Skellefteå, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/df5825d3-63a8-3077-8de9-c8032caf2523"
+        },
+        {
+          "name": "Out of Hand / Wolverine Blues",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dfb9aaab-5e4f-483f-829e-56dec5b727d2"
+        },
+        {
+          "name": "Entombed",
+          "date": "1997-03-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e3e6960d-0d81-38d3-9747-eaf14fb86081"
+        },
+        {
+          "name": "DCLXVI: To Ride, Shoot Straight and Speak the Truth",
+          "date": "1997-03-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e4dd93ab-3bab-392d-8081-a4af0f63a560"
+        },
+        {
+          "name": "Wreckage",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/eca4e586-4f25-3183-9537-7066a693eda8"
+        },
+        {
+          "name": "Wolverine Blues",
+          "date": "1993-10-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fd73f60d-e19a-3420-94f7-8d26334989e8"
+        }
+      ]
     }
   },
   "checked": {
@@ -10625,6 +10953,8 @@
     "eminem": "2026-10-07T00:11:35.568103+00:00",
     "emperor": "2026-10-07T00:11:36.857750+00:00",
     "enslaved": "2026-10-12T09:21:45.528509+00:00",
-    "enter-shikari": "2026-10-12T09:21:49.719557+00:00"
+    "enter-shikari": "2026-10-12T09:21:49.719557+00:00",
+    "entombed": "2026-10-12T12:49:09.909768+00:00",
+    "exodus": "2026-10-12T12:49:11.161861+00:00"
   }
 }
