@@ -11778,6 +11778,533 @@
           "source_url": "https://musicbrainz.org/release-group/fc49efb8-e596-325e-b101-ded441f3f040"
         }
       ]
+    },
+    "gentle-giant": {
+      "name": "Gentle Giant",
+      "musicbrainz_url": "https://musicbrainz.org/artist/f795c501-1c41-4be2-bc2a-875eba75aa31",
+      "reference_checked_at": "2026-10-13T02:45:15.594174+00:00",
+      "genres": "art rock, avant-prog, progressive rock",
+      "website": "http://www.blazemonger.com/GG",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/f795c501-1c41-4be2-bc2a-875eba75aa31",
+      "albums": [
+        {
+          "name": "Prologue",
+          "date": "2000-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/016310c6-67f2-4dee-93cb-fd920edafd5a"
+        },
+        {
+          "name": "Octopus",
+          "date": "1972-10-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/11d1c7a9-87d1-3f3f-90eb-8e0edb636085"
+        },
+        {
+          "name": "Live Rome 1974",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1296401e-0088-4652-a630-3cc3188614b0"
+        },
+        {
+          "name": "In’terview in Concert",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/137ef5d0-cc8c-4e57-a3d5-b00541d60efe"
+        },
+        {
+          "name": "Three Friends / Octopus",
+          "date": "2013",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/14a086e7-59cf-479d-9737-075e01c4fc82"
+        },
+        {
+          "name": "I’m Turning Around",
+          "date": "1977",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/168818d4-609f-4ae5-8d71-1db0d45fbf66"
+        },
+        {
+          "name": "Pretentious",
+          "date": "1977",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1daa4821-34af-4f43-9cb9-6685c98a2dff"
+        },
+        {
+          "name": "Live (Playing the Fool) / Civilian",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1f5ccfb5-cae9-498d-aac7-eb480057a338"
+        },
+        {
+          "name": "The Advent of Panurge / Prologue",
+          "date": "1973",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1fed2b77-06ff-49a8-a27f-9078f0edf98c"
+        },
+        {
+          "name": "In a Power Free Interview",
+          "date": "2009-11-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/25138760-9b72-481a-9100-767044d0a67e"
+        },
+        {
+          "name": "Out of the Fire: The BBC Concerts",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/25c2376e-421d-3769-897a-b15fc5972793"
+        },
+        {
+          "name": "Playing the Foole",
+          "date": "1975-09-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/27b94091-ef2a-4361-9a9c-6a4ff7f7ae10"
+        },
+        {
+          "name": "Live in Essen, Germany 1971",
+          "date": "2012",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2811affc-1e10-49cb-9538-444e09d4d69a"
+        },
+        {
+          "name": "Live in Stockholm ’75",
+          "date": "2009-04-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2a64c793-e1c4-4807-8ceb-82b8039419f1"
+        },
+        {
+          "name": "Mountain Time / Another Show",
+          "date": "1977",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/328bb5a2-361a-45a3-9cb8-dd76ae3d9f32"
+        },
+        {
+          "name": "Out of the Woods: The BBC Sessions",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/393a8884-372b-3f08-9afc-52965e6c48ec"
+        },
+        {
+          "name": "Live at the Bicentennial 1776–1976",
+          "date": "2014-11-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/39b55413-7da9-479d-aa4d-622f01059115"
+        },
+        {
+          "name": "The Essential of Gentle Giant",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3b76c51e-59b8-4b39-9fa3-151204666c87"
+        },
+        {
+          "name": "Gentle Giant",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3f954221-d1c9-40dd-a1e3-4bb1f9e2ac6f"
+        },
+        {
+          "name": "Thank You / Spooky Boogie",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4249e40d-29f0-45ce-974c-6ab0daba5291"
+        },
+        {
+          "name": "The Last Giant Step",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/442d4084-23f5-4d9f-9417-e83cbddbf901"
+        },
+        {
+          "name": "Three Piece Suite",
+          "date": "2017-09-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4bc02bce-def3-471b-a799-70f2a613bf32"
+        },
+        {
+          "name": "Playing the Fool",
+          "date": "1977-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4bee42c1-c325-4516-a2ce-c3eb2506fbdc"
+        },
+        {
+          "name": "Underground / Convenience",
+          "date": "1980",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4f1ba026-be18-455a-9d55-034bbce8478b"
+        },
+        {
+          "name": "The Missing Face",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5d3c7f05-acf2-4db4-a97a-4aa1fb1c5d67"
+        },
+        {
+          "name": "Way of Life",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5fb57a54-fbf0-3bcb-a844-b6c74fbe8675"
+        },
+        {
+          "name": "Acquiring the Taste",
+          "date": "1971-07-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/63de3b9c-e71b-3f4d-af82-216011f95805"
+        },
+        {
+          "name": "The Original Studio Gentle Giant, Vol. 2",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6ed8bd35-6424-4e9e-bf52-fb23ffe95c8d"
+        },
+        {
+          "name": "Giant Steps… The First Five Years",
+          "date": "1976",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6f4988e7-aad8-4b0e-9bf2-35a00608b58e"
+        },
+        {
+          "name": "1975‐10‐07: Hempstead, NY, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/71709f33-e12a-457c-80b0-32b0a6db8608"
+        },
+        {
+          "name": "GG at the GG",
+          "date": "2006-04-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/73ee74fc-1660-436b-afeb-3b5c5aed002c"
+        },
+        {
+          "name": "Amongst the Darkers",
+          "date": "1975",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/748fdf71-144c-48c0-85bf-e0cca45b34d1"
+        },
+        {
+          "name": "The Last Steps",
+          "date": "1996-11-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7807a51e-fd81-3f7d-8a60-491222c62747"
+        },
+        {
+          "name": "Changing Voices (live Brussels ’74)",
+          "date": "2025-12-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/78194f60-3c3b-47b9-8c09-8b6d219c2b73"
+        },
+        {
+          "name": "Live on the King Biscuit Flower Hour",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7dcd6450-f098-33ad-8236-fd9b10aa49f1"
+        },
+        {
+          "name": "The Missing Piece",
+          "date": "1977-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7ea5a189-2123-3bbc-8ca4-8bd387940bf1"
+        },
+        {
+          "name": "I’m Turning Around / Just the Same",
+          "date": "1977",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7fe5b6f0-06dd-4b8b-8a7f-5fbe651acf3b"
+        },
+        {
+          "name": "Giant on the Box",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/816c33a2-4e0d-3daf-af25-51203ec83b0c"
+        },
+        {
+          "name": "Dando vueltas / Two Weeks in Spain",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8294e278-fcf9-476f-92d1-77dfe4cc3711"
+        },
+        {
+          "name": "Two Weeks in Spain / Free Hand",
+          "date": "1977",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/85640242-f433-4b77-b6c5-5980e026a83a"
+        },
+        {
+          "name": "Three Friends",
+          "date": "1972-04-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8adcc73f-766e-3139-ad30-e88d35f5f85d"
+        },
+        {
+          "name": "Gentle Giant",
+          "date": "1982",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8b5c3e99-d5c7-4909-a275-d0e9d62afe5e"
+        },
+        {
+          "name": "Playing the Cleveland",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8d81ea13-167e-4448-86c2-d0e2e2c11a38"
+        },
+        {
+          "name": "The Original Studio Gentle Giant, Vol. 1",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8fc2726c-8c22-4441-a8ad-7e5ab070b04a"
+        },
+        {
+          "name": "Live in New York 1975",
+          "date": "2005-06-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8fd5fffb-cf45-44bf-8d93-f5d7bab139eb"
+        },
+        {
+          "name": "Playing the Fool – Gentle Giant on Tour",
+          "date": "1977",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/93126381-2016-41ec-ab2e-79f74a85a689"
+        },
+        {
+          "name": "Gentle Giant",
+          "date": "1970-11-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/982d0c6c-ce5e-3b0a-b655-2972d785eb65"
+        },
+        {
+          "name": "The Last Giant Step - N.Y. 1980",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9ba96bbf-b2ed-4a50-9d3a-d86638b51652"
+        },
+        {
+          "name": "Free Hand",
+          "date": "1975-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9ca0bdc8-64f2-3b92-8119-afb84d28a5a6"
+        },
+        {
+          "name": "Free Hand + Interview",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9d93cdbb-8790-3eac-8429-e9b6f386e342"
+        },
+        {
+          "name": "Endless Life",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a147f8c5-fbdc-49e6-9e6f-2da278455af3"
+        },
+        {
+          "name": "Prologue / Working All Day / Three Friends",
+          "date": "1972",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a2462e94-64f3-40c9-b36b-a3d3f55bed59"
+        },
+        {
+          "name": "Interview",
+          "date": "1976-04-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a53e46e3-ceff-3a14-994f-675c4b4db816"
+        },
+        {
+          "name": "Scraping the Barrel",
+          "date": "2004-11-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a56bf17a-ca5f-4b9d-85a4-841188102c2c"
+        },
+        {
+          "name": "I Lost My Head: The Chrysalis Years (1975–1980)",
+          "date": "2012-08-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a6275590-f835-42b2-847b-937f554a906a"
+        },
+        {
+          "name": "Words From the Wise / Spooky Boogie",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a66b7969-6790-460c-bb14-290eb8d216d7"
+        },
+        {
+          "name": "The WLIR FM Sessions",
+          "date": "2009",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a9d6fb2c-4653-45e3-9972-07f88faa76ad"
+        },
+        {
+          "name": "Champions of Rock",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/aa3b5cbf-2b12-3f7d-9a95-95b5c951f56e"
+        },
+        {
+          "name": "Words From the Wise / No Stranger",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aac34a81-d8e3-4d01-8629-81e3b96de262"
+        },
+        {
+          "name": "Words From the Wise",
+          "date": "1978-10-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b03bdee0-65b4-4a8a-835d-c56afbc12295"
+        },
+        {
+          "name": "The Power and the Glory / Proclamation",
+          "date": "2010",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b1706028-b4b8-459a-a61a-69cd0fc258ad"
+        },
+        {
+          "name": "Under Construction",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b5db4277-5f0a-3ccf-8587-7c367b5496e3"
+        },
+        {
+          "name": "In a Glass House",
+          "date": "1973-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ba567eb2-9290-3b5e-a4e9-831bbd78abe0"
+        },
+        {
+          "name": "The Power and the Glory / Playing the Game",
+          "date": "1974",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bc135a68-56c0-4335-bcb5-a6b0f5d03d24"
+        },
+        {
+          "name": "Unburied Treasure",
+          "date": "2019-12-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bd16b89d-b3b2-43d6-9b50-d6d53f988d63"
+        },
+        {
+          "name": "Memories of Old Days",
+          "date": "2013",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c40f28d7-416f-42be-bcee-8e1a3bb03071"
+        },
+        {
+          "name": "Civilian",
+          "date": "1980",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c5c65652-511a-389d-a586-f2b3c6ac51bd"
+        },
+        {
+          "name": "I’m Turning Around / Cogs in Cogs",
+          "date": "1977",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cd486a63-21aa-40c5-a738-f4d77e892fe5"
+        },
+        {
+          "name": "Gargantua",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cda92e33-7f81-4729-9736-10a4e4f3966d"
+        },
+        {
+          "name": "Edge of Twilight",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cec03a61-8fc6-3675-b0a4-f36164e6c4ba"
+        },
+        {
+          "name": "Artistically Cryme",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cf45f14c-22a9-4aab-9903-f279f8ff32ba"
+        },
+        {
+          "name": "Live in Santa Monica 1975",
+          "date": "2005",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d4ef0b51-4208-4a31-af08-c50c6a5e6fe0"
+        },
+        {
+          "name": "The Missing Piece / Giant for a Day",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d9732d3e-a70b-3cd5-8ff5-c3e3cf980183"
+        },
+        {
+          "name": "Circling Round the Gentle Giant",
+          "date": "1981",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d9e2e6f6-c74f-4311-a5ce-17c8a1df2d3d"
+        },
+        {
+          "name": "In Concert",
+          "date": "1978",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dbe4b507-3afc-3b4c-b7ff-8091aa2edd3e"
+        },
+        {
+          "name": "Give It Back / Empty City",
+          "date": "1976",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dc9c3ea6-053b-478a-91cb-6b8d9847fcbd"
+        },
+        {
+          "name": "Three Friends / Gentle Giant",
+          "date": "1979",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/deb190c1-70d4-4202-ba8d-a3eae9641440"
+        },
+        {
+          "name": "Giant for a Day",
+          "date": "1978-09-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dec55ec4-4622-327b-98d3-34a3c9846a7b"
+        },
+        {
+          "name": "All Through the Night / Convenience",
+          "date": "1980",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ec8af591-d851-42ac-9817-ea0be2fa3366"
+        },
+        {
+          "name": "Gentle Giant / Acquiring the Taste",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ee4d86d0-5781-43a8-adaa-840281e26220"
+        },
+        {
+          "name": "In a Palesport House",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f0f6d914-4c79-4776-a31c-7c6dac9f4ec4"
+        },
+        {
+          "name": "In’terview [1976] + In a Glass House [1973]",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f2826f6c-4b82-468d-98b4-d84ea74b4599"
+        },
+        {
+          "name": "In a Glass House / An Inmates Lullaby",
+          "date": "1973",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f953d8c4-4409-4c4a-a3d7-cd59698d780e"
+        },
+        {
+          "name": "King Alfred’s College",
+          "date": "2009-07-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fb741460-38c3-4846-821a-d3817dd1a5af"
+        },
+        {
+          "name": "The Power and the Glory",
+          "date": "1974",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fbcbd0e0-ab86-3fa5-b504-2f8b87e649b2"
+        },
+        {
+          "name": "Experience",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fe1e943a-509b-405e-86e7-0849018b8231"
+        }
+      ]
     }
   },
   "checked": {
@@ -11820,6 +12347,8 @@
     "entombed": "2026-10-12T12:49:09.909768+00:00",
     "exodus": "2026-10-12T12:49:11.161861+00:00",
     "fates-warning": "2026-10-12T21:28:28.228891+00:00",
-    "foo-fighters": "2026-10-12T21:28:37.469364+00:00"
+    "foo-fighters": "2026-10-12T21:28:37.469364+00:00",
+    "genesis": "2026-10-13T02:45:10.532590+00:00",
+    "gentle-giant": "2026-10-13T02:45:15.594304+00:00"
   }
 }
