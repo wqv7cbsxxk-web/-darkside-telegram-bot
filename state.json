@@ -452,49 +452,18 @@
     "0b1713c97ca9e09bc2e035bbc4b5a3f36063ca27",
     "76e79a6f6210e0bb83fab6f157ec1d83de752514",
     "1d5c67ff05408f2397943ed9b26291fee3ee606a",
-    "8571cba3863a6f900d28a75b05809f3ec5a88686"
+    "8571cba3863a6f900d28a75b05809f3ec5a88686",
+    "769efc00aa7c6ceda9baf5af0382f031ae7c425f",
+    "10d292b975ea22ee0c3a31e9b8487dcfb4b59d07",
+    "dd768c0b9388d7fbdfeeebfff06e3e4075bb8fe0",
+    "b80a247e3eab7a952d23659140d24060254d0810",
+    "c167942c0388cc5d726700db577bdfc75365a7e1",
+    "efaffc5b1dcdb0636085e9fc7b28c4ab57a58c00",
+    "fcd31c6037af212ecd447eef5e1cf830fb60a5a5",
+    "d522013eec42d01d62aa2d5d37189d62a8d0f7ff",
+    "23644589e6969190a96c2a2ee853738f228edc3e"
   ],
   "recent_titles": [
-    {
-      "title": "Roman Candle are bringing screamo back - with a nu metal twist",
-      "source": "Louder",
-      "ts": 1791074206
-    },
-    {
-      "title": "DIE APOKALYPTISCHEN REITER на NAPALM RECORDS",
-      "source": "Darkside",
-      "ts": 1791074208
-    },
-    {
-      "title": "JAMI MORGAN и ERIC &#039;SHADE&#039; BALDEROSE в NOWHERE2RUN",
-      "source": "Darkside",
-      "ts": 1791074240
-    },
-    {
-      "title": "Watch: Dave Grohl Joined AC/DC For “Highway To Hell” At New Jersey Show",
-      "source": "ThePRP",
-      "ts": 1791074284
-    },
-    {
-      "title": "Компиляция MR. BIG выйдет на виниле и SACD",
-      "source": "Darkside",
-      "ts": 1791074286
-    },
-    {
-      "title": "Hear Shiner’s Allen Epley Guest On Fotocrime’s “Cages” Ahead Of Their Tour Together",
-      "source": "ThePRP",
-      "ts": 1791074294
-    },
-    {
-      "title": "Kid Rock Hopes His New Collab With Eminem Can Set An Example For Friends/Family Who Split Over Opposing Beliefs",
-      "source": "ThePRP",
-      "ts": 1791074558
-    },
-    {
-      "title": "Tom Morello Weighs In On Ed Sheeran/Macklemore Controversy: “Has Ed Sheeran Never Seen A Macklemore Performance Before In The Last Three Years?”",
-      "source": "ThePRP",
-      "ts": 1791074581
-    },
     {
       "title": "SEEN AND HEARD ON A SATURDAY: OBSCVRE SER, ASSUMPTION, RISE ABOVE DEAD, VOID SECTOR ZERO, ACÉDIA, DISFEAR",
       "source": "No Clean Singing",
@@ -1254,6 +1223,46 @@
       "title": "UNLEASHED почтили память Кроноса",
       "source": "Darkside",
       "ts": 1791884825
+    },
+    {
+      "title": "Новое видео RELIQA",
+      "source": "Darkside",
+      "ts": 1791911487
+    },
+    {
+      "title": "Новое видео IAN PERRY",
+      "source": "Darkside",
+      "ts": 1791911489
+    },
+    {
+      "title": "Новое видео GLORYHAMMER",
+      "source": "Darkside",
+      "ts": 1791911490
+    },
+    {
+      "title": "Новое видео HEATHEN",
+      "source": "Darkside",
+      "ts": 1791911492
+    },
+    {
+      "title": "Sharon Osbourne says that doctors warned Ozzy that his farewell live show would kill him",
+      "source": "Louder",
+      "ts": 1791911507
+    },
+    {
+      "title": "New Staind Single “Ghosts” Due Out This Week",
+      "source": "ThePRP",
+      "ts": 1791911511
+    },
+    {
+      "title": "Ameonna (Ex-Chelsea Grin) Debut New Song “Of Sin & Secrecy” Ahead Of Their Live Debut",
+      "source": "ThePRP",
+      "ts": 1791911516
+    },
+    {
+      "title": "GREAT FALLS – THE BITE THAT GROWS UP",
+      "source": "No Clean Singing",
+      "ts": 1791911575
     }
   ],
   "initialized_sources": [
@@ -3405,6 +3414,186 @@
       "category": "Экстремальный метал",
       "published": "2026-10-12T21:48:16+00:00",
       "id": "01a0d2cfa3d7f1ad13b67d4756a41174462593e3",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "A Perfect Circle Launch “Starless” Music Video",
+      "link": "https://www.theprp.com/2026/10/13/news/a-perfect-circle-launch-starless-music-video/",
+      "rss_body": "Featuring footage from the song's live debut in London this past June.",
+      "tags": "News A Perfect Circle",
+      "category": "Хэви-метал",
+      "published": "2026-10-13T16:21:04+00:00",
+      "id": "6fa9e66a27bc3bb4d1d6d699ea1d0cf9eb170e41",
+      "retry_after": 1791911824
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Blue Oyster Cult Announces First 2027 Concerts",
+      "link": "https://ultimateclassicrock.com/blue-oyster-cult-tour-dates-2027/",
+      "rss_body": "The legendary classic rockers will celebrate a couple of important milestones next year as well.",
+      "tags": "Concerts News Blue Oyster Cult UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-13T16:08:03+00:00",
+      "id": "b3483a2937a66c5ce60b948a1df4c2641bc669a5",
+      "retry_after": 1791911855
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Sonic Temple Announces First Round of Bands For 2027 Festival",
+      "link": "https://metalinjection.net/tour-dates/festivals/sonic-temple-announces-first-round-of-bands-for-2027-festival",
+      "rss_body": "Four bands have been announced for the 2027 lineup.",
+      "tags": "Festivals Emmure a perfect circle peelingflesh showing teeth",
+      "category": "Хэви-метал",
+      "published": "2026-10-13T15:39:10+00:00",
+      "id": "d084dcb5b9cf81ee155f4415cc6f2e255a918dbf",
+      "retry_after": 1791911855
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "A roots band created an album so progressively ironic that a label paid for it twice",
+      "link": "https://www.loudersound.com/music/albums/wilco-yankee-hotel-foxtrot-prog",
+      "rss_body": "In 2015\n\nProg\n\nargued that Wilco’s fourth album,\n\nYankee Hotel Foxtrot\n\n, was a much more progressive album than many people have ever realised – made more so by its confused backstory.\n\nTraditionally at least, there’s very little about alt country that can rightfully be considered prog. But then Wilco have never been your average roots band.\n\nBy 2001 they’d issued three albums of country-ish rock with nods to The Replacements, Big Star and Uncle Tupelo, the latter being the former vehicle of Wilco chief Jeff Tweedy. These were records that bled freely into soul, R&B and hard rock, each one an incremental shift from its predecessor in terms of ambition.\n\nYet no one was quite prepared for\n\nYankee Hotel Foxtrot\n\n: a dizzying confection of avant-garde flourishes, arty prog and weird noise, wrapped in just enough melodic know-how to make it utterly palatable.\n\nSuch a record warranted its own creation myth. And boy did it have one. Initially due on September 11 – a portent in itself – Reprise pulled the release, citing what they considered a lack of commercial appeal. The upshot was that Wilco acquired the rights and streamed it free on their website.\n\nYankee Hotel Foxtrot\n\nfinally found a home on Nonesuch, who released it in April 2002. The great irony was that both Nonesuch and Reprise were imprints of AOL Time Warner – in effect, the parent company had bought the album twice.\n\nRelations within the band were equally confused. Drummer Ken Coomer (at Tweedy’s side since Uncle Tupelo) was ousted in favour of the more flexible Glenn Kotche, deemed a better choice to carry off the album’s percussive tics and rhythms.\n\nCo-songwriter Jay Bennett was fired on the project’s completion, after much conflict over Tweedy’s decision to bring in leftfield producer Jim O’Rourke as mixer/engineer.\n\nThe greatest irony of it all was that\n\nYankee Hotel Foxtrot –\n\nas suggested by its title – was an album about communication. Or, more pertinently, our struggle to do so on both a personal and global level. This disconnect was echoed by Tweedy’s use of transmitter static as a recurring motif amid songs that swapped moods as if governed by a random dial.\n\nDistorted guitars elide into experimental jazz on\n\nWar On War\n\n; dissonant art-rock flirts with musique concrète on the epic\n\nI Am Trying To Break Your Heart\n\n; samples from shortwave stations seep into\n\nPoor Places\n\n, rife with electronic effects and semi-classical tones.\n\nComplex, adventurous and often very beautiful indeed,\n\nYankee Hotel Foxtrot\n\nis progressive in the truest sense. And, in light of the fact that it remains Wilco’s biggest seller by some distance – proof that populism and daring need not be mutually exclusive.",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-10-13T15:00:00+00:00",
+      "id": "602481439bf9bba7eec8f9162f76d250c5b31ade",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Black Sabbath's Tony Iommi says Ozzy Osbourne's passing has made him reflect on his own mortality",
+      "link": "https://www.loudersound.com/bands-artists/black-sabbath-tony-iommi-says-ozzy-osbourne-death-has-made-him-reflect-on-his-own-mortality",
+      "rss_body": "Black Sabbath\n\nlegend Tony Iommi has admitted that the death of his bandmate\n\nOzzy Osbourn\n\ne has made him reflect on his own mortality.\n\nIn a new interview with\n\nThe Telegraph\n\n, the guitarist is asked whether his friend's death has served to remind him of his own mortality, to which he responds, “Yes, it does. A lot.\n\n\"I’ve had a few friends go now,\" he says, \"and you think: Blimey, hang on, I’m 78, how much longer? You\n\ndo\n\n. [\n\nQueen\n\nguitarist] Brian May and myself have this conversation. He’s more dismal than me. Bloody hell.\"\n\nIn the interview, Iommi also recalls his final conversation with Osbourne, on July 21 last year, the day before the singer died.\n\n“Ozzy said, ‘I’m really tired. I’m absolutely shattered,\" Iommi recalls. \"I said, Well, it’s been a tough few weeks. You’re bound to be.\"\n\nThe guitarist remembers telling his friend to take it easy and get some rest.\n\n\"He went, ‘Yeah, I’ll try to do that.’ And that was it. Then I heard the next day that he’d gone. And that was... weird.\"\n\n\"He was a part of my life for 60 years. I do miss him.\"\n\nRecently, producer Andrew Watt claimed that Iommi, Osbourne and Geezer Butler wanted to make one more album with the group's original line-up in the early 2020s, but that the idea never got off the ground because drummer Bill Ward couldn't commit to the idea.\n\nIommi's recollection\n\nof this is somewhat different.\n\n\"I’d met Andrew Watt when he was producing Ozzy,\" Iommi recalled to\n\nClassic Rock\n\n. “He was very keen and a bit too excited. He also didn’t know what it was like working with the original Sabbath, working with Bill. Also, we’d done\n\n13\n\n, and I didn’t like the idea of: ‘Now here's another album'.\"\n\nIommi is set to release a solo album,\n\nFrom the Dark\n\non October 23 on BMG. The guitarist has previewed the album with the release of singles\n\nWorld Alone\n\nand\n\nStormwatcher\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-13T15:00:00+00:00",
+      "id": "c22e8131dcd6143c64d53729ec2d3d997e077d58",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "UDO DIRKSCHNEIDER и сын: «Сейчас лейблы творят много дичи!»",
+      "link": "http://www.darkside.ru/news/184370/",
+      "rss_body": "В недавнем интервью с семьей DIRKSCHNEIDER был задан вопрос о том, в чём заключается разница между тем, как создаётся музыка сегодня, и как она создавалась четыре десятилетия назад назад. Sven, которому 32 года, ответил:\n\n«Самое большое отличие было в том, что Udo и другие ребята из ACCEPT работали в абсолютно свободном стиле. Они не понимали, что делают. Они просто сочиняли песни. Возможно, у них было какое-то направление, к которому они стремились, но они приходили в репетиционный зал, кто-то придумывал рифф, и тогда они начинали сочинять песню. Сейчас всё уже заранее продумывается. Если ты хочешь заниматься этим жанром, ты должен делать нечто определённое, и есть некоторые правила, чего не стоит делать. Из серии: делай вот это или это, и существует много поджанров основного жанра, поэтому иногда очень трудно следовать правилам. Теперь у нас есть даже \"dwarf-металл\"... Для меня это безумие.\n\nКонечно, здорово, что создаётся что-то новое, но иногда это, я бы сказал, немного странно. Почему бы нам просто не назвать это тяжёлым металлом? Мы можем сказать, что такое дэт-металл. Мы можем сказать, что такое трэш-металл. Всё это понятно. Но кто-то придумал \"dwarf-металл\"! Я не понимаю. Извините. Но это самое главное, что изменилось с тех пор. У группы должна быть концепция. Все эти концептуальные группы, когда люди могут взаимодействовать с артистами, надеть маску или разрисовать лицо, а потом прийти на концерт и по-настоящему проникнуться атмосферой, — это изменило ситуацию. Раньше ничего подобного не было.\n\nМожет быть, люди хотели носить одежду, которую видели на каком-то конкретном исполнителе, но это точно не то, что мы видим сегодня у POWERWOLF и SABATON. А что ещё? С GHOST похожая история. Все эти группы концептуальные. Они следуют концепции. И мне очень интересно наблюдать, например, за тем, как SABATON пошли по этому историческому пути, писали о конкретных исторических событиях, а теперь им нужно найти что-то, во что они могли бы погрузиться. И в этом они настоящие мастера, я бы сказал, потому что, на мой взгляд, у Pär [Sundström] было такое видение с самого начала. Он уже знал, в каком направлении они будут двигаться через 10 лет, а для этого нужно быть очень умным и сообразительным. Думаю, ничего подобного не было в те времена».\n\nЧто касается того, чем новые металл-группы могут выделиться на фоне остальных представителей современной сцены, Udo сказал:\n\n«Я думаю, что самое важное для группы, которая занимается музыкой и хочет выжить в этом бизнесе, — это сочинять песни. Могу сказать, что мы в ACCEPT и U.D.O. написали много песен, которые уже стали классикой. Возьмём, к примеру, \"Smoke On The Water\" DEEP PURPLE: эту песню можно будет исполнять и через 30 лет, и вообще когда угодно. То же самое с песней ACCEPT \"Balls To The Wall\" . Это песня, которую можно исполнять где угодно. Люди проникаются этой песней, в том числе молодёжь. Иногда я нахожусь на сцене и думаю: \"Как это возможно?\" Парням может быть по 16 или 17 лет, но они поют всю песню от начала до конца. Это значит, что мы написали стоящие песни, и я считаю, что это очень важно для создания музыки.\n\nНе нужно писать песни по 12 минут, с кучей изменений и так далее. Никто не сможет за этим угнаться. Я говорю о настоящих песнях, которым люди могут подпевать. Я думаю, что в наши дни не так-то просто сделать что-то подобное. Но сейчас, я думаю, это более важно для новых групп, мы говорим о SABATON или POWERWOLF, и нужно что-то, что выделит вас из всех этих групп. Сейчас появилось много групп. В этом также разница между 1980-ми и сегодняшним днём.\n\nВ 1980-х было не так уж много групп. Были SCORPIONS, ACCEPT и MOTLEY CRUE, IRON MAIDEN, JUDAS PRIEST, MOTÖRHEAD. В то время их было не так уж много. Но сейчас, на мой взгляд... Звукозаписывающие компании сами создают себе проблемы, подписывая контракты со слишком большим количеством групп. Мы можем обсудить бизнес звукозаписывающих компаний. Я думаю, они многое делают неправильно».\n\n#Dirkschneider #HeavyMetal #Heavy_Metal #MelodicHard 'n' Heavy #Melodic_Hard 'n' Heavy",
+      "tags": "",
+      "category": "Хард-рок",
+      "published": "2026-10-13T14:43:33+00:00",
+      "id": "96f42f47a52793b8906c057d1727d249d5fac416",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Subterranean Dissonance Festival Announces Tony Danza Tapdance Extravaganza, Cave In and More for 2027 Edition",
+      "link": "https://www.decibelmagazine.com/2026/10/13/subterranean-dissonance-festival-announces-tony-danza-tapdance-extravaganza-cave-in-and-more-for-2027-edition/",
+      "rss_body": "Subterranean Dissonance Festival\n\n, hosted yearly in Philadelphia at Underground Arts, has announced the majority of its 2027 lineup, featuring\n\nThe Tony Danza Tapdance Extravaganza\n\nperforming their first Philly set in over 16 years,\n\nCave In\n\n,\n\nToday is the Day\n\n(\n\nTemple of the Morning Star\n\nset),\n\nPlanning for Burial\n\n(\n\nBelow the House\n\nset) and a dozen other performances.\n\nThe whole thing goes down on Friday, February 5 and Saturday, February 6, 2027.\n\n“Taking a year off gave us the opportunity to come back with the strongest lineup we could have dreamed up. I’m especially proud that it features several bands we’ve been trying to land since year one, some truly rare performances and incredible representation from our beloved Philly scene,” Subterranean Dissonance curator Graham Noel says of the event.\n\nCheck out the full lineup below. Tickets officially go on sale on Friday, October 16 at 10am, but\n\nDecibel\n\nhas partnered for early access (and to save you a few bucks!) if you\n\nuse pre-sale code\n\nDECIBEL\n\nfrom now until October 16.\n\nFebruary 5, 2027\n\nCave In\n\nPrimitive Man\n\nInter Arma\n\nCrowhurst\n\nAlustrium\n\nLástima\n\nCountdown From Ten\n\nFebruary 6, 2027\n\nThe Tony Danza Tapdance Extravaganza\n\nPortrayal of Guil\n\nToday Is the Day\n\nPlanning for Burial\n\nMy Wife’s an Angel\n\nMaria BC\n\nVile Form\n\nShardik",
+      "tags": "News Cave In Crowhurst inter arma Portrayal of Guilt primitive man Subterranean Dissonance The Tony Danza Tapdance Extravagnaza",
+      "category": "Хэви-метал",
+      "published": "2026-10-13T14:15:58+00:00",
+      "id": "facbb7c14380e3fe765ee8919c55e2f337c64dc9",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео HYPNO5E",
+      "link": "http://www.darkside.ru/news/184277/",
+      "rss_body": "Trame Noire, новое видео HYPNO5E, доступно для просмотра. Этот трек взят из нового альбома \"Trame Noire\", выход которого намечен на шестое ноября на Pelagic Records.\n\n«В клипе на песню «Trame Noire» — заглавную композицию нашего нового альбома — я хотел воплотить в образах темы, проходящие красной нитью через всю мою музыку: воспоминания, утрата, сны и призраки прошлого.\n\nЯ сам снял это видео, работая с моделями, коллажами, рисунками и различными приёмами наложения изображений. Путешествие по этим меняющимся пространствам и призраки, населяющие их, — это фрагменты воспоминаний героя, обречённого бродить по этому миру. Он сталкивается со следами того, что ему пришлось пережить, но также и со своим собственным образом, который возвращается, словно ещё один призрак.\n\nПамять становится материалом, который повторяется, искажается и бесконечно всплывает на поверхность. Это замкнутый круг, из которого нет выхода, словно личное проклятие, где прошлое всегда находит путь обратно в настоящее».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-13T14:02:19+00:00",
+      "id": "15cbdbeb68de50589ab1a275a78a5af6edeffe69",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "BEHEMOTH: “I, SCVLPTOR”",
+      "link": "https://www.nocleansinging.com/2026/10/13/behemoth-i-scvlptor/",
+      "rss_body": "(Here is NCS writer DGR’s take on the assembly of songs released by Behemoth, Massacre Records, and Nuclear Blast in September under the title of I, Scvlptor.) Even though yours truly is personally knee-deep in slowly trudging through a backlog that is forever growing for a series of articles that have rapidly spun out of\n\n[...]",
+      "tags": "Album Reviews Behemoth DGR",
+      "category": "Экстремальный метал",
+      "published": "2026-10-13T13:54:50+00:00",
+      "id": "b4208857495f559ae218b1d2a0e7d89122481e13",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Steve Hackett Announces North American Tour Dates for 2027",
+      "link": "https://ultimateclassicrock.com/steve-hackett-north-american-tour-2027/",
+      "rss_body": "Steve Hackett is bringing Genesis back to North America, starting April 2027 with nearly 20 shows across the continent.",
+      "tags": "Concerts News Steve Hackett UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-13T13:47:35+00:00",
+      "id": "b7ff460c4a60e995894dabbe3828a48e84aaaaeb",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Bring Me the Horizon Joined By Josh Scogin For \"The Fox and the Wolf\" Live Debut",
+      "link": "https://metalinjection.net/news/watch-bring-me-the-horizon-joined-by-josh-scogin-for-the-fox-and-the-wolf-live-debut",
+      "rss_body": "Norma Jean original singer/Chariot frontman/Mr. '68/all around great guy Josh Scogin killed it.",
+      "tags": "Latest News Bring Me the Horizon",
+      "category": "Хэви-метал",
+      "published": "2026-10-13T13:43:21+00:00",
+      "id": "0550fbdbf700f9c123f830e31daa90002a226aa9",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео ABSOLUTE DARKNESS",
+      "link": "http://www.darkside.ru/news/184386/",
+      "rss_body": "\"Above The Law\", новое видео группы ABSOLUTE DARKNESS, доступно для просмотра ниже. Эта песня взята из альбома Witness To A Dying World, выходящего 23 октября:\n\n“Above The Law”\n\n“Attritional Warfare”\n\n“World Decay”\n\n“Snake Oil”\n\n“Different Illegally”\n\n“Loyalty To Me”\n\n“I Guess I Die”\n\n“Big Lies”\n\n“Extreme Accountability”\n\n“World In A World”\n\n«Возможно, именно эту песню можно назвать самой коллективной — все предложили какие-то идеи и все они нашли свое отражение в финальной версии, сделав ее одной из самых клевых в нашей карьере!» — заявил гитарист и вокалист Ron Dorn.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-13T13:26:33+00:00",
+      "id": "c8eaaf6581a27b6e26095d607a231d6b5c955554",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Q&A: New Jersey Death-Thrash Legends Revenant Resurrected",
+      "link": "https://www.decibelmagazine.com/2026/10/13/revenant-resurrected/",
+      "rss_body": "Revenant\n\nburned bright in the very late ’80s and early ’90s, culminating with a single full-length album,\n\nProphecies of a Dying World\n\n(1991), via German then-up ‘n’ comer Nuclear Blast. The group’s demos\n\nBeyond the Winds of Sorrow\n\n(1987),\n\nAsphyxiated Time\n\n(1988), and\n\nDemo 1990\n\n(1990) were traded heavily in the underground. Death-thrash was a thing–think Sadus, Ripping Corpse, Atheist, and Hellwitch–but it wasn’t Revenant. They were unto their own. Six-minute songs (“Asphyxiated Time”), labyrinths of riffs (“Degenaration”), and some of the most vicious vox to come out of a human, punched holes in our collective rotted brains.\n\nRevenant didn’t survive long after Nuclear Blast rejected the follow-up material to\n\nProphecies of a Dying World\n\n. Call it short-sighted, a colossal error, or a shifting of times, though label still issued Rostok Vampires, Mortification, and other detritus like a factory on overdrive. They signed over to Ed Farshtey’s Rage Records for the\n\nExalted Being\n\nEP (1992), but by that point, the writing was on the wall. The brightest flame, New Jersey’s most aggressive export of the day, was near its end. When the band said its final goodbye in ’94, the members splintered into various directions. Some continued with deathly metals–bassist Tim Scott found solace in HatePlow–while others pursued more secure careers–vocalist Henry Veggian went into academia–to keep life afloat. Revenant resurfaced briefly with the\n\nOverman\n\nEP (2002), self-releasing their change-of-style charge, a decade removed from wildman antics of\n\nProphecies of a Dying World\n\n.\n\nIf there’s a famous saying about keeping quiet or letting silence prevail, it’s lost on Revenant. While original drummer Will Corcoran sadly passed in 2022, the embers of old, the allure of friendship, of clashing steel beams and complex equations was too hard to fully ignore. The New Jerseyans, now spread across the U.S. and Sweden, have reformed. Frontman Henry Veggian couldn’t let what defined his youth end up a memory–or a constant reminder–so he, thanks to Farshtey’s persistence, called up Scott and guitarist Dave Jengo to float the idea. They were in. As was Incantation and former Revenant guitarist John McEntee. Drummer Todd Gukelberger, of Prime Evil fame, was also added to the lineup, as was bassist Dave Neabore, of Mucky Pup and Season of the Dead, to fill in for Scott.\n\nDecibel\n\nsat down on a Sunday afternoon with the reconstituted Revenant to talk history, respect, friendship, and that the newest iteration of the band isn’t nostalgia… it’s a look into the future.\n\nWhy does it make sense for Revenant to reappear now?\n\nHenry Veggian\n\n: I was at a Cannibal Corpse show last year, and I was driving home. It was late at night. I was driving home from Charlotte and I just finally admitted to myself that I missed being in a band. I just missed the collaboration, the chemistry. I had been just ignoring that for a long time. I’m in a phase of life where I’m more about saying yes than saying no. So I picked up the phone, called a friend of mine down here, and asked him if he wanted to start jamming. He said yes. Then, about a month later, we [Revenant] got the offer to reunite. I started talking to everybody else in the band, and we all just decided it was finally time to give it a shot. For me at least, it was about embracing the possibility of music and my love for it again, which I was ignoring.\n\nDave Jengo\n\n: We actually had a couple of offers. And I think Henry had the biggest one that pushed him a little bit further in that direction. Do you want to elaborate on that, Henry? About Ed [Farshtey]?\n\nVeggian\n\n: Dave and I both received offers for reunion shows separately. They happened around the same time. So, that brought Revenant to us—got us talking. At least for me, the one thing that I started to realize was that there was a whole generation of fans who had never heard us play. They know John. They know Tim [Scott], they know Todd [Gukelberger] from Prime Evil, they know Revenant’s music, but they’d never heard it live. Also, at the same Cannibal Corpse and Municipal Waste show, Fulci were opening. I was on the Waste tour bus, and Dave Witte opened the window and said, “Henry, those are the guys in Fulci—say hello!” He introduced us, and we just started speaking in Italian. Dave was like, “Who’s this guy?!” We had a long conversation; the hands are going. Basically, Italian people talking. I turn around, and [Erik] Rutan’s there scratching his head, “What happened to Hank?! How’d he become Italian?!” [\n\nLaughs\n\n]. There weren’t too many Italians—people who could speak the language—in the metal scene back in the day. So, I never spoke Italian around other people. Dave and Tim knew, though. [\n\nLaughs\n\n] Anyway, the Fulci guys knew about Revenant, all about the band. I was like, Wow, that’s pretty amazing. Then, I started thinking about other bands who had reached out to us. That was motivation too, I think. So when Ed, who’s an old friend, reached out, we were like, yeah.\n\nJohn McEntee\n\n: It’s not easy to escape metal once you start it. He tried. It’s like a tractor beam. Held out for a while, but he couldn’t do it.\n\nVeggian\n\n: Part of it also was like getting together with John [McEntee] and Charlie [Koryn] at their storage space and recording vocals [for “Circle (Eye of Ascension) VII”] for the Incantation record. I got to admit. I left there, and I was like, yeah, I kind of missed doing this. That put the bug back in me, too.\n\nMcEntee\n\n: It was just a weird situation because I just happened to move down here [to North Carolina] not knowing, really, not even thinking about Henry living in the ballpark. I know he lived down South. Probably even in North Carolina, but this was all like years ago. I just happened to realize he was local, and I was like, oh well, that’s pretty cool. For the Incantation thing, I just wanted group vocals with a couple of people. I thought, let’s have Hank do it. He’s part of where I came from musically. Jeff [Becerra] from Possessed is also on the record, ’cause he’s one of the legends that inspired me in the first place. It might not mean anything to other people; to me personally, it was an important little nod. I was able to give Hank a dose of metal, and it ended up without me knowing it that had I nudged Hank a little bit without even really trying.\n\nVeggian\n\n: Jengo was still living in California at the time. So, I think Jengo moving back East was also a part of this. It wasn’t just personal stuff that I was feeling. Some pieces had to start coming together—geographically.\n\nMcEntee\n\n: I just want to add that through my travels, obviously everyone knows I’m busy as fuck, usually with Incantation touring and stuff. Every once in a while, either some promoter or just some fan or something will bring up Revenant. Or, bring up some version of some old Revenant thing for me to sign. I just knew that there were people interested in [Revenant], and I even had promoters ask if the band was ever going to do anything. I’d always say, “Ah, no, it’s not going to happen.” Well, here we are.\n\nSometimes the stars align. How did everyone kind of come back into the fold?\n\nMcEntee\n\n: Henry’s stubborn. It basically was his decision if he wanted to do it [reform] or not. I don’t think I ever asked him directly if the band would reform. I kind of knew not to even bother with it. In a way, he always made it clear that I shouldn’t even go there. To my surprise, he called me up. I wasn’t really sure what to say, but “Oh, fuck! Somebody’s passed away.” That’s what was in my head.\n\nHenry made me swear over Parker & Otis lunch not to reveal to anyone—not even\n\nDecibel\n\n—that Revenant had reformed. He texted me out of the blue telling me he had something important to tell me, and that it couldn’t be over the phone. Whatever he was going to tell me had to be in person. I thought the worst, of course. It is, but in the best possible way.\n\nVeggian\n\n: [\n\nLaughs\n\n] It’s true. I had to tell someone that wasn’t already in the band.\n\nMcEntee\n\n: [\n\nLaughs\n\n] Then, he asks me about Revenant. He says, “You wanna play some music?” I was like, “Of course!” I don’t know if it’s uncomfortable, but I always really let people know the importance of Revenant, about my evolution as a musician. Revenant was super-important to me at that time in my life. It’s something I’m proud of. Not getting the chance to play in Revenant later was a bit of a bummer, though me leaving Revenant gave me the career that I have now. So, it all worked out in a positive way. I get to play in Revenant again with these guys. It’s nostalgic, but it’s not.\n\nVeggian\n\n: Did you know Dave and John were in a band together like in the mid-’80s before Revenant?\n\nJengo\n\n: I think I was barely driving, might have just been 17 or something like that. We were still working at the mall, weren’t we?\n\nMcEntee\n\n: I worked at Record Town. Jengo worked at KB Toys. The stores were right next door to one another. I remember he was a metalhead. I was a metalhead. Back then it was rare to see metalheads. I was into metal. He was into metal. So, I thought, I’ll just talk to him. It was about finding kindred spirits. We eventually formed the band, Hexes. I think we had the band for a year. Then, Jengo went to Parasyte for a bit.\n\nJengo\n\n: I was in Parasyte with Tim.\n\nMcEntee\n\n: I met Tim at Crazy Eddie’s. That was totally coincidental.\n\nOK, let’s get back on track. Why was it important to have as much of the lineup intact, considering Will [Corcoran] had passed?\n\nVeggian\n\n: When Ed approached me, he asked to get Dave and Tim involved. He asked whether they’d do it. Tim had long moved to Sweden. So, there’d be logistical things to take care of. Once I had Dave and Tim onboard, I said to Ed, “Why don’t I go all in and ask John?” I wasn’t playing guitar much anymore, so I needed a player. I’d rather front the band, be the singer. So, I had a couple of options. John asked for Todd to be involved. We had originally asked Brandon Thomas from Ripping Corpse, but he backed out after a bit. He had a new band and had some shoulder issues. So, that’s how Todd came into the fold.\n\nMcEntee\n\n: Actually, I think it was Sam Inzerra from Morpheus Descends right after Brandon. Sam brought up Todd. It was like, ding ding! It made total sense. I can’t imagine anyone else but Todd. Of course, Brandon would’ve ruled, but Todd’s our guy. He’s from the same era as us. He was in Prime Evil, the premier thrash band of the day. I was devastated Prime Evil never took off. I remember looking up to Prime Evil when I was in Revenant.\n\nVeggian\n\n: OK, back to your question. We all bring in our unique histories. But we’re not a prisoner of the past. We’re not in this to sound “old.” We’re going to reinvent Revenant’s music. John has never played some of these songs. Todd obviously hasn’t. Dave, Tim, and I played all the music. So, the new guys are new parts of an old machine. The most important thing with this reunion is that we come to this with fresh ears. So, I’m really happy to have John, Dave, Tim, and Todd in the band. We talk a lot in text and email. The chemistry is real.\n\nTim Scott\n\n: Well, I’m in Sweden, the most far-flung of the members. I’m learning the songs here and there, playing along to the CDs. The songs are sitting in my backbone. I remember most of the riffs. Mostly correct. [\n\nLaughs\n\n] Dave sent me a video of how he’s playing the songs, so, in a way, we’re jamming online. But I plan on coming to the States soon to get the vibe going again with Dave.\n\nPhoto courtesy Henry Veggian\n\nNo reservations, Tim? You could’ve said no.\n\nScott\n\n: I could have said no, but that wasn’t an option. [\n\nLaughs\n\n] In ’94, when we hung it up, I thought I’d never do this [Revenant] again. I moved down to Florida, lost contact with the guys. I’ve always been a bit of a pain. But I’ve always been nostalgic for Revenant. It was a huge part of my life. So, this is really cool that we’re getting together.\n\nVeggian\n\n: After John, Tim’s the most active guy in metal. He was in HatePlow. He’s got Methane in Sweden. Dave Neabore, who’s been filling in and helping us rehearse, has been great. He’s in Mucky Pup and Season of the Dead. So, the only person who’s not been into this the whole time is me!\n\nMcEntee\n\n: [To Scott] It’s a long ride to practice. [\n\nLaughs\n\n]\n\nTodd Gukelberger\n\n: I’m just thrilled to have the opportunity to play with these guys because we were all in the same scene together. There was real camaraderie amongst bands and everything back then. When Sam got in touch with me and said, “Hey, you know. Revenant’s getting back together,” I could only say yes.\n\nSo, it’s friends first, and everything else second?\n\nVeggian\n\n: Yes, definitely. If it doesn’t work out or whatever, we all tried and we had a good time doing it. For a minute, I thought I had joined Manowar, John, instead of Revenant. I was going to dig out my old cod piece.\n\nMcEntee\n\n: We need to be shirtless, Henry. Manowar don’t have shirts. No shirts and furry boots. [\n\nLaughs\n\n]\n\nVeggian\n\n: Oh man. We’re tribal elders now. More gray. I don’t think anyone wants to see us shirtless. [\n\nLaughs\n\n] Anyway, what we’ve done so far—which is to bring us together—has been amazing. We’ve all kind of been through the wringer, to put it mildly. I spent the last 25 years in academia, but I didn’t really ever leave [metal]. I’ve always been going to shows, singing on records. Doing stuff in the background. I have notebooks full of lyrics. I’m always thinking about songs. There’s a sense of unity with Revenant now. I’m loyal to the people and the music. Here’s the thing: Revenant never had an acrimonious split. Every single member of the band that’s played in Revenant is still friends. I still talk to John [Pratscher], our original bass player.\n\nWhat were the first rehearsals like?\n\nJengo\n\n: Standing in that room together, with instruments in hand, getting ready to turn on the amps and start playing. What was that like? It felt just like old times, really. I mean, it was, it felt normal and natural. I was excited. I was so pumped to have this happen.\n\nVeggian\n\n: I intentionally stood near Dave while we were playing and rehearsing the first time. Because when we used to rehearse, he was always to my right. I moved the microphone so that I could be facing him, and I could see him off to the side. He was in the corner of my field of vision, and that was familiar to me. Then, I’m looking at Todd, too, thinking, “OK, this is new.” It was weird. It was uncanny. It was familiar and unfamiliar at the same time. And I have to say, when we first kicked into “The Masks of God,” we’d all been practicing it separately, and we almost got through the entire song the first time we tried to play it. And when that happened, in my mind, I thought, “When we get Tim in here, and we get John in here, this is going to sound like a huge giant stomping over the planet.”\n\nMcEntee\n\n: It sounded so good.\n\nJengo\n\n: Not to mention, we were in a nice studio, too. Not my mother’s basement all cramped in there. [\n\nLaughs\n\n]\n\nGukelberger\n\n: I thought it was awesome. I really felt like we could do this, that this was going to happen because there was definitely some chemistry between us.\n\nVeggian\n\n: My commitment is all about making it as big as possible in terms of the soundscape that we created in the studio that first time, Chris. It was an awesome feeling. It’s just going to keep getting better as more pieces come together.\n\nSo, it wasn’t like when you were 18 and had the worst equipment?\n\nGukelberger\n\n: [\n\nLaughs\n\n] Oh, no. I brought all kinds of equipment. I had a monitor so I could hear everybody. I didn’t know what was going to be in the room there, but it was a really nice room. We did some cool stuff, though. We flipped the beat around in “Unearthly.” We’re open to suggestions and making improvements. We have the wisdom of time. We’ve played a lot of metal since 1991.\n\nJengo\n\n: Hopefully, when we get together, it just collides and joins together properly every time. I think that’s more about doing your homework. Come to rehearsal, show up, and be prepared.\n\nGukelberger\n\n: As long as everybody does that, we’ll be OK. [\n\nLaughs\n\n]\n\nWhat was the first song the band rehearsed?\n\nVeggian\n\n: It was “Mask of God” from the\n\nOverman\n\nEP, which is a big, kind of heavy song. I remember when I was writing it back in the ’90s, I was going for something like Sepultura’s “Nomad.” That kind of lumbering sludge. It’s got a lot of space in it, unlike the other Revenant songs. To this day, one of my favorite songs of all time is “The Dawn of Megiddo.” I know most of what I wrote back in the day wasn’t that style, but there’s power in Celtic Frost. John’s into them, I think. [\n\nLaughs\n\n] Oh, speaking of John, we’re playing “Asphyxiated Time,” which was a song he was a part of when he was in Revenant early on. Dave and Tim were in the band, too. I’ve asked John to straighten out “Degeneration,” a song Incantation has covered. So, we’re covering all eras of the band and bringing, as Todd said, years of experience and wisdom. We’re tweaking things. We’ve always been tinkerers. That’s why Revenant songs are 6-7 minutes long. Dave would probably identify with this analogy. We’re putting the old motorcycle back together with some new parts.\n\nTell me about the reissues that are coming out.\n\nVeggian\n\n: Todd helped with the transfer of some of the older demos. There are three reissue goals over the next few years. The first one is going to be the reissue of the collected demos, but as a complete set. There’s an unreleased Revenant demo from 1986 that is all instrumental—no one has ever heard it. I have the only copy. It was the original lineup: me, John, and a guy named Mike [McNeice], who played drums for us briefly and also played in Regurgitation on the first Regurgitation demo. That’s going to be included. Then, it’ll be all of the EPs and demos from the ’90s with Tim and Dave. And we were sitting on an unreleased demo of a song called “The New Paganism,” and that’s been remastered. That will be included too. So, this first reissue is going to be the complete Revenant demos from 1986 to 1994 with some previously unreleased music on it. The last time we did\n\nThe Burning Ground\n\n, fans complained that it wasn’t the complete early demos with John. Part of that was just that the source material that I had wasn’t good. I had to find some older boxes and dig through them and get better-quality tapes, and Todd was part of that process in transferring those. We want to reissue\n\nProphecies\n\n. We have the master tapes. They’re in our possession. We don’t have a plan for that just yet. Then, the other item is the\n\nOverman\n\nEP, which we released as a four-song CD, but there were actually two incomplete songs on there that we could actually go back in and finish and make it like a six-song EP if we wanted to do that. At least one label wants in on the reissues, but we’re not in a hurry because we’ve got a lot of moving parts here. It’s a new era. Tim’s been helping out getting the band online with digital stuff. But let me say this: we’re going to reissue this stuff, but I think the goal here isn’t to just go back and redo all the old stuff. We’re also open to whatever the future might bring. Dave has talked about his desire to write songs. As I said, I have a stack of notebooks of lyrics and stuff. We’re all creative guys.\n\nJengo\n\n: It’s camaraderie first, you know, and then figuring out what the business element of it is, meaning the releases and labels and all that fun stuff later.\n\nPhoto by Chris Bade\n\nSo, reissues and then live shows, or the other way around?\n\nVeggian\n\n: Ed’s festival [Rage of Armageddon] is first. And about that festival, I made specific requests to the promoter to get some younger bands I admire on the bill because I wanted to play with them, not in any weird, patronizing way. I wanted to have what John and Todd were saying earlier. The old scene was about bands getting along and being friends, like Prime Evil, Revenant, Incantation, Immolation, Ripping Corpse, and Suffocation. We all used to hang out and play shows together back in the day. It was a community of people. And I’m really excited to be part of that community again as a performing musician. And part of that means learning what’s out there with newer, younger bands.\n\nMcEntee\n\n: At the same time, we’re going to have some familiar faces at that show because the Ripping Corpse/Dim Mak guys are in a new band called Temple of Bones, and they’re going to play with us.\n\nVeggian\n\n: Raven, I mean, come on.\n\nWhy is the Rage of Armageddon festival special to Revenant?\n\nMcEntee\n\n: It’s in Brooklyn. Ed’s one of us, from back in the day. When any of our bands needed help, he was the dude. He still is the dude. I knew that the Revenant thing was going in the right direction, so giving it to Ed, the first show, felt like the right thing to do. He would push us, too. It’s easy for a band to go with the biggest, highest-paying thing, but doing it the proper way is giving it to somebody who was there with us and was a part of the whole community of metal back then, like what I try to do with my fest [Carolina Chainsaw Massacre].\n\nVeggian\n\n: Like John said, Ed was from the old school. He loves the music. He does everything for the music. He’s not a for-profit kind of guy. That’s not his motivation. He’s genuine, and I appreciate that.\n\nScott\n\n: It’s not a weird thing. Ed will do anything for the bands he believes in. He even took my little shitty thrash metal band out to Brooklyn once, booked us a couple of times, and got us on his\n\nRecord of Armageddon\n\ncompilation.\n\nMcEntee\n\n: That’s true. He supports the underground. He did a lot for the first seven-inch for Revenant back in the day. No, wait, that was the second seven-inch,\n\nExalted Being\n\n[Rage Records].\n\nVeggian\n\n: Ed was there for us when we had our falling out with Nuclear Blast. He said, “Hey, Nuclear Blast didn’t like that demo. Give it to me, and I’ll put it on my label.” We were labelmates with Prime Evil. Finally!\n\nOK, so, let’s end this thing. Tell me again, who’s putting out the demo reissue and when is the next Rage of Armageddon?\n\nVeggian\n\n: Xtreem, the same label that put out\n\nThe Burning Ground\n\n, will get the demos. Not sure about\n\nProphecies\n\n. We have offers. The other release is still too far out to think about, I think. The next Rage of Armageddon is August of next year. We’d better see you there, Chris!\n\nRevisit\n\nRevenant\n\non Facebook and\n\nYouTube\n\n. Visit\n\nMethane\n\non Facebook. Visit\n\nIncantation\n\non Facebook. Visit\n\nRage of Armageddon festival\n\non Facebook.\n\n“Returned to my silent grave\n\nMute witness to our end\n\nAn oath it is that I now sing\n\nThe harmony of my suffering\n\nI speak to those who shall forever be” – “Prophecy of a Dying World”",
+      "tags": "Editorial Interview Interviews death metal death-thrash Hexes home featured Incantation Methane New Jersey Nuclear Blast Records Prime Evil Rage Of Armageddon Festival Rage Records Reunion Revenant Thrash Metal",
+      "category": "Прогрессив",
+      "published": "2026-10-13T13:24:32+00:00",
+      "id": "15b0bdaf0b51fc1a28c83cdd2ff06fc2f31b981f",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "When Simon Le Bon Realized Duran Duran Had No Street Cred",
+      "link": "https://ultimateclassicrock.com/simon-le-bon-duran-duran-no-street-cred/",
+      "rss_body": "Former punk accepted his ‘80s fate – and it’s one of the reasons he leads Halloween shows, though he’s no fan of the holiday.",
+      "tags": "News Duran Duran UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-13T13:10:41+00:00",
+      "id": "bb4645c82ee2e027623f7c74eb3287602a9ffe97",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Ann Wilson Has ‘Pages and Pages’ of New Music",
+      "link": "https://ultimateclassicrock.com/ann-wilson-consecrated-ground-interview-2026/",
+      "rss_body": "She tells UCR how the overflow of inspiration helped fuel her latest album with Tripsitter and what fans can expect from Heart's next record.",
+      "tags": "Exclusive Interviews News Ann Wilson Heart UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-13T11:54:39+00:00",
+      "id": "083084d358ed43495ce32f26fe1d6f749f3aa7d3",
       "retry_after": 0
     }
   ]
