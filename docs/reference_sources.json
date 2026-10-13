@@ -12453,6 +12453,653 @@
           "source_url": "https://musicbrainz.org/release-group/ec697b0a-b6c0-35e8-9b20-78c3cd842099"
         }
       ]
+    },
+    "guns-n-roses": {
+      "name": "Guns N’ Roses",
+      "musicbrainz_url": "https://musicbrainz.org/artist/eeb1195b-f213-4ce1-b28c-8565211f8e43",
+      "reference_checked_at": "2026-10-13T21:54:21.152766+00:00",
+      "genres": "aor, arena rock, art rock, glam metal, hard rock, heavy metal, punk rock, rock",
+      "website": "https://www.gunsnroses.com/",
+      "members": [
+        {
+          "name": "Axl Rose",
+          "role": "lead vocals, original",
+          "begin": "1985-03"
+        },
+        {
+          "name": "Dizzy Reed",
+          "role": "keyboard",
+          "begin": "1990"
+        },
+        {
+          "name": "Richard Fortus",
+          "role": "",
+          "begin": "2002"
+        },
+        {
+          "name": "Melissa Reese",
+          "role": "keyboard",
+          "begin": "2016-04-01"
+        },
+        {
+          "name": "Duff McKagan",
+          "role": "electric bass guitar",
+          "begin": "2016"
+        },
+        {
+          "name": "Slash",
+          "role": "electric guitar",
+          "begin": "2016"
+        },
+        {
+          "name": "Isaac Carpenter",
+          "role": "drums (drum set)",
+          "begin": "2025-03-20"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/eeb1195b-f213-4ce1-b28c-8565211f8e43",
+      "albums": [
+        {
+          "name": "The Broadcast Collection 1988-1992",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0148ec46-c4ac-4fdf-b69b-31e92e1957c9"
+        },
+        {
+          "name": "Welcome to the Jungle",
+          "date": "1987-10-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/01c27538-48c5-44a0-a2fa-b14c9109d465"
+        },
+        {
+          "name": "Better",
+          "date": "2008",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/08d5f457-e203-4ea2-b0f8-446b65ce5338"
+        },
+        {
+          "name": "Use Your Illusion Tour U.S.A. 1993",
+          "date": "2024-10-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0c52e432-0a80-4fb8-8f8d-0c9136a9c5a6"
+        },
+        {
+          "name": "3 Original CDs",
+          "date": "2001-09-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0c5934af-0998-498b-909e-105d27bb5f68"
+        },
+        {
+          "name": "You Could Be Mine (live in New York, Ritz Theatre - May 16, 1991)",
+          "date": "2022-09-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0cbd78d5-199a-45a5-a0e2-f01b1c13c70b"
+        },
+        {
+          "name": "Nothin’ / Atlas = ナッシン/アトラス",
+          "date": "2026-01-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0cdc0ba6-bdab-4a44-a3f1-41de0a621392"
+        },
+        {
+          "name": "Interview Disc & Fully Illustrated Book",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0fab9ccd-c928-4564-92aa-96a4c9635aba"
+        },
+        {
+          "name": "EP",
+          "date": "1987",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/11fe7ae2-604f-3498-8ab7-ad2b6a7373c3"
+        },
+        {
+          "name": "Absurd",
+          "date": "2021-08-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/17afb774-f0c5-4789-b752-0be6483166f6"
+        },
+        {
+          "name": "Chinese Democracy",
+          "date": "2008-11-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/185fba03-e06e-3899-8395-6d4d9a42dccc"
+        },
+        {
+          "name": "Sympathy for the Devil",
+          "date": "1994-12-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1df6dc34-e6e2-3bee-9616-535c58bd93e2"
+        },
+        {
+          "name": "London 1991",
+          "date": "2023-03-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1e324aa9-8650-4864-902b-561758073463"
+        },
+        {
+          "name": "Civil War",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/211e991d-a3c1-4ba9-b1c5-14644c062e38"
+        },
+        {
+          "name": "Family Tree",
+          "date": "2010",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/22745f5f-7587-4d94-a36d-610028e32c96"
+        },
+        {
+          "name": "Live in Chicago",
+          "date": "2019-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/28bb5478-cda3-436c-a97c-f3dccb237176"
+        },
+        {
+          "name": "The General",
+          "date": "2023-12-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/29823e3c-74e3-48c9-a917-1060a817e9d4"
+        },
+        {
+          "name": "Move to the City (1988 acoustic version)",
+          "date": "2018-06-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2a75db97-e42a-42e8-836b-818dab5c378a"
+        },
+        {
+          "name": "Live from the Jungle",
+          "date": "1988-05-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2d5ccccb-2dc0-421d-a4d5-ec0fb679ba78"
+        },
+        {
+          "name": "Use Your Illusion I: World Tour – 1992 in Tokyo",
+          "date": "2003-10-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2f3ffbe2-ffcc-3ac3-9a59-a8a82ff639d5"
+        },
+        {
+          "name": "Welcome to the Jungle (1986 Sound City session)",
+          "date": "2018-06-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2ff5c206-1fd3-434e-8958-16165aff14c0"
+        },
+        {
+          "name": "Use Your Illusion I & II World Tour – 1992 in Tokyo",
+          "date": "1992-12-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/32e70271-8d30-4301-893b-8a4bfbce6282"
+        },
+        {
+          "name": "The Best Hits",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3a4a9e8b-93ce-43ce-9431-74750877b881"
+        },
+        {
+          "name": "Right Next Door to Hell",
+          "date": "2019-08-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3b63ecfe-c67f-41f8-98e6-43b9e08b4b66"
+        },
+        {
+          "name": "Live Era ’87–’93",
+          "date": "1999-11-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3bea51d8-2dae-385e-ab0c-08824e62a885"
+        },
+        {
+          "name": "Double Talkin' Jive",
+          "date": "2019-08-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3f340c6f-7859-43ce-b932-1d844de6246d"
+        },
+        {
+          "name": "Use Your Illusion",
+          "date": "1998-08-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4aee018b-f04f-42b8-91ba-34a84cae02cc"
+        },
+        {
+          "name": "On Tour Now!",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4b6e4a39-bed4-41b8-bd2c-d64bdef55df4"
+        },
+        {
+          "name": "Live American Radio Broadcast",
+          "date": "2019-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4c59db87-95b8-4701-85f5-9733b20c21cd"
+        },
+        {
+          "name": "Bad Obsession",
+          "date": "2019-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/51c05406-3f49-4ef0-a3c2-b370c3600f81"
+        },
+        {
+          "name": "Yesteryears",
+          "date": "1998-06-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/55e3438b-00c1-418a-ae0f-90d272a44b09"
+        },
+        {
+          "name": "Since I Don’t Have You",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/59de1426-28c7-3d9b-b997-eb9f69546ce3"
+        },
+        {
+          "name": "Destruction, Lies: The Road to Illusion",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5bc75318-5928-4ad0-8be0-83a89d13fed2"
+        },
+        {
+          "name": "Rocket Queen",
+          "date": "2019-07-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5c52b1c9-01fd-4f9f-b76e-6befe7e75bb2"
+        },
+        {
+          "name": "Perhaps",
+          "date": "2023-08-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5c658957-b250-40e6-b3db-35b23cc2c456"
+        },
+        {
+          "name": "Live Radio Broadcast",
+          "date": "2019-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5cb6187e-a1c8-4127-ac79-d1cdc3f125f8"
+        },
+        {
+          "name": "Estranged",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5cfc387b-e185-3632-a17b-e9bd70c1773e"
+        },
+        {
+          "name": "Use Your Illusion II",
+          "date": "1991-09-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/617c9f00-9488-3a70-a994-9de312541617"
+        },
+        {
+          "name": "Use Your Illusion I",
+          "date": "1991-09-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/642b183a-3e59-3cb9-9187-aeeefa0d8818"
+        },
+        {
+          "name": "Hard Skool",
+          "date": "2022-02-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/67ec877b-ff16-40c4-9ecb-c0830e555c91"
+        },
+        {
+          "name": "Sessions 1987 – 1991",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6b3787fc-7d63-476b-a77a-00e900144002"
+        },
+        {
+          "name": "Don’t Cry",
+          "date": "1991-09-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/700983f1-8262-37b4-a6ae-57ee6380049d"
+        },
+        {
+          "name": "Appetite for Democracy: Live at the Hard Rock Casino - Las Vegas",
+          "date": "2014-07-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/74f604b1-eef3-4b14-a69a-528f69d449cf"
+        },
+        {
+          "name": "Anarchy In The UK",
+          "date": "2020-10-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7916890b-6128-4832-8cb8-bbba031099ef"
+        },
+        {
+          "name": "Hard Skool",
+          "date": "2021-09-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7a43df9c-5577-4288-9998-f9d8a7dbb8d6"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2004-03-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7bfad6e0-ccdb-3bfa-b882-f7adfde0b950"
+        },
+        {
+          "name": "1992-07-22 Hoosier Dome, Indianapolis, IN [AUD]",
+          "date": "1992-07-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7d8c5c01-d01f-43a3-8ace-43c611dcdf0a"
+        },
+        {
+          "name": "“The Spaghetti Incident?”",
+          "date": "1993-11-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7ef05688-558a-36a6-97a8-ff4e6174aae6"
+        },
+        {
+          "name": "Reflexion (Live at the Ritz N.Y.C. 1988)",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8115056f-2200-3897-b83b-7f921f1a0991"
+        },
+        {
+          "name": "Paradise City",
+          "date": "1987-07-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/879db3f1-8c49-4bd9-b538-64cf0e5efc59"
+        },
+        {
+          "name": "Wild Horses",
+          "date": "2019-07-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8a6bb310-728f-4b22-a1ca-f4f2a3fd94f0"
+        },
+        {
+          "name": "Greatest Hits Live On Air 1989–’91",
+          "date": "2016-05-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8e9d4943-1d68-4211-b8e8-3adc0c4db0f1"
+        },
+        {
+          "name": "Live in Chicago",
+          "date": "2019-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8eec006b-7c89-4d85-88c9-6a48da83dcef"
+        },
+        {
+          "name": "Sweet Child o’ Mine / Welcome to the Jungle",
+          "date": "1988-05-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/90e754fb-057a-42ab-a400-8587148d515e"
+        },
+        {
+          "name": "Sweet Child o’ Mine",
+          "date": "1988-06-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/93bffb21-6883-3ca4-9113-7aefa0623326"
+        },
+        {
+          "name": "The “Civil War” EP",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9644de09-bd22-43e2-bc5b-def20952922c"
+        },
+        {
+          "name": "Welcome To The Videos",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/966308ea-5928-4a92-ad45-a8a960d40d70"
+        },
+        {
+          "name": "Guns N’ Roses on the Radio",
+          "date": "2014-08-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/986954d6-f4ba-483f-bed9-b231445e097f"
+        },
+        {
+          "name": "Welcome to the Jungle",
+          "date": "1987-09-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9a4c19e6-e84b-4938-8aa6-655d7df99380"
+        },
+        {
+          "name": "Sweet Child",
+          "date": "2019-07-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9b41b26a-62f6-4595-af7a-e544c85556a5"
+        },
+        {
+          "name": "Appetite for Destruction",
+          "date": "1987-07-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a0b94d0a-210b-4b15-bd1d-93be2196c14a"
+        },
+        {
+          "name": "Glastonbury Festival 2023: BBC Live",
+          "date": "2023",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a73030ef-e267-4fcb-be91-2b661226a6c5"
+        },
+        {
+          "name": "Deer Creek 1991 / The Illusion Broadcast",
+          "date": "2019-11-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a86b163e-5430-4319-b68e-cf1ce4680b5b"
+        },
+        {
+          "name": "Appetite for Destruction & Lies (Deluxe Edition)",
+          "date": "2008",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ab8a5d8e-5a13-46f9-ad9f-25a0ad61ed86"
+        },
+        {
+          "name": "Use Your Illusion II: World Tour – 1992 in Tokyo",
+          "date": "2004-01-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ae2720e9-8b20-343a-80f8-4f0c5249754c"
+        },
+        {
+          "name": "G N’ R Lies",
+          "date": "1988-11-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b1b42d92-bbd0-349d-b2f8-ee4e6ef1bd9c"
+        },
+        {
+          "name": "Almost ’88 (New Year’s Eve Broadcast 1987)",
+          "date": "2021-05-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b59f79a0-a86c-427d-9f22-dce54d43654f"
+        },
+        {
+          "name": "Free Fallin",
+          "date": "2019-06-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b5d75de9-9b87-4863-838e-7b13c79ca48c"
+        },
+        {
+          "name": "Sin City Illusion II: 2016-04-09 Las Vegas, NV",
+          "date": "2018",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b8935c8c-c1d2-4826-8de9-5b3fe272bd66"
+        },
+        {
+          "name": "Nothing Lasts Forever (the full 1993 Argentina broadcast)",
+          "date": "2021-06-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ba8bef54-4c78-4403-a27b-b7f99f61572b"
+        },
+        {
+          "name": "Appetite for Destruction / G N’R Lies",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bb90942d-d8b0-454d-aa9b-744735902017"
+        },
+        {
+          "name": "Live in New York: Live American Radio Sessions",
+          "date": "2019-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bbd9749b-2fa9-479c-a6cf-fce57598422e"
+        },
+        {
+          "name": "Knockin’ on Heaven’s Door",
+          "date": "1992-05-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/be685c9e-7d59-3018-9790-97885966ff6c"
+        },
+        {
+          "name": "Ain’t It Fun",
+          "date": "1993-11-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bf3bc9c0-1e50-3728-a6e1-b2c963645591"
+        },
+        {
+          "name": "My Michelle",
+          "date": "2019-08-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c2f4736e-6391-4d66-9892-e515b93751d3"
+        },
+        {
+          "name": "Studio Demos",
+          "date": "1986",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c45d44dd-2d87-44b8-bed3-cc431cb500f3"
+        },
+        {
+          "name": "Shadow of Your Love",
+          "date": "2018-05-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c9f3d5df-9828-4e7d-89d2-cf18057be330"
+        },
+        {
+          "name": "Chinese Democracy",
+          "date": "2008-06-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cdfb0664-26b5-3475-88f5-dd6ccd4d74ce"
+        },
+        {
+          "name": "Tokyo Dome, Japan, 2nd Night, February 20th, 1992 (HQ Remastered)",
+          "date": "2024-10-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ce805cf5-f918-45cd-b1f4-13c34c50c887"
+        },
+        {
+          "name": "Take Me Down (New York '88 WAAF broadcast)",
+          "date": "2024-02-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d43e4d7e-7f08-4ff4-95cc-18f0c892ed28"
+        },
+        {
+          "name": "Mr. Brownstone",
+          "date": "2019-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d4e38308-bb9e-4b58-bdad-aa53bc76c28e"
+        },
+        {
+          "name": "Nothin'",
+          "date": "2025-12-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d5adb67f-d802-4bb1-9f7d-97a8dfd271f9"
+        },
+        {
+          "name": "Nightrain",
+          "date": "1989-08-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/da526dc8-0239-3df0-baa4-c4401673c578"
+        },
+        {
+          "name": "Appetite for Destruction | 1986 Sound City Session",
+          "date": "2018-06-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/da8edf3b-378b-4b10-8955-7fc834eae80d"
+        },
+        {
+          "name": "November Rain",
+          "date": "1992-04-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dd3165d5-0e84-37eb-9670-d9428ceeb89c"
+        },
+        {
+          "name": "Deer Creek 1991 (live radio broadcast)",
+          "date": "2021",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ddaaba25-33b4-464d-9538-970043cc39ce"
+        },
+        {
+          "name": "You Could Be Mine",
+          "date": "1991-07-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/df40c214-d293-38ac-a65a-20b02091ddec"
+        },
+        {
+          "name": "Yesterdays",
+          "date": "1992-11-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e231f89d-c3a3-30f1-9595-86bbf69bfbb6"
+        },
+        {
+          "name": "Live ?!★꩜ Like a Suicide",
+          "date": "1986-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e66fe629-117e-3204-a71b-159894518d97"
+        },
+        {
+          "name": "Makin’ F@*!ing Boxes",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/eacf757e-410f-4b8b-9ddf-63f0b323e750"
+        },
+        {
+          "name": "It’s So Easy",
+          "date": "1987-06-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ed0aaf5f-643d-470e-8dc1-415f703ee4e2"
+        },
+        {
+          "name": "The Illusion Broadcast",
+          "date": "2019-04-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f1a9979e-e976-468a-8065-edd624f90fe0"
+        },
+        {
+          "name": "Atlas",
+          "date": "2025-12-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f23a346a-524b-4dc3-91b6-93bb1c50e700"
+        },
+        {
+          "name": "Guns N’ Roses: Live USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f25a4d85-e73f-4793-b821-e1a0a360fb51"
+        },
+        {
+          "name": "Use Your Illusion",
+          "date": "2022-11-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f44e0a41-5aa2-4960-90f9-45c4ebe7dd32"
+        },
+        {
+          "name": "Paradise City",
+          "date": "1989-03-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f4b2fc63-c560-3689-9b0e-bae39d2a0174"
+        },
+        {
+          "name": "Live and Let Die",
+          "date": "1991-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f57e3cd2-9e36-3767-a2eb-43251055d8fe"
+        },
+        {
+          "name": "Live – Estadio Nacional, Santiago, Chile. December 2nd 1992",
+          "date": "2016-03-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f812aa5f-0659-408b-9cbc-392624c6a336"
+        },
+        {
+          "name": "Double Talkin’ Jive / You Could Be Mine",
+          "date": "2022-10-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fdc1e505-27ef-4be2-adae-2dc63d49b773"
+        },
+        {
+          "name": "Patience",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ff5bff82-6476-3a45-b749-272f4cfcff87"
+        }
+      ]
     }
   },
   "checked": {
@@ -12501,6 +13148,8 @@
     "ghost": "2026-10-13T09:47:35.546830+00:00",
     "gojira": "2026-10-13T09:47:36.864625+00:00",
     "gorgoroth": "2026-10-13T17:13:16.435623+00:00",
-    "grave-digger": "2026-10-13T17:13:17.658108+00:00"
+    "grave-digger": "2026-10-13T17:13:17.658108+00:00",
+    "great-white": "2026-10-13T21:54:16.822784+00:00",
+    "guns-n-roses": "2026-10-13T21:54:21.152966+00:00"
   }
 }

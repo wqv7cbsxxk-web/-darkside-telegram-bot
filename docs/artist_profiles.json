@@ -1243,7 +1243,7 @@
       "website": "http://gorgoroth.info",
       "reference_url": "https://en.wikipedia.org/wiki/Gorgoroth",
       "reference_checked_at": "2026-10-13T17:13:05.078101+00:00",
-      "tour_attempted_at": "2026-10-03T04:43:17.591014+00:00",
+      "tour_attempted_at": "2026-10-13T21:54:11.060813+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T17:13:05.078124+00:00"
     },
@@ -1261,7 +1261,7 @@
       "website": "http://officialgreatwhite.com",
       "reference_url": "https://en.wikipedia.org/wiki/Great_White",
       "reference_checked_at": "2026-10-13T17:13:05.223366+00:00",
-      "tour_attempted_at": "2026-10-03T04:43:18.284717+00:00",
+      "tour_attempted_at": "2026-10-13T21:54:11.528942+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T17:13:05.223389+00:00"
     },
@@ -1303,7 +1303,7 @@
       "website": "http://gunsnroses.com",
       "reference_url": "https://en.wikipedia.org/wiki/Guns_N%E2%80%99_Roses",
       "reference_checked_at": "2026-10-13T17:13:06.445741+00:00",
-      "tour_attempted_at": "2026-10-03T04:43:18.696605+00:00",
+      "tour_attempted_at": "2026-10-13T21:54:12.105619+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T17:13:06.445898+00:00"
     },
@@ -1333,7 +1333,7 @@
       "website": "https://www.halestormrocks.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Halestorm",
       "reference_checked_at": "2026-10-13T17:13:06.777824+00:00",
-      "tour_attempted_at": "2026-10-03T04:43:19.166909+00:00",
+      "tour_attempted_at": "2026-10-13T21:54:12.184699+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T17:13:06.777847+00:00"
     },
@@ -1413,8 +1413,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://immortalofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Immortal_%28band%29",
-      "reference_checked_at": "2026-10-02T02:22:55.531640+00:00",
-      "tour_attempted_at": "2026-10-03T07:13:03.942529+00:00"
+      "reference_checked_at": "2026-10-13T21:54:09.366560+00:00",
+      "tour_attempted_at": "2026-10-03T07:13:03.942529+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T21:54:09.366625+00:00"
     },
     "in-flames": {
       "origin": "Gothenburg , Sweden",
@@ -1445,8 +1447,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.inflames.com/",
       "reference_url": "https://en.wikipedia.org/wiki/In_Flames",
-      "reference_checked_at": "2026-10-02T02:22:55.758346+00:00",
-      "tour_attempted_at": "2026-10-03T07:13:04.351577+00:00"
+      "reference_checked_at": "2026-10-13T21:54:09.491232+00:00",
+      "tour_attempted_at": "2026-10-03T07:13:04.351577+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T21:54:09.491357+00:00"
     },
     "iron-maiden": {
       "origin": "London, England",
@@ -1481,8 +1485,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ironmaiden.com",
       "reference_url": "https://en.wikipedia.org/wiki/Iron_Maiden",
-      "reference_checked_at": "2026-10-02T02:22:55.988234+00:00",
-      "tour_attempted_at": "2026-10-03T07:13:04.731493+00:00"
+      "reference_checked_at": "2026-10-13T21:54:09.737041+00:00",
+      "tour_attempted_at": "2026-10-03T07:13:04.731493+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T21:54:09.737141+00:00"
     },
     "kid-rock": {
       "origin": "",
@@ -1492,29 +1498,122 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://kidrock.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kid_Rock",
-      "reference_checked_at": "2026-10-02T02:23:02.718310+00:00",
-      "tour_attempted_at": "2026-10-03T07:13:05.061393+00:00"
+      "reference_checked_at": "2026-10-13T21:54:09.918867+00:00",
+      "tour_attempted_at": "2026-10-03T07:13:05.061393+00:00",
+      "instruments": "Vocals guitar",
+      "reference_attempted_at": "2026-10-13T21:54:09.918887+00:00"
     },
     "king-crimson": {
       "origin": "London, England",
       "genres": "Progressive rock art rock experimental rock progressive metal post-progressive new wave",
       "years_active": "1968–1974 1981–1984 1994–2008 2013–2021",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Robert Fripp",
+          "role": ""
+        },
+        {
+          "name": "Michael Giles",
+          "role": ""
+        },
+        {
+          "name": "Greg Lake",
+          "role": ""
+        },
+        {
+          "name": "Ian McDonald",
+          "role": ""
+        },
+        {
+          "name": "Peter Sinfield",
+          "role": ""
+        },
+        {
+          "name": "Mel Collins",
+          "role": ""
+        },
+        {
+          "name": "Peter Giles",
+          "role": ""
+        },
+        {
+          "name": "Gordon Haskell",
+          "role": ""
+        },
+        {
+          "name": "Andy McCulloch",
+          "role": ""
+        },
+        {
+          "name": "Boz Burrell",
+          "role": ""
+        },
+        {
+          "name": "Ian Wallace",
+          "role": ""
+        },
+        {
+          "name": "Bill Bruford",
+          "role": ""
+        },
+        {
+          "name": "David Cross",
+          "role": ""
+        },
+        {
+          "name": "Jamie Muir",
+          "role": ""
+        },
+        {
+          "name": "John Wetton",
+          "role": ""
+        },
+        {
+          "name": "Adrian Belew",
+          "role": ""
+        },
+        {
+          "name": "Tony Levin",
+          "role": ""
+        },
+        {
+          "name": "Trey Gunn",
+          "role": ""
+        },
+        {
+          "name": "Pat Mastelotto",
+          "role": ""
+        },
+        {
+          "name": "Gavin Harrison",
+          "role": ""
+        },
+        {
+          "name": "Jakko Jakszyk",
+          "role": ""
+        },
+        {
+          "name": "Bill Rieflin",
+          "role": ""
+        },
+        {
+          "name": "Jeremy Stacey",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://dgmlive.com",
       "reference_url": "https://en.wikipedia.org/wiki/King_Crimson",
-      "reference_checked_at": "2026-10-02T02:23:02.982586+00:00",
-      "tour_attempted_at": "2026-10-04T00:38:17.770185+00:00"
+      "reference_checked_at": "2026-10-13T21:54:10.181620+00:00",
+      "tour_attempted_at": "2026-10-04T00:38:17.770185+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T21:54:10.181734+00:00"
     },
     "judas-priest": {
       "origin": "Birmingham , England",
       "genres": "Heavy metal",
       "years_active": "1969–1970 1970–1992 1996–present",
       "members": [
-        {
-          "name": "Ian Hill",
-          "role": ""
-        },
         {
           "name": "Rob Halford",
           "role": ""
@@ -1530,13 +1629,19 @@
         {
           "name": "Richie Faulkner",
           "role": ""
+        },
+        {
+          "name": "Dave Rimmer",
+          "role": ""
         }
       ],
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://judaspriest.com",
       "reference_url": "https://en.wikipedia.org/wiki/Judas_Priest",
-      "reference_checked_at": "2026-10-02T02:23:03.363778+00:00",
-      "tour_attempted_at": "2026-10-04T00:38:18.032889+00:00"
+      "reference_checked_at": "2026-10-13T21:54:10.391644+00:00",
+      "tour_attempted_at": "2026-10-04T00:38:18.032889+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T21:54:10.391664+00:00"
     },
     "kiss": {
       "origin": "New York City , U.S.",
