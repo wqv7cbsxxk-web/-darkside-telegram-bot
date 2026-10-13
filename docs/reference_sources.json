@@ -12305,6 +12305,154 @@
           "source_url": "https://musicbrainz.org/release-group/fe1e943a-509b-405e-86e7-0849018b8231"
         }
       ]
+    },
+    "gorgoroth": {
+      "name": "Gorgoroth",
+      "musicbrainz_url": "https://musicbrainz.org/artist/a1d69fd9-0096-4a60-b277-de34e5a77fca",
+      "reference_checked_at": "2026-10-13T17:13:16.435523+00:00",
+      "genres": "black metal",
+      "website": "http://www.gorgoroth.info/",
+      "members": [
+        {
+          "name": "Infernus",
+          "role": "guitar family, original",
+          "begin": "1992"
+        },
+        {
+          "name": "Tomas Asklund",
+          "role": "membranophone",
+          "begin": "2007"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/a1d69fd9-0096-4a60-b277-de34e5a77fca",
+      "albums": [
+        {
+          "name": "Burzum / Gorgoroth",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/29a3d47f-9b1d-349f-8cb9-340d2dd1c7c3"
+        },
+        {
+          "name": "Black Mass Krakow 2004",
+          "date": "2008-06-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2a743d82-32e1-460a-a0e7-3c2c06222dba"
+        },
+        {
+          "name": "The Last Tormentor",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2bb9af21-0948-334e-a477-bb938bad29da"
+        },
+        {
+          "name": "2004-04-08: Inferno Metal Festival, Oslo, Norway",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/46796569-daa8-359f-b5b7-838ba8fa2618"
+        },
+        {
+          "name": "Promo",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/47889633-38b4-34b1-8b8b-174d5dc2f21a"
+        },
+        {
+          "name": "A Sorcery Written in Blood",
+          "date": "1993-04-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/517723fe-5578-3cc5-9ac2-f14f1d356297"
+        },
+        {
+          "name": "Destroyer / Incipit Satan",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6126561b-585a-4299-9ee4-28fde0e0c347"
+        },
+        {
+          "name": "Under the Sign of Hell",
+          "date": "1997-10-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/62ad2ee8-c654-345f-a276-abc4913e4788"
+        },
+        {
+          "name": "Incipit Satan",
+          "date": "2000-02-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6c12b544-2abc-371f-a469-ae5f2c88c64a"
+        },
+        {
+          "name": "Ad majorem Sathanas gloriam",
+          "date": "2006-06-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/72f145ac-069f-3dd4-9f48-1251108f761a"
+        },
+        {
+          "name": "True Norwegian Black Metal: Live in Grieghallen",
+          "date": "2008-06-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/737e770a-51c6-3ec8-a313-1f35d5809435"
+        },
+        {
+          "name": "Under the Sign of Hell 2011",
+          "date": "2011-12-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7dcc5c05-91bb-400e-ac67-09b9cc6a1a9e"
+        },
+        {
+          "name": "Twilight of the Idols: In Conspiracy With Satan",
+          "date": "2003-08-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/84d759cc-3b64-3f68-9d3f-5c74e9222871"
+        },
+        {
+          "name": "The Beginning",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8bb9b309-a47b-4d77-a84f-9e9407ae61c3"
+        },
+        {
+          "name": "Quantos possunt ad Satanitatem trahunt",
+          "date": "2009-10-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/97deced8-fe85-4cba-abb4-1ba9803f79a7"
+        },
+        {
+          "name": "Pentagram",
+          "date": "1994-10-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a6747fa2-d914-357d-a635-b9362cb10269"
+        },
+        {
+          "name": "A Sorcery Written in Blood '93 / Promo '94",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a9041aef-ccdb-3b00-8feb-20852af4ba55"
+        },
+        {
+          "name": "Antichrist",
+          "date": "1996-06-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b33bc873-1329-3d3a-aefa-69a7d022a995"
+        },
+        {
+          "name": "Instinctus Bestialis",
+          "date": "2015-06-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bf1869ed-bc9a-4df9-98cf-cf9b4cb62c47"
+        },
+        {
+          "name": "Destroyer, or About How to Philosophize With the Hammer",
+          "date": "1998-05-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c5869615-f710-3603-a955-32254e46af8c"
+        },
+        {
+          "name": "Unter den flugeln von Satan",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ec697b0a-b6c0-35e8-9b20-78c3cd842099"
+        }
+      ]
     }
   },
   "checked": {
@@ -12351,6 +12499,8 @@
     "genesis": "2026-10-13T02:45:10.532590+00:00",
     "gentle-giant": "2026-10-13T02:45:15.594304+00:00",
     "ghost": "2026-10-13T09:47:35.546830+00:00",
-    "gojira": "2026-10-13T09:47:36.864625+00:00"
+    "gojira": "2026-10-13T09:47:36.864625+00:00",
+    "gorgoroth": "2026-10-13T17:13:16.435623+00:00",
+    "grave-digger": "2026-10-13T17:13:17.658108+00:00"
   }
 }
