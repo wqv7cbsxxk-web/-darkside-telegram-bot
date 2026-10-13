@@ -988,7 +988,7 @@
       "reference_checked_at": "2026-10-13T02:44:54.594198+00:00",
       "qid": "Q162586",
       "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
-      "tour_attempted_at": "2026-10-03T03:17:22.504527+00:00",
+      "tour_attempted_at": "2026-10-13T09:47:21.951209+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T02:44:54.594223+00:00"
     },
@@ -1017,8 +1017,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://entershikari.com",
       "reference_url": "https://en.wikipedia.org/wiki/Enter_Shikari",
-      "reference_checked_at": "2026-10-02T02:22:26.892832+00:00",
-      "tour_attempted_at": "2026-10-03T03:17:24.301680+00:00"
+      "reference_checked_at": "2026-10-13T09:47:19.788051+00:00",
+      "tour_attempted_at": "2026-10-13T09:47:24.809454+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T09:47:19.788182+00:00"
     },
     "eminem": {
       "origin": "Detroit , Michigan, U.S.",
@@ -1028,8 +1030,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://eminem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Eminem",
-      "reference_checked_at": "2026-10-02T02:22:27.335272+00:00",
-      "tour_attempted_at": "2026-10-03T03:17:25.856625+00:00"
+      "reference_checked_at": "2026-10-13T09:47:20.552221+00:00",
+      "tour_attempted_at": "2026-10-13T09:47:27.256103+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T09:47:20.552552+00:00"
     },
     "fates-warning": {
       "origin": "Hartford, Connecticut , U.S.",
@@ -1056,8 +1060,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.fateswarning.com",
       "reference_url": "https://en.wikipedia.org/wiki/Fates_Warning",
-      "reference_checked_at": "2026-10-02T02:22:32.227532+00:00",
-      "tour_attempted_at": "2026-10-03T03:17:27.365783+00:00"
+      "reference_checked_at": "2026-10-13T09:47:20.690910+00:00",
+      "tour_attempted_at": "2026-10-13T09:47:30.075088+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T09:47:20.690933+00:00"
     },
     "foo-fighters": {
       "origin": "Seattle , Washington , U.S.",
@@ -1092,30 +1098,110 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://foofighters.com",
       "reference_url": "https://en.wikipedia.org/wiki/Foo_Fighters",
-      "reference_checked_at": "2026-10-02T02:22:32.346829+00:00",
-      "tour_attempted_at": "2026-10-03T03:30:58.033205+00:00"
+      "reference_checked_at": "2026-10-13T09:47:21.082149+00:00",
+      "tour_attempted_at": "2026-10-03T03:30:58.033205+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T09:47:21.082171+00:00"
     },
     "gentle-giant": {
       "origin": "Portsmouth , England",
       "genres": "Progressive rock",
       "years_active": "1970–1980",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Gary Green",
+          "role": ""
+        },
+        {
+          "name": "Kerry Minnear",
+          "role": ""
+        },
+        {
+          "name": "Derek Shulman",
+          "role": ""
+        },
+        {
+          "name": "Phil Shulman",
+          "role": ""
+        },
+        {
+          "name": "Ray Shulman",
+          "role": ""
+        },
+        {
+          "name": "Malcolm Mortimore",
+          "role": ""
+        },
+        {
+          "name": "John Weathers",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://gentlegiantband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gentle_Giant",
-      "reference_checked_at": "2026-10-02T02:22:38.684883+00:00",
-      "tour_attempted_at": "2026-10-03T03:30:58.841082+00:00"
+      "reference_checked_at": "2026-10-13T09:47:21.416205+00:00",
+      "tour_attempted_at": "2026-10-03T03:30:58.841082+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T09:47:21.416227+00:00"
     },
     "genesis": {
       "origin": "Godalming , Surrey , England",
       "genres": "Progressive rock art rock pop rock soft rock",
       "years_active": "1967–2000 2002 2006–2007 2020–2022",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Tony Banks",
+          "role": ""
+        },
+        {
+          "name": "Peter Gabriel",
+          "role": ""
+        },
+        {
+          "name": "Anthony Phillips",
+          "role": ""
+        },
+        {
+          "name": "Mike Rutherford",
+          "role": ""
+        },
+        {
+          "name": "Chris Stewart",
+          "role": ""
+        },
+        {
+          "name": "John Silver",
+          "role": ""
+        },
+        {
+          "name": "John Mayhew",
+          "role": ""
+        },
+        {
+          "name": "Phil Collins",
+          "role": ""
+        },
+        {
+          "name": "Mick Barnard",
+          "role": ""
+        },
+        {
+          "name": "Steve Hackett",
+          "role": ""
+        },
+        {
+          "name": "Ray Wilson",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://genesis-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Genesis_%28band%29",
-      "reference_checked_at": "2026-10-02T02:22:38.929723+00:00",
-      "tour_attempted_at": "2026-10-03T03:30:59.229009+00:00"
+      "reference_checked_at": "2026-10-13T09:47:21.787683+00:00",
+      "tour_attempted_at": "2026-10-03T03:30:59.229009+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-13T09:47:21.787707+00:00"
     },
     "ghost": {
       "origin": "Linköping , Östergötland , Sweden",
