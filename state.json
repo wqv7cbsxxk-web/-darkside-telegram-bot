@@ -494,49 +494,19 @@
     "d06eb74b37fc5b5da848e5f05d7c946c40a393ea",
     "b99df24ae9c55fed370df67dd810bd22632b5b5e",
     "6d3e339113a9f3e07605931638139bca0c8b75f6",
-    "51ff8c9106be1466c99fe5d84fcef3644d85b7df"
+    "51ff8c9106be1466c99fe5d84fcef3644d85b7df",
+    "2ddee9ae25783f3153cb798f1d55948676e74b0c",
+    "2b268b85bced6b569b58c0b60b149109f6bc4288",
+    "520e782ab2ac7250676f0584cb3eb5a45654cdd2",
+    "49ac17d00b1afc37b691efa4e02397298fc4d3f8",
+    "8713a4fce58e2d304be26a525402d0bd4426b631",
+    "018abc8ef3684d98da0890d80cac489a5582cd3a",
+    "17e0fc054e651e5c9639b3d63f4e99e0abb26ff4",
+    "7a868b15bc666a6c48564f3dd05fca5255ee3cff",
+    "4e7a0e46bab12476438eab404f320a556c952a45",
+    "75a66bf6524703db76c4be0b20652979932354f1"
   ],
   "recent_titles": [
-    {
-      "title": "Watch Turnstile Perform Live On ‘Saturday Night Live’",
-      "source": "ThePRP",
-      "ts": 1791117334
-    },
-    {
-      "title": "Metallica pull out the big guns and drop a deep cut on night two of their Sphere residency",
-      "source": "Louder",
-      "ts": 1791117343
-    },
-    {
-      "title": "“He stopped my vocal takes so many times because the dogs were fighting”: How Katatonia became Sweden’s answer to Tool",
-      "source": "Louder",
-      "ts": 1791133194
-    },
-    {
-      "title": "Новое видео DEFENDER",
-      "source": "Darkside",
-      "ts": 1791143823
-    },
-    {
-      "title": "Новое видео BLIND CHANNEL",
-      "source": "Darkside",
-      "ts": 1791143825
-    },
-    {
-      "title": "Metallica’s Second Show At The Sphere Served Up A Live Rarity And A Different Setlist",
-      "source": "ThePRP",
-      "ts": 1791143838
-    },
-    {
-      "title": "SepticFlesh’s Christos Antoniou To Miss Immediate Shows Of North American Tour Due To Broken Ribs",
-      "source": "ThePRP",
-      "ts": 1791143843
-    },
-    {
-      "title": "Bilmrui Releases “MORE THAN HATE” Live Video From Spring 2026 Nashville Show",
-      "source": "ThePRP",
-      "ts": 1791143845
-    },
     {
       "title": "Brother’s Keeper’s New “You Can’t Kill Me” Collection Set For Vinyl Release",
       "source": "ThePRP",
@@ -1296,6 +1266,46 @@
       "title": "Профессиональное видео полного выступления CASTLE RAT",
       "source": "Darkside",
       "ts": 1791974328
+    },
+    {
+      "title": "Watch Trev Lukather and Levara's New 'Underneath It All' Video",
+      "source": "Ultimate Classic Rock",
+      "ts": 1791991872
+    },
+    {
+      "title": "\"I thought people were probably gonna hate it.\" How Nimrod, and its surprise hit single Good Riddance (Time of Your Life), taught Green Day's Billie Joe Armstrong to stop caring about dumb punk rock rules",
+      "source": "Louder",
+      "ts": 1791991897
+    },
+    {
+      "title": "AN NCS PREMIERE: AODON — “SOUS LES SANGLES”",
+      "source": "No Clean Singing",
+      "ts": 1791991910
+    },
+    {
+      "title": "Video Premiere: NIXD – “Midlife Christless”",
+      "source": "Decibel",
+      "ts": 1791991970
+    },
+    {
+      "title": "Judas Priest's Ian Hill on his career-ending injury",
+      "source": "Louder",
+      "ts": 1791991983
+    },
+    {
+      "title": "Новое видео RAM",
+      "source": "Darkside",
+      "ts": 1791991985
+    },
+    {
+      "title": "Концертное видео THE OFFSPRING",
+      "source": "Darkside",
+      "ts": 1791991987
+    },
+    {
+      "title": "Top 10 Mike Love Beach Boys Songs",
+      "source": "Ultimate Classic Rock",
+      "ts": 1791992101
     }
   ],
   "initialized_sources": [
@@ -3323,7 +3333,7 @@
       "title": "The 5 Rising Welsh Metal Bands You Need To Know",
       "link": "https://metalinjection.net/lists/the-5-rising-welsh-metal-bands-you-need-to-know",
       "rss_body": "Consisting of Ysbrydnos, Breichiau Hir, and more.",
-      "tags": "Lists featured2 hiraeth ysbrydnos Breichiau Hir icantdie defod",
+      "tags": "Lists featured hiraeth ysbrydnos Breichiau Hir icantdie defod",
       "category": "Хэви-метал",
       "published": "2026-10-12T16:19:23+00:00",
       "id": "ed145ac3739dc539d4672f04dfcb4c894a3132aa",
@@ -3371,7 +3381,7 @@
       "title": "James Hetfield: “Metallica Is Not Here… to Influence You With Their Bull****",
       "link": "https://metalinjection.net/news/james-hetfield-metallica-is-not-here-to-influence-you-with-bull-politics",
       "rss_body": "The Metallica frontman recently addressed the Sphere audience, taking a dig at other \"entertainers.\"",
-      "tags": "Latest News Metallica featured1",
+      "tags": "Latest News Metallica featured",
       "category": "Хэви-метал",
       "published": "2026-10-12T15:06:30+00:00",
       "id": "7118f5120f6c201ef8842f480354d910b7da50e5",
@@ -3639,7 +3649,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-13T18:59:56+00:00",
       "id": "54dddfaba078f0b1373d96a49e32118a07cb2c49",
-      "retry_after": 0
+      "retry_after": 1791992328
     },
     {
       "source": "Metal Injection",
@@ -3651,7 +3661,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T18:54:54+00:00",
       "id": "0bc34f73ce3a3bd4aab3f2118e879131426eafce",
-      "retry_after": 0
+      "retry_after": 1791992328
     },
     {
       "source": "Metal Injection",
@@ -3663,7 +3673,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T17:17:37+00:00",
       "id": "6e57911a7743ad43cbb0c228a83d313ae826bb57",
-      "retry_after": 0
+      "retry_after": 1791992328
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3675,43 +3685,31 @@
       "category": "Прогрессив",
       "published": "2026-10-13T17:03:04+00:00",
       "id": "19ed93ba39ae6d8df8b72eef8ab84fed711e541c",
-      "retry_after": 0
+      "retry_after": 1791992352
     },
     {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Top 10 Mike Love Beach Boys Songs",
-      "link": "https://ultimateclassicrock.com/mike-love-beach-boys-songs/",
-      "rss_body": "These days, he personifies the group's radio-friendly sound – but that obscures a decidedly complex figure.",
-      "tags": "Lists Mike Love The Beach Boys UCR",
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Ian Hill Recalls the Moment His Tendon Snapped in Brussels: “I Thought, ‘That’s It. That’s the End of It’”",
+      "link": "https://metalinjection.net/news/ian-hill-recalls-the-moment-his-tendon-snapped-in-brussels-i-thought-thats-it-thats-the-end-of-it",
+      "rss_body": "“I almost retired at the end of the last tour.”",
+      "tags": "Latest News Judas Priest Ian Hill",
       "category": "Хэви-метал",
-      "published": "2026-10-13T16:35:01+00:00",
-      "id": "75a66bf6524703db76c4be0b20652979932354f1",
-      "retry_after": 0
+      "published": "2026-10-14T14:29:26+00:00",
+      "id": "763e15189ce9457ccfc94db35b8bf0ab36b0b73c",
+      "retry_after": 1791992211
     },
     {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео RAM",
-      "link": "http://www.darkside.ru/news/184477/",
-      "rss_body": "Against, новое видео RAM, доступно для просмотра. Это трек взят из нового альбома Against? релиз которого состоялся девятого октября на Metal Blade Records:\n\n1. Obsession\n\n2. Ghost Emperor\n\n3. One Vs. All\n\n4. Abattoir\n\n5. Out of Control\n\n6. Leaving\n\n7. Against\n\n8. Night Blade\n\n9. Rising Again\n\n10. 1984\n\n11. The Final Hour",
-      "tags": "",
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS INTERVIEW: SOMNENT",
+      "link": "https://www.nocleansinging.com/2026/10/14/an-ncs-interview-somnent/",
+      "rss_body": "(We present Daniel Barkasi’s interview of Giovanni A. Vigliotti from the Floridian doom/death metal band Somnent, whose new album Heirloom will be released by Ardua Music on October 30th.) As fall has begun, and winter will be right around the corner, the chill in the atmosphere cultivates the proper mindset for doom metal. A place\n\n[...]",
+      "tags": "Interviews Daniel Barkasi Somnent",
       "category": "Экстремальный метал",
-      "published": "2026-10-14T06:16:52+00:00",
-      "id": "7a868b15bc666a6c48564f3dd05fca5255ee3cff",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Концертное видео THE OFFSPRING",
-      "link": "http://www.darkside.ru/news/184478/",
-      "rss_body": "Half-Truism | Live at Just The Punk Stuff in Quebec City (2026), концертное видео THE OFFSPRING, доступно для просмотра.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T05:21:28+00:00",
-      "id": "4e7a0e46bab12476438eab404f320a556c952a45",
-      "retry_after": 0
+      "published": "2026-10-14T13:50:53+00:00",
+      "id": "ec5d5018bd5a2da6a26d2be63d29fc90708fbe85",
+      "retry_after": 1791992261
     }
   ]
 }
