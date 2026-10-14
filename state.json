@@ -477,49 +477,17 @@
     "29cc2c99e1d4f77cb6135e3ffb3cb6c8e9b1e436",
     "fcac89ec0c2f7de3fe9c20d23cec97c15c6f4d5a",
     "e1e029b3e8587f01b88ece72be41642fda0b7b61",
-    "9cd850436be6200c7824131e5937187867c124b9"
+    "9cd850436be6200c7824131e5937187867c124b9",
+    "b9d673f007aef1fdab9b72a4058b12a2ab0715db",
+    "93083262f28c6c8a8c2a83255e78e68d26a588bd",
+    "26cba081ce783c6d023d2ddb4221ea0f73f859d0",
+    "6e8e15071ece632afcadd7fe8c89e99b67f33733",
+    "fda8e9ed19c390a1b76a60ecd1be86d14dc0e34a",
+    "a714d32507b3b3330f1cf243e468c4f01ca8c6ad",
+    "c8e8fcc122c53c6263ed4118e9884d089fac8afc",
+    "34c41154bf64e925923f754e97b39ce605fe8a76"
   ],
   "recent_titles": [
-    {
-      "title": "Here’s proof that Peter Gabriel is one hero it’s safe to meet",
-      "source": "Louder",
-      "ts": 1791075890
-    },
-    {
-      "title": "Nine Glenn Hughes albums you should listen to and one to avoid",
-      "source": "Louder",
-      "ts": 1791075958
-    },
-    {
-      "title": "THINGS YOU MAY HAVE MISSED (BUT SHOULDN’T)",
-      "source": "No Clean Singing",
-      "ts": 1791076050
-    },
-    {
-      "title": "AN NCS “PREMIERE”: NOOTHGRUSH — “USELESS”",
-      "source": "No Clean Singing",
-      "ts": 1791076146
-    },
-    {
-      "title": "Track Premiere: Rebreather – ‘I Love You With Some Of My Heart’",
-      "source": "Decibel",
-      "ts": 1791076154
-    },
-    {
-      "title": "Venom Frontman Conrad “Cronos” Lant Passes Away at 63",
-      "source": "Decibel",
-      "ts": 1791076180
-    },
-    {
-      "title": "Voivod Cancel Their Immediate U.S. Tour With BAT Due To Family Health Emergency",
-      "source": "ThePRP",
-      "ts": 1791078106
-    },
-    {
-      "title": "Crowdfunding Campaign Launched For Hunter Young (Moodring, PSYCHO-FRAME) Amid His Health Decline",
-      "source": "ThePRP",
-      "ts": 1791078117
-    },
     {
       "title": "Watch: Deafheaven Debut Their Heavy New Song “Hunter” Live In Chicago",
       "source": "ThePRP",
@@ -1279,6 +1247,46 @@
       "title": "Dream Theater Enter The Studio For Album #17",
       "source": "ThePRP",
       "ts": 1791939138
+    },
+    {
+      "title": "Why it took Genesis 10 years to break even on tour",
+      "source": "Louder",
+      "ts": 1791956434
+    },
+    {
+      "title": "Roger Taylor on Queen's wild party days, big-money deals, Sid Vicious, and his new solo record",
+      "source": "Louder",
+      "ts": 1791956506
+    },
+    {
+      "title": "Steve Hackett announces Best of Genesis and Solo Gems North American tour",
+      "source": "Louder",
+      "ts": 1791956525
+    },
+    {
+      "title": "Black Spikes’ “APATIJA” Music Video Premieres",
+      "source": "ThePRP",
+      "ts": 1791956530
+    },
+    {
+      "title": "Cold Steel’s New In-Studio Session For Audiotree Released",
+      "source": "ThePRP",
+      "ts": 1791956534
+    },
+    {
+      "title": "Portrayal Of Guilt To Perform “We Are Always Alone” In Full At Brooklyn Show",
+      "source": "ThePRP",
+      "ts": 1791956538
+    },
+    {
+      "title": "Track Premiere: Befouled Malediction – ‘Deliberation’",
+      "source": "Decibel",
+      "ts": 1791956543
+    },
+    {
+      "title": "The best Metallica songs of the 90s",
+      "source": "Louder",
+      "ts": 1791956566
     }
   ],
   "initialized_sources": [
@@ -3622,67 +3630,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T20:11:41+00:00",
       "id": "77ee6e21da1d242765db8107fce6b44132df483a",
-      "retry_after": 1791939436
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Black Spikes’ “APATIJA” Music Video Premieres",
-      "link": "https://www.theprp.com/2026/10/13/news/black-spikes-apatija-music-video-premieres/",
-      "rss_body": "Dead roses.",
-      "tags": "News Black Spikes",
-      "category": "Хэви-метал",
-      "published": "2026-10-13T19:43:36+00:00",
-      "id": "6e8e15071ece632afcadd7fe8c89e99b67f33733",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Cold Steel’s New In-Studio Session For Audiotree Released",
-      "link": "https://www.theprp.com/2026/10/13/news/cold-steels-new-in-studio-session-for-audiotree-released/",
-      "rss_body": "Filmed in Chicago this past May during their run with Kreator & Carcass.",
-      "tags": "News Cold Steel",
-      "category": "Экстремальный метал",
-      "published": "2026-10-13T19:31:48+00:00",
-      "id": "fda8e9ed19c390a1b76a60ecd1be86d14dc0e34a",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Portrayal Of Guilt To Perform “We Are Always Alone” In Full At Brooklyn Show",
-      "link": "https://www.theprp.com/2026/10/13/news/portrayal-of-guilt-to-perform-we-are-always-alone-in-full-at-brooklyn-show/",
-      "rss_body": "At Saint Vitus, of course.",
-      "tags": "News Portrayal Of Guilt",
-      "category": "Хэви-метал",
-      "published": "2026-10-13T19:18:44+00:00",
-      "id": "a714d32507b3b3330f1cf243e468c4f01ca8c6ad",
-      "retry_after": 0
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Track Premiere: Befouled Malediction – ‘Deliberation’",
-      "link": "https://www.decibelmagazine.com/2026/10/13/track-premiere-befouled-malediction-deliberation/",
-      "rss_body": "Black metal collective\n\nBefouled Malediction\n\n—an offshoot of the larger Ordo Vampyris Orientis collective—will release their debut album,\n\nDesperate Necromancy\n\n, on October 13. An exploration of the darker, more occult story-focused side of black metal,\n\nDesperate Necromancy\n\nspecifically focuses on a warlock seeking ways to bring his deceased lover back from the dead.\n\nThe dark story is matched by the musicianship, which finds heavy inspiration from bands like Sacramentum, Dissection and Arckanum, using bright, almost triumphant, harmonies against bleak synthesizers and heavy black metal. These elements are extremely present on the song “Deliberation,” which you can stream below. The contrasting sounds feel like a sonic representation of the story—the brightness of love and wild hope to reclaim it juxtaposed against the darkness.\n\nDesperate Necromancy\n\nwill be formally released on November 13 via\n\nIxiol Productions\n\nand\n\nDawnbreed Records\n\n.\n\nDESPERATE NECROMANCY by BEFOULED MALEDICTION",
-      "tags": "Streaming Track Premiere Befouled Malediction black metal premiere",
-      "category": "Экстремальный метал",
-      "published": "2026-10-13T19:00:13+00:00",
-      "id": "c8e8fcc122c53c6263ed4118e9884d089fac8afc",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "The best Metallica songs of the 90s",
-      "link": "https://www.loudersound.com/music/the-best-metallica-songs-of-the-90s",
-      "rss_body": "Metallica\n\n’s first decade saw the San Francisco quartet grow from scrappy, snotty outsiders into the world’s biggest cult band over the course of four peerless albums –\n\nKill ‘Em All\n\n,\n\nRide The Lightning\n\n,\n\nMaster Of Puppets\n\nand\n\n…And Justice For All\n\n.\n\nThe ‘90s were a much more divisive period for supporters of the band, with founding members James Hetfield and Lars Ulrich determined, as ever, to break fresh ground for their group and re-draw the blueprints of what Metallica could be. The result was some of the best, if most contentious, music of their career…\n\n10. Fuel\n\nWhen Lars Ulrich told the world that, post-Black Album, Metallica were exploring a more “greasy”, dirty sound, he obviously had\n\nFuel\n\nin mind. A\n\nBattery\n\nfor the NASCAR demographic, there’s nothing subtle about the dumbed-down petrol head turbo-blues blaster which introduces 1997’s\n\nReload\n\nalbum but there’s no denying its full-throttle roar.\n\n9. No Leaf Clover\n\nOne of two previously unreleased songs to feature on\n\nS&M\n\n, the document of Metallica’s bold collaboration with the San Francisco Symphony Orchestra (the other being the unremarkable\n\n–Human\n\n), the dramatic\n\nNo Leaf Clover\n\nis one of the band’s most under-rated compositions, with James Hetfield’s bleak lyrics (\n\n‘It comes to be that the soothing light at the end of your tunnel is just a freight train coming your way…’\n\n) accentuated by Michael Kamen’s brooding orchestration.\n\n8. Hero of The Day\n\nOriginally titled\n\nMouldy\n\n, as James Hetfield and Lars Ulrich considered its main riff reminiscent of Husker Du/Sugar mainman Bob Mould’s guitar style, this slow-burning\n\nLoad\n\nhighlight is a masterclass in employing light and shade and push/pull dynamics to take the listener on a journey. The song’s video, meanwhile, is memorable for employing a rare use of erectile dysfunction in the story-line.\n\n7. Wherever I May Roam\n\nTowards the end of the ‘90s, with their cover of Bob Seger’s\n\nTurn The Page\n\n, Metallica dealt with the mundane, often soul-sapping, realities of being a touring musician, but on this Black Album highlight, with its memorable\n\n‘Rover, wanderer, nomad, vagabond’\n\nrefrain, James Hetfield makes life on the road sound positively heroic.\n\n6. Until It Sleeps\n\nThe world’s first taste of the\n\ncontroversial and unfairly maligned\n\nLoad\n\nalbum\n\n, this 1996 single is a Southern Gothic-tinged reflective meditation upon death and loss, all the more powerful and affecting for being inspired by James Hetfield’s knowledge that his estranged father Virgil had incurable cancer.\n\n5. Enter Sandman\n\nMetallica’s first single of the 1990s was both their passport to the mainstream and the song by which their decade would be defined. Thrillingly direct, immediate and impactful – in stark contrast to the labyrinthine twists and turns of the\n\n…And Justice For All\n\nalbum - it kicked down the doors for the band on US radio, and ensured that the Black Album became first true ‘event’ album of the ‘90s.\n\n4. Sad But True\n\nAn absolute beast of a song,\n\nSad But True\n\nlaughs in the face of anyone claiming that Metallica turned their back on ‘heavy’ music in the ‘90s. Proving the old age that less is sometimes more, its elemental, down-tuned riff is given room to breathe in a spacious arrangement that would have mystified the youthful thrashers who made\n\nKill ‘Em All\n\n, lending the track a rare authority and power.\n\n3. Bleeding Me\n\nDealing with themes of rebirth, regeneration and renewal,\n\nBleeding Me\n\nis a perfect encapsulation of Metallica’s mindset when approaching the\n\nLoad\n\nalbum.\n\n‘I’m digging my way to something better’\n\nsings James Hetfield at the outset of this masterfully controlled, suspenseful eight minute epic, a song undeniably influenced by the singer’s burgeoning infatuation with mid-‘90s stoner rockers Corrosion Of Conformity.\n\n2. The Unforgiven\n\nThough the Black Album was released one month ahead of the fifth anniversary of Cliff Burton’s death, the late bassist’s colossal influence upon Metallica resonates in every bar of this majestic metallic symphony. There are echoes of Ennio Morricone’s iconic spaghetti western soundtracks in this sobering, thoughtful treatise on life, love and liberty, but it would have been impossible without Burton’s schooling of the band in the s\n\nturm-und-drang\n\ndynamics of European classical music.\n\n1. The Outlaw Torn\n\nThe highpoint of Metallica’s ‘90’s output,\n\nLoad\n\n’s closing track is an atmospheric weighing up of loss and regret, which, as with\n\nThe Unforgiven\n\n, unfurls into a widescreen cinematic epic. Metallica were forced to cut a whole minute from the song’s outro on Load to accommodate the CD’s running time - the full length version later surfaced on the B-side of the\n\nThe Memory Remains\n\nsingle, wryly sub-titled (Unencumbered by Manufacturing Restrictions Version) – but the breath-taking version on\n\nS&M\n\nshows this remarkable band at their transcendent, untouchable best.",
-      "tags": "Tracks & Singles Music",
-      "category": "Хэви-метал",
-      "published": "2026-10-13T19:00:00+00:00",
-      "id": "34c41154bf64e925923f754e97b39ce605fe8a76",
-      "retry_after": 0
+      "retry_after": 1791956826
     },
     {
       "source": "No Clean Singing",
