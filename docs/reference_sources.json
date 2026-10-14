@@ -14796,6 +14796,1285 @@
           "source_url": "https://musicbrainz.org/release-group/fe2948ac-ae18-4700-b001-9f27ccc4e906"
         }
       ]
+    },
+    "jethro-tull": {
+      "name": "Jethro Tull",
+      "musicbrainz_url": "https://musicbrainz.org/artist/ece57992-dc2e-4f67-a269-fa43626c1a3d",
+      "reference_checked_at": "2026-10-14T19:42:16.826410+00:00",
+      "genres": "art rock, blues rock, classic rock, folk rock, hard rock, progressive, progressive folk, progressive rock, rock",
+      "website": "http://www.j-tull.com/",
+      "members": [
+        {
+          "name": "Ian Anderson",
+          "role": "acoustic guitar, flute, harmonica, lead vocals, mandolin, original",
+          "begin": "1967"
+        },
+        {
+          "name": "Doane Perry",
+          "role": "drums (drum set)",
+          "begin": "1994"
+        },
+        {
+          "name": "David Goodier",
+          "role": "bass guitar",
+          "begin": "2006"
+        },
+        {
+          "name": "John O’Hara",
+          "role": "accordion, keyboard, piano",
+          "begin": "2006"
+        },
+        {
+          "name": "Anna Phoebe",
+          "role": "violin",
+          "begin": "2007"
+        },
+        {
+          "name": "Scott Hammond",
+          "role": "",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/ece57992-dc2e-4f67-a269-fa43626c1a3d",
+      "albums": [
+        {
+          "name": "Platinum, Part I: 1968–1975",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/01ec6449-a9bd-4942-b8d8-3d6b5d8b4e64"
+        },
+        {
+          "name": "Heavy Horses",
+          "date": "1978-04-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/08dcf82b-d418-3800-9427-b4aabc6a64d3"
+        },
+        {
+          "name": "Curious Ruminant",
+          "date": "2025-03-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0aeae71f-acf7-4e72-b8bc-1923bba5ea63"
+        },
+        {
+          "name": "Jethro Tull 36 Greatest Hits",
+          "date": "1998-09-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0b266da0-2233-3567-9a48-5e21163915df"
+        },
+        {
+          "name": "The Very Best Of",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0c4dd0f8-1159-4d8b-a7a4-7abb6ebcdae8"
+        },
+        {
+          "name": "Rock Island",
+          "date": "1989-08-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0ee31033-6014-3c46-a7a2-ca0d887b5c4c"
+        },
+        {
+          "name": "Live in Berlin 1985",
+          "date": "2023-02-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0f10fe53-72ea-493d-99a4-e9e36eb1bce2"
+        },
+        {
+          "name": "Thick as a Brick",
+          "date": "1972-02-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/13081627-5418-300c-af24-f65875ab61b7"
+        },
+        {
+          "name": "Stormwatch",
+          "date": "1979-09-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/138fda3b-cbad-36ce-bd0d-ffe72f7ccb5d"
+        },
+        {
+          "name": "Live at Montreux 2003",
+          "date": "2007-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/15fe5b4e-77a5-355c-9027-1f98b15db2f4"
+        },
+        {
+          "name": "The Originals",
+          "date": "1998-11-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/16296d64-5da4-4024-821b-9fff2eea8a2f"
+        },
+        {
+          "name": "Platinum, Part II: 1976–1994",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1b2f589c-687f-47df-96b9-05be17147168"
+        },
+        {
+          "name": "Boston Tea Party, Boston 1970",
+          "date": "2024-06-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1b3808e5-49c2-42eb-b418-5fd57f4475c1"
+        },
+        {
+          "name": "Aqualung",
+          "date": "1971-03-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/204cc47e-2e1a-3877-8e1e-d14bfffd19aa"
+        },
+        {
+          "name": "The Best of Acoustic Jethro Tull",
+          "date": "2007-03-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/226bb9e0-7e2b-39c4-9311-56079751f098"
+        },
+        {
+          "name": "5 Album Set",
+          "date": "2012-10-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/260beeb1-c0f2-4a46-9bdd-ef9f556377b2"
+        },
+        {
+          "name": "J‐Tull Dot Com",
+          "date": "1999-08-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2863519d-7c35-3fb5-b938-618f57e3c893"
+        },
+        {
+          "name": "Living in the Past",
+          "date": "1972-06-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2c14cd33-c947-36e4-a2ce-f8e030d66121"
+        },
+        {
+          "name": "Essential",
+          "date": "2011-11-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2f04e159-d6da-4d10-9682-44abc3e70432"
+        },
+        {
+          "name": "Heavy Horses / Songs From the Wood",
+          "date": "2011",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/30ae4a1a-9c83-429e-960d-40e28505d135"
+        },
+        {
+          "name": "The Best of Jethro Tull: The Anniversary Collection",
+          "date": "1993-05-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/36aabd49-f0c3-3898-8b55-705dd1ff0c0e"
+        },
+        {
+          "name": "Under Wraps: The Unwrapped Edition / Walk Into Light",
+          "date": "2026-05-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3bf7bd7a-8e2c-48c7-8ae1-77a20b052b10"
+        },
+        {
+          "name": "The 25th Anniversary Box Set",
+          "date": "1993-04-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/40f06968-2fbf-3912-af1a-7703c09f45e8"
+        },
+        {
+          "name": "This Was",
+          "date": "1968-10-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/41a282c6-542a-3096-88d9-063d54f6a383"
+        },
+        {
+          "name": "North Sea Oil",
+          "date": "2019-04-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/41ec241c-67d8-4027-9ea5-64ff95c868be"
+        },
+        {
+          "name": "Live From Baloise Session Basel 15/11/2008",
+          "date": "2025-06-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/41ede2e2-403f-4593-885b-645af3729dae"
+        },
+        {
+          "name": "Live in Switzerland",
+          "date": "2023-10-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/44221c19-0625-4f3c-b696-63e647fe2a27"
+        },
+        {
+          "name": "Rocks on the Road",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4bc11bbd-afc0-4dc4-81dc-7fe7559a58a0"
+        },
+        {
+          "name": "1984",
+          "date": "2016-11-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4ce73a0f-6309-49f9-91b7-93fa1248387f"
+        },
+        {
+          "name": "50 for 50",
+          "date": "2018-06-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4e83e721-ae68-4b8b-a3a4-04f03340e9da"
+        },
+        {
+          "name": "The Zealot Gene",
+          "date": "2022-01-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4ee40960-c8ce-45bc-9d62-5708384e9b0b"
+        },
+        {
+          "name": "Life Is a Long Song",
+          "date": "1971-09-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/53a3ce4f-c159-4754-b306-c42701a7e469"
+        },
+        {
+          "name": "20 Years of Jethro Tull",
+          "date": "1988-10-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/56c86c28-19d5-351d-9b4d-678cd97eb7e8"
+        },
+        {
+          "name": "RökFlöte (alternative mixes)",
+          "date": "2023-09-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/57ef9db9-0d9d-4b1b-8a9e-181567462d75"
+        },
+        {
+          "name": "Songs From the Wood",
+          "date": "1977-02-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/58986b39-0bf0-38b6-820a-c26fae194540"
+        },
+        {
+          "name": "WarChild II (Steven Wilson stereo remix)",
+          "date": "2014-11-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5aa88375-a3b0-4b38-926f-d680a98f46b6"
+        },
+        {
+          "name": "The Château d’Hérouville Sessions 1972",
+          "date": "2024-03-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5c06a89f-a993-4236-a80b-d4dc177faa0b"
+        },
+        {
+          "name": "Live at Carnegie Hall 1970",
+          "date": "2015-04-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5c6184ba-d26d-4222-b067-d8911bff6c49"
+        },
+        {
+          "name": "Crest of a Knave",
+          "date": "1987-09-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5c6d0e6c-c645-3530-908d-74c1a8e7c624"
+        },
+        {
+          "name": "Moths",
+          "date": "2018-04-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/60c9462b-dac8-44a1-9d90-39b58fd93845"
+        },
+        {
+          "name": "Beggar’s Farm Jethro Tull Recordings",
+          "date": "2021-09-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/62b6a71b-86b4-412b-9a58-2c55f1467a05"
+        },
+        {
+          "name": "Too Old to Rock, Too Young to Roll (live in Philadelphia)",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/65140f77-ef40-48e9-8a77-36370471b908"
+        },
+        {
+          "name": "A Jethro Tull Collection",
+          "date": "1997-02-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/65a98283-62ff-3378-8505-a84b9554ba95"
+        },
+        {
+          "name": "A Little Light Music",
+          "date": "1992-09-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/67e9a231-9591-3aca-8bf7-92c7a9203cd5"
+        },
+        {
+          "name": "Original Album Series: Volume Two",
+          "date": "2016-01-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6c24f70b-7c24-4523-a7a3-1cabb2e16a6d"
+        },
+        {
+          "name": "Bursting Out",
+          "date": "1978-09-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7124f702-ffaa-38c6-af93-d81b7ec2fc0c"
+        },
+        {
+          "name": "M.U. – The Best of Jethro Tull",
+          "date": "1976-01-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/74846355-b8a3-35ed-a5ff-eff836b1a7a4"
+        },
+        {
+          "name": "Through the Years",
+          "date": "1997-01-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/74ee4f93-812b-3dd4-8959-12a0734a5dde"
+        },
+        {
+          "name": "Songs From Bethlehem (Live at Bethlehem, PA, 9/8/2003)",
+          "date": "2018-09-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7a51cc41-a7dc-45a7-86a0-a549c9971170"
+        },
+        {
+          "name": "Live at Hammersmith ’84",
+          "date": "1990-12-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7c17e9f1-76a3-3a4d-be3e-d36242a9ae0d"
+        },
+        {
+          "name": "Ring Out, Solstice Bells",
+          "date": "1976",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7c8c9c5b-345d-4de4-9d18-489a08aa10b8"
+        },
+        {
+          "name": "10 Great Songs",
+          "date": "2012-04-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7cb5e2fb-e12a-4ec9-82e3-fbdca986be0d"
+        },
+        {
+          "name": "Under Wraps",
+          "date": "1984-09-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/87dc163a-b158-34a4-a7e0-85bcb0e2142a"
+        },
+        {
+          "name": "The Broadsword and the Beast",
+          "date": "1982-04-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8c3dc668-6786-3bb7-8408-48a0d0b7302b"
+        },
+        {
+          "name": "Catfish Rising",
+          "date": "1991-09-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8d68f0ca-8ca2-3ddf-ad06-5006b277dcfb"
+        },
+        {
+          "name": "Alle 40 goed: Jethro Tull",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/906fb4ac-5c5f-4a44-b40a-c1cad0c2e498"
+        },
+        {
+          "name": "Original Album Series",
+          "date": "2014-08-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/92e71874-08cc-4400-a0a6-51f877b6ea39"
+        },
+        {
+          "name": "10 Great Songs",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/943f57f1-5dc7-4ebb-8aa8-476dda82b7ed"
+        },
+        {
+          "name": "Ring Out Solstice Bells",
+          "date": "2004",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/944a5c64-b0f2-47ba-812d-3d9fd52e0aa3"
+        },
+        {
+          "name": "Nothing Is Easy: Live at the Isle of Wight 1970",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9478cb99-e2e1-3ffa-a55e-5ef6f0f196ae"
+        },
+        {
+          "name": "Original Masters",
+          "date": "1985-10-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/972a44fb-c3bb-3b41-9ca8-de8b4d831427"
+        },
+        {
+          "name": "A / Slipstream",
+          "date": "2004-03-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9733c5f0-4427-46b3-94f0-a2f993c1a443"
+        },
+        {
+          "name": "The Best",
+          "date": "1978",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9ac012e0-c852-4ccc-9fd8-209a43416077"
+        },
+        {
+          "name": "Extended Versions",
+          "date": "2006-10-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9b402e3d-0875-4578-8804-dfee944a1358"
+        },
+        {
+          "name": "Benefit",
+          "date": "1970-04-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a07b689b-6523-3872-b5cc-7c40022ac1a1"
+        },
+        {
+          "name": "A",
+          "date": "1980-08-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a4564bd3-c772-3f78-b0e3-27495bf155d4"
+        },
+        {
+          "name": "Stand Up",
+          "date": "1969-08-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a97c5efa-7182-3162-b3f2-9f19dfc35d83"
+        },
+        {
+          "name": "The Essential",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ad8b4186-bc71-49e0-93b1-b29dab4f09bf"
+        },
+        {
+          "name": "Jethro Tull – Live in Concert",
+          "date": "2015-06-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b079c612-d6af-4854-8647-8b69b2fa90f4"
+        },
+        {
+          "name": "A Passion Play",
+          "date": "1973-07-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b367f14c-b981-3de8-9da5-056edbf5bca3"
+        },
+        {
+          "name": "The Jethro Tull Christmas Album",
+          "date": "2003-09-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b4e27584-e69c-38c6-b29c-b4509ea642be"
+        },
+        {
+          "name": "Living in the Past",
+          "date": "2013-04-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b513d11a-8ae3-4171-9a09-1e325c1a17f5"
+        },
+        {
+          "name": "Living With the Past",
+          "date": "2002-04-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b5ba3b80-a90b-3261-8a48-630bd3e35d13"
+        },
+        {
+          "name": "European Tour",
+          "date": "2020-02-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b78257bb-ae98-476b-9a91-d9d38882ecc5"
+        },
+        {
+          "name": "All the Best",
+          "date": "2012-04-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b7c30513-6fdb-4352-a039-91ce4a728692"
+        },
+        {
+          "name": "In Concert (BBC) Hammersmith 1991",
+          "date": "1995-04-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b8ef6054-fcd0-392c-ab48-6b9424d4bd00"
+        },
+        {
+          "name": "Back in USA",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b9678677-cb29-4589-807b-bd4b155c9a69"
+        },
+        {
+          "name": "Best of Ian Anderson & Jethro Tull",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bad44a21-7283-4019-b4fb-496584e06412"
+        },
+        {
+          "name": "Roots to Branches",
+          "date": "1995-09-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bf6161c3-7024-38e4-b49c-d25fdab24c9f"
+        },
+        {
+          "name": "50th Anniversary Collection",
+          "date": "2018-06-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c4a4d99f-46fa-4bbd-865c-dd0d22488f9a"
+        },
+        {
+          "name": "Nightcap: The Unreleased Masters 1973–1991",
+          "date": "1993-11-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c644177c-bcc2-3dea-945e-dc8f9189a2cb"
+        },
+        {
+          "name": "An Introduction to Jethro Tull",
+          "date": "2017",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d1966880-76e9-4762-8b24-0a123343b217"
+        },
+        {
+          "name": "Classic Masters",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d258937e-9653-3065-895b-e92d43d8f179"
+        },
+        {
+          "name": "Tales of Wonder",
+          "date": "2006-06-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e3b705bf-1e0a-497e-8aea-6b5a349ded5d"
+        },
+        {
+          "name": "Midnight in Chicago (live 1970)",
+          "date": "2021-02-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e4e16926-f9b3-4a82-b9ff-6c793fa0f97a"
+        },
+        {
+          "name": "The Triple Album Collection",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e75af5a9-6bfa-491a-8301-883457b76afd"
+        },
+        {
+          "name": "Slipstream",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e898c500-e4e0-3b11-8755-cfc92937d6a0"
+        },
+        {
+          "name": "Living With the Past / Nothing Is Easy: Live at the Isle of Wight 1970",
+          "date": "2014",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/eceb05be-c5e8-4cc5-b7c3-57ea77ee6ba5"
+        },
+        {
+          "name": "Repeat: The Best of Jethro Tull, Volume II",
+          "date": "1977-09-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ed1b381f-c753-301f-8942-e1ea58d37d7c"
+        },
+        {
+          "name": "FM Broadcast Uriah Heep & Jethro Tull",
+          "date": "2020",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ee99b4b2-8b56-45f6-8a74-e568d4f100d5"
+        },
+        {
+          "name": "20 Years of Jethro Tull: The Definitive Collection",
+          "date": "1988-06-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f0189c2d-a1b6-49fb-a785-5165145f0280"
+        },
+        {
+          "name": "RökFlöte",
+          "date": "2023-04-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f0976615-7fa5-4944-96b5-1a895c80111a"
+        },
+        {
+          "name": "Around the World Live",
+          "date": "2023-01-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f55edca5-3568-4102-ac74-00e3a5c238d4"
+        },
+        {
+          "name": "Too Old to Rock ’n’ Roll: Too Young to Die!",
+          "date": "1976-04-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f561a859-8e75-3816-a566-75f822166ac4"
+        },
+        {
+          "name": "WarChild",
+          "date": "1974-10-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f6f1825e-63ac-3595-ad6a-120f4fce4c5a"
+        },
+        {
+          "name": "The Very Best of Jethro Tull",
+          "date": "2001-05-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f888fae9-e8a5-33d7-ad52-67e687846578"
+        },
+        {
+          "name": "10 Great Songs: The Best Of",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fbb1be68-94da-4932-8723-d43c2e3dd32c"
+        },
+        {
+          "name": "Aqualung Live",
+          "date": "2005-09-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fc25bf93-2fb6-388e-8c5f-9dfce1d98eab"
+        },
+        {
+          "name": "Minstrel in the Gallery",
+          "date": "1975-09-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ff0907ed-aee7-39ad-966a-bf9eed868db1"
+        },
+        {
+          "name": "Live at Madison Square Garden 1978",
+          "date": "2009-09-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ffb626c4-f1ff-437d-a7ee-abd38e977dee"
+        }
+      ]
+    },
+    "judas-priest": {
+      "name": "Judas Priest",
+      "musicbrainz_url": "https://musicbrainz.org/artist/6b335658-22c8-485d-93de-0bc29a1d0349",
+      "reference_checked_at": "2026-10-14T19:42:23.727412+00:00",
+      "genres": "classic rock, hard rock, heavy metal, metal, nwobhm, speed metal",
+      "website": "https://www.judaspriest.com/",
+      "members": [
+        {
+          "name": "Ian Hill",
+          "role": "bass guitar",
+          "begin": "1970"
+        },
+        {
+          "name": "Glenn Tipton",
+          "role": "guitar family, keyboard, synthesizer",
+          "begin": "1974"
+        },
+        {
+          "name": "Scott Travis",
+          "role": "drums (drum set), percussion",
+          "begin": "1995"
+        },
+        {
+          "name": "Rob Halford",
+          "role": "lead vocals",
+          "begin": "2003-07-11"
+        },
+        {
+          "name": "Richie Faulkner",
+          "role": "electric guitar",
+          "begin": "2011-04-20"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/6b335658-22c8-485d-93de-0bc29a1d0349",
+      "albums": [
+        {
+          "name": "Single Cuts",
+          "date": "2011-08-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/04501f47-f36f-4f06-9b18-6aad5c847a7d"
+        },
+        {
+          "name": "Sad Wings of Destiny (Original 1976 Masters)",
+          "date": "1976",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/04b8ba32-4b02-3f06-a533-f9938b70b925"
+        },
+        {
+          "name": "The Music of Judas Priest",
+          "date": "2010-05-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/05868b0f-8527-4d49-b3f6-bbdedcaa975e"
+        },
+        {
+          "name": "The Remasters",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/09f06b4d-182d-4f92-843d-f7be35af615f"
+        },
+        {
+          "name": "British Steel",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0c819099-2669-488a-a1a3-33e2bb6aab25"
+        },
+        {
+          "name": "50 Heavy Metal Years of Music",
+          "date": "2021-10-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0d00e9e7-c2b3-44a0-8234-ae655483b591"
+        },
+        {
+          "name": "Simply the Best",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1078bf16-05a1-3453-bcc0-a0eea9c77812"
+        },
+        {
+          "name": "2 Originals: Jugulator / Demolition",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/11f63f27-0dfe-46b2-827f-be3282b91b90"
+        },
+        {
+          "name": "Jugulator",
+          "date": "1997-10-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/13a24fdc-2fb4-3ca6-8304-0c2357f541de"
+        },
+        {
+          "name": "Angel of Retribution",
+          "date": "2005-01-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/14801eea-668c-3f50-bd59-b7c0bcbf3145"
+        },
+        {
+          "name": "Metal Works ’73–’93",
+          "date": "1993-04-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/149b16de-7787-3be1-b3b1-90d7903b0742"
+        },
+        {
+          "name": "Nostradamus",
+          "date": "2008-06-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/19a085d1-21de-371d-8715-87779489154d"
+        },
+        {
+          "name": "The Essential Judas Priest",
+          "date": "2006-04-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1c2445db-a484-352d-adea-26b05b5b3872"
+        },
+        {
+          "name": "Playlist: The Very Best of Judas Priest",
+          "date": "2008-06-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2105c96b-e029-4e0c-8621-0dbf2f3ca891"
+        },
+        {
+          "name": "Hell Bent for Leather / Defenders of the Faith",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2174eb0c-8db1-4729-b779-55fe9ccdc041"
+        },
+        {
+          "name": "Invincible Shield",
+          "date": "2024-03-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/21ec2311-2d78-4b60-9e4d-bbc696c1c2fa"
+        },
+        {
+          "name": "Hit Collection",
+          "date": "2007-12-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/238562dd-2863-395e-9c01-44ef629ef9ea"
+        },
+        {
+          "name": "Genocide",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/259900ba-09d6-3f5c-9201-b4f1a5072653"
+        },
+        {
+          "name": "British Steel / Killing Machine",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/26b2143c-55da-31c1-9045-065abc649b44"
+        },
+        {
+          "name": "Легенды мирового рока",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/26c73549-413e-4465-ac82-52bd86ea5e1c"
+        },
+        {
+          "name": "Metal Gods: Best",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/278acff1-5928-4d57-9b85-58c843f6dc83"
+        },
+        {
+          "name": "Original Album Classics",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/288d98fe-b200-482b-99ce-a676af6cb78a"
+        },
+        {
+          "name": "Redeemer of Souls",
+          "date": "2014-07-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/289cd041-e5fb-4cbe-8a8c-608d95281bd4"
+        },
+        {
+          "name": "Judas Priest",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/29125b72-62b0-4a37-bcde-50d572f3e26c"
+        },
+        {
+          "name": "Point of Entry",
+          "date": "1981-02-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2a295027-dccc-3ebf-8068-6b1defb47747"
+        },
+        {
+          "name": "Anthology",
+          "date": "1995-02-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2c968e20-77b4-44e6-a931-61f51292129e"
+        },
+        {
+          "name": "Breaking the Law",
+          "date": "2001-10-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2fa30a6c-2979-4628-b0ee-01d3dc7b8cf8"
+        },
+        {
+          "name": "Holidays in Houston (the Texas broadcast 1983)",
+          "date": "2024-10-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/33556d7e-ab95-4329-bfff-3fe318d2f4a2"
+        },
+        {
+          "name": "Prisoners of Pain",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3471e32d-19eb-3017-b565-14d122aed3b2"
+        },
+        {
+          "name": "Painkiller",
+          "date": "1990-09-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/384f9bb3-6437-386f-8f1e-ff7c1b772455"
+        },
+        {
+          "name": "A Touch of Evil: Live",
+          "date": "2009-07-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3b39ccfb-6f06-4d23-a2c9-a076068a64b4"
+        },
+        {
+          "name": "Rocka Rolla & Other Hits",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3c754af6-c867-4502-8f65-f4ff3fe42ec6"
+        },
+        {
+          "name": "Setlist: The Very Best of Judas Priest Live",
+          "date": "2013-05-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3f25120c-7054-4682-a02c-79ca707c0d06"
+        },
+        {
+          "name": "The Best of Judas Priest: Living After Midnight",
+          "date": "1998-02-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/404e2bbc-4764-3a5f-a9c9-33381a338520"
+        },
+        {
+          "name": "Screaming for Vengeance",
+          "date": "1982-07-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/40f3885e-7158-3154-826d-676f2b79c6fb"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/421905a3-9e08-4767-aa80-e4ee97600509"
+        },
+        {
+          "name": "The Collection",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4fbbe4ef-072d-30b5-90e4-d709334ca5c6"
+        },
+        {
+          "name": "Demolition",
+          "date": "2001-07-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/53cfffd1-c126-3156-9adc-ba32a735ad16"
+        },
+        {
+          "name": "Judas Priest",
+          "date": "1984",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5b0f95fb-ebde-4c49-ab7d-ca1a33d5bce8"
+        },
+        {
+          "name": "Live Vengeance ’82",
+          "date": "1983",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5b2da8db-907c-4136-879e-0fc987fd3917"
+        },
+        {
+          "name": "British Steel",
+          "date": "1980-04-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5bd56af7-2bd6-392e-a815-b39354e3780d"
+        },
+        {
+          "name": "The Ultimate in Heavy Metal",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6007a363-71be-4384-851e-4d0e2dade742"
+        },
+        {
+          "name": "Greatest Hits (Halford Aera)",
+          "date": "2004-01-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/65307374-3159-499d-a3ee-4931094c3f46"
+        },
+        {
+          "name": "Painkiller",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/658d55d3-c8eb-40e6-ba65-9dce9098737b"
+        },
+        {
+          "name": "Seleção essencial – Grandes sucessos",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/66251596-ec24-4d60-a8df-28f177f1e05e"
+        },
+        {
+          "name": "Killing Machine",
+          "date": "1978-10-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6742f103-624f-3759-8182-f88e5b9b36cf"
+        },
+        {
+          "name": "Star Box",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6756d3b1-5118-4b97-a4da-3e407dc96284"
+        },
+        {
+          "name": "Super Best Judas Priest Collection",
+          "date": "1990-11-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7110cac5-030d-4881-bc96-dd1d39b94c74"
+        },
+        {
+          "name": "Ram It Down / British Steel / Screaming for Vengeance",
+          "date": "2002-08-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/72261d66-09e2-409d-849b-8c4479d52378"
+        },
+        {
+          "name": "Hero, Hero",
+          "date": "1981",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7c787667-cc8f-3816-9101-b2c511bab568"
+        },
+        {
+          "name": "Sin After Sin",
+          "date": "1977-04-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7ce1b3f3-4524-3db3-a228-5624bafec8e0"
+        },
+        {
+          "name": "Battle Cry",
+          "date": "2016-03-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7ce1c86f-6d30-4d59-a038-299740f7042a"
+        },
+        {
+          "name": "Beyond Metal",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7cf073c3-199b-44f4-a687-6e932962bb24"
+        },
+        {
+          "name": "3 Record Set: Sin After Sin / Killing Machine / Stained Class",
+          "date": "1979",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7daae090-f319-4054-baa3-067ea8eb3871"
+        },
+        {
+          "name": "Reflections – 50 Heavy Metal Years of Music",
+          "date": "2021-10-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/81440e24-818a-4dd4-9a3e-a7545cfd728c"
+        },
+        {
+          "name": "Epitaph",
+          "date": "2013-05-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8148ca61-50d8-4be4-b7f9-1eae1c944a56"
+        },
+        {
+          "name": "Greatest Original Hits",
+          "date": "1982",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/821b77e5-6ff7-4257-b29c-5452f22fa687"
+        },
+        {
+          "name": "Live in London",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/893fd72f-2f7f-3405-9e8e-0f26b8e7d1bd"
+        },
+        {
+          "name": "The Best of Judas Priest",
+          "date": "1977",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/89d8d6b6-9764-3fba-ae69-a12f9edcdefe"
+        },
+        {
+          "name": "Ram It Down",
+          "date": "1988-05-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8f9f2743-6299-3d1a-9191-b42ac1f279e2"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2008-02-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/902b6bc9-c33c-4c75-9657-72cfbd5c1cdf"
+        },
+        {
+          "name": "Judas Priest",
+          "date": "1984",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/92a7575f-e801-4350-a832-bd58240c6f59"
+        },
+        {
+          "name": "Stained Class / Ram It Down",
+          "date": "2013",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9383c2b5-42a0-4749-a0a2-2f4ece1b97ec"
+        },
+        {
+          "name": "The Complete Albums Collection",
+          "date": "2011",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/987e15d5-dd1f-4a49-a5a1-5d4747575095"
+        },
+        {
+          "name": "Live on Air Tonight",
+          "date": "2022-07-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/98b9fd4d-730d-42eb-880b-ccd126800859"
+        },
+        {
+          "name": "Fuel for Life",
+          "date": "1986",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/98d30bed-a568-4b0d-95e7-5824e76e2f55"
+        },
+        {
+          "name": "Firepower",
+          "date": "2018-03-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9a88237d-083c-41a3-ba99-7451bdd78115"
+        },
+        {
+          "name": "Screaming for Vengeance / Defenders of the Faith",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9ac16896-51da-4c2a-aac1-739a173c7902"
+        },
+        {
+          "name": "British Steel / Screaming for Vengeance / Defenders of the Faith",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9adfa463-e41c-4e09-abab-69fa8bbc48a7"
+        },
+        {
+          "name": "The Chosen Few",
+          "date": "2011-10-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9bb18247-703f-4ff1-9943-0b474a09c8bc"
+        },
+        {
+          "name": "Defenders of the Faith",
+          "date": "1984-01-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a00ff762-f474-39f0-9fa2-b5e24db7fd97"
+        },
+        {
+          "name": "’98 Live Meltdown",
+          "date": "1998-09-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a12bc806-b213-3e33-b8fb-7de19f850ebc"
+        },
+        {
+          "name": "Trouble Shooters",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a2cb5018-5dc8-4e8d-ab2d-963953fde28e"
+        },
+        {
+          "name": "Rocka Rolla",
+          "date": "1974-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a323f028-9a93-36af-ae53-c72c2d8fa3f2"
+        },
+        {
+          "name": "British Steel / Screaming for Vengeance / Stained Class",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ab0c4b85-0046-4d38-a9d7-5875212999e2"
+        },
+        {
+          "name": "Delivering the Goods",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/abd54e45-18d3-41f8-bcbd-5deb4fb4bc5c"
+        },
+        {
+          "name": "Stained Class",
+          "date": "1978-02-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c035f09e-430c-3510-9a4d-7cb33dd56ed8"
+        },
+        {
+          "name": "Platinum",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c1e3c434-31a2-4625-8833-35c991fe994c"
+        },
+        {
+          "name": "Rocka Rolla / Sad Wings of Destiny",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c41b5e13-be4e-3724-bd58-f21bb5f39ff0"
+        },
+        {
+          "name": "Original Album Classics",
+          "date": "2008-10-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c41bff50-41bb-48a0-b5b1-3e217eb1c775"
+        },
+        {
+          "name": "British Steel / Point of Entry / Screaming for Vengeance",
+          "date": "1998-06-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ca11fde3-5b06-460d-bb38-2ab6566bc94f"
+        },
+        {
+          "name": "Turbo",
+          "date": "1986-04-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ca8ab259-1720-37ad-8bf3-31c067f0e4de"
+        },
+        {
+          "name": "241 Double Header",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/caae797d-4c37-3c17-8a92-ffd433126468"
+        },
+        {
+          "name": "Priest Live & Rare",
+          "date": "1998-04-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ccee7cc0-0f27-3921-aa24-9f9b6f6c5003"
+        },
+        {
+          "name": "Heavy Metal, Vol. 1",
+          "date": "1984",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d4c34b6a-ce19-41f8-953d-11648c0194ef"
+        },
+        {
+          "name": "Tyrant",
+          "date": "1999-07-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d5faf1dd-ed21-349d-b999-c847019493c0"
+        },
+        {
+          "name": "Deliverin’ the Goods",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d62d9c58-adb3-32d7-88e9-9b3c24aa5e40"
+        },
+        {
+          "name": "The Best of Judas Priest",
+          "date": "2026-06-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d7ef225e-ba0a-4c78-a6df-894ff3567a0f"
+        },
+        {
+          "name": "Priest…Live!",
+          "date": "1987-06-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d8265f7e-6463-328b-bbe4-d863174db3fe"
+        },
+        {
+          "name": "World Tour ’82",
+          "date": "1982",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d9e792cc-530a-4e8f-983f-9f62d1488594"
+        },
+        {
+          "name": "The Best of Judas Priest / Hero, Hero",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/de6774eb-3237-468d-8e77-ea6ca1a41a82"
+        },
+        {
+          "name": "The History of Rock, Volume Thirty Seven",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/df2eddeb-f025-421e-b29c-efc83defa20d"
+        },
+        {
+          "name": "Live in Atlanta ’82",
+          "date": "2025-04-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e03b222e-7b41-4b73-889e-4aec81f8fb2c"
+        },
+        {
+          "name": "Stained Class / Point of Entry",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e119491c-9812-4fb8-a76e-e8d8d1515ac2"
+        },
+        {
+          "name": "Electric Eye",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e53817db-54c8-43d3-967a-add30045c0d2"
+        },
+        {
+          "name": "Limited Edition 3 CD Box Set",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f2d16c8f-608a-43cf-96a6-67aba04e5b9e"
+        },
+        {
+          "name": "Metalogy",
+          "date": "2004-05-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f702b409-3596-306a-a7fb-6baf6f218203"
+        },
+        {
+          "name": "British Steel / Screaming for Vengeance",
+          "date": "2008-07-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f735be64-1cd3-4cd9-9360-e2acd5331382"
+        },
+        {
+          "name": "Rising in the East",
+          "date": "2005-11-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f7376644-58ea-3e32-a202-dbe1d764acdb"
+        },
+        {
+          "name": "Unleashed in the East: Live in Japan",
+          "date": "1979-09-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fc646256-f2f1-3c51-8004-0b6b1efe50c4"
+        }
+      ]
     }
   },
   "checked": {
@@ -14854,6 +16133,8 @@
     "immolation": "2026-10-14T10:39:12.771151+00:00",
     "immortal": "2026-10-14T10:39:14.010197+00:00",
     "in-flames": "2026-10-14T15:35:24.740814+00:00",
-    "iron-maiden": "2026-10-14T15:35:25.995674+00:00"
+    "iron-maiden": "2026-10-14T15:35:25.995674+00:00",
+    "jethro-tull": "2026-10-14T19:42:16.826598+00:00",
+    "judas-priest": "2026-10-14T19:42:23.727574+00:00"
   }
 }
