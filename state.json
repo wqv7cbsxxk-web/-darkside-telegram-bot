@@ -485,49 +485,18 @@
     "fda8e9ed19c390a1b76a60ecd1be86d14dc0e34a",
     "a714d32507b3b3330f1cf243e468c4f01ca8c6ad",
     "c8e8fcc122c53c6263ed4118e9884d089fac8afc",
-    "34c41154bf64e925923f754e97b39ce605fe8a76"
+    "34c41154bf64e925923f754e97b39ce605fe8a76",
+    "130ed5e931322b0daba5edc8ea1e0a5cc18dd22a",
+    "cbc840a8d800e8cafc52718c0267e6ec466bf86e",
+    "90a7b7d22b386d91d5276c740c5b937c545fb71c",
+    "381e37f654595bf715f6cdb6007097d44898b63a",
+    "77ee6e21da1d242765db8107fce6b44132df483a",
+    "d06eb74b37fc5b5da848e5f05d7c946c40a393ea",
+    "b99df24ae9c55fed370df67dd810bd22632b5b5e",
+    "6d3e339113a9f3e07605931638139bca0c8b75f6",
+    "51ff8c9106be1466c99fe5d84fcef3644d85b7df"
   ],
   "recent_titles": [
-    {
-      "title": "Watch: Deafheaven Debut Their Heavy New Song “Hunter” Live In Chicago",
-      "source": "ThePRP",
-      "ts": 1791079357
-    },
-    {
-      "title": "Tom Morello Welcomed Members Of System Of A Down, Foo Fighters, Public Enemy & More During His ‘Power To The People’ Set",
-      "source": "ThePRP",
-      "ts": 1791079382
-    },
-    {
-      "title": "Watch: Jack Black Welcomed Black Sabbath’s Geezer Butler Onstage For A ‘Jack Sabbath’ “War Pigs” Cover At ‘Power To The People’ Festival",
-      "source": "ThePRP",
-      "ts": 1791081258
-    },
-    {
-      "title": "The rise of the Manic Street Preachers, the British glam punk rebels people loved to hate",
-      "source": "Louder",
-      "ts": 1791094950
-    },
-    {
-      "title": "This classic 1967 album laid the foundation for progressive rock – why has it been forgotten?",
-      "source": "Louder",
-      "ts": 1791094963
-    },
-    {
-      "title": "One of nu metal's most underrated bands is making a comeback",
-      "source": "Louder",
-      "ts": 1791117309
-    },
-    {
-      "title": "Watch: Matt Cameron, Taylor Momsen, Mike McCready & More Staged A Soundgarden Tribute At ‘Power To The People’ Festival",
-      "source": "ThePRP",
-      "ts": 1791117317
-    },
-    {
-      "title": "Technology, monsters and the most epic metal show of the year - how Metallica conquered the Sphere",
-      "source": "Louder",
-      "ts": 1791117330
-    },
     {
       "title": "Watch Turnstile Perform Live On ‘Saturday Night Live’",
       "source": "ThePRP",
@@ -1287,6 +1256,46 @@
       "title": "The best Metallica songs of the 90s",
       "source": "Louder",
       "ts": 1791956566
+    },
+    {
+      "title": "Могут ли группы нести политические посылы? Отвечает TOM MORELLO",
+      "source": "Darkside",
+      "ts": 1791974317
+    },
+    {
+      "title": "Хотели бы DEF LEPPARD выступить в Сфере?",
+      "source": "Darkside",
+      "ts": 1791974319
+    },
+    {
+      "title": "Концертное видео MOTIONLESS IN WHITE",
+      "source": "Darkside",
+      "ts": 1791974320
+    },
+    {
+      "title": "Новое видео A PERFECT CIRCLE",
+      "source": "Darkside",
+      "ts": 1791974322
+    },
+    {
+      "title": "Ralf Scheepers в новом клипе IN VAIN",
+      "source": "Darkside",
+      "ts": 1791974324
+    },
+    {
+      "title": "Новое видео GR&#214;NWALL",
+      "source": "Darkside",
+      "ts": 1791974325
+    },
+    {
+      "title": "Новое видео HEILUNG",
+      "source": "Darkside",
+      "ts": 1791974326
+    },
+    {
+      "title": "Профессиональное видео полного выступления CASTLE RAT",
+      "source": "Darkside",
+      "ts": 1791974328
     }
   ],
   "initialized_sources": [
@@ -3621,18 +3630,6 @@
       "retry_after": 0
     },
     {
-      "source": "Metal Injection",
-      "priority": 92,
-      "title": "Watch: A Perfect Circle Drop New Video For “Starless”",
-      "link": "https://metalinjection.net/news/watch-a-perfect-circle-drop-new-video-for-starless",
-      "rss_body": "Featuring footage of the song's live debut in London.",
-      "tags": "Latest News a perfect circle featured2",
-      "category": "Хэви-метал",
-      "published": "2026-10-13T20:11:41+00:00",
-      "id": "77ee6e21da1d242765db8107fce6b44132df483a",
-      "retry_after": 1791956826
-    },
-    {
       "source": "No Clean Singing",
       "priority": 86,
       "title": "SEEN AND HEARD: RADIANT KNIFE, NIHILO, ANCESTROS, GNULL, SUNDOWNER, GHÂSIQIN",
@@ -3690,6 +3687,30 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T16:35:01+00:00",
       "id": "75a66bf6524703db76c4be0b20652979932354f1",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео RAM",
+      "link": "http://www.darkside.ru/news/184477/",
+      "rss_body": "Against, новое видео RAM, доступно для просмотра. Это трек взят из нового альбома Against? релиз которого состоялся девятого октября на Metal Blade Records:\n\n1. Obsession\n\n2. Ghost Emperor\n\n3. One Vs. All\n\n4. Abattoir\n\n5. Out of Control\n\n6. Leaving\n\n7. Against\n\n8. Night Blade\n\n9. Rising Again\n\n10. 1984\n\n11. The Final Hour",
+      "tags": "",
+      "category": "Экстремальный метал",
+      "published": "2026-10-14T06:16:52+00:00",
+      "id": "7a868b15bc666a6c48564f3dd05fca5255ee3cff",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Концертное видео THE OFFSPRING",
+      "link": "http://www.darkside.ru/news/184478/",
+      "rss_body": "Half-Truism | Live at Just The Punk Stuff in Quebec City (2026), концертное видео THE OFFSPRING, доступно для просмотра.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T05:21:28+00:00",
+      "id": "4e7a0e46bab12476438eab404f320a556c952a45",
       "retry_after": 0
     }
   ]
