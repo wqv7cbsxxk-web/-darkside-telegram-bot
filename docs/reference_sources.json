@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-13T09:47:45.768719+00:00"
+      "bandcamp_checked_at": "2026-10-14T10:39:23.356824+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -14061,6 +14061,243 @@
           "source_url": "https://musicbrainz.org/release-group/f9de6dee-d528-4f95-a79a-d94f7c56edcd"
         }
       ]
+    },
+    "immolation": {
+      "name": "Immolation",
+      "musicbrainz_url": "https://musicbrainz.org/artist/c373c7f0-fddf-4c04-a327-19dd83590753",
+      "reference_checked_at": "2026-10-14T10:39:12.771044+00:00",
+      "genres": "death metal",
+      "bandcamp_url": "https://immolation.bandcamp.com/",
+      "website": "https://www.immolation.info/",
+      "members": [
+        {
+          "name": "Ross Dolan",
+          "role": "electric bass guitar, lead vocals",
+          "begin": "1988"
+        },
+        {
+          "name": "Robert Vigna",
+          "role": "electric guitar",
+          "begin": "1988"
+        },
+        {
+          "name": "Steve Shalaty",
+          "role": "drums (drum set)",
+          "begin": "2003"
+        },
+        {
+          "name": "Alex Bouks",
+          "role": "electric guitar",
+          "begin": "2016"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/c373c7f0-fddf-4c04-a327-19dd83590753",
+      "albums": [
+        {
+          "name": "Apostle",
+          "date": "2021-12-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0d7010a5-d8b4-456c-87d4-c675228f757b"
+        },
+        {
+          "name": "Demo II",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/12ec847a-7038-4b12-a9ab-0892766dc096"
+        },
+        {
+          "name": "1994 Promotional Demo",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/18cdb61b-2730-3ef3-b354-a33d29e61efd"
+        },
+        {
+          "name": "Majesty and Decay",
+          "date": "2010-03-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/21b2be0e-03b2-4a8d-a350-915db21b0d27"
+        },
+        {
+          "name": "Unholy Cult",
+          "date": "2002-10-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2d4374cb-7008-37ca-b3e5-b1e3bdffb050"
+        },
+        {
+          "name": "Stepping on Angels... Before Dawn",
+          "date": "1995-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/31b1b143-cd46-3925-bab4-f6ca45d743fb"
+        },
+        {
+          "name": "Roadrunner Breaking Barriers, Volume 5",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3c87117f-cb63-3f29-9a33-b6041739a0cc"
+        },
+        {
+          "name": "Close to a World Below",
+          "date": "2000-11-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/41ac44b3-84aa-35d2-bffb-590fe97f2460"
+        },
+        {
+          "name": "Destructive Currents",
+          "date": "2016-12-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4a661db6-a7a8-4511-a664-a3c252d13f88"
+        },
+        {
+          "name": "Rehersal Demo",
+          "date": "1989-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4c914b5a-17c0-4bf5-9492-47b4fade4545"
+        },
+        {
+          "name": "'88 Demo",
+          "date": "1988-07-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4cf7d893-5921-49b9-b7ba-af79085dab97"
+        },
+        {
+          "name": "Failures for Gods",
+          "date": "1999-06-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5177c46d-e339-3ca3-8d5a-cda525a958d9"
+        },
+        {
+          "name": "Shadows of the Emissaries' Curse Tour 2008",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/54745b3a-74c6-46b5-a9d4-43b69fde3dc4"
+        },
+        {
+          "name": "Listenable Records Edition Cassette Box Set",
+          "date": "2026-04-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5ba4cb2f-509d-4891-9441-ca89b42edbec"
+        },
+        {
+          "name": "Metal & Beer Fest Edition Cassette Box Set",
+          "date": "2021-09-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/60a4839d-4a64-439b-baea-f9bf1023a215"
+        },
+        {
+          "name": "Bringing Down the World Tour",
+          "date": "2004-09-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/62612f1b-7a53-44fe-93eb-949d91246a05"
+        },
+        {
+          "name": "Providence",
+          "date": "2011-10-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/64e4770a-9b1d-426d-a765-511e4addadfd"
+        },
+        {
+          "name": "Shadows in the Light",
+          "date": "2007-05-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/69fea213-5db9-36e7-bf4e-2641af05b2d7"
+        },
+        {
+          "name": "A Day of Death",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7234f730-31c2-44c4-8333-7fd385eabda6"
+        },
+        {
+          "name": "Corpse Gristle Cassette Box Set",
+          "date": "2021",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/72cd1470-5970-4c7f-bdab-7f93ba9cdc97"
+        },
+        {
+          "name": "Kingdom of Conspiracy",
+          "date": "2013-05-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7539b7a8-2778-4f7d-b4ee-9cfe62d5c2ba"
+        },
+        {
+          "name": "Descent",
+          "date": "2026-04-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/83c18486-cd12-4be3-a55b-4c19ee008c1a"
+        },
+        {
+          "name": "Dawn of Possession",
+          "date": "1991-08-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9281b15b-518a-332e-867b-b6d9f1cf9c1e"
+        },
+        {
+          "name": "Hope and Horror",
+          "date": "2007-04-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/958c9cc5-b37b-3271-a944-625eeaacdd7d"
+        },
+        {
+          "name": "Atonement",
+          "date": "2017-02-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ab98661a-77b4-45b1-9fee-0095ea8b7dcb"
+        },
+        {
+          "name": "Immolation",
+          "date": "2016-10-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b14b3249-c4dc-44a0-92e5-41304c9305c1"
+        },
+        {
+          "name": "I Feel Nothing",
+          "date": "2021-12-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b79f1944-62f7-431a-9fa7-1c4362603afa"
+        },
+        {
+          "name": "Failures for Gods",
+          "date": "2020-12-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c218ab66-4713-4159-a222-70b91b841bba"
+        },
+        {
+          "name": "Attrition",
+          "date": "2026-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e4659ebd-6527-4a64-bc53-f727005f506a"
+        },
+        {
+          "name": "Acts of God",
+          "date": "2022-02-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/eef17053-5182-4f57-8bd3-8cd4d9bb5b81"
+        },
+        {
+          "name": "Harnessing Ruin",
+          "date": "2005-02-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f4c6412d-76b3-3721-a91a-c1fba93c4d33"
+        },
+        {
+          "name": "Adversary",
+          "date": "2026-01-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f754b442-f000-46f2-b00a-146533f3282b"
+        },
+        {
+          "name": "Here in After",
+          "date": "1996-01-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f93b0e3a-6744-3c4f-9a60-e50c7485f0f8"
+        },
+        {
+          "name": "The Age of No Light",
+          "date": "2022-01-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ff62de6e-83ac-4596-b5c7-5661c43810dc"
+        }
+      ]
     }
   },
   "checked": {
@@ -14115,6 +14352,8 @@
     "haken": "2026-10-14T00:52:36.092020+00:00",
     "halestorm": "2026-10-14T00:52:40.073625+00:00",
     "i-am-morbid": "2026-10-14T05:43:01.157421+00:00",
-    "imminence": "2026-10-14T05:43:05.092357+00:00"
+    "imminence": "2026-10-14T05:43:05.092357+00:00",
+    "immolation": "2026-10-14T10:39:12.771151+00:00",
+    "immortal": "2026-10-14T10:39:14.010197+00:00"
   }
 }

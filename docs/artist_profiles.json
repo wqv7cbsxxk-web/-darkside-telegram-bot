@@ -1753,7 +1753,7 @@
       "website": "http://ledzeppelin.com",
       "reference_url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
       "reference_checked_at": "2026-10-14T00:52:25.701220+00:00",
-      "tour_attempted_at": "2026-10-04T00:47:01.182973+00:00",
+      "tour_attempted_at": "2026-10-14T10:39:03.828160+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T00:52:25.701424+00:00"
     },
@@ -1787,7 +1787,7 @@
       "website": "http://leprous.net",
       "reference_url": "https://en.wikipedia.org/wiki/Leprous",
       "reference_checked_at": "2026-10-14T00:52:25.830510+00:00",
-      "tour_attempted_at": "2026-10-04T00:47:01.397520+00:00",
+      "tour_attempted_at": "2026-10-14T10:39:03.968530+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T00:52:25.830530+00:00"
     },
@@ -1821,7 +1821,7 @@
       "website": "http://marillion.com",
       "reference_url": "https://en.wikipedia.org/wiki/Marillion",
       "reference_checked_at": "2026-10-14T00:52:26.080492+00:00",
-      "tour_attempted_at": "2026-10-04T00:47:02.378430+00:00",
+      "tour_attempted_at": "2026-10-14T10:39:04.836399+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T00:52:26.080514+00:00"
     },
@@ -1859,7 +1859,7 @@
       "website": "http://linkinpark.com",
       "reference_url": "https://en.wikipedia.org/wiki/Linkin_Park",
       "reference_checked_at": "2026-10-14T00:52:26.590358+00:00",
-      "tour_attempted_at": "2026-10-04T00:47:02.757073+00:00",
+      "tour_attempted_at": "2026-10-14T10:39:05.182444+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T00:52:26.590494+00:00"
     },
@@ -2051,12 +2051,55 @@
       "origin": "London , England",
       "genres": "Heavy metal hard rock speed metal",
       "years_active": "1975–2015",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Lemmy Kilmister",
+          "role": ""
+        },
+        {
+          "name": "Larry Wallis",
+          "role": ""
+        },
+        {
+          "name": "Lucas Fox",
+          "role": ""
+        },
+        {
+          "name": "Phil \"Philthy Animal\" Taylor",
+          "role": ""
+        },
+        {
+          "name": "\"Fast\" Eddie Clarke",
+          "role": ""
+        },
+        {
+          "name": "Brian Robertson",
+          "role": ""
+        },
+        {
+          "name": "Phil Campbell",
+          "role": ""
+        },
+        {
+          "name": "Würzel",
+          "role": ""
+        },
+        {
+          "name": "Pete Gill",
+          "role": ""
+        },
+        {
+          "name": "Mikkey Dee",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "https://imotorhead.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mot%C3%B6rhead",
-      "reference_checked_at": "2026-10-02T02:23:27.629824+00:00",
-      "tour_attempted_at": "2026-10-04T01:09:43.996677+00:00"
+      "reference_checked_at": "2026-10-14T10:39:00.939978+00:00",
+      "tour_attempted_at": "2026-10-04T01:09:43.996677+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T10:39:00.940114+00:00"
     },
     "motley-crue": {
       "origin": "Hollywood, California , U.S.",
@@ -2083,8 +2126,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://motley.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Motley_Crue",
-      "reference_checked_at": "2026-10-02T02:23:27.807486+00:00",
-      "tour_attempted_at": "2026-10-04T01:09:44.277662+00:00"
+      "reference_checked_at": "2026-10-14T10:39:01.423342+00:00",
+      "tour_attempted_at": "2026-10-04T01:09:44.277662+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T10:39:01.423524+00:00"
     },
     "opeth": {
       "origin": "Stockholm , Sweden",
@@ -2115,7 +2160,7 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://opeth.com",
       "reference_url": "https://en.wikipedia.org/wiki/Opeth",
-      "reference_checked_at": "2026-10-02T02:23:32.787545+00:00",
+      "reference_checked_at": "2026-10-14T10:39:01.593240+00:00",
       "reviewed": {
         "members": [
           {
@@ -2178,7 +2223,9 @@
       "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
       "qid": "Q18557",
       "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
-      "tour_attempted_at": "2026-10-12T09:21:38.706345+00:00"
+      "tour_attempted_at": "2026-10-12T09:21:38.706345+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T10:39:01.593260+00:00"
     },
     "nightwish": {
       "origin": "Kitee , Finland",
@@ -2213,8 +2260,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://nightwish.com",
       "reference_url": "https://en.wikipedia.org/wiki/Nightwish",
-      "reference_checked_at": "2026-10-02T02:23:32.919110+00:00",
-      "tour_attempted_at": "2026-10-04T01:43:03.061959+00:00"
+      "reference_checked_at": "2026-10-14T10:39:01.789114+00:00",
+      "tour_attempted_at": "2026-10-04T01:43:03.061959+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T10:39:01.789136+00:00"
     },
     "of-mice-men": {
       "origin": "",
@@ -2224,10 +2273,12 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Of_Mice_%26_Men",
-      "reference_checked_at": "2026-10-02T02:23:33.014549+00:00"
+      "reference_checked_at": "2026-10-02T02:23:33.014549+00:00",
+      "reference_retry_after": 1792060742,
+      "reference_attempted_at": "2026-10-14T10:39:02.838287+00:00"
     },
     "pearl-jam": {
-      "origin": "Seattle, Washington , U.S.",
+      "origin": "Seattle , Washington, U.S.",
       "genres": "Grunge alternative rock hard rock",
       "years_active": "1990–present",
       "members": [
@@ -2251,8 +2302,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://pearljam.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pearl_Jam",
-      "reference_checked_at": "2026-10-02T02:23:38.734210+00:00",
-      "tour_attempted_at": "2026-10-04T01:43:03.471282+00:00"
+      "reference_checked_at": "2026-10-14T10:39:03.060288+00:00",
+      "tour_attempted_at": "2026-10-04T01:43:03.471282+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T10:39:03.060309+00:00"
     },
     "pain-of-salvation": {
       "origin": "Eskilstuna , Sweden",
