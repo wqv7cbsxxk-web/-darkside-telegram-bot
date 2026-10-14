@@ -469,49 +469,17 @@
     "207fd0c63400cdbc29356b3e48083f433e8536aa",
     "a04cd837a4200960dcd53f2bfd606d298b6fcc55",
     "90681ece4213d7cda40eb91190285c6cd6ffc5c0",
-    "a0925e52d79db3a0a1213ed254a83acd16474dd0"
+    "a0925e52d79db3a0a1213ed254a83acd16474dd0",
+    "9cf6c3794e2a0a3e9c00d93c07d55d872da8636e",
+    "bc3755a939a074d6b12f23542f062d4dffe746b0",
+    "f94fdd8140b4a34db7130074b2d06d72aaec99a4",
+    "e8c74e875ce8847d79bc7b920afedb7d441e4a78",
+    "29cc2c99e1d4f77cb6135e3ffb3cb6c8e9b1e436",
+    "fcac89ec0c2f7de3fe9c20d23cec97c15c6f4d5a",
+    "e1e029b3e8587f01b88ece72be41642fda0b7b61",
+    "9cd850436be6200c7824131e5937187867c124b9"
   ],
   "recent_titles": [
-    {
-      "title": "EUROPE открыли юбилейный тур",
-      "source": "Darkside",
-      "ts": 1791075410
-    },
-    {
-      "title": "HAGANE на NAPALM RECORDS",
-      "source": "Darkside",
-      "ts": 1791075414
-    },
-    {
-      "title": "Умер клавишник DAS ICH",
-      "source": "Darkside",
-      "ts": 1791075415
-    },
-    {
-      "title": "I napped my way through a classic Tool gig and it still bothers me almost 30 years later",
-      "source": "Louder",
-      "ts": 1791075447
-    },
-    {
-      "title": "Tony Iommi, A Perfect Circle and Hatebreed are in Hammer's tracks of the week",
-      "source": "Louder",
-      "ts": 1791075480
-    },
-    {
-      "title": "In 2012, Tom Cruise played a singer in a hair metal musical – and the critics hated it",
-      "source": "Louder",
-      "ts": 1791075486
-    },
-    {
-      "title": "I Prevail Premiere Sullivan King’s Remix Of “Violent Nature”",
-      "source": "ThePRP",
-      "ts": 1791075868
-    },
-    {
-      "title": "Thrown Stream New Song “Unwanted”, Reschedule Initial Dates Of U.S. Tour Due To Visa Issue",
-      "source": "ThePRP",
-      "ts": 1791075874
-    },
     {
       "title": "Here’s proof that Peter Gabriel is one hero it’s safe to meet",
       "source": "Louder",
@@ -1271,6 +1239,46 @@
       "title": "Tool’s Maynard James Keenan says retirement is not an option despite recent hip surgery",
       "source": "Louder",
       "ts": 1791928444
+    },
+    {
+      "title": "Commoner’s “Passerby” Music Video Is Now Streaming",
+      "source": "ThePRP",
+      "ts": 1791939093
+    },
+    {
+      "title": "Led Zeppelin finally relent: Stairway To Heaven soundtracks the new Narnia trailer",
+      "source": "Louder",
+      "ts": 1791939105
+    },
+    {
+      "title": "Sleeping With Sirens, Saosin & Escape The Fate Revealed For 2027 ‘Sonic Temple’ Festival",
+      "source": "ThePRP",
+      "ts": 1791939109
+    },
+    {
+      "title": "Filth Launch “Shell Town” Music Video",
+      "source": "ThePRP",
+      "ts": 1791939114
+    },
+    {
+      "title": "‘America’s Got Talent’ Winner Nene Royal Joined Avenged Sevenfold Onstage In Singapore Tonight",
+      "source": "ThePRP",
+      "ts": 1791939128
+    },
+    {
+      "title": "Tom Morello Expands His Spring 2027 Canadian Tour",
+      "source": "ThePRP",
+      "ts": 1791939132
+    },
+    {
+      "title": "Chad Benekos Ex-(Hed)p.e. Announces His New Solo Album “Now Or Never”, Failure & Rival Sons Members Featured",
+      "source": "ThePRP",
+      "ts": 1791939135
+    },
+    {
+      "title": "Dream Theater Enter The Studio For Album #17",
+      "source": "ThePRP",
+      "ts": 1791939138
     }
   ],
   "initialized_sources": [
@@ -3605,40 +3613,16 @@
       "retry_after": 0
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Chad Benekos Ex-(Hed)p.e. Announces His New Solo Album “Now Or Never”, Failure & Rival Sons Members Featured",
-      "link": "https://www.theprp.com/2026/10/13/news/chad-benekos-ex-hedp-e-announces-his-new-solo-album-now-or-never-failure-rival-sons-members-featured/",
-      "rss_body": "Arriving in January.",
-      "tags": "News Chad Benekos Failure Rival Sons",
-      "category": "Хэви-метал",
-      "published": "2026-10-13T21:22:54+00:00",
-      "id": "e1e029b3e8587f01b88ece72be41642fda0b7b61",
-      "retry_after": 1791928679
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "Watch: A Perfect Circle Drop New Video For “Starless”",
       "link": "https://metalinjection.net/news/watch-a-perfect-circle-drop-new-video-for-starless",
       "rss_body": "Featuring footage of the song's live debut in London.",
-      "tags": "Latest News a perfect circle",
+      "tags": "Latest News a perfect circle featured2",
       "category": "Хэви-метал",
       "published": "2026-10-13T20:11:41+00:00",
       "id": "77ee6e21da1d242765db8107fce6b44132df483a",
-      "retry_after": 1791928731
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Dream Theater Enter The Studio For Album #17",
-      "link": "https://www.theprp.com/2026/10/13/news/dream-theater-enter-the-studio-for-album-17/",
-      "rss_body": "You can witness a shot of just that.",
-      "tags": "News Dream Theater",
-      "category": "Прогрессив",
-      "published": "2026-10-13T19:55:26+00:00",
-      "id": "9cd850436be6200c7824131e5937187867c124b9",
-      "retry_after": 0
+      "retry_after": 1791939436
     },
     {
       "source": "ThePRP",
@@ -3718,7 +3702,7 @@
       "title": "Watch: Tetrarch Guitarist Diamond Rowe Covers Metallica on ‘Sunday Night Football’",
       "link": "https://metalinjection.net/news/watch-tetrarch-guitarist-diamond-rowe-covers-metallica-on-sunday-night-football",
       "rss_body": "Sunday night football just got a whole lot tougher.",
-      "tags": "Latest News Tetrarch",
+      "tags": "Latest News Tetrarch featured2",
       "category": "Хэви-метал",
       "published": "2026-10-13T18:54:54+00:00",
       "id": "0bc34f73ce3a3bd4aab3f2118e879131426eafce",
@@ -3730,7 +3714,7 @@
       "title": "Tony Iommi on Losing Ozzy: “I’m 78, How Much Longer?”",
       "link": "https://metalinjection.net/news/tony-iommi-on-losing-ozzy-im-78-how-much-longer",
       "rss_body": "\"He was a part of my life for 60 years. I do miss him.\"",
-      "tags": "Latest News tony iommi Ozzy Osbourne Ozzy Osbourne Forever",
+      "tags": "Latest News Ozzy Osbourne tony iommi featured1 Ozzy Osbourne Forever",
       "category": "Хэви-метал",
       "published": "2026-10-13T17:17:37+00:00",
       "id": "6e57911a7743ad43cbb0c228a83d313ae826bb57",
