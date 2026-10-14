@@ -1414,7 +1414,7 @@
       "website": "http://immortalofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Immortal_%28band%29",
       "reference_checked_at": "2026-10-13T21:54:09.366560+00:00",
-      "tour_attempted_at": "2026-10-03T07:13:03.942529+00:00",
+      "tour_attempted_at": "2026-10-14T00:52:27.253319+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T21:54:09.366625+00:00"
     },
@@ -1448,7 +1448,7 @@
       "website": "https://www.inflames.com/",
       "reference_url": "https://en.wikipedia.org/wiki/In_Flames",
       "reference_checked_at": "2026-10-13T21:54:09.491232+00:00",
-      "tour_attempted_at": "2026-10-03T07:13:04.351577+00:00",
+      "tour_attempted_at": "2026-10-14T00:52:27.483113+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T21:54:09.491357+00:00"
     },
@@ -1486,7 +1486,7 @@
       "website": "http://ironmaiden.com",
       "reference_url": "https://en.wikipedia.org/wiki/Iron_Maiden",
       "reference_checked_at": "2026-10-13T21:54:09.737041+00:00",
-      "tour_attempted_at": "2026-10-03T07:13:04.731493+00:00",
+      "tour_attempted_at": "2026-10-14T00:52:28.146497+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T21:54:09.737141+00:00"
     },
@@ -1499,7 +1499,7 @@
       "website": "http://kidrock.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kid_Rock",
       "reference_checked_at": "2026-10-13T21:54:09.918867+00:00",
-      "tour_attempted_at": "2026-10-03T07:13:05.061393+00:00",
+      "tour_attempted_at": "2026-10-14T00:52:28.597926+00:00",
       "instruments": "Vocals guitar",
       "reference_attempted_at": "2026-10-13T21:54:09.918887+00:00"
     },
@@ -1647,12 +1647,55 @@
       "origin": "New York City , U.S.",
       "genres": "Hard rock heavy metal shock rock glam metal",
       "years_active": "1973–2023 2025–2026",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Paul Stanley",
+          "role": ""
+        },
+        {
+          "name": "Gene Simmons",
+          "role": ""
+        },
+        {
+          "name": "Ace Frehley",
+          "role": ""
+        },
+        {
+          "name": "Peter Criss",
+          "role": ""
+        },
+        {
+          "name": "Eric Carr",
+          "role": ""
+        },
+        {
+          "name": "Vinnie Vincent",
+          "role": ""
+        },
+        {
+          "name": "Mark St. John",
+          "role": ""
+        },
+        {
+          "name": "Bruce Kulick",
+          "role": ""
+        },
+        {
+          "name": "Eric Singer",
+          "role": ""
+        },
+        {
+          "name": "Tommy Thayer",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://kissonline.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kiss_%28band%29",
-      "reference_checked_at": "2026-10-02T02:23:09.573822+00:00",
-      "tour_attempted_at": "2026-10-04T00:38:19.043829+00:00"
+      "reference_checked_at": "2026-10-14T00:52:24.981077+00:00",
+      "tour_attempted_at": "2026-10-04T00:38:19.043829+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T00:52:24.981296+00:00"
     },
     "kreator": {
       "origin": "Essen , North Rhine-Westphalia , Germany",
@@ -1679,19 +1722,40 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://kreator-terrorzone.de",
       "reference_url": "https://en.wikipedia.org/wiki/Kreator",
-      "reference_checked_at": "2026-10-02T02:23:09.734222+00:00",
-      "tour_attempted_at": "2026-10-04T00:38:19.809226+00:00"
+      "reference_checked_at": "2026-10-14T00:52:25.249001+00:00",
+      "tour_attempted_at": "2026-10-04T00:38:19.809226+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T00:52:25.249022+00:00"
     },
     "led-zeppelin": {
       "origin": "London , England",
       "genres": "Hard rock blues rock folk rock",
       "years_active": "1968–1980",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Jimmy Page",
+          "role": ""
+        },
+        {
+          "name": "Robert Plant",
+          "role": ""
+        },
+        {
+          "name": "John Bonham",
+          "role": ""
+        },
+        {
+          "name": "John Paul Jones",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://ledzeppelin.com",
       "reference_url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
-      "reference_checked_at": "2026-10-02T02:23:09.915857+00:00",
-      "tour_attempted_at": "2026-10-04T00:47:01.182973+00:00"
+      "reference_checked_at": "2026-10-14T00:52:25.701220+00:00",
+      "tour_attempted_at": "2026-10-04T00:47:01.182973+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T00:52:25.701424+00:00"
     },
     "leprous": {
       "origin": "Notodden , Norway",
@@ -1722,8 +1786,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://leprous.net",
       "reference_url": "https://en.wikipedia.org/wiki/Leprous",
-      "reference_checked_at": "2026-10-02T02:23:10.965648+00:00",
-      "tour_attempted_at": "2026-10-04T00:47:01.397520+00:00"
+      "reference_checked_at": "2026-10-14T00:52:25.830510+00:00",
+      "tour_attempted_at": "2026-10-04T00:47:01.397520+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T00:52:25.830530+00:00"
     },
     "marillion": {
       "origin": "Aylesbury , Buckinghamshire, England",
@@ -1754,12 +1820,14 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://marillion.com",
       "reference_url": "https://en.wikipedia.org/wiki/Marillion",
-      "reference_checked_at": "2026-10-02T02:23:15.280688+00:00",
-      "tour_attempted_at": "2026-10-04T00:47:02.378430+00:00"
+      "reference_checked_at": "2026-10-14T00:52:26.080492+00:00",
+      "tour_attempted_at": "2026-10-04T00:47:02.378430+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T00:52:26.080514+00:00"
     },
     "linkin-park": {
       "origin": "Agoura Hills, California , U.S.",
-      "genres": "Alternative rock nu metal rap rock electronic rock",
+      "genres": "Alternative rock nu metal rap rock alternative metal electronic rock pop rock",
       "years_active": "1996–2017 2023–present",
       "members": [
         {
@@ -1790,8 +1858,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://linkinpark.com",
       "reference_url": "https://en.wikipedia.org/wiki/Linkin_Park",
-      "reference_checked_at": "2026-10-02T02:23:15.305507+00:00",
-      "tour_attempted_at": "2026-10-04T00:47:02.757073+00:00"
+      "reference_checked_at": "2026-10-14T00:52:26.590358+00:00",
+      "tour_attempted_at": "2026-10-04T00:47:02.757073+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T00:52:26.590494+00:00"
     },
     "manowar": {
       "origin": "Auburn, New York , U.S.",

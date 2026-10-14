@@ -13100,6 +13100,641 @@
           "source_url": "https://musicbrainz.org/release-group/ff5bff82-6476-3a45-b749-272f4cfcff87"
         }
       ]
+    },
+    "haken": {
+      "name": "Haken",
+      "musicbrainz_url": "https://musicbrainz.org/artist/0246a3fd-a254-416d-8cd2-e31da4ac6f59",
+      "reference_checked_at": "2026-10-14T00:52:36.091889+00:00",
+      "genres": "progressive metal, progressive rock",
+      "bandcamp_url": "https://hakenofficial.bandcamp.com/",
+      "website": "https://hakenmusic.com/",
+      "members": [
+        {
+          "name": "Raymond Hearne",
+          "role": "background vocals, drums (drum set)",
+          "begin": "2007"
+        },
+        {
+          "name": "Richard Henshall",
+          "role": "background vocals, electric guitar, keyboard, original",
+          "begin": "2007"
+        },
+        {
+          "name": "Ross Jennings",
+          "role": "lead vocals, original",
+          "begin": "2007"
+        },
+        {
+          "name": "Peter Jones",
+          "role": "keyboard, original",
+          "begin": "2007"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/0246a3fd-a254-416d-8cd2-e31da4ac6f59",
+      "albums": [
+        {
+          "name": "Aquarius",
+          "date": "2010-05-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/148bc789-1498-4f0b-b992-91f0f3678d5f"
+        },
+        {
+          "name": "Puzzle Box (live in London 2024)",
+          "date": "2025-04-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1d07e500-8bc0-44d0-9807-efc90e30127b"
+        },
+        {
+          "name": "Prosthetic",
+          "date": "2020-04-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2a7f703b-a8b3-463c-ad83-0b03cc2b72dc"
+        },
+        {
+          "name": "Virus",
+          "date": "2020-07-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2bd8d6f5-8eec-4a39-8f7d-1c26c8ee248f"
+        },
+        {
+          "name": "A Cell Divides",
+          "date": "2018-10-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/30a0113d-d801-4ea5-8006-103593800e68"
+        },
+        {
+          "name": "in a fever dream",
+          "date": "2026-05-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/39a6e085-d1a6-46f0-8b45-bc6a0f77e0f6"
+        },
+        {
+          "name": "Earthrise (Jeffguy remix)",
+          "date": "2016-10-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3fdf10f5-f5e9-458f-a641-981f3c25a384"
+        },
+        {
+          "name": "Earthrise (live at Progpower USA 2016)",
+          "date": "2018-11-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/41bd7cd1-7d39-4644-814d-6b2bced7806b"
+        },
+        {
+          "name": "The Architect – Jazzfinity",
+          "date": "2020-04-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/42410434-942c-4cce-862b-18e27034c59b"
+        },
+        {
+          "name": "In a Fever Dream",
+          "date": "2026-07-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/44df52ad-cf1a-425f-8b27-583d60d851a9"
+        },
+        {
+          "name": "delirium",
+          "date": "2026-07-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/45f75bf9-2a26-4070-b67d-43a36876b130"
+        },
+        {
+          "name": "The Good Doctor",
+          "date": "2018-08-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/484502da-c223-419f-bd0d-640c35eb07b5"
+        },
+        {
+          "name": "The Endless Knot",
+          "date": "2018-06-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/541ea0b8-b6cd-4ade-b68e-a2e6f968fd2b"
+        },
+        {
+          "name": "Vector",
+          "date": "2018-10-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/562d848c-aac2-4cbd-b889-7546c63e6ae5"
+        },
+        {
+          "name": "Beneath the White Rainbow (live in London 2024)",
+          "date": "2025-02-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/589dbe50-12e0-4f6c-abd3-b4d7d112cbfd"
+        },
+        {
+          "name": "In Memoriam",
+          "date": "2018-05-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/61bd43e3-74ea-4b34-9f09-18aed4f4d0c0"
+        },
+        {
+          "name": "The Alphabet of Me",
+          "date": "2022-12-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8404c4f2-5d01-40f4-bc7c-955f6886d0e8"
+        },
+        {
+          "name": "Restoration",
+          "date": "2014-10-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8862812f-f271-4aa4-8c77-5bf03f99ce45"
+        },
+        {
+          "name": "Lovebite",
+          "date": "2023-02-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8c03a3f8-ecc2-4f4f-b34f-c4d0adbdd432"
+        },
+        {
+          "name": "Liveforms: An Evening With Haken",
+          "date": "2025-05-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8e50d168-6372-4efd-a479-8406a5545ce7"
+        },
+        {
+          "name": "Taurus",
+          "date": "2023-01-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/942064ff-3516-4e88-a978-827293afaf1d"
+        },
+        {
+          "name": "Affinity",
+          "date": "2016-04-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a1faa8db-7337-45bd-948a-678ca6ffa9d1"
+        },
+        {
+          "name": "L‐1VE",
+          "date": "2018-06-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a4209be7-fa3c-4eb9-ab7a-4ab68224df12"
+        },
+        {
+          "name": "bleeding sky",
+          "date": "2026-06-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a762516f-4de9-4b13-8b30-1eabd4f4ff66"
+        },
+        {
+          "name": "L+1VE",
+          "date": "2018-12-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a9cecf7b-0801-465e-a9ab-e4eb04730600"
+        },
+        {
+          "name": "Visions",
+          "date": "2011-10-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ad696558-566d-47d2-9d3e-d378758d25d3"
+        },
+        {
+          "name": "Canary Yellow",
+          "date": "2020-05-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b5b4f351-55ba-437f-b554-6539bdacc23a"
+        },
+        {
+          "name": "The Last Lullaby",
+          "date": "2023-06-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b9a4ccb6-9b7a-4cf5-ba8a-938e7faf6d44"
+        },
+        {
+          "name": "Puzzle Box",
+          "date": "2018-09-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bab43d14-1f94-4671-b78d-7348f665b683"
+        },
+        {
+          "name": "The Endless Knot",
+          "date": "2016-04-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c446ff2b-dfd1-4492-853c-c37e45b93a85"
+        },
+        {
+          "name": "Souls / Snow",
+          "date": "2007",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c9a4f9af-3479-4804-aef7-5233d8298938"
+        },
+        {
+          "name": "Canary Yellow (acoustic version)",
+          "date": "2023-08-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ca8ba5ee-bebf-4908-9088-adf559a36fe2"
+        },
+        {
+          "name": "Fauna",
+          "date": "2023-03-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ceacae43-41bb-4adf-b091-1c3e3cfdb223"
+        },
+        {
+          "name": "Nightingale",
+          "date": "2022-04-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/db5e378a-5004-4ca4-bad8-788a0f243ae3"
+        },
+        {
+          "name": "Enter the 5th Dimension",
+          "date": "2008",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dc6a2853-1096-4657-a30b-4981a2deb128"
+        },
+        {
+          "name": "The Mountain",
+          "date": "2013-08-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ede19d6a-3d5c-45d9-ba10-7452ae0eb2e9"
+        },
+        {
+          "name": "Invasion",
+          "date": "2020-05-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f09268a5-1eae-40de-887e-39861f1e5691"
+        },
+        {
+          "name": "Initiate",
+          "date": "2016-03-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f64a49ee-8907-4f45-b7a7-2d60de8aa75f"
+        }
+      ]
+    },
+    "halestorm": {
+      "name": "Halestorm",
+      "musicbrainz_url": "https://musicbrainz.org/artist/eaed2193-e026-493b-ac57-113360407b06",
+      "reference_checked_at": "2026-10-14T00:52:40.073498+00:00",
+      "genres": "alternative rock, country rock, hard rock, pop rock, post-grunge, rock",
+      "website": "http://www.halestormrocks.com/",
+      "members": [
+        {
+          "name": "Arejay Hale",
+          "role": "background vocals, drums (drum set), original",
+          "begin": "1998"
+        },
+        {
+          "name": "Lzzy Hale",
+          "role": "guitar, lead vocals, original, piano",
+          "begin": "1998"
+        },
+        {
+          "name": "Joe Hottinger",
+          "role": "acoustic guitar, background vocals, electric guitar",
+          "begin": "2003"
+        },
+        {
+          "name": "Josh Smith",
+          "role": "background vocals, bass guitar, keyboard, piano",
+          "begin": "2004"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/eaed2193-e026-493b-ac57-113360407b06",
+      "albums": [
+        {
+          "name": "On the Heels of a Myth, Live From Myth Nightclub",
+          "date": "2013",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/002cfee5-f524-4cb6-af41-0dde3113f87c"
+        },
+        {
+          "name": "Breaking The Silence",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/019e041e-5497-485e-8509-decdaf22e067"
+        },
+        {
+          "name": "Darkness Always Wins",
+          "date": "2025-04-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/01f42abb-3dc8-408b-89cf-e4c831fe1c77"
+        },
+        {
+          "name": "Familiar Taste of Poison",
+          "date": "2010-08-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/230f4087-c8cf-4f91-a5ef-6f615647b355"
+        },
+        {
+          "name": "Apocalyptic",
+          "date": "2015-03-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2784a31a-5810-402e-90a1-79b8f5b2b052"
+        },
+        {
+          "name": "The Steeple",
+          "date": "2022-02-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/319c14e2-af7d-48cb-a96f-29cb8e235c99"
+        },
+        {
+          "name": "Selections From the Strange Case Of...",
+          "date": "2012",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3265dd0c-275c-40b4-b561-49df2cbd0e55"
+        },
+        {
+          "name": "ReAniMate: The CoVeRs eP",
+          "date": "2011-03-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/34803467-2bfc-40e7-88b5-bc2caa2ec321"
+        },
+        {
+          "name": "Live@Budapest 2015",
+          "date": "2015-04-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/43a45ff6-dccc-4a7e-9c7b-fcc1f9e60d60"
+        },
+        {
+          "name": "Back From the Dead (unplugged)",
+          "date": "2021",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/45f15588-05a7-4281-ab02-a13bdc059dc6"
+        },
+        {
+          "name": "Freak Like Me",
+          "date": "2013-03-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/47aa4fcf-18e1-4057-9626-3715f5e62639"
+        },
+        {
+          "name": "Back From the Dead",
+          "date": "2021-08-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/48c58504-148b-409e-829d-ee92dd7e09a6"
+        },
+        {
+          "name": "Uncomfortable",
+          "date": "2018-05-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4ed90f65-01f6-4e8c-a8fc-5029e5aa6f09"
+        },
+        {
+          "name": "Halestorm",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4f310488-ea18-4ef9-8939-3adb42de94c9"
+        },
+        {
+          "name": "Mayhem",
+          "date": "2015",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/50d4f917-725e-49ce-a644-0728b3c95762"
+        },
+        {
+          "name": "Get Lucky",
+          "date": "2014-11-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5408c9d6-c555-4c0a-9b43-a99f5db55b06"
+        },
+        {
+          "name": "I Am The Fire",
+          "date": "2015",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5822ee94-8e14-4c90-9515-06fc76c094ff"
+        },
+        {
+          "name": "Rain Your Blood On Me",
+          "date": "2025-07-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/59de9ed4-26bc-4a5a-ae80-9e2b9f99da81"
+        },
+        {
+          "name": "Vicious (stripped)",
+          "date": "2020-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/72c11d95-12b0-4947-8028-8b605632c623"
+        },
+        {
+          "name": "Break In",
+          "date": "2020-07-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7a5587dc-4478-44ff-a611-c173efe2815c"
+        },
+        {
+          "name": "One and Done",
+          "date": "2005-12-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7cdca8d1-6d9b-3222-8a05-7b29dea5cc28"
+        },
+        {
+          "name": "Mistress for Christmas",
+          "date": "2016-11-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7d32a230-2554-454c-b745-e302a9fbb5f9"
+        },
+        {
+          "name": "Hello, It's Mz. Hyde",
+          "date": "2012-01-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/80277ba8-bc3e-46dc-8428-a028071aaae1"
+        },
+        {
+          "name": "can u see me in the dark?",
+          "date": "2024-06-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81791982-0ef9-4c14-92aa-a266b5565e0a"
+        },
+        {
+          "name": "Love Bites (So Do I)",
+          "date": "2012",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8853c516-6893-44cb-ae08-4e7260985c04"
+        },
+        {
+          "name": "Mine",
+          "date": "2022",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/88b255c0-66a3-4957-a855-9b472d9c32f3"
+        },
+        {
+          "name": "I Get Off",
+          "date": "2009",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8a31745b-3ea3-436d-a3ac-c0a327eac3c6"
+        },
+        {
+          "name": "Dear Daughter (Video Version)",
+          "date": "2017-06-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8db4deda-fbdd-4a14-b504-ba704ae2e62b"
+        },
+        {
+          "name": "Long Live Rock",
+          "date": "2021-03-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8f052d9c-67e9-47bd-ad93-80aadcc08d0d"
+        },
+        {
+          "name": "Live at Apple Music Radio",
+          "date": "2026-04-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/910c8acd-71d5-4819-9e89-c6de34fa81d5"
+        },
+        {
+          "name": "ReAniMate 3.0: The CoVeRs eP",
+          "date": "2017-01-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9645b6d6-0c7c-42a5-a27b-669569a4e1b6"
+        },
+        {
+          "name": "Live at Wembley",
+          "date": "2024-05-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/97d07122-82da-4327-91f8-04d5968b5659"
+        },
+        {
+          "name": "The Strange Case of…",
+          "date": "2012-04-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9d771ab6-d0b4-4102-b647-3965c7d78c4c"
+        },
+        {
+          "name": "Everest",
+          "date": "2025-05-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a2bb6ee1-64f4-494a-a7ed-637302fe9cac"
+        },
+        {
+          "name": "2003 Demo",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a492929a-cd16-40df-b0dd-4dc9e68ec595"
+        },
+        {
+          "name": "ReAniMate 2.0: The CoVeRs eP",
+          "date": "2013-10-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a51614e1-706d-4bfc-b987-4c7ebc3c3617"
+        },
+        {
+          "name": "Here’s to Us",
+          "date": "2013-05-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a9e0b4fe-27b7-4327-990d-0e6630147f79"
+        },
+        {
+          "name": "I Love You All the Time",
+          "date": "2016-01-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a9e4d4f6-03b4-4294-824f-3369e6f2922c"
+        },
+        {
+          "name": "Into the Wild Live: Chicago",
+          "date": "2016-04-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b6e100a1-f243-4cc9-a229-b5b2071f6fd9"
+        },
+        {
+          "name": "Bet U Wish U Had Me Back",
+          "date": "2010-09-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b73eaf86-7f97-4df0-950c-7efbc3b12a5f"
+        },
+        {
+          "name": "Vicious",
+          "date": "2018-07-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c119e7c7-c889-4e38-bd14-7c2a91790fdd"
+        },
+        {
+          "name": "I Hate Myself for Loving You",
+          "date": "2017",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c1e69aa6-117e-44b1-a968-90e9861eba7e"
+        },
+        {
+          "name": "Reimagined",
+          "date": "2020-08-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c6a97fd6-062b-4945-9f02-bbd806d4ab59"
+        },
+        {
+          "name": "Everest",
+          "date": "2025-08-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cd533dde-ba4b-49a5-8b5b-171a5a56b9e5"
+        },
+        {
+          "name": "Forecast For The Future",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cdcb6d64-344d-4abe-9687-3182b1e18dc5"
+        },
+        {
+          "name": "Halestorm",
+          "date": "2009-02-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d3025eb5-28a6-3771-851d-2820993657bf"
+        },
+        {
+          "name": "Black Vultures",
+          "date": "2018",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d32af00c-d0f0-4f47-835a-8dad7ca908c0"
+        },
+        {
+          "name": "Amen",
+          "date": "2015-05-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/deceac10-7aaf-4daf-a193-94c22c47f242"
+        },
+        {
+          "name": "Terrible Things",
+          "date": "2023-05-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ec9449a0-5d44-452d-8f72-4f80fd463f44"
+        },
+        {
+          "name": "Into the Wild Life",
+          "date": "2015-04-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ef9aec95-a02f-4cc9-8f88-3f2ede7c2b05"
+        },
+        {
+          "name": "Back From the Dead",
+          "date": "2022-05-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f1a9c150-c2a4-4d48-9084-cd5c8e731388"
+        },
+        {
+          "name": "Like A Woman Can",
+          "date": "2025-08-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f41168c8-a011-497b-a9e9-186e6ee9167f"
+        },
+        {
+          "name": "Chemicals",
+          "date": "2019",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f570b065-1885-48b5-86bc-67433570e96a"
+        },
+        {
+          "name": "Live in Philly 2010",
+          "date": "2010-11-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f7f429ab-aae1-41b1-98b6-901cd0b4a9cc"
+        },
+        {
+          "name": "In the Live Room",
+          "date": "2012-11-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f8828f4b-c49b-4612-bfca-3cc3d98ef251"
+        },
+        {
+          "name": "Live From The nEVEREST Tour",
+          "date": "2025-11-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fa87b82e-25ad-4a13-8b91-e323969e4956"
+        },
+        {
+          "name": "(Don't Mess With the) Time Man",
+          "date": "1999-04-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fb09b685-fd8b-4edf-8f8a-a512d5fcd811"
+        }
+      ]
     }
   },
   "checked": {
@@ -13150,6 +13785,8 @@
     "gorgoroth": "2026-10-13T17:13:16.435623+00:00",
     "grave-digger": "2026-10-13T17:13:17.658108+00:00",
     "great-white": "2026-10-13T21:54:16.822784+00:00",
-    "guns-n-roses": "2026-10-13T21:54:21.152966+00:00"
+    "guns-n-roses": "2026-10-13T21:54:21.152966+00:00",
+    "haken": "2026-10-14T00:52:36.092020+00:00",
+    "halestorm": "2026-10-14T00:52:40.073625+00:00"
   }
 }
