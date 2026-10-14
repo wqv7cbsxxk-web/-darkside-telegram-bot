@@ -14298,6 +14298,504 @@
           "source_url": "https://musicbrainz.org/release-group/ff62de6e-83ac-4596-b5c7-5661c43810dc"
         }
       ]
+    },
+    "in-flames": {
+      "name": "In Flames",
+      "musicbrainz_url": "https://musicbrainz.org/artist/31745282-b1ea-4d62-939f-226b14d68e7c",
+      "reference_checked_at": "2026-10-14T15:35:24.740644+00:00",
+      "genres": "melodic death metal, metal",
+      "bandcamp_url": "https://inflamesoffical.bandcamp.com/",
+      "website": "http://inflames.com/",
+      "members": [
+        {
+          "name": "Anders Fridén",
+          "role": "lead vocals",
+          "begin": "1995"
+        },
+        {
+          "name": "Björn Gelotte",
+          "role": "drums (drum set), guitar",
+          "begin": "1995"
+        },
+        {
+          "name": "Daniel Svensson",
+          "role": "drums (drum set)",
+          "begin": "1998"
+        },
+        {
+          "name": "Niclas Engelin",
+          "role": "guitar",
+          "begin": "2011"
+        },
+        {
+          "name": "Joe Rickard",
+          "role": "drums (drum set)",
+          "begin": "2016"
+        },
+        {
+          "name": "Bryce Paul Newman",
+          "role": "electric bass guitar",
+          "begin": "2017"
+        },
+        {
+          "name": "Tanner Wayne",
+          "role": "drums (drum set)",
+          "begin": "2018-07-05"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/31745282-b1ea-4d62-939f-226b14d68e7c",
+      "albums": [
+        {
+          "name": "Whoracle",
+          "date": "1997-10-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/007b8b13-b246-3ab4-bd20-d6e3f1fbfc0d"
+        },
+        {
+          "name": "Live at Cologne",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/00d689f9-3ede-49f8-af45-05f11c163110"
+        },
+        {
+          "name": "2006-06-03: Rock am Ring, Nürburgring, Germany",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/043f4287-0192-3f51-8d70-929fea5efe0c"
+        },
+        {
+          "name": "Clayman",
+          "date": "2000-07-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/088345b2-2604-344d-bf53-0fc1628629b8"
+        },
+        {
+          "name": "Hell Is Overcrowded and Heaven’s Full of Sinners",
+          "date": "2023-01-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0aff8935-a969-4215-a0ec-79bce769a50f"
+        },
+        {
+          "name": "Where the Dead Ships Dwell",
+          "date": "2011-11-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0b34be5f-72aa-4fbb-b545-34c41f573fc6"
+        },
+        {
+          "name": "A Sense of Purpose",
+          "date": "2008-03-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0c259526-5c0d-3f36-9171-04eae5045ffe"
+        },
+        {
+          "name": "Ropes",
+          "date": "2011",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/15613449-4999-4fb6-ad23-4ba208f63d1f"
+        },
+        {
+          "name": "Soundtrack to Your Escape",
+          "date": "2004-03-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1b602777-16aa-3f8a-8234-fe9efdf68434"
+        },
+        {
+          "name": "Black‐Ash Inheritance",
+          "date": "1997-08-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1baee568-7ba6-3b5b-b5d8-0eac5ea82e0a"
+        },
+        {
+          "name": "The Jester Race",
+          "date": "1996-02-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1e987cd2-c9db-334c-9229-6dbe63f67c41"
+        },
+        {
+          "name": "Battles",
+          "date": "2016-11-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/23294cc0-9570-4e7d-8fd3-2563d55ee4d0"
+        },
+        {
+          "name": "Used & Abused… In Live We Trust",
+          "date": "2005-06-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2617a222-904c-3bab-9925-67c37eba6d42"
+        },
+        {
+          "name": "I Am Above",
+          "date": "2018-12-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/26df82a1-a3db-48ee-b05a-bc22e86bc54c"
+        },
+        {
+          "name": "8 Songs",
+          "date": "2011-06-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/27385945-23df-4d58-a4e0-5111d5bd3829"
+        },
+        {
+          "name": "Foregone",
+          "date": "2023-02-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/299f707e-ddf1-4edc-8a76-b0e85a31095b"
+        },
+        {
+          "name": "Lunar Strain / Subterranean",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/29d2ea89-dac6-489b-8fbd-8d1873d115b6"
+        },
+        {
+          "name": "Cloud Connected",
+          "date": "2002-02-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2af942f3-d394-3c9f-9359-b7445c1abe45"
+        },
+        {
+          "name": "The Great Deceiver",
+          "date": "2022-08-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2d43728c-74c8-4a6f-8d8a-316d9045a1b5"
+        },
+        {
+          "name": "Live in Toronto",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/30071d8d-aa48-3b14-891d-acee90de2962"
+        },
+        {
+          "name": "The Tokyo Showdown: Live in Japan 2000",
+          "date": "2001-08-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3b603107-8f7e-348d-bd2e-d88aa24fc722"
+        },
+        {
+          "name": "Come Clarity",
+          "date": "2006-02-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3f42bf96-37bf-3708-be5a-448bc667d266"
+        },
+        {
+          "name": "Siren Charms",
+          "date": "2014-09-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/41472d56-b66f-4788-8d8e-0a32be8c1c5f"
+        },
+        {
+          "name": "Burn",
+          "date": "2019-02-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/48a4c579-6009-4df3-bf50-b3636b27d1d5"
+        },
+        {
+          "name": "I, the Mask",
+          "date": "2019-01-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4f953118-899b-446b-9e0e-207cb1bb6354"
+        },
+        {
+          "name": "Through My Eyes",
+          "date": "2016-10-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/517da542-cb6b-4362-9994-9f6bd582d26e"
+        },
+        {
+          "name": "2004-06-12: Sweden Rock Festival, Sölvesborg, Sweden",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/51e2ef73-35fc-3bae-b4a8-fb78474e4b3a"
+        },
+        {
+          "name": "2002-10-14: Élysée Montmartre, Paris, France",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/59acd202-3eef-3c0c-844f-f2f805ffc7a3"
+        },
+        {
+          "name": "Lunar Strain",
+          "date": "1994-04-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5a3f33e2-3487-3f17-aa91-36395749bc64"
+        },
+        {
+          "name": "The Truth",
+          "date": "2016-08-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6299ef8d-1be7-4ee5-a548-49b3031ea53c"
+        },
+        {
+          "name": "Artifacts of In Flames",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/651fac0a-201b-3309-866b-837ef25e8ccc"
+        },
+        {
+          "name": "Clayman 2020",
+          "date": "2020-07-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7e0715f1-af66-4409-b3bf-768192566ec4"
+        },
+        {
+          "name": "2001-02-08: Kåren, Göteborg, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/811f3058-a9e7-3aa0-aa24-72db5d45139d"
+        },
+        {
+          "name": "The End / The Truth",
+          "date": "2016-08-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81453a0c-cecd-4f9c-8252-c1c153c74078"
+        },
+        {
+          "name": "Deliver Us",
+          "date": "2011-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/86d74bfa-cfbd-414c-8717-9468d6f4e50b"
+        },
+        {
+          "name": "Filtered Truth",
+          "date": "2014-08-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/896cf7f5-d578-4807-aee0-c764999046a1"
+        },
+        {
+          "name": "My Kantele / Black‐Ash Inheritance",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8f6b20e7-9d8b-4ff3-b93f-350972ea1c18"
+        },
+        {
+          "name": "The Mirror’s Truth",
+          "date": "2008-03-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/904f3203-3af3-34f6-b4a0-e564f62f8bae"
+        },
+        {
+          "name": "The Jester Race / Black‐Ash Inheritance",
+          "date": "2002-05-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/90d85cf8-1829-30a5-ab3e-a9a4b8b33d5c"
+        },
+        {
+          "name": "Take This Life",
+          "date": "2006",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/92f1bf47-56a3-4cb2-adf5-7a25aec09d7f"
+        },
+        {
+          "name": "Delight and Angers",
+          "date": "2009-04-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9a356614-e07f-4814-843e-ae8a406013eb"
+        },
+        {
+          "name": "Trigger",
+          "date": "2003-06-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9bc43dd9-fd54-3eee-8f24-fbac41bf6472"
+        },
+        {
+          "name": "Everything’s Gone",
+          "date": "2014-08-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9e4e72c1-3053-4042-b36f-1b0706e96839"
+        },
+        {
+          "name": "I, the Mask (arcade version)",
+          "date": "2020-03-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a2815460-f877-4321-96e2-b02583300cb1"
+        },
+        {
+          "name": "Come Clarity",
+          "date": "2006-12-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a537f2a2-7506-4c3c-8124-8000a88acb1e"
+        },
+        {
+          "name": "Live in Jonkoping",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a887a18f-484a-35d9-9733-2a0122fdb9b8"
+        },
+        {
+          "name": "Nothing / Reroute to Remain",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/abb6e03d-f9a0-433a-a84e-57504d4461a8"
+        },
+        {
+          "name": "Soilwork – Figure Number Five – CD Sampler",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aca3fcb9-8522-47ce-a9f0-d7f3c731d5cb"
+        },
+        {
+          "name": "Take This Life / Leeches",
+          "date": "2006",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/acd00ce6-e863-4024-a1cc-7191bc84186e"
+        },
+        {
+          "name": "Rusted Nail",
+          "date": "2014-06-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ae3e88d5-a643-4fed-91c2-2de0e66487e9"
+        },
+        {
+          "name": "Reroute to Remain: Fourteen Songs of Conscious Insanity",
+          "date": "2002-09-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/af38df72-f4b7-37c2-ab80-2bc2716f3b39"
+        },
+        {
+          "name": "State of Slow Decay",
+          "date": "2022-06-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b19cd6d9-9c86-4d6c-b444-7505d2314c19"
+        },
+        {
+          "name": "Alias",
+          "date": "2008",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b4ca094f-dc2f-48f0-8456-9d5affc5464f"
+        },
+        {
+          "name": "Foregone, Pt. 2",
+          "date": "2022-11-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b59c6d77-215b-4039-ae49-7253af198941"
+        },
+        {
+          "name": "Sounds of a Playground Fading",
+          "date": "2011-06-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/beca80fc-a3a4-499f-afcd-8c8a87be2155"
+        },
+        {
+          "name": "2004-04-16: Gothenburg, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c15f0c2f-533e-3e37-a07f-344d72d7cafe"
+        },
+        {
+          "name": "Foregone, Pt. 1",
+          "date": "2022-09-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c3ebf09c-792f-4182-9d3f-a3786717317b"
+        },
+        {
+          "name": "Save Me",
+          "date": "2016-11-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c6aab670-386b-495c-9f84-033b73a7ba45"
+        },
+        {
+          "name": "Through Oblivion",
+          "date": "2014-07-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c709c711-058e-4510-b50e-a0f132d83e43"
+        },
+        {
+          "name": "Down, Wicked & No Good",
+          "date": "2017-11-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c76c938b-6ced-4d74-9c37-7b32abc3aa8f"
+        },
+        {
+          "name": "Colony",
+          "date": "1999-05-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cad68c7a-d07b-355e-8754-611db7b4aa3f"
+        },
+        {
+          "name": "The Quiet Place",
+          "date": "2004-03-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cb9956bb-b05e-358f-aca4-7ccd075eca6f"
+        },
+        {
+          "name": "Subterranean",
+          "date": "1994-11-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cc04f7be-ed22-3825-acbc-1411050d7d1b"
+        },
+        {
+          "name": "(This Is Our) House",
+          "date": "2018-12-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cf59d1c2-0477-488a-a860-dea7fb3996a2"
+        },
+        {
+          "name": "Sounds From the Heart of Gothenburg",
+          "date": "2016-09-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d0f7ea9e-0a5b-40af-9066-79722b812f00"
+        },
+        {
+          "name": "Best Flames",
+          "date": "2005-03-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/df1de923-0b7b-3686-9a40-448ccb047b9c"
+        },
+        {
+          "name": "Demo ’93",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/df7323bc-3eaf-3f1b-a6f6-6f4cf453593e"
+        },
+        {
+          "name": "Meet Your Maker",
+          "date": "2023-01-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e30999b2-0143-44f2-86cc-7dc6dfd7861c"
+        },
+        {
+          "name": "1998-01-06: Berlin, Germany",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e42db612-5823-355e-8d7d-04206c689a2d"
+        },
+        {
+          "name": "1999-10-23: Kåren, Göteborg, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e4b6da05-41ac-36b4-9c32-46a9405a4929"
+        },
+        {
+          "name": "2000-08-10: The Bottleneck, Lawrence, KS, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ec1c6809-c10a-33b7-9cb0-aab7222ec83f"
+        },
+        {
+          "name": "I, the Mask",
+          "date": "2019-03-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ed375398-6240-4fdb-a1ac-ee6154025d0b"
+        },
+        {
+          "name": "2006-03-18: Lisebergshallen, Gothenburg, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ed74dd0d-25c3-3329-85ad-e48aeb375a82"
+        },
+        {
+          "name": "The End",
+          "date": "2016-08-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f0179a66-3baa-4577-8934-3dadaf00c611"
+        },
+        {
+          "name": "live, 2004-02-13: Folkets Park, Huskvarna, Sweden",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fe2948ac-ae18-4700-b001-9f27ccc4e906"
+        }
+      ]
     }
   },
   "checked": {
@@ -14354,6 +14852,8 @@
     "i-am-morbid": "2026-10-14T05:43:01.157421+00:00",
     "imminence": "2026-10-14T05:43:05.092357+00:00",
     "immolation": "2026-10-14T10:39:12.771151+00:00",
-    "immortal": "2026-10-14T10:39:14.010197+00:00"
+    "immortal": "2026-10-14T10:39:14.010197+00:00",
+    "in-flames": "2026-10-14T15:35:24.740814+00:00",
+    "iron-maiden": "2026-10-14T15:35:25.995674+00:00"
   }
 }
