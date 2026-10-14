@@ -1605,7 +1605,7 @@
       "website": "http://dgmlive.com",
       "reference_url": "https://en.wikipedia.org/wiki/King_Crimson",
       "reference_checked_at": "2026-10-13T21:54:10.181620+00:00",
-      "tour_attempted_at": "2026-10-04T00:38:17.770185+00:00",
+      "tour_attempted_at": "2026-10-14T05:42:53.274332+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T21:54:10.181734+00:00"
     },
@@ -1639,7 +1639,7 @@
       "website": "http://judaspriest.com",
       "reference_url": "https://en.wikipedia.org/wiki/Judas_Priest",
       "reference_checked_at": "2026-10-13T21:54:10.391644+00:00",
-      "tour_attempted_at": "2026-10-04T00:38:18.032889+00:00",
+      "tour_attempted_at": "2026-10-14T05:42:53.487682+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T21:54:10.391664+00:00"
     },
@@ -1693,7 +1693,7 @@
       "website": "http://kissonline.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kiss_%28band%29",
       "reference_checked_at": "2026-10-14T00:52:24.981077+00:00",
-      "tour_attempted_at": "2026-10-04T00:38:19.043829+00:00",
+      "tour_attempted_at": "2026-10-14T05:42:53.925488+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T00:52:24.981296+00:00"
     },
@@ -1723,7 +1723,7 @@
       "website": "http://kreator-terrorzone.de",
       "reference_url": "https://en.wikipedia.org/wiki/Kreator",
       "reference_checked_at": "2026-10-14T00:52:25.249001+00:00",
-      "tour_attempted_at": "2026-10-04T00:38:19.809226+00:00",
+      "tour_attempted_at": "2026-10-14T05:42:54.284571+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T00:52:25.249022+00:00"
     },
@@ -1888,8 +1888,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://manowar.com",
       "reference_url": "https://en.wikipedia.org/wiki/Manowar",
-      "reference_checked_at": "2026-10-02T02:23:15.662594+00:00",
-      "tour_attempted_at": "2026-10-04T00:58:09.981776+00:00"
+      "reference_checked_at": "2026-10-14T05:42:51.565585+00:00",
+      "tour_attempted_at": "2026-10-04T00:58:09.981776+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T05:42:51.565688+00:00"
     },
     "megadeth": {
       "origin": "Los Angeles , California , U.S.",
@@ -1916,8 +1918,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://megadeth.com",
       "reference_url": "https://en.wikipedia.org/wiki/Megadeth",
-      "reference_checked_at": "2026-10-02T02:23:21.201150+00:00",
-      "tour_attempted_at": "2026-10-04T00:58:10.813885+00:00"
+      "reference_checked_at": "2026-10-14T05:42:51.830588+00:00",
+      "tour_attempted_at": "2026-10-04T00:58:10.813885+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T05:42:51.830823+00:00"
     },
     "meshuggah": {
       "origin": "Umeå , Sweden",
@@ -1948,8 +1952,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://meshuggah.net",
       "reference_url": "https://en.wikipedia.org/wiki/Meshuggah",
-      "reference_checked_at": "2026-10-02T02:23:21.259970+00:00",
-      "tour_attempted_at": "2026-10-04T00:58:12.885581+00:00"
+      "reference_checked_at": "2026-10-14T05:42:52.013415+00:00",
+      "tour_attempted_at": "2026-10-04T00:58:12.885581+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T05:42:52.013436+00:00"
     },
     "metallica": {
       "origin": "Los Angeles , California, U.S.",
@@ -1976,8 +1982,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://metallica.com",
       "reference_url": "https://en.wikipedia.org/wiki/Metallica",
-      "reference_checked_at": "2026-10-02T02:23:21.523300+00:00",
-      "tour_attempted_at": "2026-10-04T00:58:13.333111+00:00"
+      "reference_checked_at": "2026-10-14T05:42:52.244834+00:00",
+      "tour_attempted_at": "2026-10-04T00:58:13.333111+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T05:42:52.244987+00:00"
     },
     "morbid-angel": {
       "origin": "Tampa, Florida , U.S.",
@@ -2004,8 +2012,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://morbidangel.com",
       "reference_url": "https://en.wikipedia.org/wiki/Morbid_Angel",
-      "reference_checked_at": "2026-10-02T02:23:27.242236+00:00",
-      "tour_attempted_at": "2026-10-04T01:09:42.980544+00:00"
+      "reference_checked_at": "2026-10-14T05:42:52.373687+00:00",
+      "tour_attempted_at": "2026-10-04T01:09:42.980544+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T05:42:52.373708+00:00"
     },
     "napalm-death": {
       "origin": "Meriden, West Midlands , England",
@@ -2032,8 +2042,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://napalmdeath.org/",
       "reference_url": "https://en.wikipedia.org/wiki/Napalm_Death",
-      "reference_checked_at": "2026-10-02T02:23:27.302264+00:00",
-      "tour_attempted_at": "2026-10-04T01:09:43.677396+00:00"
+      "reference_checked_at": "2026-10-14T05:42:52.466422+00:00",
+      "tour_attempted_at": "2026-10-04T01:09:43.677396+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T05:42:52.466442+00:00"
     },
     "motorhead": {
       "origin": "London , England",

@@ -13735,6 +13735,332 @@
           "source_url": "https://musicbrainz.org/release-group/fb09b685-fd8b-4edf-8f8a-a512d5fcd811"
         }
       ]
+    },
+    "i-am-morbid": {
+      "name": "I Am Morbid",
+      "musicbrainz_url": "https://musicbrainz.org/artist/42146db7-74ae-4bfc-82d5-d6db00b72d93",
+      "reference_checked_at": "2026-10-14T05:43:01.157383+00:00",
+      "genres": "",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/42146db7-74ae-4bfc-82d5-d6db00b72d93",
+      "albums": []
+    },
+    "imminence": {
+      "name": "Imminence",
+      "musicbrainz_url": "https://musicbrainz.org/artist/431ed486-4606-485a-b11d-f05feb860257",
+      "reference_checked_at": "2026-10-14T05:43:05.092259+00:00",
+      "genres": "metalcore, post-hardcore, progressive metalcore",
+      "bandcamp_url": "https://imminenceswe.bandcamp.com/",
+      "website": "https://imminenceswe.com/",
+      "members": [
+        {
+          "name": "Harald Barrett",
+          "role": "original",
+          "begin": null
+        },
+        {
+          "name": "Eddie Berg",
+          "role": "original",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/431ed486-4606-485a-b11d-f05feb860257",
+      "albums": [
+        {
+          "name": "Crestfallen",
+          "date": "2026-07-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0c429333-2df7-4e5f-8b5c-db55615ca7a2"
+        },
+        {
+          "name": "Come What May (live at Ystads Teater)",
+          "date": "2024-10-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1166f5d3-1faa-4760-bc98-29d781951363"
+        },
+        {
+          "name": "Chasing Shadows",
+          "date": "2021-10-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1a3e555e-abcb-47e0-bdc4-51b08ea0ea2c"
+        },
+        {
+          "name": "Can We Give It All",
+          "date": "2016-03-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1edc0283-eedc-4a4e-9d70-e28c1af6e6b6"
+        },
+        {
+          "name": "Tentación",
+          "date": "2022",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2e2a0a08-f574-4ebb-be72-124843306457"
+        },
+        {
+          "name": "Temptation",
+          "date": "2021-04-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2ffb8ee9-04fa-423b-8335-3a2ee2e87d05"
+        },
+        {
+          "name": "The Black (live at Ystads Teater)",
+          "date": "2024-08-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/37f5f054-7f29-43fa-9611-961a0835667b"
+        },
+        {
+          "name": "Born of Sirius",
+          "date": "2012",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4148e7c7-90d1-4aa2-bc73-a690b686fc4c"
+        },
+        {
+          "name": "Death Shall Have No Dominion",
+          "date": "2025-02-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4296a6c0-a9dd-4ef5-89bd-1a80f541e3c7"
+        },
+        {
+          "name": "This Is Goodbye",
+          "date": "2017-03-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/443ee0ca-2f3d-4f43-bbe4-3a7270d2ac32"
+        },
+        {
+          "name": "Turn the Light On: Acoustic Reimagination",
+          "date": "2020-01-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4ad625d2-d17d-404b-9320-3506051b6ca3"
+        },
+        {
+          "name": "False Light",
+          "date": "2026-07-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/569c0a0f-e6c2-4196-b023-3bd669f45268"
+        },
+        {
+          "name": "Live in S:t Nicolai",
+          "date": "2022-03-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/59517231-8b7e-4a0e-8e75-eb49338db0fc"
+        },
+        {
+          "name": "Heaven in Hiding",
+          "date": "2021-07-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/59582cc4-61b5-438f-87bb-629bdd1958be"
+        },
+        {
+          "name": "Alleviate (acoustic)",
+          "date": "2022",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/599e78cc-53e5-4d77-8c71-fb869d657dce"
+        },
+        {
+          "name": "Turn the Light On",
+          "date": "2019-05-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/59ae67b0-4a05-405e-81fd-3f8230a342ae"
+        },
+        {
+          "name": "Ghost",
+          "date": "2021-09-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/61c103e7-65a0-43af-9ca4-b5d67aa40248"
+        },
+        {
+          "name": "Ghost (acoustic)",
+          "date": "2022",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6514ce48-116d-4303-a559-a33904e79a8e"
+        },
+        {
+          "name": "Heaven in Hiding",
+          "date": "2021-11-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/70aaaaf5-e941-4f62-8d76-0d9fc1569611"
+        },
+        {
+          "name": "Death by a Thousand Cuts",
+          "date": "2024-07-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/743cfe81-76d0-44b7-b170-3af797cbbc9f"
+        },
+        {
+          "name": "Alleviate",
+          "date": "2021-11-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7a47d4b2-a486-434b-9b78-9556032b2c1c"
+        },
+        {
+          "name": "Death by a Thousand Cuts",
+          "date": "2023-11-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7b03ef19-3c8d-4ad1-8b01-28abf48a1577"
+        },
+        {
+          "name": "Come Hell or High Water",
+          "date": "2023-06-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7f36d131-41a7-45c2-a3c8-5fa18adbe0f0"
+        },
+        {
+          "name": "The Sword That Never Bends",
+          "date": "2026-06-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7fb891e0-ce50-47ad-b2cc-cb1a3d8d22cb"
+        },
+        {
+          "name": "Continuum",
+          "date": "2024-09-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/86c72b2c-1fe1-4cbf-b1de-c8416789d8c7"
+        },
+        {
+          "name": "Paralyzed",
+          "date": "2018",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/95c3db34-c404-4a1d-af28-2c484be8d431"
+        },
+        {
+          "name": "Continuum",
+          "date": "2024-02-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a8f7c316-f9d9-4ee1-88eb-30c939a5ae06"
+        },
+        {
+          "name": "Heaven in Hiding (acoustic)",
+          "date": "2022-06-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aa71cc76-9bdf-49db-b748-8814b393a5b6"
+        },
+        {
+          "name": "If Not Now, When",
+          "date": "2026-08-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/afe22613-9755-4928-937b-fc1d35998ccb"
+        },
+        {
+          "name": "86",
+          "date": "2014-06-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b316f51a-8abe-43eb-a9f4-3387f93e0476"
+        },
+        {
+          "name": "Desolation",
+          "date": "2023-06-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b641b72d-74c1-4d32-a5b7-2194679ac4ae"
+        },
+        {
+          "name": "The Seventh Seal",
+          "date": "2014-08-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b6d3ea80-172f-4876-a7eb-a5e7c5a63d20"
+        },
+        {
+          "name": "Ascendance",
+          "date": "2010",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b75ccbd7-119f-4164-aa8a-3fc190d61915"
+        },
+        {
+          "name": "Axis Mundi",
+          "date": "2026-10-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b97898ff-5fd1-44cf-808a-edabb6366c8e"
+        },
+        {
+          "name": "To the Light",
+          "date": "2020-10-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ba045522-c85b-43d7-a5e2-d61bc6e75fc3"
+        },
+        {
+          "name": "The Sickness",
+          "date": "2015-12-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c1d370a3-a2bf-4fa3-ba54-43bb6288880c"
+        },
+        {
+          "name": "Saturated Soul",
+          "date": "2018",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c59880bd-4cc1-4936-ae1b-83bfb295e273"
+        },
+        {
+          "name": "Broken Love",
+          "date": "2017",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d33afc12-a79d-41ba-bfca-07754d4b55f6"
+        },
+        {
+          "name": "I",
+          "date": "2014-09-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d3feb838-bc4e-4e83-b079-e23544f46e26"
+        },
+        {
+          "name": "Infectious",
+          "date": "2019",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d7f83be5-b4db-4d2f-9bb0-e932142b65a5"
+        },
+        {
+          "name": "Jaded",
+          "date": "2023-02-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e62ebf3e-6795-48a9-808f-b47ae264cce7"
+        },
+        {
+          "name": "Diamonds",
+          "date": "2017",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e694f6af-28b7-496e-80f3-abb68160a38d"
+        },
+        {
+          "name": "Return to Helios",
+          "date": "2013-05-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e7fa7f53-b27e-4bec-9911-9cb81b025419"
+        },
+        {
+          "name": "Wine & Water",
+          "date": "2013",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/edb5db6c-3828-4c83-87a6-9935d141cfdc"
+        },
+        {
+          "name": "Heaven Shall Burn",
+          "date": "2023-08-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f05d9606-1470-410b-9b92-60bcb1b299b8"
+        },
+        {
+          "name": "This Is Goodbye",
+          "date": "2017",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f2297200-6530-45d9-9a67-2a05c6602f9b"
+        },
+        {
+          "name": "The Black",
+          "date": "2024-04-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f415ae27-b0c1-4267-8b03-e21981c9b76a"
+        },
+        {
+          "name": "A Mark on My Soul",
+          "date": "2015-05-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f6d6f8d1-0f86-4964-bb50-fd465c15dffe"
+        },
+        {
+          "name": "The Black",
+          "date": "2024-03-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f9de6dee-d528-4f95-a79a-d94f7c56edcd"
+        }
+      ]
     }
   },
   "checked": {
@@ -13787,6 +14113,8 @@
     "great-white": "2026-10-13T21:54:16.822784+00:00",
     "guns-n-roses": "2026-10-13T21:54:21.152966+00:00",
     "haken": "2026-10-14T00:52:36.092020+00:00",
-    "halestorm": "2026-10-14T00:52:40.073625+00:00"
+    "halestorm": "2026-10-14T00:52:40.073625+00:00",
+    "i-am-morbid": "2026-10-14T05:43:01.157421+00:00",
+    "imminence": "2026-10-14T05:43:05.092357+00:00"
   }
 }
