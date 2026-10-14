@@ -2261,7 +2261,7 @@
       "website": "http://nightwish.com",
       "reference_url": "https://en.wikipedia.org/wiki/Nightwish",
       "reference_checked_at": "2026-10-14T10:39:01.789114+00:00",
-      "tour_attempted_at": "2026-10-04T01:43:03.061959+00:00",
+      "tour_attempted_at": "2026-10-14T22:43:49.985096+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T10:39:01.789136+00:00"
     },
@@ -2303,7 +2303,7 @@
       "website": "http://pearljam.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pearl_Jam",
       "reference_checked_at": "2026-10-14T10:39:03.060288+00:00",
-      "tour_attempted_at": "2026-10-04T01:43:03.471282+00:00",
+      "tour_attempted_at": "2026-10-14T22:43:50.330818+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T10:39:03.060309+00:00"
     },
@@ -2321,7 +2321,7 @@
       "website": "http://painofsalvation.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pain_Of_Salvation",
       "reference_checked_at": "2026-10-14T15:35:08.670473+00:00",
-      "tour_attempted_at": "2026-10-04T01:43:04.395246+00:00",
+      "tour_attempted_at": "2026-10-14T22:43:50.424147+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T15:35:08.670564+00:00"
     },
@@ -2334,7 +2334,7 @@
       "website": "http://ozzy.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ozzy_Osbourne",
       "reference_checked_at": "2026-10-14T15:35:08.913063+00:00",
-      "tour_attempted_at": "2026-10-04T01:43:04.785323+00:00",
+      "tour_attempted_at": "2026-10-14T22:43:50.772867+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T15:35:08.913168+00:00"
     },
@@ -2662,19 +2662,52 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://staticdress.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Static_Dress",
-      "reference_checked_at": "2026-10-02T02:24:04.476470+00:00",
-      "tour_attempted_at": "2026-10-04T06:23:47.232913+00:00"
+      "reference_checked_at": "2026-10-14T22:43:48.376404+00:00",
+      "tour_attempted_at": "2026-10-04T06:23:47.232913+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T22:43:48.376520+00:00"
     },
     "soundgarden": {
       "origin": "Seattle , Washington, United States",
       "genres": "Grunge heavy metal alternative metal alternative rock",
-      "years_active": "1984–97 2010–17 2019 2025 2026",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "years_active": "1984–1997 2010–2017 2019 2025 2026",
+      "members": [
+        {
+          "name": "Kim Thayil",
+          "role": ""
+        },
+        {
+          "name": "Chris Cornell",
+          "role": ""
+        },
+        {
+          "name": "Matt Cameron",
+          "role": ""
+        },
+        {
+          "name": "Hiro Yamamoto",
+          "role": ""
+        },
+        {
+          "name": "Scott Sundquist",
+          "role": ""
+        },
+        {
+          "name": "Jason Everman",
+          "role": ""
+        },
+        {
+          "name": "Ben Shepherd",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://soundgardenworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Soundgarden",
-      "reference_checked_at": "2026-10-02T02:24:04.657516+00:00",
-      "tour_attempted_at": "2026-10-04T06:23:54.916247+00:00"
+      "reference_checked_at": "2026-10-14T22:43:48.673711+00:00",
+      "tour_attempted_at": "2026-10-04T06:23:54.916247+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T22:43:48.673905+00:00"
     },
     "steven-wilson": {
       "origin": "Hemel Hempstead , Hertfordshire , England",
@@ -2684,8 +2717,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://stevenwilsonhq.com",
       "reference_url": "https://en.wikipedia.org/wiki/Steven_Wilson",
-      "reference_checked_at": "2026-10-02T02:24:10.162277+00:00",
-      "tour_attempted_at": "2026-10-04T06:23:55.138359+00:00"
+      "reference_checked_at": "2026-10-14T22:43:48.910652+00:00",
+      "tour_attempted_at": "2026-10-04T06:23:55.138359+00:00",
+      "instruments": "Vocals guitar piano keyboards bass",
+      "reference_attempted_at": "2026-10-14T22:43:48.910888+00:00"
     },
     "symphony-x": {
       "origin": "Middletown, New Jersey , U.S.",
@@ -2716,8 +2751,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.symphonyx.com",
       "reference_url": "https://en.wikipedia.org/wiki/Symphony_X",
-      "reference_checked_at": "2026-10-02T02:24:10.223580+00:00",
-      "tour_attempted_at": "2026-10-04T12:36:35.104286+00:00"
+      "reference_checked_at": "2026-10-14T22:43:49.114777+00:00",
+      "tour_attempted_at": "2026-10-04T12:36:35.104286+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T22:43:49.114799+00:00"
     },
     "system-of-a-down": {
       "origin": "Glendale, California , U.S.",
@@ -2744,8 +2781,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://systemofadown.com",
       "reference_url": "https://en.wikipedia.org/wiki/System_Of_A_Down",
-      "reference_checked_at": "2026-10-02T02:24:10.517090+00:00",
-      "tour_attempted_at": "2026-10-04T12:36:35.675909+00:00"
+      "reference_checked_at": "2026-10-14T22:43:49.469523+00:00",
+      "tour_attempted_at": "2026-10-04T12:36:35.675909+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T22:43:49.469544+00:00"
     },
     "the-contortionist": {
       "origin": "Indianapolis , Indiana , U.S.",
@@ -2780,8 +2819,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.thecontortionist.net/",
       "reference_url": "https://en.wikipedia.org/wiki/The_Contortionist",
-      "reference_checked_at": "2026-10-02T02:24:15.845786+00:00",
-      "tour_attempted_at": "2026-10-04T12:36:35.948217+00:00"
+      "reference_checked_at": "2026-10-14T22:43:49.560270+00:00",
+      "tour_attempted_at": "2026-10-04T12:36:35.948217+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-14T22:43:49.560290+00:00"
     },
     "terrorizer": {
       "origin": "Los Angeles , California , U.S.",

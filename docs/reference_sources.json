@@ -16075,6 +16075,693 @@
           "source_url": "https://musicbrainz.org/release-group/fc646256-f2f1-3c51-8004-0b6b1efe50c4"
         }
       ]
+    },
+    "king-crimson": {
+      "name": "King Crimson",
+      "musicbrainz_url": "https://musicbrainz.org/artist/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+      "reference_checked_at": "2026-10-14T22:43:59.749016+00:00",
+      "genres": "art rock, avant-garde, experimental rock, free improvisation, jazz fusion, progressive, progressive rock, rock, symphonic prog, symphonic rock",
+      "website": "https://www.dgmlive.com/",
+      "members": [
+        {
+          "name": "Robert Fripp",
+          "role": "guitar, original",
+          "begin": "1968-11-30"
+        },
+        {
+          "name": "Robert Fripp",
+          "role": "mellotron, original",
+          "begin": "1968-11-30"
+        },
+        {
+          "name": "Pat Mastelotto",
+          "role": "drums (drum set)",
+          "begin": "1994"
+        },
+        {
+          "name": "Pat Mastelotto",
+          "role": "electronic drum set",
+          "begin": "1994"
+        },
+        {
+          "name": "Tony Levin",
+          "role": "background vocals",
+          "begin": "2004"
+        },
+        {
+          "name": "Tony Levin",
+          "role": "electric bass guitar",
+          "begin": "2004"
+        },
+        {
+          "name": "Tony Levin",
+          "role": "Chapman stick",
+          "begin": "2004"
+        },
+        {
+          "name": "Gavin Harrison",
+          "role": "drums (drum set)",
+          "begin": "2007"
+        },
+        {
+          "name": "Gavin Harrison",
+          "role": "percussion",
+          "begin": "2007"
+        },
+        {
+          "name": "Mel Collins",
+          "role": "flute, saxophone",
+          "begin": "2013"
+        },
+        {
+          "name": "Jakko Jakszyk",
+          "role": "lead vocals",
+          "begin": "2013"
+        },
+        {
+          "name": "Jakko Jakszyk",
+          "role": "guitar",
+          "begin": "2013"
+        },
+        {
+          "name": "Jeremy Stacey",
+          "role": "drums (drum set)",
+          "begin": "2016-03-07"
+        },
+        {
+          "name": "Jeremy Stacey",
+          "role": "percussion",
+          "begin": "2016-03-07"
+        },
+        {
+          "name": "Jeremy Stacey",
+          "role": "keyboard",
+          "begin": "2016-03-07"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+      "albums": [
+        {
+          "name": "Live in Mexico City",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/00200de4-2f45-4c28-80bf-819ad0ad1d7a"
+        },
+        {
+          "name": "A Beginner’s Guide to the King Crimson Collectors’ Club",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/04a14fc9-feea-42e6-b66d-2e87a0d68189"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 10",
+          "date": "2021-01-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0596698d-5939-473e-ac23-36f378a7dcf1"
+        },
+        {
+          "name": "THRaKaTTaK",
+          "date": "1996-06-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/07f9753b-4442-3f0e-aa8a-6b4920a9219b"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 5",
+          "date": "2012-12-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0ae124fa-5674-4f62-9e5f-10cc2d1fba74"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Three",
+          "date": "2000-07-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0c8285f6-5356-4ad7-9a85-46ca2994ab8c"
+        },
+        {
+          "name": "Absent Lovers: Live in Montreal 1984",
+          "date": "1998-04-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0d2418c2-294e-3636-a1ad-ae4a6c549224"
+        },
+        {
+          "name": "The First Three",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/10ea6155-9361-4dc7-b107-9d406570e887"
+        },
+        {
+          "name": "Live at Moles Club, Bath – April 30, 1981",
+          "date": "2000-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1287ef9d-51ad-477d-af97-f2495cba420a"
+        },
+        {
+          "name": "Audio Diary",
+          "date": "2018-06-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/132fe3d5-7aab-423b-9a63-3d7d4ab550c4"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 9",
+          "date": "2021-01-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/194d6827-8a9e-4d1d-9a87-889d23c3aba7"
+        },
+        {
+          "name": "On Broadway 1995",
+          "date": "1999-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1a837135-2e50-34dc-8b23-b855258058f6"
+        },
+        {
+          "name": "Collectors’ King Crimson Box 4 (1981–1982)",
+          "date": "2007-09-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1d021bb2-00f1-4225-b1b5-7ae01b107aa3"
+        },
+        {
+          "name": "Collectors’ King Crimson Box 2 (1971–1972)",
+          "date": "2007-09-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/20c0b155-8839-45b2-a41c-3bc463a38e91"
+        },
+        {
+          "name": "The Complete 1969 Recordings",
+          "date": "2020-11-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/21abe44f-83d0-4bd2-b9a2-b382b5d458fc"
+        },
+        {
+          "name": "Epitaph",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/25f0c6ef-3df2-4be2-94ca-7429a6728eb0"
+        },
+        {
+          "name": "Islands",
+          "date": "1971-12-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/294ffbbb-75bb-3f65-b309-94a99fa3c194"
+        },
+        {
+          "name": "The Elements: 2014 Tour Box",
+          "date": "2014-12-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2ca8cc3d-b1fc-4b55-8993-01133746f2a8"
+        },
+        {
+          "name": "Collectors’ King Crimson Box 3 (1972–1974)",
+          "date": "2007-09-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/36915752-c03a-41bb-9625-c4ec3b4d2db5"
+        },
+        {
+          "name": "The Power to Believe Tour Box",
+          "date": "2003-02-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/36d55201-f7e3-3405-9d99-39937655a716"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 7",
+          "date": "2015-03-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3a31b718-e615-469b-b52c-0f6b99d6c3d3"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol 13",
+          "date": "2024-01-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/409ba896-a8a9-488d-b4c7-53fa3137a96e"
+        },
+        {
+          "name": "Sleepless: The Concise King Crimson",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/43900cb8-dc90-3f19-b700-da6174b141d4"
+        },
+        {
+          "name": "The 21st Century Guide to King Crimson, Volume 2: 1981–2003",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/46eca95a-ee8d-3e62-b3e5-0ee31517dbb6"
+        },
+        {
+          "name": "Heaven & Earth",
+          "date": "2019-06-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/49a29f0b-6237-4417-9dfe-ba4d365e6ba8"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Six",
+          "date": "2002-07-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/49dd8be8-2b87-4c32-af34-2f8a272daa73"
+        },
+        {
+          "name": "The Condensed 21st Century Guide to King Crimson: 1969–2003",
+          "date": "2006-10-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4d4bf72b-7352-364e-adb6-8e9afa158de7"
+        },
+        {
+          "name": "The 21st Century Guide to King Crimson, Volume 1: 1969–1974",
+          "date": "2004-11-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4f96bb15-34e2-387d-ad93-42258e465a55"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 3",
+          "date": "2010-12-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/55e96215-ebbb-4da9-98b4-ef84379ef800"
+        },
+        {
+          "name": "The Great Deceiver",
+          "date": "1992-10-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5867d158-53a9-3e14-8c39-2cf51477d2ef"
+        },
+        {
+          "name": "The Elements: 2018 Tour Box",
+          "date": "2018",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5a6de704-f9d7-4b42-8205-caa4c7ce455a"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Eight",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5f5ed79f-a29e-4544-a6cd-1c8bcccbdbad"
+        },
+        {
+          "name": "The Deception of the Thrush: A Beginners’ Guide to ProjeKcts",
+          "date": "1999-10-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/62fb362d-a309-3ce1-9405-a1a5d68823fd"
+        },
+        {
+          "name": "Audio Diary 2014–2018",
+          "date": "2019-06-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6c6ca88a-844d-475e-8e2e-60bbb9ad29b7"
+        },
+        {
+          "name": "The Elements: 2017 Tour Box",
+          "date": "2017-06-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6d07af04-287e-4689-a7ad-a3f64ae869dd"
+        },
+        {
+          "name": "Larks’ Tongues in Aspic",
+          "date": "1973-03-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6d655093-4a0b-32ca-8d0e-b497d6ac781d"
+        },
+        {
+          "name": "VROOOM VROOOM",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7022d456-08f7-3353-b357-9a11f4bdc924"
+        },
+        {
+          "name": "The Nightwatch: Live at the Amsterdam Concertgebouw November 23rd 1973",
+          "date": "1997-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/705b825c-0558-32c9-b5fa-436938fe46c3"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 12",
+          "date": "2023-05-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/733f0d38-e3d0-4773-8a4f-edb51967a30b"
+        },
+        {
+          "name": "September 28, 1994: Prix D'Ami, Buenos Aires, Argentina",
+          "date": "1994-09-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/75d326f2-4aa7-4846-8908-5c30fb94fcf6"
+        },
+        {
+          "name": "USA",
+          "date": "1975-04-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7676fe1d-73ef-3daf-972a-80f4c4cdbb47"
+        },
+        {
+          "name": "Live in Central Park, NYC 1974",
+          "date": "2000-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7a581ae9-937f-312b-8f06-b5f86923531b"
+        },
+        {
+          "name": "King Crimson 1969–1972",
+          "date": "2018-12-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7db45da9-e3e6-479e-9057-01d50b4fe7d7"
+        },
+        {
+          "name": "A Young Person’s Guide to King Crimson",
+          "date": "1975",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7dc2594a-f087-31cb-ac21-df5b3caa3462"
+        },
+        {
+          "name": "The Elements: 2015 Tour Box",
+          "date": "2015-08-31",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8341dac8-a60e-4ee2-968e-7693b019189d"
+        },
+        {
+          "name": "Earthbound",
+          "date": "1972-06-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/837775db-81dc-3297-ba80-2475a64cee9b"
+        },
+        {
+          "name": "B’BOOM: Official Bootleg – Live in Argentina",
+          "date": "1995-08-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/87692c39-51c0-3217-8972-588751efec1a"
+        },
+        {
+          "name": "Red",
+          "date": "1974-09-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/89bc97c8-921a-3758-8481-3b39c564e297"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Four",
+          "date": "2001-02-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8a72e962-8b07-40e0-8136-3b80f976fb3d"
+        },
+        {
+          "name": "Three of a Perfect Pair: Live in Japan",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8f3b566b-c96e-441a-ad04-6ae38a49b3fd"
+        },
+        {
+          "name": "Three of a Perfect Pair",
+          "date": "1984-03-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/939fde6a-e999-33a9-a7a0-7679aefe8bb0"
+        },
+        {
+          "name": "Live at Jacksonville 1972",
+          "date": "1998-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/96346c7f-cce3-39ac-bf59-30ded6f3cfb3"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 8",
+          "date": "2016-03-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/96c6b145-2d8d-4181-a73f-dbc3625e9938"
+        },
+        {
+          "name": "Happy With What You Have to Be Happy With / Level Five / EleKtriK: Live in Japan, 2003",
+          "date": "2021-11-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/98d497f2-bbff-451e-8e4b-690c73c83e3b"
+        },
+        {
+          "name": "Live in Mainz: March 30, 1974",
+          "date": "2001-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9bc1f2ff-1222-3125-9054-6063e6e14760"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume One",
+          "date": "1999-07-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9da5ef44-832c-4167-96fa-fdf11427f0b3"
+        },
+        {
+          "name": "In the Court of the Crimson King",
+          "date": "1969-10-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a50636b5-5233-3329-a7f3-dba3d0e00ef7"
+        },
+        {
+          "name": "Live in Berkeley, CA – August 13, 1982",
+          "date": "2001-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a5f921df-0ce0-4d32-a079-dec0e12d9c4a"
+        },
+        {
+          "name": "Sailors’ Tales",
+          "date": "2017-11-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a88093da-79d2-4089-b4fc-3505bbd72b70"
+        },
+        {
+          "name": "Heavy ConstruKction",
+          "date": "2000-11-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a9a50117-c001-3396-bcaa-cc145c0faf43"
+        },
+        {
+          "name": "Live at Plymouth Guildhall May 11, 1971",
+          "date": "2000-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/aa649e0d-aac9-3242-b48c-8323a724cc4d"
+        },
+        {
+          "name": "Live in Detroit, MI, December 13, 1971",
+          "date": "2001-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/aa775e4d-aa15-331d-bae6-c5bf97224e92"
+        },
+        {
+          "name": "The Elements: 2020 Tour Box",
+          "date": "2020-09-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ab88d921-6ee5-41b2-9bd0-4531b07b664a"
+        },
+        {
+          "name": "Lizard",
+          "date": "1970-12-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/abe5a8ec-20c9-3d49-bb2d-4c371bf1ef25"
+        },
+        {
+          "name": "The Compact King Crimson",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ae040a23-b57f-3080-a4f3-7d2f2999ea98"
+        },
+        {
+          "name": "The Power to Believe",
+          "date": "2003-01-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/afaaef0d-eb28-3fbf-bf79-fe5454b660fb"
+        },
+        {
+          "name": "Live at the Marquee 1969",
+          "date": "1998-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b01aac1e-b5d0-3cdb-830f-bed7fc5a590e"
+        },
+        {
+          "name": "The Elements: 2016 Tour Box",
+          "date": "2016-11-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b769f8ee-5f09-4e4a-a89f-0ae98e1412c7"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Nine",
+          "date": "2005-09-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bf497607-dd4b-4296-bdf6-7a1b9f2864e8"
+        },
+        {
+          "name": "The Elements: 2019 Tour Box",
+          "date": "2019-06-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c14e68fc-86e5-4cfb-ae6e-6abaa3059ad2"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Seven",
+          "date": "2003-03-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c45b3e5f-5cbb-4c0e-be1d-55397f53f307"
+        },
+        {
+          "name": "Cirkus: The Young Person’s Guide to King Crimson Live",
+          "date": "1999-05-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c65c4f7e-b170-3b8f-9bb5-f79e3991e2f1"
+        },
+        {
+          "name": "Epitaph, Volumes One & Two",
+          "date": "1997-03-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c864a7df-8818-3e2f-afb2-e5a62b8d093c"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Ten",
+          "date": "2006-07-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c9f7b42b-3847-4b40-9d07-86efb7e318aa"
+        },
+        {
+          "name": "Beat",
+          "date": "1982-06-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d17dc291-f818-3803-9ac5-1c6cfb73d8d6"
+        },
+        {
+          "name": "Jun 27, 2000 – Barcelona – Zeleste",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d28f2e5e-063b-414f-b1a2-4140ab37698d"
+        },
+        {
+          "name": "Discipline",
+          "date": "1981-09-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d498c31d-3b72-3748-a142-df0bf774a920"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 6",
+          "date": "2013-12-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d52b85bc-3f86-4419-9508-d1e5e8f79859"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 11",
+          "date": "2022-01-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d6cf2108-8fc4-4d38-9eaa-8998ccc7e5da"
+        },
+        {
+          "name": "Live at the Zoom Club",
+          "date": "2002-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d840d3fc-cf24-39a3-82f5-f9cfb6837c02"
+        },
+        {
+          "name": "Epitaph, Volumes 3 & 4",
+          "date": "1997-11-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d8a01e6c-59e8-47db-aee9-a7dd200f9ff5"
+        },
+        {
+          "name": "The ConstruKction of Light",
+          "date": "2000-05-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dd7db5e6-4239-3967-aa13-1fa082471d09"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 2",
+          "date": "2009-12-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ddbcbf25-f6d1-44c6-a879-3aa1d2a4f238"
+        },
+        {
+          "name": "Frame by Frame: The Essential King Crimson",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e31d6228-097f-3365-8dd8-6163559487c0"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol 14",
+          "date": "2025-02-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e482cdd8-7fb0-4794-b8e0-537d7c874b21"
+        },
+        {
+          "name": "THRAK",
+          "date": "1995-03-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e521e3fa-01d8-33d6-aec2-1b5584233e99"
+        },
+        {
+          "name": "Starless and Bible Black",
+          "date": "1974-03-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e65ee097-180e-3116-8b68-599b177947b8"
+        },
+        {
+          "name": "The Beat Club, Bremen 1972",
+          "date": "1999-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e69f9963-6382-30f3-bcf3-a47a194647fe"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 4",
+          "date": "2011-12-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e8bc6810-7fcc-46ad-bb2f-60d033c66273"
+        },
+        {
+          "name": "Mr Stormy’s Monday Selection, Vol. 1",
+          "date": "2008-11-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/eb487a15-8b23-448a-b53d-2a1f645c76d6"
+        },
+        {
+          "name": "The Elements: 2021 Tour Box",
+          "date": "2021-07-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ef2a09e9-b96a-43b4-bd22-b695034308a5"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Two",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ef93f6b4-a4ff-4051-b851-ecea6b8c2da5"
+        },
+        {
+          "name": "In the Wake of Poseidon",
+          "date": "1970-05-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ef9dfb95-3217-3006-84e2-92037460eb27"
+        },
+        {
+          "name": "The ProjeKcts",
+          "date": "1999-10-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f2ded9b4-a540-31f3-897c-41ab704f5853"
+        },
+        {
+          "name": "Live at Summit Studios, Denver March 12, 1972",
+          "date": "2000-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f8907029-bfb1-482a-bd18-831929e377a4"
+        },
+        {
+          "name": "The Abbreviated King Crimson: Heartbeat",
+          "date": "1991-10-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f9e5ed40-131f-3ca7-96c6-94e153453a55"
+        },
+        {
+          "name": "On (and Off) the Road",
+          "date": "2016-10-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fae7c403-14cc-46ee-83d3-b97bc7cbb678"
+        },
+        {
+          "name": "Live at Cap d’Agde 1982",
+          "date": "1999-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fc7f5397-d5ae-3712-9074-cfc1f1a784b8"
+        },
+        {
+          "name": "40th Anniversary Tour Box",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fcd23c94-2405-4472-833e-b1236ab11d06"
+        },
+        {
+          "name": "The Collectors’ King Crimson, Volume Five",
+          "date": "2001-11-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fe8668d2-4334-47da-a087-33371cce02ce"
+        }
+      ]
     }
   },
   "checked": {
@@ -16135,6 +16822,8 @@
     "in-flames": "2026-10-14T15:35:24.740814+00:00",
     "iron-maiden": "2026-10-14T15:35:25.995674+00:00",
     "jethro-tull": "2026-10-14T19:42:16.826598+00:00",
-    "judas-priest": "2026-10-14T19:42:23.727574+00:00"
+    "judas-priest": "2026-10-14T19:42:23.727574+00:00",
+    "kid-rock": "2026-10-14T22:43:55.410714+00:00",
+    "king-crimson": "2026-10-14T22:43:59.749296+00:00"
   }
 }
