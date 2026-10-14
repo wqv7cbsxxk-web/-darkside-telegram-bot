@@ -504,49 +504,18 @@
     "17e0fc054e651e5c9639b3d63f4e99e0abb26ff4",
     "7a868b15bc666a6c48564f3dd05fca5255ee3cff",
     "4e7a0e46bab12476438eab404f320a556c952a45",
-    "75a66bf6524703db76c4be0b20652979932354f1"
+    "75a66bf6524703db76c4be0b20652979932354f1",
+    "a8e584d3f1424e0d4e30cd80dc77eb39133b3659",
+    "4d5c69e40d1679374622ea515201e6779c64402b",
+    "106ac20419cadff46132025c19e2f57c589114e0",
+    "33551ade620b762f4643fe315db4579edc29c2d2",
+    "fa2fe6c749f5a47b06b0a8ba3679eeb327df2896",
+    "265a0954fd59a1c98242b0210e28cddb433dad9d",
+    "cd592847afe9bc65337d0fe7cd1bedbcbb38fccf",
+    "d64c50d8cb9d4b1b423a2bdc9ab8c8b3e0edb2e8",
+    "6b73b099e6e881f2466618be3dfc1a2be85b47fc"
   ],
   "recent_titles": [
-    {
-      "title": "Brother’s Keeper’s New “You Can’t Kill Me” Collection Set For Vinyl Release",
-      "source": "ThePRP",
-      "ts": 1791143848
-    },
-    {
-      "title": "Ov Sulfur might be deathcore brutes, but they've got grand ambitions",
-      "source": "Louder",
-      "ts": 1791143885
-    },
-    {
-      "title": "Ian Anderson’s guided tour of Jethro Tull – Ritchie Blackmore, Steve Harris, Benny Hill, Spinal Tap and more",
-      "source": "Louder",
-      "ts": 1791153903
-    },
-    {
-      "title": "SHADES OF BLACK: BEFOULED MALEDICTION, KILAT, I HELVETE, FERNDOM",
-      "source": "No Clean Singing",
-      "ts": 1791153923
-    },
-    {
-      "title": "GEEZER BUTLER присоединился на сцене к JACK BLACK и исполнил BLACK SABBATH",
-      "source": "Darkside",
-      "ts": 1791163100
-    },
-    {
-      "title": "Обновленный трек от AGALLOCH",
-      "source": "Darkside",
-      "ts": 1791163102
-    },
-    {
-      "title": "Watch Jack Black and Geezer Butler cover Black Sabbath at Tom Morello's Power To The People show",
-      "source": "Louder",
-      "ts": 1791163115
-    },
-    {
-      "title": "Новое видео DIAMANTE",
-      "source": "Darkside",
-      "ts": 1791163116
-    },
     {
       "title": "Басист AMON AMARTH: «Мы медленно, но верно ползем на вершину»",
       "source": "Darkside",
@@ -1306,6 +1275,46 @@
       "title": "Top 10 Mike Love Beach Boys Songs",
       "source": "Ultimate Classic Rock",
       "ts": 1791992101
+    },
+    {
+      "title": "Вокалист LAMB OF GOD: «Я бы хотел больше петь чистым, но... но... »",
+      "source": "Darkside",
+      "ts": 1792006831
+    },
+    {
+      "title": "Новое видео &#33457;&#20919;&#12360;&#12290;",
+      "source": "Darkside",
+      "ts": 1792006832
+    },
+    {
+      "title": "Новое видео SEVENTH WONDER",
+      "source": "Darkside",
+      "ts": 1792006833
+    },
+    {
+      "title": "(Hed)p.e. Opt For CD-Only Release Of Their New Album “Relapse” As Digital Versions Get Delayed To Summer 2027",
+      "source": "ThePRP",
+      "ts": 1792006889
+    },
+    {
+      "title": "Новое видео GRYMHEART",
+      "source": "Darkside",
+      "ts": 1792006891
+    },
+    {
+      "title": "Vote for Rock's Spookiest Album Cover: Only 16 Artists Remain",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792006893
+    },
+    {
+      "title": "Pavlov's Dog frontman David Surkamp dead at 73",
+      "source": "Louder",
+      "ts": 1792006910
+    },
+    {
+      "title": "Tortured Demon Sign With BLKIIBLK, Debut “Apocalypse” Music Video",
+      "source": "ThePRP",
+      "ts": 1792006915
     }
   ],
   "initialized_sources": [
@@ -3710,6 +3719,249 @@
       "published": "2026-10-14T13:50:53+00:00",
       "id": "ec5d5018bd5a2da6a26d2be63d29fc90708fbe85",
       "retry_after": 1791992261
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Half Sumo Launches First Ever Ozzy Osbourne Jiu-Jitsu Collection",
+      "link": "https://metalinjection.net/news/half-sumo-launches-first-ever-ozzy-osbourne-jiu-jitsu-collection",
+      "rss_body": "The collection launches Friday, October 23.",
+      "tags": "Latest News Ozzy Osbourne Forever",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T19:10:15+00:00",
+      "id": "876f0e380ed29bab07d20ff6f276f4eb5127cf8d",
+      "retry_after": 1792007194
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Full EP Stream: Zero Hour –No Man’s Land",
+      "link": "https://www.decibelmagazine.com/2026/10/14/full-ep-stream-zero-hour-no-mans-land/",
+      "rss_body": "The origins of Pleasanton, CA prog metalers\n\nZero Hour\n\ngo back more than three decades, though the band was most active in the late ’90s and ’00s. Following a decade-plus apart, founding member Jasun Tipton (guitars) reconvened a new lineup with Erik Rosvold (vocals) and Andreas Blomqvist (bass) to record 2022’s\n\nAgenda 21\n\n. Now they return with a brand new four-track EP,\n\nNo Man’s Land\n\n, that features contributions from Jeremy Villucci (keyboards) and Roel van Helden (drums). The EP is a rather long one, but uniquely features two epic tracks with vocals—the title track and “Codes of Violence”—as well as instrumental versions of those same songs. We’re offering all of them here for your perusal to soak up the instrumental virtuosity of the musicians and bell-clear vocals of Rosvold.\n\nNo Man’s Land\n\nwas recorded by the band, with the drums recorded by Kai Stahlenberg at Kohlekeller Studio. Mixing and mastering was completed by Matt LaPlant at Madtown Mix Studio. It’s set for release on CD and digitally through the band’s own independent label, CynNormal Lab Recordings, on October 16. Preorders can be placed\n\nhere\n\n.\n\nGuitarist Jasun Tipton reports that initial reaction to its new EP has thus far been encouraging:\n\n“The response thus far has been\n\nkiller\n\nfrom our listeners. We’re very excited for everyone to hear the EP start to finish. Since releasing the song ‘Codes Of Violence,’ we’ve received numerous requests and quite a bit of interest in the band performing live at some incredible events. It could be a busy 2027 for Zero Hour!”\n\nNo Man’s Land by Zero Hour",
+      "tags": "Exclusive Featured Full Album Stream California CynNormal Lab Recordings No Man's Land Pleasanton Progressive Metal Zero Hour",
+      "category": "Прогрессив",
+      "published": "2026-10-14T19:00:13+00:00",
+      "id": "0649d27a731ea75de3f55ed39775a4229e210f6b",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео TEMPERANCE",
+      "link": "http://www.darkside.ru/news/184500/",
+      "rss_body": "The Fool, новое видео TEMPERANCE, доступно для просмотра ниже. Этот трек взят из нового альбома Arcani, выход которого намечен на 16 октября:\n\n1. The Fool 05:23\n\n2. The Magician: Into the Fire 03:28\n\n3. Death: Right Before We Die 04:15\n\n4. The Tower: Lean into Fear 03:21\n\n5. The Devil: Sin, Sin, Sin 03:38\n\n6. Temperance: Forgiveness 04:26\n\n7. The Chariot: Alla ricerca dell'America 04:43\n\n8. Justice: Balance 03:44\n\n9. The Star: Surrender Control 04:32\n\n10. Wheel of Fortune: Come and Call Me 03:58\n\n11. The Moon: The Man of Moonlight 04:17\n\n12. The Hanged Man: Petrichor 06:41\n\n13. The World 02:47",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T18:41:51+00:00",
+      "id": "08da1962dbec3566da348afc93ae0ef1a23783d1",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Heilung Share “Læknisgaldr” Video From ‘Sagas,’ Their Collection of ‘Hellblade II’ Recordings",
+      "link": "https://metalinjection.net/new-music/heilung-share-laeknisgaldr-video-from-sagas-their-collection-of-hellblade-ii-recordings",
+      "rss_body": "'Sagas' comes out December 11 via Season of Mist.",
+      "tags": "New Music Heilung",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T18:40:29+00:00",
+      "id": "f0e7a4d8f1acb778fb279051c664a5ea21023312",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Extermination Dismemberment’s “Enslaver Of The Continents” Music Video Debuts",
+      "link": "https://www.theprp.com/2026/10/14/news/extermination-dismemberments-enslaver-of-the-continents-music-video-debuts/",
+      "rss_body": "Co-directed by two members of the band.",
+      "tags": "News Extermination Dismemberment",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T18:33:05+00:00",
+      "id": "7ffacaea9eda02f99399d90bcdfa95abebefa558",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Trivium Opens Up About Mental Health and the Story Behind ‘Crown in the Grave’ [Exclusive]",
+      "link": "https://metalinjection.net/video/trivium-opens-up-about-mental-health-and-the-story-behind-crown-in-the-grave-exclusive",
+      "rss_body": "It's as exclusive of an interview as it gets.",
+      "tags": "Trivium",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T18:29:41+00:00",
+      "id": "1834789368e897d2953ea559c83ebc82f22da77e",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Midnight Release “Violence On Violence” Performance From Their Upcoming Live Album “Satanic Attack Live!”",
+      "link": "https://www.theprp.com/2026/10/14/news/midnight-release-violence-on-violence-performance-from-their-upcoming-live-album-satanic-attack-live/",
+      "rss_body": "Captured in Los Angeles this past spring.",
+      "tags": "News Midnight",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T18:21:44+00:00",
+      "id": "a835fccfffca84ff9bb3fedf3f940d6e7e33f6a8",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Kiss Has ‘Great Surprises’ In the Works for Avatar Show",
+      "link": "https://ultimateclassicrock.com/kiss-avatar-concert-update-interview-2026/",
+      "rss_body": "Tommy Thayer also tells UCR what fans can expect at a special celebration this month in Germany.",
+      "tags": "Exclusive Interviews News Kiss Tommy Thayer UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-14T18:20:40+00:00",
+      "id": "ff16b61cfefd0d8d20a1469a1d16616fb4fe7420",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео STAIND",
+      "link": "http://www.darkside.ru/news/184489/",
+      "rss_body": "Ghosts, новое видео STAIND, доступно для просмотра. Это первый сингл из нового альбома, релиз которого запланирован на следующий год.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T17:57:35+00:00",
+      "id": "da54c390dba9c82017697add737a8bc2ac38399a",
+      "duplicate_ids": [
+        "64f7920494e048a67ccefb070bb29f1f28d40cdf"
+      ],
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Primer 55 Announce Fall Tour With REdEFIND, Sicksense & Makes My Blood Dance",
+      "link": "https://www.theprp.com/2026/10/14/news/primer-55-announce-fall-tour-with-redefind-sicksense-makes-my-blood-dance/",
+      "rss_body": "The 'Shattered Schemes Broken Dreams Tour' picks back up in November.",
+      "tags": "News Primer 55 Sicksense",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T17:54:13+00:00",
+      "id": "925610071444c51322597dc139b7554eed6eb824",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Marilyn Manson Announces 30th Anniversary Edition Of “Antichrist Superstar”",
+      "link": "https://www.theprp.com/2026/10/14/news/marilyn-manson-announces-30th-anniversary-edition-of-antichrist-superstar/",
+      "rss_body": "And it has been newly remastered and repackaged.",
+      "tags": "News Marilyn Manson",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T17:37:37+00:00",
+      "id": "1a23f247cd6ad0bfdee0236b23e3ad9b17987c94",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "DAVE LOMBARDO о культовой пластинке SLAYER",
+      "link": "http://www.darkside.ru/news/184434/",
+      "rss_body": "DAVE LOMBARDO в недавнем интервью поговорил о культовом альбоме SLAYER \"Reign In Blood\", которому седьмого октября исполнилось сорок лет:\n\n«У меня до сих пор мурашки бегут по коже, когда я слушаю этот альбом. У меня потеют ладони, учащается сердцебиение, и я наслаждаюсь моментом.\n\nЯ много раз в своей жизни исполнял эти песни на сцене, и это вызывает прилив адреналина, когда я просто думаю об этом, и когда я слушаю эти песни. Я заряжаюсь. Если у меня остановится сердце, включите \"Angel Of Death\", или \"Raining Blood\", или что-нибудь в этом роде, и вы увидите, как я вскочу и буду спрашивать: \"Что происходит?\"»\n\nКогда его спросили, по-прежнему ли он любит трэш-металл, Dave ответил:\n\n«Я наслаждаюсь, когда слышу хороший трэш. Есть много по-настоящему позитивных — или не совсем позитивных, но заслуживающих похвалы — попыток, но с тех пор, как появились компьютерные программы для записи музыки, большая часть музыки стала очень стерильной. И поэтому нам не хватает той динамики, которая была в тех альбомах, которые были — как бы это сказать — бурными. Я бы сказал, они были очень агрессивными. И это чувствовалось. Это ощущалось в записи. И я видел, как это отразилось на альбоме, потому что когда мы записывали эти песни, мы смотрели друг на друга и говорили: \"Ладно, поехали. Давайте, чёрт возьми порвём всех. Давайте выложимся по полной. Давайте сыграем эту песню\". — \"Быстрее?\" — \"Да, сыграй чуть быстрее\". — \"Окей, поехали\". Отсчитываю четыре такта, и вступает группа. Гнев, тревога, адреналин — всё это присутствует в нём».\n\nDave nакже поговорил о легендарном гитаристе SLAYER Джеффе Ханнемане. Он является автором многих классических песен SLAYER, в том числе «Angel Of Death» и «South Of Heaven»:\n\n«Джефф был прекрасным человеком. Он был весёлым. Он был потрясающим автором песен. Он был первопроходцем. Он пришёл в группу, не имея никакого музыкального образования, и создал потрясающую музыку в нашем жанре».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T17:01:29+00:00",
+      "id": "f1476264dd1fab8feb0e28eaac007c9ff99fe7e9",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Emmure’s Frankie Palmeri Says People Want Politicized Music “Only If It Aligns With Their Brand Of Politics And World View”",
+      "link": "https://www.theprp.com/2026/10/14/news/emmures-frankie-palmeri-says-people-want-politicized-music-only-if-it-aligns-with-their-brand-of-politics-and-world-view/",
+      "rss_body": "\"Otherwise they seethe and become blood thirsty mutants who literally want people to die for disagreeing with them.\"",
+      "tags": "News Emmure Frankie Palmeri",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T17:00:29+00:00",
+      "id": "54d1d65a80d76671a6eddb5b1af747b63aa3a1c8",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "The Rolling Stones announce Foreign Tongues, Loose Lips",
+      "link": "https://www.loudersound.com/bands-artists/the-rolling-stones-announce-foreign-tongues-loose-lips",
+      "rss_body": "The Rolling Stones\n\nhave announced the forthcoming release of an expanded deluxe edition of their current album\n\nForeign Tongues\n\n, featuring five new songs from the studio sessions which birthed the record.\n\nForeign Tongues, Loose Lips\n\nwill be released on November 27 by Polydor/Universal Music.\n\nThe new collection features five recordings from the creative period surrounding\n\nForeign Tongues:\n\nWhere There's A Will\n\n,\n\nWho You Callin' Crazy\n\n(featuring jazz saxophonist Courtney Pine),\n\nHuman Tide\n\n,\n\nBad Luck Hideaway\n\n, a duet vocal by Mick Jagger and Keith Richards also featuring Charlie Watts, and\n\nShe Still Comes Around\n\n.\n\nIn a Facebook post, the new songs were described as \"blues, country and that unmistakable rhythm and Stones sound that we know you love!\"\n\nBad Luck Hideaway\n\nwas previously released as a bonus track on the iTunes exclusive edition of\n\nForeign Tongues\n\n, and was recently shared on digital platforms as the B-side to current Stones single\n\nMr. Charm\n\n.\n\nThe grammatically-challenging\n\nWho You Callin' Crazy\n\nwill be digitally released on Friday, October 16.\n\nProduced by Andrew Watt (Ozzy Osbourne, Paul McCartney, Pearl Jam), the original version of\n\nForeign Tongues,\n\nthe band's 25th British studio album, was released on July 10 this year. The\n\nClassic Rock\n\nmagazine\n\nreview of the record\n\nnoted, \"Despite an ultimately wearing, overbearing Watt production job,\n\nForeign Tongues\n\nduly delivers as a pretty good Stones album.\"\n\nThe 14-track collection followed the band's acclaimed, Grammy Award-winning\n\nHackney Diamonds\n\nalbum, which emerged in 2023.\n\nForeign Tongues, Loose Lips\n\nwill be available as a standalone vinyl edition, a deluxe 2CD edition, and across digital formats.\n\nThe standalone vinyl edition features all five\n\nLoose Lips\n\nrecordings on LP, alongside a CD of the original\n\nForeign Tongues\n\nalbum. The 2CD edition includes the original 14-track\n\nForeign Tongues\n\nalbum on CD1 and the five\n\nLoose Lips\n\nrecordings on CD2.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-14T17:00:00+00:00",
+      "id": "b1ca5451f6cb7855a490667a1fe62e12a6316591",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "VCTMS Drummer Meredith Henderson Issues Full Statement Regarding Recent Allegations Of Abuse",
+      "link": "https://www.theprp.com/2026/10/14/news/vctms-drummer-meredith-henderson-issues-full-statement-regarding-recent-allegations-of-abuse/",
+      "rss_body": "\"This was a wake up call, and I know I have to earn back trust and respect—if that's even possible. We'll see.\"",
+      "tags": "News Meredith Henderson VCTMS",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T16:27:07+00:00",
+      "id": "4b12330e5843d06eadc90f267778452ac55eab29",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Sharon Osbourne \"Really, Really\" Wanted Megadeth to Play 'Back to the Beginning'",
+      "link": "https://metalinjection.net/news/sharon-osbourne-really-wanted-megdeth-to-play-back-to-the-beginning",
+      "rss_body": "\"There [were] so many great, great performances. It was just overwhelming.\"",
+      "tags": "Latest News Ozzy Osbourne Megadeth sharon osbourne",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T16:23:37+00:00",
+      "id": "55523d2252c09131aa39f7d0fe81c81e5cac2c33",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Full Album Stream: Great Falls – The Bite That Grows Up",
+      "link": "https://www.decibelmagazine.com/2026/10/14/full-album-stream-great-falls-the-bite-that-grows-up/",
+      "rss_body": "There’s something especially gripping about music like this.\n\nGreat Falls\n\nis composed of veterans from many corners of the heavy music world, with bands like Kiss It Goodbye, Undertow, Playing Enemy, Bastard Feast, Gaytheist adorning their grief-soaked uniforms. It would be a gross oversimplification to label this sludge-influenced hardcore and just leave it at that, as there’s so much going on from the Converge-esque chaos, to the crushing reminders of death metal, grindcore, and math-rock mixed in with all the noise. And it’s with that sense of admiration and bewilderment that\n\nDecibel\n\npresents\n\nThe Bite That Grows Up\n\nstreaming in full.\n\nThe band told us that “We recorded this without playing any of the songs live first and were really worried how people would respond to them. But we’ve finally had a chance to play almost all of the record in front of crowds, and they seem to be coming off how we hoped: anxious, desperate and heartbroken.”\n\nYou have to respect a band with a goal.\n\nThe Bite That Grows Up\n\ncomes out this Friday, October 16, via Neurot Recordings\n\n. Listen to the whole thing below.\n\nThe Bite That Grows Up by Great Falls",
+      "tags": "Full Album Stream Track Premiere great falls Hardcore Neurot Recordings premiere Sludge Metal",
+      "category": "Прогрессив",
+      "published": "2026-10-14T16:00:43+00:00",
+      "id": "7cf27149aa5c4e6b88ecb096d514bfe8fa04400e",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "What it’s like to be in Jethro Tull, by some of those who’ve done it",
+      "link": "https://www.loudersound.com/bands-artists/interviews/jethro-tull-former-members-memories",
+      "rss_body": "In 2017, marking\n\nJethro Tull\n\n’s 50th anniversary,\n\nProg\n\nasked former members\n\nMick Abrahams\n\n, Clive Bunker,\n\nJeffrey Hammond\n\n,\n\nPeter John Vettese\n\nand\n\nTony Iommi\n\nabout their memories of being in\n\nIan Anderson\n\n”s band.\n\nMick Abrahams (guitar, 1967-1968)\n\nBest thing about being in Tull?\n\nThey used to let me sit in the front of the van when we were on the road.\n\nFunniest moment?\n\nWalking around Woolworth’s one day with Ian. We were both trying lampshades on our heads. Ian looked beautiful and I didn’t. An assistant came up to me and said, ‘Are you mad?’ So I replied, ‘He is, but I’m not. Now get us a mirror so we can see which lampshade looks best as a hat.’ And she got us a mirror!”\n\nFavourite Tull album you played on?\n\nThis Was\n\n.\n\nClive Bunker (drums, 1967-1971)\n\nFunniest moment?\n\nOur set in America got longer and longer, and Ian’s flute solo would also get increasingly stretched out. Our tour manager, Eric Brooks, would bring out a card table and two chairs, and set it up behind Ian when he went into his solo.\n\nMartin Barre\n\nand I would sit down and play cards. Eric then came up with a pot of tea for us.\n\nAll this was going on while Ian played, and he had no clue what was happening. This went on for a couple of gigs, with Ian puzzled as to why the audience was laughing as he played. Then one night he turned round and saw us. But fortunately he thought it was hilarious!\n\nFavourite Tull album you didn’t play on?\n\nRoots To Branches\n\n.\n\nJeffrey Hammond (bass, 1971-1975)\n\nBest thing about being in Tull?\n\nHaving the good fortune and privilege to play a small part in their journey. But unquestionably the camaraderie between us at that time was what I value the most.\n\nWorst thing about being in Tull?\n\nHaving to share a bed one night with John Evan in an overbooked hotel in Vienna!\n\nFavourite Tull album you played on?\n\nThick As A Brick\n\n.\n\nPeter-John Vettese (keyboards, 1982-1989)\n\nBest thing about being in Tull?\n\nIt has to be dealing with Ian Anderson. From the time I joined the band, we had a gentleman’s agreement that he would ensure I always got publishing royalties for anything I had contributed to Tull songs. He told me this even before I knew what publishing was. And to this day he has kept his word. His influence on me, and his kindness, has probably been more than I deserve. His moral and ethical compass is unquestioned.\n\nFavourite Tull album you played on?\n\nThat’ll be\n\nThe Broadsword And The Beast\n\n, which is a good transitional album from where the band were to where we wanted to go.\n\nTony Iommi (guitar, 1968)\n\nBest thing about being in Tull?\n\nIan had great discipline, and was very professional in how he went about things. He put me on the right road and when I went back to Brum, I made sure\n\nBlack Sabbath\n\nbecame a lot more organised in everything we did.\n\nFavourite Tull album?\n\nThis Was.\n\nIt made me think about wanting to join the band.",
+      "tags": "Interviews Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T16:00:00+00:00",
+      "id": "9d16af9b8ef8b73dc34f2023768464a4ed9ec3e3",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "SHARON OSBOURNE: «Мы очень, очень-очень хотели, чтобы MEGADETH выступили на прощальном концерте Оззи»",
+      "link": "http://www.darkside.ru/news/184482/",
+      "rss_body": "SHARON OSBOURNE подтвердила, что организаторы прошлогоднего благотворительного концерта «Back To The Beginning» в Бирмингеме (Великобритания) «очень-очень хотели видеть MEGADETH» среди участников. Это шоу стало последним выступлением Оззи Осборна и BLACK SABBATH.\n\nЖена и менеджер Оззи упомянула коллектив Dave'а Mustaine'а, обсуждая концертный фильм «Ozzy & Black Sabbath: Back To The Beginning», который выйдет в кинотеатрах 28 октября. Картина студии Mercury Studios запечатлела прощальное шоу Оззи и его коллег по SABBATH, гитариста Tony Iommi, басиста Geezer'а Butler'а и барабанщика Bill'а Ward'а. Оно прошло в родном городе Оззи, на домашнем стадионе футбольного клуба Aston Villa, Villa Park, 5 июля 2025 года.\n\nВ программе были и сольные сеты Оззи, и воссоединение оригинального состава SABBATH впервые за более чем два десятилетия, а также длинный список артистов, на которых повлияли Оззи и остальные участники SABBATH. Ведущим вечера стал актёр Джейсон Момоа, а музыкальным руководителем — гитарист RAGE AGAINST THE MACHINE Tom Morello. Свои сеты сыграли ALICE IN CHAINS, ANTHRAX, GUNS N’ ROSES, LAMB OF GOD, MASTODON, METALLICA, PANTERA, SLAYER и TOOL. Среди специальных гостей были лидер SMASHING PUMPKINS Billy Corgan, барабанщик RED HOT CHILI PEPPERS Chad Smith, Sammy Hagar, вокалист AEROSMITH Steven Tyler, Yungblud, барабанщик BLINK-182 Travis Barker и многие другие.\n\nНа вопрос журнала Rolling Stone в новом интервью о том, какие трибьют-выступления произвели на неё впечатление, Sharon ответила:\n\n«Боже мой, было столько великолепных, великолепных выступлений. Это было просто потрясающе. Даже когда на сцене были барабанщики: Travis, Chad и Danny [Carey из TOOL]. В тот день всё было просто здорово. Без Tom'а Morello, без Andy Coppingа [промоутера Live Nation] этого бы никогда не случилось.\n\nTom Morello был абсолютным святым, и он невероятный человек, — продолжила она. — Его чувство музыки, чувство того, что правильно, а что неправильно, — он просто потрясающая личность. Ему нужна канонизация. Он святой металла. Он очень мудр и знает, о чём говорит, на самых разных уровнях.\n\nAndy Copping который тоже уже целую вечность рядом с нами, из Live Nation, — просто невероятный человек музыки, — добавила Sharon. — Нет ни одного коллектива в этом шоу, который не был бы другом Andy. Хотя он работает на Live Nation, огромную корпорацию, Andy Copping'а обожают все. Он один из самых известных промоутеров в мире. Он просто лучший».\n\nПосле того как журналист Rolling Stone заметил: «Вы собрали отличный состав», Sharon открыла секрет:\n\n«Мы очень-очень хотели MEGADETH. Времени не было, мы не могли уместить всех в один день. Планировалось так много коллективов, что мы просто не смогли: времени не хватило».\n\nСпустя пару недель после «Back To The Beginning» басист MEGADETH James LoMenzo заявил, что коллектив Dave'а Mustaine'а не приглашали к участию. Чарри Фольо, которая десять лет проработала под руководством Doc McGhee (BON JOVI, KISS) в артист-менеджерской компании McGhee Entertainment, опубликовала в Ёпплобук-группе «Back To The Beginning - Black Sabbath’s Final Concert» фрагмент интервью с LoMenzo. Она взяла его 9 июля 2025 года для японского журнала BURRN!. Фольо отметила, что трое из так называемой «большой четвёрки» трэш-металла 1980-х, то есть METALLICA, SLAYER и ANTHRAX, выступили на мероприятии, а MEGADETH нет. В ответ LoMenzo сказал:\n\n«Чарри, раскрою тебе секрет. Правда в том, что, по-моему, нас никто не звал, и это нормально. Не все получают приглашение на каждую вечеринку.\n\nНо в то же время, когда мы были в Европе на прошлой неделе, David сказал, что связывался со всеми и говорил, что мы неподалёку и достаточно близко, чтобы приехать. И если бы они захотели, мы могли бы задержаться на несколько дней и всё уладить... Если бы они захотели. Не знаю, чего добился с этим наш менеджер, но ничего не вышло, так что мы просто вернулись домой.\n\nТак что я понимаю, о чём ты [об отсутствии одного из участников „большой четвёрки“ на мероприятии]. Ещё до того, как всё началось, все спрашивали: „А что насчёт MEGADETH?“ Читать это было забавно, потому что никакого приглашения не было, никто ни с кем не разговаривал, мы вообще не имели ко всему этому никакого отношения. Это была интересная ситуация: мы чествовали Оззи [Осборна] на заслуженном отдыхе... Так или иначе, шоу было потрясающим! Я бы очень хотел там быть. Я знал об этом шоу за много месяцев.\n\nЯ записываюсь с Bill'ом Ward'ом [оригинальным барабанщиком BLACK SABBATH], — рассказал LoMenzo. — Он делает свою [новую сольную] пластинку, и время от времени мне поступает чудесный звонок от его ассистента Уолтера: „Bill'у очень хотелось бы, чтобы ты приехал и записал с ним песню“. Вы не представляете, как это звучит для моего мозга. Меня это выбивает из колеи, но я работаю с ним уже какое-то время.\n\nОн намекал мне на это шоу. Я спрашивал, разговаривал ли он с кем-нибудь из парней из BLACK SABBATH, и он отвечал, что говорит с Оззи каждый день, потому что тогда Оззи было нехорошо, так что мне было любопытно. Он сказал: „Кстати, похоже, мы можем дать прощальное шоу“. Так что он, очевидно, знал об этом ещё до объявления. Поэтому я был в восторге, когда всё воплотилось в жизнь: я знал, что для всех парней из BLACK SABBATH очень много значит присутствие Bill'а на сцене».\n\nВозвращаясь к отсутствию MEGADETH на мероприятии, James добавил:\n\n«Я не считаю это скандалом или чем-то подобным. Я знаю, что нас там заметно не хватало, но никого не приглашали».\n\nБывший басист MEGADETH David Ellefson, уволенный из коллектива в мае 2021 года, выступил на «Back To The Beginning» в составе первого из двух наспех собранных суперколлективов. На аншлаговом шоу, которое посетили 42 000 зрителей, он сыграл «The Ultimate Sin» (в компании Lzzy Hale, Nuno'а Bettencourt'а, Jake'а E. Lee, Mike'а Bordin'а и Adam'а Wakeman'а), «Shot In The Dark» (в компании David'а Draiman'а, Jake'а E. Lee, Mike'а Bordin'а и Adam'а Wakeman'а) и «Sweet Leaf» (в компании David'а Draiman'а, Nuno'а Bettencourt'а, Scott'а Ian'а, Mike'а Bordin'а и Adam'а Wakeman'а). Более пяти миллионов зрителей смотрели трансляцию концерта по запросу (VOD).\n\nВ прошлом году Sharon рассказала Billboard, что ей пришлось убрать из состава «Back To The Beginning» одно громкое имя, потому что этот артист «хотел получить прибыль» от события.\n\n«А сейчас не время извлекать прибыль, — добавила она. — После шоу я сообщу всем, кто это был. Думаю, люди будут шокированы».\n\nВ июне 2025 года Sharon рассказала журналу Metal Hammer, что поссорилась с менеджером одного из коллективов, которые изначально должны были выступить на «Back To The Beginning».\n\n«У меня была грандиозная, грандиозная разборка с одним менеджером из-за этого праздника в честь Оззи и SABBATH, — сказала она Metal Hammer. — И, наверное, хуже я себя не чувствовала за много лет. А мне плевать, что этот человек говорит обо мне и думает, потому что он меня не знает. И теперь он ходит и распространяет всякую чушь и враньё, потому что я вышвырнула его коллектив из программы».\n\nSharon не уточнила, какой именно коллектив она вычеркнула из списка, но сказала, что это был не IRON MAIDEN. Два десятилетия назад вокалист IRON MAIDEN Bruce Dickinson вступил в словесную перепалку с женой и менеджером Оззи, когда во время заключительного выступления хедлайнерского сета его коллектива на туре Ozzfest 2005 года в музыкантов летели яйца, зажигалки и лёд.\n\nС момента объявления «Back To The Beginning» в феврале 2025 года из состава не убирали никого, за исключением Wolfgang'а Van Halen'а, который не смог приехать из-за накладок в расписании. Поэтому считается, что загадочный коллектив был исключён ещё до объявления состава.\n\nДочь Оззи и Sharon Келли Осборн опровергла, что именно MEGADETH был тем коллективом, которого убрали из состава «Back To The Beginning». Под ин100грамм-постом, где предполагалось, что Sharon в интервью Metal Hammer имела в виду именно команду Mustaine'а, она написала: «Нет! Не он!»",
+      "tags": "",
+      "category": "Прогрессив",
+      "published": "2026-10-14T15:36:15+00:00",
+      "id": "1ea55febbf63d227af8fb20f6ef54e3593577afd",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "DREAM THEATER начали работу над альбомом",
+      "link": "http://www.darkside.ru/news/184484/",
+      "rss_body": "DREAM THEATER опубликовали фотографию всех участников в студии, снабдив её лаконичным комментарием: \"#DT17 is underway…\".",
+      "tags": "",
+      "category": "Прогрессив",
+      "published": "2026-10-14T15:10:03+00:00",
+      "id": "1353c7429f4358200e588fde1a879832df56c1c2",
+      "retry_after": 0
     }
   ]
 }
