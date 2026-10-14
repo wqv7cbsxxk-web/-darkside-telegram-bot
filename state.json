@@ -513,49 +513,17 @@
     "265a0954fd59a1c98242b0210e28cddb433dad9d",
     "cd592847afe9bc65337d0fe7cd1bedbcbb38fccf",
     "d64c50d8cb9d4b1b423a2bdc9ab8c8b3e0edb2e8",
-    "6b73b099e6e881f2466618be3dfc1a2be85b47fc"
+    "6b73b099e6e881f2466618be3dfc1a2be85b47fc",
+    "ba3159b07e9acfdff02f120c4636db3cdb4d2c1f",
+    "408de44324bf43ee6ce436cb930eca0d7e353693",
+    "d982e8b1a9a0317e48d7a0d6ca305bbbba50226b",
+    "e5255e7a04311b6c7a8d99259c89b4cc0a5946c2",
+    "6e2b0e14c7b0ac5521683560b32b5907c5b61fb9",
+    "93ef38647e85a4c52a6fd59da63bc9a55a86e692",
+    "d14bf2d5b671feb5a195e85195b31824fdfd6f9d",
+    "20c83d9caf02da4d71b0e2697d87c7c8acabb0d7"
   ],
   "recent_titles": [
-    {
-      "title": "Басист AMON AMARTH: «Мы медленно, но верно ползем на вершину»",
-      "source": "Darkside",
-      "ts": 1791184285
-    },
-    {
-      "title": "Названа причина смерти Фила Кэмпбелла",
-      "source": "Darkside",
-      "ts": 1791184286
-    },
-    {
-      "title": "DEREK RODDY выступил с ANTHRAX",
-      "source": "Darkside",
-      "ts": 1791184288
-    },
-    {
-      "title": "Видео с текстом от ALL SHALL PERISH",
-      "source": "Darkside",
-      "ts": 1791184289
-    },
-    {
-      "title": "DAVE GROHL присоединился на сцене к AC/DC",
-      "source": "Darkside",
-      "ts": 1791184391
-    },
-    {
-      "title": "Умерла Сасс Джордан",
-      "source": "Darkside",
-      "ts": 1791184393
-    },
-    {
-      "title": "Видео с выступления TWISTED SISTER",
-      "source": "Darkside",
-      "ts": 1791184395
-    },
-    {
-      "title": "Classic Rock Tracks Of The Week: October 5, 2026",
-      "source": "Louder",
-      "ts": 1791184420
-    },
     {
       "title": "Новое видео THY CATAFALQUE",
       "source": "Darkside",
@@ -1315,6 +1283,46 @@
       "title": "Tortured Demon Sign With BLKIIBLK, Debut “Apocalypse” Music Video",
       "source": "ThePRP",
       "ts": 1792006915
+    },
+    {
+      "title": "Fleshgod Apocalypse’s Francesco Paoli Shows Off His Newly Reconstructed Hand Following His Latest Transplant Surgery",
+      "source": "ThePRP",
+      "ts": 1792017666
+    },
+    {
+      "title": "New Vision Premiere “SPICE” Music Video",
+      "source": "ThePRP",
+      "ts": 1792017678
+    },
+    {
+      "title": "Steve Harris announces British Lion residency at historic London pub",
+      "source": "Louder",
+      "ts": 1792017689
+    },
+    {
+      "title": "The Sword’s New In-Studio Performance For KEXP Released",
+      "source": "ThePRP",
+      "ts": 1792017694
+    },
+    {
+      "title": "John 5 Featured In Newest Episode Of Ernie Ball’s ‘String Theory’ Series",
+      "source": "ThePRP",
+      "ts": 1792017703
+    },
+    {
+      "title": "Satanic Planet (Ex-Slayer/The Locust, Etc.) Debut “Antichrist” Short Film/Music Video",
+      "source": "ThePRP",
+      "ts": 1792017710
+    },
+    {
+      "title": "How Alter Bridge and Slash frontman Myles Kennedy learned to embrace rock stardom in his own way",
+      "source": "Louder",
+      "ts": 1792017815
+    },
+    {
+      "title": "BLACKGOLD Premiere “KILLAZ” Music Video Featuring Woes",
+      "source": "ThePRP",
+      "ts": 1792017823
     }
   ],
   "initialized_sources": [
@@ -3702,7 +3710,7 @@
       "title": "Ian Hill Recalls the Moment His Tendon Snapped in Brussels: “I Thought, ‘That’s It. That’s the End of It’”",
       "link": "https://metalinjection.net/news/ian-hill-recalls-the-moment-his-tendon-snapped-in-brussels-i-thought-thats-it-thats-the-end-of-it",
       "rss_body": "“I almost retired at the end of the last tour.”",
-      "tags": "Latest News Judas Priest Ian Hill",
+      "tags": "Latest News featured judas priest Ian Hill",
       "category": "Хэви-метал",
       "published": "2026-10-14T14:29:26+00:00",
       "id": "763e15189ce9457ccfc94db35b8bf0ab36b0b73c",
@@ -3786,7 +3794,7 @@
       "title": "Trivium Opens Up About Mental Health and the Story Behind ‘Crown in the Grave’ [Exclusive]",
       "link": "https://metalinjection.net/video/trivium-opens-up-about-mental-health-and-the-story-behind-crown-in-the-grave-exclusive",
       "rss_body": "It's as exclusive of an interview as it gets.",
-      "tags": "Trivium",
+      "tags": "Trivium featured2",
       "category": "Хэви-метал",
       "published": "2026-10-14T18:29:41+00:00",
       "id": "1834789368e897d2953ea559c83ebc82f22da77e",
@@ -3826,9 +3834,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T17:57:35+00:00",
       "id": "da54c390dba9c82017697add737a8bc2ac38399a",
-      "duplicate_ids": [
-        "64f7920494e048a67ccefb070bb29f1f28d40cdf"
-      ],
       "retry_after": 0
     },
     {
@@ -3961,6 +3966,66 @@
       "category": "Прогрессив",
       "published": "2026-10-14T15:10:03+00:00",
       "id": "1353c7429f4358200e588fde1a879832df56c1c2",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Dopethrone’s Early 2027 U.S. Tour To Feature Conjurer, -(16)- & Armed For Apocalypse",
+      "link": "https://www.theprp.com/2026/10/14/news/dopethrones-early-2027-u-s-tour-to-feature-conjurer-16-armed-for-apocalypse/",
+      "rss_body": "The 'Uniworse Tour' launches in January.",
+      "tags": "News -(16)- Armed For Apocalypse Conjurer Dopethrone",
+      "category": "Прогрессив",
+      "published": "2026-10-14T21:24:53+00:00",
+      "id": "972486952b431aa00f0eaba1c22e37f42e7ccbea",
+      "retry_after": 1792017999
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Official Ozzy Osbourne Jiu-Jitsu Gear & Streetwear Coming Via Half Sumo",
+      "link": "https://www.theprp.com/2026/10/14/news/official-ozzy-osbourne-jiu-jitsu-gear-streetwear-coming-via-half-sumo/",
+      "rss_body": "Launching next week.",
+      "tags": "News Ozzy Osbourne",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T20:39:15+00:00",
+      "id": "3b537699cc4914e67cdc01f3ae5fc1c7d75ff426",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "From First To Last Announce December Texan Tour With UnityTX, Rosasharin, Etc.",
+      "link": "https://www.theprp.com/2026/10/14/news/from-first-to-last-announce-december-texan-tour-with-unitytx-rosasharin-etc/",
+      "rss_body": "Houses We Die In will open the bill.",
+      "tags": "News From First To Last UnityTX",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T20:24:24+00:00",
+      "id": "bd449ac4d5082e66815c43147d1763e4a9a90675",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Primus, Clutch & Crowbar Added To 2027 ‘Sonic Temple’ Festival",
+      "link": "https://www.theprp.com/2026/10/14/news/primus-clutch-crowbar-added-to-2027-sonic-temple-festival/",
+      "rss_body": "A hefty addition.",
+      "tags": "News Crowbar Primus Sonic Temple Sonic Temple Art + Music Festival",
+      "category": "Хэви-метал",
+      "published": "2026-10-14T20:08:30+00:00",
+      "id": "79dd5307b144caddfe04d110e274dc1ed091710a",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "\"That spider was actively trying to kill me.\" Taylor Momsen on being bitten by a venomous brown recluse spider",
+      "link": "https://www.loudersound.com/bands-artists/the-pretty-reckless-taylor-momsen-on-being-bitten-by-a-venomous-spider-and-being-warned-she-could-lose-a-leg",
+      "rss_body": "Taylor Momsen\n\nhas spoken about her unfortunate and dangerous brushes with members of the animal kingdom during\n\nThe Pretty Reckless\n\n' support tour with AC/DC.\n\nEarlier this year, the 33-year-old singer spoke to\n\nMetal Hammer\n\nabout being bitten by a bat while performing onstage with her band at the Estadio La Cartuja on May 29, 2024, joking that \"It was a very cute bat, though.\"\n\nNow, in a new interview with YouTube personality\n\nRick Beato\n\n, The Pretty Reckless vocalist has spoken about her even more alarming encounter with a venomous brown recluse spider in Mexico earlier this year.\n\nPrior to her band's performance at Estadio GNP Seguros in Mexico City on April 7, Momsen was bitten on her lower right leg.\n\n\"So it wouldn’t be an AC/DC tour if I didn’t get bit…\" she later joked on Instagram. \"This time a massive spider decided to take a chunk out of me and its venom did a number on my system so had to have the wonderful doctors in Mexico come and deliver quite the shot before the show last night… add it to the list! Spider woman? Batgirl? WTF.\"\n\nIn another post, the singer displayed the marks on her leg, and wrote, \"Poisonous spiders are NO BUENO 🕷️🕷️but the show must go on.\"\n\nA post shared by Taylor Momsen (@taylormomsen)\n\nA photo posted by\n\nAs she reveals to Rick Beato though, there was nothing funny about the spider bite, as much as she bravely played it down at the time, and that she was initially misdiagnosed as simply having an allergic reaction.\n\n\"I ended up, the last night of the tour in Mexico City in the hospital, hooked up to IVs with the strongest antibiotics you can possibly get getting pumped through my system, with the hospital telling me I cannot leave and they had to admit me for 5 days, or I was going to lose my leg,\" she told the podcast host. \"To which I turned to the doctor and I said, Doc, I got a show in a few hours, so I need a plan B. And he goes, 'You're not gonna make that show.' And I said, \"Doc, how do I make this clear to you? I'm leaving this hospital, and I would really like to keep my leg, so I need a plan B. Don't recommend that.... that spider was just actively trying to kill me.\"\n\nWatch Momsen's full interview with Rick Beato below.",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-14T20:00:00+00:00",
+      "id": "487d1fa8f4f2be3f600f01afb97e9a3e2689657e",
       "retry_after": 0
     }
   ]
