@@ -1,6 +1,603 @@
 {
   "articles": [
     {
+      "id": "904893da9741cb7b5c92448992c0ff16039483fe",
+      "title": "Новое видео BONEYARD",
+      "short": "\"Hanging Tree\", новое видео группы BONEYARD, доступно для просмотра ниже. Эта песня взята из альбома Black Static, выходящего 23 октября: “Met You In A Dream”",
+      "paragraphs": [
+        "\"Hanging Tree\", новое видео группы BONEYARD, доступно для просмотра ниже. Эта песня взята из альбома Black Static, выходящего 23 октября:",
+        "“Met You In A Dream”",
+        "“Left Me To Drown”",
+        "“Ready For A Change”",
+        "“Not This Way (Joel’s Song)”",
+        "“Blood In The Bond”",
+        "“Before The Fall”",
+        "“Hanging Tree”",
+        "“Compass Points To War”",
+        "“Before The Fall” (Piano Rendition)"
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-10-15T12:57:27+00:00",
+      "original_url": "http://www.darkside.ru/news/184496/",
+      "saved_at": 1792059837,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/22253/n184496.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/22253/n184496.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [],
+      "original_title": "Новое видео BONEYARD",
+      "topics": [
+        "releases"
+      ],
+      "media_checked_at": 1792059890
+    },
+    {
+      "id": "c7bf602df01e9ba89d87fdbad29233cb9b22de95",
+      "title": "Новое видео LAZARUS EFFECT",
+      "short": "“Fear No Evil”, новое видео группы LAZARUS EFFECT, основанной бывшим басистом SYMPHONY X Thomas'ом Miller'ом, доступно для просмотра. Этот трек взят из альбома, выход которого запланирован на 30 октября на Sensory Records: “Dark Horse”",
+      "paragraphs": [
+        "“Fear No Evil”, новое видео группы LAZARUS EFFECT, основанной бывшим басистом SYMPHONY X Thomas'ом Miller'ом, доступно для просмотра. Этот трек взят из альбома, выход которого запланирован на 30 октября на Sensory Records:",
+        "“Dark Horse”",
+        "“Fear No Evil”",
+        "“All The King’s Horses”",
+        "“Closer To The Sun”",
+        "“Aria Etude” (bonus track)",
+        "“When Darkness Falls”",
+        "“Culmination”",
+        "“Sailing To Utopia”",
+        "Pt 1: In The Palace Of Knossos",
+        "Pt 2: Thunder’s Majesty",
+        "Pt 3: Judging The Darkness",
+        "Pt 4: ‘Neath The Heel Of Mayhem",
+        "Pt 5: Return"
+      ],
+      "category": "Прогрессив",
+      "source": "Darkside",
+      "published": "2026-10-15T12:20:21+00:00",
+      "original_url": "http://www.darkside.ru/news/184497/",
+      "saved_at": 1792059839,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/30580/n184497.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/30580/n184497.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [
+        {
+          "id": "mayhem",
+          "name": "Mayhem"
+        },
+        {
+          "id": "symphony-x",
+          "name": "Symphony X"
+        }
+      ],
+      "original_title": "Новое видео LAZARUS EFFECT",
+      "topics": [
+        "releases"
+      ],
+      "media_checked_at": 1792059891
+    },
+    {
+      "id": "35be0d8f27f47044e786fc96ae1014fdb166cee7",
+      "title": "SLASH о будущих выступлениях с AEROSMITH",
+      "short": "SLASH недавно был гостем программы Trunk Nation, в рамках которой его спросили о будущих выступлениях с AEROSMITH, которые состоятся 29 октября и первого ноября в Hollywood Bowl: Eddie: «Выступление AEROSMITH в Hollywood Bowl анонсировали очень быстро, всего за пару недель, и, знаешь, я большой поклонник AEROSMITH.",
+      "paragraphs": [
+        "SLASH недавно был гостем программы Trunk Nation, в рамках которой его спросили о будущих выступлениях с AEROSMITH, которые состоятся 29 октября и первого ноября в Hollywood Bowl:",
+        "Eddie: «Выступление AEROSMITH в Hollywood Bowl анонсировали очень быстро, всего за пару недель, и, знаешь, я большой поклонник AEROSMITH. Знаю, что ты тоже. А GUNS N’ ROSES, по сути, единственный крупный коллектив на этой афише, набранный крупным шрифтом. Так что именно вы собираетесь делать? И вы играете на обоих шоу или только на одном? Потому что я знаю, что не все участвуют в обоих».",
+        "Slash: «Насколько мне известно, мы играем оба шоу. У нас есть, ну, своего рода мини-сет-лист, более-менее намеченный для каждого вечера. Я очень жду этого.",
+        "Когда я впервые услышал об этом событии, а было это несколько месяцев назад, и тогда я собирался просто выйти и поджемовать с кем-нибудь, примерно как на «Back To The Beginning». Но потом всё в итоге превратилось в историю GUNS N’ ROSES. Песни, которые мы будем играть, у нас уже есть, но что представляет собой вся остальная постановка, я пока не знаю. Всё делается в последнюю минуту, на бегу».",
+        "Eddie: «Да, потому что сначала это анонсировали как выступление только тебя и Duff'а, а потом это стал весь коллектив. Вы будете играть только песни AEROSMITH или и песни GUNS N' ROSES?»",
+        "Slash: «Не хочу говорить, потому что будет что-то одно из двух. Песни AEROSMITH мы точно сыграем, и, я думаю, они захотят, чтобы мы исполнили хотя бы парочку своих, но мы пока толком не обсуждали это. Так что всё придёт, будет как будет».",
+        "Eddie: «А есть ли хоть одна песня AEROSMITH, которую ты хотел бы сыграть больше всего, учитывая, что ты такой же огромный фанат, как и я?»",
+        "Slash: «Песню, которую я хотел бы сыграть больше всего, я называть не буду, но, похоже, мы её играем».",
+        "Eddie: «О, ну всё! Это наверняка с «Rocks». Скажи, что с «Rocks»».",
+        "Slash: «Знаешь что, Eddie? Прекрати».",
+        "Более пяти десятилетий AEROSMITH определяют звук, сырой дух и бунтарский настрой американского рок-н-ролла. От бостонского прорыва до Super Bowl коллектив воплощает собой сбывшуюся мечту рок-н-ролла. Теперь, в триумфальном и долгожданном возвращении, легендарные рок-титаны вновь вместе выйдут на сцену. Это грандиозное событие отметит выдающуюся карьеру коллектива, его вечный каталог и непревзойдённое мировое влияние в компании ошеломляющего состава других легендарных артистов.",
+        "Эта эпическая церемония обладает звёздной мощью, на которую способны только AEROSMITH, и соберёт электризующий межжанровый лайнап суперзвёзд, каждая из которых — определяющая сила в своей области. Охватывая рок, кантри, хип-хоп и альтернативную музыку, в состав входят THE BLACK CROWES, RUN DMC, HEART, Andrew Watt, Billy Idol, Chad Smith (RHCP), Duff McKagan (GN’R), Eric Church, Jerry Cantrell (ALICE IN CHAINS), Marcus King, Mike Inez (ALICE IN CHAINS), Nuno Bettencourt (EXTREME), Pat Monahan (TRAIN), Sammy Hagar, Slash (GN’R), Steve Stevens, Sully Erna (GODSMACK), Tom Morello, Adam Wakeman, Audley Freed, Kenny Aronoff и другие. Всех их объединяет легендарный Don Was в роли музыкального руководителя.",
+        "Этот звёздный список сводит вместе культовых артистов, которые ранее выступали или записывались с AEROSMITH, и новую волну звёзд, называющих коллектив среди главных своих музыкальных влияний. В ближайшие недели будут объявлены ещё артисты, специальные гости и сюрпризы, что обещает незабываемые коллаборации и неожиданные моменты в обе ночи. Состав будет меняться от вечера к вечеру. Окончательные составы на каждый вечер объявят в день шоу или незадолго до начала, и они могут измениться.",
+        "От «Dream On», «Sweet Emotion» и «Walk This Way» до «Janie’s Got A Gun», «Crazy», «Cryin’» и «I Don’t Want To Miss A Thing» каталог AEROSMITH стал определяющим элементом современной музыкальной культуры, а его влияние простирается на рок, поп, хип-хоп и блюз. Эти долгожданные выступления станут возвращением AEROSMITH на сцену и подарят поклонникам редкую возможность вновь увидеть коллектив вместе и ощутить безошибочную химию и сценическое присутствие, определявшие их живые шоу более пяти десятилетий."
+      ],
+      "category": "Хард-рок",
+      "source": "Darkside",
+      "published": "2026-10-15T11:23:09+00:00",
+      "original_url": "http://www.darkside.ru/news/184498/",
+      "saved_at": 1792059841,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/32/n184498.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/32/n184498.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [
+        {
+          "id": "aerosmith",
+          "name": "Aerosmith"
+        },
+        {
+          "id": "alice-in-chains",
+          "name": "Alice In Chains"
+        },
+        {
+          "id": "guns-n-roses",
+          "name": "Guns N’ Roses"
+        },
+        {
+          "id": "tom-morello",
+          "name": "Tom Morello"
+        }
+      ],
+      "original_title": "SLASH о будущих выступлениях с AEROSMITH",
+      "topics": [
+        "live"
+      ],
+      "media_checked_at": 1792059893
+    },
+    {
+      "id": "5c00752dbc898b1587c702210cfde374ae9e63d6",
+      "title": "Новое видео FORGOTTEN TALES",
+      "short": "“A Thousand Lies”, новое видео группы FORGOTTEN TALES, доступно для просмотра ниже. Эта песня взята из альбома Other Times, выходящего двенадцатого февраля на Rockshot Records: “Echoes”",
+      "paragraphs": [
+        "“A Thousand Lies”, новое видео группы FORGOTTEN TALES, доступно для просмотра ниже. Эта песня взята из альбома Other Times, выходящего двенадцатого февраля на Rockshot Records:",
+        "“Echoes”",
+        "“Pessimus Inimicus”",
+        "“A Thousand Lies”",
+        "“No Going Back”",
+        "“I’ll Be Home”",
+        "“Pain Of The Century”",
+        "“Your Knight”",
+        "“Morpheus”",
+        "“Other Times”",
+        "“The Caravan”",
+        "Вместо одной сквозной истории «Other Times» рассматривает разные стороны человеческого опыта и то, как люди реагируют на трудности и перемены. В десяти композициях FORGOTTEN TALES касаются внутренних конфликтов, тревожности, бессонницы, верности, утрат, дезинформации и упущенных возможностей, а также более широких размышлений об эволюции человечества. Общей нитью через эти разные темы проходят стойкость, личностный рост и течение времени. Именно эта мысль в итоге и вдохновила название альбома.",
+        "Основы традиционного пауэр-металла остаются на месте: быстрые риффы, двойная бас-бочка, многослойные хоры и мелодичные хуки. При этом тонкие прогрессивные штрихи добавляют аранжировкам разнообразия, не нарушая непосредственного характера пластинки, а современное звучание придаёт игре чёткость и мощь.",
+        "В центре записи — вокалистка Sonia Pineault, чьё исполнение естественно перетекает от более мощных моментов к камерным. Мелодичная, выразительная манера наделяет каждую песню собственным эмоциональным характером, а дополняет её гитарное взаимодействие Martin'а Desharnais'а и Marc-Olivier'а Lavoie'а.",
+        "Первый сингл «A Thousand Lies» собирает многие из этих элементов в стремительной композиции в духе симфонического пауэр-металла, построенной на скачущих ритмах, хоровых акцентах, гармониях двух гитар и взмывающем припеве. Более мрачные, скоростные куплеты и циничная подача вокалистки придают песне остроту, а сложные гитарные переклички и выразительное соло Martin'а Desharnais'а подчёркивают её мелодическую сторону.",
+        "За этой энергией скрывается предостережение о дезинформации и постепенной утрате критического мышления. Текст задаётся вопросом, как легко непроверенные утверждения принимаются на веру и распространяются дальше. Часть ответственности он возвращает самому человеку, вместо того чтобы изображать манипуляцию лишь внешней силой. Эту мысль подытоживает финальное предупреждение песни: «Careful where you stand».",
+        "Гитарист и автор песен Martin Desharnais поясняет:",
+        "«Я писал эту песню, думая обо всём, что творилось во время COVID. Весь мир перевернулся с ног на голову, и люди просто не знали, за что держаться.",
+        "Хотя тема тяжёлая, мне реально хотелось сохранить запоминающийся настрой, почти ироничный, циничный. Это злой трек, но поданный с острой долей сарказма.",
+        "В музыкальном плане я хотел направить эту энергию в быстрые куплеты, большие гармонии двух гитар и мощный припев, который застревает в голове. Он агрессивный, он мелодичный, и он представляет именно ту энергию, которую мы хотели вывести на первый план».",
+        "С «Other Times» FORGOTTEN TALES возвращаются после долгого отсутствия с альбомом, который остаётся верен музыкальной идентичности коллектива, не сводясь к простому взгляду в прошлое. Десять треков объединяют энергию классического пауэр-металла и авторский взгляд, сформированный временем, опытом и переменами."
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-10-15T10:41:08+00:00",
+      "original_url": "http://www.darkside.ru/news/184377/",
+      "saved_at": 1792059842,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/3039/n184377.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/3039/n184377.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [],
+      "original_title": "Новое видео FORGOTTEN TALES",
+      "topics": [
+        "releases"
+      ],
+      "media_checked_at": 1792059894
+    },
+    {
+      "id": "e3d9b7bd494d1fb6e245d703a30daf59589967c6",
+      "title": "Смотреть Tetrarch Diamond Rowe shred Metallica перед 70 000 болельщиков НФЛ",
+      "short": "Diamond Rowe, гитаристка из Атланты, штат Джорджия, ню-металлическая четверка Tetrarch, в воскресенье вечером (11 октября) получила приглашение выступить перед 70 000 человек на своем родном футбольном стадионе. Выйдя на поле на стадионе Mercedes-Benz перед воскресным футбольным матчем НФЛ между «Атланта Фальконс» и «Балтимор Рейвенс», Даймонд сыграл особое исполнение…",
+      "paragraphs": [
+        "Diamond Rowe, гитаристка из Атланты, штат Джорджия, ню-металлическая четверка Tetrarch, в воскресенье вечером (11 октября) получила приглашение выступить перед 70 000 человек на своем родном футбольном стадионе.",
+        "Выйдя на поле на стадионе Mercedes-Benz перед воскресным футбольным матчем НФЛ между «Атланта Фальконс» и «Балтимор Рейвенс», Даймонд сыграл особое исполнение отличительной черты. Metallica гимн Enter Sandman , обеспечивая идеальный момент полного круга для гитариста, который не только вырос в городе, но и на самом деле смотрел Metallica Они играют на том же стадионе во время мирового турне M72 только в прошлом году.",
+        "«Что довольно безумно, так это то, что NFL / Falcons связались со мной по этому поводу из ниоткуда», — говорит Даймонд. Hammer . Очевидно, они слышали обо мне и группе в прошлом году и пытались найти идеальную игру для меня. Это безумие, что они остановились на воскресном футбольном матче, но я был так польщен. Я также первый артист, которому \"Соколы\" позволили выйти из туннеля игроков, что еще хуже!",
+        "«Учитывая, что они построили этот стадион после того, как я переехала в Лос-Анджелес, я только когда-либо была в нем в другой раз, и это было увидеть Metallica». Быть приглашенным вернуться и играть на том же стадионе, полном 70 000 человек, и быть в состоянии отдать дань уважения Metallica - группе, которая начала все это для меня - это просто безумный момент полного круга. Я всегда буду благодарен НФЛ и Фальконам за то, что они попросили меня стать частью чего-то особенного».",
+        "Смотрите видеозапись выступления Даймонда ниже.",
+        "A post shared by Diamond Rose Rowe (@tetrarchdiamond)",
+        "К сожалению для товарищей Даймонда по «Атлантам», «Соколы» не смогли преодолеть «Вороны», отставая в овертайме, чтобы потерпеть поражение с окончательным счетом 30-23 в пользу Балтимора.",
+        "Несмотря на это, Diamond теперь сосредоточится на следующих шагах Tetrarch, и группа планирует выпустить новый студийный альбом в 2027 году.",
+        "Мы возвращаемся в студию через две недели, чтобы поработать над новой музыкой. \"Все звучит убийственно! Мы надеемся, что скоро у всех будет что-то новое, но кроме этого, мы сделаем как можно больше туров в 2027 году. У нас есть много классных объявлений, которые появятся в ближайшие недели\".",
+        "Мерлин был назначен исполнительным редактором Louder в начале 2022 года, после более чем десяти лет работы в Metal Hammer. Находясь там, он работал онлайн-редактором и заместителем редактора, а затем был повышен до редактора в 2016 году. До прихода в Metal Hammer, Мерлин работал помощником редактора в журнале Terrorizer и писал для Classic Rock, Rock Sound, eFestivals и других. На протяжении всей своей карьеры он брал интервью у легенд, включая Ozzy Osbourne, Lemmy, Metallica, Iron Maiden (включая поездку на Ed Force One от Брюса Дикинсона), Guns N' Roses, KISS, Slipknot, System Of A Down и Meat Loaf. Он также представил и спродюсировал подкаст Metal Hammer, представил Metal Hammer Radio Show и, вероятно, отвечает за 90% всего контента, связанного с металлом, попадающего на сайт."
+      ],
+      "category": "Хэви-метал",
+      "source": "Louder",
+      "published": "2026-10-15T10:00:00+00:00",
+      "original_url": "https://www.loudersound.com/bands-artists/live-performances/tetrarch-diamond-atlanta-falcons-metallica",
+      "saved_at": 1792059857,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/FcS67QiaE7qX7pCaVfnTQG-1280-80.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/FcS67QiaE7qX7pCaVfnTQG.jpg",
+          "caption": "Diamond Rowe playing guitar next to a man dressed as a giant falcon"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/yUkhaaUNdkW3xGTvPihniP.jpg",
+          "caption": "Evanescence in 2026 and Metallica in 2026"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/yvHAdZiqaYC8UqkznUjEFS.jpg",
+          "caption": "Nene Royal and Avenged Sevenfold"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/UokoasnQzCwLew6gckMmxU.jpg",
+          "caption": "Metallica’s band logo projected onto the Las Vegas sphere"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/U9d8Ptp23cKgCNTHdwvNt6.jpg",
+          "caption": "James Hetfield (Metallica) / Johannes Eckerstrom (Avatar)"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/SJynHHFS2h3niwXxtcCU9S.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/iDPf9BXSeGnhmRMJ6pygQZ.jpg",
+          "caption": "Deftones at APE /Outbreak"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/NZ5GuXyuY9Jtqnrx4GxaeQ.jpg",
+          "caption": "Def Leppard take a bow onstage"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/gxy93MYZPsbv4ncRx7QUN9.jpg",
+          "caption": "Ritchie Blackmore attacks his amp with his guitar onstage at the 1974 California Jam"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/SxHyZ6BYGjshcXizgyZZDA.jpg",
+          "caption": "Jack Black onstage"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/HPUZ4BJgZSHvYReMGwNCBS.jpg",
+          "caption": "James Hetfield onstage at Sphere"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/DAAXDtoZboTdFXZt6bfvaJ.jpg",
+          "caption": "Metallica’s James Hetfield performing onstage in 2025"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/WnqmyFnodSAkp3yeHP3puf.jpg",
+          "caption": "Floor Jansen onstage in 2026"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/8QiGDySuBFzJvXH4QWYXUT.jpg",
+          "caption": "Nikki Sixx onstage"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/LHuEKrn8gGZcQBxyDnBSQd.jpg",
+          "caption": "British Lion group portrait"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/Q26nycXWd7DkVc6TN6riBL.png",
+          "caption": "Pavlov&#039;s Dog singer David Surkamp"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/tR8YdxbEFbhdK4zDnhNThc.jpg",
+          "caption": "The Rolling Stones"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/FzqgCGJoHmKkXQd4wE6vVm.jpg",
+          "caption": "Taylor Momsen"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/YnpGcsnUVwVYmzKAoPWrsT.jpg",
+          "caption": "The velvet-voiced symphonic metal singer details the soundtrack of her life"
+        }
+      ],
+      "original_paragraphs": [
+        "Diamond Rowe , guitarist of Atlanta, Georgia nu metal four-piece Tetrarch , got to tick off one hell of a bucketlister on Sunday night (October 11), as she was invited to perform in front of 70,000 people at her hometown football stadium.",
+        "Taking to the pitch at the Mercedes-Benz Stadium ahead of the NFL Sunday night football game between the Atlanta Falcons and Baltimore Ravens, Diamond played a special rendition of hallmark Metallica anthem Enter Sandman , providing a perfect full circle moment for the guitarist, who not only grew up in the city, but actually watched Metallica themselves play that very same stadium on their M72 world tour only last year.",
+        "\"What’s pretty crazy is that the NFL / Falcons contacted me about it out of the blue,\" Diamond tells Hammer . \"Apparently they heard about me and the band last year and had been trying to find the perfect game to have me out for. It’s crazy that they settled on a Sunday Night Football game but I was so honoured. I’m also the first artist that the Falcons have allowed to walk out of the players tunnel, which is even sicker!",
+        "\"Considering they built that stadium after I moved to LA, I have only ever been in it one other time and that was to see Metallica,\" she continues. \"Being invited to come back and play in that same stadium full of 70,000 people and being able to pay homage to Metallica - the band that started it all for me - is just an insane full circle moment. I will forever be thankful to the NFL and Falcons for asking me to be a part of something so special.\"",
+        "Watch footage of Diamond's performance below.",
+        "A post shared by Diamond Rose Rowe (@tetrarchdiamond)",
+        "Sadly for Diamond's fellow Atlantans, the Falcons were unable to overcome the Ravens, falling behind in overtime to suffer defeat with a final score of 30-23 in Baltimore's favour.",
+        "Regardless, Diamond will now be focusing on Tetrarch's next steps, with the band aiming to have a brand new studio album out in 2027.",
+        "\"We actually go back into the studio in two weeks to work on some new music,\" she reveals. \"Everything is sounding killer! We're hoping to have something new out for everyone soon, but other than that, we'll do as much touring as we can in 2027. We have a lot of cool announcements coming in the coming weeks.\"",
+        "Merlin was promoted to Executive Editor of Louder in early 2022, following over ten years working at Metal Hammer. While there, he served as Online Editor and Deputy Editor, before being promoted to Editor in 2016. Before joining Metal Hammer, Merlin worked as Associate Editor at Terrorizer Magazine and has written for Classic Rock, Rock Sound, eFestivals and others. Across his career he has interviewed legends including Ozzy Osbourne, Lemmy, Metallica, Iron Maiden (including getting a trip on Ed Force One courtesy of Bruce Dickinson), Guns N' Roses, KISS, Slipknot, System Of A Down and Meat Loaf. He has also presented and produced the Metal Hammer Podcast, presented the Metal Hammer Radio Show and is probably responsible for 90% of all nu metal-related content making it onto the site."
+      ],
+      "content_complete": true,
+      "artists": [
+        {
+          "id": "guns-n-roses",
+          "name": "Guns N’ Roses"
+        },
+        {
+          "id": "iron-maiden",
+          "name": "Iron Maiden"
+        },
+        {
+          "id": "metallica",
+          "name": "Metallica"
+        },
+        {
+          "id": "ozzy-osbourne",
+          "name": "Ozzy Osbourne"
+        },
+        {
+          "id": "system-of-a-down",
+          "name": "System Of A Down"
+        },
+        {
+          "id": "terrorizer",
+          "name": "Terrorizer"
+        }
+      ],
+      "original_title": "Watch Tetrarch's Diamond Rowe shred Metallica in front of 70,000 NFL fans",
+      "topics": [],
+      "media_checked_at": 1792059895
+    },
+    {
+      "id": "a0678733ee215f88560d59c2d0fa82fbd4a8c00e",
+      "title": "Новое видео PALAYE ROYALE",
+      "short": "Lost In Translation, новое видео PALAYE ROYALE, доступно для просмотра",
+      "paragraphs": [
+        "Lost In Translation, новое видео PALAYE ROYALE, доступно для просмотра"
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-10-15T09:57:04+00:00",
+      "original_url": "http://www.darkside.ru/news/184501/",
+      "saved_at": 1792059858,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/21708/n184501.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/21708/n184501.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [],
+      "original_title": "Новое видео PALAYE ROYALE",
+      "topics": [
+        "releases"
+      ],
+      "media_checked_at": 1792059896
+    },
+    {
+      "id": "3fbef7bc15ec8fe1ee11f525c39e48b4439bfc22",
+      "title": "Новое видео PaleNeØ",
+      "short": "MADVENTURE, новое видео PaleNeØ, доступно для просмотра",
+      "paragraphs": [
+        "MADVENTURE, новое видео PaleNeØ, доступно для просмотра"
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-10-15T09:13:57+00:00",
+      "original_url": "http://www.darkside.ru/news/184505/",
+      "saved_at": 1792059859,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/28373/n184505.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/28373/n184505.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [],
+      "original_title": "Новое видео PaleNe&#216;",
+      "topics": [
+        "releases"
+      ],
+      "media_checked_at": 1792059897
+    },
+    {
+      "id": "4b22ca0f5425c795127a6c623273b844233c9ea7",
+      "title": "Бывшая Nightwish Певица Floor Jansen на своем худшем альбоме — и прог-металл, который заставляет ее плакать",
+      "short": "За 14 лет работы в Nightwish Floor Jansen стала лицом симфонического металла. Она руководила финской театральностью для трех альбомов, прежде чем внезапно расстаться с ними на этой неделе; она также начала сольную карьеру в своем собственном праве (начиная с альбома 2023 года Paragon и продолжая со следующего января Hytress) и сотрудничала со многими звездами тяжелой…",
+      "paragraphs": [
+        "За 14 лет работы в Nightwish Floor Jansen стала лицом симфонического металла. Она руководила финской театральностью для трех альбомов, прежде чем внезапно расстаться с ними на этой неделе; она также начала сольную карьеру в своем собственном праве (начиная с альбома 2023 года Paragon и продолжая со следующего января Hytress) и сотрудничала со многими звездами тяжелой музыкальной вселенной. В 2023 году сестра певицы Hammer mag Classic Rock усадила певицу, чтобы открыть для себя музыку, которая сформировала ее, с первого альбома, который она когда-либо слышала, до ее виновного удовольствия и ее культового героя.",
+        "Я не из тех людей, у которых хорошая память о детстве, хотя у меня было отличное детство. Но первая группа, которая приходит на ум, это The Beatles; мой папа играл много The Beatles, особенно по выходным, в воскресенье. Я помню песню Honey Pie . Я не мог понять этого, будучи ребенком. Это не здорово, но это определенно запоминается!",
+        "Когда мне было около тринадцати или четырнадцати лет, я присоединился к мюзиклу средней школы Joseph And The Amazing Technicolor Dreamcoat. Это была не одна песня, это был мюзикл. Я поделилась ролью рассказчика с двумя другими девушками. После этого меня продали — вот что я хотел сделать. Мне нравится эта музыка, но мюзиклы часто слишком сладки для моих вкусов, даже тогда. The Phantom Of The Opera, Jekyll & Hyde Они немного темнее.",
+        "Я играю с ним в группе: это Emppu [Vuorinen, Nightwish гитарист]. Он потрясающий гитарист, но ему не нужно заполнять каждый пробел в песне бессмысленными нотами. Он действительно сохраняет атмосферу [песен]. То, что он играет в Sleeping Sun, прекрасно.",
+        "Она полностью выпадает из спектра рока и металла, но если есть одна певица, которая бесконечно удивляет меня своим звучанием, это Селин Дион. Я нахожу ее музыку абсолютно сырной бомбой, но это слишком плохо, потому что я люблю ее голос. Вы можете почувствовать, что она поет.",
+        "Туомас [Холопайнен, Nightwish]. Я не знаю никого, кто мог бы писать так, как он. Он писал музыку в течение двадцати пяти лет, в его группе было три разных певца, и до сих пор Nightwish является одной из самых больших групп. Это говорит о том, насколько хороши песни. У меня есть особая любовь к Ghost Love Score, которая является супер-странной песней, она длится десять минут, но по какой-то причине она разговаривает с таким количеством людей.",
+        "Они так окрашены во времени. Мне 42 года, поэтому то, что я считал лучшим в 16 лет, теперь не будет прежним. Я никогда не смогу ответить на этот вопрос.",
+        "Я посмотрю, есть ли что-то, что я слушаю, что люди могут подумать странным. Один из моих участников группы любит дискотеку девяностых, и это так далеко от того, что мы делаем, но у меня нет ничего подобного. Мне нравится слушать музыку к фильмам, когда я читаю книги. Обычно инструментальный. Музыка зависит от того, что это за книга, потому что вы все еще соединяете ее вместе. Я слушал музыку из Inception, когда читал сериал Стивена Кинга Dark Tower. Есть части книги, которые действительно соединяются с частями музыки.",
+        "Вы вкладываете столько любви и энергии в каждую песню, что в тот момент, когда вы выпускаете альбом, это лучшее, что вы когда-либо делали. Это всегда так, потому что вы вкладываете все, что вы узнали, все навыки, которые у вас есть, все, что вы есть, в свою последнюю работу. Так что для меня это будет Paragon, потому что это последнее, что я сделал.",
+        "Вероятно, первый [Prison Of Desire от After Forever]. Мне было 18 лет, когда я записывал его, поэтому мы ничего не знали о написании, о записи, о пении. Но твой первый - твой первый. И это также делает его очень, очень особенным.",
+        "Музыка заставляет меня плакать! Мои эмоции очень близки к поверхности. Песня Heartless из альбома Evergrey. Просто некоторые вещи в его лирике, которые выражены очень красиво.",
+        "Аннеке ван Гирсберген. Когда я услышала по радио Strange Machines, а затем пошла на концерт, для меня она была как абсолютный образец для подражания. Чтобы петь так в метал-группе, она заставила меня тоже захотеть это сделать. И мне понравилось, как она это сделала, ее звучание и исполнение, и то, что она была свирепой женщиной среди мужчин.",
+        "Во время пандемии я начал делать кавер-версии песен, а некоторые из моих любимых я выложил на YouTube. Это была моя единственная связь с внешним миром. У меня есть маленькая дочь, и очень трудно обойти [фильм] Frozen. Так что я сделал Let It Go. Забавно петь. Я хотел придать ему зрелый звук, металлический поворот.",
+        "Я еще не думал об этом, если честно. Я пересечу этот мост, когда доберусь туда. Я только что перенесла рак, поэтому я больше думаю о выживании.",
+        "Первоначально опубликовано в 2023 году. Новый сольный альбом Floor, Hytress, выйдет 15 января.",
+        "Hannah May Kilroy профессионально пишет о музыке уже более десяти лет, охватывая все, от экстремального металла до кантри. Она была заместителем редактора журнала Prog более пяти лет и ранее работала в редакционных группах в Terrorizer и Kerrang!. В настоящее время она работает редактором The Art Newspaper, а также пишет для Guardian, Classic Rock и Metal Hammer."
+      ],
+      "category": "Прогрессив",
+      "source": "Louder",
+      "published": "2026-10-15T08:53:59+00:00",
+      "original_url": "https://www.loudersound.com/features/ex-nightwish-singer-floor-jansen-soundtrack-of-life",
+      "saved_at": 1792059888,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/YnpGcsnUVwVYmzKAoPWrsT-1280-80.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/YnpGcsnUVwVYmzKAoPWrsT.jpg",
+          "caption": "Floor Jansen in 2026"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/b5iZW9TMgSWrCk5MChwwoh.jpg",
+          "caption": "A divider for Metal Hammer"
+        },
+        {
+          "type": "image",
+          "url": "https://img.youtube.com/vi/UGfKMV5AbMI/maxresdefault.jpg",
+          "caption": "Nightwish - Sleeping Sun (OFFICIAL VIDEO) - YouTube"
+        },
+        {
+          "type": "image",
+          "url": "https://img.youtube.com/vi/yZQ1o80Kt_Y/maxresdefault.jpg",
+          "caption": "Floor Jansen - My Paragon (Official Video) - YouTube"
+        },
+        {
+          "type": "image",
+          "url": "https://img.youtube.com/vi/RapU98PV8QI/maxresdefault.jpg",
+          "caption": "Heartless - YouTube"
+        },
+        {
+          "type": "image",
+          "url": "https://img.youtube.com/vi/18s6ZdvAfQk/maxresdefault.jpg",
+          "caption": "Let It Go - Frozen (cover by Floor Jansen) - YouTube"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/qeRZiaJfpo8oXw5vnwfSoU.jpg",
+          "caption": "Tarja Turunen"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/tQkwdabPwCG4bS45RVK6kZ.jpg",
+          "caption": "Floor Jansen and Tuomas Holopainen of Nightwish"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/9kvgNpEqvmEPSPGPUe8SLn.jpg",
+          "caption": "Amy Lee onstage"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/U74hf6sGJJd2ssaV8oXtXC.jpg",
+          "caption": "Tarja Turunen 2026"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/Kjy3itfun87FQFzBv7Ey3W.jpg",
+          "caption": "As Everything Unfolds in 2026, with a picture of Hayley Williams in 2007 in-set"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/wKEbaxWczfgUjyD7tdh59j.jpg",
+          "caption": "Evanescence’s Amy Lee posing for a photograph in 2006"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/kKtpPDveKhCqhGkvmDd7kn.jpg",
+          "caption": "Richard Thompson studio portrait"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/vsxLTZiqKi6roCAphA6gF.jpg",
+          "caption": "Rick Wakeman standing on Mars"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/6NrmMrrmBL2cUoqMysRVvD.jpg",
+          "caption": "Tré Cool, Mike Dirnt and Billie Joe Armstrong of Green Day"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/gAmyHH5Wz62wzryr9N3S39.jpg",
+          "caption": "Wilco pose backstage at the Riviera Theater, Chicago, Illinois, November 23, 2001: Jeff Tweedy, Nels Cline, Glen Kotche, and John Stirratt"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/g9eKSNnxw2BkcoCpusLWhW.jpg",
+          "caption": "Roy Harper backstage at Kilburn Empire State, London, 1976"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/3PNLK5dbhKFPKyBarjrTiC.jpg",
+          "caption": "Jon Anderson performing during a solo acoustic set on stage at Under The Bridge in London, on August 10, 2013. (Photo by Will Ireland/Prog Magazine/Future via Getty Images/Future via Getty Images)"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/E2z3VGUaw4y3GczToAiV37.jpg",
+          "caption": "UNSPECIFIED - CIRCA 1970:  Photo of Jethro Tull  Photo by Michael Ochs Archives/Getty Images"
+        }
+      ],
+      "original_paragraphs": [
+        "During her 14-year tenure in Nightwish , Floor Jansen became the face of symphonic metal . She led the Finnish theatrics for three albums before abruptly parting ways with them this week ; she also launched a solo career in her own right (starting with 2023 album Paragon and continuing with next January’s Hytress ) and collaborated with many stars of the heavy music universe. In 2023, Hammer ’s sister mag Classic Rock sat the singer down to discover the music which shaped her, from the first album she ever heard to her guilty pleasure and her cult hero.",
+        "I’m not one of those people who have a great memory for childhood things, even though I had a great childhood. But the first band that comes to mind is The Beatles ; my Dad used to play a lot of The Beatles, especially on the weekends, on a Sunday. I remember the song Honey Pie . I could not understand it as a child. It’s not great, but it’s definitely memorable!",
+        "When I was about thirteen or fourteen I joined a high-school musical, Joseph And The Amazing Technicolor Dreamcoat . So it wasn’t one song, it was that musical. I shared the role of the narrator with two other girls. After that I was sold – that’s what I wanted to do. I like that [musical], but musicals are often a bit too sweet for my tastes, even back then. The Phantom Of The Opera, Jekyll & Hyde , those are a little darker.",
+        "I play in a band with him: that’s Emppu [Vuorinen, Nightwish guitarist]. He is an amazing guitar player, but he doesn’t need to fill every gap in the song with meaningless notes. He really keeps the atmosphere [of the songs]. What he plays in Sleeping Sun is beautiful.",
+        "She falls completely out of the spectrum of rock and metal, but if there’s one singer that endlessly amazes me with her sound it’s Celine Dion. I find her music absolutely cheese-bombs, but that’s too bad, because I love her voice. You can feel what she’s singing.",
+        "Tuomas [Holopainen, Nightwish]. I don’t know anybody who can write like him. He has been writing music for twenty-five years, had three different singers in his band, and still Nightwish is one of the biggest bands out there. That says something about how good the songs are. I have a special love for Ghost Love Score which is a super-weird song, it’s ten minutes long, but for some reason, it speaks to so many people.",
+        "It’s so coloured in time. I’m 42, so what I thought was the best at 16 [won’t be the same now]. I can never answer that question.",
+        "I’ll see if there’s anything I listen to that people might think is weird… One of my band members loves nineties disco, and that is so far away from what we do, but I don’t have [anything like] that. I do like to listen to film music when I read books. Usually instrumental. The music depends on what kind of book it is, because you still connect it together. I was listening to the music from Inception when I read Steven King’s Dark Tower series. There are parts of the book that really connect to parts of the music.",
+        "You put so much love and energy into every song, that the moment you release the album, that’s the best thing you’ve ever done. It always feels that way because you put everything you’ve learned, all the skills you have, everything you are into your latest work. So for me that would be Paragon , because it’s the latest thing I did.",
+        "Probably the first [ Prison Of Desire by After Forever]. I was 18 when I recorded it, so we didn’t know anything about writing, about recording, about singing. But your first is your first. And that also makes it very, very special.",
+        "Most music makes me cry! My emotions are very close to the surface. One song is Heartless , from Evergrey. Just some things in his lyrics that are expressed very beautifully.",
+        "Anneke van Giersbergen. When I heard [The Gathering’s] Strange Machines on the radio, and then went to see a concert, for me she was like an absolute role model. To sing like that in a metal band, she made me want to do that too. And I loved the way that she did it, her sound and performance and just being this fierce woman among the men.",
+        "During the pandemic I started doing cover songs, and some of my favourites I put on YouTube. That was my only connection to the outside world. I have a young daughter, and it’s really hard to get around [the film] Frozen . So I did Let It Go . It’s fun to sing. I wanted to give it a mature sound, a metal twist.",
+        "I haven’t thought of it yet, to be honest. I’ll cross that bridge when I get there. I just went through cancer, so I’ve just been thinking more about surviving.",
+        "Originally published in 2023. Floor’s new solo album, Hytress, is out on January 15.",
+        "Hannah May Kilroy has been writing about music professionally for over a decade, covering everything from extreme metal to country. She was deputy editor at Prog magazine for over five years, and previously worked on the editorial teams at Terrorizer and Kerrang!. She currently works as the production editor for The Art Newspaper, and also writes for the Guardian, Classic Rock and Metal Hammer."
+      ],
+      "content_complete": true,
+      "artists": [
+        {
+          "id": "nightwish",
+          "name": "Nightwish"
+        },
+        {
+          "id": "terrorizer",
+          "name": "Terrorizer"
+        }
+      ],
+      "original_title": "Ex-Nightwish singer Floor Jansen on her worst album – and the prog metal deep cut which makes her cry",
+      "topics": [
+        "releases"
+      ],
+      "media_checked_at": 1792059897
+    },
+    {
       "id": "f1467cb39e960fde0ef4448fb1e279d75a502f50",
       "title": "Мастерство Ричарда Томпсона в Fender и фолке сияет на Hippies, Thugs And Heroes",
       "short": "Вы можете доверять Louder Наша опытная команда работала для некоторых из крупнейших брендов в музыке. От тестирования наушников до рецензирования альбомов, наши эксперты стремятся создавать отзывы, которым вы можете доверять.",
@@ -1179,7 +1776,8 @@
         "live"
       ],
       "media_checked_at": 1792025899,
-      "translation_last_attempt": 1792043325
+      "translation_last_attempt": 1792043325,
+      "translation_pending": true
     },
     {
       "id": "487d1fa8f4f2be3f600f01afb97e9a3e2689657e",
@@ -4084,7 +4682,8 @@
         "live"
       ],
       "media_checked_at": 1791939140,
-      "translation_last_attempt": 1792043325
+      "translation_last_attempt": 1792043325,
+      "translation_pending": true
     },
     {
       "id": "e8c74e875ce8847d79bc7b920afedb7d441e4a78",
@@ -4283,8 +4882,7 @@
         "releases"
       ],
       "media_checked_at": 1791939141,
-      "translation_last_attempt": 1792025803,
-      "translation_pending": true
+      "translation_last_attempt": 1792059829
     },
     {
       "id": "73eeddb60d8a8b6387d3e701dc5783d5363938cf",
@@ -9759,881 +10357,6 @@
         "releases"
       ],
       "media_checked_at": 1791302334
-    },
-    {
-      "id": "f610d498995709fea28dd32f8eecd67af1876709",
-      "title": "\"Нет никаких правил. У вас есть 12 нот... делайте с ними все, что хотите. Eddie Van Halen, жизнь и времена бога гитары",
-      "short": "Крёстные отцы хэви-метала начали ощущать свой возраст. 1978 год должен был стать годом празднования Black Sabbath - их 10-летия - но на самом деле группа разваливалась. \"Радость быть в рок-группе сокращалась для меня\", - позже признался Ozzy Osbourne. - \"Я не думаю, что в ней больше было чье-то сердце\".",
-      "paragraphs": [
-        "Крёстные отцы хэви-метала начали ощущать свой возраст. 1978 год должен был стать годом празднования Black Sabbath - их 10-летия - но на самом деле группа разваливалась. \"Радость быть в рок-группе сокращалась для меня\", - позже признался Ozzy Osbourne. - \"Я не думаю, что в ней больше было чье-то сердце\".",
-        "Оззи фактически взял отпуск из Субботы осенью 77 года, чтобы официально провести время со своим отцом Джеком, который умирал от рака. Когда NME взял интервью у певца в ноябре 77 года, он, казалось, не был в настроении вернуться в группу - \"Я просто хочу простой жизни на некоторое время\", - настаивал он - и когда Sabbath исполнили War Pigs и Junior’s Eyes на программе BBC TV Look! Hear! в январе 1978 года, бывший фронтмен Fleetwood Mac Дэйв Уокер стоял в центре сцены между Tony Iommi и Geezer Butler.",
-        "Так что это было чем-то вроде сюрприза, когда певец вернулся в группу перед отъездом Бирмингема в Торонто, чтобы записать свой восьмой студийный альбом, Never Say Die! Хотя старая напряженность иногда всплыла во время чреватых студийных сессий - \"мы все были объебаны наркотиками и алкоголем\", - вспоминает Оззи - все четыре музыканта были взволнованы перспективой возвращения в Великобританию для их 10-летнего тура в мае.",
-        "Sabbath взяли AC/DC в качестве поддержки на своем последнем туре европейских концертов и изо всех сил старались соответствовать живым австралийцам за энергию, поэтому Оззи поручил агентству по бронированию Sabbath найти «бар-группу из Лос-Анджелеса», чтобы открывать шоу каждую ночь на своих датах возвращения домой. Как бы то ни было, их американский лейбл Warners сделал именно такой поступок в своих книгах.",
-        "Название Van Halen ничего не значило для участников Sabbath, поэтому, из любопытства, опередив запланированное время выступления в ночь открытия тура в мэрии Шеффилда 16 мая, Оззи и его коллеги по группе Tony Iommi, Geezer Butler и Bill Ward, выскочили из своей гримерки, чтобы поймать конец сета калифорнийской группы. Они вышли на сцену в тот момент, когда гитарист группы, 23-летний Eddie Van Halen, выпустил второй трек своего дебютного альбома с одноименным названием.",
-        "Eruption изначально не был в списке песен Van Halen, которые появились на их дебюте. Продюсер Тед Темплман вышел из контрольной кабины в Sunset Sound Recorders, чтобы выпить кофе, когда он впервые услышал, как Eddie Van Halen играет 102-секундный инструментальный ролик между дублями. «Что это?» Тед спросил. “Ah, nothing,” пришел ответ.",
-        "«Давайте еще раз услышим это, — сказал продюсер. — Мы должны записать это». Немедленно.",
-        "Eddie Van Halen штрафует его сольную витрину на сцене в голливудских клубах в течение большей части трех лет. Как часто, так и нет, он исполнял инструментальный инструмент с классическим вдохновением спиной к аудитории, так что никто не мог точно видеть, что он делает. Секретная техника, которую гитарист защищал, включала использование обеих рук на фретборде для записи нот на легкой скорости. Van Halen Позже он утверждал, что наткнулся на эту идею, наблюдая Led Zeppelin s Jimmy Page Играть соло из Heartbreaker В августе 1971 года на форуме в Инглвуде (Калифорния) он сказал: «Это как иметь шестой палец на левой руке». Guitar World’s Стивен Розен: «Вместо того, чтобы выбирать, вы Нажать на записку на доске. Никто на самом деле не делал больше, чем один отрезок и одну ноту очень быстро. Так что я начал нырять вокруг...»",
-        "Van Halen никогда не утверждал, что изобрел технику двуручного постукивания, но наблюдая, как он выполняет Eruption близко, прежде чем врезаться в ошеломляющее обновление его группы The Kinks You Really Got Me оставили членов Black Sabbath в благоговении, когда они вернулись в свою раздевалку.",
-        "«Мы сидели и говорили: «Это было невероятно...», — вспоминает Оззи, — а потом все закончилось, и мы были слишком ошеломлены, чтобы говорить».",
-        "«Я не очень много знал о Van Halen Во всяком случае, - признается Tony Iommi \"но когда я впервые услышал их это было как, ‘Bloody hell!’ Они были такими энергичными, они были отличными игроками, у них были хорошие песни, и мы просто говорили: «Вау, блейми, это действительно хорошо!»",
-        "Когда тур добрался до Лондона, Айомми обернул своего хорошего друга Брайана Мэй из Queen, чтобы присоединиться к нему на боковой сцене в Hammersmith Odeon, чтобы посмотреть горячего калифорнийца в игре.",
-        "«Пара из нас смотрела, как Eddie Van Halen делает свои вещи, и это было просто славно, — вспоминал Брайан, — почти слишком славно, чтобы принять участие». Чтобы увидеть, как этот парень бродит по гитаре, как котенок, просто бежит и берет ее в места, о которых не мечтал. Со времен Хендрикса не было ничего столь шокирующего».",
-        "«Место было упаковано для Van Halen, — вспоминал покойный писатель Metal Hammer Малкольм Дом, затем журналист еженедельного музыкального журнала Record Mirror. — Все хотели их увидеть, потому что у них уже был настоящий кайф от металлических когносценти, людей, которые регулярно покупали рок-записи на импорте». Они определенно были лучше, чем суббота в ту ночь; они были такими захватывающими, яркими и такими новыми, и они заставили субботу выглядеть старой. Они звучали как будущее».",
-        "С раннего возраста Eddie Van Halen остро осознавал способность музыки увлекать, очаровывать и ослеплять. В детстве Эдди сидел в замешательстве, в то время как его отец Ян, профессиональный музыкант, который выступал с отличием в джазовых группах и оркестрах, практиковал кларнет в семейном доме в Неймегене, Голландия. Иногда, когда его мать, уроженка Индонезии Евгения, была вынуждена работать в ночную смену, Эдди и его старший брат, Алекс, были упакованы на музыкальные мероприятия Яна, их мать надеялась, что их присутствие может препятствовать склонности их богемного отца к обширному выпивке после концерта. На самом деле, это не сделало ничего подобного, просто усилив впечатление дуэта о музыкальной сцене как о свободной утопии. Когда Эдварду было пять лет, а Алексу шесть, Евгения записала детей на уроки фортепиано с русской концертной пианисткой, которая жила на местном уровне. «Если вы собираетесь идти по стопам своего отца, — предупредила она пару, — лучше быть респектабельной».",
-        "В марте 1962 года Van Halens покинули свою квартиру в Роземарийнстраате 59 и отправились на борт океанского лайнера, направлявшегося в Америку. Письма от родственников в Калифорнии развеяли мечты Евгении о новом старте для семьи. Новые иммигранты прибыли в Пасадену позже в том же месяце и поселились в скромной трехкомнатной квартире с одной ванной комнатой, которую они должны были разделить с двумя другими семьями.",
-        "«Когда мы, наконец, прибыли в Пасадену, это было грубо, — сказал Эдди аудитории в Национальном музее американской истории в Вашингтоне, округ Колумбия, во время февральской речи 2015 года, созванной в рамках серии Смитсоновского института «Что значит быть американцем». — Мы жили в одной комнате, спали в одной кровати». Моему отцу пришлось пройти три мили, чтобы мыть посуду [в методистской больнице Аркадии], он был уборщиком в Масонском храме, в Pacific Telephone, моя мама была горничной... Раньше мы ходили на погружение в мусорные контейнеры для металлолома, затем шли на свалку и продавали найденный нами металл\".",
-        "«Мы были двумя изгоями, которые не говорили на этом языке и не знали, что происходит, — сказал он Rolling Stone, имея в виду Алекса и его самого. — Поэтому мы стали лучшими друзьями и научились держаться вместе».",
-        "Музыка будет служить выходом для братьев. Успех The Beatles вызвал ‘British Invasion’ американского «хит-парада» в середине 1960-х годов, и, будучи очарован плавными мелодиями лондонской The Dave Clark Five, мальчики Van Halen сформировали свою первую группу, The Broken Combs, с Эдди на фортепиано и Алексом на саксофоне. Со временем Эдди переключился на изучение ударных, в то время как Алекс начал играть на гитаре, но вскоре они обменялись инструментами. «Он мог играть [инструментальный хит The Surfaris 1963 года] Wipeout и я не мог, — вспоминал позже Эдди. — Я сказал, ‘OK, fuck you. I’ будет играть на вашей гитаре».",
-        "Забудьте о пианино, я не хочу садиться, я хочу встать и быть сумасшедшим.",
-        "«Мой брат выходил в 7 вечера на вечеринку и трахался», — сказал Эдди фронтмену Smashing Pumpkins Билли Коргану в интервью «Guitar World» в 1996 году, — «и когда он возвращался в 3 часа ночи, я сидел на том же месте, играя на гитаре». Я делал это годами».",
-        "В 1971 году братья Van Halen и его коллега-подросток Марк Стоун сформировали властное трио под названием Genesis. С Эдди на вокале и гитаре, Алексом на барабанах и Марком на басу, трио играло ноты за ноты версий песен Black Sabbath, Led Zeppelin и Cream. Обнаружив, что в Англии существует более известная рок-группа под названием Genesis, трио Pasadena превратилось в Mammoth. В 1974 году, несколько неохотно, они наняли петуха, родившегося в Индиане вокалиста David Lee Roth, ранее с их местными соперниками Red Ball Jet, чтобы возглавить группу. Братья Van Halen были более чем немного настороженно настроены по отношению к яркому, павлину, певице-мотормуту - «Эд и я не могли терпеть этого ублюдка», - как-то прямо признался Алекс Стивену Розену для статьи в журнале Classic Rock под названием VH: Истинные Начала - но у Дэвида был свой собственный ПА, достаточно уверенности, чтобы питать национальную сеть, и преданный последователь среди женского населения средней школы Пасадены, поэтому был поражен брак по расчету.",
-        "Когда Марка Стоуна заменил родившийся в Чикаго Майкл Энтони Соболевски, который позже отказался от своей польской фамилии, именно Дэвид предложил им провести ребрендинг как Van Halen, и заряжать свои концертные сеты более доступными, менее техническими песнями, чтобы соблазнить клубную аудиторию.",
-        "В новом заявлении миссии Van Halen Дэвид настаивал на том, чтобы каждый день казался субботним вечером. В него вошли хиты Aerosmith, ZZ Top, Джеймс Браун, David Bowie, Bad Company, Kiss и Queen. Обновленная группа быстро завоевала репутацию самой горячей группы хорошего времени в этом районе, привлекая сотни подростков на свои буйные концерты на заднем дворе ... пока, неизбежно, копы не спустились, чтобы разбить вечеринку. В то время как у Дэвида было остроумие, большой рот, симпатичная внешность мальчика и полное отсутствие стыда, именно застенчивый, постоянно улыбающийся гитарист рядом с ним был настоящей звездой группы, как быстро поняли их сверстники.",
-        "«Эдди был довольно особенным, — вспоминает Марк Кендалл, который позже обрёл известность как гитарист LA rockers Great White. — Я смотрел на толпу и видел гитариста из каждой группы, которую я знал, наблюдая за ним». Эдди был человеком, королем, это было бесспорно».",
-        "«Мы завидовали, и мы все пытались играть в догонялки», — вспоминает будущее. Dokken Джордж Линч (George Lynch), гитарист группы The Boyz из Лос-Анджелеса, сказал: «Мы подумали: «О, мальчик... этот парень изменит мир».»",
-        "Популярность группы вскоре достигла менеджера из Лос-Анджелеса Кэтрин Хатчин, живого, хорошо связанного лондонца, который присматривал за местными действиями, такими как Sudden Death, Yankee Rose и Sorcery. Всегда стремясь установить полезные контакты, David Lee Roth пригласил Кэтрин посетить группу на вечеринке в доме своего отца-врача.",
-        "«Когда мы добрались до дома, который находился в шикарном районе Пасадены, везде были припаркованы машины, и моей помощнице Линоре и мне пришлось припарковаться довольно далеко, и пройтись по нашей платформенной обуви, — вспоминает Хатчин, ныне Кэтрин Харрис. — Мы могли слышать музыку с улиц, и когда мы попали на вечеринку, это было безумно, абсолютно безумно». Первое, что меня поразило, был Эдвард. Он был невероятен. Он играл пальцами над ладами, чего тогда никто не делал, и я был совершенно потрясен. Мы с Линор посмотрели друг на друга и сказали: ‘Oh. My. Goodness. This kid is a virtuoso.’ Они были просто еще одной рок-группой, пока Эдвард не вырвался на свободу. Дэвид был блестящим на сцене, но именно Эдвард действительно схватил нас. Поэтому я начал заказывать их шоу в Голливуде».",
-        "Как де-факто хаус-группа в Gazzarri’s с апреля 1974 года, репутация Van Halen и слова о ослепительной музыкальности Эдди распространились по всему Лос-Анджелесу. Но на самом деле это была растущая репутация Джорджа Линча как доморощенного гитарного героя, который однажды вечером в 1976 году привлек дуэт Kiss Пола Стэнли и Джина Симмонса в городской клуб Starwood, дуэт был проинформирован о том, что группа Линча The Boyz была самым горячим рок-актом Голливуда. По совпадению, Van Halen были забронированы на игру в ту же ночь. К настоящему времени оригинальный материал группы, демонстрирующий звук, который они назвали Big Rock, затмевал кавер-версии песен в их высокоэнергетических сетах, и, когда квартет вышел на сцену Starwood в ту ночь после сета Boyz, Стэнли и Симмонс сразу же признали необработанный талант с потенциалом.",
-        "Я отправился в Старвуд накануне вечером с Литой Форд и увидел Van Halen и The Boyz, - сказал мне Стэнли. - Я помню, как The Boyz покрывал Detroit Rock City, и я думал: Мальчик, это отличная песня... а затем понял, что это моя! Но Van Halen был просто локомотивом - Эдди был чем-то совершенно другим, и Дэйв был на пути к тому, чтобы стать абсолютным фронтменом. Впоследствии Джин подкрался и предложил отвезти их в студию, чтобы сделать демо-запись».",
-        "Однако, к удивлению Симмонса, услышав это демо, менеджер Kiss Билл Аукойн решил отказаться от принятия Van Halen... решение, в котором Пол Стэнли позже признался мне, было больше обузданием амбиций Симмонса, чем оскорблением калифорнийской группы.",
-        "Вечером 2 февраля 1977 года Тед Темплман наблюдал, как Van Halen выступает перед подавленной толпой Старвуда. Ранее участник «солнечной поп-группы» Harpers Bizarre, Тед теперь был горячим продюсером (работав с Ван Моррисоном, Little Feat и калифорнийской хард-рок-группой Montrose) и исполнительным директором A&R в Warner Bros. Он вернулся в клуб на следующий вечер с председателем компании Мо Остином на буксире и настоял на том, чтобы Warners подписали группу на месте.",
-        "«Когда Van Halen вышел на сцену, это было похоже на то, что их застрелили из пушки... они выступали так, как будто они играли на арене, а не в маленьком голливудском клубе, — вспоминал Тед в своей автобиографии A Platinum Producer’s Life In Music. — Прямо из ворот меня просто выбил Эд Van Halen». Странно это говорить, но встреча с ним была почти как падение на каблуках с девушкой на первом свидании. Я был так ослеплен. Я никогда не был так впечатлен музыкантом, как в тот вечер. Когда я вспоминаю ту ночь, меня схватила не одна вещь о нем. Это была вся его личность. Этот парень, когда он играл, выглядел совершенно естественным и незатронутым; он был таким беспечным в своем величии. Вот он, играя самое невероятное дерьмо, вел себя так, словно это было не сложнее, чем щелкать пальцами».",
-        "Тед заказал квартет в голливудских студиях Sunset Sound в апреле. The Rolling Stones, Led Zeppelin и The Doors все использовали этот инструмент в прошлом, и демо-сессии Van Halen оказались бризом, с записью квартета в прямом эфире, перекатывающим 25 песен за считанные часы. Хотя у братьев-перфекционистов Van Halen были некоторые опасения по поводу результатов поспешно организованного сеанса — «Мы вставили его [демо-кассету] в плеер в моем фургоне и ожидали услышать Led Zeppelin выход, — позже признался Эдди Крису Гиллу из Guitar World, — но мы были немного потрясены тем, что услышали». Это просто не звучало так, как мы хотели, — они не собирались ставить под сомнение авторитет Теда. В конце августа группа вернулась в студию с Тедом, чтобы вырезать свой дебютный альбом.",
-        "Проще говоря, этот альбом, неопровержимо названный Van Halen, является одним из величайших хард-рок альбомов в истории. От бас-гитары Майкла Энтони, которая представляет Runnin’ With The Devil через ослепительную Eruption и пронзительный кавер You Really Got Me (банкир Теда Темплмана для обеспечения того, чтобы Van Halen, в отличие от его прежних обвинений Montrose, обеспечил хит-сингл) до шикарной Ain’t Talkin’ ’Bout Love - песни, которую Эдди написал в качестве шутки, чтобы вывести мочу из панк-рока - неотразимой, пропитанной гармонией I’m The One и Feel Your Love Tonight, и на долгое время DLR Партийная пьеса блюзмена Джона Брима Ice Cream Man и метко названный рокер On Fire, альбом является самой чистой дистилляцией гедонистической, освобожденной, поцелованной солнцем калифорнийской рок-музыки, когда-либо преданной ленте. Это быстрые автомобили, бесконечные ночи и свободные нравы, чирлидеры и кокаин, бонги и бикини, чистый, радостный юношеский бунт, с каждым следом неуверенности в себе и сдержанности.",
-        "Так же, как The Beach Boys поставлял саундтрек к американскому подростковому возрасту в 1960-х годах, и Eagles владели 70-ми, с их потрясающим дебютом Van Halen смело объявили, что 80-е будут их игровой площадкой. И если David Lee Roth продала новому поколению совершенно новую американскую мечту, это была потрясающая виртуозность Eddie Van Halen, которая заставила альбом по-настоящему петь, его милая, возмутительно игривая, казалось бы, без усилий и совершенно электрифицирующая игра, освещающая небо. С того момента, как игла упала на альбом Van Halen по всему миру, у каждого гитариста в спальне был новый золотой стандарт, к которому он стремился.",
-        "«У Эдварда есть чувство приключения, — заявил David Lee Roth, аккуратно инкапсулируя мышление гитариста. — Он нырнет головой». Посмотрим, будет ли вода в бассейне позже».",
-        "Я помню конкретное место, где я впервые услышал Eddie Van Halen, - сказал гитарист Guns N’ Roses гитарист Slash в 2010 году. - Я был в этой начальной школе, в которую мы врывались после окончания школы, и мы там катались на коньках и гоночных велосипедах. [Будущий барабанщик GN'R] Стив Адлер, который только что стал моим лучшим другом примерно в то время, сказал: Эй, проверь это..., и у него был один из этих маленьких кассетных игроков Panasonic, и он сыграл меня Eruption в You Really Got Me, и это было похоже на... Вау. Помимо гитарной пиротехники, общая атмосфера Van Halen была очень энергичной и очень новой, очень свежей. У него было куча отношения, это было просто в твоем лице.",
-        "«Как только этот альбом вышел... в 1978 году мне было 13 лет, и я еще не взял в руки гитару... это ознаменовало конец рока, каким мы его знали. Все, что происходило до этого момента, изменилось».",
-        "«Марк мои слова», — написал он. Rolling Stone Чарльз М. Янг (Charles M Young) в своей рецензии на альбом, «через три года, Van Halen Он будет толстым, самодовольным и отвратительным, и они последуют за ним. Deep Purple и Led Zeppelin Прямо в туалет. В то же время, они, вероятно, будут иметь большое значение... Эдвард Van Halen овладел искусством гитары со свинцом/ритмом в традициях Jimmy Page и Джо Уолша; несколько риффов на этой пластинке обыграли все, что Aerosmith придумал за годы».",
-        "Когда альбом вышел, квартет начал работать, смешивая даты заголовков в Японии и континентальной Европе с шоу поддержки и выступлениями на фестивалях. Когда они присоединились к туру Sabbath Never Say Die! в Америке, промоутеры должны были нанять следователя на месте преступления, чтобы нарисовать меловые контуры вокруг Оззи, Тони, Гизера и Билла на сцене каждую ночь.",
-        "Вернувшись в Лос-Анджелес в первую неделю декабря ’78, их первое мировое турне завершилось, группа получила приглашение на вечеринку от своего лейбла. Warners хотели представить квартет с платиновыми дисками, так как их дебютный альбом собрал продажи в два миллиона копий только в США. Проведенный в Body Shop на бульваре Сансет, единственном голом стриптиз-соединении Лос-Анджелеса, синдиг был подходящим шумным делом. Однако на следующий день Van Halen вернулись в Sunset Sound с Тедом Темплманом, работая над вторым альбомом.",
-        "С каждым последующим релизом - Van Halen II (1979), Women And Children First (1980), Fair Warning (1981), Diver Down (1982) - Van Halen росла в уверенности и росте, принимая мантию величайшей гитарной группы Америки. В 1983 году квартет вошел в Guinness Book Of Records после того, как получил самую высокую в истории плату за одно выступление, когда соучредитель Apple Computers Стив Возняк заплатил им 1,5 миллиона долларов, чтобы возглавить ‘Heavy Metal Day’ американского фестиваля 1983 года над Оззи, Judas Priest, Scorpions и Mötley Crüe.",
-        "«Это был день, когда новая волна умерла, — сказал фронтмен Crüe Винс Нил, — и рок-н-ролл взял верх. — Хотя Эдди несколько отклонил идею о том, что Van Halen был назван хэви-метал группой — для меня хэви-метал — это просто рок-н-ролл». Это чувство, выдаваемое на большой громкости - его влияние на три последующих поколения металлических музыкантов неоспоримо. В его свободнотекущей, беспрепятственной, граничной игре другие музыканты услышали звук освобождения, и его влияние будет слышно в игре всех от Димебага Даррелла до Адама Д. из Killswitch Engage.",
-        "Он был для нашего поколения тем же, чем Хендрикс был для него, — прокомментировал суперфанат Димебаг. — Он играет Eruption, и вы говорите: Черт, я никогда в жизни не слышал такого гитарного звука!",
-        "«В гитарной иерархии, где Джими Хендрикс — Бог, Эдди был Иисусом Христом, Вторым пришествием, — говорит Закк Уайлд, который присоединился к Эдди на сцене на похоронах Димебага в 2004 году, чтобы произнести тост за бывшего гитариста Pantera. — Эд прорвался менее чем через 10 лет после смерти Джими, но он звучал как новая эра». Как будто он пришел с другой планеты».",
-        "С профилем Van Halen, поднятым неизмеримо национальным телевизионным освещением, данным их появлению на американском фестивале, альбом квартета 1984 года дал их первый сингл No 1 в США, Jump, и занял пятинедельную резиденцию на No 2 в чартах Billboard; это будет продолжаться, чтобы стать вторым 10-миллионным альбомом Van Halen. По иронии судьбы, альбом, который удерживал его с первого места, был Thriller Майкла Джексона, в котором были представлены навыки гитары на заёме у одного гитариста голландского происхождения на хит-сингле Beat It.",
-        "Даже самые дикие партии должны когда-нибудь закончиться, и первые трещины в мире VH пришли с выходом David Lee Roth в 1985 году. Ободренный успехом своего дебютного сольного EP, Crazy From The Heat, Дэвид назвал гитариста «диктатором», когда тот уходил. «Никто не заботится о Van Halen без David Lee Roth», он усмехнулся.",
-        "Назвав Дэвида «клоуном», Eddie Van Halen ответил в самых резких выражениях. «Проблема с Ротом заключалась в том, что он забыл, кто написал песни», - сказал он писателю и давнему другу Стивену Розену, чья книга 2022 года «Понимание Эдварда: мое 26-летнее путешествие с Эдвардом Van Halen» остается окончательной биографией EVH. Песни – это сердце нашей музыки. Я никогда не слушал его слов. Мне было все равно, о чем он будет петь».",
-        "Van Halen быстро набрал бывшего вокалиста Montrose Сэмми Хагара, чтобы возглавить группу, и новый квартет забил первый американский альбом No1 Van Halen с 5150 1986 года. За ним последовали три подряд альбома Billboard, каждый из которых был немного более сложным и зрелым, чем его предшественники, хотя игра Эдди оставалась безудержной. Сэмми ушел в жёстких обстоятельствах после альбома 1995 года Balance — «Balance был похож на дергание зубами, — сказал он этому писателю. — К тому времени все стало очень неблагополучным», — но Эдди подделал, набрав вокалиста Extreme Гэри Шероне для альбома с запутанным названием III. Хотя альбом получил худшие отзывы о карьере его группы — «Фундаментальной проблемой этого альбома являются песни», — заявил один британский рок-журнал. — «Они дерьмо» — гитарист никогда не терял своей страсти к музыке... или сопутствующего образа жизни. В Японии, чтобы продвинуть альбом Black Label Society Sonic Brew, Закк Уайлд догнал Эдди в Токио, где Van Halen были забронированы, чтобы играть три ночи в историческом месте проведения Budokan, и закончил вечеринкой со своим героем в крошечные часы.",
-        "«Van Halen открылся с помощью Unchained, и Эд просто убил его, — вспоминает Закк. — Он подошел к моему гостиничному номеру после этого, и он играл моего Леса Пола, с бульдозером, и гитара висела у него на коленях, как Jimmy Page в 1975 году». Он играл все Led Zeppelin lick, что он знал, сзади, когда Van Halen играл каверы. Это было безумие, у меня в комнате был Иисус Христос, играющий на моей гитаре Jimmy Page. Спокойной ночи\".",
-        "Это детское чувство удивления, присущее игре Эдди с самого первого раза, когда он увидел Jimmy Page на сцене, никогда не исчезало.",
-        "«Все, что мы пытаемся сделать, - это вернуть некоторое волнение в рок-н-ролл, - сказал он Стивену Розену, когда дебют его группы в 1978 году состоялся в магазинах звукозаписи по всему миру. - Кажется, что многие люди достаточно взрослые, чтобы быть нашими папами, и они звучат так, или они ведут себя так». Кажется, они забыли, что такое рок-н-ролл».",
-        "Eddie Van Halen проходит 6 октября, после долгой борьбы с раком, сильно ударил по рок-сообществу, и дань от друзей и поклонников. В Instagram Slash опубликовал одно черно-белое изображение Eddie Van Halen со своей самодельной гитарой ‘Frankenstrat’ и написал ‘RIP #EddieVanHalen’. Tool Адам Джонс опубликовал три смайлика с разбитым сердцем. Руководитель Machine Head Робб Флинн назвал Эдди «Величайшим из всех времен», добавив: «Мой разум сейчас серьезно взорван». Я плакала. Он был одним из миллиарда».",
-        "Борясь с раком сам в последние годы, Tony Iommi данью своему старому приятелю нес дополнительный уровень остроты.",
-        "«Я просто опустошен, услышав новость о кончине моего дорогого друга Eddie Van Halen, — написал Айомми. — Он долго и упорно боролся со своим раком до самого конца». Эдди был очень особенным человеком, очень хорошим другом. Покойся с миром, мой дорогой друг, пока мы не встретимся снова».",
-        "В одном из своих последних крупных интервью с Music Radar, Van Halen спросили, есть ли у него какие-либо советы для начинающих гитаристов. Его ответ был удивительно прост.",
-        "«Суть в том, что вы должны любить то, что вы делаете, — ответил он. — Нет никаких правил». У вас есть 12 гребаных записок... делайте с ними все, что хотите».",
-        "«Эдди напомнил нам, что музыка — это свобода», — говорит Хейлсторм. Lzzy Hale «Он вдохновил всех нас на то, чтобы быть непримиримыми самими собой, когда речь идет о технике или о том, как мы видим гитару. Рок-звезды не исчезают, их магия передается и живет вечно через всех нас. Я верю, что не только это поколение, но и многие будущие поколения будут в той или иной степени зависеть от наследия Эдди».",
-        "Выдержки из этой функции появляются в Unchained: The Eddie Van Halen Story. Tonechaser: Понимание Эдварда - Мое 26-летнее путешествие с Эдвардом Van Halen Стивена Розена доступно здесь.",
-        "Музыкальный писатель с 1993 года, бывший редактор журналов Kerrang! и Planet Rock (RIP), Paul Brannigan является содействующим редактором Louder. Имея ранее написанные книги о Лемми, Дэйв Грол (бестселлер Sunday Times This Is A Call) и Metallica ( Birth School Metallica Death, в соавторстве с Яном Уинвудом), его биография Эдди Van Halen ( Eruption в Великобритании, Unchained в США) появилась в 2021 году. Он писал для Rolling Stone, Mojo и Q, тусовался с Фугази в Dischord House, летал на частном самолете Ozzy Osbourne, играл Gibson SG Ангуса Янга и брал интервью у всех от Aerosmith и Beastie Boys до Young Gods и ZZ Top. Родившийся на севере Ирландии, Брэнниган живет в Северном Лондоне и поддерживает «Арсенал»."
-      ],
-      "category": "Прогрессив",
-      "source": "Louder",
-      "published": "2026-10-06T15:00:00+00:00",
-      "original_url": "https://www.loudersound.com/bands-artists/there-are-no-rules-eddie-van-halen-the-life-and-times-of-a-guitar-god",
-      "saved_at": 1791302324,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/m6J8SYhffUxDbLrYfRJwrZ-1280-80.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/m6J8SYhffUxDbLrYfRJwrZ.jpg",
-          "caption": "Eddie Van Halen plays Cobo Arena in Detroit on August 15, 1982"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/y3pfJuTHQ5DgoMradNufwj.jpg",
-          "caption": "Eddie Van Halen and Brian May backstage at a concert"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/yExNF2oz2hrmJwy9mrbNQh.jpg",
-          "caption": "David Lee Roth studio portrait, 1986"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/wTSyEx2A4pK8U38PMcjeRf.jpg",
-          "caption": "George Thorogood in shades, pointing at the camera"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/MHqLtY5TFQ2EPn6meTM7xF.jpg",
-          "caption": "David Lee Roth and Alex Van Halen in conversation"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/vWoFuGcrMeRTFJq8WTgG97.jpg",
-          "caption": "Blackie Lawless studio headshot"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/T38WQrU4poyWqLpJjaFhr8.jpg",
-          "caption": "Eagles posing on a rural fence "
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/PjAgsm4UcfAd8orH5BjMjA.jpg",
-          "caption": "Eddie Van Halen"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/enm8RoRT4XgBrEVSj6vSFK.jpg",
-          "caption": "Van Halen"
-        },
-        {
-          "type": "image",
-          "url": "https://img.youtube.com/vi/i5txwFv-zYM/maxresdefault.jpg",
-          "caption": "Van Halen - Runnin' With The Devil (Official Music Video) - YouTube"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/xahtGe6Bgt6Ag4SvKRTC57.jpg",
-          "caption": "Van Halen"
-        },
-        {
-          "type": "image",
-          "url": "https://img.youtube.com/vi/ojNrj-sWfpk/maxresdefault.jpg",
-          "caption": "Van Halen - Unchained (Official Music Video) - YouTube"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/4g6W8YfZmYMwA5VhyrQn86.jpg",
-          "caption": "Eddie Van Halen"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/pX8pkiWHffhddXiY8uFGJb.jpg",
-          "caption": "Roger Taylor studio portrait"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/3RwgQJ78asXYHQ47FqgoJG.jpg",
-          "caption": "Steve Hackett onstage"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/RvReC63zji3G4z8Ecxwo3k.jpg",
-          "caption": "Jimmy Page onstage in 1971, and an excerpt from the Narnia: The Magician&#039;s Nephew poster showing a winged horse with two riders (composite image)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/CykFPrG35eudwXAyvMbeLS.jpg",
-          "caption": "Genesis singer Peter Gabriel is suspended in midair during a concert in New York City, 6 May 1974. Guitarist-bassist Mike Rutherford is seated at left, drummer Phil Collins is behind the kit at right."
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU.jpg",
-          "caption": "Black Sabbath"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/GzWLWYjEofXoihsFerPmYJ.jpg",
-          "caption": "Kourtney Kardashian and Travis Barker"
-        }
-      ],
-      "original_paragraphs": [
-        "The godfathers of heavy metal were starting to feel their age. 1978 was supposed to be a year of celebration for Black Sabbath – their 10th anniversary - but in reality, the group was falling apart. “The fun of being in a rock band was dwindling for me,” Ozzy Osbourne later admitted. “I don’t think anyone’s heart was in it anymore.”",
-        "Ozzy had actually taken a leave of absence from Sabbath in autumn ’77, officially to spend time with his father Jack, who was dying of cancer. When NME interviewed the singer in November ’77, he seemed in no mood to return to the unit - “I just want a simple life for a while,” he insisted – and when Sabbath performed War Pigs and Junior’s Eyes on BBC TV’s Look! Hear! programme in January 1978, former Fleetwood Mac frontman Dave Walker stood centre-stage between Tony Iommi and Geezer Butler.",
-        "So it was something of a surprise when the singer returned to the fold ahead of the Birmingham band’s departure to Toronto to record their eighth studio album, Never Say Die! Though old tensions occasionally surfaced during fraught studio sessions – “we were all fucked-up with drugs and alcohol,” Ozzy recalled – all four musicians were excited about the prospect of returning to the UK for their 10th anniversary tour in May.",
-        "Sabbath had taken AC/DC out as support on their last run of European gigs, and had struggled to match the livewire Aussies for energy, so Ozzy instructed Sabbath’s booking agency to find “a bar band from LA” to open the show each night on their homecoming dates. As luck would have it, their US label, Warners, had just such an act on their books.",
-        "The name Van Halen meant nothing to the members of Sabbath, so, out of curiosity, ahead of their scheduled stage time on the tour’s opening night at Sheffield City Hall on May 16, Ozzy and his bandmates Tony Iommi , Geezer Butler and Bill Ward , shuffled out of their dressing room to catch the end of the Californian band’s set. They arrived side-stage just as the group’s guitarist, 23-year-old Eddie Van Halen , launched into the second track of his band’s recently released self-titled debut album .",
-        "Eruption wasn’t originally on the list of songs Van Halen had pencilled in to appear on their debut. Producer Ted Templeman had popped out of the control booth at Sunset Sound Recorders to grab a coffee when he first heard Eddie Van Halen playing the 102-second instrumental between takes. “What’s that?” Ted asked. “Ah, nothing,” came the reply. “It’s just something I warm up on.”",
-        "“Let’s hear it again,” the producer said. “We gotta record it. Right away.”",
-        "Eddie Van Halen had been finessing his solo showcase onstage in Hollywood clubs for the best part of three years. As often as not, he would perform the classically inspired instrumental with his back to the audience, so that no one could see exactly what he was doing. The secret technique the guitarist was shielding involved using both his hands on the fretboard to tap out notes at light-speed. Van Halen would later claim that he hit upon the idea while watching Led Zeppelin ’s Jimmy Page play the solo from Heartbreaker one-handed during a show at The Forum in Inglewood, California in August 1971: “It’s like having a sixth finger on your left hand,” he told Guitar World’s Steven Rosen. “Instead of picking, you’re hitting a note on the fretboard. Nobody was really doing more than just one stretch and one note real quick. So I started dicking around…”",
-        "Van Halen never claimed to have invented the two-handed tapping technique, but watching him perform Eruption up close before slamming into his group’s swaggering update of The Kinks ’ You Really Got Me left the members of Black Sabbath in slack-jawed awe as they trooped back to their dressing room.",
-        "“We sat there going, ‘That was incredible…’,” Ozzy recalled, “and then it finished, and we were just too stunned to speak.”",
-        "“I didn’t know very much about Van Halen at all,” admits Tony Iommi, “but when I first heard them it was like, ‘Bloody hell!’ They were so energetic, they were great players, they had good songs and we were just like, ‘Wow, blimey, these are really good!’”",
-        "When the tour reached London, Iommi collared his good friend, Brian May from Queen, to join him side-stage at the Hammersmith Odeon to watch the hot-shot Californian at play.",
-        "“The pair of us watched Eddie Van Halen do his stuff, and it was just glorious,” recalled Brian, “almost too glorious to take in. To see this guy romping around a guitar like a kitten, just running and taking it to places undreamed of… There hadn’t been anything so shocking since Hendrix.”",
-        "“The place was packed for Van Halen,” recalled late Metal Hammer writer Malcolm Dome, then a journalist for weekly music magazine Record Mirror . “Everyone wanted to see them because they’d already got a real buzz around them from the metal cognoscenti, the people who regularly bought rock records on import. They were definitely better than Sabbath that night; they were so exciting, vibrant and so new, and they made Sabbath look old. They sounded like the future.”",
-        "From an early age, Eddie Van Halen was acutely aware of music’s capacity to captivate, charm and bedazzle. As a small child, Eddie would sit enrapt while his father Jan, a professional musician who performed with distinction in jazz bands and orchestras, practised clarinet in the family home in Nijmegen, Holland. On occasion, when his Indonesian-born mother Eugenia was required to work night shifts, Eddie and his older brother, Alex, would be packed off to Jan’s musical engagements, their mother hoping that their presence might inhibit their bohemian father’s predilection for extensive post-gig drinking. In reality, it did nothing of the sort, merely strengthening the duo’s impression of the music scene as a free-spirited utopia. When Edward was five and Alex six, Eugenia enrolled the children in piano lessons with a Russian concert pianist who lived locally. “If you’re going to follow in your dad’s footsteps,” she warned the pair, “it better be respectable.”",
-        "In March 1962, the Van Halens left their apartment at Rozemarijnstraat 59 and set off to board an ocean liner bound for America. Letters from relatives in California had fired Eugenia’s dreams of a fresh start for the family. The new immigrants arrived in Pasadena later that month, and took up residence in a modest three-bedroom, single-bathroom apartment they were to share with two other families.",
-        "“When we finally arrived in Pasadena, it was rough,” Eddie told an audience at Washington DC’s National Museum of American History, during a February 2015 talk convened as part of the Smithsonian’s What It Means To Be American series. “We lived in one room, slept in one bed. My father had to walk three miles to go wash dishes [at the Arcadia Methodist Hospital], he was a janitor at the Masonic Temple, at Pacific Telephone, my mom was a maid… We used to go dumpster-diving for scrap metal, then go to the scrap yard and sell the metal we found.”",
-        "“We were two outcasts that didn’t speak the language and didn’t know what was going on,” he told Rolling Stone , referring to Alex and himself. “So we became best friends and learned to stick together.”",
-        "Music would serve as an escapist outlet for the brothers. The success of The Beatles prompted a ‘British Invasion’ of the American ‘hit parade’ in the mid 1960s, and having been charmed by the smooth melodies of London’s The Dave Clark Five, the Van Halen boys formed their first band, The Broken Combs, with Eddie on piano and Alex on saxophone. In time, Eddie switched to learning drums, while Alex began playing guitar, but they would soon swap instruments. “He could play [The Surfaris’ 1963 instrumental hit] Wipeout and I couldn’t,” Eddie later recalled. “I said, ‘OK, fuck you. I’ll play your guitar.’",
-        "‘Forget the piano, I don’t want to sit down – I want to stand up and be crazy.’",
-        "“My brother would go out at 7pm to party and get laid,’ Eddie told Smashing Pumpkins frontman Billy Corgan in a 1996 Guitar World interview, ‘and when he’d come back at 3am, I would be sitting in the same place, playing guitar. I did that for years.”",
-        "In 1971, the Van Halen brothers and fellow teenager Mark Stone formed a power trio named Genesis. With Eddie on vocals and guitar, Alex on drums and Mark on bass, the trio played note-for-note versions of songs by Black Sabbath, Led Zeppelin and Cream . Upon discovering that a rather better-known rock band named Genesis existed in England, the Pasadena trio became Mammoth. In 1974, somewhat reluctantly, they recruited cocksure, Indiana-born vocalist David Lee Roth , formerly with their local rivals Red Ball Jet, to front the band. The Van Halen brothers were more than a little wary of the flamboyant, peacocking, motormouth singer - “Ed and I couldn’t stand the motherfucker,” Alex once bluntly admitted to Steven Rosen, for a Classic Rock magazine piece titled VH: The True Beginnings – but David had his own PA, enough confidence to power the national grid, and a devoted following among Pasadena’s female high school population, so a marriage of convenience was struck.",
-        "When Mark Stone was replaced by Chicago-born Michael Anthony Sobolewski, who would later drop his Polish surname, it was David who suggested they rebrand as Van Halen, and supercharge their live sets with more accessible, less technical songs to seduce club audiences. “It’s very impressive,” he said of the group’s old repertoire, “but you can’t dance to it.”",
-        "The new Van Halen mission statement, David insisted, would be to make every day seem like a Saturday night. In came hits by Aerosmith , ZZ Top , James Brown, David Bowie , Bad Company, Kiss and Queen . The revamped group quickly carved out a reputation as the area’s hottest good-time band, drawing hundreds of teenagers to their riotous backyard gigs… until, inevitably, cops descended to break up the party. While David had a quick wit, a big mouth, pretty boy looks and a complete lack of shame, it was the shy, permanently smiling guitarist by his side who was the group’s true star, as their peers quickly realised.",
-        "“Eddie was pretty special,” recalls Mark Kendall, who later found fame as the guitarist of LA rockers Great White . “I’d look into the crowd and I could see the guitar player from every band I knew watching him. Eddie was the man, the king, it was unquestioned.”",
-        "“We were jealous, and we were all trying to play catch-up,” recalls future Dokken guitarist George Lynch, then playing in LA-area band The Boyz. “We thought, ‘Oh boy… this guy’s going to change the world.’”",
-        "Word of the band’s snowballing popularity soon reached Los Angeles-based manager Catherine Hutchin, a vivacious, well-connected Londoner who looked after local acts such as Sudden Death, Yankee Rose and Sorcery. Always keen to make useful contacts, David Lee Roth invited Catherine to check out the band at a party at his doctor father’s house.",
-        "“When we got to the house, which was in a ritzy area of Pasadena, there were cars parked everywhere, and my assistant Lynore and I had to park quite a way away, and walk over in our platform shoes,” Hutchin, now Catherine Harris, recalls. “We could hear the music from streets away, and when we got into the party it was crazy, absolutely crazy. The first thing that hit me was Edward. He was unbelievable. He was playing with his fingers over the frets, which nobody did then, and I was absolutely blown away. Lynore and I looked at each other and I said, ‘Oh. My. Goodness. This kid is a virtuoso.’ They were kinda just another rock band until Edward cut loose. David was brilliant onstage, but it was Edward who really grabbed us. So I started booking them shows in Hollywood.”",
-        "As the de facto house band in Gazzarri’s from April 1974 onwards, Van Halen’s reputation - and word of Eddie’s dazzling musicianship - spread across Los Angeles. But, it was actually George Lynch’s burgeoning reputation as a homegrown guitar hero which drew Kiss duo Paul Stanley and Gene Simmons to the city’s Starwood club one evening in 1976, the duo having been tipped off that Lynch’s band The Boyz were Hollywood’s hottest rock act. By coincidence, Van Halen were booked to play the same night. By now the group’s original material – showcasing a sound they called Big Rock – was eclipsing the cover songs in their high-energy sets, and, when the quartet took to the Starwood stage that night following The Boyz’ set, Stanley and Simmons immediately recognised a raw talent with potential.",
-        "“I had gone to the Starwood the night before with Lita Ford and seen Van Halen and The Boyz,” Stanley told me. “I remember The Boyz covering Detroit Rock City and I was thinking, ‘Boy, this a great song’… and then realised it was mine! But Van Halen were just a powerhouse – Eddie was something completely different, and Dave was on his way to becoming the ultimate frontman. Afterwards Gene snuck up and offered to take them to the studio to do a demo.”",
-        "To Simmons’ astonishment, however, on hearing that demo, Kiss’ manager Bill Aucoin decided to pass on taking Van Halen on... a decision that Paul Stanley later confessed to me was more about reining in Simmons’ ambitions than a snub to the Californian band.",
-        "On the evening of February 2, 1977, Ted Templeman watched Van Halen perform in front of a subdued Starwood crowd. Formerly a member of ‘sunshine pop’ band Harpers Bizarre, Ted was now a hotshot producer (having worked with Van Morrison, Little Feat and Californian hard rock band Montrose ) and A&R executive at Warner Bros. He returned to the club on the following night with company chairman Mo Ostin in tow, and insisted that Warners sign the band on the spot.",
-        "“When Van Halen came onstage it was like they were shot out of a cannon… they performed like they were playing an arena, and not a small Hollywood club,” Ted recalled in his autobiography A Platinum Producer’s Life In Music . “Right out of the gate, I was just knocked out by Ed Van Halen. It’s weird to say this, but encountering him was almost like falling head-over-heels with a girl on a first date. I was so dazzled. I had never been as impressed with a musician as I was with him that night. When I think back on that night, it wasn’t just one thing about him that grabbed me. It was his whole persona. This guy, when he played, looked completely natural and unaffected; he was so nonchalant in his greatness. Here he was, playing the most incredible shit, acting as if it were no more challenging than snapping his fingers.”",
-        "Ted booked the quartet into Hollywood’s Sunset Sound studios in April. The Rolling Stones , Led Zeppelin and The Doors had all used the facility in the past, and Van Halen’s demo sessions would prove to be a breeze, with the quartet recording live, rolling through 25 songs in a matter of hours. Though the perfectionist Van Halen brothers had some misgivings about the results of the hastily arranged session – “We popped it [the demo cassette] into the player in my van and expected to hear Led Zeppelin coming out,” Eddie later confessed to Guitar World ’s Chris Gill, “but we were kind of appalled by what we heard. It just didn’t sound the way we wanted it to sound” – they were not about to question Ted’s authority. At the end of August, the group returned to the studio with Ted to cut their debut album.",
-        "Put simply, that album, unfussily titled Van Halen , is one of the greatest hard rock albums in history. From the pounding Michael Anthony bassline that introduces Runnin’ With The Devil via the dazzling Eruption and the punchy cover of You Really Got Me (Ted Templeman’s banker for ensuring that Van Halen, unlike his former charges Montrose, would secure a hit single) through to the effervescent Ain’t Talkin’ ’Bout Love – a song Eddie wrote as a joke to take the piss out of punk rock – the irresistible, harmony-drenched I’m The One and Feel Your Love Tonight , and on to DLR’s long-time party piece, bluesman John Brim’s raunchy Ice Cream Man , and aptly titled rocker On Fire , the album is the purest distillation of hedonistic, liberated, sun-kissed Californian rock music ever committed to tape. It’s fast cars, endless nights and loose morals, cheerleaders and cocaine, bongs and bikini tops, pure, joyous youthful rebellion, with every trace of self-doubt and self-restraint eradicated.",
-        "Just as The Beach Boys supplied the soundtrack to American adolescence in the 1960s, and the Eagles owned the 70s, with their stunning debut Van Halen boldly declared that the 80s would be their playground. And if David Lee Roth sold a new generation a brand new American dream, it was Eddie Van Halen’s jaw-dropping virtuosity that made the album truly sing, his sweet, outrageously playful, seemingly effortless and utterly electrifying playing lighting up the sky. From the moment the needle dropped upon the Van Halen album on stereos worldwide, every bedroom guitarist had a new gold standard to aspire to.",
-        "“Edward has a sense of adventure,” David Lee Roth declared, neatly encapsulating the guitarist’s mindset. “He will dive headfirst. We’ll see if there’s water in the pool later.”",
-        "“I can remember the specific place where I first heard Eddie Van Halen,” said Guns N’ Roses guitarist Slash in 2010. “I was at this elementary school that we used to break into after school was over, and we used to skate and race bikes in there. [Future GN’R drummer] Steve Adler, who had just become my best friend around that time said, ‘Hey, check this out…’ and he had one of these little Panasonic cassette players and he played me Eruption into You Really Got Me , and it was just like… Wow. Besides the guitar pyrotechnics, the overall vibe of Van Halen was very energetic, and very new-sounding, very fresh-sounding. It had a ton of attitude, it was just in-your-face.",
-        "“As soon as that record came out… it was 1978 so I was 13, and I hadn’t picked up the guitar yet… that signalled the end of rock as we knew it. Everything that had happened up to that point all sorta changed.”",
-        "“Mark my words,” wrote Rolling Stone magazine’s Charles M Young in his review of the album, “in three years, Van Halen is going to be fat and self-indulgent and disgusting, and they’ll follow Deep Purple and Led Zeppelin right into the toilet. In the meantime, they are likely to be a big deal… Edward Van Halen has mastered the art of lead/rhythm guitar in the tradition of Jimmy Page and Joe Walsh; several riffs on this record beat anything Aerosmith has come up with in years.”",
-        "When the album came out, the quartet hit the ground running, mixing headline dates in Japan and continental Europe with support shows and festival appearances. When they rejoined Sabbath’s Never Say Die! tour in America, the promoters should really have hired a crime scene investigator to draw chalk outlines around Ozzy, Tony, Geezer and Bill onstage every night – Sabbath were being absolutely murdered.",
-        "Back in Los Angeles in the first week of December ’78, their first world tour completed, the band received an invitation to a party from their record label. Warners wanted to present the quartet with platinum discs, as their debut album had now racked up sales of two million copies in the US alone. Held at the Body Shop on Sunset Boulevard, LA’s only all-nude strip joint, the shindig was a suitably raucous affair. The next day, however, Van Halen were back in Sunset Sound with Ted Templeman, working on album number two.",
-        "With each successive release – Van Halen II (1979), Women And Children First (1980), Fair Warning (1981), Diver Down (1982) - Van Halen grew in confidence and stature, assuming the mantle of America’s Greatest Guitar Band. In 1983, the quartet entered the Guinness Book Of Records after securing the highest-ever fee for a single performance, when Apple Computers co-founder Steve Wozniak paid them $1.5 million to headline the ‘Heavy Metal Day’ of the 1983 US festival above Ozzy, Judas Priest, Scorpions and Mötley Crüe.",
-        "“It was the day new wave died,” said Crüe frontman Vince Neil, “and rock’n’roll took over.” Though Eddie somewhat dismissed the idea of Van Halen being labelled a heavy metal band – “to me, heavy metal is just rock’n’roll. It’s a feeling put out at a high volume” – his influence upon three subsequent generations of metal musicians is inarguable. In his free-flowing, uninhibited, boundary-flouting playing, other musicians heard the sound of liberation – and his influence would be heard in the playing of everyone from Dimebag Darrell to Killswitch Engage’s Adam D.",
-        "“He was to our generation what Hendrix was to his,” superfan Dimebag commented. “He plays Eruption and you go, ‘Shit, I never heard a guitar sound like that in my life!’”",
-        "“In the guitar hierarchy, where Jimi Hendrix is God, Eddie was Jesus Christ, the Second Coming,” says Zakk Wylde, who joined Eddie onstage at Dimebag’s funeral in 2004 to toast the former Pantera guitarist. “Ed broke through less than 10 years after Jimi passed, but he sounded like the new age. It was like he came from another planet.”",
-        "With Van Halen’s profile raised immeasurably by the national television coverage given to their appearance at the US festival, the quartet’s 1984 album yielded their first US No.1 single, Jump , and took up a five-week residency at No.2 on the Billboard charts; it would go on to become Van Halen’s second 10 million-selling album. Ironically, the album that kept it from the top spot was Michael Jackson’s Thriller , which featured the on-loan guitar skills of a certain moonlighting Dutch-born guitarist on hit single Beat It .",
-        "Even the wildest parties must one day wind down, and the first cracks in the VH world came with the exit of David Lee Roth in 1985. Emboldened by the success of his debut solo EP, Crazy From The Heat , David branded the guitarist a “dictator” as he departed. “Nobody cares about Van Halen without David Lee Roth,” he sneered.",
-        "Labelling David a “clown”, Eddie Van Halen responded in the most cutting terms. “The problem with Roth was that he forgot who wrote the songs,” he told writer and long-time friend Steven Rosen, whose 2022 book Tonechaser - Understanding Edward: My 26-Year Journey with Edward Van Halen remains the definitive EVH biography. “I wrote them. And the songs are the heart of our music. I never listened to his words. I couldn’t have cared less what he was singing about.”",
-        "Van Halen promptly recruited former Montrose vocalist Sammy Hagar to front the band, and the new-look quartet scored Van Halen’s first American No.1 album with 1986’s 5150 . Three consecutive Billboard chart-topping albums followed, each a little more sophisticated and mature than its predecessors, though Eddie’s playing remained joyously unrestrained. Sammy departed in acrimonious circumstances following 1995’s Balance album – “ Balance was like pulling teeth,” he told this writer. “Things had got very dysfunctional by then” – but Eddie forged on, recruiting Extreme vocalist Gary Cherone for the confusingly-titled III album. Though the album received the worst reviews of his band’s career - “The fundamental problem with this album is the songs,” one UK rock magazine declared. “They’re shit” – the guitarist never lost his passion for the music… or the attendant lifestyle. In Japan to promote Black Label Society’s Sonic Brew album, Zakk Wylde caught up with Eddie in Tokyo, where Van Halen were booked to play three nights at the historic Budokan venue, and ended up partying with his hero into the wee hours.",
-        "“Van Halen opened up with Unchained and Ed was just killing it,” Zakk recalls. “He came up to my hotel room afterwards and he was playing my Les Paul, with the bullseye, and the guitar was hanging around his knees like Jimmy Page in 1975. He was playing every Led Zeppelin lick that he knew, from back when Van Halen played covers. It was insane, I had Jesus Christ in my room playing Jimmy Page licks on my guitar. Quite a night.”",
-        "That childlike sense of wonder intrinsic in Eddie’s playing from his very first time seeing Jimmy Page onstage never seemed to fade.",
-        "“All we’re trying to do is put some excitement back into rock’n’roll,” he told Steven Rosen as his band’s 1978 debut was racked in record stores worldwide. “It seems like a lot of people are old enough to be our daddies and they sound like it, or they act like it. It seems like they forgot what rock’n’roll is all about.”",
-        "Eddie Van Halen’s passing on October 6, after a long battle with cancer, hit the rock community hard, and tributes poured in from friends and fans alike. On Instagram, Slash posted a single black and white image of Eddie Van Halen with his self-made ‘Frankenstrat’ guitar and wrote ‘RIP #EddieVanHalen’. Tool’s Adam Jones posted three broken heart emojis. Machine Head mainman Robb Flynn called Eddie “the G.O.A.T. [Greatest Of All Time]”, adding: “My mind is seriously blown right now. I cried. He was one in a billion.”",
-        "Having battled cancer himself in recent years, Tony Iommi’s tribute to his old pal carried an added level of poignancy.",
-        "“I’m just devastated to hear the news of the passing of my dear friend Eddie Van Halen,” Iommi wrote. “He fought a long and hard battle with his cancer right to the very end. Eddie was one of a very special kind of person, a really great friend. Rest In Peace my dear friend till we meet again.”",
-        "In one of his last major interviews, with Music Radar , Van Halen was asked if he had any advice for aspiring guitar players. His answer was wonderfully simple.",
-        "“Bottom line is, you’ve gotta love what you’re doing,” he replied. “There are no rules. You have 12 fucking notes… do whatever you want with them.”",
-        "“Eddie reminded us that music is freedom,” says Halestorm’s Lzzy Hale. “He inspired all of us to be unapologetically ourselves when it comes to technique or how we see the guitar. Rock stars don’t fade, their magic is passed down and lives forever through all of us. I believe that not just this generation, but many generations to come will be influenced in some way by Eddie’s legacy.”",
-        "Excerpts from this feature appear in Unchained: The Eddie Van Halen Story . Tonechaser: Understanding Edward - My 26-Year Journey with Edward Van Halen by Steven Rosen is available here .",
-        "A music writer since 1993, formerly Editor of Kerrang! and Planet Rock magazine (RIP), Paul Brannigan is a Contributing Editor to Louder. Having previously written books on Lemmy, Dave Grohl (the Sunday Times best-seller This Is A Call) and Metallica ( Birth School Metallica Death , co-authored with Ian Winwood), his Eddie Van Halen biography ( Eruption in the UK, Unchained in the US) emerged in 2021. He has written for Rolling Stone, Mojo and Q, hung out with Fugazi at Dischord House, flown on Ozzy Osbourne's private jet, played Angus Young's Gibson SG, and interviewed everyone from Aerosmith and Beastie Boys to Young Gods and ZZ Top. Born in the North of Ireland, Brannigan lives in North London and supports The Arsenal."
-      ],
-      "content_complete": true,
-      "artists": [
-        {
-          "id": "ac-dc",
-          "name": "AC/DC"
-        },
-        {
-          "id": "aerosmith",
-          "name": "Aerosmith"
-        },
-        {
-          "id": "black-sabbath",
-          "name": "Black Sabbath"
-        },
-        {
-          "id": "deep-purple",
-          "name": "Deep Purple"
-        },
-        {
-          "id": "dokken",
-          "name": "Dokken"
-        },
-        {
-          "id": "great-white",
-          "name": "Great White"
-        },
-        {
-          "id": "guns-n-roses",
-          "name": "Guns N’ Roses"
-        },
-        {
-          "id": "judas-priest",
-          "name": "Judas Priest"
-        },
-        {
-          "id": "led-zeppelin",
-          "name": "Led Zeppelin"
-        },
-        {
-          "id": "metallica",
-          "name": "Metallica"
-        },
-        {
-          "id": "ozzy-osbourne",
-          "name": "Ozzy Osbourne"
-        },
-        {
-          "id": "scorpions",
-          "name": "Scorpions"
-        },
-        {
-          "id": "the-rolling-stones",
-          "name": "The Rolling Stones"
-        },
-        {
-          "id": "van-halen",
-          "name": "Van Halen"
-        }
-      ],
-      "original_title": "\"There are no rules. You have 12 notes… do whatever you want with them.\" Eddie Van Halen, the life and times of a guitar god",
-      "topics": [],
-      "media_checked_at": 1791302334,
-      "translation_last_attempt": 1792025803,
-      "translation_pending": true
-    },
-    {
-      "id": "a4b44a1b6e17c4cc63e828793ee2c23c8ef15dd7",
-      "title": "Lammoth: удивительно эмоциональный блэк-металлический проект о пони Lord of the Rings",
-      "short": "Для многих, включая этого писателя, первое знакомство с увлекательным миром Роба Сэнфорда было связано с работой над его последним альбомом Onward. Его теплое, деревенское изображение милого пушистого пони, пытливо глядящего в объектив, симпатичная горная цепь, пронизывающая лазурное небо позади него, выглядит как что-то вырванное прямо из передней обложки детской…",
-      "paragraphs": [
-        "Для многих, включая этого писателя, первое знакомство с увлекательным миром Роба Сэнфорда было связано с работой над его последним альбомом Onward. Его теплое, деревенское изображение милого пушистого пони, пытливо глядящего в объектив, симпатичная горная цепь, пронизывающая лазурное небо позади него, выглядит как что-то вырванное прямо из передней обложки детской приключенческой книги.",
-        "Это прекрасный образ, но не поэтому он привлекает столько внимания. Рядом с произведением искусства находится зазубренный, величественный, но совершенно неразборчивый логотип Lammoth, проекта, который породил альбом. Это, безошибочно, логотип блэк-метала, создающий непреодолимое эстетическое противопоставление, которое показало, что обложка альбома стала вирусной в металлических кругах социальных сетей.",
-        "«Я был определенно удивлен!» — говорит Роб, когда его спросили о реакции. \"Я был действительно ошеломлен. Этот проект я просто сделал в комнате в своем доме и выпустил самостоятельно. Я никогда не ожидал, что с ним свяжется много людей».",
-        "Я никогда не ожидал, что многие люди свяжутся с этим.",
-        "Если произведение искусства альбома было забавной загадкой, то на самом альбоме ничего не было. Onward, безусловно, является подлинным первым для металла: концептуальный альбом о Билле Пони, невольном, невоспетом десятом члене Fellowship Of The Ring, мужественной пестрой команде в центре первой части J.R.R. Толкина Lord Of The Rings Трилогия. Приключение Бедного Билла заканчивается, когда его отпускает рыдающий Сэмвайз Гэмджи, когда Братство достигает шахт Мории (спойлер: они воссоединяются в конце).",
-        "Ярлык, с которым я работаю, Fiadh Productions, является некоммерческой организацией, которая жертвует все доходы на благосостояние животных. \" Rob explains. \" Я сам большой защитник прав животных. Голова лейбла раз в квартал делает ленту на тему животных, которую подписчики могут получить копию, и поэтому она подошла ко мне и спросила, заинтересована ли я в ее создании».",
-        "К этому моменту Роб - уроженец Техаса, теперь базирующийся в Северной Каролине, который экспериментировал с экстремальным металлом в течение нескольких лет - уже запустил Lammoth, проект, призванный объединить его любовь к блэк-металу с пожизненной одержимостью работами Толкина (название «Lammoth» происходит из области Средиземья, упомянутой в его посмертной книге 1977 года, The Silmarillion). Проект включал в себя несколько треков и EP, 2024 года Tales Of Treachery, но это была возможность попробовать что-то более амбициозное.",
-        "Я сидел там и думал: «Как я буду делать свои блэк-металлические вещи для Хоббита и делать их на тему животных?» \" Rob recalls. \" Вот где я был: О! Поначалу это была глупая идея, но чем больше я думал об этом, тем больше у Билла на самом деле такая захватывающая история, и он является своего рода недопредставленным героем в легендариуме Толкина, особенно в металлическом мире. Я не могу придумать другую металлическую песню, в которой вообще упоминался бы Билл Пони».",
-        "Ага, как мы и говорили: это первое. И если концепция альбома (и это произведение искусства, созданное Джейкобом Куддесом) не достаточно, чтобы убедить вас, что это не похоже ни на что другое, на что вы наткнетесь в этом году, музыка сделает это. Отрываясь от звука скачущих копыт (конечно), причудливого, мерцающего фортепиано и барабанного 8-битного удара, открывающий трек Poor Old Half-Starved Pony врезается в жизнь взрывом тревело-риффинга и пронзительных воплей.",
-        "Вскоре это теплое фортепиано пробирается обратно для восхитительного тонального разреза левого килтера, и так же, как вы думаете, что у вас есть голова вокруг причудливого сплетения, которое оно создает, этот 8-битный бит снова врезается с тонкостью копыта в пах.",
-        "То, что следует, является одним из самых головокружительных, но убедительных прослушивания 2026 года как триумфальные, основные ключевые блэк-металлические косы через набухающий чиптюн, мерцающие стены обувной атмосферы и галопом хэви-метал. И это действительно работает: то, что на первый взгляд может показаться сумасшедшим экспериментом, на самом деле довольно ловко использует те дуэльные оттенки света и тьмы, которые лежат в основе работы Толкина. Это звуковой пейзаж, очень похожий на его исходный материал, в котором эпопея и причуда могут жить бок о бок. Это также микс, совершенно не похожий ни на что из того, что слышал Hammer, хотя Роб рад рассказать нам о корнях своего звука.",
-        "«Я слушаю все виды другой музыки, кроме металла, и многое из этого в конечном итоге становится музыкой видеоигр», - говорит он, называя композитора Zelda / Mario Bros Коджи Кондо и композитора Final Fantasy Нобуо Уэмацу двумя большими влияниями. Он также ссылается на нью-йоркских магов жанра Anamanaguchi и Gonemage, коллегу по чиптюну / экстремальному металлическому сплайсеру, с которым он сотрудничал в прошлом году. Несмотря на это, его собственное вращение в жанре поразило особенно глубокий аккорд - Lammoth's bandcamp изобилует комментариями от поклонников, утверждающих, что Onward довел их до слез.",
-        "«Я получил так много сообщений», — говорит Роб, выглядя заметно тронутым. \"У меня есть люди, которые говорят, что этот альбом помог им пережить трудные времена. Сообщения от людей, которые говорят, что они в больнице, и этот альбом дает им надежду. Это заставляет меня плакать. Просто думать, что какая-то мелочь, которую я сделал, оказывает такое влияние на совершенно незнакомых людей. Это действительно круто, чувак\".",
-        "Несмотря на повышенный уровень внимания Onward Роб не задумывается о своих дальнейших шагах. Он говорит Hammer, что, скорее всего, не будет писать больше музыки для Ламмота до «конца 2027 года», но он надеется продолжить одно живое шоу, которое он сыграл с более усиленной презентацией в ближайшее время.",
-        "В то же время он будет использовать Ламмота для продвижения наиболее важных для него причин - его линия мерча «Хоббиты против фашизма» стала огромным хитом - и надеется, что его маленький хоббитский черно-металлический проект продолжит вдохновлять людей в темные времена.",
-        "«Иногда мы находим утешение в тяжелой музыке», — размышляет он. Когда мы слушаем тяжелую музыку, которая нам нравится, мы не всегда сидим там в гневе и грусти. Музыка помогает нам чувствовать себя лучше. Я думаю, что надежда — это такая специфическая эмоция, которую я действительно ценю, и я подумал, что было бы круто продвигать ее вперед в блэк-метале. И надежда является такой важной темой Толкина, поэтому было совершенно логично использовать ее для создания музыки надежды».",
-        "Onward выходит через Fiadh Productions. Прослушайте Bandcamp",
-        "Мерлин был назначен исполнительным редактором Louder в начале 2022 года, после более чем десяти лет работы в Metal Hammer. Находясь там, он работал онлайн-редактором и заместителем редактора, а затем был повышен до редактора в 2016 году. До прихода в Metal Hammer, Мерлин работал помощником редактора в журнале Terrorizer и писал для Classic Rock, Rock Sound, eFestivals и других. На протяжении всей своей карьеры он брал интервью у легенд, включая Ozzy Osbourne, Lemmy, Metallica, Iron Maiden (включая поездку на Ed Force One от Брюса Дикинсона), Guns N' Roses, KISS, Slipknot, System Of A Down и Meat Loaf. Он также представил и спродюсировал подкаст Metal Hammer, представил Metal Hammer Radio Show и, вероятно, отвечает за 90% всего контента, связанного с металлом, попадающего на сайт."
-      ],
-      "category": "Прогрессив",
-      "source": "Louder",
-      "published": "2026-10-06T15:00:00+00:00",
-      "original_url": "https://www.loudersound.com/music/lammoth-interview-new-noise-lord-of-the-rings-hobbit",
-      "saved_at": 1791302180,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/4hH9AbPBQQZfSk7zMhB9AC-1280-80.png",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/4hH9AbPBQQZfSk7zMhB9AC.png",
-          "caption": "Lammoth in front of a hedge"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/8gNtQvujcrUBia6g2RyxZR.jpg",
-          "caption": "Mastodon on a bridge"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/jfcxfQ7moAg3hy7ccSwqEe.png",
-          "caption": "The band Eihwar"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/cuTuYNhSqZrXtEyRHj8pHG.jpg",
-          "caption": "Ysbrydnos in 2026"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/Uk4iTyD335DUUjaAQkUFiG.jpg",
-          "caption": "Mortiis"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/873NMnn7YPiVwZpYXdWziB.jpg",
-          "caption": "Mastodon group portrait"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/AaW7gaPjfGEUemBo79T9nB.jpg",
-          "caption": "Serena Cherry Noctule"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/3fD7GgFW8JbJZkRBrhbLFC.png",
-          "caption": "Lammoth in front of a hedge"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/22X9muB8GAPgkg6Kovs5BN.jpg",
-          "caption": "King Crimson"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/enKHeBLehCci7kk2zsymCU.jpg",
-          "caption": "Yes 2025"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/v5j23pgTc9uwZ9xWGVfsdX.jpeg",
-          "caption": "Killing Joke"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/WtmPLmBjwNDAPjFXDymCrB.jpg",
-          "caption": "Led Zeppelin leaning against a car"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/64yFBBRQj69WbbENcEhYJ8.jpg",
-          "caption": "Audience - House On The Hill cover art"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/6FcUuv8uXuAS8hFn4j4bH4.jpg",
-          "caption": "Tracks Of The Week artists"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/m6J8SYhffUxDbLrYfRJwrZ.jpg",
-          "caption": "Eddie Van Halen plays Cobo Arena in Detroit on August 15, 1982"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/qTVbddMRNDnWvZpMLw2ZiD.jpg",
-          "caption": "Led Zeppelin on the steps of Chateau Marmont in Los Angeles, 1969"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/QPy9fUjBhDpd7EEto4XNMH.jpg",
-          "caption": "Strawbs"
-        },
-        {
-          "type": "link",
-          "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.loudersound.com%2Fmusic%2Flammoth-interview-new-noise-lord-of-the-rings-hobbit",
-          "caption": "Facebook"
-        },
-        {
-          "type": "link",
-          "url": "https://twitter.com/intent/tweet?text=%22I%27ve+got+messages+from+people+in+the+hospital+saying+this+is+giving+them+hope.%22+How+a+one-man+black+metal+project+about+a+pony+from+Lord+of+the+Rings+became+one+of+the+most+essential+and+surprisingly+emotional+listens+of+2026&url=https%3A%2F%2Fwww.loudersound.com%2Fmusic%2Flammoth-interview-new-noise-lord-of-the-rings-hobbit",
-          "caption": "X"
-        }
-      ],
-      "original_paragraphs": [
-        "For many, this writer included, the first introduction to Rob Sanford's fascinating world was via the artwork of his latest album, Onward . Its warm, rustic depiction of a cute, fluffy pony gazing inquisitively into the lens, a pretty mountain range piercing the azure sky behind him, looks like something ripped straight from the front cover of a children's adventure book.",
-        "It's a lovely image, but that's not why it's grabbed so much attention. Next to the artwork is the gnarled, majestic but totally illegible logo of Lammoth, the project that birthed the album. It is, unmistakably, a black metal logo, creating an irresistible aesthetic juxtaposition that saw the album's cover go viral in metal social media circles.",
-        "\"I was definitely surprised!\" says Rob when asked about the reaction. \"I was really taken aback. This project, I just made it in a room in my house and released it independently. I never expected a lot of people to connect with it.\"",
-        "I never expected a lot of people to connect with this",
-        "If the album's artwork was an amusing enigma, it had nothing on the album itself. Onward is surely a genuine first for metal: a concept album about Bill the Pony, the unwitting, unsung tenth member of the Fellowship Of The Ring, the courageous motley crew at the heart of the first part of J.R.R. Tolkien's Lord Of The Rings trilogy. Poor Bill's adventure ends when he is let go by a sobbing Samwise Gamgee as the Fellowship reach the mines of Moria (spoiler: they're reunited at the end).",
-        "\"The label I work with, Fiadh Productions, is a non-profit that donates all proceeds towards animal welfare,\" Rob explains. \"And I am a big animal rights activist myself. The label head does an animal-themed tape once a quarter that subscribers can get a copy of, and so she approached me and asked if I was interested in doing one.\"",
-        "By this point, Rob - a Texas native, now based in North Carolina, who had been experimenting with extreme metal for a few years - had already launched Lammoth, a project designed to unite his love of black metal with a lifelong obsession with the works of Tolkien (the name 'Lammoth' is derived from an area of Middle Earth referenced in his posthumous 1977 book, The Silmarillion ). The project had sprung a handful of tracks and an EP, 2024's Tales Of Treachery , but this was an opportunity to attempting something a bit more ambitious.",
-        "\"I was sitting there thinking, 'How am I going to do my Hobbit black metal stuff and make it animal-themed?'\" Rob recalls. \"That's where I was like, 'Oh! Bill the Pony is an obvious choice here!' It was a silly idea at first, but the more I thought about it, Bill actually has such a compelling story, and is kind of an underrepresented hero in Tolkien's legendarium, especially in the metal world. I cannot think of another metal song that mentions Bill the Pony at all.\"",
-        "Yep, like we said: it's a first. And if the album's concept (and it's culture-clash artwork, created by Jacob Kuddes) isn't enough to convince you that this is unlike anything else you'll stumble across this year, the music will do it. Kicking off with the sound of galloping hooves (of course), whimsical, twinkling piano and a thrumming, 8-bit drum beat, opening track Poor Old Half-Starved Pony kicks into life with an explosion of tremelo riffing and piercing shrieks.",
-        "Soon that warm piano sneaks back in for a delightful, left-kilter tonal undercut, and just as you think you've got your head around the bizarre mash-up it creates, that 8-bit beat comes crashing in again with the subtlety of a hoof to the groin.",
-        "What follows is one of the most dizzying but compelling listens of 2026 as triumphant, major key black metal scythes through bouncy chiptune, shimmering walls of shoegazey ambience and galloping heavy metal . And it really works: what at first might seem like a whacky experiment actually quite deftly harnesses those duelling shades of light and darkness that lie at the heart of Tolkien's work. It's a soundscape, much like its source material, in which the epic and the whimsical can live side by side. It's also a mix quite unlike anything Hammer has heard before, though Rob is happy to educate us on the roots of his sound.",
-        "\"I listen to all kinds of different music other than metal, and a lot of it ends up being video game music,\" he says, namedropping Zelda/Mario Bros composer Koji Kondo and Final Fantasy composer Nobuo Uematsu as two big influences. He also references New York genre-benders Anamanaguchi and Gonemage, a fellow chiptune/extreme metal splicer who he collaborated with last year. Regardless, his own spin on the genre has struck a particularly profound chord - Lammoth's bandcamp is littered with comments from fans claiming Onward has brought them to tears.",
-        "\"I've gotten so many messages,\" Rob reveals, looking visibly touched. \"I've got people saying this album's gotten them through rough times. Messages from people saying they're in the hospital, and this album is giving them hope . It makes me want to cry. Just thinking that some little thing I made has that kind of an impact on complete strangers. It's really cool, man.\"",
-        "Despite the extra level of attention Onward has brought, Rob isn't overthinking his next steps. He tells Hammer he likely won't write more music for Lammoth before \"late 2027\", but he's hoping to follow up the one live show he's played with a more beefed-up presentation soon.",
-        "In the meantime, he'll be using Lammoth to promote the causes most important to him - his 'Hobbits Against Fascism' merch line has been a huge hit - and hoping that his little hobbit black metal project will continue to inspire people through dark times.",
-        "\"Sometimes, we find comfort in heavy music,\" he muses . \"When we're listening to the heavy music that we like, we're not always sitting there angry and sad. The music is there to make us feel better. I think hope is such a specific emotion that I really appreciate, and I thought it would be cool to push that forward in black metal. And hope is such an essential Tolkien theme, so it just made perfect sense to use it to make hopeful music.\"",
-        "Onward is out now via Fiadh Productions. Listen to it via Bandcamp",
-        "Merlin was promoted to Executive Editor of Louder in early 2022, following over ten years working at Metal Hammer. While there, he served as Online Editor and Deputy Editor, before being promoted to Editor in 2016. Before joining Metal Hammer, Merlin worked as Associate Editor at Terrorizer Magazine and has written for Classic Rock, Rock Sound, eFestivals and others. Across his career he has interviewed legends including Ozzy Osbourne, Lemmy, Metallica, Iron Maiden (including getting a trip on Ed Force One courtesy of Bruce Dickinson), Guns N' Roses, KISS, Slipknot, System Of A Down and Meat Loaf. He has also presented and produced the Metal Hammer Podcast, presented the Metal Hammer Radio Show and is probably responsible for 90% of all nu metal-related content making it onto the site."
-      ],
-      "content_complete": true,
-      "artists": [
-        {
-          "id": "guns-n-roses",
-          "name": "Guns N’ Roses"
-        },
-        {
-          "id": "iron-maiden",
-          "name": "Iron Maiden"
-        },
-        {
-          "id": "metallica",
-          "name": "Metallica"
-        },
-        {
-          "id": "ozzy-osbourne",
-          "name": "Ozzy Osbourne"
-        },
-        {
-          "id": "system-of-a-down",
-          "name": "System Of A Down"
-        },
-        {
-          "id": "terrorizer",
-          "name": "Terrorizer"
-        }
-      ],
-      "original_title": "Lammoth: the surprisingly emotional black metal project about a pony from Lord of the Rings",
-      "topics": [],
-      "media_checked_at": 1791302334
-    },
-    {
-      "id": "624ffe1db9f4f3b4b6dbd6692d538193cba88758",
-      "title": "BRIAN MAY: «50 лет уже езжу в туры, хватит!»",
-      "short": "BRIAN MAY сообщил британской газете «The Times», что больше не будет гастролировать: «18 месяцев назад я принял решение, что не хочу больше ездить в турне. Когда мы были в Штатах, умер близкий друг семьи, и я сказал своему тур-менеджеру: „Я просто на пару дней заскочу домой и вернусь“. Она посмотрела мне в глаза и ответила: „Ты же знаешь, что так поступить нельзя“.",
-      "paragraphs": [
-        "BRIAN MAY сообщил британской газете «The Times», что больше не будет гастролировать:",
-        "«18 месяцев назад я принял решение, что не хочу больше ездить в турне. Когда мы были в Штатах, умер близкий друг семьи, и я сказал своему тур-менеджеру: „Я просто на пару дней заскочу домой и вернусь“. Она посмотрела мне в глаза и ответила: „Ты же знаешь, что так поступить нельзя“.",
-        "Я люблю выступать, я люблю путешествовать, но ценой этого становится пожертвование своей свободой. У меня есть жена, внуки и много астрофизики, которой я хочу заниматься, поэтому я думаю, что, возможно, 50 лет — это достаточно».",
-        "79-летний Мэй не исключил возможности сохранить группу QUEEN другими способами, сказав:",
-        "«Мы действительно хотим сделать что-то довольно революционное. Не так, как сделала группа ABBA [с помощью цифровых аватаров], но в том же духе. ... В прошлом году я побывал в «Сфере» [в Лас-Вегасе], у меня закипела кровь, и я набросал целую концепцию шоу QUEEN. Думаю, иммерсивный опыт всё ещё в планах и может покорить время и пространство, но в настоящее время без ИИ [искусственного интеллекта] это невозможно, а у меня есть серьёзные сомнения по этому поводу. ... Центры обработки данных — это огромное зло, с которым нужно бороться»."
-      ],
-      "category": "Хэви-метал",
-      "source": "Darkside",
-      "published": "2026-10-06T11:14:33+00:00",
-      "original_url": "http://www.darkside.ru/news/184249/",
-      "saved_at": 1791277757,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.darkside.ru/band/20061/n184249.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "http://www.darkside.ru/band/20061/n184249.jpg",
-          "caption": ""
-        }
-      ],
-      "artists": [],
-      "original_title": "BRIAN MAY: «50 лет уже езжу в туры, хватит!»",
-      "topics": [
-        "live"
-      ],
-      "media_checked_at": 1791277794
-    },
-    {
-      "id": "29794797705fbcea59392d4dfdf14c27cde71197",
-      "title": "Кавер-версия хита QUEEN от HAGANE",
-      "short": "HAGANE представили видео на собственное прочтение хита QUEEN We Will Rock You",
-      "paragraphs": [
-        "HAGANE представили видео на собственное прочтение хита QUEEN We Will Rock You"
-      ],
-      "category": "Хэви-метал",
-      "source": "Darkside",
-      "published": "2026-10-06T10:28:28+00:00",
-      "original_url": "http://www.darkside.ru/news/184255/",
-      "saved_at": 1791277758,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.darkside.ru/band/23283/n184255.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "http://www.darkside.ru/band/23283/n184255.jpg",
-          "caption": ""
-        }
-      ],
-      "artists": [],
-      "original_title": "Кавер-версия хита QUEEN от HAGANE",
-      "topics": [],
-      "media_checked_at": 1791277795
-    },
-    {
-      "id": "4e3236911724317c82baf241683f6b5131cfff37",
-      "title": "PHIL RUDD на Феррари врезался в дерево",
-      "short": "Как сообщает газета «The New Zealand Herald», бывший барабанщик группы AC/DC PHIL RUDD был оштрафован по обвинению в неосторожном вождении в Тауранге (Новая Зеландия), где он проживает с 1983 года. 72-летний музыкант, настоящее имя которого Филлип Хью Норман Витчке, в июле прошлого года, управляя своим Ferrari 599 2009 года выпуска на бульваре Лейкс в Таурико, на окраине…",
-      "paragraphs": [
-        "Как сообщает газета «The New Zealand Herald», бывший барабанщик группы AC/DC PHIL RUDD был оштрафован по обвинению в неосторожном вождении в Тауранге (Новая Зеландия), где он проживает с 1983 года.",
-        "72-летний музыкант, настоящее имя которого Филлип Хью Норман Витчке, в июле прошлого года, управляя своим Ferrari 599 2009 года выпуска на бульваре Лейкс в Таурико, на окраине Тауранги, проехал по круговому перекрёстку с зелёными насаждениями и врезался в дерево.",
-        "«Следы заноса и выбоины на дороге свидетельствовали о том, что автомобиль подлетел над круговым перекрестком с зелеными насаждениями, после чего съехал с дороги на бордюр и столкнулся с небольшим деревом», — говорится в полицейском отчете о фактах.",
-        "Мировой судья Шон Коул оштрафовал Радда на 500 долларов и обязал его оплатить судебные издержки в размере 100 долларов.",
-        "Еще в июле 2015 года новозеландский судья приговорил Phil'a к восьми месяцам домашнего ареста после того, как барабанщик признал себя виновным в угрозе убийства мужчины, который раньше работал на него, а также в хранении метамфетамина и марихуаны.",
-        "В то время Rudd признал, что предложил своему знакомому 200 000 долларов, мотоцикл и на выбор одну из своих машин или дом после того, как попросил его «убрать» жертву. Он также признал, что прямо сказал жертве, что собирается убить его.",
-        "Хотя изначально прокуратура также предъявила Phil'у обвинение в заказе убийства, позже это обвинение было снято из-за отсутствия доказательств."
-      ],
-      "category": "Хард-рок",
-      "source": "Darkside",
-      "published": "2026-10-06T09:33:19+00:00",
-      "original_url": "http://www.darkside.ru/news/184252/",
-      "saved_at": 1791277760,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.darkside.ru/band/16780/n184252.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "http://www.darkside.ru/band/16780/n184252.jpg",
-          "caption": ""
-        }
-      ],
-      "artists": [
-        {
-          "id": "ac-dc",
-          "name": "AC/DC"
-        }
-      ],
-      "original_title": "PHIL RUDD на Феррари врезался в дерево",
-      "topics": [],
-      "media_checked_at": 1791277796
-    },
-    {
-      "id": "a833b16a5c7bf436de55bdacdbd4d9b2ef255d6b",
-      "title": "Как King Crimson создал Starless, в комплекте с соло «death прог»",
-      "short": "Starless является одной из самых известных песен King Crimson и закрывает седьмой альбом группы Red, выпущенный в 1974 году. Но к тому времени группа, которая изо всех сил пыталась сделать это, распалась, что стало результатом желания Robert Fripp изменить свою жизнь.",
-      "paragraphs": [
-        "Starless является одной из самых известных песен King Crimson и закрывает седьмой альбом группы Red, выпущенный в 1974 году. Но к тому времени группа, которая изо всех сил пыталась сделать это, распалась, что стало результатом желания Robert Fripp изменить свою жизнь. Недооцененный по их прибытию, Starless стал одним из венчающих славы группы. В 2024 году в рамках детального анализа Red, Прог рассказал историю создания песни.",
-        "На саундчеках King Crimson в начале-середине 70-х Robert Fripp часто выкидывал аккорд или мотив, который мог или не мог быть подхвачен другими. Одним из них был рифф Red. Иногда, однако, в более формальном окружении репетиционной комнаты будет представлена более полная идея. Но один из них, Starless - один из самых известных и признанных треков King Crimson - почти никогда не случался.",
-        "Басист и вокалист John Wetton и лирик Ричард Палмер-Джеймс написал балладу и представил ранний черновик на репетиции в конце 1973 года. Веттон однажды вспомнил, как был ошеломлен, когда его чувствительная песня была встречена вежливым безразличием, поскольку группа быстро перешла к другим вещам. «Репетиции всегда были ледяным и довольно мрачным видом участия», — комментирует барабанщик Bill Bruford.",
-        "Тем не менее, товарищам по группе Wetton понравилась строчка из припева песни «Starless и библейский черный .» Принятая Палмером-Джеймсом из вступительного отрывка радиоспектакля Дилана Томаса 1954 года Under Milk Wood, она так сильно связана с Crims, что была назначена на инструментальную импровизацию и использовалась в качестве названия для последующего альбома Larks’ Tongues In Aspic.",
-        "Перед релизом этой пластинки, hoever, квартет пересмотрел балладу Уеттона. На этот раз она будет дополнена несколькими решающими и трансформационными новыми элементами. Первый пришел, когда группа гастролировала во время конца 1973 года. «Я помню, как стоял на сцене в саундчеке, возился с ним и просто пытался найти какое-то удовлетворение от него», - говорит скрипач David Cross о скорбной мелодии woebegone, которая открывает Starless.",
-        "«Я экспериментировал с таким скачком. Я всегда пытался найти способ подняться и спуститься. И я хотел подняться на октаву, и я хотел показать девятую шкалу, которая очень мощная. Я хотел сделать это удовлетворительным образом. Так что я всегда играла с ним, просто надевала всех вокруг, пока мы не заметили это.",
-        "«Роберту, вероятно, просто надоело слушать, как я кручусь с ним, и он взял его и сделал с ним что-то и, вероятно, превратил его в правильную мелодию, или я бы просто продолжал кружиться с ним. Он посчитал, что я его начал, и он его закончил».",
-        "Еще одна особенность новой пьесы появилась, когда Бруфорд играл на фортепиано дома. «Меня интересовала музыка в целом», — объясняет он спустя шесть десятилетий после того, как придумал светящуюся басовую мелодию, которая лежит в основе центральной части. — Пианино замечательно, потому что вы можете видеть ноты, и это очень ритмично.",
-        "«Так что для кого-то вроде меня, кто собирается делать ритмичные вещи, просто хлопайте по ноте, и выходит ритм на поле. Если вы затем измените некоторые из этих нот, вы получите ритм с небольшим количеством мелодии, а затем вы дадите его John Wetton или Robert Fripp, чтобы увидеть, что они с ним делают».",
-        "То, что сделал Фрипп, состояло в том, чтобы переместить весь свой многолетний опыт, мастерство и ловкость в одну ноту, сыгранную на двух струнах с некоторым изгибом тона в течение более четырех минут, что Steven Wilson стало бы описывать как «death прог-соло».",
-        "Добавлением к этому уже захватывающему варению стал басовый рифф, который изначально был частью ранних версий Fracture, написанных и исполненных Фриппом в 1973 году. Эта быстро движущаяся фигура в стиле джаз-рок, движимая басом, обеспечила платформу для раздела «дуть/солить» до того, как величественное повторение основной темы привело всю пьесу к громовому завершению.",
-        "Получив свой первый прямой эфир всего через несколько дней после того, как аранжировка была завершена, Starless был огромным хитом с толпой - отчасти благодаря простому, но невероятно эффективному сигналу освещения, который наполнил всю сцену адским, пылающим малиновым / red светом, поскольку произведение неустанно росло в силе и величине по сравнению с этой запоминающейся басовой линией Бруфорда.",
-        "С этим было чрезвычайно трудно иметь дело. Но если вы наложите эти препятствия на создание чего-то, и люди останутся в комнате, вы можете просто добраться туда.",
-        "Как отметил Фрипп в своём дневнике после последнего выступления группы в Центральном парке Нью-Йорка 1 июля 1974 года: «Огни в конце Starless действительно взорвали толпу. Восхитительный прием... Все были довольны выступлением. Беседа с John Wetton - световые эффекты, подобные этому, действительно имеют значение\".",
-        "К тому времени, когда они пришли записать песню в Olympic Studios в июле 1974 года, трио, оставшееся после ухода Кросса, сыграло её на концерте более 51 раз. Было обидно, что Crimson наконец-то смогли направить сырую энергию своих живых выступлений в студию, учитывая то, что происходило в психике группы.",
-        "По мере начала сессий Фрипп сказал своим коллегам, что он «отменяет свое мнение» и что его мысли больше не имеют значения. Бруфорд и Уэттон решили, что он просто «вытягивал каприз» и взялся за дело. Подход Фриппа был частью того, что он позже охарактеризовал как стратегию радикального нейтралитета: «не делать ничего, что позволяет делать все».",
-        "Его нежелание брать на себя инициативу так, как он делал в предыдущих записях, отчасти было ответом на прочтение работы Джей Джи Беннетта; и в течение нескольких недель и месяцев в дороге растущее осознание того, что безумие и излишества музыкальной индустрии противоречат жизни, которую он хотел вести. Бремя и ответственность руководства King Crimson против перекрестных ветров коммерциализации и художественного компромисса становилась для него слишком большой.",
-        "Его идея Frippless Crimson, с оригинальным членом Ian McDonald, воссоединившимся с группой на постоянной основе, была обсуждена, но в конечном итоге отвергнута EG Management. Измученный перспективой еще одного года на беговой дорожке, Фрипп пришел к выводу, что единственный выход - это положить конец группе. Очень мало обсуждалось с Бруфордом или Уэттоном. «Я думаю, что им, вероятно, было очень трудно», — размышляет Фрипп. Оглядываясь назад на создание Red, Бруфорд соглашается с оценкой своего бывшего партнера по группе.",
-        "\"С этим было чрезвычайно трудно справиться. Но я также понимаю, что если вы навязываете эти невероятно трудные препятствия и препятствия для создания чего-то, и люди остаются в комнате, вы можете просто добраться туда.",
-        "Мы с Джоном стояли на ногах и говорили: ‘All right.’ Ну, мы сказали: «Пожалуйста, мы сделаем все возможное, чтобы что-то выдумать из этого».",
-        "«В конце концов, все свелось к смешиванию, и именно Джон и Джордж Чкьянц забрали ребенка из ванной, завернули его и раздули. Рождение ребенка было тяжелой работой. Я рад, что Роберт признает, что, по крайней мере, его радикальный нейтралитет был довольно творческим стимулом».",
-        "Основные статьи и обзоры Сида появились в многочисленных публикациях, включая Prog, Classic Rock, Record Collector, Q, Mojo и Uncut. Его книга «In The Court of King Crimson», признанная биография King Crimson, была существенно пересмотрена и расширена в 2019 году, чтобы совпасть с 50-летием группы. Наряду с выступлениями на радио и телевидении он читал лекции по джазу и прогрессивной музыке в Великобритании и Европе.",
-        "Житель Уитли-Бэй на северо-востоке Англии, он проводит слишком много времени, публикуя фотографии пластинок, которые он слушает в Twitter и Facebook."
-      ],
-      "category": "Прогрессив",
-      "source": "Louder",
-      "published": "2026-10-06T09:00:00+00:00",
-      "original_url": "https://www.loudersound.com/music/tracks-singles/king-crimson-starless",
-      "saved_at": 1791277786,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/22X9muB8GAPgkg6Kovs5BN-1280-80.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/22X9muB8GAPgkg6Kovs5BN.jpg",
-          "caption": "King Crimson"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/eEbmHdwYzLASAiP34K67jG.jpg",
-          "caption": "King Crimson in 1981"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/3mgJMksAHVxZTdJcQjcQug.jpg",
-          "caption": "Bassist Boz Burrell (1946 - 2006)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/kw9o435iUwMGnnCZWASwGL.jpg",
-          "caption": "Peter Sinfield"
-        },
-        {
-          "type": "image",
-          "url": "https://img.youtube.com/vi/OfR6_V91fG8/maxresdefault.jpg",
-          "caption": "King Crimson - Starless (OFFICIAL) - YouTube"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/orAJSPgQtJcSsYX5kjYKeQ.jpg",
-          "caption": "Keith Emerson, 1970&#039;s in London, United Kingdom. (Photo by Chris Walter/WireImage)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/2U8uiMGtUsBzRXXTAVrtuf.jpg",
-          "caption": "Alan White, Rick Wakeman, Steve Howe, Jon Anderson and Chris Squire of Yes take a final bow st Wembley Arena, on October 28th, 1978 in London, England. (Photo by Pete Still/Redferns)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/nfD9d4e5EpM4CbqLxedDx7.jpg",
-          "caption": "Roy Harper"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/pDspwFKnXxfe8AK6kxAd4c.jpg",
-          "caption": "King Crimson onstage in Central Park, New York, in 1974 &amp;ndash; their last show before recording Red, and the final show to feature David Cross."
-        },
-        {
-          "type": "image",
-          "url": "https://img.youtube.com/vi/gWmECLnMKGk/maxresdefault.jpg",
-          "caption": "King Crimson - Starless (Live in Takamatsu, Japan 2015) - YouTube"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/4Z5c5yDQgM8Nkbui3hWoU5.jpg",
-          "caption": "Steven WIlson"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/6FcUuv8uXuAS8hFn4j4bH4.jpg",
-          "caption": "Tracks Of The Week artists"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/DZBQoYP4zmfUSABGP8JyHj.jpg",
-          "caption": "EMNW/Tony Iommi/A Perfect Circle/Critical Fear/Pryti"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/XmmPtzhaYMEFxdiAzxg3fC.jpg",
-          "caption": "Jody Williams, Otis Rush, Eric Clapton, Peter Green and Carlos Santana"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/aidYaAx2iityU5dNsiyVH7.jpg",
-          "caption": "Little Angels group portrait"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/Gso8niRtJFgjDyWqB6NJmF.jpg",
-          "caption": "The British rock Group Yes arrived from Japan for concerts in Australia. Lt. to Rt. Jon Anderson, Steve Howe, Alan White, Rick Wakeman, and Chris Squire.YES pictured in Sydney this week. March 13, 1973. (Photo by Martin James Brannan/Fairfa"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/utVREFqJ6aqbMLtpmNCd6Q.jpg",
-          "caption": "A still from Marillion’s 1984 video for Assassing"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/qTVbddMRNDnWvZpMLw2ZiD.jpg",
-          "caption": "Led Zeppelin on the steps of Chateau Marmont in Los Angeles, 1969"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/v5j23pgTc9uwZ9xWGVfsdX.jpeg",
-          "caption": "Killing Joke"
-        }
-      ],
-      "original_paragraphs": [
-        "Starless is one of King Crimson ’s most recognised songs, and closes the band’s seventh album Red , released in 1974. But by that time the band who’d struggled to make it had broken up, the result of Robert Fripp ’s desire to change his life. Under-appreciated on their arrival, Starless has come to be seen as one of the band’s crowning glories. In 2024, within a detailed analysis of Red , Prog told the story of the song’s creation.",
-        "At King Crimson soundchecks in the early to mid 70s, Robert Fripp often threw out a chord or motif which might or might not be picked up on by the others. One of those had been the see-saw riff of Red . Sometimes, however, a more fully fleshed-out idea would be presented in the more formal surroundings of the rehearsal room. But one of those, Starless – among the most well-regarded and most recognised King Crimson tracks – almost never happened.",
-        "Bassist and vocalist John Wetton and lyricist Richard Palmer-James penned a ballad and presented an early draft at a rehearsal in late 1973. Wetton once recalled being crestfallen when his sensitive song was met with polite indifference, as the band quickly went on to other things. “Rehearsals were always an icy and rather bleak kind of engagement,” comments drummer Bill Bruford . “There was a lot of floor staring.”",
-        "However, Wetton’s bandmates did like the line from the song’s chorus, ‘ Starless and bible black .’ Co-opted by Palmer-James from the opening passage of Dylan Thomas’s 1954 radio play Under Milk Wood , it connected so strongly with the Crims that it was assigned to an instrumental improvisation and used as the title to Larks’ Tongues In Aspic ’s follow-up album.",
-        "Before that record’s release, hoever, the quartet revisited Wetton’s ballad. This time it would be augmented by several decisive and transformational new elements. The first came while the band were touring during the tail-end of 1973. “I can remember standing onstage in a soundcheck messing around with it, and just trying to trying to find some kind of satisfaction with it,” violinist David Cross says of the mournful, woebegone melody that opens Starless .",
-        "“I was experimenting with this kind of leap. I was always trying to find a way to get up and come down again. And I wanted to get up the octave and I wanted to feature the ninth of the scale, which is very powerful. I wanted to do it in a satisfying way. So I was always playing around with it, just wearing everybody down around it until we took some notice of it.",
-        "“Robert probably just got bored with listening to me fluffing around with it, and he picked it up and did some stuff with it and probably turned it into a proper tune, or I’d have just kept flapping around with it. He reckoned I started it and he finished it.”",
-        "Another feature of the new piece came when Bruford was playing piano at home. “I was interested in music in its totality,” he explains six decades after he came up with the glowering bass melody that underpins the central section. “A piano is wonderful because you can see the notes and it’s highly rhythmic.",
-        "“So for someone like me who’s going to do a rhythmic thing, just bang on a note, and out comes a rhythm on a pitch. If you then change some of those notes you get a rhythm with a bit of melody, and then you give it to John Wetton or Robert Fripp to see what they do with it.”",
-        "What Fripp did was distil all his years of experience, skill and dexterity into one note played across two strings with some pitch bending for over four minutes – which that Steven Wilson would come to describe as “the ‘death of prog solo.’”",
-        "Adding to this already exciting brew was a bass riff that had originally been part of the early versions of Fripp’s Fracture , written and performed during 1973. That fast-moving jazz-rock-style figure, propelled by the bass, provided the platform for the blowing/soloing section before the majestic recapitulation of the main theme brought the whole piece to a thunderous completion.",
-        "Receiving its first live airing just days after the arrangement had been completed, Starless was a huge hit with crowds – thanks in part to the simple but incredibly effective lighting cue that suffused the entire stage in an infernal, glowering crimson/red light as the piece relentlessly grew in power and magnitude over that memorable Bruford bass line.",
-        "It was extremely hard to deal with. But if you impose these obstacles to making something, and people stay in the room, you might just get there",
-        "As Fripp noted in his diary after the band’s last performance in New York’s Central Park on July 1, 1974: “Lights at the end of Starless really blew the crowd. Rapturous reception... Everyone was pleased with the gig. Conversation with John Wetton – lighting effects like that really make the difference.”",
-        "By the time they came to record the song at Olympic Studios in July 1974, the trio who remained after the departure of Cross had played it in concert more than 51 times. It was poignant that Crimson had at last been able to channel the raw energy of their live performances into the studio, considering what was going on within the psyche of the group.",
-        "As the sessions got underway, Fripp told his colleagues that he was “withdrawing the passing of his opinion” and that his thoughts didn’t matter any more. Bruford and Wetton decided he was simply “pulling a moody,” and got on with the task in hand. Fripp’s approach was part of what he would later describe as a strategy of radical neutrality: “the doing nothing that enables doing everything.”",
-        "His avoidance of taking the initiative in the way he’d done in previous recordings came in part as a response to reading JG Bennett’s work; and, during the weeks and months out on the road, a growing realisation that the madness and excesses of the music industry were contrary to the life he wished to lead. The burden and responsibility of steering King Crimson against the crosswinds of commerciality and artistic compromise was becoming too much for him.",
-        "His idea of a Frippless Crimson, with original member Ian McDonald rejoining the group on a permanent basis, was discussed; but ultimately nixed by EG Management. Exhausted at the prospect of another year on the treadmill, Fripp came to believe the only way out was to put an end to the band. Very little was discussed with Bruford or Wetton. “I think it was probably very hard for them,” Fripp reflects. Looking back on the making of Red, Bruford agrees with his ex-bandmate’s assessment.",
-        "“It was extremely hard to deal with. But I also understand that if you impose these incredibly hard obstacles and hurdles to making something, and people stay in the room, you might just get there.",
-        "“John and I stood our ground and said, ‘All right.’ Well, we said, ‘Sod that – we’ll do whatever we can here to make something up out of this.’ I think John and I were emotionally very, very involved.",
-        "“Towards the end, it got down to the mixing and it was very much John and George Chkiantz who took the baby from the bathwater, wrapped it up and towelled it down. Giving birth to the thing was rough work. I’m glad Robert acknowledges that at least his radical neutrality was quite a creative stimulant.”",
-        "Sid's feature articles and reviews have appeared in numerous publications including Prog, Classic Rock, Record Collector, Q, Mojo and Uncut. A full-time freelance writer with hundreds of sleevenotes and essays for both indie and major record labels to his credit, his book, In The Court Of King Crimson, an acclaimed biography of King Crimson, was substantially revised and expanded in 2019 to coincide with the band’s 50th Anniversary. Alongside appearances on radio and TV, he has lectured on jazz and progressive music in the UK and Europe.",
-        "A resident of Whitley Bay in north-east England, he spends far too much time posting photographs of LPs he's listening to on Twitter and Facebook."
-      ],
-      "content_complete": true,
-      "artists": [
-        {
-          "id": "king-crimson",
-          "name": "King Crimson"
-        },
-        {
-          "id": "steven-wilson",
-          "name": "Steven Wilson"
-        }
-      ],
-      "original_title": "How King Crimson created Starless, complete with the “death of prog” solo",
-      "topics": [],
-      "media_checked_at": 1791277796
-    },
-    {
-      "id": "5c50239cca43e2ea21bb4f9c26eeeff4a1ae7d6b",
-      "title": "Фильм о SCORPIONS покажут зимой",
-      "short": "Долгожданный полнометражный фильм \"Wind Of Change\", музыкальная биография легендарной рок-группы SCORPIONS, выйдет в немецких кинотеатрах 28 января 2027 года. Официальных заявлений о датах премьеры в других странах мира пока не было.",
-      "paragraphs": [
-        "Долгожданный полнометражный фильм \"Wind Of Change\", музыкальная биография легендарной рок-группы SCORPIONS, выйдет в немецких кинотеатрах 28 января 2027 года.",
-        "Официальных заявлений о датах премьеры в других странах мира пока не было.",
-        "Новый официальный трейлер \"Wind Of Change\", съёмки которого начались в начале 2025 года на студии Warner Bros. Studios Leavesden в Лондоне, доступен для просмотра.",
-        "Главные роли исполнили Доминик Уэст (\"The Crown\"), Александр Дреймон (\"The Last Kingdom\"), Людвиг Трепте (\"Generation War\"), Эд Спелирс (\"You\"), Дэвид Кросс (\"The Reader\") и Люк Брэндон Филд (\"Interview With The Vampire\", \"Jojo Rabbit\"). Режиссёром картины выступил Алекс Ранаривело, а продюсировала её компания ESX Entertainment для FOX Entertainment Studios при участии Warner Bros. Home Entertainment.",
-        "\"Wind Of Change\" рассказывает о захватывающем пути легендарной рок-группы SCORPIONS в самом долгоживущем и самом успешном составе: гитарист Rudolf Schenker (Дреймон), Klaus Meine (Трепте), Matthias Jabs (Спелирс) и барабанщик Herman Rarebell (Филд). Это история коллектива, объединённого страстью к музыке, который стремился вдохновить мир на перемены мощным звучанием и значимыми текстами.",
-        "В центре сюжета находится культовый гимн \"Wind Of Change\", ставший саундтреком к концу холодной войны и символом надежды, мира и единства. Своими песнями, от \"Rock You Like A Hurricane\" до \"Still Loving You\", SCORPIONS помогли навести мосты между Востоком и Западом, оставили неизгладимый след в истории и доказали преобразующую силу искусства.",
-        "Доминик Уэст играет Дока Макги, знаменитого менеджера SCORPIONS, а Дэвид Кросс исполнил роль Андрея, томящегося в заключении друга группы по ту сторону Берлинской стены.",
-        "«Работа над этим фильмом стала невероятным путешествием, и теперь, когда он оживает на экране, всё кажется нереальным, — говорит Али Афшар, основатель и президент ESX Entertainment. — Музыка SCORPIONS помогла мне пережить огромные трудности, с которыми я, иранский иммигрант, столкнулся в Америке в начале 80-х, а их послание любви, мира и рок-н-ролла сегодня кажется актуальнее, чем когда-либо.",
-        "Этот актёрский состав — потрясающий ансамбль по-настоящему великих талантов. Я бесконечно благодарен FOX Entertainment и Warner Bros. Home Entertainment за поддержку и особенно самой группе, Rudolf'у, Klaus'у и Matthias'у, за то, что поверили в нас и доверили нам рассказать историю своей жизни».",
-        "SCORPIONS создали выдающееся наследие и стали одной из самых ярких рок-групп последних пятидесяти лет. Они продали 110 миллионов альбомов по всему миру и остаются одним из самых успешных музыкальных экспортных товаров Германии. Такие хиты как \"Rock You Like A Hurricane\" и \"Wind Of Change\" по-прежнему находят отклик у слушателей: последняя композиция преодолела миллиард прослушиваний на разных платформах и остаётся культурным ориентиром.",
-        "Даже сегодня музыка коллектива регулярно звучит на рок-радио и в стриминговых плейлистах, а сам он продолжает гастролировать по всему миру. Такая жизнестойкость обеспечила ему прочное место в истории рока.",
-        "Продюсерами \"Wind Of Change\" стали Али Афшар, Кристина Мур и Дэниел Аспромонте из ESX Entertainment для FOX Entertainment Studios при участии Warner Bros. Home Entertainment. Сценарий написал Марк Эндрюс, режиссёром выступил Алекс Ранаривело. FOX Entertainment Global сохраняет права на мировой прокат, за исключением американских и глобальных транзакционных прав, которыми распоряжается Warner Bros. Discovery Global Content Sales.",
-        "ESX Entertainment — успешная продюсерская компания, базирующаяся на территории студии Warner Bros. С 2017 года она выпустила более двух десятков фильмов. Её работы выходили в кинотеатрах, на HBO MAX, Netflix и Amazon, причём многие из них становились хитами номер один на этих платформах.",
-        "В апреле 2025 года Klaus Meine побеседовал о байопике группы с Rolling Stone. Klaus сказал:",
-        "«Есть один человек, продюсер из Лос-Анджелеса, который уже довольно давно работает над этим проектом. Он принимает его очень близко к сердцу. Он вкладывает в это всю душу, всю свою страсть к року, всю любовь к SCORPIONS, к нашей музыке и к делу всей нашей жизни.",
-        "Он хочет снять не документальный фильм, а именно байопик, рассказать историю группы. Надеюсь, они управятся в ближайшие пару месяцев, и это совпадёт с шестидесятилетием коллектива. Было бы чудесно.",
-        "Они расскажут историю SCORPIONS с другой точки зрения. Этот продюсер — перс, живёт в Лос-Анджелесе и много-много лет тесно сотрудничает с Warner Brothers. Очень опытный продюсер с отличной командой, и все они вкладывают в проект сердце и душу. Они хотят снять великолепный фильм о группе, чтобы поклонники по всему миру могли разделить его с нами».",
-        "В феврале 2025 года Meine рассказал изданию Scorpions Brazil о том, как обстоят дела с \"Wind Of Change\":",
-        "«С кино всегда так: нужно время, чтобы дело сдвинулось с мёртвой точки. Сейчас мы надеемся, что байопик выйдет во всём мире уже в конце этого года. Пока что идёт работа над сценарием и подбор актёров, нужно найти подходящих людей на роли участников группы. Это непросто: пять Брэдов Питтов так сразу не найдёшь».",
-        "На вопрос, участвуют ли он и остальные члены SCORPIONS в кастинге и работе над сценарием, Klaus ответил:",
-        "«Да, мы участвуем в работе над сценарием, и когда начинается первый поиск тех, кто сыграет Rudolf'а, Matthias'а и меня самого, мы тоже в курсе. Мы тесно общаемся с нашим другом Али Афшаром, продюсером фильма. У него отличная команда и большое сердце, он любит нашу группу и снимет по-настоящему особенный байопик, потому что вместе с командой вкладывается в него всей душой. Это чувствуется».",
-        "Meine также отметил, что точно не знает, когда выйдет \"Wind Of Change\".",
-        "«К сожалению, пока слишком рано говорить. Съёмки начинаются примерно в мае, а дальше я понятия не имею. Надеюсь, к осени. Это было бы здорово. Но в кинопроизводстве никогда не угадаешь: тысяча вещей может пойти как хорошо, так и плохо.",
-        "Что тут скажешь? Мы часть процесса и поддерживаем команду. У них чёткая концепция фильма, да и сценарий весьма неплох. Но если по ходу дела что-то придётся менять… Мы причастны к проекту, но наблюдаем со стороны с огромным волнением. И надеемся, что фильм получится таким же классным, как его задумали создатели».",
-        "Когда в июне 2024 года фильм \"Wind Of Change\" был впервые анонсирован, Афшар заявил:",
-        "«Музыка SCORPIONS серьёзно повлияла на нашу культуру. В их звучании есть завораживающее качество, которому нет равных в жанре. Это одна из причин, почему такие хиты, как \"Rock You Like A Hurricane\" и \"Still Loving You\", по-прежнему так часто крутят в эфире и ставят в саундтреки к фильмам, а их музыка продолжает находить отклик у нового поколения слушателей по всему миру.",
-        "Когда моя семья бежала из Ирана в Соединённые Штаты, музыка SCORPIONS изменила мою жизнь, если не спасла её. Надеюсь, что, рассказав историю SCORPIONS, мы сможем подарить миру частицу того же вдохновения».",
-        "Свою классическую балладу \"Wind Of Change\" SCORPIONS написали после выступления на Moscow Music Peace Festival 1989 года в Москве, где они делили сцену с другими хард-рок-командами, среди которых были BON JOVI и MÖTLEY CRÜE. Вдохновением для песни стали тысячи русских, приветствовавших их в 1988 году, когда они первыми из хард-рок-групп сыграли в России, а затем и в 1989-м на упомянутом фестивале, несмотря на то что коллектив был немецким.",
-        "Когда в ноябре 1989 года пала Берлинская стена, \"Wind Of Change\" сопровождала трогательные кадры, на которых жители Восточной Германии проходят через Бранденбургские ворота и впервые вступают на территорию Запада.",
-        "В мае 2020 года в восьмисерийном подкасте под тем же названием \"Wind Of Change\", премьера которого состоялась на Spotify, прозвучала теория, будто эта песня на самом деле была написана ЦРУ как элемент пропаганды на излёте холодной войны. Подкаст вёл журналист The New Yorker Патрик Радден Кифи. Расследование он начал после того, как услышал от знакомого, бывшего сотрудника ЦРУ, историю о том, что \"Wind Of Change\" якобы сочинили в ЦРУ, чтобы подтолкнуть перемены по всему Советскому Союзу."
-      ],
-      "category": "Прогрессив",
-      "source": "Darkside",
-      "published": "2026-10-06T07:43:50+00:00",
-      "original_url": "http://www.darkside.ru/news/184253/",
-      "saved_at": 1791277787,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.darkside.ru/band/1199/n184253.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "http://www.darkside.ru/band/1199/n184253.jpg",
-          "caption": ""
-        }
-      ],
-      "artists": [
-        {
-          "id": "scorpions",
-          "name": "Scorpions"
-        }
-      ],
-      "original_title": "Фильм о SCORPIONS покажут зимой",
-      "topics": [],
-      "media_checked_at": 1791277798
-    },
-    {
-      "id": "a04b3d191d55698ab3e5766250afb2f0816b1972",
-      "title": "RICHIE KOTZEN представил новый сингл",
-      "short": "RICHIE KOTZEN представил видео с текстом к новому синглу \"Big Money Club\". KOTZEN описывает \"Big Money Club\" как зарисовку характера, вдохновлённую особым типом людей, которых он стал замечать после переезда в Лос-Анджелес.",
-      "paragraphs": [
-        "RICHIE KOTZEN представил видео с текстом к новому синглу \"Big Money Club\".",
-        "KOTZEN описывает \"Big Money Club\" как зарисовку характера, вдохновлённую особым типом людей, которых он стал замечать после переезда в Лос-Анджелес.",
-        "«Речь не о конкретном человеке. Это образ, который попадался мне на протяжении многих лет. Его знают все, все к нему хорошо относятся: он на закрытой вечеринке, в дорогом ресторане, за кулисами, за бархатным канатом, но чем он на самом деле занимается, не знает никто».",
-        "KOTZEN'а заинтересовало не столько мнимое богатство героя, сколько окружающая его тайна и безоговорочный доступ, который, казалось, всегда шёл с ним в комплекте.",
-        "«У этих денег всегда была своя история. Семейное состояние, какой-то огромный издательский контракт, деньги из технологической сферы, деловые связи. Но версия менялась в зависимости от того, кто её рассказывал. Забавно, что никто не ставил это под сомнение. Все двери как-то сами открывались перед ним, и все просто принимали как должное, что ему там самое место».",
-        "Именно эта двусмысленность стала центральной для песни. \"Big Money Club\" так и не раскрывает, унаследовал ли главный герой своё положение, заработал его, выдумал или попросту настолько вписался в тусовку, что разница перестала иметь значение.",
-        "«Вот что показалось мне самым интересным. Этого парня вроде бы знают все, но на самом деле не знает никто. Слышишь все эти истории, и в какой-то момент миф становится любопытнее любой правды».",
-        "В музыкальном плане \"Big Money Club\" уходит от тяжёлого гитарного рока к чистому, построенному на грувах звучанию, в котором слышны классический рок, поп-рок и филадельфийский соул, входивший в ранний музыкальный лексикон Richie",
-        "«Я не хотел объяснять, кто он такой, потому что сам этого не знаю. В этом вся суть. Он — парень из Big Money Club».",
-        "\"Big Money Club\" — третий сингл Kotzen'а в 2026 году: ранее вышли \"Catch A Star\" в мае и \"Ivory Queen\" в августе.",
-        "Richie всегда шёл к чётко намеченной цели. Его по праву признают во всём мире как выдающегося гитариста, эмоционального вокалиста и, откровенно говоря, бесшабашно энергичного исполнителя на сцене. Однако он прекрасно понимает: нужно неусыпно следить, чтобы ещё одно важнейшее оружие в его творческом арсенале получало должное внимание, и это сочинение песен.",
-        "За время карьеры он выпустил более 20 сольных альбомов, продемонстрировав разносторонность в самых разных жанрах. Международную известность ему принесло сотрудничество с такими коллективами, как POISON и MR. BIG. В 2012 году он стал одним из основателей супергруппы THE WINERY DOGS, чьи признанные критиками альбомы сочетают хард-рок с блюзовыми влияниями.",
-        "KOTZEN выступал на крупнейших сценах мира с тех пор, как в 1988 году, будучи юным гитарным вундеркиндом, подписал контракт с Shrapnel Records. Затем он начал выпускать записи как сольно, так и в составе упомянутых коллективов. Сегодня он известен ещё и как плодовитый автор песен и половина прославленного дуэта SMITH/KOTZEN вместе с Adrian'ом Smith'ом из IRON MAIDEN. Постоянно растущий каталог Kotzen'а гарантирует, что его поклонники по всему миру получают всё новые порции его выдающегося таланта, как в студийном, так и в концертном формате."
-      ],
-      "category": "Хэви-метал",
-      "source": "Darkside",
-      "published": "2026-10-06T06:51:44+00:00",
-      "original_url": "http://www.darkside.ru/news/184254/",
-      "saved_at": 1791277789,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.darkside.ru/band/1153/n184254.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "http://www.darkside.ru/band/1153/n184254.jpg",
-          "caption": ""
-        }
-      ],
-      "artists": [
-        {
-          "id": "iron-maiden",
-          "name": "Iron Maiden"
-        }
-      ],
-      "original_title": "RICHIE KOTZEN представил новый сингл",
-      "topics": [
-        "releases"
-      ],
-      "media_checked_at": 1791277798
     }
   ]
 }
