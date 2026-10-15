@@ -555,49 +555,17 @@
     "fa300b1603e3b8e8a3e5f7bf2f0f582528f838b5",
     "df9e11d0db686fc152bf0d24981d3f40886459a9",
     "d4a6c7d704601c488b98f2c1975d1616356af661",
-    "d6318035713f4dfb6b9fdc36ac033d311ee8fdaa"
+    "d6318035713f4dfb6b9fdc36ac033d311ee8fdaa",
+    "4d2d19fc52f3f19efc09f152f25cec7455800b20",
+    "f9f47d6114083471de30b4756cdb808bd6350424",
+    "e559def8644e307b8aee75e97b574d57b310d81d",
+    "8d20acc305d16928c214da17831fc87c939fc259",
+    "db6b400e4eb1213bd3aa7ad642fd576092389467",
+    "e979374a12dae287f07f7b30585a5cda90bb96cc",
+    "a9f9f7c6c2f74e3beb95894b470df3e056e66a03",
+    "537c1ac16052fbd84f1b44b9c60b424a775d02bb"
   ],
   "recent_titles": [
-    {
-      "title": "Jon Oliva в новом видео SEVEN WITCHES",
-      "source": "Darkside",
-      "ts": 1791302108
-    },
-    {
-      "title": "Новая песня L7",
-      "source": "Darkside",
-      "ts": 1791302110
-    },
-    {
-      "title": "Новое видео ETERNITY'S END",
-      "source": "Darkside",
-      "ts": 1791302111
-    },
-    {
-      "title": "Лидер ANTHRAX: «Я не либерал»",
-      "source": "Darkside",
-      "ts": 1791302114
-    },
-    {
-      "title": "Фрагмент нового релиза HOLLYWOOD VAMPIRES",
-      "source": "Darkside",
-      "ts": 1791302115
-    },
-    {
-      "title": "AN NCS VIDEO PREMIERE: HYPERION — “FIDES NOVEM”",
-      "source": "No Clean Singing",
-      "ts": 1791302142
-    },
-    {
-      "title": "Lammoth: the surprisingly emotional black metal project about a pony from Lord of the Rings",
-      "source": "Louder",
-      "ts": 1791302181
-    },
-    {
-      "title": "\"There are no rules. You have 12 notes… do whatever you want with them.\" Eddie Van Halen, the life and times of a guitar god",
-      "source": "Louder",
-      "ts": 1791302324
-    },
     {
       "title": "From Ashes To New, NEVERTEL, Dark Divine & Hollow Pact Reveal Early 2027 North American Tour",
       "source": "ThePRP",
@@ -1357,6 +1325,46 @@
       "title": "Blondie announce 12th studio album High Noon, share single Spectral Eyes",
       "source": "Louder",
       "ts": 1792077685
+    },
+    {
+      "title": "Enter Shikari Launch “Live From The Golden Age” Session",
+      "source": "ThePRP",
+      "ts": 1792091809
+    },
+    {
+      "title": "Cro-Mags Launch New Version Of “It’s The Limit” Featuring Turnstile’s Meg Mills",
+      "source": "ThePRP",
+      "ts": 1792091815
+    },
+    {
+      "title": "GWAR Team With Joe Bob Briggs & John Brennan And The Bigfeet On “GWAR And The Last Drive-In-Stein” Album",
+      "source": "ThePRP",
+      "ts": 1792091837
+    },
+    {
+      "title": "Extol’s New Track “Merciless Hunger” Debuts",
+      "source": "ThePRP",
+      "ts": 1792091842
+    },
+    {
+      "title": "Glenn Hughes Recovering After 10-Hour Open Heart Surgery",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792091850
+    },
+    {
+      "title": "Full Album Stream: Carnation – “Symphony in Flesh”",
+      "source": "Decibel",
+      "ts": 1792091863
+    },
+    {
+      "title": "Blood For Blood, Wisdom In Chains, Missing Link, Etc. Booked For 2026 ‘This Is Hardcore’ Fest",
+      "source": "ThePRP",
+      "ts": 1792091873
+    },
+    {
+      "title": "Kid Rock Speaks On Trying To Be Less “Polarizing” & Using AI On His New Christian Album “Halfway 2 Jesus”: “I Really Do View It As Another Tool”",
+      "source": "ThePRP",
+      "ts": 1792091904
     }
   ],
   "initialized_sources": [
@@ -3912,7 +3920,7 @@
       "title": "Deep Purple Vocalist Glenn Hughes Undergoes 10-Hour Open Heart Surgery, \"Thank You For Walking Beside Me\"",
       "link": "https://metalinjection.net/news/deep-purple-vocalist-glenn-hughes-undergoes-10-hour-open-heart-surgery-thank-you-for-walking-beside-me",
       "rss_body": "This follows news of his retirement from live shows two months ago.",
-      "tags": "Latest News deep purple glenn hughes",
+      "tags": "Latest News deep purple glenn hughes featured2",
       "category": "Хард-рок",
       "published": "2026-10-15T14:27:45+00:00",
       "id": "b8813643295210f92ea2a5445221cc8716d1da1a",
@@ -3936,7 +3944,7 @@
       "title": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\"",
       "link": "https://metalinjection.net/news/nightwish-singer-floor-jansen-exits-band-there-is-a-bright-musical-journey-ahead-of-me",
       "rss_body": "She joined the band in 2013.",
-      "tags": "Latest News nightwish",
+      "tags": "Latest News nightwish featured1",
       "category": "Хэви-метал",
       "published": "2026-10-15T13:38:42+00:00",
       "id": "85748d127186f72494688a79d3cef331539f30f2",
@@ -3953,6 +3961,126 @@
       "published": "2026-10-15T12:33:17+00:00",
       "id": "4da71dd62974056053bdf4743d7dc2a8927284cb",
       "retry_after": 1792077953
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Marilyn Manson Launched His “Antichrist Superstar” 30th Anniversary Tour Last Night With Mid-90s Nostalgia",
+      "link": "https://www.theprp.com/2026/10/15/news/marilyn-manson-launched-his-antichrist-superstar-30th-anniversary-tour-last-night-with-mid-90s-nostalgia/",
+      "rss_body": "Featuring the podium, stilts and more.",
+      "tags": "News Marilyn Manson",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T19:06:13+00:00",
+      "id": "b5d66186de4cb71a1e190e0db3da1ba16d5f8fc8",
+      "retry_after": 1792092103
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Roger Waters Rips James Hetfield: “He’s Just Showing That He’s a Complete Prick”",
+      "link": "https://metalinjection.net/news/roger-waters-blasts-james-hetfield-metallica-sphere-comments",
+      "rss_body": "The former Pink Floyd frontman went in on Hetfield in a recent podcast appearance.",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T18:00:00+00:00",
+      "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
+      "retry_after": 1792092116
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Cro-Mags Enlists Turnstile Guitarist Meg Mills For New Version of “It’s The Limit”",
+      "link": "https://metalinjection.net/news/listen-cro-mags-enlists-turnstile-guitarist-meg-mills-for-new-version-of-its-the-limit",
+      "rss_body": "'The Age of Quarrel: 40 Years of Quarrel' comes out November 13.",
+      "tags": "Latest News Cro-Mags Turnstile Meg Mills",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T17:10:18+00:00",
+      "id": "4d9f2be08e5b1d74c24967411ca765a3963a5141",
+      "retry_after": 1792092151
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Roger Waters launches astonishing attack on James Hetfield over past political statements",
+      "link": "https://www.loudersound.com/news/roger-waters-pink-floyd-slams-metallica-james-hetfield-apolitical-statement-the-sphere-2026",
+      "rss_body": "Ex-\n\nPink Floyd\n\nbassist/vocalist Roger Waters has delivered a fiery rant against James Hetfield, after the\n\nMetallica\n\nfrontman seemingly told an audience at The Sphere that his band\n\ndid not want to sway listeners with political statements\n\n.\n\nThe heavy metal singer/guitarist, 63, continues to face backlash after saying at Las Vegas’ multimedia venue on Saturday (October 10), “Metallica is not here, like some other entertainers, to influence you with their bullshit.”\n\nThough it remains unclear to whom Hetfield was referencing, the comment came a few weeks after Macklemore was removed from a tour supporting Ed Sheeran for saying “Free Palestine” onstage.\n\nEarlier this week, Waters, 83, appeared on a new episode of the podcast\n\nThe Katie Halper Show\n\n, where the host, an American left-wing commentator, guided the musician through some of Metallica’s past politically conscious lyrics, including those on 1986’s\n\nDisposable Heroes\n\nand 1988’s\n\n…And Justice For All\n\n.\n\nHalper then showed Waters an interview Hetfield gave in 2007, around their performance at the climate change charity concert Live Earth, where he said “politics drive me crazy”.\n\nShe went on to revisit the time in 2008 when Hetfield reacted to Metallica’s music\n\nbeing played during the US torture of Iraqi prisoners\n\n(he explained in\n\na separate interview\n\nthat he was partially “bummed” about it and didn’t want the band “being attached to some political statement”).\n\nAfter this whistle-stop tour of Hetfield’s political history, Waters is asked for his reaction. “He’s just showing that he’s a complete prick,” he states. “He’s got an IQ of about three, and why we’re talking about him, I don’t even know, because he’s a nobody. He may have a few hundred million dollars or whatever, but he’s a prick.”\n\nWaters then goes a step further and blasts Hetfield’s musical ability, stating his belief that the frontman is “no musician”: “I heard them playing acoustic instruments and it was appalling.”\n\nRolling Stone\n\nnamed Metallica’s\n\nFade To Black\n\n, where Hetfield plays an acoustic guitar, as\n\nthe 35th-best metal song of all time\n\nin 2023.\n\nHetfield isn’t the only heavy metal figure for whom Waters has had harsh words. Following the death of Ozzy Osbourne in July 2025, the bassist said that he “couldn’t give a fuck” about the\n\nBlack Sabbath\n\nsinger. Ozzy’s son Jack told Waters “fuck you” via social media and the Osbournes briefly released a shirt mocking Waters. During an interview with Piers Morgan in January, Waters\n\ndoubled down\n\n, asking, “Do I have to like every rock group that ever was or people who bite the heads off bats?”\n\nMetallica have yet to respond to the controversy around Hetfield’s words at The Sphere. The band will take the stage at the venue once again tonight (October 15) and conclude their residency there in March.\n\nMetal Hammer\n\nhas approached Metallica’s representatives for comment on Waters’ word.",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T16:22:46+00:00",
+      "id": "e0759cfd1d220eb17f437ad40dc7ed317509a3c2",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Roger Waters Rips 'Prick' James Hetfield Over Apolitical Stance",
+      "link": "https://ultimateclassicrock.com/roger-waters-prick-james-hetfield-metallica/",
+      "rss_body": "He calls Hetfield \"a nobody\" with \"an IQ of about three.\"",
+      "tags": "News James Hetfield Metallica Pink Floyd Roger Waters UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T16:08:23+00:00",
+      "id": "9d437f6c2274af8e237db686092795a3259c8920",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Dying Fetus Confirmed For 2026 ‘For The Children’ Fest",
+      "link": "https://www.theprp.com/2026/10/15/news/dying-fetus-confirmed-for-2026-for-the-children-fest/",
+      "rss_body": "A not so well-kept secret.",
+      "tags": "News Dying Fetus For The Children",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T16:01:57+00:00",
+      "id": "600188a11010ced322c25978b826a53a9551dd8e",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Video Premiere: Abhoria – “Ambition and Delusion”",
+      "link": "https://www.decibelmagazine.com/2026/10/15/video-premiere-abhoria-ambition-and-delusion/",
+      "rss_body": "Dystopian black‑metal stewards\n\nAbhoria\n\nreturn with\n\n“Ambition and Delusion,”\n\na blistering new single and music video.\n\nThe track offers the first glimpse into the band’s\n\nforthcoming third album, slated for 2027 via Black Lion Records.\n\n​\n\n​“Ambition and Delusion” expands Abhoria’\n\ns signature fusion of bleak black‑metal aggression and death‑metal intensity, while introducing a more progressive edge. The song surges from mid‑paced dissonance into tremolo‑picked chaos and full‑blast fury, punctuated by an unexpected steel‑guitar interlude performed by vocalist Ben Pitts, a rare flourish in black metal that sets the stage for the track’s soaring melodic solo.\n\nLyrically, the single explores the psyche of James Gordon Bennett, Jr., the eccentric publishing magnate infamous for scandalous behavior, reckless ambition, and the disastrous North Pole expedition he sponsored. Presented from Bennett’s own perspective, the song examines his desperate desire to transform public embarrassment into heroism, driven not by altruism, but by ego, entitlement, and delusion.\n\n​\n\nFor the music video,\n\nAbhoria\n\nagain collaborated with director Hunter Lamar of Digital Myle, who previously helmed the band’s 2024 visual for “The Well.” The new video blends intense performance footage with stylized vignettes of Bennett portrayed in the aesthetic of classic silent cinema, complete with title cards and era‑appropriate framing.\n\n​\n\nGuitarist/songwriter Trevor Portz cites inspiration from seeing He Who Gets Slapped (Lon Chaney) at Old Town Music Hall in El Segundo, CA, noting that the silent‑film approach “captured the perfect atmosphere for Bennett’s fractured worldview.”\n\n​\n\n​“Ambition and Delusion” was mixed by Herbrand Larsen at Conclave and Earshot Studios and mastered by Tony Lindgren at Fascination Street Studios.\n\nAbhoria will bring “Ambition and Delusion” to the stage as they join\n\nVelnias\n\nfor a run of immersive, atmospheric, and emotionally heavy performances across the Southwest this October (dates listed below).\n\n​\n\n​\n\n“We’re so excited to hit the road with our friends in Velnias! These will be the first shows in the Southwest, and we’re looking forward to debuting songs from our forthcoming album alongside older material. It promises to be an evening of extreme metal overindulgence!”\n\nsays\n\nAbhoria\n\n‘s Trevor Portz.\n\nTour Dates:\n\n​\n\nOct 15 – Denver, CO – Hi-Dive\n\nOct 16 – Amarillo, TX – Rockwell Event Center\n\nOct 17 – Dallas, TX – Haltom Theater\n\nOct 18 – Austin, TX – The Lost Well\n\nOct 19 – Midland, TX – Cotton Flat Records\n\nOct 20 – El Paso, TX – Mona Bar\n\nOct 21 – Santa Fe, NM – Stom Box\n\nOct 22 – Cottonwood, AZ – Queen B’s Vinyl Café\n\nOct 23 – Tucson, AZ – Chicago Bar\n\nOct 24 – Los Angeles, CA – Knucklehead Hollywood\n\nFollow the band\n\nhere\n\n.",
+      "tags": "Exclusive Streaming Abhoria Ambition and Delusion Ben Pitts Colorado Convlave denver Earshot Studios Herbland larsen the well Trevor Portz Velnias",
+      "category": "Прогрессив",
+      "published": "2026-10-15T16:00:04+00:00",
+      "id": "c41895ccfd9f853a233e5be2a4123db5f754d1e3",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "“I’m slightly afraid of him”: Gary Kemp’s respect and fear for Robert Fripp",
+      "link": "https://www.loudersound.com/bands-artists/interviews/gary-kemp-robert-fripp",
+      "rss_body": "When\n\nSpandau Ballet\n\nguitarist\n\nGary Kemp\n\nbecame a founding member of\n\nNick Mason\n\n’s\n\nSaucerful Of Secrets\n\n, he proved himself a lifelong member of the prog club. But in 2019 he revealed that, across the entire spectrum of musical genres he’d encountered,\n\nKing Crimson\n\nmastermind\n\nRobert Fripp\n\nwas his guiding light.\n\nMy introduction to Robert Fripp would have been with\n\nIn The Court Of The Crimson King\n\nand\n\n21st Century Schizoid Man\n\n. All the sixth-formers had that album, as did my cousin. For me as a kid it was extraordinary – it allowed me to think outside of the pop box. It was so diverse, unfathomable; I couldn’t get in there. I couldn’t see through its intricacies. But it had such a great rock energy, and it showed me that there was so much more to music than I thought.\n\nThat first Crimson album is the beginning of prog rock. We all knew here was something intricate beginning to happen, and that the middle classes were being satiated musically with early\n\nPink Floyd\n\n. Here was something a little more difficult – a little more intellectual.\n\nRock music had been a very working-class folk music. Fripp grabbed that and took it to darker, even further-out places on the edges of the universe, mixing it with jazz and with classical. He was taking the psychedelia of Floyd, the\n\nSyd Barrett\n\nstuff, playing around with loops and tapes.\n\nPete Townshend\n\ntold me that when he’d gone to Pink Floyd’s very first gig at\n\nUFO\n\n, Syd had Echorecs on stage with him, getting this double tape loop going, which is what Fripp ended up doing with\n\nBrian Eno\n\n.\n\nRobert Fripp has never stayed in this snooty\n\nUniversity Challenge\n\narea of music, where no one else is ever allowed to come in. He’s never turned his nose up at anything that was going on in the other music worlds. He’s been totally willing – probably with the influence of Eno – to come into pop, but never to bend for it, to say: “I’ll give you a straight blues riff on this one.”\n\nHe has always brought his beauty and his wonderfully intricate sound into other pop genres. Obviously I fell in love with\n\n“Heroes”\n\nby\n\nDavid Bowie\n\n, and that wonderful sustaining guitar that he’s very famous for; and\n\nScary Monsters (And Super Creeps)\n\nlater on.\n\nFripp turned up the weird. His playing has an exotic, erotic quality; that sustained drone that we associate with Eastern music but also with old British folk music and the hurdy-gurdy. This beautiful, ambient, abstract guitar playing, using odd tunings and tape delays that became a sound that everyone craved in the 70s.\n\nIt bounced out of the wonderful solo on Eno’s\n\nBaby’s On Fire\n\nor that wonderful first side of ambience from [Fripp & Eno’s]\n\nNo Pussyfooting\n\n. Then he went as pop as you can get, playing on\n\nBlondie\n\n’s\n\nParallel Lines\n\nand that wonderful solo album he produced for Daryl Hall,\n\nSacred Songs\n\n. Here’s a very interesting, strange, leftfield man, who doesn’t mind marrying himself to pop music. I mean, he literally did that with\n\nToyah\n\n!\n\nI’m slightly afraid of him. There are certain musicians in the world that we’re all afraid of, and I think Fripp’s one of them. I don’t think I’d ever have the nerve to introduce myself to him, and I’m sure he’s never heard of Spandau Ballet.\n\nHe’s never been afraid to challenge himself and challenge music in general. He’s the godfather of prog rock – but he also helped psychedelia become progressive rock; and he helped glam become ambient with his work with Eno and Bowie.\n\nHe brought Bowie, a glam pop star, into a darker, stranger landscape. Everything was on a slightly higher plane. We were out of reality here; we weren’t singing about waking up that morning and his baby was gone. Bowie’s lyrics were matched by Fripp’s strangeness on guitar.\n\nI don’t know all of his catalogue intimately, because it’s so vast and pretty much all encompassing. But if I had to pick my favourite Robert Fripp song ever it would be\n\nStarless\n\nfrom\n\nRed\n\n. That melody he falls upon – no matter how many times I listen – it’s always heartbreaking. It’s always full of yearning; an absolutely gorgeous riff.",
+      "tags": "Interviews Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-15T16:00:00+00:00",
+      "id": "8131700ae59913781fb38af64b79d93f1829fe85",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS VIDEO PREMIERE: NO WORTH OF MAN — “I DEFY”",
+      "link": "https://www.nocleansinging.com/2026/10/15/an-ncs-video-premiere-no-worth-of-man-i-defy/",
+      "rss_body": "(written by Islander) We are rapidly approaching the most metal night of the year, a time when veils will be parted and a cavalcade of deathless fiends will spread mayhem through the human world — or at least we and centuries of our ancestors have so imagined, with thrills and chills galore. It is thus\n\n[...]",
+      "tags": "Premieres No Worth of Man",
+      "category": "Экстремальный метал",
+      "published": "2026-10-15T15:57:25+00:00",
+      "id": "f8dbbbe916f4f2ff83c5fc47c7d8e380e393bfbf",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "GWAR Teams With Legendary Horror Host Joe Bob Briggs For New Album, Hear \"Splatter-Fu\"",
+      "link": "https://metalinjection.net/news/gwar-teams-with-legendary-horror-host-joe-bob-briggs-for-new-album-hear-splatter-fu",
+      "rss_body": "All mutants are welcome to join the fun.",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T15:23:41+00:00",
+      "id": "14906496ce8d34abc3e4c5bd74c18eff90dc1185",
+      "retry_after": 0
     }
   ]
 }
