@@ -2633,7 +2633,7 @@
       "website": "http://slayer.net",
       "reference_url": "https://en.wikipedia.org/wiki/Slayer",
       "reference_checked_at": "2026-10-14T19:42:06.086018+00:00",
-      "tour_attempted_at": "2026-10-04T06:23:46.803844+00:00",
+      "tour_attempted_at": "2026-10-15T10:25:01.413790+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T19:42:06.086055+00:00"
     },
@@ -2663,7 +2663,7 @@
       "website": "https://staticdress.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Static_Dress",
       "reference_checked_at": "2026-10-14T22:43:48.376404+00:00",
-      "tour_attempted_at": "2026-10-04T06:23:47.232913+00:00",
+      "tour_attempted_at": "2026-10-15T10:25:01.902767+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T22:43:48.376520+00:00"
     },
@@ -2705,7 +2705,7 @@
       "website": "http://soundgardenworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Soundgarden",
       "reference_checked_at": "2026-10-14T22:43:48.673711+00:00",
-      "tour_attempted_at": "2026-10-04T06:23:54.916247+00:00",
+      "tour_attempted_at": "2026-10-15T10:25:17.949844+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T22:43:48.673905+00:00"
     },
@@ -2718,7 +2718,7 @@
       "website": "http://stevenwilsonhq.com",
       "reference_url": "https://en.wikipedia.org/wiki/Steven_Wilson",
       "reference_checked_at": "2026-10-14T22:43:48.910652+00:00",
-      "tour_attempted_at": "2026-10-04T06:23:55.138359+00:00",
+      "tour_attempted_at": "2026-10-15T10:25:18.183580+00:00",
       "instruments": "Vocals guitar piano keyboards bass",
       "reference_attempted_at": "2026-10-14T22:43:48.910888+00:00"
     },
@@ -3337,9 +3337,9 @@
         }
       ],
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
-      "website": "https://wittr.com/",
+      "website": "http://wittr.com",
       "reference_url": "https://en.wikipedia.org/wiki/Wolves_In_The_Throne_Room",
-      "reference_checked_at": "2026-10-02T02:24:38.114494+00:00",
+      "reference_checked_at": "2026-10-15T10:24:59.605388+00:00",
       "tour_attempted_at": "2026-10-06T20:47:21.971034+00:00",
       "tour_calendar_year": 2026,
       "events": [
@@ -3480,7 +3480,9 @@
       "tour_source": "https://wittr.com/",
       "tour_checked_at": "2026-10-02T02:36:41.817985+00:00",
       "qid": "Q763887",
-      "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb"
+      "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T10:24:59.605444+00:00"
     },
     "carcass": {
       "origin": "Liverpool , England",
@@ -3507,7 +3509,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Carcass_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:16.420909+00:00"
+      "reference_checked_at": "2026-10-15T10:24:59.814609+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T10:24:59.814691+00:00"
     },
     "camel": {
       "origin": "Guildford , Surrey , England",
@@ -3534,8 +3538,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://camelproductions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Camel_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:16.495726+00:00",
-      "tour_attempted_at": "2026-10-04T22:46:58.782080+00:00"
+      "reference_checked_at": "2026-10-15T10:24:59.944724+00:00",
+      "tour_attempted_at": "2026-10-04T22:46:58.782080+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T10:24:59.944736+00:00"
     },
     "anthrax": {
       "origin": "Queens , New York City, U.S.",
@@ -3566,8 +3572,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://anthrax.com",
       "reference_url": "https://en.wikipedia.org/wiki/Anthrax_%28American_band%29",
-      "reference_checked_at": "2026-10-02T02:26:16.593822+00:00",
-      "tour_attempted_at": "2026-10-04T22:46:59.205340+00:00"
+      "reference_checked_at": "2026-10-15T10:25:00.218438+00:00",
+      "tour_attempted_at": "2026-10-04T22:46:59.205340+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T10:25:00.218553+00:00"
     },
     "behemoth": {
       "origin": "Gdańsk , Poland",
@@ -3594,8 +3602,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.behemoth.pl",
       "reference_url": "https://en.wikipedia.org/wiki/Behemoth_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:16.652417+00:00",
-      "tour_attempted_at": "2026-10-05T01:20:22.298712+00:00"
+      "reference_checked_at": "2026-10-15T10:25:00.370797+00:00",
+      "tour_attempted_at": "2026-10-05T01:20:22.298712+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T10:25:00.370815+00:00"
     },
     "deicide": {
       "origin": "Tampa, Florida , U.S.",
@@ -3622,8 +3632,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://deicideofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deicide_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:21.963568+00:00",
-      "tour_attempted_at": "2026-10-05T01:20:23.082380+00:00"
+      "reference_checked_at": "2026-10-15T10:25:00.544394+00:00",
+      "tour_attempted_at": "2026-10-05T01:20:23.082380+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T10:25:00.544414+00:00"
     },
     "dismember": {
       "origin": "Stockholm , Sweden",

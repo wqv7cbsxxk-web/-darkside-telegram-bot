@@ -17957,6 +17957,1178 @@
           "source_url": "https://musicbrainz.org/release-group/ffeb9258-4101-360b-8a84-69b2b1a10c22"
         }
       ]
+    },
+    "linkin-park": {
+      "name": "Linkin Park",
+      "musicbrainz_url": "https://musicbrainz.org/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "reference_checked_at": "2026-10-15T10:25:26.492164+00:00",
+      "genres": "alternative metal, alternative rock, metal, nu metal, rap metal, rap rock, rapcore, rock",
+      "website": "https://www.linkinpark.com/",
+      "members": [
+        {
+          "name": "Brad Delson",
+          "role": "electric guitar, original",
+          "begin": "1996"
+        },
+        {
+          "name": "Brad Delson",
+          "role": "background vocals, original",
+          "begin": "1996"
+        },
+        {
+          "name": "David Michael Farrell",
+          "role": "bass guitar, original",
+          "begin": "1996"
+        },
+        {
+          "name": "David Michael Farrell",
+          "role": "background vocals, original",
+          "begin": "1996"
+        },
+        {
+          "name": "Joseph “Joe” Hahn",
+          "role": "original, turntable",
+          "begin": "1996"
+        },
+        {
+          "name": "Joseph “Joe” Hahn",
+          "role": "background vocals, original",
+          "begin": "1996"
+        },
+        {
+          "name": "Joseph “Joe” Hahn",
+          "role": "original, sampler",
+          "begin": "1996"
+        },
+        {
+          "name": "Joseph “Joe” Hahn",
+          "role": "original, synthesizer",
+          "begin": "1996"
+        },
+        {
+          "name": "Mike Shinoda",
+          "role": "guitar, keyboard, original, sampler, synthesizer",
+          "begin": "1996"
+        },
+        {
+          "name": "Mike Shinoda",
+          "role": "lead vocals, original",
+          "begin": "1996"
+        },
+        {
+          "name": "Mike Shinoda",
+          "role": "background vocals, original",
+          "begin": "1996"
+        },
+        {
+          "name": "Emily Armstrong",
+          "role": "lead vocals",
+          "begin": "2024-09-05"
+        },
+        {
+          "name": "Colin Brittain",
+          "role": "drums (drum set)",
+          "begin": "2024-09-05"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "albums": [
+        {
+          "name": "Lost in the Echo",
+          "date": "2012-10-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/00e7d9c9-851e-4c20-9b25-f281c7b449ea"
+        },
+        {
+          "name": "Road to Revolution: Live at Milton Keynes",
+          "date": "2008-11-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/019cf9dc-3dd5-34fe-a7f1-a13a7f18831b"
+        },
+        {
+          "name": "A Thousand Suns: Live Around the World",
+          "date": "2012-06-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0383b134-09b0-4629-99d7-d985bdebe4a1"
+        },
+        {
+          "name": "Until It’s Gone",
+          "date": "2014-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/06452b17-a738-4d2e-87db-4262466738b4"
+        },
+        {
+          "name": "iTunes Festival: London 2011",
+          "date": "2011-07-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/09211a41-ebc7-4668-95c5-9d92c7449e95"
+        },
+        {
+          "name": "Meteora",
+          "date": "2003-03-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/09474d62-17dd-3a4f-98fb-04c65f38a479"
+        },
+        {
+          "name": "Battle Symphony",
+          "date": "2017-03-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0d3c5b45-b84e-45ee-b33d-e808302b654a"
+        },
+        {
+          "name": "Powerless",
+          "date": "2012-10-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/13689778-9441-4ead-8480-1ff56739858c"
+        },
+        {
+          "name": "What I’ve Done",
+          "date": "2007-04-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/15324beb-dd28-3206-9b58-ce811c2b189e"
+        },
+        {
+          "name": "Not Alone",
+          "date": "2011-10-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/165797af-ea88-4bc6-af8f-02f11720cc90"
+        },
+        {
+          "name": "Songs From the Underground",
+          "date": "2008-11-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1a883b6f-cb6a-33a7-b87e-c13dec54cdfe"
+        },
+        {
+          "name": "The Hunting Party",
+          "date": "2014-06-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/20292abb-7023-495b-8081-4b7be106a3b1"
+        },
+        {
+          "name": "Underground XIII",
+          "date": "2013-11-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/20887455-01c4-4bdc-b18b-c6d104c9586c"
+        },
+        {
+          "name": "Hybrid Theory (20th anniversary edition)",
+          "date": "2020-10-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2140f1ea-f4aa-487d-a68b-1afcb28b1369"
+        },
+        {
+          "name": "LP Underground X: Demos",
+          "date": "2010-11-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/26f1859a-216b-4164-8c9c-82ab8bc4bdaf"
+        },
+        {
+          "name": "A Thousand Suns: Puerta de Alcalá",
+          "date": "2010-09-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/277ddbc8-d6fa-47fa-b652-dce7a325202f"
+        },
+        {
+          "name": "In the End: Live & Rare",
+          "date": "2002-03-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/280754fc-4e7b-36b2-8c2e-d295dd93ef0b"
+        },
+        {
+          "name": "Hybrid Theory: Live at Download Festival 2014",
+          "date": "2014-08-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2897a3c9-3637-4168-90ba-efe027825f19"
+        },
+        {
+          "name": "Evolution of Mike Shinoda",
+          "date": "2023-10-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/31e1cbc8-9d9c-44cd-a4a4-9d1b0c7c2a40"
+        },
+        {
+          "name": "Underground 12",
+          "date": "2012-11-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/34f8d024-8df6-4fd1-a62c-0c4d92e83357"
+        },
+        {
+          "name": "Invisible",
+          "date": "2017-05-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/35bc45b7-ccbc-476e-a2ed-9cbcc020a605"
+        },
+        {
+          "name": "Papercut",
+          "date": "2001-06-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/37d3bb2f-6232-3ca2-ba92-786656739e03"
+        },
+        {
+          "name": "Faint",
+          "date": "2003-05-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/399c6a18-ba40-3e82-947b-623745aeeb0b"
+        },
+        {
+          "name": "New Divide",
+          "date": "2009-05-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4741866d-c3a5-47ca-944d-732c2cc9e651"
+        },
+        {
+          "name": "Darker Than Blood (remixes)",
+          "date": "2015-08-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4788515c-e43b-4df4-9250-132a49929095"
+        },
+        {
+          "name": "Meteora (20th anniversary edition)",
+          "date": "2023-03-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/48c91aaa-4e0c-4e8d-92ee-f0c73c2f8383"
+        },
+        {
+          "name": "Underground V2.0",
+          "date": "2002-11-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/49abaf1e-b66c-3118-9cb6-cee53691b7df"
+        },
+        {
+          "name": "Bleed It Out",
+          "date": "2007-07-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4a929d43-df44-382c-b704-fd06b4202e28"
+        },
+        {
+          "name": "Live in Texas",
+          "date": "2003-11-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4db1d241-d2db-3033-9f73-88331f2faee1"
+        },
+        {
+          "name": "Darker Than Blood",
+          "date": "2015-04-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5cd679f4-8f5e-457b-a901-976a255946d0"
+        },
+        {
+          "name": "Crawling",
+          "date": "2001-04-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/62ff49fa-1f3f-3d43-ba79-4e15918fa676"
+        },
+        {
+          "name": "A Thousand Suns",
+          "date": "2010-09-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/65404106-2976-4f98-a0e2-4e76923ea06d"
+        },
+        {
+          "name": "LP Underground 7",
+          "date": "2007-12-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/667ec14c-d74a-360e-baaa-aaae83b8bbe2"
+        },
+        {
+          "name": "Leave Out All the Rest",
+          "date": "2008-06-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/688a6e98-07b3-3ff6-8292-507c9dd5b845"
+        },
+        {
+          "name": "Final Masquerade",
+          "date": "2014-06-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/69f64486-0a4a-4598-8e4f-1a556d3ec443"
+        },
+        {
+          "name": "Given Up",
+          "date": "2008-02-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a49f798-cabb-4332-b395-ef91f667341d"
+        },
+        {
+          "name": "Castle of Glass",
+          "date": "2012-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6d1e53cb-2286-4487-b048-f7b370900bfe"
+        },
+        {
+          "name": "Burning in the Skies",
+          "date": "2011-03-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/724f2b14-d25b-4c94-9912-c2fe4d742928"
+        },
+        {
+          "name": "2011‐06‐25: A Thousand Suns World Tour 2011: München, Germany",
+          "date": "2011-06-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/753abe7d-a354-45a9-ac17-e5950101ba29"
+        },
+        {
+          "name": "The Catalyst",
+          "date": "2010-08-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7592466f-430c-40ce-968d-5d09d5ebc30c"
+        },
+        {
+          "name": "Meteora: Live Around the World",
+          "date": "2012-06-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/79461209-b620-45a9-9f1e-7f9ae6bc17c5"
+        },
+        {
+          "name": "Underground 4.0",
+          "date": "2004-11-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7b0030b7-2966-35a0-a94c-ae108a708eb0"
+        },
+        {
+          "name": "Numb/Encore",
+          "date": "2004-11-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7c1014eb-454c-3867-8854-3c95d265f8de"
+        },
+        {
+          "name": "Hybrid Theory: Live Around the World",
+          "date": "2012-05-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7fa56d89-60ee-48eb-868c-5ac068ac09be"
+        },
+        {
+          "name": "Papercuts: Instrumentals",
+          "date": "2024-06-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7fe7a55f-eb90-436f-93a5-cbb95e36cebb"
+        },
+        {
+          "name": "Heavy",
+          "date": "2017-02-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/806eb235-7c24-406d-b2d1-acde1b62c4f8"
+        },
+        {
+          "name": "Wastelands",
+          "date": "2014-06-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/808a11b7-3cec-458a-ba81-d1a833c1e6a8"
+        },
+        {
+          "name": "One Step Closer",
+          "date": "2000-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/82a5b1af-70cd-41a3-affa-dea3917166f9"
+        },
+        {
+          "name": "Breaking the Habit",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/87da2213-0caa-349e-abe8-4bd083e0a3b9"
+        },
+        {
+          "name": "A Light That Never Comes (remixes)",
+          "date": "2014-01-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8a119dd5-6f03-468e-b705-a7ccf21625ba"
+        },
+        {
+          "name": "Living Things: Acapellas and Instrumentals",
+          "date": "2012-06-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8c99c89c-f654-457c-83e2-e7308ebd9d8c"
+        },
+        {
+          "name": "Mmm...Cookies: Sweet Hamster Like Jewels from America!",
+          "date": "2008-12-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8d3bcff8-b394-3698-a02f-9693055b1094"
+        },
+        {
+          "name": "Collision Course",
+          "date": "2004-11-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8ef859e3-feb2-4dd1-93da-22b91280d768"
+        },
+        {
+          "name": "A Light That Never Comes",
+          "date": "2013-09-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/962cd4e1-a33d-49e8-a01f-dbd21e80f5c4"
+        },
+        {
+          "name": "Somewhere I Belong",
+          "date": "2003-03-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/97f302f8-fcd7-3d89-82e8-2f31a998687d"
+        },
+        {
+          "name": "2011 North American Tour EP",
+          "date": "2010-12-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9d5eec4c-1b34-480c-be13-c2f8d230eb85"
+        },
+        {
+          "name": "Good Goodbye",
+          "date": "2017-04-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a126b34e-b907-44ab-9555-892c92f17977"
+        },
+        {
+          "name": "Underground Sixteen",
+          "date": "2016-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a2acd0d4-8fd5-4a25-8c60-964cc04aac86"
+        },
+        {
+          "name": "She Couldn’t",
+          "date": "2020-08-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a2ad755d-17a2-4e36-b89d-fe03863fd11d"
+        },
+        {
+          "name": "From Zero",
+          "date": "2024-11-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a3159fb4-2ad3-4678-ba51-36fbc8b8430d"
+        },
+        {
+          "name": "Dirt Off Your Shoulder/Lying from You",
+          "date": "2004-11-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a3ea5d93-476e-4f23-bbb7-7a3e4196abc6"
+        },
+        {
+          "name": "Minutes to Midnight",
+          "date": "2007-05-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a4201f5c-f0d7-319c-ba9d-ba0bac38da7a"
+        },
+        {
+          "name": "Papercuts",
+          "date": "2024-04-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a580c858-69a5-4afd-9541-48ec1322caa4"
+        },
+        {
+          "name": "One More Light Live",
+          "date": "2017-12-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a6885eb5-2e32-491f-b2cc-aaeb13278c08"
+        },
+        {
+          "name": "Iridescent",
+          "date": "2011-05-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aad22bea-05ae-42b6-801f-cb66e2702e16"
+        },
+        {
+          "name": "A Decade Underground",
+          "date": "2010-08-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ab037b66-f591-413a-8178-b556d8ac6a8d"
+        },
+        {
+          "name": "In the End (2022 Malaa remix)",
+          "date": "2022-09-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ae03cbaf-c546-4194-8b55-75c8dfd16f1a"
+        },
+        {
+          "name": "Recharged",
+          "date": "2013-10-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ae531fb5-d292-4ef2-81d5-d1632f9bb883"
+        },
+        {
+          "name": "Living Things",
+          "date": "2012-06-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/af682b63-021e-4806-afac-9aa4380fc6bd"
+        },
+        {
+          "name": "iTunes Live from SoHo",
+          "date": "2008-03-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b12982db-d59b-47ec-bab9-daef813cc2f0"
+        },
+        {
+          "name": "Waiting for the End",
+          "date": "2010-09-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b2574506-cca8-4e0a-8f3a-7b57675e80e0"
+        },
+        {
+          "name": "Underground 15",
+          "date": "2015-11-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b4dd55a3-11e0-4c43-8b71-398ba3883848"
+        },
+        {
+          "name": "Underground 6",
+          "date": "2006-12-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b4df526c-02d9-308f-b315-cd0949556c49"
+        },
+        {
+          "name": "Hybrid Theory",
+          "date": "2000-05-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b5b4bb4b-8ba5-3acf-88cb-4cae2699d8da"
+        },
+        {
+          "name": "Star Profile: Linkin Park",
+          "date": "2014-10-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b5ca9c5c-76b6-4787-842d-c3a6c3dfeac5"
+        },
+        {
+          "name": "One More Light",
+          "date": "2017-05-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b976c959-d13e-487c-85d7-cab70ed7c842"
+        },
+        {
+          "name": "Burn It Down",
+          "date": "2012-04-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ba7639f8-c3d2-48a8-9353-c66775feb64d"
+        },
+        {
+          "name": "Studio Collection 2000-2012",
+          "date": "2013-01-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bafccd64-d231-4e31-bd45-faa92544d55c"
+        },
+        {
+          "name": "Reanimation",
+          "date": "2002-07-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bd0fa028-36ce-3e0e-81f2-e7d2b3e058c1"
+        },
+        {
+          "name": "Numb",
+          "date": "2003-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bf6cfe90-ad3f-3b56-b758-403b442cbb4b"
+        },
+        {
+          "name": "My Own Summer (Shove It) [Live 2-23-02]",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c1c7a074-0b9c-415d-94a7-6d511ab9974e"
+        },
+        {
+          "name": "Underground Eleven",
+          "date": "2011-11-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c3f681f5-d2be-45b9-ac01-76336c2e6ef6"
+        },
+        {
+          "name": "Underground XIV",
+          "date": "2014-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c60f6d17-ec14-4317-9821-f63d43df81ef"
+        },
+        {
+          "name": "Lost Demos",
+          "date": "2023-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c85d528d-dd3e-4382-9d68-36bc28c6e182"
+        },
+        {
+          "name": "We Made It",
+          "date": "2008-05-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c9fe1c3e-b66b-3d58-830a-7a5130bbd784"
+        },
+        {
+          "name": "Shadow of the Day",
+          "date": "2007-09-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ca632e89-a872-3a89-9bf4-5e99eb2c87e5"
+        },
+        {
+          "name": "LP Underground 9: Demos",
+          "date": "2009-11-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cbfe4c73-b945-415a-a29a-48992b9e5166"
+        },
+        {
+          "name": "Unshatter Film Soundtrack (Live in São Paulo)",
+          "date": "2026-09-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cd1bd8cc-e996-498f-82e6-bb9cad6c3e3b"
+        },
+        {
+          "name": "From Zero: A Cappellas",
+          "date": "2025-01-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cf523f29-ee84-47ce-b37e-29324adb4c26"
+        },
+        {
+          "name": "From the Inside",
+          "date": "2003-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d0568697-34dc-3faf-a25f-a58ccf706a99"
+        },
+        {
+          "name": "Living Things Remixed",
+          "date": "2013",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d1e296a6-7278-47ac-8a51-b72a37f86f94"
+        },
+        {
+          "name": "Lost",
+          "date": "2023-02-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d81eeeb3-3f08-43ca-aede-e59601417836"
+        },
+        {
+          "name": "Hybrid Theory",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ea2c867d-ee9f-4d84-bea1-53cfab453aed"
+        },
+        {
+          "name": "Guilty All the Same",
+          "date": "2014-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ebcabfe1-2248-457e-8997-bee6da47a7e6"
+        },
+        {
+          "name": "The Hunting Party: Acapellas + Instrumentals",
+          "date": "2014-06-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ed80ff9a-9c79-4140-a054-e72235e8c5a6"
+        },
+        {
+          "name": "Minutes to Midnight: Live Around the World",
+          "date": "2012-06-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f3677eb9-268b-4ce8-aec9-0335e7f4d620"
+        },
+        {
+          "name": "In the End",
+          "date": "2001-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f38ae9f7-30a2-37e0-9046-f69b39f64c55"
+        },
+        {
+          "name": "Underground 3.0",
+          "date": "2003-11-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f9b938aa-35d8-3fd2-ab43-e1a0570594be"
+        },
+        {
+          "name": "Underground 5.0",
+          "date": "2005-11-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fbd0b141-954d-350f-b974-170e63e67f73"
+        },
+        {
+          "name": "Rebellion",
+          "date": "2014-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fc95dfb9-0ee4-4cee-8a98-3967b75e2c66"
+        }
+      ]
+    },
+    "manowar": {
+      "name": "Manowar",
+      "musicbrainz_url": "https://musicbrainz.org/artist/00eeed6b-5897-4359-8347-b8cd28375331",
+      "reference_checked_at": "2026-10-15T10:25:31.153017+00:00",
+      "genres": "hard rock, heavy metal, metal, power metal, us power metal",
+      "website": "http://manowar.com/",
+      "members": [
+        {
+          "name": "Eric Adams",
+          "role": "lead vocals, original",
+          "begin": "1980"
+        },
+        {
+          "name": "Joey DeMaio",
+          "role": "bass guitar, original",
+          "begin": "1980"
+        },
+        {
+          "name": "Dave Chedrick",
+          "role": "drums (drum set)",
+          "begin": "2022-06-04"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/00eeed6b-5897-4359-8347-b8cd28375331",
+      "albums": [
+        {
+          "name": "Laut und hart, stark und schnell",
+          "date": "2023-02-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/04b014da-a12b-401c-91e1-5c926c17a827"
+        },
+        {
+          "name": "Отец (Father)",
+          "date": "2015-10-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/088f5bf8-175c-4cdc-a14f-720f631b4ec3"
+        },
+        {
+          "name": "Silent Night (metal version)",
+          "date": "2013-12-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/09e2146d-58a1-4754-a831-ebbe2fe0ee47"
+        },
+        {
+          "name": "Defender",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0c77dbd2-5219-3ca9-b3c1-ac8777016eb2"
+        },
+        {
+          "name": "Manowar / Vanden Plas / Symphony X / Rhapsody",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/10d2d848-199a-46b6-96f7-46752968d4f4"
+        },
+        {
+          "name": "Hell on Stage Live",
+          "date": "1999-10-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/14c2c375-8434-3096-8c1f-88a635709385"
+        },
+        {
+          "name": "Warriors of the World United",
+          "date": "2002-04-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/15f20804-07e2-3468-808b-a84d5013d4c2"
+        },
+        {
+          "name": "1999-12-04: DK Gorbunova, Moscow, Russia",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/180ba167-1c61-3cfb-8b64-66c8287a9e17"
+        },
+        {
+          "name": "Fighting the World",
+          "date": "1987-01-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1881d658-2011-3865-ad9c-94e5f94a6e2c"
+        },
+        {
+          "name": "Battle Hymns",
+          "date": "1982",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1d3fb509-0f93-3d67-9e2a-0d5de5786c7f"
+        },
+        {
+          "name": "Manowar",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/20fd0db0-1544-4572-bc88-8e9a384897aa"
+        },
+        {
+          "name": "Hard Rock",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22b79062-bd16-4260-9d20-c9bd475d39ea"
+        },
+        {
+          "name": "Hell on Earth IV",
+          "date": "2005-07-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/22e32c91-19b8-3854-8558-f8dd64168971"
+        },
+        {
+          "name": "Death to All, Peace at Last",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/24ac62be-c702-42a4-b57e-1d420e131681"
+        },
+        {
+          "name": "Blow Up Your Speakers",
+          "date": "1986-11-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/291d8409-5ab2-4583-b670-faf969e4bd42"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/341259d8-ba70-4656-9add-e76e34d8b6cd"
+        },
+        {
+          "name": "Battle Hymns / Sign of the Hammer",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/38ac595d-5c2a-37fd-a36e-35a0a7a3ceeb"
+        },
+        {
+          "name": "Hail to England",
+          "date": "1984-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3920f3dd-1079-3981-ad81-a70a5cef6a07"
+        },
+        {
+          "name": "Battle Hymns & Fighting the World",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3a20cfd4-372f-45fd-a1f0-2959f79ba000"
+        },
+        {
+          "name": "Louder Than Hell",
+          "date": "1996-04-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3d8aa989-eb42-327e-bfb6-0a3240f7fbad"
+        },
+        {
+          "name": "The Sons of Odin",
+          "date": "2006-10-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/42776f8b-e352-3bf2-854b-e35cface270d"
+        },
+        {
+          "name": "Gods of War",
+          "date": "2007-02-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/43b2602a-302b-3dde-ab57-3e2188bfd81b"
+        },
+        {
+          "name": "Fighting the World / Kings of Metal",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/43be33c1-a8f1-420d-aff5-02d5c1821823"
+        },
+        {
+          "name": "Live in Tilburg ’87",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/442e8cd4-c433-488f-8411-268ef6fae307"
+        },
+        {
+          "name": "Kings of Metal MMXIV",
+          "date": "2014-02-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/44e0aa12-62e9-4626-8e36-92986b1c3eff"
+        },
+        {
+          "name": "The Kingdom of Steel: The Very Best Of",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/54a7c9ee-6bc6-3dda-819e-3aff79a6a80e"
+        },
+        {
+          "name": "Warriors Over Cologne",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/54b5f829-85fd-4d9d-bc61-9ef8d34a9a89"
+        },
+        {
+          "name": "Manowar Kills",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5a65f621-3c8f-41cd-a5b8-bbf5c9894100"
+        },
+        {
+          "name": "Herz aus Stahl",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6204ef60-3d3b-3386-b2a5-47a26215aa65"
+        },
+        {
+          "name": "The Triple Album Collection",
+          "date": "2012-10-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/645d41cc-a026-452c-8b1e-6f2e09edb24f"
+        },
+        {
+          "name": "Into Glory Ride",
+          "date": "1983-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6492f229-21f1-3227-8ab7-f208cd4ba440"
+        },
+        {
+          "name": "Gods of War Live",
+          "date": "2007-07-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/65b257e5-a75f-3ee5-b4c3-ace196f117d2"
+        },
+        {
+          "name": "Live U.S.A.",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6622a1c1-8cbd-42a8-9685-615b4777f1d4"
+        },
+        {
+          "name": "CH 84",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/68637f89-0500-353f-9752-437a10356409"
+        },
+        {
+          "name": "Best Ballads",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6cde5ceb-f56a-4bdf-ae58-0a04cbbcc8e3"
+        },
+        {
+          "name": "Silent Night",
+          "date": "2007",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6e2066fb-dadf-46c9-b5df-b1d664a6e5e7"
+        },
+        {
+          "name": "Classics",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/718bbb73-da92-49a3-9907-89c64509f0be"
+        },
+        {
+          "name": "Live in Portugal",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/71b7f497-804e-35e5-b6c1-bf838d9e0276"
+        },
+        {
+          "name": "Into Glory Ride / Hail to England",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/772b0c26-c95f-332a-8e3e-95b9f75ee85c"
+        },
+        {
+          "name": "All Men Play on 10",
+          "date": "1984-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7876178a-bdbd-49d6-9973-1381ec8b3c01"
+        },
+        {
+          "name": "Demons, Dragons & Warriors (Free Tour Sampler)",
+          "date": "2007",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7a807955-0026-42a7-9f6a-9834e08bb58c"
+        },
+        {
+          "name": "Black Wind, Fire and Steel: The Atlantic Albums 1987–1992",
+          "date": "2020-12-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/83b35943-7941-4e58-aee5-9e2d03c489f5"
+        },
+        {
+          "name": "Warriors of the World",
+          "date": "2002-05-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8425693a-ebf4-34cc-ac26-8fab81834ad2"
+        },
+        {
+          "name": "Kings of Metal",
+          "date": "1988-11-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8f4ab01b-de0c-37ec-9d1a-5c2adf9977d7"
+        },
+        {
+          "name": "Courage Live",
+          "date": "1997-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/921201db-fb5c-34a8-9959-cdcf4c43d837"
+        },
+        {
+          "name": "Kings of Metal / Herz aus Stahl",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/93b7d8a1-fc69-434b-a8ba-160d4b56866b"
+        },
+        {
+          "name": "Demo - 81",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/99fcfd6c-477f-489d-aeaa-8b96e30b420e"
+        },
+        {
+          "name": "Highlights From the Revenge of Odysseus",
+          "date": "2022-06-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9c802b36-31bc-4c80-9b98-30b8f1d6dc47"
+        },
+        {
+          "name": "The Absolute Power",
+          "date": "2005-07-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a0985302-169b-48c1-b6d9-89f4ccfb151d"
+        },
+        {
+          "name": "The Triumph of Steel",
+          "date": "1992-09-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a5c6c993-0869-3fb6-a365-10cca7b64a21"
+        },
+        {
+          "name": "Hail and Kill",
+          "date": "2019-02-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a6f71f45-1e0a-4595-8818-8ad0a9d65f4f"
+        },
+        {
+          "name": "Metal Warriors",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a98d0886-47af-46a8-88f9-bc9985e1ab8a"
+        },
+        {
+          "name": "An American Trilogy / The Fight for Freedom",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aa76c495-b835-3d36-bc04-9eac020184cf"
+        },
+        {
+          "name": "Die With Honor",
+          "date": "2008-07-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b70f8f08-e417-3104-b230-18c438a74f1f"
+        },
+        {
+          "name": "Live in Spain",
+          "date": "1998",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b7e41c13-ea2b-420f-9ea0-40968ef41aa9"
+        },
+        {
+          "name": "Best Collection",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c13e3530-a338-3abb-b283-847f1293cd52"
+        },
+        {
+          "name": "The Hell of Steel",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c5de93ff-94ea-3154-b967-591369959f57"
+        },
+        {
+          "name": "Sign of the Hammer",
+          "date": "1984",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c82db0df-6cef-3f4e-8ccf-16e000821893"
+        },
+        {
+          "name": "Anthology",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c917754f-e829-39e2-8d84-f42d83a24f05"
+        },
+        {
+          "name": "Far (Father)",
+          "date": "2015-10-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d1988bc2-65f6-4e7f-81fc-1d04f5c9da1a"
+        },
+        {
+          "name": "2002-12-14: War of the World: Ballsporthalle, Frankfurt, Germany",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d50af78f-0d0e-34e5-a046-e5e80d2716a5"
+        },
+        {
+          "name": "Made of Steel",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d61df078-151f-4e21-b555-ffc092771dcf"
+        },
+        {
+          "name": "King of Kings",
+          "date": "2005",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d9680519-a660-42b9-8814-fde53673f54a"
+        },
+        {
+          "name": "The Lord of Steel Live",
+          "date": "2013-07-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/de539c54-509a-4e23-a7a4-5f7a009dff81"
+        },
+        {
+          "name": "The Final Battle I",
+          "date": "2019-03-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e2d65da7-d25f-4e55-8fbe-b2c91ced70e0"
+        },
+        {
+          "name": "Live in France",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e5bf858d-e2ac-3c8b-a494-98eeff49cbec"
+        },
+        {
+          "name": "Return of the Warlord",
+          "date": "1996-08-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e6b4f2e4-68b7-329b-be08-3ebbf555899f"
+        },
+        {
+          "name": "Thunder in the Sky",
+          "date": "2009-07-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e8defbc9-750a-4404-9677-b092dc95ba7b"
+        },
+        {
+          "name": "Live in Germany",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e8ffd9ad-6f2c-432f-bed8-ba76348eb3e1"
+        },
+        {
+          "name": "The Lord of Steel",
+          "date": "2012-06-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ecf6df7a-2677-446e-bfc4-ed2eb9751d58"
+        },
+        {
+          "name": "Live & Alive",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/eda95127-64a3-4d5f-99cf-a96377f1f0bf"
+        },
+        {
+          "name": "Steel Warriors",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/eea96f74-5828-3b4b-9a5f-9769ddd969ce"
+        },
+        {
+          "name": "Thunder & Lightning",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f3de7310-12c7-4114-9ed9-c404d2770a7c"
+        },
+        {
+          "name": "Number 1",
+          "date": "1996-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f485cb37-7849-3c27-a7d6-edc44f66226d"
+        },
+        {
+          "name": "The Dawn of Battle",
+          "date": "2002-10-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f734aeee-8936-37e4-a1cb-55a693783e55"
+        },
+        {
+          "name": "Battle Hymns MMXI",
+          "date": "2010-11-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f8c18a60-ce65-44e0-828f-11eef7e7f3b0"
+        },
+        {
+          "name": "Steel Hearts At War",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f94a75f9-4d7f-48ff-868a-860bf8d674c0"
+        },
+        {
+          "name": "Hell on Wheels: Live",
+          "date": "1997-11-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fdf910c6-3229-3269-b770-8aa31628389c"
+        }
+      ]
     }
   },
   "checked": {
@@ -18023,6 +19195,8 @@
     "kiss": "2026-10-15T00:58:33.311148+00:00",
     "kreator": "2026-10-15T00:58:37.473761+00:00",
     "led-zeppelin": "2026-10-15T05:50:18.788607+00:00",
-    "leprous": "2026-10-15T05:50:20.019535+00:00"
+    "leprous": "2026-10-15T05:50:20.019535+00:00",
+    "linkin-park": "2026-10-15T10:25:26.492411+00:00",
+    "manowar": "2026-10-15T10:25:31.153182+00:00"
   }
 }
