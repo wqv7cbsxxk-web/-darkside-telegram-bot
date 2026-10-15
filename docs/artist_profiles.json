@@ -2904,7 +2904,7 @@
       "website": "http://thinlizzyofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Thin_Lizzy",
       "reference_checked_at": "2026-10-15T00:58:24.936761+00:00",
-      "tour_attempted_at": "2026-10-04T17:01:16.215845+00:00",
+      "tour_attempted_at": "2026-10-15T19:18:32.769396+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T00:58:24.936931+00:00"
     },
@@ -2930,7 +2930,7 @@
       "website": "http://rollingstones.com",
       "reference_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
       "reference_checked_at": "2026-10-15T00:58:25.553700+00:00",
-      "tour_attempted_at": "2026-10-04T17:01:16.554771+00:00",
+      "tour_attempted_at": "2026-10-15T19:18:33.564089+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T00:58:25.553940+00:00"
     },
@@ -2960,7 +2960,7 @@
       "website": "https://theprettyreckless.com",
       "reference_url": "https://en.wikipedia.org/wiki/The_Pretty_Reckless",
       "reference_checked_at": "2026-10-15T00:58:25.733101+00:00",
-      "tour_attempted_at": "2026-10-04T17:01:16.888433+00:00",
+      "tour_attempted_at": "2026-10-15T19:18:33.825149+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T00:58:25.733123+00:00"
     },
@@ -2990,7 +2990,7 @@
       "website": "http://thrice.net",
       "reference_url": "https://en.wikipedia.org/wiki/Thrice",
       "reference_checked_at": "2026-10-15T00:58:26.000619+00:00",
-      "tour_attempted_at": "2026-10-04T17:01:17.954037+00:00",
+      "tour_attempted_at": "2026-10-15T19:18:34.007358+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T00:58:26.000642+00:00"
     },
@@ -3836,8 +3836,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://hakenmusic.com",
       "reference_url": "https://en.wikipedia.org/wiki/Haken_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:33.556676+00:00",
-      "tour_attempted_at": "2026-10-05T07:13:55.013324+00:00"
+      "reference_checked_at": "2026-10-15T19:18:30.387984+00:00",
+      "tour_attempted_at": "2026-10-05T07:13:55.013324+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T19:18:30.388057+00:00"
     },
     "immolation": {
       "origin": "Yonkers, New York , U.S.",
@@ -3864,8 +3866,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://immolation.info",
       "reference_url": "https://en.wikipedia.org/wiki/Immolation_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:33.615499+00:00",
-      "tour_attempted_at": "2026-10-05T07:13:55.513766+00:00"
+      "reference_checked_at": "2026-10-15T19:18:30.462322+00:00",
+      "tour_attempted_at": "2026-10-05T07:13:55.513766+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T19:18:30.462341+00:00"
     },
     "grave-digger": {
       "origin": "Gladbeck , West Germany",
@@ -3880,12 +3884,14 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://grave-digger-clan.com",
       "reference_url": "https://en.wikipedia.org/wiki/Grave_Digger_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:33.710594+00:00",
-      "tour_attempted_at": "2026-10-05T16:02:17.890544+00:00"
+      "reference_checked_at": "2026-10-15T19:18:30.571614+00:00",
+      "tour_attempted_at": "2026-10-05T16:02:17.890544+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T19:18:30.571631+00:00"
     },
     "imminence": {
       "origin": "Trelleborg , Sweden",
-      "genres": "Metalcore melodic metalcore alternative rock post-hardcore",
+      "genres": "Metalcore melodic metalcore symphonic metalcore alternative rock post-hardcore",
       "years_active": "2009 ( 2009 ) –present",
       "members": [
         {
@@ -3908,8 +3914,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.imminenceswe.com",
       "reference_url": "https://en.wikipedia.org/wiki/Imminence_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:33.770410+00:00",
-      "tour_attempted_at": "2026-10-05T16:02:19.104576+00:00"
+      "reference_checked_at": "2026-10-15T19:18:30.690455+00:00",
+      "tour_attempted_at": "2026-10-05T16:02:19.104576+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T19:18:30.690550+00:00"
     },
     "jethro-tull": {
       "origin": "Blackpool , Lancashire, England",
@@ -3940,8 +3948,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://jethrotull.com",
       "reference_url": "https://en.wikipedia.org/wiki/Jethro_Tull_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:38.720510+00:00",
-      "tour_attempted_at": "2026-10-05T16:02:19.264697+00:00"
+      "reference_checked_at": "2026-10-15T19:18:30.872512+00:00",
+      "tour_attempted_at": "2026-10-05T16:02:19.264697+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T19:18:30.872626+00:00"
     },
     "mastodon": {
       "origin": "Atlanta, Georgia , U.S.",
@@ -3972,8 +3982,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://mastodonrocks.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mastodon_%28band%29",
-      "reference_checked_at": "2026-10-02T02:26:38.865149+00:00",
-      "tour_attempted_at": "2026-10-05T16:02:19.583568+00:00"
+      "reference_checked_at": "2026-10-15T19:18:31.105251+00:00",
+      "tour_attempted_at": "2026-10-05T16:02:19.583568+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T19:18:31.105421+00:00"
     },
     "obituary": {
       "origin": "Tampa, Florida , U.S.",
