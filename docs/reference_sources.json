@@ -17346,6 +17346,617 @@
           "source_url": "https://musicbrainz.org/release-group/ffc21572-4d11-48d5-b1ac-a816e178b1d0"
         }
       ]
+    },
+    "led-zeppelin": {
+      "name": "Led Zeppelin",
+      "musicbrainz_url": "https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3",
+      "reference_checked_at": "2026-10-15T05:50:18.788418+00:00",
+      "genres": "arena rock, blues, blues rock, classic rock, folk rock, hard rock, heavy metal, pop, progressive rock, rock, rock and roll",
+      "website": "http://www.ledzeppelin.com/",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3",
+      "albums": [
+        {
+          "name": "Classic Ballads",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/00dee883-035f-3cb5-821e-d2e0e46eee58"
+        },
+        {
+          "name": "Led Zeppelin x Led Zeppelin",
+          "date": "2018-09-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/07e182ae-6567-4bc4-90f0-73619c942d73"
+        },
+        {
+          "name": "The Legendary Boston Tea Party Tapes, Vol.1",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0804b3ac-a828-43d3-b83f-0df69bda95e9"
+        },
+        {
+          "name": "BBC Sessions",
+          "date": "1997-11-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/08a7dbdf-18fa-33c5-85b2-bf9114a8ef8d"
+        },
+        {
+          "name": "How the West Was Won",
+          "date": "2003-05-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/092d4ead-e34b-3e8a-a448-9cbd74d97c97"
+        },
+        {
+          "name": "The Lost Sessions, Vol. 4",
+          "date": "2004",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/097af7bf-4ce0-4c33-8d8b-a467ddc1dee2"
+        },
+        {
+          "name": "Early Days & Latter Days: The Best of Led Zeppelin, Volumes One and Two",
+          "date": "2002-11-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0994b340-aa7c-45b9-91c3-379f8b6ac0a7"
+        },
+        {
+          "name": "At the Beeb",
+          "date": "1994-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0b65b5fc-91f1-4227-a433-e709933d84fc"
+        },
+        {
+          "name": "Led Zeppelin",
+          "date": "1969-01-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0f18ec88-aa87-38a9-8a65-f03d81763560"
+        },
+        {
+          "name": "Remasters",
+          "date": "1990-10-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/115af8d3-65da-370a-b174-b42e82f470e5"
+        },
+        {
+          "name": "Physical Graffiti",
+          "date": "1975-02-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/116c9490-6af4-3827-8261-2d5b1f508fe7"
+        },
+        {
+          "name": "Greatest Hits 1969-1982",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1233a491-ee22-4f19-9bb5-831baeefe30b"
+        },
+        {
+          "name": "Physically Present",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1585a0e7-a23f-4ff3-a5f0-15e2ca801339"
+        },
+        {
+          "name": "The Bonham Sessions",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1b95e907-7f9a-338d-ab8a-645a24d1ab83"
+        },
+        {
+          "name": "Ultra Rare Tracks Vol. #1",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/20283d11-1a32-4935-931a-a6c724d6575b"
+        },
+        {
+          "name": "Dancing Days / Over the Hills and Far Away",
+          "date": "1973",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/239f0d2d-4a2b-3402-83a0-2ee06e22025a"
+        },
+        {
+          "name": "Greatest Hits 1973–1982",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/249879e8-274c-313a-92b2-12190c0aeda8"
+        },
+        {
+          "name": "Definitive Collection",
+          "date": "2008-09-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/25b1892a-c518-3871-86b8-20071a42a563"
+        },
+        {
+          "name": "AT&T Showcase of Rock – The Led Zeppelin Story",
+          "date": "1993-03-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/26e073a1-a825-4098-b9c9-f1e14135678d"
+        },
+        {
+          "name": "Boxed Set 2",
+          "date": "1993-09-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2950ea2f-b2f4-3d70-99fa-d61a6512a554"
+        },
+        {
+          "name": "Good Times Bad Times / Communication Breakdown",
+          "date": "1969",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/29b7150e-0c3b-37e4-b051-41f9df6006e1"
+        },
+        {
+          "name": "Whole Lotta Love / Living Loving Maid",
+          "date": "1969",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2a581f1f-20bf-3797-803c-ec3ac1a7c6c5"
+        },
+        {
+          "name": "Profiled / Selections From Remasters",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2b997ffb-1269-4ddc-8567-293a0c42e721"
+        },
+        {
+          "name": "Anthology of Led Zeppelin IV",
+          "date": "1970",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2c675bba-f8fe-427d-9623-46a21e974771"
+        },
+        {
+          "name": "[Led Zeppelin IV]",
+          "date": "1971-11-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2e61da88-39e9-3473-81d2-c964cb394952"
+        },
+        {
+          "name": "The Lost Sessions, Vol. 5",
+          "date": "2005",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2ec0dda7-15dd-4a05-83c9-694e93f0e1af"
+        },
+        {
+          "name": "In Through the Out Door",
+          "date": "1979-08-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2fbf4c3e-09e5-38f0-ae59-fbdc9ea16b87"
+        },
+        {
+          "name": "Rock Report Led Zeppelin Stairway to Heaven",
+          "date": "1998",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/301d5ef1-1cde-4ca5-9069-8d9890e7fa17"
+        },
+        {
+          "name": "Led Zeppelin II",
+          "date": "1969-10-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/33b4653d-006e-3cc1-8afb-386b15a6cd6e"
+        },
+        {
+          "name": "Led Zeppelin",
+          "date": "2003-05-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/362f3fa7-d298-3998-ae1c-4ac0d02b7718"
+        },
+        {
+          "name": "Golden Ballads",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3b26c369-26a5-387d-8880-62ca9444a09e"
+        },
+        {
+          "name": "Collection, Vol. III",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/41436c8f-d04c-4a7e-8511-846dae182df8"
+        },
+        {
+          "name": "Cabala",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/421794c2-8f23-30a2-a547-00878f5b5256"
+        },
+        {
+          "name": "Trampled Under Foot / Black Country Woman",
+          "date": "1975-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/421d8343-6144-33cf-8197-02e8ea324951"
+        },
+        {
+          "name": "Presence",
+          "date": "1976-03-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/42f8acce-90fc-3471-a4cd-ace1ab816276"
+        },
+        {
+          "name": "Whole Lotta Love",
+          "date": "1997-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/43b94b18-8f98-3771-8fa8-afa412f4c6ff"
+        },
+        {
+          "name": "Mothership",
+          "date": "2007-11-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4511c129-cbf8-3366-891b-f1e6c8dab80c"
+        },
+        {
+          "name": "Oxford Midnight",
+          "date": "2013",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4810c5f8-f7c3-4e67-8216-b2a6a7eea411"
+        },
+        {
+          "name": "Hairway to Steven",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/50e1d35b-9d8e-40a9-bbb0-ee6197e60f4b"
+        },
+        {
+          "name": "Interview Disc 2003",
+          "date": "2003",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/520d4470-0377-45ff-98b5-0bee49a543a3"
+        },
+        {
+          "name": "Архив популярной музыки №6",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/522f9b05-ef35-4825-bc77-da50ba34461c"
+        },
+        {
+          "name": "Led Zeppelin III",
+          "date": "1970-10-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/53f80f76-f8af-3558-bfd5-e7221e055c75"
+        },
+        {
+          "name": "Rock and Roll / Friends",
+          "date": "2018-04-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5983b6c6-acf3-414e-9f25-a5fed97bb58b"
+        },
+        {
+          "name": "D'yer Mak'er / The Crunge",
+          "date": "1973",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5e257f73-ebb8-32b1-ba72-598e30f4881c"
+        },
+        {
+          "name": "Studio Haze, Volume 1",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5ef2cb19-3250-36f5-91a1-26d72d895ccb"
+        },
+        {
+          "name": "Friends / Celebration Days",
+          "date": "1976",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/612475c3-b4fa-4d0a-bf0d-62f8cd9b4e8f"
+        },
+        {
+          "name": "Coda",
+          "date": "1982-11-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/61de0438-6c34-363f-904e-b4d6267c79b9"
+        },
+        {
+          "name": "Alternative Coda",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/62a1a05d-f67d-3966-a135-70f9f2e522ff"
+        },
+        {
+          "name": "Архив Популярной Музыки № 7",
+          "date": "1990-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/64b334da-d355-4fba-8a51-b813015a7f75"
+        },
+        {
+          "name": "Early Days: The Best of Led Zeppelin, Volume One",
+          "date": "1999-11-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6d5c316e-1dcf-30e1-ac4d-726d67a747c4"
+        },
+        {
+          "name": "Brutal Artistry",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/79a074e3-b71e-3cc9-b775-f4b8b21f5f85"
+        },
+        {
+          "name": "The Lost Mixes: Vol. 1–12",
+          "date": "2014",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/79da83b8-d991-4104-9abf-2550f9a892e5"
+        },
+        {
+          "name": "The Lost Sessions, Vol. 8",
+          "date": "2005",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7cb67bab-0c80-41e4-a325-5bbe92c0056a"
+        },
+        {
+          "name": "Living Loving Maid (She’s Just a Woman) / Bring It On Home",
+          "date": "1970-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7eb5ecf9-c8e3-4577-990e-017963ad49e2"
+        },
+        {
+          "name": "Kashmir (live from Knebworth, 1979)",
+          "date": "2025-08-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f5fa53a-bba6-48e2-b11f-9670a35ce7cd"
+        },
+        {
+          "name": "Fool in the Rain / Hot Dog",
+          "date": "1979",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/859287da-a879-3917-bb34-7614732d8e31"
+        },
+        {
+          "name": "An Introduction to Led Zeppelin",
+          "date": "2018-09-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/87ac6730-6a50-408e-839d-002a7685df6c"
+        },
+        {
+          "name": "Whole Lotta Love / Immigrant Song",
+          "date": "1972",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8a6ff02c-e8e0-4b81-a8a6-6bb4b4ed5976"
+        },
+        {
+          "name": "Greatest Hits 1969–1971",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8d726f6e-2cbf-3b40-8b99-25c890da73fe"
+        },
+        {
+          "name": "Лестница на небеса (Stairway to Heaven)",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8ea9c766-175f-4dbc-a994-f4e502aceede"
+        },
+        {
+          "name": "That's the Way Through the Out Door",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9170cf4d-295c-30e5-98cf-7ad186b0ce30"
+        },
+        {
+          "name": "Whole Lotta Love",
+          "date": "1970",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9213bdf2-caeb-3236-be5b-b99b3fdf2c5a"
+        },
+        {
+          "name": "Studio Daze",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/929d8d26-b375-339b-b750-d1eea6c7b1e3"
+        },
+        {
+          "name": "Led Zeppelin",
+          "date": "1990-10-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/92d5e425-6dff-34d7-8edf-0c82156b46b0"
+        },
+        {
+          "name": "Immigrant Song / Hey, Hey, What Can I Do",
+          "date": "1970-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/94ddbbd4-2724-3a0d-97f5-d7e4dfca0bad"
+        },
+        {
+          "name": "Best of Led Zeppelin",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/97debd81-84c8-390a-9326-74ab5090692a"
+        },
+        {
+          "name": "Houses of the Holy",
+          "date": "1973-03-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9b5006e5-b276-3a05-bcdd-8d986842320b"
+        },
+        {
+          "name": "Black Dog / Misty Mountain Hop",
+          "date": "1971",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9ddada68-98ec-3f76-b3ec-373a4141798b"
+        },
+        {
+          "name": "Celebration Day",
+          "date": "2012-11-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a27cd867-dc78-49c5-909b-fd022df5fd5d"
+        },
+        {
+          "name": "Roots: The Early Years",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a38d69d9-6efc-3b13-b0ae-b13c17ee9bbb"
+        },
+        {
+          "name": "Bron‐Y‐Aur‐Stomp / Out on the Tiles",
+          "date": "1970-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/adf7dc8b-97fb-45fa-9597-f7ec2a8002de"
+        },
+        {
+          "name": "Heartbreaker / Bring It On Home",
+          "date": "1970-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ae7eab8d-f6c7-40d6-83e4-fc819d7428f2"
+        },
+        {
+          "name": "Best Selection",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b2ce0ce2-e0ed-44df-8a8a-1ef0a4d1b54a"
+        },
+        {
+          "name": "Anyway You Want",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b317dc78-52af-4c7c-ae0e-59e0dcd21b9d"
+        },
+        {
+          "name": "Led Zeppelin II Multi Track Mixdowns",
+          "date": "2012",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b5f08919-c07f-4606-9b9a-2ec0aa485773"
+        },
+        {
+          "name": "The Lost Sessions, Vol. 12: All Roads Lead to Headley Grange III",
+          "date": "2008",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b6470bb0-0617-4cee-84cf-c21071c0f7b3"
+        },
+        {
+          "name": "The Complete Studio Recordings",
+          "date": "1993-09-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b80eafc6-74f0-365d-8776-478d6e188468"
+        },
+        {
+          "name": "Totally Tangible",
+          "date": "",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c1e55c84-f30b-4866-8d45-003e501c382e"
+        },
+        {
+          "name": "Baby I’m Going to Leave You / It’s My Life",
+          "date": "2007-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c290da69-c125-4679-847d-ed1206d0df2b"
+        },
+        {
+          "name": "Whole Lotta Rock!",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c9f0b50d-61d5-32ae-989f-fa365dbfb3bf"
+        },
+        {
+          "name": "The Song Remains the Same",
+          "date": "1976-09-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ce0cca72-d865-30b9-9667-47241049fd18"
+        },
+        {
+          "name": "Dusty in Memphis / Led Zeppelin",
+          "date": "1969",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d1011171-b0a2-4ab0-9e7b-5a02ff587706"
+        },
+        {
+          "name": "Live EP",
+          "date": "2025-09-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d1a4f4ba-f648-42e1-8aea-972775a4ec38"
+        },
+        {
+          "name": "Acoustically",
+          "date": "1972",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d1d2ae34-08e6-31f9-a576-52c02bdd892a"
+        },
+        {
+          "name": "Latter Days: The Best of Led Zeppelin, Volume Two",
+          "date": "2000-03-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d9d3b39a-c55b-31b4-84de-f423da4c39b0"
+        },
+        {
+          "name": "The Lost Sessions, Vol. 10: All Roads Lead to Headley Grange II",
+          "date": "2007",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dbd22b5c-758f-4d8c-982d-d33cea0ae92d"
+        },
+        {
+          "name": "Lighter Than Air",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/de8a7b94-33e0-4d75-ba75-c600767e2d6e"
+        },
+        {
+          "name": "Immigrant Song",
+          "date": "2018-03-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e0ea1df1-91ac-400c-b564-8330e9043f73"
+        },
+        {
+          "name": "Stairway Sessions",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e21dc4ff-9429-4cc8-a95c-e006014ab82b"
+        },
+        {
+          "name": "Stairway to Heaven Sessions 1970–1971",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e3037eab-fdfc-4768-8704-332bf4916632"
+        },
+        {
+          "name": "Candy Store Rock / Royal Orleans",
+          "date": "1976",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e470c1be-07e0-3aed-9f91-118b4970eb5d"
+        },
+        {
+          "name": "The Lost BBC Sessions",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e6006468-9b48-4689-aed3-3025af3e148b"
+        },
+        {
+          "name": "Brutal Artistry 2",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e8767d47-36b5-30c5-8d91-b9e243c0acc3"
+        },
+        {
+          "name": "Black Dog",
+          "date": "1971",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ed7f7abe-1dec-4ed4-a90b-c55205fdfa1f"
+        },
+        {
+          "name": "Bron‐Y‐Aur Stomp / Immigrant Song",
+          "date": "1970-10-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f05d39f1-a50c-424a-ad16-da7a1ac90bc2"
+        },
+        {
+          "name": "The Very Best of Led Zeppelin",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f4f4b0f8-e0ab-4a93-a4bd-a001517ab800"
+        },
+        {
+          "name": "Rock and Roll / Four Sticks",
+          "date": "1972",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f9eedac9-abd9-3450-9b7d-1bb619062b50"
+        },
+        {
+          "name": "Led Zeppelin",
+          "date": "2006-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fadd0405-9ba3-496b-890c-ad250336f3c2"
+        },
+        {
+          "name": "The Ocean",
+          "date": "1973",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fd5d71f2-d6e3-4bf0-b3ee-38b27efbdccf"
+        },
+        {
+          "name": "This Is Led Zeppelin",
+          "date": "1971",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ffeb9258-4101-360b-8a84-69b2b1a10c22"
+        }
+      ]
     }
   },
   "checked": {
@@ -17410,6 +18021,8 @@
     "kid-rock": "2026-10-14T22:43:55.410714+00:00",
     "king-crimson": "2026-10-14T22:43:59.749296+00:00",
     "kiss": "2026-10-15T00:58:33.311148+00:00",
-    "kreator": "2026-10-15T00:58:37.473761+00:00"
+    "kreator": "2026-10-15T00:58:37.473761+00:00",
+    "led-zeppelin": "2026-10-15T05:50:18.788607+00:00",
+    "leprous": "2026-10-15T05:50:20.019535+00:00"
   }
 }

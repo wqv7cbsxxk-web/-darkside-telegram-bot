@@ -2488,7 +2488,7 @@
       "website": "http://rammstein.de",
       "reference_url": "https://en.wikipedia.org/wiki/Rammstein",
       "reference_checked_at": "2026-10-14T19:42:04.992947+00:00",
-      "tour_attempted_at": "2026-10-04T02:35:42.597796+00:00",
+      "tour_attempted_at": "2026-10-15T05:50:09.406419+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T19:42:04.993039+00:00"
     },
@@ -2551,7 +2551,7 @@
       "website": "http://ratm.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rage_Against_The_Machine",
       "reference_checked_at": "2026-10-14T19:42:05.429756+00:00",
-      "tour_attempted_at": "2026-10-04T02:35:43.006797+00:00",
+      "tour_attempted_at": "2026-10-15T05:50:09.885535+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T19:42:05.429864+00:00"
     },
@@ -2573,7 +2573,7 @@
       "website": "http://rush.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rush_%28band%29",
       "reference_checked_at": "2026-10-14T19:42:05.682257+00:00",
-      "tour_attempted_at": "2026-10-04T02:35:43.622068+00:00",
+      "tour_attempted_at": "2026-10-15T05:50:10.559704+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T19:42:05.682389+00:00"
     },
@@ -2603,7 +2603,7 @@
       "website": "http://sepultura.com.br",
       "reference_url": "https://en.wikipedia.org/wiki/Sepultura",
       "reference_checked_at": "2026-10-14T19:42:05.847571+00:00",
-      "tour_attempted_at": "2026-10-04T02:35:44.459231+00:00",
+      "tour_attempted_at": "2026-10-15T05:50:11.752613+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T19:42:05.847597+00:00"
     },
@@ -3035,8 +3035,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://twistedsister.com",
       "reference_url": "https://en.wikipedia.org/wiki/Twisted_Sister",
-      "reference_checked_at": "2026-10-02T02:24:27.460773+00:00",
-      "tour_attempted_at": "2026-10-04T19:58:58.353595+00:00"
+      "reference_checked_at": "2026-10-15T05:50:07.096165+00:00",
+      "tour_attempted_at": "2026-10-04T19:58:58.353595+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T05:50:07.096219+00:00"
     },
     "tool": {
       "origin": "Los Angeles , California, U.S.",
@@ -3063,41 +3065,224 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://toolband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Tool_%28band%29",
-      "reference_checked_at": "2026-10-02T02:24:27.471101+00:00",
-      "tour_attempted_at": "2026-10-04T19:58:58.893470+00:00"
+      "reference_checked_at": "2026-10-15T05:50:07.284503+00:00",
+      "tour_attempted_at": "2026-10-04T19:58:58.893470+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T05:50:07.284590+00:00"
     },
     "ufo": {
       "origin": "London , England",
       "genres": "Hard rock , heavy metal , space rock (early)",
       "years_active": "1968–1983 1984–1989 1991–2024",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Phil Mogg",
+          "role": ""
+        },
+        {
+          "name": "Andy Parker",
+          "role": ""
+        },
+        {
+          "name": "Pete Way",
+          "role": ""
+        },
+        {
+          "name": "Mick Bolton",
+          "role": ""
+        },
+        {
+          "name": "Larry Wallis",
+          "role": ""
+        },
+        {
+          "name": "Bernie Marsden",
+          "role": ""
+        },
+        {
+          "name": "Michael Schenker",
+          "role": ""
+        },
+        {
+          "name": "Paul Chapman",
+          "role": ""
+        },
+        {
+          "name": "Danny Peyronel",
+          "role": ""
+        },
+        {
+          "name": "Paul Raymond",
+          "role": ""
+        },
+        {
+          "name": "Neil Carter",
+          "role": ""
+        },
+        {
+          "name": "Paul Gray",
+          "role": ""
+        },
+        {
+          "name": "Tommy McClendon",
+          "role": ""
+        },
+        {
+          "name": "Jim Simpson",
+          "role": ""
+        },
+        {
+          "name": "Myke Gray",
+          "role": ""
+        },
+        {
+          "name": "Fabio Del Rio",
+          "role": ""
+        },
+        {
+          "name": "Rik Sandford",
+          "role": ""
+        },
+        {
+          "name": "Tony Glidewell",
+          "role": ""
+        },
+        {
+          "name": "Erik Gamans",
+          "role": ""
+        },
+        {
+          "name": "Laurence Archer",
+          "role": ""
+        },
+        {
+          "name": "Clive Edwards",
+          "role": ""
+        },
+        {
+          "name": "Jem Davis",
+          "role": ""
+        },
+        {
+          "name": "Simon Wright",
+          "role": ""
+        },
+        {
+          "name": "Aynsley Dunbar",
+          "role": ""
+        },
+        {
+          "name": "Vinnie Moore",
+          "role": ""
+        },
+        {
+          "name": "Jason Bonham",
+          "role": ""
+        },
+        {
+          "name": "Rob De Luca",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://ufo.tmstor.es",
       "reference_url": "https://en.wikipedia.org/wiki/UFO_%28band%29",
-      "reference_checked_at": "2026-10-02T02:24:32.254768+00:00",
-      "tour_attempted_at": "2026-10-04T19:58:59.033809+00:00"
+      "reference_checked_at": "2026-10-15T05:50:07.401212+00:00",
+      "tour_attempted_at": "2026-10-04T19:58:59.033809+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T05:50:07.401231+00:00"
     },
     "van-halen": {
       "origin": "Pasadena, California , U.S.",
       "genres": "Hard rock heavy metal pop rock glam metal",
       "years_active": "1972–1999 2003–2020",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "Eddie Van Halen",
+          "role": ""
+        },
+        {
+          "name": "Alex Van Halen",
+          "role": ""
+        },
+        {
+          "name": "Mark Stone",
+          "role": ""
+        },
+        {
+          "name": "David Lee Roth",
+          "role": ""
+        },
+        {
+          "name": "Michael Anthony",
+          "role": ""
+        },
+        {
+          "name": "Sammy Hagar",
+          "role": ""
+        },
+        {
+          "name": "Gary Cherone",
+          "role": ""
+        },
+        {
+          "name": "Wolfgang Van Halen",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://van-halen.com",
       "reference_url": "https://en.wikipedia.org/wiki/Van_Halen",
-      "reference_checked_at": "2026-10-02T02:24:32.587714+00:00",
-      "tour_attempted_at": "2026-10-04T19:58:59.361444+00:00"
+      "reference_checked_at": "2026-10-15T05:50:07.585721+00:00",
+      "tour_attempted_at": "2026-10-04T19:58:59.361444+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T05:50:07.585740+00:00"
     },
     "whitesnake": {
       "origin": "London, England",
       "genres": "Hard rock blues rock glam metal heavy metal",
       "years_active": "1978–1990 1994 1997 2003–2022",
-      "members": [],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members": [
+        {
+          "name": "David Coverdale",
+          "role": ""
+        },
+        {
+          "name": "Tommy Aldridge",
+          "role": ""
+        },
+        {
+          "name": "Reb Beach",
+          "role": ""
+        },
+        {
+          "name": "Joel Hoekstra",
+          "role": ""
+        },
+        {
+          "name": "Michele Luppi",
+          "role": ""
+        },
+        {
+          "name": "Dino Jelusick",
+          "role": ""
+        },
+        {
+          "name": "Tanya O'Callaghan",
+          "role": ""
+        },
+        {
+          "name": "List of Whitesnake members",
+          "role": ""
+        }
+      ],
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://whitesnake.com",
       "reference_url": "https://en.wikipedia.org/wiki/Whitesnake",
-      "reference_checked_at": "2026-10-02T02:24:37.925560+00:00",
-      "tour_attempted_at": "2026-10-04T22:46:39.506622+00:00"
+      "reference_checked_at": "2026-10-15T05:50:07.839864+00:00",
+      "tour_attempted_at": "2026-10-04T22:46:39.506622+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T05:50:07.839955+00:00"
     },
     "yes": {
       "origin": "London, England",
@@ -3128,8 +3313,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://yesworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Yes_%28band%29",
-      "reference_checked_at": "2026-10-02T02:24:38.071253+00:00",
-      "tour_attempted_at": "2026-10-04T22:46:46.641427+00:00"
+      "reference_checked_at": "2026-10-15T05:50:08.035389+00:00",
+      "tour_attempted_at": "2026-10-04T22:46:46.641427+00:00",
+      "instruments": "",
+      "reference_attempted_at": "2026-10-15T05:50:08.035411+00:00"
     },
     "wolves-in-the-throne-room": {
       "origin": "Olympia, Washington , U.S.",
