@@ -19129,6 +19129,638 @@
           "source_url": "https://musicbrainz.org/release-group/fdf910c6-3229-3269-b770-8aa31628389c"
         }
       ]
+    },
+    "metallica": {
+      "name": "Metallica",
+      "musicbrainz_url": "https://musicbrainz.org/artist/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+      "reference_checked_at": "2026-10-15T22:31:35.909256+00:00",
+      "genres": "hard rock, heavy metal, metal, rock, thrash metal",
+      "website": "https://www.metallica.com/",
+      "members": [
+        {
+          "name": "James Hetfield",
+          "role": "guitar, lead vocals, original",
+          "begin": "1981"
+        },
+        {
+          "name": "Lars Ulrich",
+          "role": "drums (drum set), original, percussion",
+          "begin": "1981"
+        },
+        {
+          "name": "Kirk Hammett",
+          "role": "background vocals, guitar",
+          "begin": "1983-04-01"
+        },
+        {
+          "name": "Robert Trujillo",
+          "role": "background vocals, bass guitar",
+          "begin": "2003-02-24"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+      "albums": [
+        {
+          "name": "2004-10-17: Washington, DC, USA",
+          "date": "2004-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/03810812-26d5-3d4e-b1df-04012eb0d949"
+        },
+        {
+          "name": "1983-12-18: Agora Ballroom, Cleveland, OH, USA",
+          "date": "1983-12-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/09e4a8f4-4b96-40a5-8c39-e4ac33b39a51"
+        },
+        {
+          "name": "2004-10-01: Auburn Hills, MI, USA",
+          "date": "2004-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0ab43c1a-ad5b-37fe-86d9-5b25db4a6de0"
+        },
+        {
+          "name": "1993-04-11: Lebak Bulus Stadium, Jakarta, ID",
+          "date": "1993-04-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0cb23e26-6094-478f-9acf-76dc3bd68c8e"
+        },
+        {
+          "name": "Ride the Lightning",
+          "date": "1984-07-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0da580f2-6768-498f-af9d-2becaddf15e0"
+        },
+        {
+          "name": "Live at Day on the Green, Oakland, CA, 10/12/91",
+          "date": "1991-10-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0f7ed50f-8cef-4810-ae03-e795999d3b74"
+        },
+        {
+          "name": "1985-08-17: Monsters of Rock @ Donington Park, Castle Donington, UK",
+          "date": "1985-08-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/10a8e72c-3b89-41e2-a96f-842a07f5d268"
+        },
+        {
+          "name": "2004-08-30: Hilton Coliseum, Ames, IA, USA",
+          "date": "2004-09-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1112c5f7-7986-36b8-84f1-1c0dc7085be4"
+        },
+        {
+          "name": "2004-03-24: Pengrowth Saddledome, Calgary, AB, Canada",
+          "date": "2004-03-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/12f34579-8699-49fb-8c91-befc72e8995a"
+        },
+        {
+          "name": "1999-12-29: Tropicana Field, Saint Petersburg, FL",
+          "date": "1999-12-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/17d2ea8d-8c14-4107-bdff-d272dc84f9c3"
+        },
+        {
+          "name": "2004-09-01: Kansas Coliseum, Wichita, KS",
+          "date": "2004-09-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1cfa36c6-7f86-4d93-97f0-ad6a4de7317b"
+        },
+        {
+          "name": "2004-03-18: Rose Garden, Portland, OR, USA",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1d11473c-b310-38b9-b340-48f99f675932"
+        },
+        {
+          "name": "2004-06-19: La Romareda Stadium, Zaragoza, Spain",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1ed38798-7fd4-3af0-ad15-7d42951c15a3"
+        },
+        {
+          "name": "Live in Concert",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2b2b6f4f-2f22-4077-80f4-bf6fae18d69b"
+        },
+        {
+          "name": "1995-08-23: Loud but Secret: London Astoria II, London, UK",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2bcddc3b-87ff-3beb-aab2-97658cd9563c"
+        },
+        {
+          "name": "2004-07-02: Werchter, Belgium",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2e0c1522-5a0e-3b0e-936c-7690d9781505"
+        },
+        {
+          "name": "1998-04-17: Queens Wharf Event Centre, Wellington, NZ",
+          "date": "1998-04-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2ef10b10-4b36-463d-9f7c-5ed8c48aa862"
+        },
+        {
+          "name": "1993-05-02: Estádio Palestra Itália, Sao Paulo, BR",
+          "date": "1993-05-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/30e00e03-7046-4cb3-afb8-97016fd85986"
+        },
+        {
+          "name": "2004-06-13: Munich, Germany",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/319e3fd6-e9ec-36b3-b3bd-43e7f0ff1b6d"
+        },
+        {
+          "name": "2004-05-26: Parken, Copenhagen, Denmark",
+          "date": "2004-06-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/336dcacf-cd52-3ded-87af-a399bb619d9c"
+        },
+        {
+          "name": "2004-06-15: Belgrade, Serbia",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/33bc0017-7a2b-344c-8492-fb3fe75241a3"
+        },
+        {
+          "name": "2004-10-07: Corel Centre, Ottawa, ON, Canada",
+          "date": "2004-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/36da2914-29c7-3a74-8711-6c16b6e41c8f"
+        },
+        {
+          "name": "Lulu",
+          "date": "2011-10-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/38d1077e-c270-49a8-92ca-87e7eb8d9fe4"
+        },
+        {
+          "name": "Master of Puppets",
+          "date": "1986-03-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3d00fb45-f8ab-3436-a8e1-b4bfc4d66913"
+        },
+        {
+          "name": "1991-12-01: Richfield Coliseum, Cleveland, OH, US",
+          "date": "1991-12-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3e334be1-746a-445e-b95c-cfe605b1b355"
+        },
+        {
+          "name": "2004-11-09: Pensacola, FL, USA",
+          "date": "2004-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4251f95b-f7b6-3336-a763-96947c4e0ae3"
+        },
+        {
+          "name": "2004-06-21: Amsterdam Arena, Amsterdam, The Netherlands",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4575b964-f5af-3dcb-b419-a25565aca5ff"
+        },
+        {
+          "name": "The Videos: 1989–2004",
+          "date": "2006-12-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/48c8c54e-506a-3b47-a72b-e2fc7090269b"
+        },
+        {
+          "name": "S&M",
+          "date": "1999-11-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/49371adc-871d-38f6-bb60-fd9e5af6795f"
+        },
+        {
+          "name": "Cunning Stunts",
+          "date": "1998-12-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4db279d8-9fa0-3ca8-acfb-6effef32e04a"
+        },
+        {
+          "name": "2004-05-31: Śląski Stadium, Chorzów, Poland",
+          "date": "2004-06-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/55141a0e-ce85-38ba-be0b-a5876c8b40d7"
+        },
+        {
+          "name": "Hardwired… to Self‐Destruct",
+          "date": "2016-11-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/55d8ab42-990b-4c94-93c8-9ca7927b5fc0"
+        },
+        {
+          "name": "1992-07-17: RFK Stadium, Washington, DC, USA",
+          "date": "1992-07-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/579e0fd9-d43b-3eef-822e-e82c8e30e9bb"
+        },
+        {
+          "name": "Live at the Delta Center, Salt Lake City, UT Jan 2, 1997",
+          "date": "1997-01-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5a6bac9c-d2ad-4bbc-9dc9-5067d3bcbb8f"
+        },
+        {
+          "name": "The Metallica Collection",
+          "date": "2009-04-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5b2a6048-030a-4e04-b2f5-eaf02000725f"
+        },
+        {
+          "name": "Death Magnetic",
+          "date": "2008-09-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5c8a25bf-4764-3cce-8f37-30af79d3b101"
+        },
+        {
+          "name": "2004-03-02: Phoenix, AZ, USA",
+          "date": "2004-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/660b5b6e-65aa-3ec2-b442-d19b6073cdcb"
+        },
+        {
+          "name": "2004-06-06: Download Festival, Donington, UK",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/66b13ea2-83ed-393f-aeab-c2c19814b409"
+        },
+        {
+          "name": "…And Justice for All",
+          "date": "1988-08-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/67553e23-8dad-3792-b6f2-8fedd5650ff3"
+        },
+        {
+          "name": "1993-02-13: Forum de Montréal, Montreal, PQ",
+          "date": "1993-02-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6d9608e8-aa9b-4f20-a66f-28a79f6f0215"
+        },
+        {
+          "name": "2004-11-13: Gwinnett Center, Duluth, GA, USA",
+          "date": "2004-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6e03fa49-f243-3eda-a7b8-0de12b48bead"
+        },
+        {
+          "name": "Fan Can #4: …And All This for You",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6f51c945-1f04-3a2d-b98d-96cf1aa577fa"
+        },
+        {
+          "name": "1997-01-02: Delta Center, Salt Lake City, UT, USA",
+          "date": "1997-01-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7182cc8d-3c7c-4c41-8d74-c995740e5c09"
+        },
+        {
+          "name": "2000-08-02: Starplex Amphitheater, Dallas, TX",
+          "date": "2000-08-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7229d673-4dd1-457d-ab0b-00c3b801ab9c"
+        },
+        {
+          "name": "2004-08-19: Indianapolis, IN, USA",
+          "date": "2004-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/731df05f-f562-3cfe-b0c5-802e5d658c33"
+        },
+        {
+          "name": "2004-03-30: Casper, Wyoming, USA",
+          "date": "2004-03-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7778cb42-526e-49da-858b-d6edcdc896bf"
+        },
+        {
+          "name": "Live Shit: Binge & Purge",
+          "date": "1993-11-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7a03bfe3-28d7-3c90-9ee0-50952cd4cad4"
+        },
+        {
+          "name": "Live at Gund Arena, Cleveland, OH January 1, 2000",
+          "date": "2000-01-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f1c7f76-b347-4969-a395-9a3a4074842f"
+        },
+        {
+          "name": "2004-09-03: Frank Erwin Center, Austin TX, USA",
+          "date": "2004-09-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/82889469-5bf2-38f0-b2ca-29aa42274271"
+        },
+        {
+          "name": "1991-09-11: Liebenau, Graz, AUT",
+          "date": "1991-09-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8be5ba12-c988-46e0-9e70-e44c4df701d4"
+        },
+        {
+          "name": "2004-05-28: Olympic Stadium, Helsinki, Finland",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8c76af48-ee3e-33a4-92d4-c91336b606d7"
+        },
+        {
+          "name": "Fan Can #2",
+          "date": "1997-11-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8e3b204e-e612-301d-911e-69f6284004c9"
+        },
+        {
+          "name": "2004-03-08: San Francisco, CA, USA",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8ebc44ed-abe1-30e0-a8f4-9fe6ed765600"
+        },
+        {
+          "name": "Live at Wembley Stadium, London, England / April 20th, 1992",
+          "date": "1992-04-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8ed5b695-4df7-4607-8450-0877772d4f83"
+        },
+        {
+          "name": "St. Anger",
+          "date": "2003-06-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8f1cc89b-7e80-3e1c-b571-8cf2b98db347"
+        },
+        {
+          "name": "Reload",
+          "date": "1997-11-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8fd32554-02a7-3788-a761-7012e0e75e55"
+        },
+        {
+          "name": "1992-02-13: The Great Western Forum, Los Angeles, CA, US",
+          "date": "1992-02-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/94d48fb3-1c7a-4127-ba79-0ba08fe871aa"
+        },
+        {
+          "name": "1985-03-15: Kabuki Theater, San Francisco, CA, USA",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/96411470-bfdb-3f4e-ab66-36ebc96c40be"
+        },
+        {
+          "name": "2004-03-23: Edmonton, AB, Canada",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/982d46ab-bae6-374f-a720-0269dc817cf5"
+        },
+        {
+          "name": "72 Seasons",
+          "date": "2023-04-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a0b7b436-94db-4df6-8c5f-bc0e5932a90e"
+        },
+        {
+          "name": "2000-01-01: Gund Arena, Cleveland, OH, USA",
+          "date": "2000-01-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a360f5d9-f9e5-4f44-a286-620369c46805"
+        },
+        {
+          "name": "Shoreline Amphitheater, Mountain View, CA Jul 22, 1994",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a46c5769-ade8-4196-b84a-ef78bd50401c"
+        },
+        {
+          "name": "2004-03-26: Vancouver, BC, Canada",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a6c2bfb1-989f-43fd-b57c-4bb11e82922c"
+        },
+        {
+          "name": "Live at Maimarktgelände, Mannheim, Germany, 05/22/93",
+          "date": "1993-05-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a920d048-eb0f-45dc-83de-fbcb67c76706"
+        },
+        {
+          "name": "2004-06-25: Dublin, Ireland",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a9387316-d3ab-3ecc-965c-9a0bf80306d7"
+        },
+        {
+          "name": "2004-06-08: Ludwigshafen, Germany",
+          "date": "2004-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ac7bb743-c095-3576-9ddb-4d8ce2459ec3"
+        },
+        {
+          "name": "1985-03-15: Kabuki Theater, San Francisco, California, USA",
+          "date": "1985-03-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/aca64ba1-794d-4257-a267-d16f046120a5"
+        },
+        {
+          "name": "Live at Starplex Amphitheater, Dallas, Texas August 3, 2000",
+          "date": "2000-08-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/acff1a88-88ca-41bf-8ca8-326f9e76c346"
+        },
+        {
+          "name": "2004-08-25: Fort Wayne, IN, USA",
+          "date": "2004-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b18b105c-72d1-319b-bd8c-cfa4663b1ba2"
+        },
+        {
+          "name": "2004-08-28: Chicago, IL, USA",
+          "date": "2004-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b97d555d-fad6-3fd9-a52c-ace2659640d8"
+        },
+        {
+          "name": "1992-10-03: Rose Bowl, Pasadena, CA",
+          "date": "1992-10-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b9d2ca3f-8388-411c-943d-76e63e6a414b"
+        },
+        {
+          "name": "1999-04-30: Foro Sol, Mexico City, MX",
+          "date": "1999-04-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bc757bbc-2e99-4234-a197-5b952205e7ef"
+        },
+        {
+          "name": "2004-08-24: Peoria, IL, USA",
+          "date": "2004-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bed10cba-f717-315a-b392-5326fa35dc5f"
+        },
+        {
+          "name": "2004-03-05: Los Angeles, CA, USA",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c36ed548-f9b9-3b57-9917-ac4248b932c1"
+        },
+        {
+          "name": "2004-04-20: Uniondale, NY, USA",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c3ef702a-1c50-3baa-9529-7ff3d4d4d9a5"
+        },
+        {
+          "name": "2003-06-22: Estadio La Peineta, Madrid, ESP",
+          "date": "2003-06-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c60de7ee-1f2c-4f0a-94ec-5b23e69040eb"
+        },
+        {
+          "name": "By Request",
+          "date": "2014",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cb5ecc81-8bc1-47ba-ad33-269e97a95926"
+        },
+        {
+          "name": "March 3, 2004 Tucson, AZ, T.C.C.",
+          "date": "2004-03-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d1004b16-5fe1-4f23-9c61-7ba8de156d46"
+        },
+        {
+          "name": "2004-09-04: Lubbock, TX, USA",
+          "date": "2004-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d12cffe1-0f03-3c47-bccd-fbf004401462"
+        },
+        {
+          "name": "2004-10-15: Pepsi Colisee, Quebec City, QC, Canada",
+          "date": "2004-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d259d433-bd16-3c20-a412-dddd0bd5f622"
+        },
+        {
+          "name": "1993-06-30: Park HaYarkon, Tel Aviv, IL",
+          "date": "1993-06-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d59ae6d4-f0f3-46a9-a1fc-22009e58e9bf"
+        },
+        {
+          "name": "1994-07-01: Marcus Amphitheater, Milwaukee, WI",
+          "date": "1994-07-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d5e190e3-9ba2-4e2b-a482-417c09426dc9"
+        },
+        {
+          "name": "First U.K. Gig",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d9c2e28c-4d0d-4288-bb4f-1b103c62a76c"
+        },
+        {
+          "name": "Fan Can #1",
+          "date": "1996-11-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dc3882c4-4e86-38ac-b3a6-6c7ad186a68a"
+        },
+        {
+          "name": "The Best Ballads",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dedb420e-6586-4695-afcb-31566222ced9"
+        },
+        {
+          "name": "1988-11-22: Mecca Arena, Milwaukee, WI",
+          "date": "1988-11-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e1583084-e0f0-43a2-85a9-633be70e4f1c"
+        },
+        {
+          "name": "1986‐05‐23: Cain’s Ballroom, Tulsa, OK, USA",
+          "date": "1986-05-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e2a1bd04-df04-44cf-b110-6a30c1624520"
+        },
+        {
+          "name": "Load",
+          "date": "1996-05-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e389b7df-862d-3d91-a612-acca150f6e71"
+        },
+        {
+          "name": "2004-03-06: Los Angeles, CA, USA",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e558101d-c9a0-3abe-84ce-c3f78822764f"
+        },
+        {
+          "name": "Garage Inc.",
+          "date": "1998-11-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e683880a-b1d7-3599-9f70-680ac56d8667"
+        },
+        {
+          "name": "Through the Never (Music From the Motion Picture)",
+          "date": "2013-09-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e6901677-86bd-47b6-858e-4d3e5346e054"
+        },
+        {
+          "name": "Metallica",
+          "date": "1991-08-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e8f70201-8899-3f0c-9e07-5d6495bc8046"
+        },
+        {
+          "name": "Limited‐Edition Vinyl Box Set",
+          "date": "2004-11-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e9632698-addd-4d34-b949-fb23f128db64"
+        },
+        {
+          "name": "2004-10-06: Toronto, ON, Canada",
+          "date": "2004-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/eaadcab8-7f53-3881-8918-2e09a853cace"
+        },
+        {
+          "name": "2003-07-06: Gillette Stadium, Foxborough, MA, USA",
+          "date": "2003-07-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f18ba199-9907-4ba6-a40d-6cb32c4c61c1"
+        },
+        {
+          "name": "Kill ’Em All",
+          "date": "1983-07-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f44f4f73-a714-31a1-a4b8-bfcaaf311f50"
+        },
+        {
+          "name": "Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+          "date": "1991-09-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f49bbe20-d280-4520-8f6b-21e6fe7d2068"
+        },
+        {
+          "name": "2004-11-17: American Airlines Center, Dallas, TX",
+          "date": "2004-11-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f4f7897b-1e2f-480a-a0dc-01e90e61e4db"
+        },
+        {
+          "name": "Glasgow, Scotland, Glasgow Green, June 2, 2004",
+          "date": "2004-06-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fc1c88fc-ed95-495c-b517-287691573bc1"
+        },
+        {
+          "name": "2004-10-28: London, ON, Canada",
+          "date": "2004-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/feda6c0f-8ca8-388d-bd08-a429089cdd9d"
+        }
+      ]
     }
   },
   "checked": {
@@ -19201,6 +19833,8 @@
     "marillion": "2026-10-15T15:21:39.708405+00:00",
     "mastodon": "2026-10-15T15:21:41.046451+00:00",
     "mayhem": "2026-10-15T19:18:39.018359+00:00",
-    "megadeth": "2026-10-15T19:18:40.219875+00:00"
+    "megadeth": "2026-10-15T19:18:40.219875+00:00",
+    "meshuggah": "2026-10-15T22:31:31.682655+00:00",
+    "metallica": "2026-10-15T22:31:35.909537+00:00"
   }
 }
