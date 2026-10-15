@@ -563,49 +563,18 @@
     "db6b400e4eb1213bd3aa7ad642fd576092389467",
     "e979374a12dae287f07f7b30585a5cda90bb96cc",
     "a9f9f7c6c2f74e3beb95894b470df3e056e66a03",
-    "537c1ac16052fbd84f1b44b9c60b424a775d02bb"
+    "537c1ac16052fbd84f1b44b9c60b424a775d02bb",
+    "abe6b5db0718259cfb0bedef584b70645f7cc9c9",
+    "67471967bfa108b1cb741be152bca10e945b218f",
+    "d20aa50afd59cb57a4583c12b97e9e0668279655",
+    "c2ef3426d8b6ccbb65392ec97917af6526d427a2",
+    "96560fd51d43392302ea1e5f6903b3593d9aaa66",
+    "d4c7e2ccb4a253ee0ddbb1df388a2e839a4f78af",
+    "d7cfe7f2dcc60d3ce63ebcb2840a48ee8deeff8d",
+    "4becddfe1b9fd1edf230148603eda74b16f9b467",
+    "324a82f301361e46f9cff9701861a7bfa6d41dc7"
   ],
   "recent_titles": [
-    {
-      "title": "From Ashes To New, NEVERTEL, Dark Divine & Hollow Pact Reveal Early 2027 North American Tour",
-      "source": "ThePRP",
-      "ts": 1791319420
-    },
-    {
-      "title": "Wolves In The Throne Room, Stygian Bough & Spirit Possession Announce 2027 North American Tour",
-      "source": "ThePRP",
-      "ts": 1791319424
-    },
-    {
-      "title": "Undeath Release New Single “Arterial Bombardment”",
-      "source": "ThePRP",
-      "ts": 1791319432
-    },
-    {
-      "title": "Inferi To Part Ways With Vocalist Stevie Boiser After Upcoming Tour",
-      "source": "ThePRP",
-      "ts": 1791319438
-    },
-    {
-      "title": "Linkin Park Now Have Two Diamond-Certified Albums In The United States",
-      "source": "ThePRP",
-      "ts": 1791319445
-    },
-    {
-      "title": "Alter Bridge’s “Tested And Able” Music Video Debuts",
-      "source": "ThePRP",
-      "ts": 1791319448
-    },
-    {
-      "title": "Thursday Announce 2027 Leg Of Their ‘Full City Devolución’ Tour",
-      "source": "ThePRP",
-      "ts": 1791319512
-    },
-    {
-      "title": "Why AC/DC's early British shows erupted in frenzy when Angus Young unleashed 'The Human Kangaroo'",
-      "source": "Louder",
-      "ts": 1791319635
-    },
     {
       "title": "Барабанщик ANGEL борется с раком",
       "source": "Darkside",
@@ -1365,6 +1334,46 @@
       "title": "Kid Rock Speaks On Trying To Be Less “Polarizing” & Using AI On His New Christian Album “Halfway 2 Jesus”: “I Really Do View It As Another Tool”",
       "source": "ThePRP",
       "ts": 1792091904
+    },
+    {
+      "title": "Новое видео GOTHMINISTER",
+      "source": "Darkside",
+      "ts": 1792103431
+    },
+    {
+      "title": "Новое видео KK'S PRIEST",
+      "source": "Darkside",
+      "ts": 1792103433
+    },
+    {
+      "title": "SAMMY HAGAR: «С Боном Скоттом AC/DC были настоящим рок-н-роллом»",
+      "source": "Darkside",
+      "ts": 1792103435
+    },
+    {
+      "title": "Aaron Lewis Confirms The Title For Staind’s Ninth Studio Album",
+      "source": "ThePRP",
+      "ts": 1792103445
+    },
+    {
+      "title": "Extinction A.D. Share Their Cover Of Alice Cooper’s “Feed My Frankenstein”",
+      "source": "ThePRP",
+      "ts": 1792103453
+    },
+    {
+      "title": "Old Man Gloom Booked For Brooklyn, NY Show With High On Fire",
+      "source": "ThePRP",
+      "ts": 1792103463
+    },
+    {
+      "title": "CHARLOTTE WESSELS выпустит новый альбом зимой",
+      "source": "Darkside",
+      "ts": 1792103464
+    },
+    {
+      "title": "BABYMETAL To Issue New 7″ EP For The Live Debut Of “My Queen” With Spiritbox’s Courtney LaPlante",
+      "source": "ThePRP",
+      "ts": 1792103470
     }
   ],
   "initialized_sources": [
@@ -4080,6 +4089,138 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T15:23:41+00:00",
       "id": "14906496ce8d34abc3e4c5bd74c18eff90dc1185",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Roger Waters Calls Metallica’s James Hetfield A “Complete Prick” In The Wake Of Hetfield’s Recent Apolitical Commentary",
+      "link": "https://www.theprp.com/2026/10/15/news/roger-waters-calls-metallicas-james-hetfield-a-complete-prick-in-the-wake-of-hetfields-recent-apolitical-commentary/",
+      "rss_body": "Hetfield's recent commentary of Metallica not wanting to \"influence\" people with their \"bullsh*t\" continues to draw strong reactions.",
+      "tags": "News James Hetfield Metallica Pink Floyd Roger Waters",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T21:03:06+00:00",
+      "id": "904e548719413b36d00e54640236259686fb4afa",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "That Time Nikki Sixx Peed on Rick Nielsen's Raincoat",
+      "link": "https://ultimateclassicrock.com/cheap-trick-rick-nielsen-nikki-sixx-pee-raincoat/",
+      "rss_body": "The Cheap Trick guitar legend now wants to sell it to you.",
+      "tags": "News Cheap Trick Motley Crue Nikki Sixx Rick Nielsen UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-15T20:49:09+00:00",
+      "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео U2",
+      "link": "http://www.darkside.ru/news/184522/",
+      "rss_body": "The Greatest Show On Earth, новое видео U2, доступно для просмотра. Этот трек взят из нового альбома Carnaval De Luz, своей первой новой пластинки за девять лет, релиз которой состоится 13 ноября.\n\nCarnaval De Luz станет 16-м студийным альбомом U2 и первым с оригинальным материалом со времён Songs of Experience 2017 года. Последней полноформатной работой команды была вышедшая в 2023-м Songs of Surrender, где музыканты перезаписали несколько треков из разных периодов своей дискографии. Новый диск придёт вслед за EP Days of Ash и Easter Lily, выпущенными в 2026 году. Его вдохновили традиции карнавала и празднеств перед Великим постом. Анонс приурочен к 50-летию U2: коллектив образовался в Дублине в сентябре 1976 года.\n\nПродюсером альбома выступил Jacknife Lee. Среди значимых гостей — Долли Партон, чей вокал в завершающем дуэте «Torn» стал её последним выступлением в качестве певицы. Кроме того, в записи приняли участие Martin Garrix, Ryan Tedder, Daniel Lanois и давний соратник группы Brian Eno.\n\nТрек-лист:\n\n01. Go (Carnaval De Luz)\n\n02. La Reina\n\n03. Street Of Dreams\n\n04. The Mirror Maker (Rosalía)\n\n05. Superficiality\n\n06. If The World Is At War We Better Not Be\n\n07. Silencio\n\n08. The Greatest Show On Earth\n\n09. Glorify\n\n10. Midnight Sunshine\n\n11. Can’t Stop Us Now\n\n12. Torn (Feat. Dolly Parton)\n\n«Подходите, подходите, подходите! Захватите свои фиолетовые носки, свои разбитые сердца, свою наивность в розовых очках… и приготовьтесь удивляться в зале зеркал, — заявил Bono. — Будут громкие гитары, глубокий бас, экстатические ритмы и, да, кое-где проступят серебряные слёзы!\n\nВедь совсем рядом, у самых границ нашего карнавала света, обитают самые разные существа… То самое воображение, что дарит нам творческую силу, способно порождать и чудовищ. Поэтому мы делаем барабаны громче. Разводим костёр пожарче. Делаем наши истории ещё безумнее и смешнее.\n\nМы делаем мелодии слаще, а песни — ярче, потому что, если мир погружён во тьму, нам лучше в ней не оставаться».\n\nThe Edge тоже высказался, хотя и куда лаконичнее Bono: «Это беспорядочный, дерзкий и священный сборник песен, где впервые на записи U2 использованы струны с плоской обмоткой. Просто к сведению».\n\nЧто касается «Silencio», над которой дополнительно поработал Ryan Tedder, то она звучит как возвращение к классическому U2. Здесь есть искажённые гитары, рок-н-ролльный настрой и раскатистый, почти выкрикиваемый припев в исполнении Bono. У песни есть и зубы: во втором куплете Bono заметно раздражён, когда поёт: «Где-то тишина шепчет: „Заткни свой гребаный рот“ / Где-то диета велит: „Выплюнь это, на хрен“». И всё же в целом «Silencio» демонстрирует более дерзкую, возвращённую к истокам подачу привычного для U2 альт-рока.\n\n«Silencio» стала очередным предвкушением Carnaval De Luz после прошлым летом представленной «Street of Dreams». Недавно U2 также объединились с Martin'ом Garrix'ом для сингла «Fireflies» и записали кавер на песню THE POGUES «Yeah, Yeah, Yeah, Yeah, Yeah» для готовящегося трибьют-альбома памяти Шейна Макгоуэна.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T20:48:28+00:00",
+      "id": "825049e1bc54645a13fe47a036e86468820e76b1",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "SikTh Stream “Flogging The Horses” Live In-Studio Performance",
+      "link": "https://www.theprp.com/2026/10/15/news/sikth-stream-flogging-the-horses-live-in-studio-performance/",
+      "rss_body": "The final installment in their recent series at Marshall.",
+      "tags": "News SikTh",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T20:19:16+00:00",
+      "id": "5bd4f53d4638e6601af148ff397ab7652e344ab8",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Taylor Momsen on the challenges she faces singing Chris Cornell's songs with Soundgarden",
+      "link": "https://www.loudersound.com/bands-artists/taylor-momsen-on-the-challenges-she-faces-singing-chris-cornells-songs-with-soundgarden",
+      "rss_body": "The Pretty Reckless\n\nvocalist\n\nTaylor Momsen\n\nhas spoken about the challenges she faces when singing her hero\n\nChris Cornell\n\n's songs with\n\nSoundgarden\n\n.\n\nMomsen cites the Seattle grunge legends as one of the bands who changed her life, and in a new interview with YouTube star Rick Beato she admits that she was \"elated\" when she was told that her band had been offered the opportunity to support Soundgarden on their 2017 US tour.\n\n\"Every time I listen to a Soundgarden record, I discover something new inside of it,\" she tells the podcast host. \"There's certain music where it feels like the artist is speaking for you, or to you, in a way that you maybe don't know how to communicate yourself, and Soundgarden has always done that for me.\"\n\nUnderstandably, Momsen says she was \"devastated\" by Chris Cornell's death by suicide on that 2017\n\nKing Animal\n\ntour. Subsequently, she has honoured Cornell's life and music by performing with Soundgarden's three surviving members on a number of occasions.\n\nIn January 2019, Momsen sang three songs -\n\nRusty Cage\n\n,\n\nDrawing Flies\n\nand\n\nLoud Love\n\n- at the star-studded\n\nI Am The Highway memorial concert\n\nin Los Angeles, and in 2022, she joined members of Soundgarden, Foo Fighters and Nirvana's Krist Novoselic to sing\n\nThe Day I Tried To Live\n\nand\n\nBlack Hole Sun\n\nat the Los Angeles staging of the Taylor Hawkins tribute concert.\n\nShe also sang with the band at their induction into the\n\nRock And Roll Hall Of Fame\n\nin 2025, and more recently, on September 9 this year, joined the trio, and Pearl Jam guitarist Mike McCready, for a\n\nhalf-time show performance\n\nat the Seattle Seahawks season-opening game against the New England Patriots.\n\n\"Every time we've done this, it's been pressure,\" Momsen admits, before going on to say that, performing with the group at their RARHOF induction, that pressure was mixed with \"love and excitement and pride\".\n\n\"I was coming from a perspective and a place of just, like, pure and utter joy for them,\" she says. \"Every time they ask me to sing with them it's an honour.\"\n\n\"Individually they're all the greatest musicians in the world,\" she continues, \"and then you put them together and it creates this unparalleled sound.\"\n\nFinding a place within this sound, Momsen admits, is a challenge in itself.\n\n\"Matt [Cameron] always cracks me up,\" she tells Beato, \"because he goes, 'But you're a huge fan, so you know these songs.' And I go, Yes, I know them, but knowing them and then removing the vocal, and doing them and accomplishing them are two very different things.\"\n\n\"Everyone thinks it's the notes and it's like, no, it's the fucking time signatures. Soundgarden, it sounds like it's just flowing when you're listening, you don't even realise they've changed it until you remove something, and have to actually do it, and then you go, Wait a second. What the fuck just happened?\"\n\nWatch the interview in full below.",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-15T20:00:00+00:00",
+      "id": "6097ede003d455d66a5ee217c3eb29003999116b",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Профессиональное видео с выступления METALLICA из Сферы",
+      "link": "http://www.darkside.ru/news/184523/",
+      "rss_body": "Профессиональное видео с выступления METALLICA, которое состоялось первого октября в Sphere, Las Vegas, Nevada, доступно для просмотра:\n\n01. Battery\n\n02. Creeping Death\n\n03. Now That We're Dead\n\n04. Sad But True\n\n05. The Shortest Straw\n\n06. Wherever I May Roam\n\n07. The Day That Never Comes\n\n08. ...And Justice For All\n\n09. Kirk Hammett And Robert Trujillo Doodle\n\n10. Nothing Else Matters\n\n11. The Call Of Ktulu\n\n12. Lux Æterna\n\n13. Ride The Lightning\n\n14. The Memory Remains\n\n15. Seek & Destroy\n\n16. Master Of Puppets",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T19:51:24+00:00",
+      "id": "0e71c4cd3d4b7e67c504f800ac1ad3e064938d76",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "We Came As Romans Enlist HEAVENSGATE For New Version Of “Where Did You Go?”",
+      "link": "https://www.theprp.com/2026/10/15/news/we-came-as-romans-enlist-heavensgate-for-new-version-of-where-did-you-go/",
+      "rss_body": "Another doomed remake.",
+      "tags": "News Heavensgate We Came As Romans",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T19:23:18+00:00",
+      "id": "d4eb9d5715058b41aa1ea74d7a31b0e69ac40479",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "APOCALYPTICA в новом видео TARJA",
+      "link": "http://www.darkside.ru/news/184521/",
+      "rss_body": "Tango, новое видео TARJA, доступно для просмотра ниже. Этот трек взят из нового альбома \"Frisson Noir\" , релиз которого состоялся 12 июня. В записи альбома принимали участие Dani Filth (CRADLE OF FILTH), APOCALYPTICA, Marko Hietala (ex-NIGHTWISH) и Chad Smith (RED HOT CHILI PEPPERS), а за сведение отвечал Neal Avron (LINKIN PARK, SKILLET, DISTURBED).\n\nТрек-лист:\n\n01. Frisson Noir\n\n02. The Eternal Return\n\n03. Leap Of Faith (feat. Marko Hietala)\n\n04. At Sea (feat. Mervi Myllyoja + Niklas Pokki)\n\n05. Blaze Forever\n\n06. The Trace Outlives (feat. Sayo Komada)\n\n07. Tango (feat. APOCALYPTICA)\n\n08. Anemoia (feat. Julián Bedmar + Valter Freitas)\n\n09. I Don't Care (feat. Dani Filth)\n\n10. Against The Odds (feat. Chad Smith)",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T19:00:12+00:00",
+      "id": "7be2527636b6b07302900251a4d35e1b19929196",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Tarja Teams Up With Apocalyptica on New \"Tango\" Video",
+      "link": "https://metalinjection.net/new-music/listen-tarja-teams-up-with-apocalyptica-on-new-single-tango",
+      "rss_body": "The same day Floor Jensen announced her departure from Nightwish.",
+      "tags": "New Music apocalyptica tarja",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T18:25:10+00:00",
+      "id": "77b1588e20715ae846658427185c711f41edfa37",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Делюкс-издание нового альбома THE ROLLING STONES",
+      "link": "http://www.darkside.ru/news/184515/",
+      "rss_body": "THE ROLLING STONES 27 ноября на Polydor/Universal Music выпустят делюкс-издание последнего студийного альбома, \"Foreign Tongues\", получившего название \"Foreign Tongues, Loose Lips\".\n\nНовый вариант включает пять свежих записей из творческого периода вокруг “Foreign Tongues”: “Where There’s A Will”; “Who You Callin’ Crazy” при участии джазового саксофониста Courtney'я Pine'а; “Human Tide”; “Bad Luck Hideaway”, дуэт Mick'а Jagger'а и Keith'а Richards'а с барабанами Чарли Уоттса; и “She Still Comes Around”. Вместе эти пять песен передают невероятный творческий подъём сессий “Foreign Tongues” и показывают, что химия THE STONES и их тяга создавать новую музыку никуда не делись. При этом в них слышен тот самый узнаваемый звук, определяющий лицо группы уже больше шести десятилетий.\n\nПять записей на “Foreign Tongues, Loose Lips”:\n\nWhere There’s A Will\n\nWho You Callin’ Crazy\n\nHuman Tide\n\nBad Luck Hideaway\n\nShe Still Comes Around\n\n“Bad Luck Hideaway” ранее выходила бонус-треком на эксклюзивном для iTunes издании “Foreign Tongues”, а недавно стала доступна на цифровых площадках шире: как би-сайд нового стриминг-сингла “Mr. Charm”. Песня “Who You Callin’ Crazy” выйдет в цифре 16 октября и станет первым знакомством слушателей с неизданным материалом с “Foreign Tongues, Loose Lips”.\n\n“Foreign Tongues, Loose Lips” появится в виде отдельного винилового издания, делюкс-издания на 2CD и в цифровых форматах. Виниловый релиз включает все пять записей “Loose Lips” на пластинке, а также CD с оригинальным альбомом “Foreign Tongues”. В издании на 2CD на первом диске окажется оригинальный 14-трековый “Foreign Tongues”, а на втором пять записей “Loose Lips”.\n\n“Foreign Tongues, Loose Lips” выходит вслед за оглушительно успешным релизом “Foreign Tongues”, 14-трекового студийного альбома THE ROLLING STONES, вышедшего 10 июля 2026 года на Polydor Records. Он возглавил чарты в 14 странах мира. Пластинка получила единодушное признание критиков: The Times назвала её «вершиной карьеры» и поставила пять звёзд, а The Telegraph тоже присудила пять звёзд, отметив «жизненную силу, остроумие, богатство звучания, энергию и радость» записи. Этот 14-трековый сборник появился меньше чем через три года после всеми любимого, получившего премию Grammy альбома “Hackney Diamonds”, который возглавил чарты по всему миру и стал мультиплатиновым.\n\nФизические форматы\n\n1LP + CD “Foreign Tongues” в отдельном конвертике\n\nСпециальное виниловое издание включает пять записей “Foreign Tongues, Loose Lips” на тяжёлом красном виниле в оригинально оформленном одинарном конверте с матовой отделкой, выборочным глянцевым лаком и вырубкой в центре на лицевой стороне обложки.\n\nВ комплект также входит оригинальный студийный альбом “Foreign Tongues” на CD в картонном конверте.\n\nТрек-лист \"Foreign Tongues, Loose Lips\" 1LP:\n\nSide A\n\n01. Where There's A Will\n\n02. Who You Callin' Crazy\n\nSide B\n\n01. Human Tide\n\n02. Bad Luck Hideaway\n\n03. She Still Comes Around\n\nPlus:\n\n\"Foreign Tongues\" - оригинальная 14-трековая запись на CD\n\nТрек-лист CD-издания\n\nCD1 – \"Foreign Tongues\"\n\n01. Rough And Twisted\n\n02. In The Stars\n\n03. Jealous Lover\n\n04. Mr. Charm\n\n05. Divine Intervention\n\n06. Ringing Hollow\n\n07. Never Wanna Lose You\n\n08. Hit Me In The Head\n\n09. You Know I'm No Good\n\n10. Some Of Us\n\n11. Covered In You\n\n12. Side Effects\n\n13. Back In Your Life\n\n14. Beautiful Delilah\n\nCD2 – \"Loose Lips\"\n\n01. Where There's A Will\n\n02. Who You Callin' Crazy\n\n03. Human Tide\n\n04. Bad Luck Hideaway\n\n05. She Still Comes Around",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T18:23:43+00:00",
+      "id": "47c86bbe89177c5ba1df6f38be02f0e2a168b7c6",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Концертное видео TRIVIUM",
+      "link": "http://www.darkside.ru/news/184520/",
+      "rss_body": "The Heart from Your Hate | Live @ Rock am Ring 2026, концертное видео TRIVIUM, доступно для просмотра.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-15T17:41:13+00:00",
+      "id": "75bee4eed0857c74d88207208e6babb08f2164ce",
       "retry_after": 0
     }
   ]
