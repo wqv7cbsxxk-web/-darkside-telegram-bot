@@ -16762,6 +16762,590 @@
           "source_url": "https://musicbrainz.org/release-group/fe8668d2-4334-47da-a087-33371cce02ce"
         }
       ]
+    },
+    "kreator": {
+      "name": "Kreator",
+      "musicbrainz_url": "https://musicbrainz.org/artist/39822e8d-f24e-4f07-b51b-28b22e59fbdb",
+      "reference_checked_at": "2026-10-15T00:58:37.473592+00:00",
+      "genres": "death metal, hard rock, heavy metal, metal, rock, speed metal, thrash metal",
+      "bandcamp_url": "https://kreator.bandcamp.com/",
+      "website": "http://kreator-terrorzone.de/",
+      "members": [
+        {
+          "name": "Mille Petrozza",
+          "role": "lead vocals, original",
+          "begin": "1984"
+        },
+        {
+          "name": "Mille Petrozza",
+          "role": "guitar, original",
+          "begin": "1984"
+        },
+        {
+          "name": "Jürgen Reil",
+          "role": "drums (drum set)",
+          "begin": "1996"
+        },
+        {
+          "name": "Sami Yli-Sirniö",
+          "role": "electric guitar",
+          "begin": "2001"
+        },
+        {
+          "name": "Frédéric Leclercq",
+          "role": "electric bass guitar",
+          "begin": "2019"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/39822e8d-f24e-4f07-b51b-28b22e59fbdb",
+      "albums": [
+        {
+          "name": "Flag of Hate",
+          "date": "1986-08-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0083b032-3a19-36d3-9d64-31ecab529c94"
+        },
+        {
+          "name": "Checkmate / 666 - World Divided",
+          "date": "2020-04-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0409040f-4aa5-4435-a9a5-c0bb78e08e64"
+        },
+        {
+          "name": "Violent Revolution",
+          "date": "2001-09-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/06e742df-d033-3a0e-b9dd-e2c641e57f02"
+        },
+        {
+          "name": "Gods of Violence",
+          "date": "2017-01-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/074dcb38-9064-4e05-aead-c8487c12b5fe"
+        },
+        {
+          "name": "Satanic Anarchy",
+          "date": "2025-12-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/08a60805-d1d9-42b8-ac9e-3a407df07f6b"
+        },
+        {
+          "name": "Live in East Berlin",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0e5f84be-9ea5-4304-8415-8fbc0037b081"
+        },
+        {
+          "name": "People of the Lie",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1cd2bce6-8c7b-44a7-a53f-7380e2fd20b5"
+        },
+        {
+          "name": "The Big Teutonic 4 – Part II",
+          "date": "2015-02-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1e6e78c0-56bd-4732-8ed7-d3b185be3c1d"
+        },
+        {
+          "name": "Lost",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1fbc066a-ad15-457d-afc9-6583be7e6616"
+        },
+        {
+          "name": "Krushers of the World",
+          "date": "2026-01-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/21250117-a80a-4468-96ea-3a9342906c51"
+        },
+        {
+          "name": "Earth Under the Sword",
+          "date": "2016-12-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/213055a0-ce7f-462d-96cd-4465f3f2a042"
+        },
+        {
+          "name": "Live in Chile",
+          "date": "2024-11-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/23891711-c3db-4e22-a236-6e4601cdbee8"
+        },
+        {
+          "name": "Strongest of the Strong",
+          "date": "2022-04-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2714ef86-7286-4491-9a05-e78bd6fb7f4f"
+        },
+        {
+          "name": "Behind the Mirror",
+          "date": "1987-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/282c3f35-24ef-4dc6-943b-0edc56429c2b"
+        },
+        {
+          "name": "Sounds Waves 1",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2c689ee4-48c6-437a-85f4-6230237ea455"
+        },
+        {
+          "name": "Bootleg Revolution",
+          "date": "2022-01-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2d3d5057-dd3d-4bad-be30-f5309e84b804"
+        },
+        {
+          "name": "Man in Black / Warrior Heart",
+          "date": "2017-02-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2e98c294-94c7-4831-961b-c3d5944245bb"
+        },
+        {
+          "name": "Thrashing East",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2f2c80dd-1071-49dd-af57-f7a459aad4f0"
+        },
+        {
+          "name": "Victory Will Come",
+          "date": "2022-12-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/336d6dab-3c4d-4c87-84a4-f153e081c8aa"
+        },
+        {
+          "name": "Renewal",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/34980809-228b-4edb-8ea3-c811face8167"
+        },
+        {
+          "name": "Enemy of God",
+          "date": "2005-01-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/36c13350-7643-3373-8aa0-b025bf6e7e0e"
+        },
+        {
+          "name": "Terrorzone",
+          "date": "2019-05-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/36cd6faf-7889-43df-9d4e-d7e119a7d7c4"
+        },
+        {
+          "name": "We Give You Pain (Live 1989)",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3a1faa11-2d3f-3c6e-af00-07b0d5ddbc49"
+        },
+        {
+          "name": "Totalitarian Terror",
+          "date": "2017-01-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3ef54d6c-c9e2-4da7-9506-8c5cf68c7d4d"
+        },
+        {
+          "name": "Terror Prevails: Live at Rock Hard Festival",
+          "date": "2010-11-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4110c117-5011-4a46-8b56-fd3ddc92cc24"
+        },
+        {
+          "name": "Endless Pain",
+          "date": "1985-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/423a7830-a80d-31b2-8e93-c8fa645898fe"
+        },
+        {
+          "name": "Endorama",
+          "date": "1999-03-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/42797e5e-3573-3f91-ab40-44427ceff47d"
+        },
+        {
+          "name": "1985–1992 Past Life Trauma",
+          "date": "2000-12-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4a470a50-bf2d-31b6-b754-cabef54d7c1e"
+        },
+        {
+          "name": "End of the World",
+          "date": "1984-11-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4cb43e31-4757-37ac-a48e-c62fd51df31d"
+        },
+        {
+          "name": "Hate über alles",
+          "date": "2022-06-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4e54edd8-256e-4870-9bc7-4abda4695fce"
+        },
+        {
+          "name": "Renewal",
+          "date": "1992-10-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5a4f6384-df81-3a7e-89c6-f632c9deeb5f"
+        },
+        {
+          "name": "Love Us or Hate Us: The Very Best of the Noise Years 1985–1992",
+          "date": "2016-05-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5ab9d161-60b7-45c5-87e7-b366951d7014"
+        },
+        {
+          "name": "Hate über alles",
+          "date": "2022-02-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5b39f814-5413-4b2e-8207-7c6fbd9a75ff"
+        },
+        {
+          "name": "Chosen Few",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5c6c09f3-2b11-3f9c-8bc9-fbc8face653b"
+        },
+        {
+          "name": "Coma of Souls",
+          "date": "1990-11-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/60ded5ee-2661-302b-808a-fcc176e1d5b1"
+        },
+        {
+          "name": "Scenarios of Violence",
+          "date": "1996-03-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/670481ba-5bff-39da-8a13-419e4f0cdd05"
+        },
+        {
+          "name": "Seven Serpents",
+          "date": "2025-09-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/670d7ba3-0ae1-4338-9f4a-195e842024bd"
+        },
+        {
+          "name": "Cause for Conflict",
+          "date": "1995-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/68ef2566-6198-3ac6-9b80-547803491952"
+        },
+        {
+          "name": "Rehearsal",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/69511813-6837-4071-b50d-7890e6602bd5"
+        },
+        {
+          "name": "Out of the Dark... Into the Light",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/69711023-3bb1-3c56-b5d5-025d05d3b93e"
+        },
+        {
+          "name": "Extreme Aggression",
+          "date": "1989-06-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6b51dbf6-ef23-394e-85e2-5d3beabd23c0"
+        },
+        {
+          "name": "Kreator / Legion of the Damned",
+          "date": "2013-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6c62d507-16bb-41db-bbd3-683eb0ba070c"
+        },
+        {
+          "name": "Bonecrushing Rehearsals ’85",
+          "date": "2023-06-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/701e0edc-aac0-4fad-af75-3ae0eea184ff"
+        },
+        {
+          "name": "666 - World Divided",
+          "date": "2020-03-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7067a28f-dd46-48f7-892a-3f60523c8054"
+        },
+        {
+          "name": "Enemy of God / Hordes of Chaos",
+          "date": "2024-05-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/78bb3bd5-6b9e-403a-9b2b-1c6cd199c544"
+        },
+        {
+          "name": "London Apocalypticon: Live at The Roundhouse",
+          "date": "2020-02-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7d514178-3aeb-4a81-b455-a49fab00486f"
+        },
+        {
+          "name": "Live at Bloodstock 2021",
+          "date": "2022-08-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f6a5934-c282-4615-81f1-88f53a624715"
+        },
+        {
+          "name": "State of Unrest",
+          "date": "2023-02-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8017298a-b40b-4375-aa07-1a864439de26"
+        },
+        {
+          "name": "Bestial Invasion of Hell / End of the World",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/81333a2c-f9db-479b-ade5-1344b82bfcd7"
+        },
+        {
+          "name": "Isolation",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/82f12ee0-2eb2-3d34-9046-d4602fcf2db8"
+        },
+        {
+          "name": "Leave This World Behind",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/84062aca-3325-3283-8b14-dec0c0d21066"
+        },
+        {
+          "name": "For the Hordes EP",
+          "date": "2019-12-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/858debbf-65a2-4592-9402-ae74e9d72d53"
+        },
+        {
+          "name": "Phantom Antichrist",
+          "date": "2012-04-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/87514816-3439-4bcf-bc67-8a9b2a11dc86"
+        },
+        {
+          "name": "Pleasure to Kill",
+          "date": "1986-11-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8dcae7a3-9e87-3089-90fc-56baffb245eb"
+        },
+        {
+          "name": "Satanic Anarchy / Strongest of the Strong",
+          "date": "2025-12-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8dd309d1-6b10-4175-a157-5bb74399e649"
+        },
+        {
+          "name": "Live Antichrist",
+          "date": "2017-01-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/903fba83-a924-4242-93f2-5593bdff7d14"
+        },
+        {
+          "name": "Under the Guillotine",
+          "date": "2021-02-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/91cfe533-6903-40ee-a8fd-1f126263f64b"
+        },
+        {
+          "name": "Live at Dynamo Open Air 1998",
+          "date": "2019-05-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9b12993b-dbf5-46e1-ad2e-67f1d595fc2a"
+        },
+        {
+          "name": "Outcast",
+          "date": "1997-07-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9c86346f-5370-39b5-b6c4-deb0f1d9a694"
+        },
+        {
+          "name": "Tränenpalast",
+          "date": "2025-10-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9f319fdf-d4a1-4850-a936-67ec86a1734c"
+        },
+        {
+          "name": "Civilization Collapse",
+          "date": "2012-11-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a30260d4-2f68-4d84-98a1-b6981efacd9b"
+        },
+        {
+          "name": "Dying Alive",
+          "date": "2013-08-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a36467a0-3249-4dd6-a910-3d5b6f387a42"
+        },
+        {
+          "name": "Winter Martyrium",
+          "date": "2018-01-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b0e9541c-b18b-4bd6-8951-fd7d236f107e"
+        },
+        {
+          "name": "Voices of Transgression: A 90’s Retrospective",
+          "date": "1999-04-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bb737a72-2fb8-3105-8aee-35caccfb0493"
+        },
+        {
+          "name": "Terrible Certainty",
+          "date": "1987-09-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bc99b181-3be3-3bc4-b2b6-2a82d3952055"
+        },
+        {
+          "name": "Lost",
+          "date": "2019-05-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bca8a0a7-fca0-490c-b353-3c289db23882"
+        },
+        {
+          "name": "Phantom Antichrist",
+          "date": "2012-05-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bd5be3ae-4a70-4bb6-8704-614170761457"
+        },
+        {
+          "name": "Advance Tracks From the Upcoming Epic Release",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bed3a20c-e17a-4872-9b72-038cca0a2cd0"
+        },
+        {
+          "name": "Metal Hammer: Exklusiv - Maximum Hate",
+          "date": "2022-05-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bf0df065-7536-4266-bf96-5a3444b768fb"
+        },
+        {
+          "name": "Terror Prevails: Live at Rock Hard Festival, Part 2",
+          "date": "2012-05-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c01e67bd-c85e-4d93-b38a-8b9695251484"
+        },
+        {
+          "name": "Betrayer",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c3e13554-04b8-41a0-97cf-e4f699ec88ec"
+        },
+        {
+          "name": "Live Kreation",
+          "date": "2003-06-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c43d1e70-b64e-335e-a1e9-b097dc033161"
+        },
+        {
+          "name": "The Big Teutonic 4",
+          "date": "2012-12-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c4fd6721-61b1-4ff2-8a98-f7279edc8094"
+        },
+        {
+          "name": "Hail to the Hordes",
+          "date": "2017-11-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c5329053-b6f1-40a6-97dd-fac8a228bbd5"
+        },
+        {
+          "name": "Hordes of Chaos",
+          "date": "2009-01-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c59506a5-e829-36ac-a926-fa215ccc8d5a"
+        },
+        {
+          "name": "Midnight Sun",
+          "date": "2022-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cc21644d-a197-4919-a0a0-c03343bbdeca"
+        },
+        {
+          "name": "Violence Unleashed",
+          "date": "2016-12-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d1bd9222-e0c4-4c99-a8eb-c911d31469cd"
+        },
+        {
+          "name": "Europe After the Rain",
+          "date": "2018-02-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d6628770-48cc-48c2-b343-7ed9b26c9613"
+        },
+        {
+          "name": "Endless Pain / Terrible Certainty",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d703b428-c089-4dc9-99b9-f29fceb48422"
+        },
+        {
+          "name": "Iron Destiny / Breaking the Law",
+          "date": "2014-11-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dac2354e-4c93-4730-86bb-965e83c1c927"
+        },
+        {
+          "name": "At the Pulse of Kapitulation: Live in East Berlin 1990",
+          "date": "2008-03-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ddbc24c8-389f-3625-ba77-a1b1a7b48a8e"
+        },
+        {
+          "name": "Satan Is Real",
+          "date": "2016-12-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e5a51b81-fdc0-445e-8021-99e731b71db1"
+        },
+        {
+          "name": "Death to the World",
+          "date": "2022-12-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e8365ef9-7d2e-42f0-8ceb-3e76dd983895"
+        },
+        {
+          "name": "Pleasure to Kill / Flag of Hate",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e8dfb3b1-0d65-3077-9d12-fae60f0499f1"
+        },
+        {
+          "name": "Gods of Violence",
+          "date": "2016-11-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f02be57c-e757-4734-a42d-3eae3ad0d52c"
+        },
+        {
+          "name": "Hallucinative Comas",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f0bb8cb6-76ce-41d2-9c34-bbf561934f48"
+        },
+        {
+          "name": "Blitzkrieg",
+          "date": "1984",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f1dcea7b-b5c9-331c-8a6d-df6b4f4a85e2"
+        },
+        {
+          "name": "Renewal (live at Dynamo Open Air 1998)",
+          "date": "2018-02-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f77abd65-edc8-443d-9c4a-fd65341185a6"
+        },
+        {
+          "name": "Leave This World Behind",
+          "date": "2018-02-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f9c37932-8feb-4f1b-8aeb-de9c6353ea26"
+        },
+        {
+          "name": "All of the Same Blood",
+          "date": "2022-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fb598287-5f7c-4133-bbfb-cb28034ae814"
+        },
+        {
+          "name": "Iron Destiny",
+          "date": "2014-11-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ffc21572-4d11-48d5-b1ac-a816e178b1d0"
+        }
+      ]
     }
   },
   "checked": {
@@ -16824,6 +17408,8 @@
     "jethro-tull": "2026-10-14T19:42:16.826598+00:00",
     "judas-priest": "2026-10-14T19:42:23.727574+00:00",
     "kid-rock": "2026-10-14T22:43:55.410714+00:00",
-    "king-crimson": "2026-10-14T22:43:59.749296+00:00"
+    "king-crimson": "2026-10-14T22:43:59.749296+00:00",
+    "kiss": "2026-10-15T00:58:33.311148+00:00",
+    "kreator": "2026-10-15T00:58:37.473761+00:00"
   }
 }
