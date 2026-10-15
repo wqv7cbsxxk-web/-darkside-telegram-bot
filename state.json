@@ -530,49 +530,18 @@
     "0649d27a731ea75de3f55ed39775a4229e210f6b",
     "08da1962dbec3566da348afc93ae0ef1a23783d1",
     "f0e7a4d8f1acb778fb279051c664a5ea21023312",
-    "7ffacaea9eda02f99399d90bcdfa95abebefa558"
+    "7ffacaea9eda02f99399d90bcdfa95abebefa558",
+    "f1467cb39e960fde0ef4448fb1e279d75a502f50",
+    "972486952b431aa00f0eaba1c22e37f42e7ccbea",
+    "a835fccfffca84ff9bb3fedf3f940d6e7e33f6a8",
+    "da54c390dba9c82017697add737a8bc2ac38399a",
+    "925610071444c51322597dc139b7554eed6eb824",
+    "1a23f247cd6ad0bfdee0236b23e3ad9b17987c94",
+    "f1476264dd1fab8feb0e28eaac007c9ff99fe7e9",
+    "54d1d65a80d76671a6eddb5b1af747b63aa3a1c8",
+    "b1ca5451f6cb7855a490667a1fe62e12a6316591"
   ],
   "recent_titles": [
-    {
-      "title": "Бывший вокалист FOREIGNER в THE DEAD DAISIES",
-      "source": "Darkside",
-      "ts": 1791239168
-    },
-    {
-      "title": "Новое видео BLACKTOP MOJO",
-      "source": "Darkside",
-      "ts": 1791239169
-    },
-    {
-      "title": "\"This single shouldn't really exist.\" Rare 1969 Led Zeppelin single that the band wanted destroyed surfaces on British TV show",
-      "source": "Louder",
-      "ts": 1791239183
-    },
-    {
-      "title": "The Callous Daoboys Begin Work On Their Fourth Album",
-      "source": "ThePRP",
-      "ts": 1791239187
-    },
-    {
-      "title": "PeelingFlesh, Snuffed On Sight, Corpse Pile & Girl Of Glass Reveal 2027 European/UK Tour",
-      "source": "ThePRP",
-      "ts": 1791239190
-    },
-    {
-      "title": "TesseracT Postpone Their Fall Tour Of The UK & Germany",
-      "source": "ThePRP",
-      "ts": 1791239197
-    },
-    {
-      "title": "Aerosmith tease imminent live return in Hollywood",
-      "source": "Louder",
-      "ts": 1791239207
-    },
-    {
-      "title": "The Ghost Inside, Escape The Fate, Bleeding Through, Carnifex, Etc. Booked For 2027 Return Of ‘Extreme Thing’ Festival",
-      "source": "ThePRP",
-      "ts": 1791239213
-    },
     {
       "title": "Every Killing Joke album ranked from worst to best: how four men on a mission to recreate \"the sound of the earth vomiting\" influenced Metallica, Nirvana, Faith No More, Ministry and more",
       "source": "Louder",
@@ -1332,6 +1301,46 @@
       "title": "Extermination Dismemberment’s “Enslaver Of The Continents” Music Video Debuts",
       "source": "ThePRP",
       "ts": 1792025898
+    },
+    {
+      "title": "Richard Thompson's mastery of Fender and folk shines on Hippies, Thugs And Heroes",
+      "source": "Louder",
+      "ts": 1792043340
+    },
+    {
+      "title": "Dopethrone’s Early 2027 U.S. Tour To Feature Conjurer, -(16)- & Armed For Apocalypse",
+      "source": "ThePRP",
+      "ts": 1792043341
+    },
+    {
+      "title": "Midnight Release “Violence On Violence” Performance From Their Upcoming Live Album “Satanic Attack Live!”",
+      "source": "ThePRP",
+      "ts": 1792043345
+    },
+    {
+      "title": "Primer 55 Announce Fall Tour With REdEFIND, Sicksense & Makes My Blood Dance",
+      "source": "ThePRP",
+      "ts": 1792043364
+    },
+    {
+      "title": "Marilyn Manson Announces 30th Anniversary Edition Of “Antichrist Superstar”",
+      "source": "ThePRP",
+      "ts": 1792043371
+    },
+    {
+      "title": "DAVE LOMBARDO о культовой пластинке SLAYER",
+      "source": "Darkside",
+      "ts": 1792043374
+    },
+    {
+      "title": "Emmure’s Frankie Palmeri Says People Want Politicized Music “Only If It Aligns With Their Brand Of Politics And World View”",
+      "source": "ThePRP",
+      "ts": 1792043391
+    },
+    {
+      "title": "The Rolling Stones announce Foreign Tongues, Loose Lips",
+      "source": "Louder",
+      "ts": 1792043401
     }
   ],
   "initialized_sources": [
@@ -3747,7 +3756,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T19:10:15+00:00",
       "id": "876f0e380ed29bab07d20ff6f276f4eb5127cf8d",
-      "retry_after": 1792026179
+      "retry_after": 1792043642
     },
     {
       "source": "Metal Injection",
@@ -3759,19 +3768,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T18:29:41+00:00",
       "id": "1834789368e897d2953ea559c83ebc82f22da77e",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Midnight Release “Violence On Violence” Performance From Their Upcoming Live Album “Satanic Attack Live!”",
-      "link": "https://www.theprp.com/2026/10/14/news/midnight-release-violence-on-violence-performance-from-their-upcoming-live-album-satanic-attack-live/",
-      "rss_body": "Captured in Los Angeles this past spring.",
-      "tags": "News Midnight",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T18:21:44+00:00",
-      "id": "a835fccfffca84ff9bb3fedf3f940d6e7e33f6a8",
-      "retry_after": 0
+      "retry_after": 1792043642
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3783,79 +3780,7 @@
       "category": "Хард-рок",
       "published": "2026-10-14T18:20:40+00:00",
       "id": "ff16b61cfefd0d8d20a1469a1d16616fb4fe7420",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео STAIND",
-      "link": "http://www.darkside.ru/news/184489/",
-      "rss_body": "Ghosts, новое видео STAIND, доступно для просмотра. Это первый сингл из нового альбома, релиз которого запланирован на следующий год.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T17:57:35+00:00",
-      "id": "da54c390dba9c82017697add737a8bc2ac38399a",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Primer 55 Announce Fall Tour With REdEFIND, Sicksense & Makes My Blood Dance",
-      "link": "https://www.theprp.com/2026/10/14/news/primer-55-announce-fall-tour-with-redefind-sicksense-makes-my-blood-dance/",
-      "rss_body": "The 'Shattered Schemes Broken Dreams Tour' picks back up in November.",
-      "tags": "News Primer 55 Sicksense",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T17:54:13+00:00",
-      "id": "925610071444c51322597dc139b7554eed6eb824",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Marilyn Manson Announces 30th Anniversary Edition Of “Antichrist Superstar”",
-      "link": "https://www.theprp.com/2026/10/14/news/marilyn-manson-announces-30th-anniversary-edition-of-antichrist-superstar/",
-      "rss_body": "And it has been newly remastered and repackaged.",
-      "tags": "News Marilyn Manson",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T17:37:37+00:00",
-      "id": "1a23f247cd6ad0bfdee0236b23e3ad9b17987c94",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "DAVE LOMBARDO о культовой пластинке SLAYER",
-      "link": "http://www.darkside.ru/news/184434/",
-      "rss_body": "DAVE LOMBARDO в недавнем интервью поговорил о культовом альбоме SLAYER \"Reign In Blood\", которому седьмого октября исполнилось сорок лет:\n\n«У меня до сих пор мурашки бегут по коже, когда я слушаю этот альбом. У меня потеют ладони, учащается сердцебиение, и я наслаждаюсь моментом.\n\nЯ много раз в своей жизни исполнял эти песни на сцене, и это вызывает прилив адреналина, когда я просто думаю об этом, и когда я слушаю эти песни. Я заряжаюсь. Если у меня остановится сердце, включите \"Angel Of Death\", или \"Raining Blood\", или что-нибудь в этом роде, и вы увидите, как я вскочу и буду спрашивать: \"Что происходит?\"»\n\nКогда его спросили, по-прежнему ли он любит трэш-металл, Dave ответил:\n\n«Я наслаждаюсь, когда слышу хороший трэш. Есть много по-настоящему позитивных — или не совсем позитивных, но заслуживающих похвалы — попыток, но с тех пор, как появились компьютерные программы для записи музыки, большая часть музыки стала очень стерильной. И поэтому нам не хватает той динамики, которая была в тех альбомах, которые были — как бы это сказать — бурными. Я бы сказал, они были очень агрессивными. И это чувствовалось. Это ощущалось в записи. И я видел, как это отразилось на альбоме, потому что когда мы записывали эти песни, мы смотрели друг на друга и говорили: \"Ладно, поехали. Давайте, чёрт возьми порвём всех. Давайте выложимся по полной. Давайте сыграем эту песню\". — \"Быстрее?\" — \"Да, сыграй чуть быстрее\". — \"Окей, поехали\". Отсчитываю четыре такта, и вступает группа. Гнев, тревога, адреналин — всё это присутствует в нём».\n\nDave nакже поговорил о легендарном гитаристе SLAYER Джеффе Ханнемане. Он является автором многих классических песен SLAYER, в том числе «Angel Of Death» и «South Of Heaven»:\n\n«Джефф был прекрасным человеком. Он был весёлым. Он был потрясающим автором песен. Он был первопроходцем. Он пришёл в группу, не имея никакого музыкального образования, и создал потрясающую музыку в нашем жанре».",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T17:01:29+00:00",
-      "id": "f1476264dd1fab8feb0e28eaac007c9ff99fe7e9",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Emmure’s Frankie Palmeri Says People Want Politicized Music “Only If It Aligns With Their Brand Of Politics And World View”",
-      "link": "https://www.theprp.com/2026/10/14/news/emmures-frankie-palmeri-says-people-want-politicized-music-only-if-it-aligns-with-their-brand-of-politics-and-world-view/",
-      "rss_body": "\"Otherwise they seethe and become blood thirsty mutants who literally want people to die for disagreeing with them.\"",
-      "tags": "News Emmure Frankie Palmeri",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T17:00:29+00:00",
-      "id": "54d1d65a80d76671a6eddb5b1af747b63aa3a1c8",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "The Rolling Stones announce Foreign Tongues, Loose Lips",
-      "link": "https://www.loudersound.com/bands-artists/the-rolling-stones-announce-foreign-tongues-loose-lips",
-      "rss_body": "The Rolling Stones\n\nhave announced the forthcoming release of an expanded deluxe edition of their current album\n\nForeign Tongues\n\n, featuring five new songs from the studio sessions which birthed the record.\n\nForeign Tongues, Loose Lips\n\nwill be released on November 27 by Polydor/Universal Music.\n\nThe new collection features five recordings from the creative period surrounding\n\nForeign Tongues:\n\nWhere There's A Will\n\n,\n\nWho You Callin' Crazy\n\n(featuring jazz saxophonist Courtney Pine),\n\nHuman Tide\n\n,\n\nBad Luck Hideaway\n\n, a duet vocal by Mick Jagger and Keith Richards also featuring Charlie Watts, and\n\nShe Still Comes Around\n\n.\n\nIn a Facebook post, the new songs were described as \"blues, country and that unmistakable rhythm and Stones sound that we know you love!\"\n\nBad Luck Hideaway\n\nwas previously released as a bonus track on the iTunes exclusive edition of\n\nForeign Tongues\n\n, and was recently shared on digital platforms as the B-side to current Stones single\n\nMr. Charm\n\n.\n\nThe grammatically-challenging\n\nWho You Callin' Crazy\n\nwill be digitally released on Friday, October 16.\n\nProduced by Andrew Watt (Ozzy Osbourne, Paul McCartney, Pearl Jam), the original version of\n\nForeign Tongues,\n\nthe band's 25th British studio album, was released on July 10 this year. The\n\nClassic Rock\n\nmagazine\n\nreview of the record\n\nnoted, \"Despite an ultimately wearing, overbearing Watt production job,\n\nForeign Tongues\n\nduly delivers as a pretty good Stones album.\"\n\nThe 14-track collection followed the band's acclaimed, Grammy Award-winning\n\nHackney Diamonds\n\nalbum, which emerged in 2023.\n\nForeign Tongues, Loose Lips\n\nwill be available as a standalone vinyl edition, a deluxe 2CD edition, and across digital formats.\n\nThe standalone vinyl edition features all five\n\nLoose Lips\n\nrecordings on LP, alongside a CD of the original\n\nForeign Tongues\n\nalbum. The 2CD edition includes the original 14-track\n\nForeign Tongues\n\nalbum on CD1 and the five\n\nLoose Lips\n\nrecordings on CD2.",
-      "tags": "Bands & Artists",
-      "category": "Хард-рок",
-      "published": "2026-10-14T17:00:00+00:00",
-      "id": "b1ca5451f6cb7855a490667a1fe62e12a6316591",
-      "retry_after": 0
+      "retry_after": 1792043661
     },
     {
       "source": "ThePRP",
@@ -3928,18 +3853,6 @@
       "published": "2026-10-14T15:10:03+00:00",
       "id": "1353c7429f4358200e588fde1a879832df56c1c2",
       "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Dopethrone’s Early 2027 U.S. Tour To Feature Conjurer, -(16)- & Armed For Apocalypse",
-      "link": "https://www.theprp.com/2026/10/14/news/dopethrones-early-2027-u-s-tour-to-feature-conjurer-16-armed-for-apocalypse/",
-      "rss_body": "The 'Uniworse Tour' launches in January.",
-      "tags": "News -(16)- Armed For Apocalypse Conjurer Dopethrone",
-      "category": "Прогрессив",
-      "published": "2026-10-14T21:24:53+00:00",
-      "id": "972486952b431aa00f0eaba1c22e37f42e7ccbea",
-      "retry_after": 1792026132
     }
   ]
 }
