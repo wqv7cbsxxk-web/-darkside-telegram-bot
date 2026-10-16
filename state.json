@@ -601,49 +601,17 @@
     "567a3d66a754ec207f0a801038b9d19e34d83539",
     "08d31e17aff024dfd1503a8b04e74ecaa324c057",
     "93cae0fde6945a3458d1d17d6b5158e7dcc4368d",
-    "41bcd97e94e4792f1a249b2784a47ebf8135fdad"
+    "41bcd97e94e4792f1a249b2784a47ebf8135fdad",
+    "74032fed6e481fce0aee3dc4d022d9bfa33ffc47",
+    "94a772943e58c2ccae115222e67a56f2fa0375d6",
+    "7d266a92fcca444ed7932759184126c2540cb77b",
+    "1697d417e3fe53e43804b4d6c7de985e446d4704",
+    "7f93b387dec8817cc0a3a9d07f21b5392240b6be",
+    "ebdec59ebeb74e7b34da4a7395288451357cbd3d",
+    "a9d628871628144db8fc795cea8ee9e011af86c8",
+    "c9a8f2d63ed58f56da7cf6d42e483b127157bc0c"
   ],
   "recent_titles": [
-    {
-      "title": "Black Map Have Called It Quits",
-      "source": "ThePRP",
-      "ts": 1791840394
-    },
-    {
-      "title": "Why Placebo stopped spilling \"blood and spunk\" across the planet, and grew up",
-      "source": "Louder",
-      "ts": 1791840445
-    },
-    {
-      "title": "Mugs For The 2026 ‘Furnace Fest’ Were Reportedly Repurposed Merch From The MAGA-Aligned ‘Rock The Country’ Festival",
-      "source": "ThePRP",
-      "ts": 1791840456
-    },
-    {
-      "title": "Emily Armstrong Reflects On Her Self-Doubt Over Joining Linkin Park: “Nobody Could Ever, Ever Replace Chester”",
-      "source": "ThePRP",
-      "ts": 1791840466
-    },
-    {
-      "title": "Full Album Stream: Sundowner –Cesspool",
-      "source": "Decibel",
-      "ts": 1791840475
-    },
-    {
-      "title": "Dropout Kings Premiere “Deadname” Music Video",
-      "source": "ThePRP",
-      "ts": 1791840479
-    },
-    {
-      "title": "A 13-Year-Old Fan Stole The Show During Limp Bizkit’s Concert Last Night In Nashville, TN",
-      "source": "ThePRP",
-      "ts": 1791840485
-    },
-    {
-      "title": "The Used’s Orchestral Live Concert Film ‘A Mid Summer Night’s Symphony’ To Premiere In Los Angeles This Month",
-      "source": "ThePRP",
-      "ts": 1791840490
-    },
     {
       "title": "More than 30 years after Shotgun Messiah’s final shot, Zinny J Zan and Harry Cody are back",
       "source": "Louder",
@@ -1403,6 +1371,46 @@
       "title": "Новое видео SETY&#216;URSAILS",
       "source": "Darkside",
       "ts": 1792144221
+    },
+    {
+      "title": "CURSEBINDER – PSYCHOHAZARD",
+      "source": "No Clean Singing",
+      "ts": 1792160678
+    },
+    {
+      "title": "Marantz MCR-60n DAB CD player review: an all-in-one system that’s small in size but huge in scope",
+      "source": "Louder",
+      "ts": 1792160725
+    },
+    {
+      "title": "Hear Shane Cronin and Whisker’s New Single, ‘Bus Stop'",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792160754
+    },
+    {
+      "title": "Top 10 Roger Waters Political Songs",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792160814
+    },
+    {
+      "title": "Architects' Sam Carter posts emotional statement responding to recent criticisms",
+      "source": "Louder",
+      "ts": 1792160851
+    },
+    {
+      "title": "Why Led Zeppelin Finally Let ‘Stairway’ be Used in a Movie",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792160866
+    },
+    {
+      "title": "Paul McCartney on the difficulty of getting genuine feedback as a legendary artist",
+      "source": "Louder",
+      "ts": 1792160884
+    },
+    {
+      "title": "Breakdown Of Sanity Premiere “One-Way Mirror” Music Video",
+      "source": "ThePRP",
+      "ts": 1792160888
     }
   ],
   "initialized_sources": [
@@ -4183,18 +4191,6 @@
     {
       "source": "ThePRP",
       "priority": 88,
-      "title": "Breakdown Of Sanity Premiere “One-Way Mirror” Music Video",
-      "link": "https://www.theprp.com/2026/10/15/news/breakdown-of-sanity-premiere-one-way-mirror-music-video/",
-      "rss_body": "The latest from their upcoming first album in a decade, \"Reveries\".",
-      "tags": "News Breakdown Of Sanity",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T06:19:36+00:00",
-      "id": "c9a8f2d63ed58f56da7cf6d42e483b127157bc0c",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
       "title": "Carnifex Premiere “Licking Love From A Knife” Music Video",
       "link": "https://www.theprp.com/2026/10/15/news/carnifex-premiere-licking-love-from-a-knife-music-video/",
       "rss_body": "Part of their forthcoming album, \"More Than Misery\".",
@@ -4263,6 +4259,54 @@
       "published": "2026-10-16T04:50:19+00:00",
       "id": "62eb82d69ead2313c4d66cc465164d2a6d9ddb32",
       "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "\"We can’t get everywhere but we can try!\" Iron Maiden announce surprise 2027 North American tour, including headline set at Sonic Temple festival",
+      "link": "https://www.loudersound.com/bands-artists/music-festivals/we-cant-get-everywhere-but-we-can-try-iron-maiden-announce-surprise-2027-north-american-tour-including-headline-set-at-sonic-temple-festival",
+      "rss_body": "Iron Maiden\n\nhave announced a surprise return to North America in 2027, taking in arena shows and festival appearances, including a headline set at the Sonic Temple Art + Music Festival.\n\nSteve Harris says, “As many of our fans know, Maiden were planning on taking a break from live performances in 2027, but we’ve been enjoying this last leg in the USA and Canada so much that we all had a chat and decided we should take the show to parts we missed, particularly the North West and South East. It just seems fair to our many fans there who have given us tremendous support for so many years. We can’t get everywhere but we can try!\n\n\"Also, we have always enjoyed playing the many great festivals that are in Europe,\" he adds, \"and wanted to experience a couple more in the USA which we will do at the end of the tour in Columbus [Sonic Temple] and Maryland [Boardwalk Rock]. At festivals you are not just playing to your own fans so it’s always a challenge and we all love a challenge!”\n\nManager Manager Rod Smallwood adds,\n\n“\n\nThe first leg was terrific, huge sell-out crowds of all ages spanning multi-generations, some of the biggest shows we have ever played in North America with rave fan and media reactions, and just a great all round vibe and camaraderie from our fans, including in our Eddie’s Dive Bars everywhere. And I know as I go to every one of them!  In fact it was so good we just have to come back and play some places we missed and bring Eddie’s Dive Bars with us!\n\n“It is amazing that even after all these years we played to many more people per show than ever before and headlined our first stadium shows in the USA. We have been selling out arenas in all parts of North America since 1983 - bar a short period in the 90s – and the band’s following here continues to grow despite an almost total lack of mainstream radio support and never even having a track reach the\n\nBillboard\n\nHot 100! For that we have to thank our amazing fans, and it proves that word of mouth still means a lot. We look forward to seeing you all again next Spring”.\n\nIron Maiden Run For Your Lives North American Tour 2027\n\nApr 14: Tacoma Dome, WA\n\nApr 16: Vancouver Rogers Arena, Canada\n\nApr 18: Portland Moda Center, OR\n\nApr 20: Wheatland Toyota Amphitheatre, CA\n\nApr 22: Chula Vista North Island Credit Union Amphitheatre, CA\n\nApr 24: San Bernardino Glen Helen Amphitheater, CA\n\nApr 26: Phoenix Talking Stick Resort Amphitheatre, AZ\n\nApr 28: Dallas Dos Equis Pavilion, TX\n\nMay 01: Tampa Benchmark International Arena, FL\n\nMay 02: West Palm Beach iTHINK Financial Amphitheatre, FL\n\nMay 05 Atlanta Lakewood Amphitheatre, GA\n\nMay 07: Raleigh Coastal Credit Union Music Park at Walnut Creek, NC\n\nMay 09: Hartford The Meadows Music Theatre, CT\n\nMay 11: Belmont Park UBS Arena, NY\n\nMay 14: Sonic Temple, OH\n\nMay 16: Boardwalk Rock, MD\n\nSteve Harris\n\n' band will headline Sonic Temple on Friday, May 14. The festival will also feature performances from A Perfect Circle, Primus, Clutch, Sleeping With Sirens, Crowbar, Escape The Fate,\n\nSaosin, and hundreds more acts yet to be announced.\n\nThe 2027 weekender is scheduled to take place from May 13 to May 16 at the Historic Crew Stadium in Columbus, Ohio.\n\nPeelingFlesh, Emmure, Showing Teeth, Imminence and Vana have also been announced to play at what has become one of the blue riband events in the global rock and metal calendar.\n\nThe full schedule will be announced next week.\n\nSingle day passes, weekend passes and VIP packages for 2027's Sonic Temple Art + Music Festival are on-sale now,\n\nhere\n\n.\n\nThe 2026 edition of Sonic Temple featured My Chemical Romance, Shinedown, Bring Me The Horizon and\n\nTool\n\nas the headline acts. The sold out event was attended by a record crowd of over 184,000 fans across the weekend.",
+      "tags": "Music Festivals Bands & Artists Live Performances",
+      "category": "Прогрессив",
+      "published": "2026-10-16T14:17:04+00:00",
+      "id": "1281d9679035a6042490add57117ba0078a761ea",
+      "retry_after": 1792160953
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Architects’ Sam Carter: “The Comments and the Judgment Have Got Too Much”",
+      "link": "https://metalinjection.net/news/architects-sam-carter-the-comments-and-the-judgment-have-got-too-much",
+      "rss_body": "The Architects vocalist opened up about criticism towards his singing in a recent Instagram post.",
+      "tags": "Latest News architects",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T13:42:44+00:00",
+      "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
+      "retry_after": 1792160979
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The Weekly Injection: New Releases From Insomnium, The Number Twelve Looks Like You, and More Out This Week – 10.16",
+      "link": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-insomnium-the-number-twelve-looks-like-you-and-more-out-this-week-10-16",
+      "rss_body": "Plus releases from Caspian, DreamPeace, Ola Englund, Fervence, Grant The Sun, Kinkshamer, and Mother of Graves.",
+      "tags": "Weekly Injection The Number Twelve Looks Like You Devin Townsend caspian insomnium OLA ENGLUND kinkshamer Mother of Graves grant the sun feverence dreampeace",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T13:07:43+00:00",
+      "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
+      "retry_after": 1792161055
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Watch Bruce Dickinson Singing Offstage to Avoid Flare Smoke",
+      "link": "https://ultimateclassicrock.com/iron-maiden-bruce-dickinson-flare-smoke/",
+      "rss_body": "Throat cancer survivor is seen performing backstage in Ecuador after smoke engulfed the venue.",
+      "tags": "News Bruce Dickinson Iron Maiden UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T12:17:13+00:00",
+      "id": "2a02732b6da7dc076e27515808483943e76cb609",
+      "retry_after": 1792161129
     }
   ]
 }
