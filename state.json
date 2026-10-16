@@ -609,49 +609,19 @@
     "7f93b387dec8817cc0a3a9d07f21b5392240b6be",
     "ebdec59ebeb74e7b34da4a7395288451357cbd3d",
     "a9d628871628144db8fc795cea8ee9e011af86c8",
-    "c9a8f2d63ed58f56da7cf6d42e483b127157bc0c"
+    "c9a8f2d63ed58f56da7cf6d42e483b127157bc0c",
+    "27e4a091519a489b49d03e083aff3ffa8229cc44",
+    "764ee34da80c1c19d9f651521e329f872c64d960",
+    "39ebca679675865f1d5b64c05b763212926d7b31",
+    "c1c643da947b9189db17e3d8bf65b8054e4963fc",
+    "0b6333a79ded5badd54d7006a1e75ba7a1adcdf4",
+    "9c24c47909ed852bc92544a7b5115ad932f0f179",
+    "680c6780b2d1580c3b2fc180cb05ebab8bbaaacb",
+    "2fcbcc5bf5c730984013a417f55a0cb3bdac0489",
+    "db384f4294c8f6a5e7d957e6904d49f6ff5dee62",
+    "30ff3aa60223a2440894c56560695ae9a01e0368"
   ],
   "recent_titles": [
-    {
-      "title": "More than 30 years after Shotgun Messiah’s final shot, Zinny J Zan and Harry Cody are back",
-      "source": "Louder",
-      "ts": 1791859425
-    },
-    {
-      "title": "From petty crime and prison to folk legend: Nine Roy Harper albums to listen to and one to avoid",
-      "source": "Louder",
-      "ts": 1791859460
-    },
-    {
-      "title": "Watch: Slaughter To Prevail Cover Suicide Silence’s “Unanswered” With Rev3rent’s Josh Guard",
-      "source": "ThePRP",
-      "ts": 1791859464
-    },
-    {
-      "title": "Watch: Bring Me The Horizon Gave A Live Debut To “The Fox And The Wolf” With Josh Scogin",
-      "source": "ThePRP",
-      "ts": 1791859469
-    },
-    {
-      "title": "Memoriam (Ex-Bolt Thrower) Debut “Nothing More To Say” From Their Upcoming Farewell Album “Endgame”",
-      "source": "ThePRP",
-      "ts": 1791859475
-    },
-    {
-      "title": "Watch Behemoth Welcome Dimmu Borgir’s Shagrath Onstage For The Live Debut Of Their Venom Cover",
-      "source": "ThePRP",
-      "ts": 1791859483
-    },
-    {
-      "title": "Roman Candle & Postdrome Announce Fall West Coast Tour",
-      "source": "ThePRP",
-      "ts": 1791859485
-    },
-    {
-      "title": "PeelingFlesh, Emmure & Showing Teeth Announced For 2027 ‘Sonic Temple’ Festival, Full Lineup Reveal Due Next Week",
-      "source": "ThePRP",
-      "ts": 1791859488
-    },
     {
       "title": "Вокалист HATEBREED обещает меньшую паузу между альбомами",
       "source": "Darkside",
@@ -1411,6 +1381,46 @@
       "title": "Breakdown Of Sanity Premiere “One-Way Mirror” Music Video",
       "source": "ThePRP",
       "ts": 1792160888
+    },
+    {
+      "title": "Новое видео JOHN DIVA & THE ROCKETS OF LOVE",
+      "source": "Darkside",
+      "ts": 1792174607
+    },
+    {
+      "title": "Новое видео THE SMASHING PUMPKINS",
+      "source": "Darkside",
+      "ts": 1792174609
+    },
+    {
+      "title": "Новое видео REVNOIR x REEBZ",
+      "source": "Darkside",
+      "ts": 1792174610
+    },
+    {
+      "title": "Новое видео DORO",
+      "source": "Darkside",
+      "ts": 1792174612
+    },
+    {
+      "title": "Новое видео DIETH",
+      "source": "Darkside",
+      "ts": 1792174613
+    },
+    {
+      "title": "Fan-Filmed Footage Of Marilyn Manson’s Entire First “Antichrist Superstar” 30th Anniversary Show Available",
+      "source": "ThePRP",
+      "ts": 1792174621
+    },
+    {
+      "title": "Smosh Parody Limp Bizkit With Fred Darts’ “Bring ‘Em Back (We Want Dinos)” Video",
+      "source": "ThePRP",
+      "ts": 1792174626
+    },
+    {
+      "title": "Survivalist’s “Four Nails” EP Due In November, “Infinity” Video Debuts",
+      "source": "ThePRP",
+      "ts": 1792174631
     }
   ],
   "initialized_sources": [
@@ -3990,7 +4000,7 @@
       "title": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\"",
       "link": "https://metalinjection.net/news/nightwish-singer-floor-jansen-exits-band-there-is-a-bright-musical-journey-ahead-of-me",
       "rss_body": "She joined the band in 2013.",
-      "tags": "Latest News nightwish featured1",
+      "tags": "Latest News nightwish featured",
       "category": "Хэви-метал",
       "published": "2026-10-15T13:38:42+00:00",
       "id": "85748d127186f72494688a79d3cef331539f30f2",
@@ -4026,7 +4036,7 @@
       "title": "Roger Waters Rips James Hetfield: “He’s Just Showing That He’s a Complete Prick”",
       "link": "https://metalinjection.net/news/roger-waters-blasts-james-hetfield-metallica-sphere-comments",
       "rss_body": "The former Pink Floyd frontman went in on Hetfield in a recent podcast appearance.",
-      "tags": "Latest News",
+      "tags": "Latest News Metallica roger waters featured2",
       "category": "Хэви-метал",
       "published": "2026-10-15T18:00:00+00:00",
       "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
@@ -4122,7 +4132,7 @@
       "title": "GWAR Teams With Legendary Horror Host Joe Bob Briggs For New Album, Hear \"Splatter-Fu\"",
       "link": "https://metalinjection.net/news/gwar-teams-with-legendary-horror-host-joe-bob-briggs-for-new-album-hear-splatter-fu",
       "rss_body": "All mutants are welcome to join the fun.",
-      "tags": "Latest News",
+      "tags": "Latest News GWAR featured",
       "category": "Хэви-метал",
       "published": "2026-10-15T15:23:41+00:00",
       "id": "14906496ce8d34abc3e4c5bd74c18eff90dc1185",
@@ -4265,11 +4275,14 @@
       "priority": 84,
       "title": "\"We can’t get everywhere but we can try!\" Iron Maiden announce surprise 2027 North American tour, including headline set at Sonic Temple festival",
       "link": "https://www.loudersound.com/bands-artists/music-festivals/we-cant-get-everywhere-but-we-can-try-iron-maiden-announce-surprise-2027-north-american-tour-including-headline-set-at-sonic-temple-festival",
-      "rss_body": "Iron Maiden\n\nhave announced a surprise return to North America in 2027, taking in arena shows and festival appearances, including a headline set at the Sonic Temple Art + Music Festival.\n\nSteve Harris says, “As many of our fans know, Maiden were planning on taking a break from live performances in 2027, but we’ve been enjoying this last leg in the USA and Canada so much that we all had a chat and decided we should take the show to parts we missed, particularly the North West and South East. It just seems fair to our many fans there who have given us tremendous support for so many years. We can’t get everywhere but we can try!\n\n\"Also, we have always enjoyed playing the many great festivals that are in Europe,\" he adds, \"and wanted to experience a couple more in the USA which we will do at the end of the tour in Columbus [Sonic Temple] and Maryland [Boardwalk Rock]. At festivals you are not just playing to your own fans so it’s always a challenge and we all love a challenge!”\n\nManager Manager Rod Smallwood adds,\n\n“\n\nThe first leg was terrific, huge sell-out crowds of all ages spanning multi-generations, some of the biggest shows we have ever played in North America with rave fan and media reactions, and just a great all round vibe and camaraderie from our fans, including in our Eddie’s Dive Bars everywhere. And I know as I go to every one of them!  In fact it was so good we just have to come back and play some places we missed and bring Eddie’s Dive Bars with us!\n\n“It is amazing that even after all these years we played to many more people per show than ever before and headlined our first stadium shows in the USA. We have been selling out arenas in all parts of North America since 1983 - bar a short period in the 90s – and the band’s following here continues to grow despite an almost total lack of mainstream radio support and never even having a track reach the\n\nBillboard\n\nHot 100! For that we have to thank our amazing fans, and it proves that word of mouth still means a lot. We look forward to seeing you all again next Spring”.\n\nIron Maiden Run For Your Lives North American Tour 2027\n\nApr 14: Tacoma Dome, WA\n\nApr 16: Vancouver Rogers Arena, Canada\n\nApr 18: Portland Moda Center, OR\n\nApr 20: Wheatland Toyota Amphitheatre, CA\n\nApr 22: Chula Vista North Island Credit Union Amphitheatre, CA\n\nApr 24: San Bernardino Glen Helen Amphitheater, CA\n\nApr 26: Phoenix Talking Stick Resort Amphitheatre, AZ\n\nApr 28: Dallas Dos Equis Pavilion, TX\n\nMay 01: Tampa Benchmark International Arena, FL\n\nMay 02: West Palm Beach iTHINK Financial Amphitheatre, FL\n\nMay 05 Atlanta Lakewood Amphitheatre, GA\n\nMay 07: Raleigh Coastal Credit Union Music Park at Walnut Creek, NC\n\nMay 09: Hartford The Meadows Music Theatre, CT\n\nMay 11: Belmont Park UBS Arena, NY\n\nMay 14: Sonic Temple, OH\n\nMay 16: Boardwalk Rock, MD\n\nSteve Harris\n\n' band will headline Sonic Temple on Friday, May 14. The festival will also feature performances from A Perfect Circle, Primus, Clutch, Sleeping With Sirens, Crowbar, Escape The Fate,\n\nSaosin, and hundreds more acts yet to be announced.\n\nThe 2027 weekender is scheduled to take place from May 13 to May 16 at the Historic Crew Stadium in Columbus, Ohio.\n\nPeelingFlesh, Emmure, Showing Teeth, Imminence and Vana have also been announced to play at what has become one of the blue riband events in the global rock and metal calendar.\n\nThe full schedule will be announced next week.\n\nSingle day passes, weekend passes and VIP packages for 2027's Sonic Temple Art + Music Festival are on-sale now,\n\nhere\n\n.\n\nThe 2026 edition of Sonic Temple featured My Chemical Romance, Shinedown, Bring Me The Horizon and\n\nTool\n\nas the headline acts. The sold out event was attended by a record crowd of over 184,000 fans across the weekend.",
+      "rss_body": "Iron Maiden\n\nhave announced a surprise return to North America in 2027, taking in arena shows and festival appearances, including a headline set at the Sonic Temple Art + Music Festival.\n\nSteve Harris says, “As many of our fans know, Maiden were planning on taking a break from live performances in 2027, but we’ve been enjoying this last leg in the USA and Canada so much that we all had a chat and decided we should take the show to parts we missed, particularly the North West and South East. It just seems fair to our many fans there who have given us tremendous support for so many years. We can’t get everywhere but we can try!\n\n\"Also, we have always enjoyed playing the many great festivals that are in Europe,\" he adds, \"and wanted to experience a couple more in the USA which we will do at the end of the tour in Columbus [Sonic Temple] and Maryland [Boardwalk Rock]. At festivals you are not just playing to your own fans so it’s always a challenge and we all love a challenge!”\n\nManager Manager Rod Smallwood adds,\n\n“\n\nThe first leg was terrific, huge sell-out crowds of all ages spanning multi-generations, some of the biggest shows we have ever played in North America with rave fan and media reactions, and just a great all round vibe and camaraderie from our fans, including in our Eddie’s Dive Bars everywhere. And I know as I go to every one of them! In fact it was so good we just have to come back and play some places we missed and bring Eddie’s Dive Bars with us!\n\n“It is amazing that even after all these years we played to many more people per show than ever before and headlined our first stadium shows in the USA. We have been selling out arenas in all parts of North America since 1983 - bar a short period in the 90s – and the band’s following here continues to grow despite an almost total lack of mainstream radio support and never even having a track reach the\n\nBillboard\n\nHot 100! For that we have to thank our amazing fans, and it proves that word of mouth still means a lot. We look forward to seeing you all again next Spring”.\n\nIron Maiden Run For Your Lives North American Tour 2027\n\nApr 14: Tacoma Dome, WA\n\nApr 16: Vancouver Rogers Arena, Canada\n\nApr 18: Portland Moda Center, OR\n\nApr 20: Wheatland Toyota Amphitheatre, CA\n\nApr 22: Chula Vista North Island Credit Union Amphitheatre, CA\n\nApr 24: San Bernardino Glen Helen Amphitheater, CA\n\nApr 26: Phoenix Talking Stick Resort Amphitheatre, AZ\n\nApr 28: Dallas Dos Equis Pavilion, TX\n\nMay 01: Tampa Benchmark International Arena, FL\n\nMay 02: West Palm Beach iTHINK Financial Amphitheatre, FL\n\nMay 05 Atlanta Lakewood Amphitheatre, GA\n\nMay 07: Raleigh Coastal Credit Union Music Park at Walnut Creek, NC\n\nMay 09: Hartford The Meadows Music Theatre, CT\n\nMay 11: Belmont Park UBS Arena, NY\n\nMay 14: Sonic Temple, OH\n\nMay 16: Boardwalk Rock, MD\n\nBullet For My Valentine\n\nwill support on all arena shows.\n\nSteve Harris\n\n' band will headline Sonic Temple on Friday, May 14. The festival will also feature performances from A Perfect Circle, Primus, Clutch, Sleeping With Sirens, Crowbar, Escape The Fate,\n\nSaosin, and hundreds more acts yet to be announced.\n\nThe 2027 weekender is scheduled to take place from May 13 to May 16 at the Historic Crew Stadium in Columbus, Ohio.\n\nPeelingFlesh, Emmure, Showing Teeth, Imminence and Vana have also been announced to play at what has become one of the blue riband events in the global rock and metal calendar.\n\nThe full schedule will be announced next week.\n\nSingle day passes, weekend passes and VIP packages for 2027's Sonic Temple Art + Music Festival are on-sale now,\n\nhere\n\n.\n\nThe 2026 edition of Sonic Temple featured My Chemical Romance, Shinedown, Bring Me The Horizon and\n\nTool\n\nas the headline acts. The sold out event was attended by a record crowd of over 184,000 fans across the weekend.\n\nA post shared by Sonic Temple Festival (@sonictemplefestival)\n\nA photo posted by",
       "tags": "Music Festivals Bands & Artists Live Performances",
       "category": "Прогрессив",
       "published": "2026-10-16T14:17:04+00:00",
       "id": "1281d9679035a6042490add57117ba0078a761ea",
+      "duplicate_ids": [
+        "73ecf77997afc50510be4de8d18c56581c68c2f2"
+      ],
       "retry_after": 1792160953
     },
     {
@@ -4278,7 +4291,7 @@
       "title": "Architects’ Sam Carter: “The Comments and the Judgment Have Got Too Much”",
       "link": "https://metalinjection.net/news/architects-sam-carter-the-comments-and-the-judgment-have-got-too-much",
       "rss_body": "The Architects vocalist opened up about criticism towards his singing in a recent Instagram post.",
-      "tags": "Latest News architects",
+      "tags": "Latest News architects featured",
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
@@ -4290,7 +4303,7 @@
       "title": "The Weekly Injection: New Releases From Insomnium, The Number Twelve Looks Like You, and More Out This Week – 10.16",
       "link": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-insomnium-the-number-twelve-looks-like-you-and-more-out-this-week-10-16",
       "rss_body": "Plus releases from Caspian, DreamPeace, Ola Englund, Fervence, Grant The Sun, Kinkshamer, and Mother of Graves.",
-      "tags": "Weekly Injection The Number Twelve Looks Like You Devin Townsend caspian insomnium OLA ENGLUND kinkshamer Mother of Graves grant the sun feverence dreampeace",
+      "tags": "Weekly Injection The Number Twelve Looks Like You Devin Townsend caspian insomnium OLA ENGLUND kinkshamer featured1 Mother of Graves grant the sun feverence dreampeace",
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
@@ -4307,6 +4320,249 @@
       "published": "2026-10-16T12:17:13+00:00",
       "id": "2a02732b6da7dc076e27515808483943e76cb609",
       "retry_after": 1792161129
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Metallica Share Official Live Video For “…And Justice For All” From Their Residency At The Sphere",
+      "link": "https://www.theprp.com/2026/10/16/news/metallica-share-official-live-video-for-and-justice-for-all-from-their-residency-at-the-sphere/",
+      "rss_body": "Also filmed during the October 01st opening night of their residency.",
+      "tags": "News Metallica",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T17:15:42+00:00",
+      "id": "8e2c31365518725f795fbfadb1d415f32fd5f40f",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Музыканты AMORPHIS в новом клипе INSOMNIUM",
+      "link": "http://www.darkside.ru/news/184551/",
+      "rss_body": "The Hour Grows Late feat. Tomi Joutsen, Tomi Koivusaari, Santeri Kallio, новое видео INSOMNIUM, доступно для просмотра. Этот трек взят из нового альбома “Netherworlds”, релиз которого намечен на 16 октября:\n\n1. The Cold Song\n\n2. Shadowlife\n\n3. Remembrance\n\n4. Gleam in the Black\n\n5. The Hour Grows Late\n\n6. Arch of the Sky\n\n7. Pathways of the Night\n\n8. Ethereal Sleep\n\n9. The Banished\n\n10. Journey's End",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T17:14:22+00:00",
+      "id": "316c7b4000c8ef6622a861dbbddde7ab42812acf",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Silvertomb (Ex-Type O Negative) Premiere New Single “Brain Matter/No God”",
+      "link": "https://www.theprp.com/2026/10/16/news/silvertomb-ex-type-o-negative-premiere-new-single-brain-matter-no-god/",
+      "rss_body": "They've also got a Brooklyn release show booked for their new album.",
+      "tags": "News Kenny Hickey Silvertomb Type O Negative",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T17:03:14+00:00",
+      "id": "6a75957dc19644e3e3c3aec5aebf06927cc0536d",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Glenn Hughes offers some philosophical life advice as he recovers from 10 hour open heart surgery operation",
+      "link": "https://www.loudersound.com/bands-artists/glenn-hughes-offers-life-advice-as-he-recovers-from-open-heart-surgery",
+      "rss_body": "Glenn Hughes\n\nsays that he is recovering well after undergoing a 10 hour open heart surgery operation.\n\nThe\n\nDeep Purple\n\n, Black Sabbath,\n\nBlack Country Communion\n\n,\n\nTrapeze\n\nlegend, who recently announced that he was\n\nretiring from touring\n\n, informed his social media followers that he has just returned home after an eight-day stay in a Los Angeles hospital.\n\n\"This past year, I’ve had some health issues,\" Hughes, now 75, said in August when announcing his retirement from the road. \"The results from numerous MRIs, CT scans, and an echocardiogram have alerted my medical team that I need another open-heart surgery. I really have no option and no choice, as health is my number one priority. Grateful to have been chosen with a life full with the gift of music. Thank you for walking beside me.\"\n\nThe vocalist/bassist's latest social media posts outlines the details of his hospital treatment.\n\n\"Now Home,\" he writes, \"after an 8 day stay, and a 10 hour open heart surgery operation, called aortic valve replacement, exactly the same procedure I had done in 2013, at UCLA Ronald Reagan Medical Center, Westwood, LA.\n\n\"My doctor, Dr Richard Shemin, head, cardiac, and professor of UCLA, really took care of me with his remarkable staff.\n\n\"Each day as I move forward, I am getting my energy back.\n\n\"There is only love in my life. There are no mistakes.\n\n\"Everything is in its right place. Never believe that there is something wrong in your life. You are where you’re supposed to be. Going through those experiences that are necessary for you right now.\n\n\"When you become angry at yourself, because you don’t like the experiences that you are going through, you are hindering your growth. Rather be grateful, & thankful, for every experience that you’re going through.\n\n\"Even though it may appear to be terrible in your life, be thankful for this experience, for the experience is not what you think it is, in your finite mind.\n\n\"There is a greater purpose to it.\n\n\"All is well...\"\n\nA post shared by Glenn Hughes (@glennhughesonline)\n\nA photo posted by\n\nThe Cannock-born star released his most recent solo album,\n\nChosen\n\n, last year.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-16T17:00:00+00:00",
+      "id": "b539a464649e3182c651fad5d0448f24ddcc8cde",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "SEEN AND HEARD: EXTOL, AETHERIAN, ARONIOUS, NIDARE",
+      "link": "https://www.nocleansinging.com/2026/10/16/seen-and-heard-extol-aetherian-aronious-nidare/",
+      "rss_body": "(written by Islander) On almost all weekdays for many years I have committed to make either two track premieres or an EP premiere or an album premiere. Sometimes there is a day off because of some late-stage mishap (never my own, of course), as there was on Tuesday of this week, and sometimes we either\n\n[...]",
+      "tags": "Metal News RANDOM FUCKING MUSIC Aetherian Aronious Extol Nidare",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T16:58:49+00:00",
+      "id": "0273687cb71099483ba5ce908236259a2e6eadd3",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Insomnium Premiere “The Hour Grows Late” Video, Amorphis Members Guest",
+      "link": "https://www.theprp.com/2026/10/16/news/insomnium-premiere-the-hour-grows-late-video-amorphis-members-guest/",
+      "rss_body": "The hour is upon us.",
+      "tags": "News Amorphis Insomnium",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T16:55:28+00:00",
+      "id": "9d476de3e1873738a48121372f177a6dbfab0fec",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Басист OBITUARY: «Мы думаем о новой музыке, но... »",
+      "link": "http://www.darkside.ru/news/184512/",
+      "rss_body": "В новом интервью басиста OBITUARY Terry Butler спросили о возможности нового студийного альбома от ветеранов флоридского дэт-металла:\n\n«У меня нет графика, и я не могу назвать никаких конкретных сроков. Но я знаю, что мы обсуждали возможность в самом ближайшем будущем начать обмениваться идеями. Так что разговоры об этом шли, и в группе это известный факт. Но мы не выставляли жёстких условий вроде: \"Так, к такой-то дате у нас должно быть столько-то песен\" или \"К такой-то дате мы будем в студии\". Нет, всё происходит само, понимаешь, о чём я? Но мы знаем, что в ближайшее время нам нужно что-то подготовить».\n\nButler также затронул тот факт, что OBITUARY не выпускали новых альбомов со времён “Dying Of Everything”, вышедшего в январе 2023 года на Relapse Records:\n\n«Раньше лейбл в этом плане сильнее подгонял группы, требуя соблюдения сроков. Но сейчас продаж меньше, и очевидно почему: пиратство, Spotify и всё такое. Так что группы зарабатывают в основном на гастролях, продаже [мерча] и концертных гонорарах. Сейчас выглядит так: ты выпускаешь альбом, пару раз проезжаешь по Штатам, пару раз по Европе, играешь на фестивалях, добираешься до Южной Америки, может быть, до Азии. В итоге между альбомами проходит два-три года. Мне кажется, нынче это нормально.\n\nВ давние времена, в 70-х, группы выпускали альбом в январе, а потом ещё один в октябре. [Смеётся] А теперь зачем спешить? Особенно в случае OBITUARY. У нас уже больше десяти альбомов, то есть есть из чего выбирать: 140 песен. Вживую мы играем где-то пятнадцать, так что репертуара хватает с запасом. Но огонь внутри точно не угас, и желание делать новую музыку никуда не делось. Мы хотим записывать новый материал».\n\nВ январе этого года вокалист OBITUARY John Tardy рассказал Alejandrosis о планах группы писать и записывать новую музыку:\n\n«Это непросто. Сейчас выпускаешь альбом, и нам требуется три, четыре, пять лет, чтобы просто охватить все территории [на гастролях] и закончить дела. Но мы всегда копим риффы, идеи, названия песен и тому подобное, постоянно, целыми днями. Это в каком-то смысле наша работа. Каждый раз на саундчеке, например, Trevor [Peres, гитарист OBITUARY] просто включает усилитель, и вы в классной комнате, а он придумывает что-то, подходит к своему телефону и записывает кусочек, и так далее. Так что мы всё время что-то собираем.\n\nПросто мы были очень заняты, но наша цель как раз в том, чтобы в этом году начать сводить воедино часть этого материала, зафиксировать идеи и запустить неспешный процесс, который, возможно, приведёт к новому релизу, может быть, уже в следующем году».\n\nЛетом 2025 года барабанщика OBITUARY Donald'а Tardy'я, родного брата John'а, Bloodstock TV спросили, по-прежнему ли группа планирует выпустить новый студийный альбом в 2026 или 2027 году:\n\n«В рок-н-ролльной индустрии ты строишь планы, и ничего никогда не выходит, всё постоянно откладывается. Так что я не хочу говорить людям, что альбом будет, потому что будет ли он? Мы не знаем. Нам чертовски хорошо. Мы с братом получаем огромное удовольствие.\n\nДолжна ли быть ещё одна пластинка? Возможно. Возможно, ради фанатов», — продолжил он. — «Подходя к сорокалетию карьеры, мы задаёмся вопросом: куда нам двигаться дальше? И как долго? Хотим ли мы этого? Сможем ли? И стоит ли?\n\nТак что, отвечая на ваш вопрос: мы любим сочинять музыку и нам нравится идея нового альбома, но мы обязательно не будем торопиться и напишем самые лучшие песни, на какие только способны, как и в случае с “Dying Of Everything”», — добавил Donald. — «Так что 2026 и 2027 годы пройдут в процессе сочинения, а затем записи. Мы смотрим на это так: если мы ещё будем на этой стороне земли и сможем это сделать, то будет и следующий альбом, просто потому, что фанаты этого заслуживают. И нам по-прежнему нравится то, что мы делаем».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T16:53:27+00:00",
+      "id": "3e24accb3028075a93f2affd5d26bee4004d5a8f",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Haywire Announce Bicoastal “I DON’T WANNA SAY GOODBYE” Record Release Shows",
+      "link": "https://www.theprp.com/2026/10/16/news/haywire-announce-bicoastal-i-dont-wanna-say-goodbye-record-release-shows/",
+      "rss_body": "Taking place in Los Angeles and Boston.",
+      "tags": "News Haywire",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T16:41:01+00:00",
+      "id": "2aa77327a7645f75f3c026ad7b716b5b4aa02421",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Korn Celebrate 30 Years Of “Life Is Peachy” With Merch Capsule, Custom Smoothie & Hot Sauce",
+      "link": "https://www.theprp.com/2026/10/16/news/korn-celebrate-30-years-of-life-is-peachy-with-merch-capsule-custom-smoothie-hot-sauce/",
+      "rss_body": "The latter being dubbed 'Spice Is Peachy'.",
+      "tags": "News Korn",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T16:33:33+00:00",
+      "id": "4dd1453094784f53c21e455ab81eea3378806e5f",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Iron Maiden Announces 2027 North American Tour, Headlining Sonic Temple",
+      "link": "https://metalinjection.net/news/iron-maiden-announces-2027-tour-dates-including-sonic-temple-appearance",
+      "rss_body": "The legends continue their Run For Your Lives tour into next year.",
+      "tags": "Latest News Iron Maiden featured2",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T14:11:19+00:00",
+      "id": "39ca1bfefff2679561a7ec0a5cbc02a3098b7f69",
+      "duplicate_ids": [
+        "cf9bb6fd0f2608e6afa74831f3220c08ba2c8a12"
+      ],
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "A tribute to Ace Frehley, the teen wannabe who became a global superstar",
+      "link": "https://www.loudersound.com/bands-artists/ace-frehley-tribute",
+      "rss_body": "On October 16, 2025,\n\nAce Frehley\n\ndied after suffering a brain bleed following a fall. It was the second of two tumbles Ace had at his studio as he worked on a new album. He was airlifted to hospital and placed on a ventilator, but passed away several hours later in Morristown, New Jersey. He was 74 years old.\n\nFrehley had two spells with New York-based glam titans\n\nKiss\n\n, firstly from their foundation in 1973 until a messy exit circa the\n\nCreatures Of The Night\n\nalbum in 1982. He was part of a\n\n1996 reunion\n\nof the original line-up, and remained on board for a further six years.\n\nCompletely self-taught as a guitarist, Frehley’s style and persona were a massive influence on subsequent generations of rock musicians. On December 7, 2025, when Kiss received Kennedy Center Honors, Frehley was only the third person to receive the honour posthumously.\n\nThe guitarist’s relationship with fellow original Kiss members\n\nGene Simmons\n\nand\n\nPaul Stanley\n\nwas never an easy one. Frehley liked to have a good time, which often led to butting of heads with teetotal bass player Simmons and rhythm guitarist Stanley, who largely partied in moderation. He was something of a square peg in a round hole, but that’s what made his contribution to Kiss so vital.\n\nAll the same, even after Ace belatedly found sobriety in 2006 the pair continued to keep him at arm’s length. And while Simmons insisted that Frehley and co-founding drummer Peter Criss were both invited to attend the band’s final hometown send-off in December 2023, joining them on stage was never going to fly.\n\nAce prepares to perform at Alex Cooley's Electric Ballroom on July 18, 1974 in Atlanta, Georgia\n\n(Image credit: Tom Hill/WireImage)\n\nFrehley was a hugely talented musician, but he could be his own worst enemy – promoting the solo record that would prove to be his last,\n\n10,000 Volts\n\n, he boasted, “My new album is going to make Paul Stanley look like an imbecile”.\n\nFrom Frehley’s perspective, he had endured a lifetime of humiliation and belittlement from the group’s leaders, and in the autumn of his life he just wouldn’t take it any more.\n\n“In the last few months Paul put me down pretty badly,” Ace told\n\nClassic Rock\n\n’s Dave Everley. “He even told [shock-jock] Howard Stern that if me and Peter got up on stage with them at Madison Square Garden, you might as well call the band Piss instead of Kiss.”\n\nIt was a cheap shot, to be sure, and knowing what\n\nClassic Rock\n\ndoes of Stanley, in the cold light of day he probably regretted saying it. But for Frehley this was just another brick in the wall between him and his former partners.\n\n“That [comment] got to me. We ended up having some words,” Ace sighed during the same interview. “But I’m really done with the tit-for-tat.”\n\nIn the grand scheme of things, the spat might be dismissed as brotherly rough and tumble, and a full reconnection took place during the final hours of Frehley’s life.\n\n“We are devastated by the passing of Ace Frehley,” said a statement from Simmons and Stanley. “He is and will always be a part of Kiss’s legacy.”\n\nIt continued: “In his last moments, we were fortunate enough to have been able to surround him with loving, caring, peaceful words, thoughts, prayers and intentions as he left this earth.\n\n“We cherish all of his finest memories, his laughter, and celebrate his strengths and kindness that he bestowed upon others. The magnitude of his passing is of epic proportions and beyond comprehension. Reflecting on all of his incredible life achievements, Ace’s memory will continue to live on forever!”\n\nPaul Stanley, Peter Criss, Gene Simmons and Ace Frehley pose for the the cover of their self-entitled first album\n\n(Image credit: Ginny Winn/Michael Ochs Archives/Getty Images))\n\nThe youngest of three children, Paul Daniel Frehley was born in a middle-class area of the Bronx, one of the five boroughs of New York City. The Frehley family lived together in a onebedroom apartment, with Paul and a brother sleeping on a bunk bed in their parents’ bedroom, his sister sleeping on the living-room couch. Money was tight, but there was a lot of love – and music. Everything changed when his dad handed 16-year-old Paul his first instrument.\n\n“It was a cheap, twenty-five-dollar Japanese guitar,” Frehley told to\n\nClassic Rock\n\n. “Once I hit the E-chord with the volume all the way up on the amp, it was love at first sight; or first hearing or whatever you want to call it.”\n\nWhile journeying through his earliest bands, Frehley dropped out of high school, and trouble with the NY police was never too far away. “I’d been arrested probably half a dozen times before I was in Kiss,” Ace admitted. “I learned the hard way, but I think it’s helped me in life. You’ve gotta have street smarts to survive.”\n\nIt was an advert placed in the\n\nVillage Voice\n\nnewspaper that led Frehley to the fledgling Kiss. On January 3, 1973, he famously turned up for his audition wearing mismatched sneakers, but his playing got him the gig.\n\nWhen the band decided to take on individual stage identities and paint their faces for live shows, Stanley the Starman, Simmons the Demon and Criss the Catman, Frehley’s fascination with science fiction brought him the moniker Space Ace. To make things more fascinating still, Kiss subsequently went to extreme lengths to avoid being photographed without make-up.\n\nAlthough Kiss’s gonzoid stage show – which involved colourful costumes, and enough pyrotechnics to blow up the Chase Manhattan Bank – brought them cult acclaim, their early records were not successful. A make-or-break last throw of the dice, the double gatefold concert set\n\nAlive!\n\nnot only rescued their career but also began the process of fast-tracking them towards superstardom.\n\nFrehley was loved for his occasional lead vocal tracks like\n\nShock Me\n\n, and also for playing a guitar that doubled as a rocket launcher.\n\nAt their height of their fame the four band members simultaneously recorded solo albums, all released on September 18, 1978. Debate over their relative merits still rages. But, thanks largely to the cover of the English glitter-rock combo Hello’s hit\n\nNew York Groove\n\n, up against the stylistically diverse releases from Simmons and Criss, Frehley’s Eddie Kramer-produced record sold the best.\n\n“I expected that,” Ace wrote in his 2011 memoir\n\nNo Regrets\n\n. “My goal was to make a really solid, guitar-based album, and I did. Mine outsold the other three albums and produced a top-twenty single.”\n\nFrehley didn’t hold back in criticising Simmons’s album, which included cameos from Donna Summer, Cher and Helen Reddy.\n\n“Helen Reddy? Really Gene? What the fuck?” Ace wrote in his book. “With Gene it was always about making money, advancing and expanding the brand. It was never about art. Never about music.”\n\n(Image credit: Casablanca Records)\n\nWildly differing responses to the solo records ensured that within Kiss nothing was quite the same again. As the 1980s dawned, drummer Peter Criss was voted out of the line-up, ensuring that Gene and Paul inevitably won any vote over direction. The band cut their hair and changed costumes for the ambitious but dismally received conceptual set\n\nMusic From ‘The Elder’\n\n. An uncomfortable Ace took a back seat, many of his solos rejected.\n\nBy the next album,\n\nCreatures Of The Night\n\n, Kiss were back on track. Their record deal had been re-negotiated, and each member was $20 million richer. Unfortunately, Frehley was ever more self-destructive. “I had lost interest in the band,” he wrote in\n\nNo Regrets\n\n. “My days passed in a blur of drinking and drugging. I knew that if I didn’t leave the group I was going to die.”\n\nHaving almost killed himself when he crashed a Porsche, in scenes reminiscent of\n\nSmokey And The Bandit\n\n, a sky-high Ace was also pursued by cops in his DeLorean for an hour at speeds of up to 90mph, crashing into several other vehicles. The incident inspired a great song called\n\nRock Soldiers\n\nfor his next project, Frehley’s Comet, but at that point in his life Ace wasn’t in the right shape to be a band leader.\n\nIn 1996, with their own career dipping after an era without make-up, even though highly cautious over the probability of the pair’s demons returning, Simmons and Stanley invited Frehley and Criss back on board. Things started encouragingly. The tour was a box-office smash, but Ace and Peter had little to do with a comeback set. This worked in their favour – for the most part Kiss’s\n\nPsycho Circus\n\nalbum wasn’t very good.\n\nWhen flying between cities on tour, Frehley admitted to hollowing out prescribed medication tablets and refilling them with cocaine. Clearly, things couldn’t last. And when Ace arrived with minutes to spare before a gig, tour manager Tommy Thayer was ready in a Spaceman outfit to take the stage in his place. Kiss had a Plan B, in case of disaster.\n\n(Image credit: Jayme Thornton)\n\nUpon completion of their 2001 itinerary, during which Criss had walked away due to ‘contract details’, Kiss installed Thayer as a full-time guitarist, and Frehley was solo again. Perhaps with some justification – previously, during the make-up era, new Kiss band members such as Vinnie Vincent and Eric Carr had been assigned fresh images – it stuck in Ace’s throat that Thayer had a costume the same as his own, and identical make-up.\n\nHe found gallows humour in the situation. In a 2008 interview, when a writer pointed out that former\n\nBlack N’ Blue\n\nman Thayer had once played in a Kiss tribute act, Frehley quipped: “He still is”. In another similar conversation, he said: “Paul and Gene have two impostors on stage with them.”\n\nFollowing several unsuccessful attempts, sobriety changed Frehley’s life completely. “My [AA] sponsor told me: ‘You had to make those mistakes to get to where you are today, and he was right,’” Ace told\n\nClassic Rock\n\n.\n\nWith a clear head and a good woman in his life, Ace entered a fertile era, releasing five albums in a decade.\n\n“I love to write songs, I love to record,” Ace told\n\nClassic Rock\n\nin 2024. “My fiancée’s got me on a strict diet of organic foods. She’s got me working out, lifting weights and doing push-ups. I’m down to a hundred and seventy-five pounds. I’ve never felt better in my life.”\n\nCertainly, unlike Kiss, at this point retirement was not on his mind.\n\n“I don’t give it any thought,” Frehley insisted. “I will go on till the wheels fall off. Even if I end up in a wheelchair, I can still write songs.”\n\nWith typical laser-focused business savvy, Kiss used the second of their farewell New York shows to introduce a new\n\nAI-based future for themselves\n\n, although Ace saw neither logic nor appeal in turning himself into an avatar.\n\n“That’s not what I’m all about,” he said. “I’m about amps, guitars, singing. As long as I can sing and write and play guitar, the sky’s the limit. I could have two more albums in me. I could have five more. As long as it’s fun, I’ll keep doing it.”",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-16T16:05:00+00:00",
+      "id": "d15101f27a68d135412c3be14cf018d02f898b5f",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Five For Friday: October 16, 2026",
+      "link": "https://www.decibelmagazine.com/2026/10/16/five-for-friday-october-16-2026/",
+      "rss_body": "Greetings,\n\nDecibel\n\nreaders!\n\nThere’s a lot to love here for\n\nDecibel\n\nreaders, as we’ve got a lot of death metal on the docket. Swedish-style death metal, blackened death metal, and some doomy death metal too. But we’ve also got some unique and experimental fare to offer as well, with the latest from a post-rock giant and some high-quality psych-rock too.\n\n—\n\nCarnation –\n\nSymphony In Flesh\n\nDismember\n\n-worship at its very best! Belgium’s\n\nCarnation\n\nemulates the classic HM-2 sound but also takes care to infuse melodies that keep the listener engaged and craving more. The tried-and-true never get old so long as the songwriting is good. And it’s really good here.\n\nStream:\n\nApple Music\n\nSymphony In Flesh by Carnation\n\n—\n\nCaspian –\n\nCaspian\n\nThe latest from one of the greatest in modern post-rock. Somehow, you know exactly what to expect from a band like\n\nCaspian\n\nbut they still manage to catch you by surprise. For some reason when I listen to the moving and evocative songs on this record, there’s an overwhelming feeling it sends me: “It’s going to be alright.”\n\nStream:\n\nApple Music\n\nCaspian by Caspian\n\n—\n\nFirebreather –\n\nBlood That I Spill Turns to Fire\n\nI hope you like riffs! When it comes to trippy, psych-influenced rock and metal, this is very much my jam. I can’t get over the band’s guitar tone here. So powerful and electric, and yet so clear! Think of the vibe of\n\nElectric Wizard\n\nbut with the songwriting approach of early\n\nMastodon\n\n.\n\nStream:\n\nApple Music\n\nFIREBREATHER – Blood That I Spill Turns To Fire by HEAVY PSYCH SOUNDS Records\n\n—\n\nMorgue –\n\nHerald the Dawn\n\nSolid, no-nonsense death metal. Like if\n\nVader\n\ndid a collaboration with\n\nBloodbath\n\n, specifically the iteration with Nick Holmes on vocals — but also added some ever-so-subtle black metal elements as well. You can even catch a bluesy-pentatonic guitar lick here and there. Maybe these guys are into early\n\nUnanimated\n\n. Whatever the case, this is one mean, dark, excellent record.\n\nStream:\n\nApple Music\n\nHerald the Dawn by MORGUE\n\n—\n\nWorm Altar –\n\nPillars of Eternal Dusk\n\nMeanwhile, if you want your death metal to have a little more doom mixed in, you’ve come to the right place with\n\nWorm Altar\n\n. This is one of those records that makes you just throw the horns up when you hear those low, guttural vocals kick in. You’ll probably make that ugly face when you hear the riffs as well. That’s how you know it’s good.\n\nStream:\n\nApple Music\n\nPillars of Eternal Dusk by Worm Altar",
+      "tags": "Five for Friday Carnation caspian Firebreather five for friday Morgue New Releases worm altar",
+      "category": "Экстремальный метал",
+      "published": "2026-10-16T16:00:22+00:00",
+      "id": "260c0a5818de6628dd01b8b01b51bd422f17a37e",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Гитарист DEF LEPPARD об ИИ: «Я считаю, что нужно принимать и осваивать любые новые технологии»",
+      "link": "http://www.darkside.ru/news/184517/",
+      "rss_body": "PHIL COLLEN в недавнем интервью ответил на вопрос о том, что он думает об использовании искусственного интеллекта (ИИ) в музыке в целом:\n\n«Это пугает. Нет, не пугает — это разочаровывает, потому что мы слышим много подобного... На данный момент ещё можно понять, что песня создана с помощью ИИ. Я слушаю много кантри-групп и исполнителей в стиле R&B, и когда слышишь что-то подобное, то сразу понимаешь: \"Это точно сделано с помощью ИИ\". Но то, что делаем мы, звучит совсем по-другому. Это определённо звучит иначе. То же самое касается живых выступлений. Сейчас много групп и исполнителей, которые используют семплы, фонограммы, секвенции и тому подобное. Да, мы используем лупы для ударных и тому подобное, но все наши вокальные партии живые. Мы поём вживую, и разница очевидна. А ещё мы допускаем ошибки, а это происходит каждый вечер, когда забываешь слова или что-то в этом роде. Так что, по-моему, в этом есть что-то по-настоящему крутое.\n\nСкажу одно: у нас на сцене нет колонок. У всех есть ушные мониторы, так что петь стало гораздо удобнее, потому что раньше был шум, гул, который шёл по микрофонам и попадал в ухо. Теперь всё слышно так отчётливо, что звук стал гораздо более чистым. Мне это нравится, это действительно круто.\n\nТак что я считаю, что нужно принимать и осваивать любые новые технологии. То же самое с искусственным интеллектом — все его используют. Люди используют его и даже не осознают этого. Они гуглят что-то, и искусственный интеллект отвечает им. Так что мы все его используем. Думаю, нужно просто быть в курсе. На данный момент мне нравится то, что мы делаем, и то, что мы не слишком зависим от всего этого и что технологии ещё не взяли над нами верх».\n\n#Def_Leppard #DefLeppard #HardRock #Hard_Rock #Hard 'n' Heavy #_Hard 'n' Heavy",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T15:55:17+00:00",
+      "id": "01fb5dcbc6bcb587ba1a8e757285186c8f92e1fd",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "MANNVEIRA: “VESÖLD”",
+      "link": "https://www.nocleansinging.com/2026/10/16/mannveira-vesold/",
+      "rss_body": "(Below you will find Daniel Barkasi’s review of a new album by the Icelandic band Mannveira which is being released today on Dark Descent Records.) Black metal contains a tendency, if not a foundational principle, to push the envelope in several facets. Recent times have shown the style to be malleable to all sorts of\n\n[...]",
+      "tags": "Album Reviews Daniel Barkasi Mannveira",
+      "category": "Экстремальный метал",
+      "published": "2026-10-16T15:53:45+00:00",
+      "id": "b112b4383a92c77a56212655b8063db33aa7c2eb",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Silvertomb Reveal Doomy and Dreamy New \"Brain Matter/No God\"",
+      "link": "https://metalinjection.net/new-music/listen-silvertomb-reveal-doomy-and-dreamy-new-brain-matter-no-god",
+      "rss_body": "As haunting as one could hope for leading up to Halloween.",
+      "tags": "New Music Silvertomb",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T15:46:09+00:00",
+      "id": "4f133114f27ce7a259542531f508befe1d215815",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео HOPES DIE LAST",
+      "link": "http://www.darkside.ru/news/184535/",
+      "rss_body": "Evil Mind, новое видео HOPES DIE LAST, доступно для просмотра",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T15:25:58+00:00",
+      "id": "80fb83f9aea1fbb90f16681509a1e219df3fc207",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Anthrax’s Scott Ian remembers chaotic Pantera tour: “I threw up, and Darrell’s there with a shot”",
+      "link": "https://www.loudersound.com/news/anthrax-remember-chaotic-1990s-pantera-support-tour-2026",
+      "rss_body": "Anthrax\n\n’s founding rhythm guitarist Scott Ian has reflected on the thrash metal stars’ chaotic tour with\n\nPantera\n\nin 1997 and ’98.\n\nTalking exclusively in\n\nthe brand-new issue of\n\nMetal Hammer\n\n, the 62-year-old says he truly “learned how to drink” while on the road with guitarist Dimebag Darrell and the boys, for whom nu metal outfit Coal Chamber opened.\n\nHe also recalls a particularly wild story where he was sick after an intense night, only for Dimebag to be waiting outside the toilet with even more alcohol.\n\n“We did a tour with Pantera and it was fucking chaos,” says Ian. “I would ride on Dimebag and Vinnie’s [Paul, drummer and Dimebag’s brother] bus sometimes, which seemed like a good idea when you were getting on it at 3am. And then it’s seven in the morning and they’ve been watching the same live\n\nKiss\n\nvideos for four hours.”\n\nThe guitarist continues: “I learned how to drink on that tour. One night I ran to the bathroom and threw up. I opened the bathroom door and Darrell’s standing there with a shot waiting for me. ‘Dude, I just threw up.’ He looks at me and goes, ‘What are you talking about, Baldini? Now you just have more room.’”\n\nDimebag, who was fatally shot aged 38 during a show by he and Paul’s post-Pantera band Damageplan in 2004, was a legendary drinker to the point that he had his own signature beverage called the Black Tooth Grin, named after a\n\nMegadeth\n\nlyric.\n\nMachine Head\n\nfrontman and friend Robb Flynn recalled in 2022 that Dimebag once got so drunk at a show that he smashed up one of Flynn’s guitars, yet he still went on to play perfectly.\n\nFlynn told YouTuber Ola Englund: “He picks up my guitar, and he goes – headstock first – right into the fucking ground. And I was like, ‘Dude!’ I was fucking pissed!\n\n“And that dude gets out there – and literally plays a fucking flawless show. Just every fucking note, every lead… dude doesn’t miss a note. If I hadn’t seen it with my own eyes, I never would have believed [it].”\n\nAnthrax collaborated with Dimebag on multiple occasions, getting him to contribute guest guitar solos across three of their studio albums:\n\nFueled\n\nand\n\nKing Size\n\non 1995’s\n\nStomp 442\n\n,\n\nInside Out\n\nand\n\nBorn Again Idiot\n\non 1998’s\n\nVol. 8: The Threat Is Real\n\n, and\n\nStrap It On\n\nand\n\nCadillac Rock Box\n\non 2003’s\n\nWe’ve Come For You All\n\n.\n\nThe veteran New York thrashers released their long-awaited new album\n\nCursum Perficio\n\nvia Nuclear Blast last month. Parts were recorded at Studio 606, the California recording space owned by\n\nFoo Fighters\n\nfrontman Dave Grohl. The band have no upcoming tour dates announced but recently played a run of shows supporting Iron Maiden.\n\nRead the full interview with Anthrax, conducted by Grohl, in the new\n\nHammer\n\n. The issue also features an in-depth celebration of late\n\nMetallica\n\nbassist Cliff Burton, 40 years after his death.\n\nOrder your copy now and have it delivered directly to your door.\n\n(Image credit: Future)",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-16T15:00:00+00:00",
+      "id": "b4f5ecf8c540624211fad00c162a79fe3896747f",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS VIDEO PREMIERE: SERPENT SKIES — “WHERE IS YOUR GOD”",
+      "link": "https://www.nocleansinging.com/2026/10/16/an-ncs-video-premiere-serpent-skies-where-is-your-god/",
+      "rss_body": "(written by Islander) Serpent Skies are a Swedish melodic death metal band from Gävle, Sweden who are returning after a 13-year hiatus with a new chapter in their story. The band’s current incarnation was formed in 2012. Drawing their inspirations from the classic Gothenburg sound, they released a debut EP named Graveyard Poets that same\n\n[...]",
+      "tags": "Premieres Serpent Skies",
+      "category": "Экстремальный метал",
+      "published": "2026-10-16T14:59:53+00:00",
+      "id": "acc7ca4e6d2a83b116c3079a07bb593bc85308f7",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Metallica Releases Pro-Shot \"The Call of Ktulu\" Performance Video",
+      "link": "https://metalinjection.net/news/watch-metallica-releases-pro-shot-the-call-of-ktulu-performance-video",
+      "rss_body": "Lovecraftian horrors come to life.",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T14:44:42+00:00",
+      "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Enter to Win an Epiphone Guitar + Signed Poster by Tony Iommi",
+      "link": "https://ultimateclassicrock.com/tony-iommi-epiphone-guitar-signed-poster-contest/",
+      "rss_body": "Here's your chance to enter to win an Epiphone guitar and a signed poster featuring artwork from Iommi's 'From the Dark' album.",
+      "tags": "Contests News Black Sabbath Tony Iommi VIP",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T14:01:00+00:00",
+      "id": "d7b8960b8d00070c3aecde1930d20f004b0008d6",
+      "retry_after": 0
     }
   ]
 }
