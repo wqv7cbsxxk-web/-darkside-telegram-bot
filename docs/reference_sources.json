@@ -22474,6 +22474,643 @@
           "source_url": "https://musicbrainz.org/release-group/fac831df-c99c-3b89-9d8d-cbb128550aca"
         }
       ]
+    },
+    "pearl-jam": {
+      "name": "Pearl Jam",
+      "musicbrainz_url": "https://musicbrainz.org/artist/83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "reference_checked_at": "2026-10-16T21:27:41.986915+00:00",
+      "genres": "acoustic rock, alternative rock, art rock, classic rock, experimental rock, funk rock, grunge, hard rock, indie rock, pop rock, post-grunge, rock",
+      "website": "https://pearljam.com/",
+      "members": [
+        {
+          "name": "Jeff Ament",
+          "role": "background vocals, bass guitar, double bass, original",
+          "begin": "1990"
+        },
+        {
+          "name": "Stone Gossard",
+          "role": "background vocals, bass guitar, guitar, original",
+          "begin": "1990"
+        },
+        {
+          "name": "Mike McCready",
+          "role": "background vocals, guitar, original",
+          "begin": "1990"
+        },
+        {
+          "name": "Eddie Vedder",
+          "role": "accordion, guitar, harmonica, lead vocals, original, tambourine",
+          "begin": "1990"
+        },
+        {
+          "name": "Matt Cameron",
+          "role": "background vocals, drums (drum set)",
+          "begin": "1998-05-01"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "albums": [
+        {
+          "name": "MTV Unplugged",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/00c131cf-2c4b-3796-a70b-5261714e5692"
+        },
+        {
+          "name": "Beyond",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/01df7ed1-c2b0-4b57-9fb6-cdc6d12fca25"
+        },
+        {
+          "name": "1992-02-03 Espande Club, Southend, England",
+          "date": "1992-02-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/04529d27-b603-4ac3-869d-e2f069bfc32a"
+        },
+        {
+          "name": "Radio Transmissions 1995-2000",
+          "date": "2024-11-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/04e94eda-27bc-44b2-95a0-1993e6cb1055"
+        },
+        {
+          "name": "Gigaton",
+          "date": "2020-03-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/076e2345-be1c-490d-a7ff-59a2dbd33867"
+        },
+        {
+          "name": "DEEP: 2000",
+          "date": "2021-12-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/080ef021-200e-460c-b626-d79cda9c45c1"
+        },
+        {
+          "name": "DEEP: Lightning Bolt",
+          "date": "2023-10-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/087ee2ad-04eb-4718-bf41-a197e0bcfbc7"
+        },
+        {
+          "name": "1995-03-21: Entertainment Centre Brisbane, Australia",
+          "date": "1995-03-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/118a9d4d-9a54-425f-a727-0634743d42e1"
+        },
+        {
+          "name": "2025-05-16: PPG Paints Arena, Pittsburgh, PA, USA",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/11febeda-2c40-485d-9e9e-970922cb4ae7"
+        },
+        {
+          "name": "1991-10-26 Normandy High School: Parma, OH",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1471b5e6-93ed-4f46-9ff0-e91345044500"
+        },
+        {
+          "name": "Self Pollution Radio",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/18cd7c1f-93d5-3b4b-b1b0-9695eecbbba2"
+        },
+        {
+          "name": "1991-11-21 Blind Pig, Ann Arbor, Michigan, USA",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1b38ae97-c65a-42d2-b0c3-753343afb81c"
+        },
+        {
+          "name": "1991-11-27 Cincinnati Gardens: Cincinnati, OH",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1cc571e0-3022-4851-a66b-e627ef962850"
+        },
+        {
+          "name": "1991-11-22 State Theatre (Clubland), Detroit, Michigan",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1e7cb315-bdfb-42c6-9a30-79676e40a3e1"
+        },
+        {
+          "name": "DEEP: No Code",
+          "date": "2021-08-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1fbb070f-5208-40d9-b62b-b2f510110eb0"
+        },
+        {
+          "name": "1991-11-13 Rocky Point Palladium: Warwick, RI",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2252afc1-c9cd-41da-ad47-7e66a0409987"
+        },
+        {
+          "name": "1991-11-14 Yonkers, New York, NY",
+          "date": "1991-11-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/24309075-3a90-4be8-b502-aa3756db7938"
+        },
+        {
+          "name": "DEEP: Workout 30",
+          "date": "2022-12-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/27d57427-ed99-4b56-b23d-dc90935ba127"
+        },
+        {
+          "name": "Dark Matter",
+          "date": "2024-04-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2f1d3f46-c9cc-4157-b198-0a4c6881a807"
+        },
+        {
+          "name": "1991-07-10 Citi Club, Boston, MA",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/33a154df-88cf-4d53-845a-dc9328ea4d62"
+        },
+        {
+          "name": "1992-06-06: Finsbury Park Festival, London, England",
+          "date": "1992-06-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/342f5e31-1fdb-4b68-8ce5-eb0a4e009fe7"
+        },
+        {
+          "name": "1991-11-12 Roseland Ballroom: New York City, NY",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/374ae5bc-210b-4ffc-afc9-01bb92e1d451"
+        },
+        {
+          "name": "DEEP: Workout 45",
+          "date": "2022-12-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/37937351-7dfd-478c-8641-2330b1c13edc"
+        },
+        {
+          "name": "1991-02-11 Club With No Name, Hollywood, California",
+          "date": "1991-02-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3c54e0ad-b8e7-4146-944e-afa1d46700e3"
+        },
+        {
+          "name": "1992-02-18 Milano, Sorpasso",
+          "date": "1992-02-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/42232bd7-3de2-4aed-b837-439480036e37"
+        },
+        {
+          "name": "Riot Act",
+          "date": "2002-09-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/42bb668a-c33b-381a-a492-1b38ac7611e8"
+        },
+        {
+          "name": "1991-12-31 Cow Palace: Daly City, CA",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/436bfe25-62c7-4908-aa64-200c3a9c9d16"
+        },
+        {
+          "name": "Definitive Collection",
+          "date": "2010",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/44f101e7-aa97-4ccf-8436-f1197c39a7e5"
+        },
+        {
+          "name": "1992-02-07 Koolkat Klub, Stockholm, Sweden",
+          "date": "1992-02-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4710de57-2184-4b5a-a8ad-beac5cbb5b53"
+        },
+        {
+          "name": "Ten / Vs",
+          "date": "2007-09-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4b7438cd-af29-4e4e-beb0-3b1a510adfbc"
+        },
+        {
+          "name": "Pearl Jam",
+          "date": "2006-04-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4f1bb05f-3b03-391f-a2d0-773ad70664b1"
+        },
+        {
+          "name": "Vs.",
+          "date": "1993-10-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/50ac60c4-fb35-37f8-a065-222996ea139c"
+        },
+        {
+          "name": "1995-11-06: San Diego Sports Arena: San Diego, CA",
+          "date": "1995-11-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5905ac73-bd2f-4f69-8be2-0b9016392697"
+        },
+        {
+          "name": "Lost Dogs",
+          "date": "2003-11-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5bccefdc-a56e-3c3c-ac80-7246da328ee6"
+        },
+        {
+          "name": "DEEP: Vote",
+          "date": "2021-11-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5d9ddb31-73ba-4e2c-b41f-5528bb7d2e2b"
+        },
+        {
+          "name": "Binaural",
+          "date": "2000-05-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5e53fed6-a262-42f5-ae26-58a7b6cae852"
+        },
+        {
+          "name": "The Very Best of Pearl Jam: In Concert on Air 1992–1995",
+          "date": "2016-05-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5ecb4941-3cce-45f4-99e0-18d98d1f5522"
+        },
+        {
+          "name": "Mudfeast",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/671297fe-aad3-4e31-8f92-7fe1c8cccdd0"
+        },
+        {
+          "name": "Lightning Bolt",
+          "date": "2013-10-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/681bb7dc-fa32-4f38-9e01-582ac8c91706"
+        },
+        {
+          "name": "1994-04-16: Saturday Night Live, NBC New York Studios, 30 Rockefeller Plaza, Midtown Manhattan, New York",
+          "date": "1994-04-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/686e3652-2995-479c-9741-660ae0d4b9ca"
+        },
+        {
+          "name": "1991-11-16 Roseland Ballroom: New York City, NY",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/68dcb577-9c53-4785-b1bd-9820c8e7a279"
+        },
+        {
+          "name": "1994-10-02: Shoreline Amphitheater, Mountainview, CA",
+          "date": "1994-10-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6e1e197e-4aa4-49b9-823c-f47223911eaa"
+        },
+        {
+          "name": "Vitalogy",
+          "date": "1994-11-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6e384e83-6cb1-36bd-813c-ca7d4cf4b9ba"
+        },
+        {
+          "name": "1992-03-04: Tivoli, Utrecht, Netherlands",
+          "date": "1992-03-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/740bb1d0-35ed-3030-939f-f5fc9e1a664b"
+        },
+        {
+          "name": "1994-04-03: Fox Theater, Atlanta, GA, USA",
+          "date": "1994-04-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/74380d8a-dbd8-3ff8-af34-9b77e465bc25"
+        },
+        {
+          "name": "1992-02-15 Revolver, Spain, Madrid",
+          "date": "1992-02-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/771608f9-8b65-4f1b-bbdd-4282e5836e79"
+        },
+        {
+          "name": "1992-06-08: Pinkpop Festival, Landgraaf, Netherlands",
+          "date": "1992-06-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/795e45a6-6df2-4681-a881-fc25e2297089"
+        },
+        {
+          "name": "1991-10-30 Concert Hall: Toronto, Ontario",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/79d97a3e-aca6-4e5f-b483-dcafc2e9e7d3"
+        },
+        {
+          "name": "1993-07-16: Ahoy, Rotterdam, Netherlands",
+          "date": "1993-07-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7a45e661-8498-4a9e-a5fb-911da99d119c"
+        },
+        {
+          "name": "Let’s Play Two: Live at Wrigley Field",
+          "date": "2017-09-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/80edb33f-82b0-470a-aa27-7337a0254903"
+        },
+        {
+          "name": "1991-12-15 Club DV8: Salt Lake City, UT",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8823c45d-3b21-45f3-856f-70935b3c785b"
+        },
+        {
+          "name": "1995-11-02: Delta Center, Salt Lake City, UT",
+          "date": "1995-11-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/88d7546d-0adb-4618-b76d-364b1d8f94be"
+        },
+        {
+          "name": "DEEP: Touring Band 2023",
+          "date": "2023-04-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8ee73975-9e3b-499e-b44d-41d7ca0817ee"
+        },
+        {
+          "name": "Vs. and Vitalogy",
+          "date": "2011-03-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/908eb4fa-14f8-48a2-a3fa-ea8b7cb92872"
+        },
+        {
+          "name": "1992-02-09 Pumpehuest, Copenhagen, Denmark",
+          "date": "1992-02-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/93618e8e-4046-4551-80a8-cca8b87ed576"
+        },
+        {
+          "name": "1992-09-10: MTV Singles Premiere Party, Park Plaza Hotel Ballroom, Los Angeles, California",
+          "date": "1992-09-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/93c4f35f-d803-4f82-b5b6-896a38b5db76"
+        },
+        {
+          "name": "1991-11-11 Roseland Ballroom: New York City, NY",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/94b32317-9352-43ae-b641-9d0467fe79cc"
+        },
+        {
+          "name": "1992-06-17: Dal City Square, Milan, Italy",
+          "date": "1992-06-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9a1fda35-e728-4565-ba1d-095ea5ad0e80"
+        },
+        {
+          "name": "No Fuckin’ Messiah",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9c885d47-0c7d-35d8-babf-0a3a65d680dd"
+        },
+        {
+          "name": "1992-02-22 Riverside Newcastle, UK",
+          "date": "1992-02-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9f384b2d-797e-490f-bced-7b609dfd8f2a"
+        },
+        {
+          "name": "1991-11-08 CBGBs: New York City, NY",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a64bd383-a0ea-4633-83b8-eec51189ad1f"
+        },
+        {
+          "name": "1991-12-29 Arizona State University Center, Tempe, Arizona",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a80d2402-7270-4f0a-bace-46ff6767d5e8"
+        },
+        {
+          "name": "DEEP: Yield",
+          "date": "2022-07-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a80f6339-4cba-4542-b575-c6ceb08f5a89"
+        },
+        {
+          "name": "1992-03-04: Tivoli, Utrecht, Holland",
+          "date": "1992-03-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a9327981-6fbc-44ee-a8ec-47df46efed7a"
+        },
+        {
+          "name": "1991-11-15 Roseland Ballroom: New York City, NY",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/aa0c2de6-b8dc-4c64-aa36-b9e1f47d5e36"
+        },
+        {
+          "name": "Rearviewmirror (Greatest Hits 1991–2003)",
+          "date": "2004-11-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ae4578bd-c7ff-36fc-b7f8-edd0c5979f09"
+        },
+        {
+          "name": "1993-07-16/17: Sportspaleis Ahoy, Rotterdam, Holland",
+          "date": "1993-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b08a0503-fe68-4d30-bcb2-36c0befaad51"
+        },
+        {
+          "name": "1991-10-23 MSU Auditorium, Michigan State University: East Lansing, MI",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b0d231bc-cc41-4593-9402-dd8f65111293"
+        },
+        {
+          "name": "DEEP: Vs.",
+          "date": "2023-10-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b20af258-8e2e-4fd2-98eb-1ddf20a3aab0"
+        },
+        {
+          "name": "Fight (for Your Cause)",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b404b7da-71ea-4438-afe3-f5fd596df55d"
+        },
+        {
+          "name": "1991-11-29 Aragon Ballroom, Chicago, Illinois",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b7ab2d85-076b-4eb9-8bae-c4e5c0e1052f"
+        },
+        {
+          "name": "1991-11-09 Tower Records: Rockville, MD",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bb1aaddb-e0bf-4722-b5c9-bbd4eb82fede"
+        },
+        {
+          "name": "09-01-00 Philadelphia Pennsylvania Disc 2",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c146898d-c769-4d89-a6b9-a102f0f9b048"
+        },
+        {
+          "name": "1995-03-17: Flinders Park Tennis Centre, Melbourne, Australia",
+          "date": "1995-03-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c416c0e4-0a9e-416f-8b14-b05250e6e2ec"
+        },
+        {
+          "name": "Dissident (Live in Atlanta)",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c8c5949b-f31b-464e-8391-1741121e33aa"
+        },
+        {
+          "name": "1991-11-03 Civic Center: Springfield, M",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cccefd06-389c-4b7b-a839-0062e9b601c2"
+        },
+        {
+          "name": "No Code",
+          "date": "1996-08-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ccdebc6b-dc24-3578-aac3-78c5b8d35738"
+        },
+        {
+          "name": "Ten",
+          "date": "1991-08-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cea5d18a-1924-3cda-bebc-38933834b25d"
+        },
+        {
+          "name": "1991-11-01 Memorial Auditorium, Burlington, VT",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d1d3ffd6-22e8-455e-95de-34f640503adb"
+        },
+        {
+          "name": "1995-11-04: Spartan Stadium: San Jose, CA",
+          "date": "1995-11-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d36c445d-75b7-48aa-841c-95c87eb981c3"
+        },
+        {
+          "name": "Backspacer",
+          "date": "2009-01-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d37a0c9e-aff4-42e9-b5fa-9fc4e5a2a210"
+        },
+        {
+          "name": "Spin the Black Circle: Live at Soldier Field July 11, 1995",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d63e249e-5287-3b00-a271-2af6df0cb42c"
+        },
+        {
+          "name": "Pearl Jam - Evolution Gold Box Set [US] [4CD]",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d78f54e5-11c0-4127-8cc7-617a58e58cd1"
+        },
+        {
+          "name": "1991-07-13 The Marquee, New York, NY",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d9b878f7-3e11-47c8-b2a7-7c968e222a36"
+        },
+        {
+          "name": "2009 Philadelphia Spectrum Box Set",
+          "date": "2010-05-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e0256cfa-60a9-479d-861d-637483789797"
+        },
+        {
+          "name": "1995-11-07: San Diego Sports Arena: San Diego, CA",
+          "date": "1995-11-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e2737a62-ce38-4c74-bab8-1d02d5569498"
+        },
+        {
+          "name": "1993-09-02: MTV Video Music Awards, Gibson Amphitheatre, Los Angeles, CA",
+          "date": "1993-09-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e4feb13e-8141-4af6-9143-2148790a54cb"
+        },
+        {
+          "name": "1994-04-03: Fox Theater, Atlanta, GA",
+          "date": "1994-04-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e6493cc3-1a35-43ef-9aa3-2994057bd01b"
+        },
+        {
+          "name": "Radio Starz: Pearl Jam Karaoke Anthology",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e680c55a-9029-4394-a79c-74c466c6c6da"
+        },
+        {
+          "name": "1992-06-18: Volkshaus, Zurich, Switzerland",
+          "date": "1992-06-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e8015178-ceb6-41eb-b79e-08e7bcf3f0a9"
+        },
+        {
+          "name": "Yield",
+          "date": "1998-01-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e88ee520-a5d1-40bd-84d4-649974435492"
+        },
+        {
+          "name": "DEEP: 2003",
+          "date": "2022-03-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e8aa501f-ee93-486f-ba9d-a179bc04514c"
+        },
+        {
+          "name": "1992-09-26: Andrews Amphitheater, Honolulu, Hawaii",
+          "date": "1992-09-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ea11b625-b51e-4259-b7eb-8ba987bdec1c"
+        },
+        {
+          "name": "1991-11-18 Veterans Coliseum: Columbus, OH",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/eaa206fa-430c-45a1-98da-56cff1218a82"
+        },
+        {
+          "name": "DEEP: Ten",
+          "date": "2021-08-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/efa7171d-7c07-40bc-bb2c-5fca971d5ffb"
+        },
+        {
+          "name": "Pearl Jam Twenty",
+          "date": "2011-09-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f09b288e-f3bb-4f06-b722-f981e1cd469a"
+        },
+        {
+          "name": "1996-10-01 Marine Midland Arena, Buffalo, Ny",
+          "date": "1996-10-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f19a8b99-443a-4cd9-a149-e009db02419f"
+        },
+        {
+          "name": "1991-02-08 Long Beach, CA, USA",
+          "date": "1991-02-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f7a8410e-c5b1-4561-928c-093c6226065e"
+        },
+        {
+          "name": "Soldier of Love: Songs That Shaped Us",
+          "date": "1999-06-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fe9fbcb7-e829-4939-b076-22101a14ee99"
+        },
+        {
+          "name": "1991-12-11 Trees, Dallas, TX",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/feccce94-c0b8-4d63-b2e3-d3f7c26295e0"
+        }
+      ]
     }
   },
   "checked": {
@@ -22558,6 +23195,8 @@
     "of-mice-men": "2026-10-16T14:28:20.721521+00:00",
     "opeth": "2026-10-16T14:28:24.774902+00:00",
     "overkill": "2026-10-16T18:17:31.135494+00:00",
-    "ozzy-osbourne": "2026-10-16T18:17:33.706068+00:00"
+    "ozzy-osbourne": "2026-10-16T18:17:33.706068+00:00",
+    "pain-of-salvation": "2026-10-16T21:27:37.841016+00:00",
+    "pearl-jam": "2026-10-16T21:27:41.987166+00:00"
   }
 }
