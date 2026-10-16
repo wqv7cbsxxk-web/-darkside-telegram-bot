@@ -619,49 +619,17 @@
     "680c6780b2d1580c3b2fc180cb05ebab8bbaaacb",
     "2fcbcc5bf5c730984013a417f55a0cb3bdac0489",
     "db384f4294c8f6a5e7d957e6904d49f6ff5dee62",
-    "30ff3aa60223a2440894c56560695ae9a01e0368"
+    "30ff3aa60223a2440894c56560695ae9a01e0368",
+    "0bb82117eeb1eefbb71479efeb56ab9c3075f3e7",
+    "0e7b6ac0d4efd32b01a05f9036b67c99208735ce",
+    "d4e2d96a14cfdba27e15a18fbad14d8f88f05064",
+    "349311d6335300f1d26e473b005e30c08d77aa09",
+    "0af83cfd466f1198a4784b4f3966a6f113bc31f0",
+    "5c70548431fe78af7ea22037ebcc91f883ede81d",
+    "eeb0d78a9804f816089dcd3209dc14f7cbe7ce13",
+    "97a6034532e807eb934a02d03c2d416062c47901"
   ],
   "recent_titles": [
-    {
-      "title": "Вокалист HATEBREED обещает меньшую паузу между альбомами",
-      "source": "Darkside",
-      "ts": 1791884802
-    },
-    {
-      "title": "Как же будет правильно: THE SWEET или SWEET?",
-      "source": "Darkside",
-      "ts": 1791884804
-    },
-    {
-      "title": "THE VIOLENT HOUR выпустят альбом зимой",
-      "source": "Darkside",
-      "ts": 1791884805
-    },
-    {
-      "title": "Вокалист DEEP PURPLE: «Однажды я спросил свою подругу, которая приехала погостить, почему ты одеваешься, чтобы пойти в бассейн?»",
-      "source": "Darkside",
-      "ts": 1791884807
-    },
-    {
-      "title": "Новое видео STRANGE COMPANY",
-      "source": "Darkside",
-      "ts": 1791884809
-    },
-    {
-      "title": "ARCH ENEMY сыграют старое",
-      "source": "Darkside",
-      "ts": 1791884810
-    },
-    {
-      "title": "Tom Morello remembers the day he got to hold Randy Rhoads' guitar – but wasn't allowed to play it",
-      "source": "Louder",
-      "ts": 1791884823
-    },
-    {
-      "title": "UNLEASHED почтили память Кроноса",
-      "source": "Darkside",
-      "ts": 1791884825
-    },
     {
       "title": "Новое видео RELIQA",
       "source": "Darkside",
@@ -1421,6 +1389,46 @@
       "title": "Survivalist’s “Four Nails” EP Due In November, “Infinity” Video Debuts",
       "source": "ThePRP",
       "ts": 1792174631
+    },
+    {
+      "title": "How Genesis ex Anthony Phillips helped build the band, lost his mojo and started to rebuild himself",
+      "source": "Louder",
+      "ts": 1792185970
+    },
+    {
+      "title": "Foo Fighters’ Dave Grohl & Pat Smear Guest On New Version Of The Pretty Reckless’ “About You”",
+      "source": "ThePRP",
+      "ts": 1792186016
+    },
+    {
+      "title": "HEALTH Debut Two New Tracks They Wrote For The Latest ‘Street Fighter’ Movie",
+      "source": "ThePRP",
+      "ts": 1792186022
+    },
+    {
+      "title": "Infant Annihilator’s New Album Set For December Release",
+      "source": "ThePRP",
+      "ts": 1792186025
+    },
+    {
+      "title": "Haywire, Integrity, God’s Hate, Etc. Booked For 2027 ‘LDB Fest’",
+      "source": "ThePRP",
+      "ts": 1792186029
+    },
+    {
+      "title": "Caspian Release “A Great Fire” Short Film",
+      "source": "ThePRP",
+      "ts": 1792186032
+    },
+    {
+      "title": "Iron Maiden’s Bruce Dickinson Performed “The Trooper” From Backstage In Ecuador Due To Smoke From Flares In The Audience",
+      "source": "ThePRP",
+      "ts": 1792186038
+    },
+    {
+      "title": "He Is Legend’s “91025” EP Has Newly Been Remastered For Its Vinyl Debut",
+      "source": "ThePRP",
+      "ts": 1792186043
     }
   ],
   "initialized_sources": [
@@ -3976,7 +3984,7 @@
       "title": "Deep Purple Vocalist Glenn Hughes Undergoes 10-Hour Open Heart Surgery, \"Thank You For Walking Beside Me\"",
       "link": "https://metalinjection.net/news/deep-purple-vocalist-glenn-hughes-undergoes-10-hour-open-heart-surgery-thank-you-for-walking-beside-me",
       "rss_body": "This follows news of his retirement from live shows two months ago.",
-      "tags": "Latest News deep purple glenn hughes featured2",
+      "tags": "Latest News deep purple glenn hughes featured",
       "category": "Хард-рок",
       "published": "2026-10-15T14:27:45+00:00",
       "id": "b8813643295210f92ea2a5445221cc8716d1da1a",
@@ -4440,7 +4448,8 @@
       "published": "2026-10-16T14:11:19+00:00",
       "id": "39ca1bfefff2679561a7ec0a5cbc02a3098b7f69",
       "duplicate_ids": [
-        "cf9bb6fd0f2608e6afa74831f3220c08ba2c8a12"
+        "73ecf77997afc50510be4de8d18c56581c68c2f2",
+        "1281d9679035a6042490add57117ba0078a761ea"
       ],
       "retry_after": 0
     },
@@ -4562,6 +4571,42 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:01:00+00:00",
       "id": "d7b8960b8d00070c3aecde1930d20f004b0008d6",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Zebra Celebrates First New Album in 23 Years With Tour Dates",
+      "link": "https://ultimateclassicrock.com/zebra-new-album-tour-dates-2026/",
+      "rss_body": "Randy Jackson tells UCR about their newest work, including the first single, which he wrote with Paul Stanley.",
+      "tags": "Exclusive Interviews New Albums News UCR Ultimate Classic Rock Radio Zebra",
+      "category": "Хард-рок",
+      "published": "2026-10-16T20:17:21+00:00",
+      "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
+      "retry_after": 1792186311
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Korn Releasing ‘Spice Is Peachy’ Hot Sauce to Celebrate Album 30th Anniversary",
+      "link": "https://metalinjection.net/news/korn-releasing-spice-is-peachy-hot-sauce-to-celebrate-album-30th-anniversary",
+      "rss_body": "Plus a limited-edition merch capsule to celebrate the record is coming.",
+      "tags": "Latest News korn",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T18:18:22+00:00",
+      "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Umbilicus (Cannibal Corpse, Deicide, Etc.) Debut “Prelude: Eternity”",
+      "link": "https://www.theprp.com/2026/10/16/news/umbilicus-cannibal-corpse-deicide-etc-debut-prelude-eternity/",
+      "rss_body": "Their second EP \"Ambiguous\" is due next month.",
+      "tags": "News Cannibal Corpse Deicide Paul Mazurkiewicz Umbilicus",
+      "category": "Экстремальный метал",
+      "published": "2026-10-16T18:17:48+00:00",
+      "id": "a177411c257829807fefc5eb6f12df1cca0c4e8a",
       "retry_after": 0
     }
   ]
