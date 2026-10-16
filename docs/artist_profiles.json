@@ -3603,7 +3603,7 @@
       "website": "https://www.behemoth.pl",
       "reference_url": "https://en.wikipedia.org/wiki/Behemoth_%28band%29",
       "reference_checked_at": "2026-10-15T10:25:00.370797+00:00",
-      "tour_attempted_at": "2026-10-05T01:20:22.298712+00:00",
+      "tour_attempted_at": "2026-10-16T05:13:33.621427+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T10:25:00.370815+00:00"
     },
@@ -3633,7 +3633,7 @@
       "website": "http://deicideofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deicide_%28band%29",
       "reference_checked_at": "2026-10-15T10:25:00.544394+00:00",
-      "tour_attempted_at": "2026-10-05T01:20:23.082380+00:00",
+      "tour_attempted_at": "2026-10-16T05:13:34.245003+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T10:25:00.544414+00:00"
     },
@@ -3659,7 +3659,7 @@
       "website": "http://dismember.se",
       "reference_url": "https://en.wikipedia.org/wiki/Dismember_%28band%29",
       "reference_checked_at": "2026-10-15T15:21:32.309347+00:00",
-      "tour_attempted_at": "2026-10-05T01:20:23.925142+00:00",
+      "tour_attempted_at": "2026-10-16T05:13:35.414580+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T15:21:32.309425+00:00"
     },
@@ -3689,7 +3689,7 @@
       "website": "http://destruction.de",
       "reference_url": "https://en.wikipedia.org/wiki/Destruction_%28band%29",
       "reference_checked_at": "2026-10-15T15:21:32.394272+00:00",
-      "tour_attempted_at": "2026-10-05T01:20:25.113120+00:00",
+      "tour_attempted_at": "2026-10-16T05:13:36.979560+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T15:21:32.394365+00:00"
     },
@@ -4437,8 +4437,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://sodomized.info",
       "reference_url": "https://en.wikipedia.org/wiki/Sodom_%28band%29",
-      "reference_checked_at": "2026-10-02T02:31:13.738310+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:13.738332+00:00",
+      "reference_checked_at": "2026-10-16T05:13:32.110063+00:00",
+      "reference_attempted_at": "2026-10-16T05:13:32.110155+00:00",
       "tour_attempted_at": "2026-10-06T09:10:07.423842+00:00"
     },
     "suffocation": {
@@ -4471,8 +4471,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://suffocationofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Suffocation_%28band%29",
-      "reference_checked_at": "2026-10-02T02:31:13.866672+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:13.866696+00:00",
+      "reference_checked_at": "2026-10-16T05:13:32.504478+00:00",
+      "reference_attempted_at": "2026-10-16T05:13:32.504572+00:00",
       "tour_attempted_at": "2026-10-06T09:10:07.950187+00:00"
     },
     "tesla": {
@@ -4505,8 +4505,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://teslatheband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Tesla_%28band%29",
-      "reference_checked_at": "2026-10-02T02:31:13.977074+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:13.977098+00:00",
+      "reference_checked_at": "2026-10-16T05:13:32.617581+00:00",
+      "reference_attempted_at": "2026-10-16T05:13:32.617602+00:00",
       "tour_attempted_at": "2026-10-06T09:10:08.564027+00:00"
     },
     "testament": {
@@ -4539,8 +4539,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.testamentlegions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Testament_%28band%29",
-      "reference_checked_at": "2026-10-02T02:31:14.223909+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:14.224029+00:00",
+      "reference_checked_at": "2026-10-16T05:13:32.924034+00:00",
+      "reference_attempted_at": "2026-10-16T05:13:32.924205+00:00",
       "tour_attempted_at": "2026-10-06T15:58:57.703248+00:00"
     },
     "uriah-heep": {
@@ -4573,16 +4573,60 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://uriah-heep.com",
       "reference_url": "https://en.wikipedia.org/wiki/Uriah_Heep_%28band%29",
-      "reference_checked_at": "2026-10-02T02:31:14.325327+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:14.325350+00:00",
+      "reference_checked_at": "2026-10-16T05:13:33.092628+00:00",
+      "reference_attempted_at": "2026-10-16T05:13:33.092650+00:00",
       "tour_attempted_at": "2026-10-06T15:58:57.909424+00:00"
     },
     "venom": {
       "origin": "Newcastle upon Tyne , England",
       "genres": "Heavy metal speed metal thrash metal first-wave black metal",
-      "years_active": "1978–1992 1995–2002 2005–present",
+      "years_active": "1978–1992 1995–2002 2004–2026",
       "instruments": "",
       "members": [
+        {
+          "name": "Jeffrey \"Mantas\" Dunn",
+          "role": ""
+        },
+        {
+          "name": "Conrad \"Cronos\" Lant",
+          "role": ""
+        },
+        {
+          "name": "Anthony \"Abaddon\" Bray",
+          "role": ""
+        },
+        {
+          "name": "Clive \"Jesus Christ\" Archer",
+          "role": ""
+        },
+        {
+          "name": "Mike \"Mykvs\" Hickey",
+          "role": ""
+        },
+        {
+          "name": "Jim Clare",
+          "role": ""
+        },
+        {
+          "name": "Tony \"Demolition Man\" Dolan",
+          "role": ""
+        },
+        {
+          "name": "Al Barnes",
+          "role": ""
+        },
+        {
+          "name": "Trevor \"V.X.S\" Sewell",
+          "role": ""
+        },
+        {
+          "name": "Steve \"War Maniac\" White",
+          "role": ""
+        },
+        {
+          "name": "Anthony \"Antton\" Lant",
+          "role": ""
+        },
         {
           "name": "Stuart \"Rage\" Dixon",
           "role": ""
@@ -4592,11 +4636,11 @@
           "role": ""
         }
       ],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://venomslegions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Venom_%28band%29",
-      "reference_checked_at": "2026-10-02T02:31:14.400610+00:00",
-      "reference_attempted_at": "2026-10-02T02:31:14.400632+00:00",
+      "reference_checked_at": "2026-10-16T05:13:33.255534+00:00",
+      "reference_attempted_at": "2026-10-16T05:13:33.255554+00:00",
       "tour_attempted_at": "2026-10-06T15:58:58.899606+00:00"
     },
     "w-a-s-p": {

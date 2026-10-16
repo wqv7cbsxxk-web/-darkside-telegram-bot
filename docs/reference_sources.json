@@ -20099,6 +20099,1251 @@
           "source_url": "https://musicbrainz.org/release-group/f8f55e35-77b5-4644-aac3-5d019981dcfe"
         }
       ]
+    },
+    "motorhead": {
+      "name": "Motörhead",
+      "musicbrainz_url": "https://musicbrainz.org/artist/57961a97-3796-4bf7-9f02-a985a8979ae9",
+      "reference_checked_at": "2026-10-16T05:13:50.234068+00:00",
+      "genres": "hard rock, heavy metal, metal, nwobhm, rock, speed metal",
+      "bandcamp_url": "https://cleopatrarecordsmotrhead.bandcamp.com/",
+      "website": "https://www.pirate-punk.net/groupe-musique-punk/?band=Motorhead",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/57961a97-3796-4bf7-9f02-a985a8979ae9",
+      "albums": [
+        {
+          "name": "Kiss of Death",
+          "date": "2006-08-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/010d9327-c443-303d-8817-9df08ea4180a"
+        },
+        {
+          "name": "Ace of Spades",
+          "date": "1995-01-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/045a1a95-fce1-412b-8558-24330ce1fa71"
+        },
+        {
+          "name": "From the Vaults",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/04d703f5-16cf-3181-8b3d-72c0c0f21cd9"
+        },
+        {
+          "name": "Meltdown",
+          "date": "1991-05-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/06838975-254f-3cbe-bca2-fe2e360ecabf"
+        },
+        {
+          "name": "Bastards",
+          "date": "1993-10-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/06a951b2-5972-3aa1-ad4d-bb6db9e4267e"
+        },
+        {
+          "name": "Fistful of Aces: The Best of Motorhead",
+          "date": "1995-07-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0aaff4c0-3526-34b5-9850-4a1f1047b4ef"
+        },
+        {
+          "name": "Inferno",
+          "date": "2004-06-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0b4ec2a1-c8fe-4dd0-a0b1-d2926a85be15"
+        },
+        {
+          "name": "Hellraiser: Best of the Epic Years",
+          "date": "2003-03-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0c515ce3-de7d-36f7-9da1-73631f108d16"
+        },
+        {
+          "name": "Sacrifice",
+          "date": "1995-03-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/15f7b5e6-27e5-3c6d-97d1-54d9d8501ac3"
+        },
+        {
+          "name": "All the Aces",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/18c5140d-996c-4a13-bea5-fe36393e5ae9"
+        },
+        {
+          "name": "Over the Top: The Rarities",
+          "date": "2000-09-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1e6fb652-a48b-3594-8a9d-548b7008ceb9"
+        },
+        {
+          "name": "Another Perfect Day / Overkill",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/21a855bf-dcb9-46dc-ac9d-8425dbfe9117"
+        },
+        {
+          "name": "We Are Motörhead",
+          "date": "2000-05-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2518b78c-fd14-36ee-aa3b-e041de6c8a96"
+        },
+        {
+          "name": "Bite the Bullet",
+          "date": "2001-05-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/26f49dc2-85e4-376b-a2f8-bff13186695b"
+        },
+        {
+          "name": "The Best of Motörhead, Volume 2",
+          "date": "1995-01-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2e626f28-ed31-4c17-92fc-56d188c59f89"
+        },
+        {
+          "name": "The Best of Motörhead: All the Aces",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2fa8835f-6969-3ecd-be2d-b76ed094b550"
+        },
+        {
+          "name": "Motörhead / The Watcher",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/30b50eb6-9e28-403e-a43d-77454f7b0d3d"
+        },
+        {
+          "name": "Shoot You in the Back - The Early Years",
+          "date": "2002-05-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3254fbf0-f169-40f0-88f7-78d20b30199b"
+        },
+        {
+          "name": "Rock Giants",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/32963644-a1e5-41e9-a24a-68a0e007ac46"
+        },
+        {
+          "name": "The Best of",
+          "date": "2000-08-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/375e4ec6-c401-3a6d-998a-bb0e8b631b17"
+        },
+        {
+          "name": "Bad Magic",
+          "date": "2015-08-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/37d8c756-b81f-45ed-9c74-e6b28a34c285"
+        },
+        {
+          "name": "Snake Bite Love",
+          "date": "1998-03-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3ab6191b-9b94-397e-b076-710cb07ae04e"
+        },
+        {
+          "name": "Best 20",
+          "date": "1991-03-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3c98f4fd-0ab3-374f-b72e-f3f0a483064a"
+        },
+        {
+          "name": "Stone Dead Forever",
+          "date": "1997-03-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3d159bb3-f5b3-3b63-a7e8-b2f22503cde8"
+        },
+        {
+          "name": "Overnight Sensation",
+          "date": "1996-10-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3ef9a6b9-5f12-3651-b0bd-409a476ff54e"
+        },
+        {
+          "name": "Best Tracks",
+          "date": "1996-03-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4244b1be-fccd-470a-8d1a-66f3c086e090"
+        },
+        {
+          "name": "Motörhead",
+          "date": "1977-08-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/43b4c679-bb92-3479-8763-501fd5173d3d"
+        },
+        {
+          "name": "Unreleased Track",
+          "date": "1990-09-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/486f4f7b-47be-417a-b840-322bfba298ca"
+        },
+        {
+          "name": "Tear Ya Down: The Rarities",
+          "date": "2002-08-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/48d4f1fc-5096-375b-8efc-4fb0acd6ba5a"
+        },
+        {
+          "name": "Ultimate Metal",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/48ebda9d-f248-3062-a0c2-2db3fa092c9a"
+        },
+        {
+          "name": "Rock ’n’ Roll",
+          "date": "1987-09-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4d7dcbf1-51dc-391c-8312-7584d712c846"
+        },
+        {
+          "name": "The Complete Best of Motörhead",
+          "date": "2003-05-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4e5043af-f3ee-4ccb-ae56-88c0ed68784e"
+        },
+        {
+          "name": "Meltdown",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4f8b07f3-322a-4f1b-9439-4a3a252dab10"
+        },
+        {
+          "name": "Three Classic Albums",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5027a834-2e58-46f6-96af-5ff36fc235d5"
+        },
+        {
+          "name": "Ace of Spades",
+          "date": "1980-11-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/51d51de2-0312-4798-8529-bed2ae2581c6"
+        },
+        {
+          "name": "Rock Series, Vol. 2",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/545116ae-1357-4de8-9c06-868d83b53d45"
+        },
+        {
+          "name": "Live: The Best & The Rest of Volumes 1 & 2",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/56a90cf6-30c1-4599-9897-21af9a11e826"
+        },
+        {
+          "name": "Grind Ya Down",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5807154b-9a5a-3965-b0cd-0cbaa104d5ed"
+        },
+        {
+          "name": "Aftershock",
+          "date": "2013-10-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/598a6d10-4a37-4b5e-91a0-73b9327f99f9"
+        },
+        {
+          "name": "Ace of Spades",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5a72e9b3-5075-3671-9750-8f3fa6e0d2f8"
+        },
+        {
+          "name": "The Wörld Is Yours",
+          "date": "2010-12-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5c32f48a-3f52-40ed-8149-28f6f0c91e2f"
+        },
+        {
+          "name": "Dirty Love",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6055560e-6205-3f6a-9d4b-8c39f82e1f76"
+        },
+        {
+          "name": "Aces High",
+          "date": "1994-08-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/60af5625-e760-33ae-88f6-ab8468cd7b30"
+        },
+        {
+          "name": "The Great Legends of Rock",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/62a6a762-8b70-4f6c-9de4-e54af4ccd7f0"
+        },
+        {
+          "name": "The Early Years",
+          "date": "1998-07-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6339a9c3-d1c7-4e38-be80-5b2b0a1462ef"
+        },
+        {
+          "name": "The Best of",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/643724c4-aa54-4092-912a-f7c897a6e382"
+        },
+        {
+          "name": "Born to Lose, Live to Win: The Bronze Singles 1978-1983",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/64c2f3a1-c605-30f4-aab9-51fc133a95ef"
+        },
+        {
+          "name": "Another Perfect Day",
+          "date": "1983-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/66a22fb7-45d8-3703-990c-12eae56b94e5"
+        },
+        {
+          "name": "Speed Not Comfort",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/66b9897f-a1ad-48fb-9ae2-fdcf4a576d33"
+        },
+        {
+          "name": "The Singles Collection: The Bronze Years 1978–1984",
+          "date": "1998-02-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6795613c-f25e-353e-a9fb-2771eabb6d2f"
+        },
+        {
+          "name": "1916",
+          "date": "1991-01-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6875f5b4-2d2c-3bc7-b96f-1f1f60b19b60"
+        },
+        {
+          "name": "The Rock History: The Best of Motörhead",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/71afbaec-ce6b-46d2-89cc-7259fe3bb31c"
+        },
+        {
+          "name": "No Remorse",
+          "date": "1984-09-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/75eb1e6e-6192-3d30-9149-74fb95cf7ce2"
+        },
+        {
+          "name": "Motörhead",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/76d64ecf-18f8-4d5a-b773-d87d2e6b31f2"
+        },
+        {
+          "name": "Metal Classics #3: Play It Loud! The Best of Motörhead",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/77974760-95fb-4017-851d-49f73043cffb"
+        },
+        {
+          "name": "The Bronze Age: 1979–1982",
+          "date": "2002-03-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/78954606-25ad-4f69-a658-6fb56c87f946"
+        },
+        {
+          "name": "Iron Fist",
+          "date": "1982-04-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/79ef7018-37bb-3447-8224-c6bbe4f059ef"
+        },
+        {
+          "name": "Il Rock",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/803034fc-34ef-4d48-b1ee-90184ff63c77"
+        },
+        {
+          "name": "Welcome to the Bear Trap",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8048ea41-1688-3a73-8363-69d53a44af29"
+        },
+        {
+          "name": "Golden Years: The Alternate Versions",
+          "date": "1999-05-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/808d06bf-e3c9-3ec8-a204-423e4f175fb6"
+        },
+        {
+          "name": "The Best of Motörhead: Deaf Forever",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/821ae5bb-0400-3334-9ea6-a493ae2e48f5"
+        },
+        {
+          "name": "Take No Prisoners",
+          "date": "1997-05-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/95528a8a-67c0-37ef-a726-b12dc483afa3"
+        },
+        {
+          "name": "Bomber",
+          "date": "1979-10-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/973143a1-759e-3b3c-91df-322c5c86b62d"
+        },
+        {
+          "name": "2 Originals of Motörhead",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9a4d8d11-873e-4cb7-ab3b-9c4d987a136e"
+        },
+        {
+          "name": "Archive",
+          "date": "1997-12-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9f586370-4c32-3bb8-994c-92e77213eb62"
+        },
+        {
+          "name": "Orgasmatron / Rock 'n' Roll",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a11a8b34-6c96-44d7-b7e1-05214b01ff62"
+        },
+        {
+          "name": "Born to Lose",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a3e2db93-ea11-480f-ac67-f05d33443a12"
+        },
+        {
+          "name": "Singles Collection",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a4741951-3470-4d81-a3bf-032611d82d88"
+        },
+        {
+          "name": "Live and Studio",
+          "date": "1984",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ad1bd636-674e-4d9c-b148-1fae1e52b1e7"
+        },
+        {
+          "name": "Fast, Loose & Live!",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/afee4a22-5d6f-34db-9cbe-bb40e04e64fe"
+        },
+        {
+          "name": "Best",
+          "date": "1997-03-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b535211f-9c19-4603-b4e4-3b42c232b7de"
+        },
+        {
+          "name": "Orgasmatron",
+          "date": "1986-08-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b864ee7c-5664-3fa0-a04d-9056d89efaa4"
+        },
+        {
+          "name": "14 Rock Hard Hits",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ba03f0bd-6b8d-4768-aed3-4bccea9e3f47"
+        },
+        {
+          "name": "Bomber / Ace of Spades",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bdd6150f-34e7-46d5-ad9c-93ce62b43dbc"
+        },
+        {
+          "name": "The Chase Is Better Than the Catch: The Singles A's & B's",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c3dc2eb8-9aeb-390c-bcf4-6be71996cd6b"
+        },
+        {
+          "name": "Overkill",
+          "date": "1979-03-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c99d9663-dd14-3ba2-9d8c-10c8f8fa569b"
+        },
+        {
+          "name": "No Class!",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cc0183b6-2874-4364-bde2-193c433bb5f8"
+        },
+        {
+          "name": "Today",
+          "date": "1998-04-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cd7cdb11-1675-4e3c-a721-78b72c7bb1a6"
+        },
+        {
+          "name": "March ör Die",
+          "date": "1992-08-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cdee9c99-3592-30ec-8232-056a352d8333"
+        },
+        {
+          "name": "The Collection",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ce90f545-4899-33dd-a0f8-946ff017927f"
+        },
+        {
+          "name": "Anthology, Volume 1",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d00f1d85-901a-46f4-8406-83784837e557"
+        },
+        {
+          "name": "Anthology",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d04769a3-a7cc-48db-a598-e73365b347f3"
+        },
+        {
+          "name": "Protect the Innocent",
+          "date": "1997-08-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d304b82f-5e97-3b02-96d3-65c275b19a9a"
+        },
+        {
+          "name": "Motörizer",
+          "date": "2008-08-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d38d0293-2f12-3992-81a5-428fa50aaf2b"
+        },
+        {
+          "name": "Hammered",
+          "date": "2002-04-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d40aca8d-8edc-3ed6-9038-e061501b923d"
+        },
+        {
+          "name": "Beer Drinkers",
+          "date": "1982",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d66d12da-56a4-4b20-b95e-546b64b1a3c1"
+        },
+        {
+          "name": "Motörhead",
+          "date": "2000-10-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d6fc0311-a958-304e-877a-50940226043b"
+        },
+        {
+          "name": "Motörhead vs Girlschool",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/db9abab9-c701-4ffa-b64b-533eb2b6d8b7"
+        },
+        {
+          "name": "Aces",
+          "date": "2002-09-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dc439bdb-94d9-31e7-831b-6baf1a58fa8a"
+        },
+        {
+          "name": "On Parole",
+          "date": "1979-12-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dced67d7-83f2-31ff-8fab-c007ed47dd26"
+        },
+        {
+          "name": "The History of Rock, Volume Thirty Seven",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/df2eddeb-f025-421e-b29c-efc83defa20d"
+        },
+        {
+          "name": "The Best of Motörhead",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e0d006a1-5ad6-4401-8d62-b7100332ffc6"
+        },
+        {
+          "name": "The Very Best Of... Motörhead",
+          "date": "2002-05-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e4d5bae4-0077-3e27-a978-d5745472218d"
+        },
+        {
+          "name": "Castle Masters Collection",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e84efb7d-1513-427c-ac4a-f0b5b4f405a2"
+        },
+        {
+          "name": "The Best, The Rest, The Rare",
+          "date": "1997-03-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e9e9cda0-eaf7-495b-86b2-0d705b4f0bad"
+        },
+        {
+          "name": "Motör-X'mas",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ebe2cac2-323b-4334-8b9d-496c0c69142c"
+        },
+        {
+          "name": "Spotlight",
+          "date": "1992-12-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ed73d1dd-bcd8-4ea6-8f4e-ad7d464c076c"
+        },
+        {
+          "name": "Headbangers",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f8b3a67b-4d6e-3b4b-86f0-5d72f6bebae8"
+        },
+        {
+          "name": "The Best of Motörhead",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fcc16ea4-f956-38e1-8af6-3107e97acb52"
+        },
+        {
+          "name": "Ace of Spades",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fd30c271-6c92-4198-8b20-9c7c8dc276bb"
+        }
+      ]
+    },
+    "napalm-death": {
+      "name": "Napalm Death",
+      "musicbrainz_url": "https://musicbrainz.org/artist/ce7bba8b-026b-4aa6-bddb-f98ed6d595e4",
+      "reference_checked_at": "2026-10-16T05:14:00.036503+00:00",
+      "genres": "crust punk, death metal, deathgrind, grindcore, industrial metal, metal",
+      "bandcamp_url": "https://napalmdeath.bandcamp.com/",
+      "website": "https://www.napalmdeath.org/",
+      "members": [
+        {
+          "name": "Shane Embury",
+          "role": "electric bass guitar",
+          "begin": "1987"
+        },
+        {
+          "name": "Mitch Harris",
+          "role": "electric guitar",
+          "begin": "1989"
+        },
+        {
+          "name": "Danny Herrera",
+          "role": "drums (drum set)",
+          "begin": "1991"
+        },
+        {
+          "name": "Barney Greenway",
+          "role": "lead vocals",
+          "begin": "1997"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/ce7bba8b-026b-4aa6-bddb-f98ed6d595e4",
+      "albums": [
+        {
+          "name": "Tossing Coins Into the Fountain of Fuck",
+          "date": "2026-02-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/005e0d94-e5d9-483d-ba0f-b58f86d7436d"
+        },
+        {
+          "name": "Inside the Torn Apart",
+          "date": "1997-06-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/007dde6c-5059-323e-a15d-7f25f0aa3a81"
+        },
+        {
+          "name": "Live",
+          "date": "1989",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0605b45b-557a-34a6-9c67-93c94ebefe1f"
+        },
+        {
+          "name": "Time Waits for No Slave",
+          "date": "2009-01-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/065b7776-657e-361e-a6c0-43616b1c0a95"
+        },
+        {
+          "name": "The Curse",
+          "date": "1988-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/08399f63-fb5f-402c-b6c5-c16e6f9991e2"
+        },
+        {
+          "name": "You Suffer / Dead: The Remixes",
+          "date": "2020",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/087c479b-f6e0-424c-93f2-4bc7a88dcf78"
+        },
+        {
+          "name": "The Code Is Red… Long Live the Code / Smear Campaign",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0982a888-389e-4497-82e5-a71c462fa147"
+        },
+        {
+          "name": "Utilitarian",
+          "date": "2012-02-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0abf0087-d0c6-4a47-b91c-48e287db7fd6"
+        },
+        {
+          "name": "Napalm Death / S.O.B.",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0d261711-9c75-39ad-8ca7-e115d2a1dfbc"
+        },
+        {
+          "name": "From Enslavement to Obliteration",
+          "date": "1988-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0d648645-15fa-3384-b820-ad8c47908045"
+        },
+        {
+          "name": "The Mission Creep",
+          "date": "2015-12-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0f1e7acd-d0ba-4cde-b66f-01322f649a51"
+        },
+        {
+          "name": "Smear Campaign",
+          "date": "2006-09-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/12bc0a01-a985-31c1-876b-15c8857f3850"
+        },
+        {
+          "name": "From Enslavement to Obliteration + Scum",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/14e7ad41-43fe-454c-ab18-39361f679c0f"
+        },
+        {
+          "name": "Scum Live Obliterations Bootleg",
+          "date": "2021",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/16fdae09-cdd6-42bc-b680-1a9d1b98e830"
+        },
+        {
+          "name": "Punishment in Capitals",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/179cfdf0-6723-3352-acf4-6b4c30c02ee5"
+        },
+        {
+          "name": "Enemy of the Music Business + Leaders Not Followers",
+          "date": "2013-02-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/19821e95-458f-48fb-9d0f-b09258733396"
+        },
+        {
+          "name": "Demos 1985–1986",
+          "date": "2019",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/21267c68-2d24-4cdd-9714-697680416409"
+        },
+        {
+          "name": "Leaders Not Followers",
+          "date": "1999-10-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22364d11-0e7c-3241-bd38-85a21cb25ca9"
+        },
+        {
+          "name": "Rip the God",
+          "date": "2026-03-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/242b6b56-da0d-4b19-a5fb-1eda51330092"
+        },
+        {
+          "name": "Analysis Paralysis",
+          "date": "2012-01-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/25fb7078-18d8-45c7-80ea-04b997a15124"
+        },
+        {
+          "name": "The Peel Sessions",
+          "date": "1988-09-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/287e44b0-6bbe-457b-ab74-22a4a744b15f"
+        },
+        {
+          "name": "Scum",
+          "date": "1987",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/28fde873-9dcd-35f7-9521-8d446ee2753b"
+        },
+        {
+          "name": "STONE PILLARS",
+          "date": "2024-02-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2a3963cb-ad92-4ad3-8135-7cf38f240033"
+        },
+        {
+          "name": "Time Waits for No Slave",
+          "date": "2009",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2b256e7b-53f4-44b3-9ced-331e6f959426"
+        },
+        {
+          "name": "EP’s Collections",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2edd21c9-598b-4704-91ee-1a13650e9d89"
+        },
+        {
+          "name": "Leaders Not Followers: Part 2",
+          "date": "2004-07-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/30a2d147-f1c3-38b1-be7b-c0d52a286cc0"
+        },
+        {
+          "name": "Live in Tokyo",
+          "date": "2012",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3125c617-83ad-4da5-b559-6e0a71c09e43"
+        },
+        {
+          "name": "The Peel Sessions",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/31d519cc-c2a0-3d46-b6e6-0ef6156ce247"
+        },
+        {
+          "name": "Narcissus",
+          "date": "2021-12-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/376d460b-34e6-47e1-882b-aaa8bffa5e14"
+        },
+        {
+          "name": "Napalm Death / Insect Warfare",
+          "date": "2013-04-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/38f81405-7f39-490d-ab3a-4d5c4dc112a0"
+        },
+        {
+          "name": "The Peel Sessions",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3acdeb5e-bd2a-38b9-9d83-4f9cb314ee03"
+        },
+        {
+          "name": "Greed Killing",
+          "date": "1995-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3c5b0e70-a09e-37c8-963c-1bd63c5d4d2d"
+        },
+        {
+          "name": "Utopia Banished",
+          "date": "1992-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/404d101f-82ca-385f-93c9-4a7391ea5a83"
+        },
+        {
+          "name": "Limited Edition Collectors Box Set",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4200c7c0-9076-46f9-8a07-eb87db6c220e"
+        },
+        {
+          "name": "Words From the Exit Wound",
+          "date": "1998-10-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/46672e32-d8db-3b1b-81b6-2985ff31bbe2"
+        },
+        {
+          "name": "Napalm Death",
+          "date": "2012-12-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4a4f2a8e-d7fa-420c-9373-32b4d9e6b6aa"
+        },
+        {
+          "name": "The Crucifixion of Possessions",
+          "date": "2023-05-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4b9c6faf-852d-4298-b1ea-1bc56438c029"
+        },
+        {
+          "name": "Napalm Death / Melt‐Banana",
+          "date": "2016-11-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/511f7cb2-b9f5-42bd-85bc-e7ef6ea22912"
+        },
+        {
+          "name": "Live in Japan (Grind Kaijyu Attack!)",
+          "date": "2009-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/52531bb4-50c5-4cda-a7c6-aa5e69be2920"
+        },
+        {
+          "name": "Mentally Murdered",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/53601e02-cee2-3ec5-8d79-d6992eff8638"
+        },
+        {
+          "name": "You Suffer (Ralph Brown remix)",
+          "date": "2012-04-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5e7c0a01-cafe-4581-8603-7dcaae550d7a"
+        },
+        {
+          "name": "Forever Mountain / Phonetics for the Stupefied",
+          "date": "2015-11-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/608efbd4-816e-4049-8c69-3eda1c7972f2"
+        },
+        {
+          "name": "Hung",
+          "date": "1994-08-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/60efa941-ffee-4cb5-8f8a-dc1ed5dede13"
+        },
+        {
+          "name": "Multinational Hcorporations",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/65dd6e6d-57df-483b-9f71-d1a733c3776a"
+        },
+        {
+          "name": "Ultra Thrash Noise Cranium Meltdown 1″ Split E.P.",
+          "date": "2020",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a065c56-2285-4c09-8a98-150fe4a10bea"
+        },
+        {
+          "name": "Throes of Joy in the Jaws of Defeatism",
+          "date": "2020-09-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6b8d5503-dcad-4a7b-aa9a-c17142063eab"
+        },
+        {
+          "name": "Apex Predator – Easy Meat",
+          "date": "2015-01-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6d5e5ad9-d356-43e3-9b3d-360a35273232"
+        },
+        {
+          "name": "A Bellyful of Salt and Spleen",
+          "date": "2020-09-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7645177d-53bb-4fc4-9f32-26f00d8ffcbe"
+        },
+        {
+          "name": "Coded Smears and More Uncommon Slurs",
+          "date": "2018-03-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/779f152d-c0c3-4af3-865e-c1f7a7fbb718"
+        },
+        {
+          "name": "Converge / Napalm Death",
+          "date": "2012-08-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/77b6b7c7-4c57-4499-bc00-cec0c357823a"
+        },
+        {
+          "name": "Harmony Corruption",
+          "date": "1990-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/804686ff-d9b9-3791-a49c-f446f468f482"
+        },
+        {
+          "name": "The Complete Radio One Sessions",
+          "date": "2000-03-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/80a3c4d7-94cc-3a7a-a265-413a153059d4"
+        },
+        {
+          "name": "You Suffer (S3RL remix)",
+          "date": "2019-04-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/80b0cf85-9cf8-474f-8f60-db58ed98d735"
+        },
+        {
+          "name": "Logic Ravaged by Brute Force",
+          "date": "2020-02-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81b41534-db22-4b90-b3cf-7efb871f4c59"
+        },
+        {
+          "name": "The World Keeps Turning",
+          "date": "1992-11-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8249d26c-156e-3253-810f-e1f49ccaf0f2"
+        },
+        {
+          "name": "The Code Is Red… Long Live the Code",
+          "date": "2005-04-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/84f50079-6e14-3a60-b725-e5802e656676"
+        },
+        {
+          "name": "Cursed to Tour",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8741ff17-884b-30f1-b627-f2184dd185c7"
+        },
+        {
+          "name": "From Enslavement to Obliteration",
+          "date": "1986",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8ce8c17c-afa1-347d-822f-efc0256d0018"
+        },
+        {
+          "name": "Grind Madness at the BBC: The Earache Peel Sessions",
+          "date": "2014-11-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/90d068ec-090c-4ee8-a639-e68bfab5ac72"
+        },
+        {
+          "name": "Amoral",
+          "date": "2020-08-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/91101b70-39ce-4738-942b-a161732e1714"
+        },
+        {
+          "name": "Noise for Music’s Sake",
+          "date": "2003-07-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/93abfd15-6f50-35b8-b062-ab492b18b2b2"
+        },
+        {
+          "name": "More Than Meets the Eye",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/93d618c9-e8c1-484a-b7b4-38b118d28801"
+        },
+        {
+          "name": "Death by Manipulation",
+          "date": "1992-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a321d116-2fc4-3d22-9e61-ff0c763fdcef"
+        },
+        {
+          "name": "Inside the Torn Apart / Words From the Exit Wound / Breed to Breathe",
+          "date": "2011",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a4bd6914-30e4-45b9-8e8f-fe13ca9b18c5"
+        },
+        {
+          "name": "Enemy of the Music Business",
+          "date": "2000-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a4f59d1d-9a67-3509-908f-93c01f0ca19f"
+        },
+        {
+          "name": "Suffer the Children",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a5837771-2706-3724-aac9-1d2ac904a76f"
+        },
+        {
+          "name": "Breed to Breathe",
+          "date": "1997-11-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a6297b5a-2554-32c3-aa08-7ddd6978e1b8"
+        },
+        {
+          "name": "Live Corruption",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ac299bab-5158-3fd7-b4fe-029a67729b96"
+        },
+        {
+          "name": "You Suffer / Mega Armageddon Death, Part 3",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ae467508-3af2-4464-9eea-a3fe6da74855"
+        },
+        {
+          "name": "Our Pain Is Their Power",
+          "date": "2014-04-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b0bad327-8e4d-4ad4-b121-b5299a94c701"
+        },
+        {
+          "name": "The DVD",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b3a2a7db-ccf8-465f-bce1-91a97ab338c7"
+        },
+        {
+          "name": "The World Keeps Turning EP",
+          "date": "1992-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b8658262-cd3c-33f7-8fe3-f5cea0eb95da"
+        },
+        {
+          "name": "Diatribes / Greed Killing / Bootlegged in Japan",
+          "date": "2011-02-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b8aaff1c-75ec-4587-9041-2cdc11160ecc"
+        },
+        {
+          "name": "Scum Dead Corporations",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bb5d87fe-6271-4766-a293-89daec990650"
+        },
+        {
+          "name": "Cursed to Crawl",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bba1e608-57ea-422f-a2fd-0036ceceb6bb"
+        },
+        {
+          "name": "Live",
+          "date": "1989-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/be4ab63e-34cc-44f2-b534-c05309000b9c"
+        },
+        {
+          "name": "Hatred Surge",
+          "date": "1985-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c729e157-f1a4-3080-a3c0-2daa9d63fb35"
+        },
+        {
+          "name": "In Tongues We Speak",
+          "date": "1997-01-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cc9d7460-b561-31b5-b2fc-61c96bd13bdd"
+        },
+        {
+          "name": "Leaders Not Followers: Part 2 / Darker Days Ahead",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cd47b28b-938f-455a-86e2-67ada10b62cb"
+        },
+        {
+          "name": "Diatribes",
+          "date": "1995",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cefe438d-bd2b-39d1-b18e-369e643867a9"
+        },
+        {
+          "name": "Order of the Leech",
+          "date": "2002-10-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d0488994-1f65-409f-ba37-0a9fea72fdec"
+        },
+        {
+          "name": "To Go Off and Things",
+          "date": "2014-03-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d0af8ccd-9957-4507-95bc-f5bc04b5ed5a"
+        },
+        {
+          "name": "Bootlegged in Japan",
+          "date": "1998-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d21fc61d-cb6b-3be9-a244-d853c0539fd0"
+        },
+        {
+          "name": "The Best of Napalm Death",
+          "date": "2016",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d67df774-7b12-4d5b-b7b0-dbc1c91fb4fe"
+        },
+        {
+          "name": "Earthwire",
+          "date": "2015-07-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d8d289df-6aae-43bf-a5ed-253a355247a9"
+        },
+        {
+          "name": "Fear, Emptiness, Despair",
+          "date": "1994-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dba99c2f-5a5f-382c-9971-a2278a4b67f4"
+        },
+        {
+          "name": "And, Like Sheep, We Have All Gone Astray",
+          "date": "1982-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e27c1226-8d91-4424-95ff-6fd5fa01f0aa"
+        },
+        {
+          "name": "Backlash Just Because",
+          "date": "2020-07-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e495f075-bffe-46ae-999e-015bfc4b63f2"
+        },
+        {
+          "name": "Sugar Daddy Live Split Series, 9",
+          "date": "2013-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e5775584-ff7e-4048-ae5d-9b466dabb5e6"
+        },
+        {
+          "name": "Nazi Punks Fuck Off",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e6342072-5138-3370-87d8-4f3cefd3e008"
+        },
+        {
+          "name": "Savage Imperial Death March",
+          "date": "2025-02-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e7a36dd0-a879-4cfe-9ed1-0f78c4fca565"
+        },
+        {
+          "name": "Live at Rock City",
+          "date": "2010-12-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e9d1dc18-80ac-4c5f-a7f5-e15d7518a703"
+        },
+        {
+          "name": "Scum",
+          "date": "1986-08-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ed677402-a3d0-4c1f-99c0-81eed8bfbbb5"
+        },
+        {
+          "name": "Death Metal Live",
+          "date": "2009",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f0f44f4c-30ea-4033-a25b-61e6b1a0a5d1"
+        },
+        {
+          "name": "Stunt Your Growth",
+          "date": "2018-11-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f279bf0e-5b28-4bab-9d88-9f7988157813"
+        },
+        {
+          "name": "Greed Killing / Breed to Breathe",
+          "date": "2024-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f3089aaa-9f7a-444f-b29d-ab49ffb823f0"
+        },
+        {
+          "name": "Resentment Is Always Seismic – A Final Throw of Throes",
+          "date": "2022-02-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f327a5fd-aa37-47a8-842c-6c18f1524fed"
+        },
+        {
+          "name": "Mass Appeal Madness",
+          "date": "1991-08-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f5eca15e-5e64-37f4-93e0-b3b06e271be3"
+        },
+        {
+          "name": "Tsunami Benefit",
+          "date": "2005-01-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f901bc1c-335e-3cfe-aa44-aefbe49d9a2e"
+        },
+        {
+          "name": "Inside the Torn Apart",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fdbeab7f-8c4d-4075-a058-42e4215641bc"
+        }
+      ]
     }
   },
   "checked": {
@@ -20175,6 +21420,8 @@
     "meshuggah": "2026-10-15T22:31:31.682655+00:00",
     "metallica": "2026-10-15T22:31:35.909537+00:00",
     "morbid-angel": "2026-10-16T00:42:50.829202+00:00",
-    "motley-crue": "2026-10-16T00:42:52.107118+00:00"
+    "motley-crue": "2026-10-16T00:42:52.107118+00:00",
+    "motorhead": "2026-10-16T05:13:50.234269+00:00",
+    "napalm-death": "2026-10-16T05:14:00.037552+00:00"
   }
 }
