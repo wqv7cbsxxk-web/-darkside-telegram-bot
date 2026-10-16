@@ -591,49 +591,19 @@
     "6097ede003d455d66a5ee217c3eb29003999116b",
     "0e71c4cd3d4b7e67c504f800ac1ad3e064938d76",
     "d4eb9d5715058b41aa1ea74d7a31b0e69ac40479",
-    "7be2527636b6b07302900251a4d35e1b19929196"
+    "7be2527636b6b07302900251a4d35e1b19929196",
+    "3bcee1d26977f2d0b43feb6f54dd1c6020cd4d50",
+    "90b981b2b35fe2bfb89a4169974825f971b3ea3b",
+    "516698ecbc3bb9e3c45f04326720addbe0106d15",
+    "e7e81c6134b9c858e0eb0f1715f313f1c1c47351",
+    "e2e9f9294b13f4510e33848c1cafe84cd388e99a",
+    "6a1b8c76fe4d88e87f7eb492969bd92853243090",
+    "567a3d66a754ec207f0a801038b9d19e34d83539",
+    "08d31e17aff024dfd1503a8b04e74ecaa324c057",
+    "93cae0fde6945a3458d1d17d6b5158e7dcc4368d",
+    "41bcd97e94e4792f1a249b2784a47ebf8135fdad"
   ],
   "recent_titles": [
-    {
-      "title": "James Hetfield explains why you won't get any political statements at a Metallica show",
-      "source": "Louder",
-      "ts": 1791809106
-    },
-    {
-      "title": "Yes icon Jon Anderson was close to death in 2008. Naturally, he made an album about it",
-      "source": "Louder",
-      "ts": 1791809144
-    },
-    {
-      "title": "Incredible long-lost Black Sabbath live session from 1970 surfaces",
-      "source": "Louder",
-      "ts": 1791809166
-    },
-    {
-      "title": "ALICE COOPER: «Если я находил за кулисами швабру, она могла стать девушкой»",
-      "source": "Darkside",
-      "ts": 1791809168
-    },
-    {
-      "title": "Ex-VCTMS Touring Bassist Davion Cutler Shares His Own Allegations Of Suffering Abuse From Meredith Henderson",
-      "source": "ThePRP",
-      "ts": 1791809204
-    },
-    {
-      "title": "FLOOR JANSEN: «Я хотела записать тяжелый и совершенно непохожий на NIGHTWISH альбом»",
-      "source": "Darkside",
-      "ts": 1791809206
-    },
-    {
-      "title": "If Kansas’ Kerry Livgren had written Carry On Wayward Son one day later, it might never have been made",
-      "source": "Louder",
-      "ts": 1791809300
-    },
-    {
-      "title": "Metallica Had Another New Setlist Addition For Their Fourth Show At The Sphere",
-      "source": "ThePRP",
-      "ts": 1791809328
-    },
     {
       "title": "Black Map Have Called It Quits",
       "source": "ThePRP",
@@ -1393,6 +1363,46 @@
       "title": "APOCALYPTICA в новом видео TARJA",
       "source": "Darkside",
       "ts": 1792127601
+    },
+    {
+      "title": "MARTY FRIEDMAN работает над новой музыкой",
+      "source": "Darkside",
+      "ts": 1792144189
+    },
+    {
+      "title": "Концертное видео MEGADETH",
+      "source": "Darkside",
+      "ts": 1792144191
+    },
+    {
+      "title": "Новая композиция UNHEILIG",
+      "source": "Darkside",
+      "ts": 1792144193
+    },
+    {
+      "title": "MARTY MUSIC впервые слышит хит RAMMSTEIN",
+      "source": "Darkside",
+      "ts": 1792144195
+    },
+    {
+      "title": "Chris Harms в новом видео CATALYST CRIME",
+      "source": "Darkside",
+      "ts": 1792144196
+    },
+    {
+      "title": "Trivium's Matt Heafy explains why he almost quit the band last year",
+      "source": "Louder",
+      "ts": 1792144209
+    },
+    {
+      "title": "Get a limited edition Pallas t-shirt and signed lyric sheet with our great new bundle",
+      "source": "Louder",
+      "ts": 1792144219
+    },
+    {
+      "title": "Новое видео SETY&#216;URSAILS",
+      "source": "Darkside",
+      "ts": 1792144221
     }
   ],
   "initialized_sources": [
@@ -4169,6 +4179,90 @@
       "published": "2026-10-16T02:29:27+00:00",
       "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
       "retry_after": 1792127805
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Breakdown Of Sanity Premiere “One-Way Mirror” Music Video",
+      "link": "https://www.theprp.com/2026/10/15/news/breakdown-of-sanity-premiere-one-way-mirror-music-video/",
+      "rss_body": "The latest from their upcoming first album in a decade, \"Reveries\".",
+      "tags": "News Breakdown Of Sanity",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T06:19:36+00:00",
+      "id": "c9a8f2d63ed58f56da7cf6d42e483b127157bc0c",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Carnifex Premiere “Licking Love From A Knife” Music Video",
+      "link": "https://www.theprp.com/2026/10/15/news/carnifex-premiere-licking-love-from-a-knife-music-video/",
+      "rss_body": "Part of their forthcoming album, \"More Than Misery\".",
+      "tags": "News Carnifex",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T06:13:08+00:00",
+      "id": "a3c69506c088fc4135d07d057c48d00dc1329566",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Hear Mike Patton (Faith No More, Etc.) Guest On Three New Tracks From The Avalanches",
+      "link": "https://www.theprp.com/2026/10/15/news/hear-mike-patton-faith-no-more-etc-guest-on-three-new-tracks-from-the-avalanches/",
+      "rss_body": "One of which features actor Haley Joel Osment.",
+      "tags": "News Faith No More Mike Patton Mr. Bungle",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T06:06:52+00:00",
+      "id": "e09a85016a54967c90ea785d8bdb2ce8e82bd691",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Steven Wilson bids you welcome to the village on the cover of the new issue of Prog, on sale now!",
+      "link": "https://www.loudersound.com/music-industry/magazines/steven-wilson-bids-you-welcome-to-the-village-on-the-cover-of-the-new-issue-of-prog-on-sale-now",
+      "rss_body": "Steven WIlson\n\nis on the cover of the new issue of\n\nProg\n\n, which is on sale now!\n\nSteven's ninth studio album,\n\nRequiem For A Village\n\n, is about to be released. It's another fascinating album of depth, quality and intelligence that draws you into its insular and eerie world and refuses to let go. If someone were to make a modern-day, adult folk-horror version of the classic 70s kids’ TV show\n\nChildren Of The Stones\n\n, this would be the soundtrack.\n\nAs well as that,\n\nPeter Hammill\n\ntells us all about his first solo album of new material for a decade;\n\nKing Crimson\n\nco-founder and drummer Michael Giles looks back on more than 50 years of inquisitive music-making; surviving Moody Blue\n\nJustin Hayward\n\ntells us how excited he is about his UK tour and Scottish proggers\n\nPallas\n\ndeliver a powerful swansong for singer\n\nAlan Reed\n\n.\n\nPlus\n\nArthur Brown\n\n,\n\nEivor\n\n,\n\nThe Pineapple Thief\n\n,\n\nThe Tangent\n\n,\n\nPure Reason Revolution\n\n,\n\nLesoir\n\n,\n\nEdison's Children\n\n, Chelsea Wolfe and John Greenwood tell us all about their latest releases. All this plus\n\nRush\n\nreviewed live in their hometown of Toronto, a Steven Wilson art card and a great sampler from Ripcord Records!\n\nAlso in\n\nProg\n\n174\n\n...\n\nPeter Hammill -\n\nthe Prog Proms performer and VdGG frontman on his first solo album of new material for a decade.\n\nPallas -\n\nthe Scottish proggers discuss the majestic\n\nA Song For Tomorrow,\n\nand singer Alan Reed’s forthcoming solo album\n\nEivør -\n\nthe Faroese singer remains as uncategorisable as ever with\n\nTungl\n\n.\n\nJustin Hayward -\n\non his current tour dates and being the sole survivor of The Moody Blues.\n\nThe Pineapple Thief -\n\nthe quartet discuss stripping things back and staying true to prog on\n\nFar And Wide\n\n.\n\nThe Tangent -\n\nAndy Tillison unveils a real magnum opus in the elegant\n\nWas: A Nostalgia\n\n.\n\nPure Reason Revolution -\n\nJon Courtney and the gang are back to explain why angels are terrifying!\n\nArthur Brown -\n\nthe prog legend mulls over what we’re doing to the planet and more.\n\nLesoir -\n\nthe Dutch art-rock collective ponder Gaia theory on their latest album,\n\nTomorrow Is Now Today\n\n.\n\nEdison's Children -\n\nMarillion’s Pete Trewavas and pals return with more tales from outer space.\n\nChelsea Wolfe -\n\nthe enigmatic Chelsea Wolfe talks sobriety and her spellbinding new album,\n\nThe Dark.\n\nMichael Giles -\n\nthe King Crimson co-founder looks back on more than 50 years of inquisitive music-making.\n\nJohn Greenwood -\n\nthe Unitopia guitarist on a prog world full of Genesis, Floyd, Hackett and Celine Dion!\n\nPlus reviews of new releases and reissues by\n\nRick Wakeman\n\n,\n\nGenesis\n\n,\n\nAsia\n\n,\n\nThe Pineapple Thief\n\n,\n\nKing Crimson\n\n,\n\nThe Flower Kings\n\n,\n\nPallas\n\n,\n\nIona\n\n,\n\nEnslaved\n\n,\n\nLesoir\n\n,\n\nThe Tangent\n\n,\n\nNektar\n\n,\n\nAlso Eden\n\n,\n\nPhil Collins\n\n,\n\nEivør\n\n,\n\nStrawbs\n\nand loads more.\n\nThis month we saw\n\nRush\n\nin Toronto, went to\n\nArcTanGent\n\nand\n\nA Sunday In September\n\n, and saw gigs by\n\nIamthemorning\n\n,\n\nThe Anchoress\n\nand more.\n\nBuying\n\nProg\n\nMagazine made easy...\n\n*\n\nYou can use our store finder to find your nearest stockist\n\n. Go to\n\nProg\n\non the alphabetical pull-down menu and enter your postcode.\n\n* The easiest option for everyone would be to\n\ngo digital\n\n. You can get single digital issues from the\n\nApple Store\n\n, from\n\nZinio\n\nand all manner of digital magazine retailers.\n\n* Subscribe to\n\nProg\n\n. We are now accepting subscriptions from the rest of the world.\n\nSubscriptions available here\n\n.\n\n* In North America,\n\nProg\n\nis available is branches of Barnes & Noble and Books-A-Million, although new issues do not go on sale until a couple of weeks after they're published in The UK.\n\n* Single print issues of\n\nProg\n\ncan be purchased online from\n\nMagazines Direct\n\nand also\n\nBurning Shed\n\n.\n\nClick on the corresponding cover on the\n\nsingle issue page\n\nat Magazines Direct for payment options.",
+      "tags": "Magazines Music Industry",
+      "category": "Прогрессив",
+      "published": "2026-10-16T06:00:00+00:00",
+      "id": "ae8f26cc0f40051b60749f7ba83b2d9c2d50cf91",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "The Smashing Pumpkins Debut “Black Stars”, Their First New Track With Butch Vig In 32 Years",
+      "link": "https://www.theprp.com/2026/10/15/news/the-smashing-pumpkins-debut-black-stars-their-first-new-track-with-butch-vig-in-32-years/",
+      "rss_body": "Part of the soundtrack for 'The Hunger Games: Sunrise On The Reaping'.",
+      "tags": "News Butch Vig The Smashing Pumpkins",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T05:54:11+00:00",
+      "id": "63af9aef8ab8b1a41ffd341a00c724e58ce267c4",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Кавер-версия LED ZEPPELIN от VIRGIN STEELE",
+      "link": "http://www.darkside.ru/news/184526/",
+      "rss_body": "VIRGIN STEELE опубликовали видео на собственное прочтение классического произведения LED ZEPPELIN WHEN THE LEVEE BREAKS\n\nЭтот бонус трек можно найти на втором диске LIFE AMONG THE RUINS и он посвящен Great Mississippi Flood 1927…Используя разные гитары, бас, ударные, вокал и клавишные примочки, трек передает шум, рев и опустошение неумолимых вод…\n\nВизуально в видео использованы кадры, снятые в течение нескольких знойных июльских дней этого года во время репетиций, студийных съемок и фотосессий, а также кадры с нескольких недавних живых концертов в США и Европе.\n\nДля получения наилучших результатов смотрите при разрешении: 1920 x 1080",
+      "tags": "",
+      "category": "Хард-рок",
+      "published": "2026-10-16T05:35:05+00:00",
+      "id": "3a3b8ed2d9af8097b459aa6fe68108d9d1710f20",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Трейлер новой игры VOIVOD",
+      "link": "http://www.darkside.ru/news/184516/",
+      "rss_body": "Независимая студия Chaosmonger Studio представила новый трейлер демоверсии игры “Voivod: The Nuclear Warrior”. Это сюжетная метроидвания (популярный поджанр компьютерных и консольных игр, который сочетает в себе элементы игрового процесса двух культовых серий: Metroid от Nintendo и Castlevania (а именно её части Symphony of the Night) от Konami) в жанре «беги и стреляй», созданная по мотивам музыки, артов и антиутопической научно-фантастической вселенной легендарной канадской метал-группы VOIVOD.\n\nИгра примет участие в Steam Next Fest, который пройдёт с 19 по 26 октября. Там каждый сможет опробовать бесплатную демоверсию с двумя разными режимами. Полноценный релиз “Voivod: The Nuclear Warrior” на PC и консолях запланирован на начало 2027 года.\n\nДействие разворачивается в постъядерном будущем, где рушится сама реальность. “Voivod: The Nuclear Warrior” соединяет стремительные перестрелки, исследование мира в духе метроидваний, атмосферное повествование и суровую рукотворную пиксель-арт-графику.\n\nИгроку предстоит управлять Voivod'ом, постоянно мутирующим воином с расколотым сознанием. Под руководством загадочного Nothingface он отправится через опустошённые земли, биомеханические кошмары и расколотые измерения, чтобы собрать обрывки утраченных воспоминаний.\n\nПо пути предстоит сражаться с чудовищными мутантами, встречать причудливых существ, открывать новое оружие и способности и сходиться в бою с грозными боссами. Мир игры вдохновлён неповторимой художественной вселенной группы.\n\nИгра создаётся в тесном сотрудничестве с VOIVOD и переносит мифологию, музыку и визуальный стиль коллектива в интерактивный формат, сочетая фирменные научно-фантастические темы с напряжённым экшеном и исследованием.\n\nДемоверсия для Steam Next Fest предлагает два разных режима, то есть два способа шагнуть во вселенную Voivod'а.\n\n“Story Path” позволяет пройти примерно первый час полной версии, начиная со вступительной сцены. Здесь больший упор сделан на сюжет, исследование и богатую фантастическую мифологию. Игрока постепенно знакомят с миром, персонажами, оружием и способностями, соблюдая естественный ход, заложенный в финальной версии.\n\n“Combat Trial” даёт более быстрый, ориентированный на экшен опыт. В нём доступен широкий выбор оружия и способностей, а игрока ждут яростные схватки с врагами и сложный босс.\n\nОба режима показывают игру с разных сторон: от странной атмосферы и разворачивающегося сюжета до безумного темпа боёв и гротескного дизайна противников.\n\nПо мере приближения к релизу в начале 2027 года Chaosmonger Studio продолжает дорабатывать боевую систему, поведение врагов и баланс, учитывая отзывы, полученные в ходе тестирования, чтобы довести игру до блеска.\n\n“Voivod: The Nuclear Warrior” сейчас разрабатывается для PC (Windows, MacOS, Linux, Steam Deck) и консолей (Nintendo Switch, PlayStation, Xbox). Мультиплатформенный релиз намечен на начало 2027 года.\n\nChaosmonger Studio — независимая творческая студия из Таллина (Эстония), основанная итальянским кинорежиссёром и разработчиком игр Николой Пиовезаном. За плечами студии больше 20 лет опыта в кино, анимации и интерактивных развлечениях. Среди её проектов игры “ENCODYA” и “Clunky Hero”.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T04:50:19+00:00",
+      "id": "62eb82d69ead2313c4d66cc465164d2a6d9ddb32",
+      "retry_after": 0
     }
   ]
 }
