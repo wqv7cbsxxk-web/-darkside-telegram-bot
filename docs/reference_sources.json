@@ -19761,6 +19761,344 @@
           "source_url": "https://musicbrainz.org/release-group/feda6c0f-8ca8-388d-bd08-a429089cdd9d"
         }
       ]
+    },
+    "morbid-angel": {
+      "name": "Morbid Angel",
+      "musicbrainz_url": "https://musicbrainz.org/artist/4355a36d-805e-478d-8589-64f0292724b2",
+      "reference_checked_at": "2026-10-16T00:42:50.829045+00:00",
+      "genres": "death metal, metal",
+      "bandcamp_url": "https://morbid-angel.bandcamp.com/",
+      "website": "http://www.morbidangel.com/",
+      "members": [
+        {
+          "name": "Trey Azagthoth",
+          "role": "guitar, keyboard, original",
+          "begin": "1983"
+        },
+        {
+          "name": "Steve Tucker",
+          "role": "bass guitar",
+          "begin": "2015"
+        },
+        {
+          "name": "Steve Tucker",
+          "role": "lead vocals",
+          "begin": "2015"
+        },
+        {
+          "name": "Scott Fuller",
+          "role": "drums (drum set)",
+          "begin": "2017"
+        },
+        {
+          "name": "Daniel Vadim Von",
+          "role": "electric guitar",
+          "begin": "2017"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/4355a36d-805e-478d-8589-64f0292724b2",
+      "albums": [
+        {
+          "name": "Evil Live",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/01833eae-8536-31e9-ade4-42ac13bd3e7e"
+        },
+        {
+          "name": "Bleed for the Devil",
+          "date": "1986-05-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/02c1249c-aa37-4533-846f-de9135b4e08b"
+        },
+        {
+          "name": "Live “FZW” 02.12.1989",
+          "date": "2022-09-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0aa9e5c1-c139-49ab-88e7-3c92b0f9814d"
+        },
+        {
+          "name": "The Best of Morbid Angel",
+          "date": "2016-09-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0fdd5b16-b02f-47f9-96f9-2795f007cf39"
+        },
+        {
+          "name": "Entangled in Chaos",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/10aa1342-a647-3688-822e-3037f32064ef"
+        },
+        {
+          "name": "Abominations of Desolation",
+          "date": "1987",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/12ae266b-174d-304b-ba94-8be58e3f408c"
+        },
+        {
+          "name": "Domination",
+          "date": "1995-05-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/16b66d60-50ee-3abf-aaac-05abb4237059"
+        },
+        {
+          "name": "Rapture",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/16d7276c-28a8-4b8e-ac76-8b204027415e"
+        },
+        {
+          "name": "Love of Lava",
+          "date": "2025",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1877db4a-4d5d-4394-8e85-95d76937f23c"
+        },
+        {
+          "name": "Total Hideous Death",
+          "date": "1986",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1e018f58-f770-46e9-b2f9-164a146a4924"
+        },
+        {
+          "name": "Gateways to Annihilation Radio Sampler",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/24de0f7f-5861-4c51-9e8e-e9ce013eb88e"
+        },
+        {
+          "name": "Volume 1",
+          "date": "2025-02-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2a9a5417-f16e-43a1-b4dd-986a411779cc"
+        },
+        {
+          "name": "Covenant",
+          "date": "1993-06-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2ba9247a-16f2-3410-b4f4-f704d133fcfb"
+        },
+        {
+          "name": "Thy Kingdom Come",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3224dba8-9775-3c81-977b-822ddd7c54b0"
+        },
+        {
+          "name": "I Am Morbid",
+          "date": "2016-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3ab03f34-491b-4737-a33e-55cba1c074b5"
+        },
+        {
+          "name": "Gateways to Annihilation",
+          "date": "2000-09-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3b1320f1-fbe9-3302-bc66-d740c5f5008d"
+        },
+        {
+          "name": "EFGH",
+          "date": "2024-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4544ce0b-7d04-4309-a9a7-3eac030febf7"
+        },
+        {
+          "name": "Suffer the Children / Morbid Angel",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4cc50d72-5b72-44e3-a263-2f94e8680b11"
+        },
+        {
+          "name": "Illud Divinum Insanus",
+          "date": "2011-06-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4e771d1b-b8cd-48d9-9f7d-fb643d4a7f9c"
+        },
+        {
+          "name": "Crush Jesus Christ Tour '91",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/50477754-ab87-42e9-a6d4-5098cad02fca"
+        },
+        {
+          "name": "Nevermore",
+          "date": "2011-05-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/537e108e-2739-4e79-9685-48e936622025"
+        },
+        {
+          "name": "The Beginning",
+          "date": "2010",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5de71bee-ef2b-3d69-93d2-55986a396dcf"
+        },
+        {
+          "name": "Scream Forth Blasphemies",
+          "date": "1986",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6268834a-968a-49f1-a374-ee660ccc9b11"
+        },
+        {
+          "name": "Juvenilia",
+          "date": "2015-04-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6d7fa0c8-8cf1-458d-950c-063a9d70bbd9"
+        },
+        {
+          "name": "Winter Sampler ’03",
+          "date": "2003",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6d8ec570-22fc-4e47-b8a3-e4483b3651bf"
+        },
+        {
+          "name": "Live Madness Over Europe 89–91",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6f6df495-068f-4778-8c5b-3360160057e6"
+        },
+        {
+          "name": "Heretic",
+          "date": "2003-09-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/706e5ae0-86ed-3856-9052-b6a165d6eb69"
+        },
+        {
+          "name": "MMXI",
+          "date": "2011-12-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7bfd554b-b08e-4f8f-828f-b2466e7ee691"
+        },
+        {
+          "name": "Volume 2",
+          "date": "2025",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8d9353b1-b1b5-48c4-a0cf-b1cd7afd9218"
+        },
+        {
+          "name": "Piles of Little Arms",
+          "date": "2017-10-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8fd28478-692f-4934-a659-940b2a44ab63"
+        },
+        {
+          "name": "Illud Divinum Insanus: The Remixes",
+          "date": "2012-02-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/90284b77-b002-4178-93d0-5d3652f30a38"
+        },
+        {
+          "name": "Ignominious",
+          "date": "2005-02-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a26df463-757f-38ba-9e69-76c72c1a8f3f"
+        },
+        {
+          "name": "Kingdoms Disdained",
+          "date": "2017-12-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a782c277-caad-4a09-afbd-312599275d32"
+        },
+        {
+          "name": "Leading the Rats",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b1df920b-fae0-3c1a-9bdd-be9aac1fcb6f"
+        },
+        {
+          "name": "Formulas Fatal to the Flesh",
+          "date": "1998-02-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b516ba09-1797-311c-a2ea-99d4351cc359"
+        },
+        {
+          "name": "Complete Acid Terror",
+          "date": "2017-12-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b9960671-6c1f-4966-b2d2-ff4f68a0bf1c"
+        },
+        {
+          "name": "1992‐07‐04: Festivalterrein Zomerweg, Burgum, Netherlands",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bdc83a8e-1c68-3402-bffd-57d0e81b3dea"
+        },
+        {
+          "name": "ABCD",
+          "date": "2023-03-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c015c9f7-5ca7-4e82-9697-042ee39ef0e3"
+        },
+        {
+          "name": "Live in New Jersey 1989",
+          "date": "2024-06-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c388476d-545b-429f-b333-62944e921cf9"
+        },
+        {
+          "name": "Blessed Are the Sick",
+          "date": "1991-05-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cae89c54-820c-3b2f-b211-bb5e29a079ea"
+        },
+        {
+          "name": "Laibach Remixes",
+          "date": "1994-05-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cd0acf58-fba2-3bac-a1e2-e5ae42410b73"
+        },
+        {
+          "name": "1998‐07‐02: Le Medley, Montréal, QC, Canada",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d2d707d7-e312-3725-a758-d915f0d8272c"
+        },
+        {
+          "name": "Harmony Dies, Vol. 1",
+          "date": "1994",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/debb5562-dc23-46c6-807d-d28400e02c22"
+        },
+        {
+          "name": "Dawn of the Angry / Where the Slime Live",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e272d320-80a7-4844-b218-be687ac57da4"
+        },
+        {
+          "name": "Official Reh. 01.30.87",
+          "date": "1987",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e443cb93-8b8f-4b6d-a0b1-060529c9c016"
+        },
+        {
+          "name": "Altars of Madness",
+          "date": "1989-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e5be441e-53ec-376a-b261-426e8f06e144"
+        },
+        {
+          "name": "Evil Demos",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f01c44c7-2ad8-3338-b36c-fd0ebc1a3f73"
+        },
+        {
+          "name": "Blessed Are the Boots…",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f1a231ad-a7c8-31d2-ac86-9b338c30ef73"
+        },
+        {
+          "name": "2001‐07‐19: Long Beach Arena, Long Beach, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f504a15c-e85a-3a77-9eb1-9d5b8e784a77"
+        },
+        {
+          "name": "Live at Rock City ’89",
+          "date": "2011",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f8f55e35-77b5-4644-aac3-5d019981dcfe"
+        }
+      ]
     }
   },
   "checked": {
@@ -19835,6 +20173,8 @@
     "mayhem": "2026-10-15T19:18:39.018359+00:00",
     "megadeth": "2026-10-15T19:18:40.219875+00:00",
     "meshuggah": "2026-10-15T22:31:31.682655+00:00",
-    "metallica": "2026-10-15T22:31:35.909537+00:00"
+    "metallica": "2026-10-15T22:31:35.909537+00:00",
+    "morbid-angel": "2026-10-16T00:42:50.829202+00:00",
+    "motley-crue": "2026-10-16T00:42:52.107118+00:00"
   }
 }
