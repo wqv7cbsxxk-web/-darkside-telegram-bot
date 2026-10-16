@@ -627,49 +627,17 @@
     "0af83cfd466f1198a4784b4f3966a6f113bc31f0",
     "5c70548431fe78af7ea22037ebcc91f883ede81d",
     "eeb0d78a9804f816089dcd3209dc14f7cbe7ce13",
-    "97a6034532e807eb934a02d03c2d416062c47901"
+    "97a6034532e807eb934a02d03c2d416062c47901",
+    "eed53a02c10ea95aeb058b8e1698d7ed8de67cdb",
+    "a177411c257829807fefc5eb6f12df1cca0c4e8a",
+    "8e2c31365518725f795fbfadb1d415f32fd5f40f",
+    "316c7b4000c8ef6622a861dbbddde7ab42812acf",
+    "6a75957dc19644e3e3c3aec5aebf06927cc0536d",
+    "b539a464649e3182c651fad5d0448f24ddcc8cde",
+    "9d476de3e1873738a48121372f177a6dbfab0fec",
+    "3e24accb3028075a93f2affd5d26bee4004d5a8f"
   ],
   "recent_titles": [
-    {
-      "title": "Новое видео RELIQA",
-      "source": "Darkside",
-      "ts": 1791911487
-    },
-    {
-      "title": "Новое видео IAN PERRY",
-      "source": "Darkside",
-      "ts": 1791911489
-    },
-    {
-      "title": "Новое видео GLORYHAMMER",
-      "source": "Darkside",
-      "ts": 1791911490
-    },
-    {
-      "title": "Новое видео HEATHEN",
-      "source": "Darkside",
-      "ts": 1791911492
-    },
-    {
-      "title": "Sharon Osbourne says that doctors warned Ozzy that his farewell live show would kill him",
-      "source": "Louder",
-      "ts": 1791911507
-    },
-    {
-      "title": "New Staind Single “Ghosts” Due Out This Week",
-      "source": "ThePRP",
-      "ts": 1791911511
-    },
-    {
-      "title": "Ameonna (Ex-Chelsea Grin) Debut New Song “Of Sin & Secrecy” Ahead Of Their Live Debut",
-      "source": "ThePRP",
-      "ts": 1791911516
-    },
-    {
-      "title": "GREAT FALLS – THE BITE THAT GROWS UP",
-      "source": "No Clean Singing",
-      "ts": 1791911575
-    },
     {
       "title": "Ladrones Premiere “Esto De Estar Solo” Music Video",
       "source": "ThePRP",
@@ -1429,6 +1397,46 @@
       "title": "He Is Legend’s “91025” EP Has Newly Been Remastered For Its Vinyl Debut",
       "source": "ThePRP",
       "ts": 1792186043
+    },
+    {
+      "title": "Rodrigo Y Gabriela on the new album, outrunning the law, and the pleasures/perils of busking",
+      "source": "Louder",
+      "ts": 1792194690
+    },
+    {
+      "title": "Umbilicus (Cannibal Corpse, Deicide, Etc.) Debut “Prelude: Eternity”",
+      "source": "ThePRP",
+      "ts": 1792194702
+    },
+    {
+      "title": "Metallica Share Official Live Video For “…And Justice For All” From Their Residency At The Sphere",
+      "source": "ThePRP",
+      "ts": 1792194708
+    },
+    {
+      "title": "Музыканты AMORPHIS в новом клипе INSOMNIUM",
+      "source": "Darkside",
+      "ts": 1792194710
+    },
+    {
+      "title": "Silvertomb (Ex-Type O Negative) Premiere New Single “Brain Matter/No God”",
+      "source": "ThePRP",
+      "ts": 1792194717
+    },
+    {
+      "title": "Glenn Hughes offers some philosophical life advice as he recovers from 10 hour open heart surgery operation",
+      "source": "Louder",
+      "ts": 1792194728
+    },
+    {
+      "title": "Insomnium Premiere “The Hour Grows Late” Video, Amorphis Members Guest",
+      "source": "ThePRP",
+      "ts": 1792194782
+    },
+    {
+      "title": "Басист OBITUARY: «Мы думаем о новой музыке, но... »",
+      "source": "Darkside",
+      "ts": 1792194784
     }
   ],
   "initialized_sources": [
@@ -4330,54 +4338,6 @@
       "retry_after": 1792161129
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Metallica Share Official Live Video For “…And Justice For All” From Their Residency At The Sphere",
-      "link": "https://www.theprp.com/2026/10/16/news/metallica-share-official-live-video-for-and-justice-for-all-from-their-residency-at-the-sphere/",
-      "rss_body": "Also filmed during the October 01st opening night of their residency.",
-      "tags": "News Metallica",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T17:15:42+00:00",
-      "id": "8e2c31365518725f795fbfadb1d415f32fd5f40f",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Музыканты AMORPHIS в новом клипе INSOMNIUM",
-      "link": "http://www.darkside.ru/news/184551/",
-      "rss_body": "The Hour Grows Late feat. Tomi Joutsen, Tomi Koivusaari, Santeri Kallio, новое видео INSOMNIUM, доступно для просмотра. Этот трек взят из нового альбома “Netherworlds”, релиз которого намечен на 16 октября:\n\n1. The Cold Song\n\n2. Shadowlife\n\n3. Remembrance\n\n4. Gleam in the Black\n\n5. The Hour Grows Late\n\n6. Arch of the Sky\n\n7. Pathways of the Night\n\n8. Ethereal Sleep\n\n9. The Banished\n\n10. Journey's End",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T17:14:22+00:00",
-      "id": "316c7b4000c8ef6622a861dbbddde7ab42812acf",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Silvertomb (Ex-Type O Negative) Premiere New Single “Brain Matter/No God”",
-      "link": "https://www.theprp.com/2026/10/16/news/silvertomb-ex-type-o-negative-premiere-new-single-brain-matter-no-god/",
-      "rss_body": "They've also got a Brooklyn release show booked for their new album.",
-      "tags": "News Kenny Hickey Silvertomb Type O Negative",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T17:03:14+00:00",
-      "id": "6a75957dc19644e3e3c3aec5aebf06927cc0536d",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Glenn Hughes offers some philosophical life advice as he recovers from 10 hour open heart surgery operation",
-      "link": "https://www.loudersound.com/bands-artists/glenn-hughes-offers-life-advice-as-he-recovers-from-open-heart-surgery",
-      "rss_body": "Glenn Hughes\n\nsays that he is recovering well after undergoing a 10 hour open heart surgery operation.\n\nThe\n\nDeep Purple\n\n, Black Sabbath,\n\nBlack Country Communion\n\n,\n\nTrapeze\n\nlegend, who recently announced that he was\n\nretiring from touring\n\n, informed his social media followers that he has just returned home after an eight-day stay in a Los Angeles hospital.\n\n\"This past year, I’ve had some health issues,\" Hughes, now 75, said in August when announcing his retirement from the road. \"The results from numerous MRIs, CT scans, and an echocardiogram have alerted my medical team that I need another open-heart surgery. I really have no option and no choice, as health is my number one priority. Grateful to have been chosen with a life full with the gift of music. Thank you for walking beside me.\"\n\nThe vocalist/bassist's latest social media posts outlines the details of his hospital treatment.\n\n\"Now Home,\" he writes, \"after an 8 day stay, and a 10 hour open heart surgery operation, called aortic valve replacement, exactly the same procedure I had done in 2013, at UCLA Ronald Reagan Medical Center, Westwood, LA.\n\n\"My doctor, Dr Richard Shemin, head, cardiac, and professor of UCLA, really took care of me with his remarkable staff.\n\n\"Each day as I move forward, I am getting my energy back.\n\n\"There is only love in my life. There are no mistakes.\n\n\"Everything is in its right place. Never believe that there is something wrong in your life. You are where you’re supposed to be. Going through those experiences that are necessary for you right now.\n\n\"When you become angry at yourself, because you don’t like the experiences that you are going through, you are hindering your growth. Rather be grateful, & thankful, for every experience that you’re going through.\n\n\"Even though it may appear to be terrible in your life, be thankful for this experience, for the experience is not what you think it is, in your finite mind.\n\n\"There is a greater purpose to it.\n\n\"All is well...\"\n\nA post shared by Glenn Hughes (@glennhughesonline)\n\nA photo posted by\n\nThe Cannock-born star released his most recent solo album,\n\nChosen\n\n, last year.",
-      "tags": "Bands & Artists",
-      "category": "Хард-рок",
-      "published": "2026-10-16T17:00:00+00:00",
-      "id": "b539a464649e3182c651fad5d0448f24ddcc8cde",
-      "retry_after": 0
-    },
-    {
       "source": "No Clean Singing",
       "priority": 86,
       "title": "SEEN AND HEARD: EXTOL, AETHERIAN, ARONIOUS, NIDARE",
@@ -4387,31 +4347,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T16:58:49+00:00",
       "id": "0273687cb71099483ba5ce908236259a2e6eadd3",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Insomnium Premiere “The Hour Grows Late” Video, Amorphis Members Guest",
-      "link": "https://www.theprp.com/2026/10/16/news/insomnium-premiere-the-hour-grows-late-video-amorphis-members-guest/",
-      "rss_body": "The hour is upon us.",
-      "tags": "News Amorphis Insomnium",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T16:55:28+00:00",
-      "id": "9d476de3e1873738a48121372f177a6dbfab0fec",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Басист OBITUARY: «Мы думаем о новой музыке, но... »",
-      "link": "http://www.darkside.ru/news/184512/",
-      "rss_body": "В новом интервью басиста OBITUARY Terry Butler спросили о возможности нового студийного альбома от ветеранов флоридского дэт-металла:\n\n«У меня нет графика, и я не могу назвать никаких конкретных сроков. Но я знаю, что мы обсуждали возможность в самом ближайшем будущем начать обмениваться идеями. Так что разговоры об этом шли, и в группе это известный факт. Но мы не выставляли жёстких условий вроде: \"Так, к такой-то дате у нас должно быть столько-то песен\" или \"К такой-то дате мы будем в студии\". Нет, всё происходит само, понимаешь, о чём я? Но мы знаем, что в ближайшее время нам нужно что-то подготовить».\n\nButler также затронул тот факт, что OBITUARY не выпускали новых альбомов со времён “Dying Of Everything”, вышедшего в январе 2023 года на Relapse Records:\n\n«Раньше лейбл в этом плане сильнее подгонял группы, требуя соблюдения сроков. Но сейчас продаж меньше, и очевидно почему: пиратство, Spotify и всё такое. Так что группы зарабатывают в основном на гастролях, продаже [мерча] и концертных гонорарах. Сейчас выглядит так: ты выпускаешь альбом, пару раз проезжаешь по Штатам, пару раз по Европе, играешь на фестивалях, добираешься до Южной Америки, может быть, до Азии. В итоге между альбомами проходит два-три года. Мне кажется, нынче это нормально.\n\nВ давние времена, в 70-х, группы выпускали альбом в январе, а потом ещё один в октябре. [Смеётся] А теперь зачем спешить? Особенно в случае OBITUARY. У нас уже больше десяти альбомов, то есть есть из чего выбирать: 140 песен. Вживую мы играем где-то пятнадцать, так что репертуара хватает с запасом. Но огонь внутри точно не угас, и желание делать новую музыку никуда не делось. Мы хотим записывать новый материал».\n\nВ январе этого года вокалист OBITUARY John Tardy рассказал Alejandrosis о планах группы писать и записывать новую музыку:\n\n«Это непросто. Сейчас выпускаешь альбом, и нам требуется три, четыре, пять лет, чтобы просто охватить все территории [на гастролях] и закончить дела. Но мы всегда копим риффы, идеи, названия песен и тому подобное, постоянно, целыми днями. Это в каком-то смысле наша работа. Каждый раз на саундчеке, например, Trevor [Peres, гитарист OBITUARY] просто включает усилитель, и вы в классной комнате, а он придумывает что-то, подходит к своему телефону и записывает кусочек, и так далее. Так что мы всё время что-то собираем.\n\nПросто мы были очень заняты, но наша цель как раз в том, чтобы в этом году начать сводить воедино часть этого материала, зафиксировать идеи и запустить неспешный процесс, который, возможно, приведёт к новому релизу, может быть, уже в следующем году».\n\nЛетом 2025 года барабанщика OBITUARY Donald'а Tardy'я, родного брата John'а, Bloodstock TV спросили, по-прежнему ли группа планирует выпустить новый студийный альбом в 2026 или 2027 году:\n\n«В рок-н-ролльной индустрии ты строишь планы, и ничего никогда не выходит, всё постоянно откладывается. Так что я не хочу говорить людям, что альбом будет, потому что будет ли он? Мы не знаем. Нам чертовски хорошо. Мы с братом получаем огромное удовольствие.\n\nДолжна ли быть ещё одна пластинка? Возможно. Возможно, ради фанатов», — продолжил он. — «Подходя к сорокалетию карьеры, мы задаёмся вопросом: куда нам двигаться дальше? И как долго? Хотим ли мы этого? Сможем ли? И стоит ли?\n\nТак что, отвечая на ваш вопрос: мы любим сочинять музыку и нам нравится идея нового альбома, но мы обязательно не будем торопиться и напишем самые лучшие песни, на какие только способны, как и в случае с “Dying Of Everything”», — добавил Donald. — «Так что 2026 и 2027 годы пройдут в процессе сочинения, а затем записи. Мы смотрим на это так: если мы ещё будем на этой стороне земли и сможем это сделать, то будет и следующий альбом, просто потому, что фанаты этого заслуживают. И нам по-прежнему нравится то, что мы делаем».",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T16:53:27+00:00",
-      "id": "3e24accb3028075a93f2affd5d26bee4004d5a8f",
-      "retry_after": 0
+      "retry_after": 1792195071
     },
     {
       "source": "ThePRP",
@@ -4583,7 +4519,7 @@
       "category": "Хард-рок",
       "published": "2026-10-16T20:17:21+00:00",
       "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
-      "retry_after": 1792186311
+      "retry_after": 1792194995
     },
     {
       "source": "Metal Injection",
@@ -4595,19 +4531,19 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 0
+      "retry_after": 1792194995
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Umbilicus (Cannibal Corpse, Deicide, Etc.) Debut “Prelude: Eternity”",
-      "link": "https://www.theprp.com/2026/10/16/news/umbilicus-cannibal-corpse-deicide-etc-debut-prelude-eternity/",
-      "rss_body": "Their second EP \"Ambiguous\" is due next month.",
-      "tags": "News Cannibal Corpse Deicide Paul Mazurkiewicz Umbilicus",
-      "category": "Экстремальный метал",
-      "published": "2026-10-16T18:17:48+00:00",
-      "id": "a177411c257829807fefc5eb6f12df1cca0c4e8a",
-      "retry_after": 0
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Insomnium, Cro-Mags, Carnifex & More Added To Metal Injection's Top Tracks of the Week",
+      "link": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/insomnium-cro-mags-carnifex-more-added-to-metal-injections-top-tracks-of-the-week",
+      "rss_body": "Including picks from Sable Hills, Defects, and more.",
+      "tags": "Top Tracks Of The Week carnifex insomnium Cro-Mags",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T23:25:15+00:00",
+      "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
+      "retry_after": 1792194920
     }
   ]
 }
