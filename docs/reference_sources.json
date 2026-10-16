@@ -21982,6 +21982,498 @@
           "source_url": "https://musicbrainz.org/release-group/ffc07834-cd3b-3c46-9d63-77c2848ba759"
         }
       ]
+    },
+    "opeth": {
+      "name": "Opeth",
+      "musicbrainz_url": "https://musicbrainz.org/artist/c14b4180-dc87-481e-b17a-64e4150f90f6",
+      "reference_checked_at": "2026-10-16T14:28:24.774680+00:00",
+      "genres": "acoustic rock, art rock, death metal, melodic black metal, melodic death metal, metal, progressive metal, progressive rock",
+      "website": "https://www.opeth.com/",
+      "members": [
+        {
+          "name": "Mikael Åkerfeldt",
+          "role": "bass guitar, guitar, lead vocals, original",
+          "begin": "1990"
+        },
+        {
+          "name": "Martín Méndez",
+          "role": "bass guitar",
+          "begin": "1997"
+        },
+        {
+          "name": "Fredrik Åkesson",
+          "role": "guitar",
+          "begin": "2007"
+        },
+        {
+          "name": "Fredrik Åkesson",
+          "role": "background vocals",
+          "begin": "2007"
+        },
+        {
+          "name": "Joakim Svalberg",
+          "role": "background vocals, keyboard, percussion, synthesizer",
+          "begin": "2011"
+        },
+        {
+          "name": "Waltteri Väyrynen",
+          "role": "drums (drum set)",
+          "begin": "2022"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/c14b4180-dc87-481e-b17a-64e4150f90f6",
+      "albums": [
+        {
+          "name": "Ghost Reveries",
+          "date": "2005-08-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/00f78b7d-bd0a-356a-aec4-925e529023f8"
+        },
+        {
+          "name": "Metal Radio Sampler",
+          "date": "2011-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0198b8cc-1ba3-4f4b-af77-5704f922bba4"
+        },
+        {
+          "name": "Sorceress",
+          "date": "2016-08-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/04aec7a5-7756-47ff-89e8-1bb3f40ae730"
+        },
+        {
+          "name": "Selections From Ghost Reveries",
+          "date": "2005",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/04dcc03c-be47-4b7e-b207-1c16aa18f8a2"
+        },
+        {
+          "name": "2001-12-07: The Shelter, Dublin, Ireland",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0e4d2ae2-3d1a-32ff-88de-4e88af2318db"
+        },
+        {
+          "name": "Orchid",
+          "date": "1995-05-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1e8e4ce8-f334-3ec7-af9a-d7babbdb2fd2"
+        },
+        {
+          "name": "Blackwater Park",
+          "date": "2001-03-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1f4a9f6f-9621-3e46-977d-8503e8386768"
+        },
+        {
+          "name": "Damnation",
+          "date": "2003-04-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2864ec02-5e6a-36d8-9960-ccd959b9a618"
+        },
+        {
+          "name": "Still Day Beneath the Sun",
+          "date": "2003-02-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2be1fddb-42ea-4bcd-ad0b-fd01405ae235"
+        },
+        {
+          "name": "Slither",
+          "date": "2011-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2ec8f167-a990-4198-95b8-f5358c4a2915"
+        },
+        {
+          "name": "Morningrise",
+          "date": "1996-06-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/304858e8-c85e-3e5f-b996-e83216b23ce5"
+        },
+        {
+          "name": "2003‐07‐23: Saint Andrew’s Hall, Detroit, MI, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3594d259-e18a-3fe5-9bd7-c397bf2ceeb5"
+        },
+        {
+          "name": "2000-07-29: Milwaukee Metalfest, Milwaukee, WI, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/374c933f-7e63-39bc-a541-17153bc4e512"
+        },
+        {
+          "name": "Heritage",
+          "date": "2011-09-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3a050737-01b2-4eea-aaa0-d961020fbe00"
+        },
+        {
+          "name": "§3",
+          "date": "2024-09-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4003a7a1-a190-4c84-b73b-57b5f3ae5bc7"
+        },
+        {
+          "name": "2005‐12‐22: De Boerderij, Zoetermeer, Netherlands",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4042cba1-9518-3d56-84fc-6bdfb29cdfb0"
+        },
+        {
+          "name": "1995‐10‐31: Astoria, London, England, UK",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/454a9fb6-1952-43aa-ac2e-8be5d281c341"
+        },
+        {
+          "name": "The Candlelight Years",
+          "date": "2008-06-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4b13bc96-efa5-3041-8a5e-84019cc39911"
+        },
+        {
+          "name": "Watershed",
+          "date": "2008-05-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4e94deb3-26df-3376-a55d-297e8275a518"
+        },
+        {
+          "name": "Burden",
+          "date": "2008-12-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/53030b5d-9f23-38d3-83e3-4f7053955992"
+        },
+        {
+          "name": "Ghost of Perdition",
+          "date": "2006",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/583f913f-cf4d-4cac-b19a-5053afd7a9f2"
+        },
+        {
+          "name": "In Live Concert at the Royal Albert Hall",
+          "date": "2010-09-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/58c4873b-2b79-4ea8-a6da-f5db9822db0e"
+        },
+        {
+          "name": "2001‐04‐10: Jaxx Nightclub, Springfield, VA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/59426c7e-6c67-3c62-8e56-83137ccc422d"
+        },
+        {
+          "name": "Deliverance",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5a78dabc-f2c6-4cc6-9977-3af8bf7d925f"
+        },
+        {
+          "name": "Dirge for November",
+          "date": "2010-08-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5a917ec7-f29d-400b-8fc0-2d7a97817c48"
+        },
+        {
+          "name": "Garden of the Titans: Opeth Live at Red Rocks Amphitheatre",
+          "date": "2018-11-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5ada2026-1a48-49e1-a697-6ea548597751"
+        },
+        {
+          "name": "Cirkelns riktning",
+          "date": "2019-10-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5bac381c-f947-42de-ad28-8f7f6bf6833a"
+        },
+        {
+          "name": "2003-05-28: Live on TV4 (Swedish TV-Network)",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5c63727e-cfc0-3b27-8bcb-40ec31e839a5"
+        },
+        {
+          "name": "Deliverance",
+          "date": "2002-11-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6e82a4c0-6939-308b-8f70-9f496ab43278"
+        },
+        {
+          "name": "Farewell to Providence",
+          "date": "2009",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6fada0dc-6d05-3a43-b9c6-19f28a754364"
+        },
+        {
+          "name": "The Grand Conjuration",
+          "date": "2005-06-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/72b0f39a-89c7-45aa-97f6-765ae96f91b6"
+        },
+        {
+          "name": "2005-07-31: Sounds of the Underground, Denver, CO, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/73465695-e26d-3fea-b349-06e74a7a32c9"
+        },
+        {
+          "name": "The Lines in My Hand",
+          "date": "2012-11-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/75b9ea10-1f20-42b2-a89d-e0d374b86e13"
+        },
+        {
+          "name": "1991‐11‐30: Akalla, Stockholm, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/765d517d-4343-3ed4-a8fd-40c43699c314"
+        },
+        {
+          "name": "Lamentations: Live at Shepherd’s Bush Empire 2003",
+          "date": "2003-11-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/784c4974-64f0-3fcd-bcba-5c689c74f593"
+        },
+        {
+          "name": "Svekets prins",
+          "date": "2019",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7cbd98d1-740f-425a-9dc4-46351f016800"
+        },
+        {
+          "name": "§1 (radio edit)",
+          "date": "2024-08-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7dbe85da-dfef-43b2-b544-987c328600e7"
+        },
+        {
+          "name": "The Throat of Winter",
+          "date": "2011-04-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8099cf8b-b514-44e8-a9d9-106d12ddfe2c"
+        },
+        {
+          "name": "Cusp of Eternity",
+          "date": "2014-06-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/88deebc6-0a65-4fd8-91d3-0949dd9687af"
+        },
+        {
+          "name": "Sorceress",
+          "date": "2016-09-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8902256f-d9f0-4043-a8f3-2412fb3d3db7"
+        },
+        {
+          "name": "The Drapery Falls (radio edit)",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8b5e26ba-d9b0-479c-bb02-473a8d5c004b"
+        },
+        {
+          "name": "Opeth / Enslaved",
+          "date": "2017-10-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/94ed3e46-1b22-404a-a2cc-051624db4647"
+        },
+        {
+          "name": "The Smell of Death",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/97d3b1b7-9e68-3ae6-b36a-065f93b78046"
+        },
+        {
+          "name": "2005-09-21: Klubben, Stockholm, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9ab92a45-2156-3dea-ba7a-d64b089b8c06"
+        },
+        {
+          "name": "Roadrunner Records 2007 Prog Sampler",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9e915d33-b517-4874-b7c5-ef9709c71666"
+        },
+        {
+          "name": "Blackwater Park / Deliverance",
+          "date": "2007-09-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9ea1b69a-81a8-4a75-95af-5601956a3b99"
+        },
+        {
+          "name": "The Roundhouse Tapes",
+          "date": "2007-10-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a368082f-370c-3206-a1c1-e9d11211877f"
+        },
+        {
+          "name": "Collector’s Edition Slipcase",
+          "date": "2006-10-31",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a90b27df-1c7d-44e1-a332-03e27a51f02d"
+        },
+        {
+          "name": "Width of a Circle",
+          "date": "2022-03-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aacc81ab-eb11-47d7-8c36-7b4bfa13ea70"
+        },
+        {
+          "name": "The Devil’s Orchard",
+          "date": "2011-07-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/abd446a2-98c5-4ed5-8b88-50247bf5baf6"
+        },
+        {
+          "name": "2013-04-20: Record Store Day, Newbury Comics, Leominster, MA, USA",
+          "date": "2013",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b098443c-7551-4f00-914f-8a9e261e61c0"
+        },
+        {
+          "name": "Still Life",
+          "date": "1999-10-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b2896060-c317-32d7-9224-d530ce503871"
+        },
+        {
+          "name": "Solitude (live)",
+          "date": "2014-08-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ba77dd93-271d-4adb-996b-8b5df342c5aa"
+        },
+        {
+          "name": "2006‐11‐10: Manchester Academy, Manchester, England, UK",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bebafd96-e226-3935-82db-0825710d8a29"
+        },
+        {
+          "name": "Soldier of Fortune",
+          "date": "2007-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bf1ef08a-5705-49ee-8e92-ec3501f502e9"
+        },
+        {
+          "name": "Will o the Wisp",
+          "date": "2016-09-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c2ce88dd-6f71-4ada-9bf5-00140d26a0c1"
+        },
+        {
+          "name": "2001-11-13: La Locomotive, Paris, France",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c950ce2a-9f07-3b9b-bb9c-ab1a1f5b292b"
+        },
+        {
+          "name": "1996-11-13: Club Splendid, Lille, France",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c9a0eb4a-13a7-3e61-84ae-98974d4296c3"
+        },
+        {
+          "name": "2003-02-13: Montréal, QC, Canada",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cbbc0784-a6e1-307c-aa4b-4ac1e15482d4"
+        },
+        {
+          "name": "In Cauda Venenum",
+          "date": "2019-09-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cd725d34-9746-4211-b487-5e8a8b2142cd"
+        },
+        {
+          "name": "2003‐04‐18: Inferno Festival, Oslo, Norway",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ceaacbf6-d2a3-3e40-9c6a-3a5b868d4bfe"
+        },
+        {
+          "name": "Var kommer barnen in (live)",
+          "date": "2014-08-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d0461c0a-849c-4059-835b-2b186722e385"
+        },
+        {
+          "name": "Welcome to the Drapery Falls Cafe",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d50a27f5-73c8-325e-875e-2470728c9d20"
+        },
+        {
+          "name": "The Devil’s Orchard: Live at Rock Hard Festival 2009",
+          "date": "2011-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d6e2ef6a-67c9-4d6d-b172-80178f6042f3"
+        },
+        {
+          "name": "Pale Communion",
+          "date": "2014-06-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d7605e9c-8a96-4a41-9cf6-f45f80de112f"
+        },
+        {
+          "name": "The Wilde Flowers",
+          "date": "2016-09-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d7fc1e26-f4e6-44a4-bda8-08403ca25b7c"
+        },
+        {
+          "name": "My Arms, Your Hearse",
+          "date": "1998-06-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/da8433e6-a5df-3d6b-bf27-4aa069e8adee"
+        },
+        {
+          "name": "The Last Will and Testament",
+          "date": "2024-11-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dfddf6d4-06ca-4e09-abdb-40d1eb79b910"
+        },
+        {
+          "name": "Apostle in Triumph",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e1d8c7ab-3da1-39fa-9b66-f79b6ce619ec"
+        },
+        {
+          "name": "Ghost of Perdition (live)",
+          "date": "2018-10-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e8229170-3a92-4971-b5e6-eb498b5b4025"
+        },
+        {
+          "name": "Mellotron Heart",
+          "date": "2008-06-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e8272b2d-aff2-3cbb-b71f-02e15db5f32f"
+        },
+        {
+          "name": "Peaceville Presents… Opeth",
+          "date": "2013-05-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e844db73-e4a5-4368-b555-7f6756302c12"
+        },
+        {
+          "name": "Porcelain Heart",
+          "date": "2008-04-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e99c1787-118b-4e99-8800-f0a8fecaa749"
+        },
+        {
+          "name": "Deliverance & Damnation",
+          "date": "2015-10-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f1cb012c-81c7-47bb-b5f2-7a85c399c029"
+        },
+        {
+          "name": "2009‐02‐16: Pakkahuone, Tampere, Finland",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fac831df-c99c-3b89-9d8d-cbb128550aca"
+        }
+      ]
     }
   },
   "checked": {
@@ -22062,6 +22554,8 @@
     "motorhead": "2026-10-16T05:13:50.234269+00:00",
     "napalm-death": "2026-10-16T05:14:00.037552+00:00",
     "nightwish": "2026-10-16T09:50:43.161721+00:00",
-    "obituary": "2026-10-16T09:50:44.425481+00:00"
+    "obituary": "2026-10-16T09:50:44.425481+00:00",
+    "of-mice-men": "2026-10-16T14:28:20.721521+00:00",
+    "opeth": "2026-10-16T14:28:24.774902+00:00"
   }
 }
