@@ -582,49 +582,18 @@
     "8718a2b63e6e5145586c26d6f0e221dd8772910c",
     "084a03eebc53b8721ab9596d80e6deeda5f3bab4",
     "f1eac6f9faa517372d1b8d5233b698ac7abb1eae",
-    "ab217c27b6c89185d2a8a5cbde0d76f9a0741713"
+    "ab217c27b6c89185d2a8a5cbde0d76f9a0741713",
+    "8c69e26a381ca09729a65fe65ae6d9c3302014a2",
+    "4b8241e0835157b7d43ed78ffa1dbe4de727fced",
+    "904e548719413b36d00e54640236259686fb4afa",
+    "825049e1bc54645a13fe47a036e86468820e76b1",
+    "5bd4f53d4638e6601af148ff397ab7652e344ab8",
+    "6097ede003d455d66a5ee217c3eb29003999116b",
+    "0e71c4cd3d4b7e67c504f800ac1ad3e064938d76",
+    "d4eb9d5715058b41aa1ea74d7a31b0e69ac40479",
+    "7be2527636b6b07302900251a4d35e1b19929196"
   ],
   "recent_titles": [
-    {
-      "title": "JACK OSBOURNE: «Оззи никогда не утверждал, что написал всю музыку и тексты на пластинке»",
-      "source": "Darkside",
-      "ts": 1791796610
-    },
-    {
-      "title": "Зубы MASTODON в новом виниле MASTODON",
-      "source": "Darkside",
-      "ts": 1791796611
-    },
-    {
-      "title": "Sex Pistols singer Frank Carter throws “stupid” fan out of a gig – and the fans’s dad approves",
-      "source": "Louder",
-      "ts": 1791796624
-    },
-    {
-      "title": "Новое видео EVERGREEN TERRACE",
-      "source": "Darkside",
-      "ts": 1791796626
-    },
-    {
-      "title": "DAVEY RIMMER продолжит выступать с URIAH HEEP",
-      "source": "Darkside",
-      "ts": 1791796627
-    },
-    {
-      "title": "Новое видео CELESTIAL SANCTUARY",
-      "source": "Darkside",
-      "ts": 1791796629
-    },
-    {
-      "title": "GUNS N&#039; ROSES станут специальными гостями на концертах AEROSMITH",
-      "source": "Darkside",
-      "ts": 1791796849
-    },
-    {
-      "title": "LIDIA BAICH присоединилась на сцене к DEEP PURPLE",
-      "source": "Darkside",
-      "ts": 1791796851
-    },
     {
       "title": "James Hetfield explains why you won't get any political statements at a Metallica show",
       "source": "Louder",
@@ -1384,6 +1353,46 @@
       "title": "Newly Re-Mixed Version Of Motörhead’s “Built For Speed” Now Streaming",
       "source": "ThePRP",
       "ts": 1792111353
+    },
+    {
+      "title": "“It’s personal. In theory it could be the last thing you leave”: Why Rick Wakeman made Return To The Red Planet",
+      "source": "Louder",
+      "ts": 1792127361
+    },
+    {
+      "title": "U2 announce Carnaval De Luz Presents: The Greatest Show On Earth world tour",
+      "source": "Louder",
+      "ts": 1792127518
+    },
+    {
+      "title": "Roger Waters Calls Metallica’s James Hetfield A “Complete Prick” In The Wake Of Hetfield’s Recent Apolitical Commentary",
+      "source": "ThePRP",
+      "ts": 1792127541
+    },
+    {
+      "title": "SikTh Stream “Flogging The Horses” Live In-Studio Performance",
+      "source": "ThePRP",
+      "ts": 1792127572
+    },
+    {
+      "title": "Taylor Momsen on the challenges she faces singing Chris Cornell's songs with Soundgarden",
+      "source": "Louder",
+      "ts": 1792127588
+    },
+    {
+      "title": "Профессиональное видео с выступления METALLICA из Сферы",
+      "source": "Darkside",
+      "ts": 1792127593
+    },
+    {
+      "title": "We Came As Romans Enlist HEAVENSGATE For New Version Of “Where Did You Go?”",
+      "source": "ThePRP",
+      "ts": 1792127598
+    },
+    {
+      "title": "APOCALYPTICA в новом видео TARJA",
+      "source": "Darkside",
+      "ts": 1792127601
     }
   ],
   "initialized_sources": [
@@ -3991,7 +4000,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T19:06:13+00:00",
       "id": "b5d66186de4cb71a1e190e0db3da1ba16d5f8fc8",
-      "retry_after": 1792092103
+      "retry_after": 1792127901
     },
     {
       "source": "Metal Injection",
@@ -4102,18 +4111,6 @@
       "retry_after": 0
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Roger Waters Calls Metallica’s James Hetfield A “Complete Prick” In The Wake Of Hetfield’s Recent Apolitical Commentary",
-      "link": "https://www.theprp.com/2026/10/15/news/roger-waters-calls-metallicas-james-hetfield-a-complete-prick-in-the-wake-of-hetfields-recent-apolitical-commentary/",
-      "rss_body": "Hetfield's recent commentary of Metallica not wanting to \"influence\" people with their \"bullsh*t\" continues to draw strong reactions.",
-      "tags": "News James Hetfield Metallica Pink Floyd Roger Waters",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T21:03:06+00:00",
-      "id": "904e548719413b36d00e54640236259686fb4afa",
-      "retry_after": 0
-    },
-    {
       "source": "Ultimate Classic Rock",
       "priority": 80,
       "title": "That Time Nikki Sixx Peed on Rick Nielsen's Raincoat",
@@ -4123,82 +4120,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T20:49:09+00:00",
       "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео U2",
-      "link": "http://www.darkside.ru/news/184522/",
-      "rss_body": "The Greatest Show On Earth, новое видео U2, доступно для просмотра. Этот трек взят из нового альбома Carnaval De Luz, своей первой новой пластинки за девять лет, релиз которой состоится 13 ноября.\n\nCarnaval De Luz станет 16-м студийным альбомом U2 и первым с оригинальным материалом со времён Songs of Experience 2017 года. Последней полноформатной работой команды была вышедшая в 2023-м Songs of Surrender, где музыканты перезаписали несколько треков из разных периодов своей дискографии. Новый диск придёт вслед за EP Days of Ash и Easter Lily, выпущенными в 2026 году. Его вдохновили традиции карнавала и празднеств перед Великим постом. Анонс приурочен к 50-летию U2: коллектив образовался в Дублине в сентябре 1976 года.\n\nПродюсером альбома выступил Jacknife Lee. Среди значимых гостей — Долли Партон, чей вокал в завершающем дуэте «Torn» стал её последним выступлением в качестве певицы. Кроме того, в записи приняли участие Martin Garrix, Ryan Tedder, Daniel Lanois и давний соратник группы Brian Eno.\n\nТрек-лист:\n\n01. Go (Carnaval De Luz)\n\n02. La Reina\n\n03. Street Of Dreams\n\n04. The Mirror Maker (Rosalía)\n\n05. Superficiality\n\n06. If The World Is At War We Better Not Be\n\n07. Silencio\n\n08. The Greatest Show On Earth\n\n09. Glorify\n\n10. Midnight Sunshine\n\n11. Can’t Stop Us Now\n\n12. Torn (Feat. Dolly Parton)\n\n«Подходите, подходите, подходите! Захватите свои фиолетовые носки, свои разбитые сердца, свою наивность в розовых очках… и приготовьтесь удивляться в зале зеркал, — заявил Bono. — Будут громкие гитары, глубокий бас, экстатические ритмы и, да, кое-где проступят серебряные слёзы!\n\nВедь совсем рядом, у самых границ нашего карнавала света, обитают самые разные существа… То самое воображение, что дарит нам творческую силу, способно порождать и чудовищ. Поэтому мы делаем барабаны громче. Разводим костёр пожарче. Делаем наши истории ещё безумнее и смешнее.\n\nМы делаем мелодии слаще, а песни — ярче, потому что, если мир погружён во тьму, нам лучше в ней не оставаться».\n\nThe Edge тоже высказался, хотя и куда лаконичнее Bono: «Это беспорядочный, дерзкий и священный сборник песен, где впервые на записи U2 использованы струны с плоской обмоткой. Просто к сведению».\n\nЧто касается «Silencio», над которой дополнительно поработал Ryan Tedder, то она звучит как возвращение к классическому U2. Здесь есть искажённые гитары, рок-н-ролльный настрой и раскатистый, почти выкрикиваемый припев в исполнении Bono. У песни есть и зубы: во втором куплете Bono заметно раздражён, когда поёт: «Где-то тишина шепчет: „Заткни свой гребаный рот“ / Где-то диета велит: „Выплюнь это, на хрен“». И всё же в целом «Silencio» демонстрирует более дерзкую, возвращённую к истокам подачу привычного для U2 альт-рока.\n\n«Silencio» стала очередным предвкушением Carnaval De Luz после прошлым летом представленной «Street of Dreams». Недавно U2 также объединились с Martin'ом Garrix'ом для сингла «Fireflies» и записали кавер на песню THE POGUES «Yeah, Yeah, Yeah, Yeah, Yeah» для готовящегося трибьют-альбома памяти Шейна Макгоуэна.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T20:48:28+00:00",
-      "id": "825049e1bc54645a13fe47a036e86468820e76b1",
-      "duplicate_ids": [
-        "4b8241e0835157b7d43ed78ffa1dbe4de727fced"
-      ],
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "SikTh Stream “Flogging The Horses” Live In-Studio Performance",
-      "link": "https://www.theprp.com/2026/10/15/news/sikth-stream-flogging-the-horses-live-in-studio-performance/",
-      "rss_body": "The final installment in their recent series at Marshall.",
-      "tags": "News SikTh",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T20:19:16+00:00",
-      "id": "5bd4f53d4638e6601af148ff397ab7652e344ab8",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Taylor Momsen on the challenges she faces singing Chris Cornell's songs with Soundgarden",
-      "link": "https://www.loudersound.com/bands-artists/taylor-momsen-on-the-challenges-she-faces-singing-chris-cornells-songs-with-soundgarden",
-      "rss_body": "The Pretty Reckless\n\nvocalist\n\nTaylor Momsen\n\nhas spoken about the challenges she faces when singing her hero\n\nChris Cornell\n\n's songs with\n\nSoundgarden\n\n.\n\nMomsen cites the Seattle grunge legends as one of the bands who changed her life, and in a new interview with YouTube star Rick Beato she admits that she was \"elated\" when she was told that her band had been offered the opportunity to support Soundgarden on their 2017 US tour.\n\n\"Every time I listen to a Soundgarden record, I discover something new inside of it,\" she tells the podcast host. \"There's certain music where it feels like the artist is speaking for you, or to you, in a way that you maybe don't know how to communicate yourself, and Soundgarden has always done that for me.\"\n\nUnderstandably, Momsen says she was \"devastated\" by Chris Cornell's death by suicide on that 2017\n\nKing Animal\n\ntour. Subsequently, she has honoured Cornell's life and music by performing with Soundgarden's three surviving members on a number of occasions.\n\nIn January 2019, Momsen sang three songs -\n\nRusty Cage\n\n,\n\nDrawing Flies\n\nand\n\nLoud Love\n\n- at the star-studded\n\nI Am The Highway memorial concert\n\nin Los Angeles, and in 2022, she joined members of Soundgarden, Foo Fighters and Nirvana's Krist Novoselic to sing\n\nThe Day I Tried To Live\n\nand\n\nBlack Hole Sun\n\nat the Los Angeles staging of the Taylor Hawkins tribute concert.\n\nShe also sang with the band at their induction into the\n\nRock And Roll Hall Of Fame\n\nin 2025, and more recently, on September 9 this year, joined the trio, and Pearl Jam guitarist Mike McCready, for a\n\nhalf-time show performance\n\nat the Seattle Seahawks season-opening game against the New England Patriots.\n\n\"Every time we've done this, it's been pressure,\" Momsen admits, before going on to say that, performing with the group at their RARHOF induction, that pressure was mixed with \"love and excitement and pride\".\n\n\"I was coming from a perspective and a place of just, like, pure and utter joy for them,\" she says. \"Every time they ask me to sing with them it's an honour.\"\n\n\"Individually they're all the greatest musicians in the world,\" she continues, \"and then you put them together and it creates this unparalleled sound.\"\n\nFinding a place within this sound, Momsen admits, is a challenge in itself.\n\n\"Matt [Cameron] always cracks me up,\" she tells Beato, \"because he goes, 'But you're a huge fan, so you know these songs.' And I go, Yes, I know them, but knowing them and then removing the vocal, and doing them and accomplishing them are two very different things.\"\n\n\"Everyone thinks it's the notes and it's like, no, it's the fucking time signatures. Soundgarden, it sounds like it's just flowing when you're listening, you don't even realise they've changed it until you remove something, and have to actually do it, and then you go, Wait a second. What the fuck just happened?\"\n\nWatch the interview in full below.",
-      "tags": "Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-10-15T20:00:00+00:00",
-      "id": "6097ede003d455d66a5ee217c3eb29003999116b",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Профессиональное видео с выступления METALLICA из Сферы",
-      "link": "http://www.darkside.ru/news/184523/",
-      "rss_body": "Профессиональное видео с выступления METALLICA, которое состоялось первого октября в Sphere, Las Vegas, Nevada, доступно для просмотра:\n\n01. Battery\n\n02. Creeping Death\n\n03. Now That We're Dead\n\n04. Sad But True\n\n05. The Shortest Straw\n\n06. Wherever I May Roam\n\n07. The Day That Never Comes\n\n08. ...And Justice For All\n\n09. Kirk Hammett And Robert Trujillo Doodle\n\n10. Nothing Else Matters\n\n11. The Call Of Ktulu\n\n12. Lux Æterna\n\n13. Ride The Lightning\n\n14. The Memory Remains\n\n15. Seek & Destroy\n\n16. Master Of Puppets",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T19:51:24+00:00",
-      "id": "0e71c4cd3d4b7e67c504f800ac1ad3e064938d76",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "We Came As Romans Enlist HEAVENSGATE For New Version Of “Where Did You Go?”",
-      "link": "https://www.theprp.com/2026/10/15/news/we-came-as-romans-enlist-heavensgate-for-new-version-of-where-did-you-go/",
-      "rss_body": "Another doomed remake.",
-      "tags": "News Heavensgate We Came As Romans",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T19:23:18+00:00",
-      "id": "d4eb9d5715058b41aa1ea74d7a31b0e69ac40479",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "APOCALYPTICA в новом видео TARJA",
-      "link": "http://www.darkside.ru/news/184521/",
-      "rss_body": "Tango, новое видео TARJA, доступно для просмотра ниже. Этот трек взят из нового альбома \"Frisson Noir\" , релиз которого состоялся 12 июня. В записи альбома принимали участие Dani Filth (CRADLE OF FILTH), APOCALYPTICA, Marko Hietala (ex-NIGHTWISH) и Chad Smith (RED HOT CHILI PEPPERS), а за сведение отвечал Neal Avron (LINKIN PARK, SKILLET, DISTURBED).\n\nТрек-лист:\n\n01. Frisson Noir\n\n02. The Eternal Return\n\n03. Leap Of Faith (feat. Marko Hietala)\n\n04. At Sea (feat. Mervi Myllyoja + Niklas Pokki)\n\n05. Blaze Forever\n\n06. The Trace Outlives (feat. Sayo Komada)\n\n07. Tango (feat. APOCALYPTICA)\n\n08. Anemoia (feat. Julián Bedmar + Valter Freitas)\n\n09. I Don't Care (feat. Dani Filth)\n\n10. Against The Odds (feat. Chad Smith)",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T19:00:12+00:00",
-      "id": "7be2527636b6b07302900251a4d35e1b19929196",
-      "retry_after": 0
+      "retry_after": 1792127867
     },
     {
       "source": "Metal Injection",
@@ -4235,6 +4157,18 @@
       "published": "2026-10-15T17:41:13+00:00",
       "id": "75bee4eed0857c74d88207208e6babb08f2164ce",
       "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "The story of Pink Floyd's The Wall tour: Power grabs, bad blood, sackings and bitter dysfunction",
+      "link": "https://www.loudersound.com/bands-artists/pink-floyd-the-wall-tour",
+      "rss_body": "Thanks to a ‘plan’ sketched hastily on a napkin by Nigel Tufnel,\n\nSpinal Tap\n\n’s Stonehenge-themed stage props were famously under-egged, their replica structures a laughable 18 inches high. When\n\nPink Floyd\n\ntoured their 1979 masterpiece\n\nThe Wall\n\n, though, the staging and production impressed. Clearly no ‘back of a fag packet’ conception, it involved rigorous input from designer Jonathan Park and architect Mark Fisher. The scale of it all was daunting, vast.\n\nRoger Waters\n\n’ exacting vision required a 33-feet-high, 260-feet-wide barrier/wall to be erected gradually during each show. This was a metaphor, he said, for our psychological defences; for the ultimately problematic shield we put between ourselves and the big bad world. But Waters’ desire to build an actual wall between himself and Floyd’s audience was real and had been seeded years earlier.\n\nNever a huge fan of touring, Waters found his distaste for it grew after the huge success of\n\nThe Dark Side Of The Moon\n\n. Gone were the days of playing\n\nInterstellar Overdrive\n\nto the in-crowd in the shadowy, intimate surrounds of London’s UFO Club. Post-Dark Side, Floyd were a household name, playing to massive audiences in huge stadiums. There was no shortage of loons shouting out during the quiet bits, proving that they, too, had ‘always been mad’. Consequently, Waters began to view the gigging experience as analogous to competitive sport; warfare, even.\n\n“It just became more and more oppressive”, he told Sylvie Simmons in 1999. “Those places weren’t built for music. They were built for sporting events, and it’s not unnatural to experience a ritualisation of war, because that’s all sport is. What was going through my mind - my whole body - was an enormous sense of frustration, a feeling of: ‘What are we all doing here? What’s the point?’ The answer that kept clanging back monotonously was: cash and ego. That’s all this is about.”\n\nThe audience and stage set for a concert on Pink Floyd's The Wall Tour\n\n(Image credit: Denis O'Regan/Getty Images)\n\nHaving first bought a country pile in Horsham in Sussex, then a grander Georgian mansion in the picturesque village of Kimbridge in Hampshire, Waters was no more immune to the trappings of success than his bandmates. Status and wealth didn’t seem to satisfy him, though. Instead he seemed a rather joyless kind of rock star who made an art form of being a curmudgeon.\n\nWaters’ beef with corporate greed and the whole rock’n’roll circus had come to a head at Montreal’s Olympic Stadium on July 6, 1977. It was the final date of Pink Floyd’s Animals In The Flesh tour, and they played to 78,000 people that night. Miffed at a potential stage invader who was screaming at him to play\n\nCareful With That Axe, Eugene\n\n, Waters spat on - or at least at - the overzealous fan. He later re-enacted the moment in fairly graphic detail for Floyd biographer Mark Blake during an interview at London’s Mayfair hotel in 2017.\n\nWas the structure that dominated the stage on The Wall tour designed to keep fans out, then? Or was it to fence Waters’ anger in? Either way, it was a bold piece of theatre that took ingenuity and manpower to construct and knock down.\n\nStill, as dress rehearsals got under way in January 1980 at the MGM film lot in Culver City, Los Angeles there were concerns about the barrier’s efficacy, not least from David Gilmour, whom Waters had charged with putting the band through its paces while he fine-tuned the visuals: “Obviously, when someone says: ‘We’re going to build this fucking great wall across the front of the stage, and we’re going to be playing behind it, and the audience are going to be in front, looking at it’, you go: ‘Hang on a minute - I’m not sure I want to be part of that audience,’” Gilmour recalled.\n\nGerald Scarfe - the satirist leading the team transforming the cartoons he’d drawn for\n\nThe Wall\n\n’s sleeve into giant puppet grotesques and stunning animated projections that would make the live show a multimedia extravaganza – was of the same mind regarding Waters’ on-stage barricade. “Everyone, including [\n\nThe Wall\n\nalbum’s producer] Bob Ezrin said to Roger: ‘You can’t invite the fans into Earls Court and then shut them out,’” Scarfe remembered.\n\nIn the end, Waters was persuaded to allow a few peepholes in the gradually materialising wall. That way, perhaps Floyd fans wouldn’t feel as alienated as he did. Through missing bricks, the singer could be spied in a mock-up seedy motel room during\n\nNobody Home\n\n’s bleak portrayal of an isolated rock star’s drug-addled unravelling. An armchair sourced from West Hollywood’s Tropicana Inn, as frequented by\n\nJim Morrison\n\n,\n\nLed Zeppelin\n\nand the like, lent the on-stage tableau veracity.\n\nIn essence, though, Waters wasn’t for turning, and brokered few compromises. He even ruled out any kind of encore once the wall was toppled during performances of the album’s penultimate song,\n\nThe Trial.\n\nHe felt\n\nThe Wall\n\nalbum, tour and feature film marked the likely high-water mark of his creative agency and opportunity, so he was determined to do it his way.\n\n“Being a purist, Roger didn’t want a medley of old favourites at the end,” Gerald Scarfe told me in 2009. “I think he saw\n\nThe Wall\n\nconcerts as being a bit like an opera, a piece that had a clear beginning and a definite end. Encores would have diluted that.”\n\n(Image credit: Alamy )\n\nOn\n\nThe Wall\n\n, Waters’ cathartic, sometimes emotionally raw songs (witness\n\nDon’t Leave Me Now\n\n) addressed themes even more personal than usual for him. Rooted in his own childhood trauma and feelings of rock-star estrangement, but inhabited by Pink, the concept record’s key protagonist and anti-hero, they had a key tragedy at their core, namely Waters losing his father when he was just five months old.\n\nEric Fletcher Waters had been a second lieutenant in the Royal Fusiliers, and was killed in Aprilia, Italy in 1944 at the Battle Of Anzio. The resulting pain his son carried with him never diminished. Instead it increased, becoming an all-consuming spur.\n\nRespectful of this truth, but wary of\n\nThe Wall\n\nbecoming suffocated by it, Bob Ezrin and others around Waters advised him to make its themes more universal. Thus the album grew to explore madness, authoritarianism, substance abuse, lust, paranoia, child-parent bonds and more. Darkly relatable,\n\nThe Wall\n\nhad axes to grind; causes to get behind; a whole casebook of dents to the psyche. No wonder it went on to sell more than 30 million copies.\n\nWaters’ artistic vision was hugely impressive, then, but participating in it came at a growing cost for his bandmates and other key collaborators. While making the double album that was primarily his baby, Waters snuffed out perceived power grabs and dictated the terms of engagement. He had long since seen himself as Pink Floyd’s de facto leader. And given that he was writing much more material than his bandmates at a time when the group’s tax affairs were such that they really needed to earn, why shouldn’t he?\n\n“Roger’s attitude was: ‘It’s my record and I’ve let the rest of you play on it,’” Bob Ezrin told Blake in\n\nPigs Might Fly: The Inside Story Of Pink Floyd\n\n. “With everything that was going on financially with the band, he was the one standing there with what he saw as a satchel full of pound notes.”\n\nRoger Waters soaks up the spotlight at Westfalenhalle in Dortmund, Germany, February 1981\n\n(Image credit: Alamy)\n\nFurther asserting himself, Waters even dished out badges celebrating the fact that Ezrin would receive a lower royalty rate for his work on\n\nThe Wall\n\nthan the band. Reading ‘NOPE’, shorthand for No Points Ezrin, these badges were daft, but also slightly cruel, the stuff of schadenfreude.\n\nEzrin later recalled that Waters’ behaviour reminded him of being bullied at school in his native Toronto. Quite the indictment, given that Waters’ lyric for\n\nThe Happiest Days Of Our Lives\n\nrailed against his own childhood weaknesses being exposed by bullying teachers. Perhaps\n\nThe Wall’\n\ns pain-infused bricks never crumbled. Perhaps they just got passed down the line.\n\nFloyd’s keyboard player Rick Wright also fell foul of Waters’ realpolitik during the making of\n\nThe Wall\n\n, and the ramifications for the tour were significant. How Wright came to be sacked by Waters, taking part in the live shows only as a kind of glorified session player, takes unravelling.\n\nEven while making the previous album, 1977’s\n\nAnimals\n\n, tensions had arisen between the pair. “Roger started rejecting what I came up with,” Wright told Sylvie Simmons. “It was partly my fault because I didn’t push my material. Or I was too lazy to write anything. My personal life wasn’t happy; my marriage was breaking up.”\n\nBy Waters’ account, he and Wright’s relationship soured further as their US record company Columbia’s delivery deadline for\n\nThe Wall\n\npressed. While the band vacationed in August 1979 (separate destinations, natch), Waters asked Floyd manager Steve O’Rourke to contact Wright and impress upon him that it was now imperative that he haste back to LA’s Cherokee Studios to finish his keyboard parts if Floyd were to deliver\n\nThe Wall\n\non time.\n\nAdditionally, Columbia were dangling a carrot: Floyd would receive an extra royalty percentage point if they met the deadline. But Wright, now moving towards divorce from his first wife, Juliette Gale, was enjoying rare, sacred time with his kids. To him, Waters’ demand to return to the studio a week early seemed pig-headed.\n\nThe Wall at Earls Court in London, 1980\n\n(Image credit: Denis O'Regan/Getty Images)\n\n“[O’Rourke] found Rick in Greece, and Rick’s message was: ‘Tell Roger to fuck off,’” Waters said. “So I gave him an ultimatum to do as he was told and finish the record, keep [his] full share [of the recording royalties] and leave quietly afterwards, or I’d see him in court. He very wisely accepted the former proposal.”\n\nBlake’s book also includes David Gilmour and Nick Mason’s reactions to Wright’s dismissal. These help explain why tensions were running especially high as Pink Floyd completed\n\nThe Wall\n\nand began preparing to tour.\n\n“I called [Roger] from a phone box in Chapelizod, just outside Dublin,” Gilmour recalled. “I said: ‘You can’t do that. [Rick’s] been in the band all the way along. If you don’t like it, your choice is to leave. It isn’t to throw someone out… You’re letting this get very personal, aren’t you?’ I won’t quote what Roger said,” Gilmour added, pointedly.\n\nIn truth, the guitarist also felt that Wright’s commitment wasn’t what it had been, but he considered the keyboard player’s position in Floyd “sacrosanct”, and clarified his views once they were all back in Los Angeles.\n\n“Rick said: ‘Do you still want me in the band?’ I said, ‘Not particularly, because you’re not doing anything, but I’ll support your right to be in it till the end.’”\n\n“He [Wright] had been forced to hang around, really, not doing anything for months,” Nick Mason told\n\nProg\n\n’s Daryl Easlea in 2019. “So he had gone stir-crazy and just said: ‘No, I am not giving up my summer holidays.”\n\nWright also contested the claim that he had told Waters to fuck off. But ultimately, all concerned were outflanked by Waters.\n\n“Roger carried out a brilliant campaign to get what he wanted by a certain amount of cajoling and threatening,” said Mason. “Looking back, I should have stuck up for Rick, but I utterly failed to do so and aligned myself with the forces of safety.”\n\n(Image credit: Rob Verhorst/Redferns)\n\nIn May 2022, the Swedish group ABBA’s pioneering, avatar-enabled virtual residency ABBA Voyage opened at London’s Queen Elizabeth Olympic Park. Had the technology been available in 1980, Pink Floyd’s singer and bassist might have utilised it too. “Roger told me he dreamed of having a surrogate band play gigs so he could avoid the tedium of long tours and play golf instead,” Gerald Scarfe recalled. Eighteen holes while the group played on? Even Waters knew this was a pigs-might-fly scenario. Yet his surrogate band fantasy became a reality during key moments of\n\nThe Wall\n\nlive shows.\n\nAdditional musicians and backing vocalists were required to aid the core Floyd quartet bringing the LP’s sometimes complex music to stage. These included guitarist Snowy White, then moonlighting from\n\nThin Lizzy\n\n, sometime\n\nStatus Quo\n\nbassist Andy Bown, plus drummer John ‘Willie’ Wilson and keyboard player Peter Wood, both of whom had played with folk-rock band Sullivan Brothers & Quiver.\n\nBetween them, these four wore specially moulded latex masks in the images of Waters, Gilmour, Wright and Mason during concert opener\n\nIn The Flesh\n\n. “I had been around Pink Floyd for years,” recalled Wilson, a long-term pal of Gilmour’s, “but it was very weird wearing a mask of Nick Mason’s face.”\n\nNaturally, when the real Pink Floyd appeared it was a coup de théâtre: as\n\nIn The Flesh\n\nclosed, a model of a Stuka dive bomber crashed into the stage, then the surrogate band froze, the real Floyd stood up, and the crowd realised they’d been hoodwinked. Today, fan-shot YouTube spoilers would have sunk the surrogate set-piece after the opening night, but in 1980 it retained its element of surprise for a little longer.\n\nNonetheless, some details of the show had been leaked. Bob Ezrin explained how, while he was going through a divorce and fighting for custody of his children, a journalist friend had teased information from him about the performances while he was not at his best, and leaked the story to\n\nBillboard\n\n. The magazine’s spoiler article appeared before the opening night. Consequently, Waters/Ezrin relations were ruined, albeit temporarily.\n\n“Roger went nuclear and had me banned from seeing the show,” the producer recalled. But when the production reached Nassau Coliseum on Long Island, New York in February 24, Ezrin’s cachet there was such that he was able to gain admittance anyway: “I went backstage at the interval, and I think Roger hid in the dressing room.”\n\nDavid Gilmour on the Wall Tour at Earls Court in London, August 4, 1980\n\n(Image credit: GEMA/IconicPix)\n\nInitially, Pink Floyd played a seven-night run at the Los Angeles Memorial Sports Arena after three weeks of intensive rehearsals.\n\nSurrogate band member Andy Bown recalled: “I remember [Floyd manager] Steve O’Rourke saying: ‘I hope this fucking works, Andy, because we’re two-point-eight million dollars down the pan already.”\n\n“It was the gigantic scale that was so terrifying,” Scarfe remembered. “The whole Roman circus of it. But I just had to generate the ideas - someone else had to work out how things would actually happen technically, architecturally or mechanically.”\n\nThings happening included the 49-foot-high incarnation of Waters’ psychotic Scottish schoolteacher during\n\nAnother Brick In The Wall Part 2\n\n, while the 500lb, 35-feet high inflatable mother who arrived during the song of the same name was another grotesque. In Waters and Scarfe’s world, unlike that of a certain\n\nKate Bush\n\nsong, mother did not stand for comfort. Rather, the maternal bond was portrayed as suffocating and controlling, a poisonous thing.\n\nClearly,\n\nThe Wall\n\nlive was all risk, a deliberate detonation of normal audience/performer conventions. Or as\n\nProg\n\n’s Daryl Easlea put it, “a mere 31 [dates] in four cities that fundamentally reshaped the concept of the stadium concert”. Adding to the slap in the face that was the wall’s part obfuscation of the band, Waters arranged for the shows to be introduced by warm-up MCs whose job was to rile the crowd with some creative trolling. Who said prog had learned nothing from punk?\n\nOne of these MCs, sometime Saturday Night Live comedian Gary Yudman, recalled the script Waters showed him by way of instruction prior to Floyd’s five-night stand at the Nassau Coliseum: “It said: ‘The MC comes out and talks to the crowd and gets them so pissed off…' Then Roger said to me: ‘I want this, Gary. Can you make them angry? Can you do it?’”\n\nThere was tension and bile galore during Floyd’s performances of\n\nThe Wall\n\n, but also moments of extraordinary poignancy. For example, who could fail to be moved by Scarfe’s animation sequence for\n\nGoodbye Blue Sky\n\n? Especially as the voices of backing vocalists Jon Joyce, Stan Farber, Jim Haas and Joe Chemay merged in\n\nBeach Boys\n\n-style harmonies as the darkly compelling images played out.\n\n“Whenever I give a talk about my work,” Scarfe said in 2009, “those images I used for\n\nGoodbye Blue Sky\n\ncome up. In many ways they explain my childhood experiences of the war as well as Roger’s. Roger and David’s music was incredibly inspiring, because the song is sort of this sad counterpoint to\n\n(There’ll Be Bluebirds Over) The White Cliffs Of Dover. Goodbye Blue Sky\n\nis about the ones that didn’t make it back, who of course included Roger’s father.”\n\nRoger Waters on the Wall Tour at Earls Court in London, August 4, 1980\n\n(Image credit: GEMA/IconicPix)\n\nTalking to journalist Phil Sutcliffe in 1995, Rick Wright aired mixed feelings about\n\nThe Wall\n\ntour - although not because he was bitter about being demoted to hired hand.\n\n“We were hidden half the time,” he recalled. “While you were playing, you had lots of roadies running around, putting things up, taking things down. It felt very impersonal.\n\n“I was quite prepared to swallow my pride to go out and play with Dave and Nick,” he added. “Strangely there wasn’t any animosity on stage. I think it’s the nature of my character - I accept what’s happened and make the best of it.”\n\nElsewhere, when Wright was asked why he agreed to do the tour given Waters’ shenanigans, he responded with admirable honesty. “Maybe I couldn’t handle the idea of just standing up and saying: ‘Right, that’s it. Bye bye.’ I thought if I’m going to leave, at least I know I’ve got another month or so to carry on working - possibly with the hope that things might change.”\n\nThings didn’t change, of course. Waters stuck to his guns, and Gilmour and Mason bent to his will - for now, anyway. But Wright had the last laugh. No longer an official member of Pink Floyd after Waters’ manoeuvring, he wasn’t personally responsible for the hefty financial losses (some $600,000, Waters later said) that The Wall tour incurred. Wright was on $5,000 a show, and recalled “making a little money”.\n\nMeanwhile, Gilmour - very much responsible for the musical, rather than theatrical side of the shows - recalled them being “terrific”, although with some reservations. “I enjoyed them thoroughly, but as they went along I became more aware of the restrictions imposed by something that was so choreographed,” he told Sylvie Simmons.\n\nBut there was one piece of choreography that Gilmour wouldn’t have missed for the world. During\n\nComfortably Numb\n\n, he sang the song’s choruses and delivered its magnificent guitar solo atop the wall. No matter that he was perched precariously on a flight case that his guitar tech Phil Taylor was holding in place on top of a hydraulic lift platform, from the audience’s perspective the guitarist appeared to be floating in mid-air, much more rock god than Humpty Dumpty.\n\nDavid Gilmour and Roger Waters on 'The Wall' tour at Earls Court, London, August 7, 1980\n\n(Image credit: Pete Still/Redferns)\n\nGilmour’s elevated platform had a safety rail, which is why Floyd’s road crew dubbed it ‘Dave’s pulpit.’ Dispensing his bluesy benediction, and enjoying crowds and a vantage point not dissimilar to that popes must experience looking out on St. Peter’s Square, Gilmour felt the buzz. “It was a fantastic moment,” he recalled. “Every night there’d be this sort of gasp as the audience looked up and saw me.”\n\nComfortably Numb\n\nwas Gilmour’s chance to shine; the equivalent of that bit in Simon & Garfunkel’s famed free show in NYC’s Central Park where Art Garfunkel steps forward to sing\n\nBridge Over Troubled Water\n\n, and its writer Paul Simon must play second fiddle.\n\nThere were grave tensions between Paul Simon and Art Garfunkel, and there were grave tensions in Floyd. Beneath the surface lay a hotbed of resentment. The band’s middle-class, very English reserve papered over the cracks, but the fissures were there all right, complex and far-reaching, festering away. Waters recalled backstage being “pretty separatist. Separate trailers, none facing each other, with all our little camps. The atmosphere was awful, but the show was so important that I don’t think that affected me at all,” he claimed.\n\nWas that really true, though? If you read that last quote again you can almost smell the cement; almost hear Waters slot another brick of his defensive wall into place. Credit is due, though, regarding Pink Floyd’s frontman’s adherence to one of\n\nThe Wall\n\ntour’s key principles.\n\nDavid Gilmour and Roger Waters, joined by the supporting musicians, as they perform the show's final song, Outside The Wall. Earls Court, London, August 7, 1980\n\n(Image credit: Pete Still/Redferns)\n\nAt the end of February 1980, after the Los Angeles and New York dates, promoter Larry Maggid offered Floyd a cool $1 million (four million in today’s money) to stage the show at Philadelphia’s JFK Stadium. The vast space’s capacity was around 102,000 - about 85,000 more than Waters considered desirable or defensible at the time. Waters flatly declined Maggid’s offer, and explained his rationale to his bandmates.\n\n“I said to the others: ‘You’ve all read my explanation of what\n\nThe Wall\n\nis about,’” he told journalist Chris Salewicz. “‘It’s three years since we did that last stadium, and I saw then that I would never do one again.\n\nThe Wall\n\nwas entirely sparked by how awful that was and how I didn’t feel the public or the band got anything out of it that was worthwhile. And that’s why we’ve produced this show for arenas, and I ain’t fucking going.’”\n\nWaters also inferred that his bandmates had considered playing the JFK Stadium show without him: “There was a lot of talk about whether Andy Bown could sing my parts, but in the end they bottled out.”\n\n“I immediately said yes and would have been delighted to do it,” Bown told Mark Blake, seemingly confirming that such a conversation had taken place.\n\nUnsurprisingly, though, Gilmour’s take on Maggid-gate was very different. “Going on tour without Roger never got beyond a band fantasy/joke,” he said. “We never seriously considered doing\n\nThe Wall\n\nwithout Roger.”\n\nAll the same, the very idea that touring without Waters was a fantasy his bandmates and supporting cast enjoyed seemed like a dig, Gilmour’s attempt to take Waters down a peg. However you looked at it, the ground was shifting, the power dynamics that governed Floyd’s activities in flux.\n\nBy the time Waters, by then solo, performed\n\nThe Wall in Berlin in 1990,\n\nmoreover, vast crowds no longer seemed to concern him. Still, commemorating the recent historic fall of the actual Berlin Wall, performing where it once stood, in front of an estimated 400,000 people, was a pretty good reason to cut loose and break your own rules. Especially as the concert’s esteemed special guests included\n\nJoni Mitchell\n\n,\n\nVan Morrison\n\nand\n\nScorpions\n\n.\n\nThe crowd lingers in the venue after The Wall concert, Earls Court, August 6, 1980\n\n(Image credit: Rob Verhorst/Redferns)\n\nAt the end of February 1980, the original Floyd-performed version of\n\nThe Wall\n\ntook an extended hiatus after the first 12 dates in Los Angeles and New York. That April,\n\nRun Like Hell\n\nbecame the last ever Waters/Gilmour co-write to be released as a single, although nobody knew it at the time.\n\nSpring also saw the group return to the UK after a year in various overseas locations as tax exiles. A voluminous shipment of props and state-of-the-art audio-visual tech for\n\nThe Wall\n\ntour came with them, as did the show’s 80-strong production crew. It was time for rehearsals at Shepperton film studios to begin for a six-night run at London’s Earls Court.\n\nRick Wright’s demotion to hired hand had not yet been made public, but in a candid interview with\n\nNewsweek\n\nWaters aired Floyd’s dirty laundry. “We have been pretending we’re all jolly good chaps together, but that hasn’t been true in seven years,” he carped. “I make the decisions. We pretended it was a democracy for a long time, but this album was the big own-up.”\n\nFortunately, Floyd’s music was still special enough to drown out the white noise of internal bickering. For fans, including future\n\nProg\n\nwriter Daryl Easlea, then 14, the shows at Earls Court that August were mind-blowing, a near religious experience. “I knew my life would never again be the same again,” he wrote some 40 years later.\n\nJust post-punk, Pink Floyd and their latest elaborate concept album were still being pilloried in the press,\n\nThe Wall\n\n’s music deemed a snorefest. Unsurprisingly, the record’s attendant live spectacular - the very antithesis of punk’s no-frills music and staging - didn’t get an easy ride either, certainly not from\n\nMelody Maker\n\n.\n\n“If Roger Waters had hung around much longer, I’d have been down the front with a trowel and a bowl of cement, helping the bugger brick himself up,” wrote Allan Jones, reviewing an Earls Court show on August 8. Later in the run, Waters took revenge from the stage, calling Jones “a stupid shit”. No slight against Floyd’s frontman went unnoticed. No battle, it seemed, was too small for him.\n\nAs the year played out, Floyd’s four members busied themselves with other projects. Gilmour and his first wife Ginger moved to Hookend Manor in Oxfordshire with their children Alice and Clare. Wright licked his wounds. Mason finished his solo album Nick Mason’s\n\nFictitious Sports\n\n. Waters turned his attention to the movie version of\n\nThe Wall\n\nthat would be directed by Alan Parker and released in 1982.\n\nFirst though, came further live performances of\n\nThe Wall\n\n. In February 1981 Floyd played an eight-night run at Westfalenhallen in Dortmund, Germany, then in June a final five-night stand back at Earls Court. The London shows were filmed with a view to using some of the footage in\n\nThe Wall\n\nfilm, but the footage was ultimately deemed unsuitable and canned.\n\nIn his afterword for his 2025 book\n\nPink Floyd Shine On: The Definitive Oral History\n\n, Mark Blake characterises the group’s infighting thus: “If Pink Floyd were a family wedding, Nick Mason would be the toastmaster and the other two would be sat at opposite ends of the top table, complaining about each other to anyone who’ll listen.”\n\nKeyboard player Rick Wright had sadly passed away due to lung cancer in 2008, so the “other two” were of course Waters and Gilmour. Warring stakeholders at the nub of Floyd’s creative flow, the pair somehow made one more Pink Floyd album together. But\n\nThe Wall\n\nalbum and tour’s tensions had shook the band’s foundations, and that album, 1983’s\n\nThe Final Cut\n\n, was deeply flawed, and a Waters solo record in all but name. He and Gilmour argued about its political stance. Gilmour thought several songs sub-standard, not good enough to release. Rick Wright didn’t play on the record, and Nick Mason had a restricted role, as much mediator as musician.\n\n“We’d been arguing since 1974, for god’s sake,” Waters told Sylvie Simmons, talking about\n\nThe Final Cut\n\nin 1999. “Too long. At a certain point you have to say this is not working, the point has come to break up.”\n\nWaters was the instigator, and shortly after he left Pink Floyd in 1985 he began a legal battle with his former bandmates regarding their continued use of the name Pink Floyd and Pink Floyd material. Once more unto the breach…\n\nBack in June 1981, when the original tour of\n\nThe Wall\n\nended at Earls Court, no one knew that it would be the last time Waters, Gilmour, Wright and Mason would perform on stage together for 24 years. But hell eventually froze over – for one night only. Appearing as\n\nPink Floyd at the Live 8 benefit in Hyde Park, London\n\non July 2, 2005, the four men seemed fully aware of the moment’s significance, Waters at times grinning broadly.\n\nFor a blissful 23 minutes, walls came tumbling down as they played\n\nBreathe (In The Air), Money, Wish You Were Here, Comfortably Numb\n\n… and no encores, then or since.\n\nWith special thanks to Mark Blake for material from his books Pink Floyd: Shine On – The Definitive Oral History, and Pigs Might Fly: The Inside Story Of Pink Floyd. See markrblake.com for details.",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-16T02:29:27+00:00",
+      "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
+      "retry_after": 1792127805
     }
   ]
 }
