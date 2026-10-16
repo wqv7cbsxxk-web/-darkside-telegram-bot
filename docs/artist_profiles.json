@@ -3773,7 +3773,7 @@
       "website": "http://gojira-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gojira_%28band%29",
       "reference_checked_at": "2026-10-15T15:21:32.895395+00:00",
-      "tour_attempted_at": "2026-10-05T07:13:54.528110+00:00",
+      "tour_attempted_at": "2026-10-16T09:50:33.946807+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T15:21:32.895696+00:00"
     },
@@ -3807,7 +3807,7 @@
       "website": "http://exodusattack.com",
       "reference_url": "https://en.wikipedia.org/wiki/Exodus_%28American_band%29",
       "reference_checked_at": "2026-10-15T15:21:33.317415+00:00",
-      "tour_attempted_at": "2026-10-05T07:13:54.831083+00:00",
+      "tour_attempted_at": "2026-10-16T09:50:34.353591+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T15:21:33.317436+00:00"
     },
@@ -3837,7 +3837,7 @@
       "website": "http://hakenmusic.com",
       "reference_url": "https://en.wikipedia.org/wiki/Haken_%28band%29",
       "reference_checked_at": "2026-10-15T19:18:30.387984+00:00",
-      "tour_attempted_at": "2026-10-05T07:13:55.013324+00:00",
+      "tour_attempted_at": "2026-10-16T09:50:34.526908+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T19:18:30.388057+00:00"
     },
@@ -3867,7 +3867,7 @@
       "website": "http://immolation.info",
       "reference_url": "https://en.wikipedia.org/wiki/Immolation_%28band%29",
       "reference_checked_at": "2026-10-15T19:18:30.462322+00:00",
-      "tour_attempted_at": "2026-10-05T07:13:55.513766+00:00",
+      "tour_attempted_at": "2026-10-16T09:50:35.527303+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T19:18:30.462341+00:00"
     },
@@ -4125,8 +4125,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://emperorhorde.com",
       "reference_url": "https://en.wikipedia.org/wiki/Emperor_%28Norwegian_band%29",
-      "reference_checked_at": "2026-10-02T02:35:23.274412+00:00",
-      "tour_attempted_at": "2026-10-05T22:27:04.228327+00:00"
+      "reference_checked_at": "2026-10-16T09:50:32.631943+00:00",
+      "tour_attempted_at": "2026-10-05T22:27:04.228327+00:00",
+      "reference_attempted_at": "2026-10-16T09:50:32.632016+00:00"
     },
     "overkill": {
       "origin": "Old Bridge Township, New Jersey , U.S.",
@@ -4665,8 +4666,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://waspnation.com",
       "reference_url": "https://en.wikipedia.org/wiki/W.A.S.P._%28band%29",
-      "reference_checked_at": "2026-10-02T02:35:28.551872+00:00",
-      "tour_attempted_at": "2026-10-06T15:58:59.455999+00:00"
+      "reference_checked_at": "2026-10-16T09:50:32.728865+00:00",
+      "tour_attempted_at": "2026-10-06T15:58:59.455999+00:00",
+      "reference_attempted_at": "2026-10-16T09:50:32.728949+00:00"
     }
   }
 }

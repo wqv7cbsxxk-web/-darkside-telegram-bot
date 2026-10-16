@@ -21344,6 +21344,644 @@
           "source_url": "https://musicbrainz.org/release-group/fdbeab7f-8c4d-4075-a058-42e4215641bc"
         }
       ]
+    },
+    "nightwish": {
+      "name": "Nightwish",
+      "musicbrainz_url": "https://musicbrainz.org/artist/00a9f935-ba93-4fc8-a33a-993abe9c936b",
+      "reference_checked_at": "2026-10-16T09:50:43.161538+00:00",
+      "genres": "metal, power metal, symphonic metal",
+      "bandcamp_url": "https://nightwish.bandcamp.com/",
+      "website": "https://www.nightwish.com/",
+      "members": [
+        {
+          "name": "Tuomas Holopainen",
+          "role": "keyboard, lead vocals, original, piano",
+          "begin": "1996"
+        },
+        {
+          "name": "Emppu Vuorinen",
+          "role": "classical guitar, guitar, original",
+          "begin": "1996"
+        },
+        {
+          "name": "Troy Donockley",
+          "role": "background vocals, low whistle, uilleann pipes",
+          "begin": "2013-10-09"
+        },
+        {
+          "name": "Kai Hahto",
+          "role": "drums (drum set)",
+          "begin": "2019"
+        },
+        {
+          "name": "Jukka Koskinen",
+          "role": "bass guitar",
+          "begin": "2022-08-21"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/00a9f935-ba93-4fc8-a33a-993abe9c936b",
+      "albums": [
+        {
+          "name": "Bestwishes",
+          "date": "2005-03-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/033b0011-62d9-35d9-a766-56a2e8409543"
+        },
+        {
+          "name": "Over the Hills to Wacken",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/038efbc7-df4e-4ec9-8576-f372496903da"
+        },
+        {
+          "name": "End of an Era",
+          "date": "2006-06-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/07539811-f143-3c77-8584-56860ea044cb"
+        },
+        {
+          "name": "Imaginaerum",
+          "date": "2011-10-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0eaa9306-e6df-47be-94ce-04bfe3df782c"
+        },
+        {
+          "name": "The Greatest Show in Argentina",
+          "date": "2015",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1481f7ec-4853-40ae-b673-566687ecb7ec"
+        },
+        {
+          "name": "The Siren",
+          "date": "2005-07-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/15444c4e-9384-3482-a935-4cd007455d71"
+        },
+        {
+          "name": "The Islander",
+          "date": "2008-05-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1770e3b7-1d0a-3bab-88a4-b19260703971"
+        },
+        {
+          "name": "Nightwish 1997–2001",
+          "date": "2002-01-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/189b1a12-bb22-3ba6-b37e-929841001dfd"
+        },
+        {
+          "name": "Nemo",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/19a12480-db73-3aa9-8014-e130507be9bb"
+        },
+        {
+          "name": "Red Passion Box",
+          "date": "2018",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1d8703d1-c3a2-4481-a0e2-873056483103"
+        },
+        {
+          "name": "Century Child / Live in Moskau, Volume 2",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1fa13651-761b-463d-92b8-6b8884e35766"
+        },
+        {
+          "name": "Box‐Set 1",
+          "date": "2003-12-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/24081fc6-4879-496e-9c58-1738721e41b8"
+        },
+        {
+          "name": "Angels Fall First",
+          "date": "1997-09-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2bc7b2b4-7210-38a6-b2b0-be73e17ed9fe"
+        },
+        {
+          "name": "My Walden",
+          "date": "2016-04-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2f03d33b-6ea9-47f3-ab27-082c5968fb8d"
+        },
+        {
+          "name": "Endless Forms Most Beautiful",
+          "date": "2015-03-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2f225b26-8867-41bc-aede-718bd3c9fa18"
+        },
+        {
+          "name": "Ghost Love Score (live)",
+          "date": "2013-11-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/313dbd6b-d952-4db7-ab7b-a85d2892048d"
+        },
+        {
+          "name": "Oceanborn",
+          "date": "1998-12-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/330d46a3-bd4e-3f5a-83c1-ec2b47f9a8d3"
+        },
+        {
+          "name": "Dark Chest of Wonders",
+          "date": "2021-06-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/340f99fd-a682-4755-bd50-93aaeaef8860"
+        },
+        {
+          "name": "Starfacts Presents Nightwish",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/344b0c37-c1d4-4ecc-8cf9-9640e9e39738"
+        },
+        {
+          "name": "Box‐Set 3",
+          "date": "2003-12-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/35dcf45a-9e4e-44ea-b34c-35c36e4bd0f2"
+        },
+        {
+          "name": "Kuolema tekee taiteilijan",
+          "date": "2004-11-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/37cd8762-1cab-36ee-b01f-be20bfffb874"
+        },
+        {
+          "name": "Virtual Live Show From the Islanders Arms 2021",
+          "date": "2022-03-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3a3911e3-2d32-4e8f-9b39-9586026a97ec"
+        },
+        {
+          "name": "Wishmastour 2000",
+          "date": "2001-11-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3ecf2aaf-f553-35c8-9d4a-fe79a198627b"
+        },
+        {
+          "name": "Amaranth",
+          "date": "2009",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/403a4ed9-c4dc-4164-9011-5867e388cad5"
+        },
+        {
+          "name": "Over the Hills and Far Away",
+          "date": "2001-06-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/44346904-13f3-325d-8f81-7b3a4745e957"
+        },
+        {
+          "name": "Showtime, Storytime",
+          "date": "2013-11-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4564f601-c1c5-493e-af4f-c84c9ca933aa"
+        },
+        {
+          "name": "How’s the Heart?",
+          "date": "2021-11-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4611da7d-bd35-4379-9165-6697b8760b30"
+        },
+        {
+          "name": "Box‐Set 2",
+          "date": "2003-12-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/48b4054f-d844-4617-9320-601037f2771b"
+        },
+        {
+          "name": "Deep Silent Complete",
+          "date": "2000-07-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/49166ce6-708e-31cf-8bca-d389e795b25a"
+        },
+        {
+          "name": "Nymphomaniac Fantasia",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4a39c46a-8d1f-33fb-ab5b-bc7edc666929"
+        },
+        {
+          "name": "Mysteries, Volume 2",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4a5d13c1-ed5f-3664-b192-67d7d06b9709"
+        },
+        {
+          "name": "Made in Hong Kong (and in Various Other Places)",
+          "date": "2009-03-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/50624b0e-b675-32bb-ad20-5095f3b79301"
+        },
+        {
+          "name": "Vehicle of Spirit",
+          "date": "2016-12-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/506d1a3b-5349-484e-9ecc-a65c1f8fc2e9"
+        },
+        {
+          "name": "Bye Bye Beautiful",
+          "date": "2008-02-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/53bf78f2-14c2-3ba9-bb0b-04b4cb92debf"
+        },
+        {
+          "name": "Wish I Had an Angel",
+          "date": "2004-09-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/573e1905-cb66-3c56-b400-bc4ae0867edf"
+        },
+        {
+          "name": "Nightwish: Famous Five",
+          "date": "2008-10-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5b264b04-7808-4342-b28c-57a79c8c911e"
+        },
+        {
+          "name": "Imaginaerum: The Score",
+          "date": "2011-12-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5fbc5995-1b80-4aeb-a31d-48c2d26f0d13"
+        },
+        {
+          "name": "Hultsfred / Sweden, August 02, 2003",
+          "date": "2023-01-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/60e24fab-4fe6-4f62-9020-f40aba780830"
+        },
+        {
+          "name": "Decades: Live in Buenos Aires",
+          "date": "2019-12-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/62c95b7f-2933-43a6-b3ab-ce0e38c9d73b"
+        },
+        {
+          "name": "Live at Wembley",
+          "date": "2016-11-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/63c2d037-9227-4f3d-b52c-4b1717872781"
+        },
+        {
+          "name": "Harvest",
+          "date": "2020-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/63f589b5-5747-4d49-b9da-ea693de83b6f"
+        },
+        {
+          "name": "Shudder Before the Beautiful",
+          "date": "2015-03-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/65180f03-9cf1-42a5-b6cb-685cacea834e"
+        },
+        {
+          "name": "Golden Wishes",
+          "date": "2001-01-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6550648c-3d48-325a-ac38-f595a00a2f4f"
+        },
+        {
+          "name": "Walking in the Air: The Greatest Ballads",
+          "date": "2011-05-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/67c6796e-276d-4de9-a72d-343886eb3e0b"
+        },
+        {
+          "name": "Sacrament of Wilderness",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6cd70ae2-a540-3d44-b7ba-143ce16f6bd7"
+        },
+        {
+          "name": "Storytime",
+          "date": "2011-11-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6d11fe7e-051b-4dfa-a9f7-661089f41ed0"
+        },
+        {
+          "name": "Bless the Century Child",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7106cd3a-487f-445d-baa5-1fcf60135aa3"
+        },
+        {
+          "name": "Music Box",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/750deb23-bba4-4fb8-a4c6-f47a6179650c"
+        },
+        {
+          "name": "The Day Of…",
+          "date": "2024-08-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7582e9e5-bfb2-447a-afdf-417d9751b387"
+        },
+        {
+          "name": "Asylum Choir",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/76aef082-547b-451c-915c-80ba23a6c8f5"
+        },
+        {
+          "name": "Early Demos From “Imaginaerum” & B‐Sides",
+          "date": "2011",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/77d7607a-354c-4fe2-94a7-3563e3b39e29"
+        },
+        {
+          "name": "Lokikirja",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8249d9bb-aa31-4dbf-886e-2108dc7516db"
+        },
+        {
+          "name": "Music",
+          "date": "2021-05-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8416fc35-1f0e-40fc-9f0b-1f9a6986934e"
+        },
+        {
+          "name": "Once",
+          "date": "2004-06-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/84d8f181-8307-360f-bd50-8b6ce1309751"
+        },
+        {
+          "name": "The Ballad Album",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/883cf1a3-f1e8-4fca-a27f-ed86f526fd1d"
+        },
+        {
+          "name": "Human. :||: Nature.",
+          "date": "2020-04-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/887ec003-1f01-4c74-b28e-a81045eea113"
+        },
+        {
+          "name": "Wishsides",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/89117850-da06-3ffd-9d82-299a75da9aad"
+        },
+        {
+          "name": "An Ocean of Strange Islands",
+          "date": "2024-09-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/94d1e153-25a8-4de3-98b3-2f004b05e40d"
+        },
+        {
+          "name": "The Beauty of the Beast",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/967d512b-d9af-31c1-a139-525c660e0846"
+        },
+        {
+          "name": "Nemo (Virtual World version)",
+          "date": "2021-07-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/98a1a445-bad5-430b-a892-310808486ddf"
+        },
+        {
+          "name": "Sleeping Sun",
+          "date": "2005-10-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9b94728c-4536-3685-a2e6-add5976b26bf"
+        },
+        {
+          "name": "Tribal (live in Amsterdam 2022)",
+          "date": "2026-10-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9ce4d963-a605-4f3a-8b67-995516cdfbac"
+        },
+        {
+          "name": "Sleeping Sun (4 Ballads of the Eclipse)",
+          "date": "1999-08-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9ffd8548-a2b3-379d-916a-370207a2310d"
+        },
+        {
+          "name": "Mysteries",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a3da614e-7f04-40bb-b420-e7b808a3546f"
+        },
+        {
+          "name": "The Crow, the Owl and the Dove",
+          "date": "2012-02-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a4134297-ccc1-4dfc-80c8-697b46b9b5a3"
+        },
+        {
+          "name": "Perfume of the Timeless",
+          "date": "2024-05-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a64908f3-ab3c-4a54-83ee-7060b12c6fb7"
+        },
+        {
+          "name": "Nuclear Blast Presents Nightwish Bonus",
+          "date": "2007-12-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b22d1d4f-58c0-4ff3-aab5-ac3c7b98c8fa"
+        },
+        {
+          "name": "Ever Dream",
+          "date": "2002-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bb875eeb-64dc-3dde-baeb-e5693a25c70a"
+        },
+        {
+          "name": "Trials of Imaginaerum",
+          "date": "2012-04-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bc9cd3e0-8362-4209-84f8-7cce23be05d8"
+        },
+        {
+          "name": "Best of Tarja",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bd9dfb4e-ed5b-3ed4-b621-48a040d6b515"
+        },
+        {
+          "name": "End of Innocence",
+          "date": "2003-10-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c0c4a38b-177b-35c8-a231-49e76a7aadd4"
+        },
+        {
+          "name": "Dark Passion Play",
+          "date": "2007-09-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c12897a3-af7a-3466-8892-58af84765813"
+        },
+        {
+          "name": "Highest Hopes: The Best of Nightwish",
+          "date": "2005-09-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c32219a9-4a65-36b0-a423-17ff7cde7ea2"
+        },
+        {
+          "name": "Wishmaster",
+          "date": "2000-05-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c32724fe-9b96-3e3a-b687-fc76b1bcbe25"
+        },
+        {
+          "name": "Bless the Child",
+          "date": "2002-07-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ca019551-7899-3baf-ae78-5b4d5bd38d45"
+        },
+        {
+          "name": "Century Child",
+          "date": "2002-06-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cc4fe8bd-3996-3fe9-9860-fe23189a22a4"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cd75813c-860e-4731-a47c-9386bb44041d"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cfbe2134-24bf-48d9-bb56-239267527aef"
+        },
+        {
+          "name": "Vehicle of Spirit",
+          "date": "2016-12-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d0e1cb77-4821-4c34-ac07-b7386d94fda9"
+        },
+        {
+          "name": "Wishes in the Night",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d30191cc-a1b7-3c7e-b62f-d1b2b13a31cc"
+        },
+        {
+          "name": "Noise",
+          "date": "2020-02-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d409fdc4-396b-4f65-b1e6-2064f69d1a2e"
+        },
+        {
+          "name": "Tales From the Elvenpath",
+          "date": "2004-10-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d761f0ac-0223-37f1-b4cc-e7905165c73d"
+        },
+        {
+          "name": "Eva",
+          "date": "2007-05-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d84bc77f-a896-397c-8fcd-5e9f3ecbe132"
+        },
+        {
+          "name": "The Greatest 30 Years on Earth",
+          "date": "2026-12-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dc19ed51-3c78-441c-9375-2e86fb647357"
+        },
+        {
+          "name": "She Is My Sin",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dd7d8922-8b4e-3cd8-927f-af8cc3e20e39"
+        },
+        {
+          "name": "The Sound of Nightwish Reborn",
+          "date": "2008-09-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e1753839-7b17-38c9-8adc-bfb32b0ec80f"
+        },
+        {
+          "name": "The Phantom of the Opera",
+          "date": "2023-01-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e4f20adc-9250-44ea-a157-e2143bd50266"
+        },
+        {
+          "name": "Yesterwynde",
+          "date": "2024-09-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/eced6fed-ad42-444d-9983-18a5517fc55f"
+        },
+        {
+          "name": "The Carpenter",
+          "date": "1997-09-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ef2df397-6c5f-301f-b76f-36ad05d89c10"
+        },
+        {
+          "name": "Bless the Child",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f2c01c60-71e2-3970-b5eb-a4715c53e025"
+        },
+        {
+          "name": "Endless Forms Most Beautiful",
+          "date": "2015-05-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f4e696e6-4509-44d1-8958-5eab9356fef8"
+        },
+        {
+          "name": "Decades: An Archive of Song 1996–2015",
+          "date": "2018-03-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f56cb7bf-9735-4b2f-9a03-83e8aca119dc"
+        },
+        {
+          "name": "From Wishes to Eternity: Live",
+          "date": "2001-03-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f65348ba-39e0-313f-bb44-ac61dc363630"
+        },
+        {
+          "name": "7 Days to the Wolves (live in Amsterdam 2022)",
+          "date": "2026-08-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f7fb7f4a-45a2-4e76-a216-cddec072cccd"
+        },
+        {
+          "name": "Amaranth",
+          "date": "2007-08-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f831a26c-d3e5-3084-b0c9-6ceb64d75518"
+        },
+        {
+          "name": "Imaginaerum by Nightwish",
+          "date": "2013-05-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fbb25baa-0a35-44e4-8f64-11f92407a916"
+        },
+        {
+          "name": "Élan",
+          "date": "2015-02-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fd8ebf25-c078-42a6-92d5-9f75c7f94094"
+        },
+        {
+          "name": "Oceanborn / From Wishes to Eternity – Live, Volume 2",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fdbd5f76-0267-404f-b0ba-306908b7a7fa"
+        },
+        {
+          "name": "Walking in the Air",
+          "date": "1999-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ff5064db-9715-348b-a957-620e0fd73b95"
+        },
+        {
+          "name": "Erämaan viimeinen",
+          "date": "2007-12-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ffc07834-cd3b-3c46-9d63-77c2848ba759"
+        }
+      ]
     }
   },
   "checked": {
@@ -21422,6 +22060,8 @@
     "morbid-angel": "2026-10-16T00:42:50.829202+00:00",
     "motley-crue": "2026-10-16T00:42:52.107118+00:00",
     "motorhead": "2026-10-16T05:13:50.234269+00:00",
-    "napalm-death": "2026-10-16T05:14:00.037552+00:00"
+    "napalm-death": "2026-10-16T05:14:00.037552+00:00",
+    "nightwish": "2026-10-16T09:50:43.161721+00:00",
+    "obituary": "2026-10-16T09:50:44.425481+00:00"
   }
 }
