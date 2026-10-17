@@ -692,49 +692,17 @@
     "c73b4e7f0629668a4a79e907cda853f323d9380e",
     "6fb8044450d08404e1cc607a07b32acc1641460a",
     "ff069de1c277ce7bf25f770daabf4bd01ed0b874",
-    "04f695bfe1cb5d47c978725d8626a629d519dc99"
+    "04f695bfe1cb5d47c978725d8626a629d519dc99",
+    "07fda0469597f90ae74b1486d09df907ea182a43",
+    "9374528d8fdbd14bc67f8097d8f4ae3254a4cdc9",
+    "bc4c8344d2f2687e420133ad66cde50d8b496b11",
+    "4567085638f65625cfa5544aae70138987f85987",
+    "4b12330e5843d06eadc90f267778452ac55eab29",
+    "7cf27149aa5c4e6b88ecb096d514bfe8fa04400e",
+    "9d16af9b8ef8b73dc34f2023768464a4ed9ec3e3",
+    "1ea55febbf63d227af8fb20f6ef54e3593577afd"
   ],
   "recent_titles": [
-    {
-      "title": "Nikki Sixx proclaims Mötley Crüe shows to be politics-free zones",
-      "source": "Louder",
-      "ts": 1792025828
-    },
-    {
-      "title": "Official Ozzy Osbourne Jiu-Jitsu Gear & Streetwear Coming Via Half Sumo",
-      "source": "ThePRP",
-      "ts": 1792025856
-    },
-    {
-      "title": "From First To Last Announce December Texan Tour With UnityTX, Rosasharin, Etc.",
-      "source": "ThePRP",
-      "ts": 1792025860
-    },
-    {
-      "title": "Primus, Clutch & Crowbar Added To 2027 ‘Sonic Temple’ Festival",
-      "source": "ThePRP",
-      "ts": 1792025865
-    },
-    {
-      "title": "\"That spider was actively trying to kill me.\" Taylor Momsen on being bitten by a venomous brown recluse spider",
-      "source": "Louder",
-      "ts": 1792025878
-    },
-    {
-      "title": "Full EP Stream: Zero Hour –No Man’s Land",
-      "source": "Decibel",
-      "ts": 1792025889
-    },
-    {
-      "title": "Новое видео TEMPERANCE",
-      "source": "Darkside",
-      "ts": 1792025891
-    },
-    {
-      "title": "Extermination Dismemberment’s “Enslaver Of The Continents” Music Video Debuts",
-      "source": "ThePRP",
-      "ts": 1792025898
-    },
     {
       "title": "Richard Thompson's mastery of Fender and folk shines on Hippies, Thugs And Heroes",
       "source": "Louder",
@@ -1494,6 +1462,46 @@
       "title": "Новый альбом SARLIC BLISS выйдет осенью",
       "source": "Darkside",
       "ts": 1792273648
+    },
+    {
+      "title": "System Of A Down Appear To Be Teasing A Los Angeles Stadium Show",
+      "source": "ThePRP",
+      "ts": 1792279937
+    },
+    {
+      "title": "AMON AMARTH: “THE ALLFATHER AWAKENS”",
+      "source": "No Clean Singing",
+      "ts": 1792280000
+    },
+    {
+      "title": "Новая песня NOBODY",
+      "source": "Darkside",
+      "ts": 1792280002
+    },
+    {
+      "title": "BILLY SHEEHAN исполняет Mr.BIG",
+      "source": "Darkside",
+      "ts": 1792280004
+    },
+    {
+      "title": "VCTMS Drummer Meredith Henderson Issues Full Statement Regarding Recent Allegations Of Abuse",
+      "source": "ThePRP",
+      "ts": 1792280028
+    },
+    {
+      "title": "Full Album Stream: Great Falls – The Bite That Grows Up",
+      "source": "Decibel",
+      "ts": 1792280035
+    },
+    {
+      "title": "What it’s like to be in Jethro Tull, by some of those who’ve done it",
+      "source": "Louder",
+      "ts": 1792280050
+    },
+    {
+      "title": "SHARON OSBOURNE: «Мы очень, очень-очень хотели, чтобы MEGADETH выступили на прощальном концерте Оззи»",
+      "source": "Darkside",
+      "ts": 1792280054
     }
   ],
   "initialized_sources": [
@@ -3909,7 +3917,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T19:10:15+00:00",
       "id": "876f0e380ed29bab07d20ff6f276f4eb5127cf8d",
-      "retry_after": 1792043642
+      "retry_after": 1792280305
     },
     {
       "source": "Metal Injection",
@@ -3921,7 +3929,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T18:29:41+00:00",
       "id": "1834789368e897d2953ea559c83ebc82f22da77e",
-      "retry_after": 1792043642
+      "retry_after": 1792280305
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3933,19 +3941,7 @@
       "category": "Хард-рок",
       "published": "2026-10-14T18:20:40+00:00",
       "id": "ff16b61cfefd0d8d20a1469a1d16616fb4fe7420",
-      "retry_after": 1792043661
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "VCTMS Drummer Meredith Henderson Issues Full Statement Regarding Recent Allegations Of Abuse",
-      "link": "https://www.theprp.com/2026/10/14/news/vctms-drummer-meredith-henderson-issues-full-statement-regarding-recent-allegations-of-abuse/",
-      "rss_body": "\"This was a wake up call, and I know I have to earn back trust and respect—if that's even possible. We'll see.\"",
-      "tags": "News Meredith Henderson VCTMS",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T16:27:07+00:00",
-      "id": "4b12330e5843d06eadc90f267778452ac55eab29",
-      "retry_after": 0
+      "retry_after": 1792280308
     },
     {
       "source": "Metal Injection",
@@ -3957,43 +3953,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T16:23:37+00:00",
       "id": "55523d2252c09131aa39f7d0fe81c81e5cac2c33",
-      "retry_after": 0
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Full Album Stream: Great Falls – The Bite That Grows Up",
-      "link": "https://www.decibelmagazine.com/2026/10/14/full-album-stream-great-falls-the-bite-that-grows-up/",
-      "rss_body": "There’s something especially gripping about music like this.\n\nGreat Falls\n\nis composed of veterans from many corners of the heavy music world, with bands like Kiss It Goodbye, Undertow, Playing Enemy, Bastard Feast, Gaytheist adorning their grief-soaked uniforms. It would be a gross oversimplification to label this sludge-influenced hardcore and just leave it at that, as there’s so much going on from the Converge-esque chaos, to the crushing reminders of death metal, grindcore, and math-rock mixed in with all the noise. And it’s with that sense of admiration and bewilderment that\n\nDecibel\n\npresents\n\nThe Bite That Grows Up\n\nstreaming in full.\n\nThe band told us that “We recorded this without playing any of the songs live first and were really worried how people would respond to them. But we’ve finally had a chance to play almost all of the record in front of crowds, and they seem to be coming off how we hoped: anxious, desperate and heartbroken.”\n\nYou have to respect a band with a goal.\n\nThe Bite That Grows Up\n\ncomes out this Friday, October 16, via Neurot Recordings\n\n. Listen to the whole thing below.\n\nThe Bite That Grows Up by Great Falls",
-      "tags": "Full Album Stream Track Premiere great falls Hardcore Neurot Recordings premiere Sludge Metal",
-      "category": "Прогрессив",
-      "published": "2026-10-14T16:00:43+00:00",
-      "id": "7cf27149aa5c4e6b88ecb096d514bfe8fa04400e",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "What it’s like to be in Jethro Tull, by some of those who’ve done it",
-      "link": "https://www.loudersound.com/bands-artists/interviews/jethro-tull-former-members-memories",
-      "rss_body": "In 2017, marking\n\nJethro Tull\n\n’s 50th anniversary,\n\nProg\n\nasked former members\n\nMick Abrahams\n\n, Clive Bunker,\n\nJeffrey Hammond\n\n,\n\nPeter John Vettese\n\nand\n\nTony Iommi\n\nabout their memories of being in\n\nIan Anderson\n\n”s band.\n\nMick Abrahams (guitar, 1967-1968)\n\nBest thing about being in Tull?\n\nThey used to let me sit in the front of the van when we were on the road.\n\nFunniest moment?\n\nWalking around Woolworth’s one day with Ian. We were both trying lampshades on our heads. Ian looked beautiful and I didn’t. An assistant came up to me and said, ‘Are you mad?’ So I replied, ‘He is, but I’m not. Now get us a mirror so we can see which lampshade looks best as a hat.’ And she got us a mirror!”\n\nFavourite Tull album you played on?\n\nThis Was\n\n.\n\nClive Bunker (drums, 1967-1971)\n\nFunniest moment?\n\nOur set in America got longer and longer, and Ian’s flute solo would also get increasingly stretched out. Our tour manager, Eric Brooks, would bring out a card table and two chairs, and set it up behind Ian when he went into his solo.\n\nMartin Barre\n\nand I would sit down and play cards. Eric then came up with a pot of tea for us.\n\nAll this was going on while Ian played, and he had no clue what was happening. This went on for a couple of gigs, with Ian puzzled as to why the audience was laughing as he played. Then one night he turned round and saw us. But fortunately he thought it was hilarious!\n\nFavourite Tull album you didn’t play on?\n\nRoots To Branches\n\n.\n\nJeffrey Hammond (bass, 1971-1975)\n\nBest thing about being in Tull?\n\nHaving the good fortune and privilege to play a small part in their journey. But unquestionably the camaraderie between us at that time was what I value the most.\n\nWorst thing about being in Tull?\n\nHaving to share a bed one night with John Evan in an overbooked hotel in Vienna!\n\nFavourite Tull album you played on?\n\nThick As A Brick\n\n.\n\nPeter-John Vettese (keyboards, 1982-1989)\n\nBest thing about being in Tull?\n\nIt has to be dealing with Ian Anderson. From the time I joined the band, we had a gentleman’s agreement that he would ensure I always got publishing royalties for anything I had contributed to Tull songs. He told me this even before I knew what publishing was. And to this day he has kept his word. His influence on me, and his kindness, has probably been more than I deserve. His moral and ethical compass is unquestioned.\n\nFavourite Tull album you played on?\n\nThat’ll be\n\nThe Broadsword And The Beast\n\n, which is a good transitional album from where the band were to where we wanted to go.\n\nTony Iommi (guitar, 1968)\n\nBest thing about being in Tull?\n\nIan had great discipline, and was very professional in how he went about things. He put me on the right road and when I went back to Brum, I made sure\n\nBlack Sabbath\n\nbecame a lot more organised in everything we did.\n\nFavourite Tull album?\n\nThis Was.\n\nIt made me think about wanting to join the band.",
-      "tags": "Interviews Bands & Artists",
-      "category": "Хэви-метал",
-      "published": "2026-10-14T16:00:00+00:00",
-      "id": "9d16af9b8ef8b73dc34f2023768464a4ed9ec3e3",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "SHARON OSBOURNE: «Мы очень, очень-очень хотели, чтобы MEGADETH выступили на прощальном концерте Оззи»",
-      "link": "http://www.darkside.ru/news/184482/",
-      "rss_body": "SHARON OSBOURNE подтвердила, что организаторы прошлогоднего благотворительного концерта «Back To The Beginning» в Бирмингеме (Великобритания) «очень-очень хотели видеть MEGADETH» среди участников. Это шоу стало последним выступлением Оззи Осборна и BLACK SABBATH.\n\nЖена и менеджер Оззи упомянула коллектив Dave'а Mustaine'а, обсуждая концертный фильм «Ozzy & Black Sabbath: Back To The Beginning», который выйдет в кинотеатрах 28 октября. Картина студии Mercury Studios запечатлела прощальное шоу Оззи и его коллег по SABBATH, гитариста Tony Iommi, басиста Geezer'а Butler'а и барабанщика Bill'а Ward'а. Оно прошло в родном городе Оззи, на домашнем стадионе футбольного клуба Aston Villa, Villa Park, 5 июля 2025 года.\n\nВ программе были и сольные сеты Оззи, и воссоединение оригинального состава SABBATH впервые за более чем два десятилетия, а также длинный список артистов, на которых повлияли Оззи и остальные участники SABBATH. Ведущим вечера стал актёр Джейсон Момоа, а музыкальным руководителем — гитарист RAGE AGAINST THE MACHINE Tom Morello. Свои сеты сыграли ALICE IN CHAINS, ANTHRAX, GUNS N’ ROSES, LAMB OF GOD, MASTODON, METALLICA, PANTERA, SLAYER и TOOL. Среди специальных гостей были лидер SMASHING PUMPKINS Billy Corgan, барабанщик RED HOT CHILI PEPPERS Chad Smith, Sammy Hagar, вокалист AEROSMITH Steven Tyler, Yungblud, барабанщик BLINK-182 Travis Barker и многие другие.\n\nНа вопрос журнала Rolling Stone в новом интервью о том, какие трибьют-выступления произвели на неё впечатление, Sharon ответила:\n\n«Боже мой, было столько великолепных, великолепных выступлений. Это было просто потрясающе. Даже когда на сцене были барабанщики: Travis, Chad и Danny [Carey из TOOL]. В тот день всё было просто здорово. Без Tom'а Morello, без Andy Coppingа [промоутера Live Nation] этого бы никогда не случилось.\n\nTom Morello был абсолютным святым, и он невероятный человек, — продолжила она. — Его чувство музыки, чувство того, что правильно, а что неправильно, — он просто потрясающая личность. Ему нужна канонизация. Он святой металла. Он очень мудр и знает, о чём говорит, на самых разных уровнях.\n\nAndy Copping который тоже уже целую вечность рядом с нами, из Live Nation, — просто невероятный человек музыки, — добавила Sharon. — Нет ни одного коллектива в этом шоу, который не был бы другом Andy. Хотя он работает на Live Nation, огромную корпорацию, Andy Copping'а обожают все. Он один из самых известных промоутеров в мире. Он просто лучший».\n\nПосле того как журналист Rolling Stone заметил: «Вы собрали отличный состав», Sharon открыла секрет:\n\n«Мы очень-очень хотели MEGADETH. Времени не было, мы не могли уместить всех в один день. Планировалось так много коллективов, что мы просто не смогли: времени не хватило».\n\nСпустя пару недель после «Back To The Beginning» басист MEGADETH James LoMenzo заявил, что коллектив Dave'а Mustaine'а не приглашали к участию. Чарри Фольо, которая десять лет проработала под руководством Doc McGhee (BON JOVI, KISS) в артист-менеджерской компании McGhee Entertainment, опубликовала в Ёпплобук-группе «Back To The Beginning - Black Sabbath’s Final Concert» фрагмент интервью с LoMenzo. Она взяла его 9 июля 2025 года для японского журнала BURRN!. Фольо отметила, что трое из так называемой «большой четвёрки» трэш-металла 1980-х, то есть METALLICA, SLAYER и ANTHRAX, выступили на мероприятии, а MEGADETH нет. В ответ LoMenzo сказал:\n\n«Чарри, раскрою тебе секрет. Правда в том, что, по-моему, нас никто не звал, и это нормально. Не все получают приглашение на каждую вечеринку.\n\nНо в то же время, когда мы были в Европе на прошлой неделе, David сказал, что связывался со всеми и говорил, что мы неподалёку и достаточно близко, чтобы приехать. И если бы они захотели, мы могли бы задержаться на несколько дней и всё уладить... Если бы они захотели. Не знаю, чего добился с этим наш менеджер, но ничего не вышло, так что мы просто вернулись домой.\n\nТак что я понимаю, о чём ты [об отсутствии одного из участников „большой четвёрки“ на мероприятии]. Ещё до того, как всё началось, все спрашивали: „А что насчёт MEGADETH?“ Читать это было забавно, потому что никакого приглашения не было, никто ни с кем не разговаривал, мы вообще не имели ко всему этому никакого отношения. Это была интересная ситуация: мы чествовали Оззи [Осборна] на заслуженном отдыхе... Так или иначе, шоу было потрясающим! Я бы очень хотел там быть. Я знал об этом шоу за много месяцев.\n\nЯ записываюсь с Bill'ом Ward'ом [оригинальным барабанщиком BLACK SABBATH], — рассказал LoMenzo. — Он делает свою [новую сольную] пластинку, и время от времени мне поступает чудесный звонок от его ассистента Уолтера: „Bill'у очень хотелось бы, чтобы ты приехал и записал с ним песню“. Вы не представляете, как это звучит для моего мозга. Меня это выбивает из колеи, но я работаю с ним уже какое-то время.\n\nОн намекал мне на это шоу. Я спрашивал, разговаривал ли он с кем-нибудь из парней из BLACK SABBATH, и он отвечал, что говорит с Оззи каждый день, потому что тогда Оззи было нехорошо, так что мне было любопытно. Он сказал: „Кстати, похоже, мы можем дать прощальное шоу“. Так что он, очевидно, знал об этом ещё до объявления. Поэтому я был в восторге, когда всё воплотилось в жизнь: я знал, что для всех парней из BLACK SABBATH очень много значит присутствие Bill'а на сцене».\n\nВозвращаясь к отсутствию MEGADETH на мероприятии, James добавил:\n\n«Я не считаю это скандалом или чем-то подобным. Я знаю, что нас там заметно не хватало, но никого не приглашали».\n\nБывший басист MEGADETH David Ellefson, уволенный из коллектива в мае 2021 года, выступил на «Back To The Beginning» в составе первого из двух наспех собранных суперколлективов. На аншлаговом шоу, которое посетили 42 000 зрителей, он сыграл «The Ultimate Sin» (в компании Lzzy Hale, Nuno'а Bettencourt'а, Jake'а E. Lee, Mike'а Bordin'а и Adam'а Wakeman'а), «Shot In The Dark» (в компании David'а Draiman'а, Jake'а E. Lee, Mike'а Bordin'а и Adam'а Wakeman'а) и «Sweet Leaf» (в компании David'а Draiman'а, Nuno'а Bettencourt'а, Scott'а Ian'а, Mike'а Bordin'а и Adam'а Wakeman'а). Более пяти миллионов зрителей смотрели трансляцию концерта по запросу (VOD).\n\nВ прошлом году Sharon рассказала Billboard, что ей пришлось убрать из состава «Back To The Beginning» одно громкое имя, потому что этот артист «хотел получить прибыль» от события.\n\n«А сейчас не время извлекать прибыль, — добавила она. — После шоу я сообщу всем, кто это был. Думаю, люди будут шокированы».\n\nВ июне 2025 года Sharon рассказала журналу Metal Hammer, что поссорилась с менеджером одного из коллективов, которые изначально должны были выступить на «Back To The Beginning».\n\n«У меня была грандиозная, грандиозная разборка с одним менеджером из-за этого праздника в честь Оззи и SABBATH, — сказала она Metal Hammer. — И, наверное, хуже я себя не чувствовала за много лет. А мне плевать, что этот человек говорит обо мне и думает, потому что он меня не знает. И теперь он ходит и распространяет всякую чушь и враньё, потому что я вышвырнула его коллектив из программы».\n\nSharon не уточнила, какой именно коллектив она вычеркнула из списка, но сказала, что это был не IRON MAIDEN. Два десятилетия назад вокалист IRON MAIDEN Bruce Dickinson вступил в словесную перепалку с женой и менеджером Оззи, когда во время заключительного выступления хедлайнерского сета его коллектива на туре Ozzfest 2005 года в музыкантов летели яйца, зажигалки и лёд.\n\nС момента объявления «Back To The Beginning» в феврале 2025 года из состава не убирали никого, за исключением Wolfgang'а Van Halen'а, который не смог приехать из-за накладок в расписании. Поэтому считается, что загадочный коллектив был исключён ещё до объявления состава.\n\nДочь Оззи и Sharon Келли Осборн опровергла, что именно MEGADETH был тем коллективом, которого убрали из состава «Back To The Beginning». Под ин100грамм-постом, где предполагалось, что Sharon в интервью Metal Hammer имела в виду именно команду Mustaine'а, она написала: «Нет! Не он!»",
-      "tags": "",
-      "category": "Прогрессив",
-      "published": "2026-10-14T15:36:15+00:00",
-      "id": "1ea55febbf63d227af8fb20f6ef54e3593577afd",
-      "retry_after": 0
+      "retry_after": 1792280329
     },
     {
       "source": "Darkside",
@@ -4008,30 +3968,6 @@
       "retry_after": 0
     },
     {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новая песня NOBODY",
-      "link": "http://www.darkside.ru/news/184456/",
-      "rss_body": "“You Don’t Get To Love”, новая песня группы NOBODY, доступна для прослушивания ниже. Этот трек взят из ЕР The Birds Know, выход которого намечен на 12 ноября на Inverse Records:\n\n“You Don’t Know Them”\n\n“You Don’t Get To Love”\n\n“Drugs And Gods”\n\n“Incognito”",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T06:51:58+00:00",
-      "id": "bc4c8344d2f2687e420133ad66cde50d8b496b11",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "BILLY SHEEHAN исполняет Mr.BIG",
-      "link": "http://www.darkside.ru/news/184467/",
-      "rss_body": "BILLY SHEEHAN опубликовал видео исполнения композиции MR. BIG “Green-Tinted Sixties Mind”.\n\nВ недавнем интервью Charlie Kendall’s Metalshop он обсудил, что для него значит успех:\n\n«Оплачивать счета и не так сильно беспокоиться о том, как я буду поддерживать свою жизнь, чтобы я мог уделять этому время – больше времени, чем когда-либо. Для меня это настоящая радость, и я благодарен каждому, кто когда-либо купил пластинку, билет или футболку и дал мне возможность жить в такой роскоши. Для меня это успех. Я могу играть на бас-гитаре в любое время и так долго, как захочу. Я могу записываться. Я свободен в выборе того, что я хочу создать как музыкант, и того, чем я хочу наслаждаться как музыкант. Я в порядке. Мне не нужен частный самолет. Я пью дешевое мальбекское вино – у меня дома нет бутылок вина за 100 долларов, — но мы прекрасно проводим время».\n\n#Mr._Big #Mr.Big",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T06:05:50+00:00",
-      "id": "4567085638f65625cfa5544aae70138987f85987",
-      "retry_after": 0
-    },
-    {
       "source": "Louder",
       "priority": 84,
       "title": "Tuomas Holopainen reflects on 30 years of Nightwish",
@@ -4041,7 +3977,7 @@
       "category": "Прогрессив",
       "published": "2026-10-15T15:09:41+00:00",
       "id": "b8627ce094e15f871bb133333c9bfc54fbccab43",
-      "retry_after": 1792077897
+      "retry_after": 1792280295
     },
     {
       "source": "Metal Injection",
@@ -4053,19 +3989,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T14:27:45+00:00",
       "id": "b8813643295210f92ea2a5445221cc8716d1da1a",
-      "retry_after": 1792077907
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AMON AMARTH: “THE ALLFATHER AWAKENS”",
-      "link": "https://www.nocleansinging.com/2026/10/15/amon-amarth-the-allfather-awakens/",
-      "rss_body": "(Earlier this month Metal Blade Records released the latest album from Amon Amarth, and DGR decided to share his thoughts about it — below.) Oddly, it did not feel as if close to four years had passed for Amon Amarth between the release of 2022’s The Great Heathen Army and their latest release The Allfather\n\n[...]",
-      "tags": "Album Reviews Amon Amarth DGR",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T13:58:16+00:00",
-      "id": "9374528d8fdbd14bc67f8097d8f4ae3254a4cdc9",
-      "retry_after": 1792077934
+      "retry_after": 1792280295
     },
     {
       "source": "Metal Injection",
@@ -4077,7 +4001,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T13:38:42+00:00",
       "id": "85748d127186f72494688a79d3cef331539f30f2",
-      "retry_after": 1792077934
+      "retry_after": 1792280301
     },
     {
       "source": "Metal Injection",
@@ -4089,7 +4013,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T12:33:17+00:00",
       "id": "4da71dd62974056053bdf4743d7dc2a8927284cb",
-      "retry_after": 1792077953
+      "retry_after": 1792280301
     },
     {
       "source": "Metal Injection",
@@ -4101,7 +4025,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:00:00+00:00",
       "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
-      "retry_after": 1792266572
+      "retry_after": 1792280289
     },
     {
       "source": "Metal Injection",
@@ -4113,7 +4037,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T17:10:18+00:00",
       "id": "4d9f2be08e5b1d74c24967411ca765a3963a5141",
-      "retry_after": 1792266572
+      "retry_after": 1792280289
     },
     {
       "source": "Metal Injection",
@@ -4125,7 +4049,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T15:23:41+00:00",
       "id": "14906496ce8d34abc3e4c5bd74c18eff90dc1185",
-      "retry_after": 0
+      "retry_after": 1792280289
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4137,7 +4061,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T20:49:09+00:00",
       "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
-      "retry_after": 1792266571
+      "retry_after": 1792280289
     },
     {
       "source": "Metal Injection",
@@ -4149,7 +4073,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:25:10+00:00",
       "id": "77b1588e20715ae846658427185c711f41edfa37",
-      "retry_after": 1792266572
+      "retry_after": 1792280289
     },
     {
       "source": "Louder",
@@ -4161,7 +4085,7 @@
       "category": "Прогрессив",
       "published": "2026-10-16T02:29:27+00:00",
       "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
-      "retry_after": 1792266568
+      "retry_after": 1792280286
     },
     {
       "source": "Louder",
@@ -4176,7 +4100,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792266560
+      "retry_after": 1792280279
     },
     {
       "source": "Metal Injection",
@@ -4188,7 +4112,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
-      "retry_after": 1792266560
+      "retry_after": 1792280279
     },
     {
       "source": "Metal Injection",
@@ -4200,7 +4124,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
-      "retry_after": 1792266560
+      "retry_after": 1792280279
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4212,7 +4136,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T12:17:13+00:00",
       "id": "2a02732b6da7dc076e27515808483943e76cb609",
-      "retry_after": 1792266563
+      "retry_after": 1792280281
     },
     {
       "source": "Metal Injection",
@@ -4228,7 +4152,7 @@
         "73ecf77997afc50510be4de8d18c56581c68c2f2",
         "1281d9679035a6042490add57117ba0078a761ea"
       ],
-      "retry_after": 1792266560
+      "retry_after": 1792280279
     },
     {
       "source": "Metal Injection",
@@ -4240,7 +4164,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 1792266556
+      "retry_after": 1792280274
     },
     {
       "source": "Metal Injection",
@@ -4252,7 +4176,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:44:42+00:00",
       "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
-      "retry_after": 1792266556
+      "retry_after": 1792280274
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4264,7 +4188,7 @@
       "category": "Хард-рок",
       "published": "2026-10-16T20:17:21+00:00",
       "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
-      "retry_after": 1792266555
+      "retry_after": 1792280273
     },
     {
       "source": "Metal Injection",
@@ -4276,7 +4200,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792266556
+      "retry_after": 1792280273
     },
     {
       "source": "Metal Injection",
@@ -4288,7 +4212,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792266552
+      "retry_after": 1792280257
     },
     {
       "source": "Louder",
@@ -4300,7 +4224,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792266552
+      "retry_after": 1792280257
     },
     {
       "source": "Louder",
@@ -4312,7 +4236,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T10:00:00+00:00",
       "id": "c1ea453807d8fcbdf823e5a66dd8b50643c15a98",
-      "retry_after": 1792266549
+      "retry_after": 1792280254
     },
     {
       "source": "Metal Injection",
@@ -4324,7 +4248,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-17T14:23:28+00:00",
       "id": "1c5cfbe84a92e91546a4f726ca221c8ac38f37ae",
-      "retry_after": 1792266540
+      "retry_after": 1792280238
     },
     {
       "source": "Metal Injection",
@@ -4336,7 +4260,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T15:46:43+00:00",
       "id": "17fb72fb196f9cfc779369925273ef76e14f814e",
-      "retry_after": 1792266540
+      "retry_after": 1792280238
     },
     {
       "source": "Metal Injection",
@@ -4348,7 +4272,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T14:56:10+00:00",
       "id": "75aefeb86fd73e4c90547f178d35ec6916166b04",
-      "retry_after": 1792266540
+      "retry_after": 1792280238
     },
     {
       "source": "Metal Injection",
@@ -4360,7 +4284,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T18:20:57+00:00",
       "id": "dfaa87e155fc4630bcaf24b6f82ebeb9dbeb28ea",
-      "retry_after": 1792273947
+      "retry_after": 1792280237
     }
   ]
 }

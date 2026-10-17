@@ -79,6 +79,47 @@
       "media_checked_at": 1792273652
     },
     {
+      "id": "07fda0469597f90ae74b1486d09df907ea182a43",
+      "title": "System Of A Down Появляется на показе стадиона в Лос-Анджелесе",
+      "short": "Армяно-американский ню-металлический наряд System Of A Down физически дразнит очевидное предстоящее шоу на стадионе Rose Bowl в Пасадене, Калифорния. Знаки, снайперы и легкие проекции логотипа группы появились вокруг родного города группы в Лос-Анджелесе в последнее время, а таймер обратного отсчета на их официальном сайте systemofadown.com указывает на неизбежное раскрытие.",
+      "paragraphs": [
+        "Армяно-американский ню-металлический наряд System Of A Down физически дразнит очевидное предстоящее шоу на стадионе Rose Bowl в Пасадене, Калифорния. Знаки, снайперы и легкие проекции логотипа группы появились вокруг родного города группы в Лос-Анджелесе в последнее время, а таймер обратного отсчета на их официальном сайте systemofadown.com указывает на неизбежное раскрытие. Примечательно, что некоторые из этих рекламных мероприятий также включают стили логотипа / шрифта вышеупомянутого места.",
+        "Это, несомненно, будет желанной новостью для фанатов группы из родного города, так как последние шоу System Of A Down в Лос-Анджелесе состоялись еще в 2022 году на стадионе Banc Of California. Их последнее калифорнийское шоу состоялось в Сан-Франциско еще в 2024 году. System Of A Down уже выкатили несколько дат на 2027 год, включая раунд остановок с возвращающимися альтернативными металлическими первопроходцами Faith No More. В преддверии этого они собираются закрыть первый в истории Sick New World, который состоится в Форт-Уэрте, штат Техас, в следующие выходные.",
+        "10/24 Fort Worth, TX – Sick New World Texas",
+        "С помощью Faith No More :",
+        "Рио-де-Жанейро, BRA - Стадион Maracanã 01/22 Сидней, AUS - Стадион Accor 01/27 Мельбурн, AUS - Стадион Marvel 02/01 Брисбен, AUS - Стадион Suncorp 02/07 Веллингтон, NZ - Стадион Hnry"
+      ],
+      "category": "Хэви-метал",
+      "source": "ThePRP",
+      "published": "2026-10-17T22:39:13+00:00",
+      "original_url": "https://www.theprp.com/2026/10/17/news/system-of-a-down-appear-to-be-teasing-a-los-angeles-stadium-show/",
+      "saved_at": 1792279936,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.theprp.com/app/uploads/2026/07/systemofadownlive2026-1200x675.webp",
+          "caption": ""
+        }
+      ],
+      "original_paragraphs": [
+        "Armenian-American nü-metal outfit System Of A Down have been physically teasing an apparent upcoming show at the Rose Bowl Stadium in Pasadena, CA. Signs, snipers, and light projections of the band’s logo have been showing up around the band’s Los Angeles hometown as of late, with a countdown timer on their official website systemofadown.com pointing towards an imminent reveal. Notably, some those promotional activities also include the logo/font styles of the aforementioned venue.",
+        "This will no doubt be welcome news for hometown fans of the band, as System Of A Down ‘s last Los Angeles shows took place back in 2022 at the Banc Of California Stadium. Their last Californian show went down in San Francisco back in 2024. System Of A Down have already rolled out some dates for 2027, including a round of stops with returning alternative metal trailblazers Faith No More . Ahead of that, they’re set to close out the first-ever ‘ Sick New World ‘ to be held in Fort Worth, TX next weekend.",
+        "10/24 Fort Worth, TX – Sick New World Texas",
+        "With Faith No More :",
+        "Rio de Janeiro, BRA – Maracanã Stadium 01/22 Sydney, AUS – Accor Stadium 01/27 Melbourne, AUS – Marvel Stadium 02/01 Brisbane, AUS – Suncorp Stadium 02/07 Wellington, NZ – Hnry Stadium"
+      ],
+      "content_complete": true,
+      "artists": [
+        {
+          "id": "system-of-a-down",
+          "name": "System Of A Down"
+        }
+      ],
+      "original_title": "System Of A Down Appear To Be Teasing A Los Angeles Stadium Show",
+      "topics": [],
+      "media_checked_at": 1792280055
+    },
+    {
       "id": "542bf7af698b7553a4957f0dbd36456f80df16fe",
       "title": "Новое видео CALVA LOUISE",
       "short": "“La Promesa”? , новое видео CALVA LOUISE, доступно для просмотра",
@@ -5080,7 +5121,7 @@
         "releases"
       ],
       "media_checked_at": 1792160890,
-      "translation_last_attempt": 1792273625
+      "translation_last_attempt": 1792279924
     },
     {
       "id": "7f93b387dec8817cc0a3a9d07f21b5392240b6be",
@@ -6956,7 +6997,8 @@
         "live"
       ],
       "media_checked_at": 1792111355,
-      "translation_last_attempt": 1792273625
+      "translation_last_attempt": 1792273625,
+      "translation_pending": true
     },
     {
       "id": "084a03eebc53b8721ab9596d80e6deeda5f3bab4",
@@ -8122,8 +8164,7 @@
         "releases"
       ],
       "media_checked_at": 1792091906,
-      "translation_last_attempt": 1792266105,
-      "translation_pending": true
+      "translation_last_attempt": 1792279924
     },
     {
       "id": "8d20acc305d16928c214da17831fc87c939fc259",
@@ -9180,6 +9221,104 @@
       "media_checked_at": 1792077686
     },
     {
+      "id": "9374528d8fdbd14bc67f8097d8f4ae3254a4cdc9",
+      "title": "AMON AMARTH: “THE ALLFATHER AWAKENS”",
+      "short": "(Ранее в этом месяце Metal Blade Records выпустил последний альбом от Amon Amarth, и DGR решил поделиться своими мыслями об этом — ниже.) Как ни странно, не было ощущения, что прошло почти четыре года для Amon Amarth между релизом 2022 года The Great Heathen Army и их последним релизом The Allfather Awakens.",
+      "paragraphs": [
+        "(Ранее в этом месяце Metal Blade Records выпустил последний альбом от Amon Amarth, и DGR решил поделиться своими мыслями об этом — ниже.)",
+        "Как ни странно, не было ощущения, что прошло почти четыре года для Amon Amarth между релизом 2022 года The Great Heathen Army и их последним релизом The Allfather Awakens. Возможно, потому что где-то по пути мы, наконец, решили в нашем коллективном подсознании поднять Amon Amarth как до статуса мема, так и до статуса одной из самых больших метал-групп. Они, казалось, гастролировали очень сильно позади The Great Heathen Army, и приличная капельница синглов держала группу в центре внимания.",
+        "Легко понять, почему, потому что на данный момент в их карьере - и тринадцати альбомах - Amon Amarth действительно не нужно много работать, чтобы утвердиться. Вы можете выбрать вокалиста Johan Hegg по звуку из состава, пока у вас есть листовки, направленные прямо на ваше лицо в этот момент. Они неизбежны в любом плейлисте металлических перетасовок, который вам бросают любимые алгоритмы Интернета, обнаружив такую устойчивую медиану, которая существует в нескольких разных жанрах. Вам даже не нужно больше описывать группу по качеству их музыки, поскольку они стали одними из немногих, кто кодифицировал определенный звук, аккуратно распространяясь среди скачущей риффовой работы и силового металла.",
+        "Они являются «группой викингов», и для многих людей этот дескриптор достаточно начального уровня, чтобы им действительно не нужно было много думать о том, действительно ли это что-то значит. Amon Amarth, конечно, не нужно, по сути, заперты на месте со времен Twilight of The Thunder God. Устойчивый механизм солидной музыки со случайным забавным экспериментом, только The Great Heathen Army представляет собой падение качества, поскольку группа слишком сильно погрузилась в средневековую территорию косплея. Коррекция курса даже легка для группы, и именно ее они исполняют на своем новом альбоме The Allfather Awakens.",
+        "photo by Sylwia Makris & Christian Martin Weiss",
+        "Новый альбом возвращает их обратно к этой устойчивой универсальной среде от твердого до хорошего, фантастической в общей перетасовке песен и случайных экспериментах, чтобы разбить вещи. Таким же образом, вы, вероятно, уже догадались, что Amon Amarth прямо в их зоне комфорта звучит точно так же, как Amon Amarth последнего десятилетия плюс. Таким образом, мы снова опоясываем свои чресла для еще одной поездки в мифологию и историю викингов, чтобы отсеять великих от достойных в нашем последнем издании «более широкого каталога Amon Amarth».",
+        "The Allfather Awaken’s ранние записи поддерживают стабильный темп, который вы ожидаете от альбома Amon Amarth. Если вы придерживаетесь целостного мнения о том, что каждый альбом Amon Amarth будет чьим-то первым Amon Amarth релизом, то открытие четырех песен на новом альбоме сделает прочную работу, приветствуя людей. “Gjallarhorn”, как и следовало ожидать, принимает традиционный такт быть открывающим выстрелом в руку, который пробуждает слушателя к путешествию Одина, который служит частью вдохновения для этого альбома.",
+        "Когда вы слышите, как люди называют такие группы, как Amon Amarth, невероятными, чтобы просто перепутать и позволить дико бегать по вашему плейлисту в течение нескольких часов, песня, такая как “Gjallarhorn”, является прекрасным примером. Красное мясо для фанатов Amon Amarth, состоящее из устойчивого двойного баса, который барабанщик Jocke Wallgren не испытывал никаких сомнений по поводу предоставления с момента присоединения к группе, и анемического припева, созданного для более «йо-хо-хо» и размахивающего напитками вокруг толпы, чтобы петь вместе с ней. Частично эпический, но в основном написанный, чтобы обеспечить раннюю возможность кружить яму, “Gjallarhorn” является Amon Amarth’s акциями и торговлей.",
+        "“Eight Legs Of Thunder” мог бы провести аналогичное сравнение, если бы не легкий спагетти-западный саундтрек в некоторых основных гитарных лидах - тогда кросс-культурная верховая езда! - который, похоже, заметили и те, кто предоставил музыкальное видео для песни. В противном случае это припев из шести слогов, и, приятель, мы переходим к следующей галопирующей гитарной части. Amon Amarth тратит мало времени, возвращаясь к рассказу легенды об этом.",
+        "“Kvasir’s Blood” берет раннее название за то, что является песней средней темпа, из которых довольно много появляется в The Allfather Awakens - много в том же духе более ранних “Guardians of Asgard” знаменосцев, которые появились на каждом альбоме Amon Amarth с момента первоначальной титульной ссылки. В то время как “We Rule The Waves” является одним из самых больших моментов толпы, и в этот момент почти суждено быть помолвленным с “Put Your Back Into The Oar”. Если в каталоге Amon Amarth появятся еще какие-либо песни для катания на лодках, они, скорее всего, уведомят о поместье Джимми Баффета.",
+        "“We Rule The Waves”, однако, сталкивается с проблемой того, чтобы быть духовным младшим братом к песне уже там и так начинается немного на задней ноге. “We Rule The Waves” предпочитает гром гитары, а не низкокачественный молот его предшественника, хотя оба более чем счастливы покачиваться назад и вперед, как легкий полюс, пойманный в постоянном бризе, когда приходит время для большого, эпического, полного горения хора. Отрицать его заразность немного глупо, но это признак Amon Amarth. Мы ожидаем этого, и мы были бы более разочарованы, если бы у нас не было больших пауэр-металлических комбинаций каждые три или четыре песни на таком альбоме. Это просто знакомство с ним, которое удерживает его от полного раскрытия своего потенциала.",
+        "Тяжелые интонации “Upphaf” и его пересказ легенд интересны, по крайней мере, разбивая обычный поток Amon Amarth для песни, которая полностью акустическая. У них есть свобода играть с такими идеями, когда вы знаете, что большая часть релиза будет большим блоком прославления викингов. Хотя это не так шокирующее изменение темпа из лагеря Amon Amarth, как “Heidrun”, “Upphaf” делает надежную работу, чтобы держать The Allfather Awakens от того, чтобы быть слишком спокойным. Йохан все еще рычит в песне, но гораздо легче и, очевидно, более понятно, учитывая более спокойный характер песни.",
+        "Впоследствии это одна из более тяжелых песен на альбоме в целом, которая является “Die With A War Cry”, наполненная до краев узнаваемо тяжелой рифф-работой, установленной на среднюю топот. Гитарные зацепки в целом темнее в песне, учитывая преданность death, и почти приземляются в имперском милитаристском царстве, которым овладела Польша Hate. Не так убедительно, как Hate, но эта ведущая мелодия имеет ту же змеиную атаку, с которой они играли. По крайней мере, землетрясение-грохот “Die With A War Cry” является новым для Amon Amarth’s общего пушечного огня, и часто, когда вы имеете дело с опытной группой, задняя половина более поздних альбомов в их карьере, как правило, сильно падает.",
+        "The Allfather Awakens не является полностью неуязвимым и не колеблется достаточно сильно, чтобы быть заметным. “Raven God” делает все возможное, чтобы вызвать зрителей более ранних песен, связанных с черными птицами, в коллекции Amon Amarth’s и “Oden’s Hunt” является поздним альбомом, даже если это самая Amon Amarth песня, которая будет вызвана в составе альбома. Когда они делают свою выбранную формулу и выполняют ее хорошо, это все еще здорово, это просто не дает огромного пространства для творческого дыхания в наши дни, если вы не возьмете некоторые дикие качели, которые Amon Amarth не нужно делать в этот момент.",
+        "Amon Amarth живут существованием своих главных героев альбома, вечно в поисках славной битвы. Будь то мифология или их ближайший альбом, Amon Amarth будут в бою, хотят они этого или нет. Учитывая их характер итерации и слегка смещения звука, единственной точкой сравнения для группы может быть непосредственный предшественник. В противном случае мы будем вращаться по кругу вечно, чтобы прийти к тому же выводу с The Allfather Awakens, что мы делаем со многими Amon Amarth дисками: Это приятный релиз, не особенно сложный или ошеломляющий, но формула Amon Amarth в своей самой базовой до сих пор работает в некоторой степени. Кто может винить их за то, что они наткнулись на простой стиль письма, который работает достаточно хорошо, чтобы они могли переехать на территорию AC/DC, не перепрыгивая через них за это?",
+        "The Allfather Awakens интересен в том смысле, что он намного менее зрелищен, чем The Great Heathen Army. Amon Amarth не урезаны, но они находятся в их самом основном проекте на The Allfather Awakens. Никаких внезапных неожиданных появлений, никаких гостей, даже обложка довольно проста. Альбом Amon Amarth открывает устойчивый альбом Amon Amarth. Пара отличных песен, интересный эксперимент, а затем заполнение остальных их стандартным М.О. «эпического звука и сплошной канавки» для обычных достойных результатов. Конечно, у группы будет несколько песен, которые могут пробиться в сет-лист в течение некоторого времени, но будут ли они иметь постоянную силу, когда они будут поставлены в бой с двенадцатью другими альбомами за пределами первоначального цикла поддержки? Это будет игра в ожидание и просмотр.",
+        "https://lnk.to/TheAllfatherAwakens https://amonamarth.bandcamp.com/album/the-allfather-awakens https://www.facebook.com/amonamarth",
+        "<a href=\"https://amonamarth.bandcamp.com/album/the-allfather-awakens\">The Пробуждение Всеотца\", автор Amon Amarth</a>",
+        "Если у Amon Amarth в каталоге появятся еще какие-либо песни для катания на лодках, они, скорее всего, уведомят о поместье Джимми Баффета.",
+        "Боже мой, дружище, ты вдохновил меня отложить в сторону мои ранние реакции и дать этому еще один спин.",
+        "Этот сайт использует Akismet для уменьшения спама. Узнайте, как обрабатываются ваши данные комментариев."
+      ],
+      "category": "Хэви-метал",
+      "source": "No Clean Singing",
+      "published": "2026-10-15T13:58:16+00:00",
+      "original_url": "https://www.nocleansinging.com/2026/10/15/amon-amarth-the-allfather-awakens/",
+      "saved_at": 1792279999,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.nocleansinging.com/wp-content/uploads/2026/10/Amon-Amarth-The-Allfather-Awakens.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.nocleansinging.com/wp-content/uploads/2026/10/Amon-Amarth_-by-Sylwia-Makris-and-Christian-Martin-Weiss.jpg",
+          "caption": ""
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/LrJjl6FlZ3c?feature=oembed",
+          "caption": ""
+        },
+        {
+          "type": "link",
+          "url": "https://amonamarth.bandcamp.com/album/the-allfather-awakens",
+          "caption": "https://amonamarth.bandcamp.com/album/the-allfather-awakens"
+        },
+        {
+          "type": "link",
+          "url": "https://www.facebook.com/amonamarth",
+          "caption": "https://www.facebook.com/amonamarth"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=351049244/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/",
+          "caption": "<a href=\"https://amonamarth.bandcamp.com/album/the-allfather-awakens\">The Allfather Awakens by Amon Amarth</a>"
+        }
+      ],
+      "original_paragraphs": [
+        "(Earlier this month Metal Blade Records released the latest album from Amon Amarth , and DGR decided to share his thoughts about it — below.)",
+        "Oddly, it did not feel as if close to four years had passed for Amon Amarth between the release of 2022’s The Great Heathen Army and their latest release The Allfather Awakens . Perhaps, because somewhere along the way we finally decided in our collective subconscious to elevate Amon Amarth to both meme status and as one of the bigger metal bands out there, it has felt like they’ve been ever-present. They seemed to tour very hard behind The Great Heathen Army as well, and a decent drip-feed of singles kept the band in the limelight.",
+        "It’s easy to see why, because at this point in their career – and thirteen albums in – Amon Amarth really don’t have to work hard to establish themselves. You could pick vocalist Johan Hegg by sound out of a lineup while you had leaf blowers aimed directly at your face at this point. They’re inescapable on any metal shuffle playlist that the internet’s beloved algorithms throw at you, having found such a steady median to exist on across a few different genres. You don’t even need to describe the band by the quality of their music anymore as they’ve become one of the few that’ve codified a specific sound, spread neatly among galloping riff work and power metal adjacent guitar leads.",
+        "They’re “the Viking band”, and for a lot of people that descriptor is entry-level enough that they don’t really need to devote much thought to whether that actually means anything. Amon Amarth certainly haven’t needed to, essentially locked in place since the days of Twilight of The Thunder God . A steady mechanism of solid music with the occasional fun experiment, with only The Great Heathen Army representing a dip in quality as the band went a little too hard into medieval times cosplay territory. The course correction is even an easy one for the group, and it is one they perform on their newest album The Allfather Awakens .",
+        "photo by Sylwia Makris & Christian Martin Weiss",
+        "The new album returns them back to that steady universal medium of solid-to-good, fantastic on overall song shuffle, and occasional experiment to break things up. By that same token, you’ve likely guessed by now that Amon Amarth directly in their comfort zone sounds exactly like the Amon Amarth of the last decade-plus. Thus, we gird our loins again for another trip into Viking mythology and history to sift the great from the decent on our latest edition of “the wider Amon Amarth catalogue”.",
+        "The Allfather Awaken’s early goings maintain a steady pace through what you would expect from an Amon Amarth album. If you’re taking the holistic view that every Amon Amarth album is going to be somebody’s first Amon Amarth release, then the opening four songs on the new one do a solid job welcoming people into the fold. “Gjallarhorn”, as you would expect, takes the traditional tact of being the opening shot in the arm that awakens the listener to the journey of Odin that serves as parts of the inspiration for this album.",
+        "When you hear people refer to groups like Amon Amarth as being incredible to just mix up and let run wild on your playlist for a few hours, a song like “Gjallarhorn” is a perfect example. Red meat for the Amon Amarth fans, comprising steady double bass that drummer Jocke Wallgren has had no qualms about providing since joining the band, and an anthemic chorus made for the more “yo-ho-ho” and waving your drinks around crowd to sing along to. Partially epic but mostly written to provide an early opportunity to circle pit, “Gjallarhorn” is Amon Amarth’s stock and trade.",
+        "“Eight Legs Of Thunder” could draw similar comparison if it weren’t for the light spaghetti-western soundtrack in some of the main guitar leads – cross-cultural horse riding then! – which it seems those that provided the music video for the song seemed to have noticed as well. Otherwise it’s a six-syllable chorus, and buddy, we’re on to the next galloping guitar part. Amon Amarth waste little time getting back to the legend-telling on this one.",
+        "“Kvasir’s Blood” takes the early title for being the mid-tempo stomp song – of which quite a few appear in The Allfather Awakens – much in the same vein of earlier “Guardians of Asgard” flag-bearers that’ve appeared on every Amon Amarth album since the initial titular reference. Whereas “We Rule The Waves” is one of the bigger crowd singalong moments and at this point is almost fated to be medley’d with “Put Your Back Into The Oar”. If Amon Amarth have any more boating songs in their catalogue coming up they’re likely going to have notify the estate of Jimmy Buffet.",
+        "“We Rule The Waves”, however, finds itself with the challenge of being the spiritual younger sibling to a song already out there and so starts a little on the back foot. “We Rule The Waves” favors the thunder of guitar rather than the low-end hammering of its predecessor, though both are more than happy to sway back and forth like a light pole caught in a steady breeze when it comes time for the big, epic, full-throated chorus. Denying the infectiousness of it is a little foolish but this is an Amon Amarth hallmark. We expect this, and we’d be more disappointed if we didn’t have the big power-metal adjacent singalongs every three or four songs on an album like this. It’s just the familiarity of it that holds it back from seeing its full potential.",
+        "The heavy intonations of “Upphaf” and its retelling of legend are interesting at least, breaking up the usual Amon Amarth flow for a song that is fully acoustic. They have a freedom to play with ideas like this when you know the majority of the release is going to be a big block of Viking glorification set to music. While it isn’t as shocking a change of pace from the Amon Amarth camp as “Heidrun” was, “Upphaf” does solid work in keeping The Allfather Awakens from getting too staid. Johan is still growling his way through the song but much lighter and obviously way more intelligible given the calmer nature of the song.",
+        "Afterward is one of the heavier songs on the album as a whole, which is “Die With A War Cry”, filled to the brim with recognizably heavy riff-work set to a medium stomp. The guitar leads are darker as a whole on the song, given the dedication to death, and almost land in the imperially militaristic realm that Poland’s Hate have mastered. Not quite as percussive as Hate have been, but that lead melody has the same serpentine attack that they’ve played with. At the very least, the earthquake-rumble of “Die With A War Cry” is new-ish to Amon Amarth’s overall cannon fire, and often when you’re dealing with a seasoned band, the back half of the later albums in their career tend to fall off hard.",
+        "The Allfather Awakens isn’t completely immune nor does it falter heavily enough to be noticeable. “Raven God” does its best to summon up specters of earlier blackbird-related songs in Amon Amarth’s collection and “Oden’s Hunt” is the late-album highlight by far, even if it is the most Amon Amarth song to be summoned in the album’s lineup. When they do their chosen formula and execute it well, it’s still great, it just doesn’t provide a tremendous amount of room to breathe creatively these days unless you take some wild swings, which Amon Amarth have no need to do at this moment.",
+        "Amon Amarth live the existence of their album protagonists, forever in search of glorious battle. Whether that be with mythology or their immediate album, Amon Amarth are going to be in combat whether they mean to or not. Given their nature of iterating and slightly shifting their sound, the only comparison point for the band can be the immediate predecessor. Otherwise we spin in circles forever to come to the same conclusion with The Allfather Awakens that we do with many Amon Amarth discs: It’s an enjoyable release, not particularly challenging or mindblowing but the Amon Amarth formula at its most basic still works to an extent. Who could fault them for having stumbled across an easy-going writing style that happens to work well enough that they’ve been able to move into AC/DC territory without anyone jumping all over them for it?",
+        "The Allfather Awakens is interesting in the sense that it is a lot less spectacle than The Great Heathen Army . Amon Amarth aren’t stripped down but they are at their most core-blueprint on The Allfather Awakens . No sudden surprise appearances, no guests, even the cover art is fairly straightforward. The album is Amon Amarth unleashing a steady-paced Amon Amarth album. A couple of great songs, an interesting experiment, and then filling out the rest with their standard M.O of “epic sound and solid groove” for the usual decent results. For certain, the band will have a few songs here that could battle their way into the live setlist for some time to come, but if they’ll have permanent staying power when placed in battle with twelve other albums beyond the initial support cycle? That’ll be a wait-and-see game.",
+        "https://lnk.to/TheAllfatherAwakens https://amonamarth.bandcamp.com/album/the-allfather-awakens https://www.facebook.com/amonamarth",
+        "<a href=\"https://amonamarth.bandcamp.com/album/the-allfather-awakens\">The Allfather Awakens by Amon Amarth</a>",
+        "“If Amon Amarth have any more boating songs in their catalogue coming up they’re likely going to have notify the estate of Jimmy Buffet.”",
+        "god dammit, buddy, you’ve inspired me to put aside my early reactions and give this another spin.",
+        "This site uses Akismet to reduce spam. Learn how your comment data is processed."
+      ],
+      "content_complete": true,
+      "artists": [
+        {
+          "id": "ac-dc",
+          "name": "AC/DC"
+        }
+      ],
+      "original_title": "AMON AMARTH: “THE ALLFATHER AWAKENS”",
+      "topics": [],
+      "media_checked_at": 1792280056
+    },
+    {
       "id": "0daac6df09cd3626b618416ac57927135715bd7e",
       "title": "Bloodshoteye's “The Slaughterhouse Romance”: несуществующая Death метал-группа берет на себя роль серийного убийцы",
       "short": "Decibel Канадские читатели, вероятно, более знакомы с именами. Bloodshoteye и Роберта Пиктона, чем наших новообретенных противников к югу от границы. Какое имя вам знакомо, скорее всего, будет зависеть от того, где находятся ваши интересы.",
@@ -9420,7 +9559,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792059890
+      "media_checked_at": 1792280059
     },
     {
       "id": "c7bf602df01e9ba89d87fdbad29233cb9b22de95",
@@ -9473,7 +9612,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792059891
+      "media_checked_at": 1792280060
     },
     {
       "id": "427e9abb0d6879b31ca81e7a0da0867fb90e2f07",
@@ -10566,6 +10705,72 @@
       "media_checked_at": 1792077689
     },
     {
+      "id": "bc4c8344d2f2687e420133ad66cde50d8b496b11",
+      "title": "Новая песня NOBODY",
+      "short": "“You Don’t Get To Love”, новая песня группы NOBODY, доступна для прослушивания ниже. Этот трек взят из ЕР The Birds Know, выход которого намечен на 12 ноября на Inverse Records: “You Don’t Know Them”",
+      "paragraphs": [
+        "“You Don’t Get To Love”, новая песня группы NOBODY, доступна для прослушивания ниже. Этот трек взят из ЕР The Birds Know, выход которого намечен на 12 ноября на Inverse Records:",
+        "“You Don’t Know Them”",
+        "“You Don’t Get To Love”",
+        "“Drugs And Gods”",
+        "“Incognito”"
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-10-15T06:51:58+00:00",
+      "original_url": "http://www.darkside.ru/news/184456/",
+      "saved_at": 1792280002,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/21945/n172416.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/21945/n172416.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [],
+      "original_title": "Новая песня NOBODY",
+      "topics": [
+        "releases"
+      ],
+      "media_checked_at": 1792280057
+    },
+    {
+      "id": "4567085638f65625cfa5544aae70138987f85987",
+      "title": "BILLY SHEEHAN исполняет Mr.BIG",
+      "short": "BILLY SHEEHAN опубликовал видео исполнения композиции MR. BIG “Green-Tinted Sixties Mind”. В недавнем интервью Charlie Kendall’s Metalshop он обсудил, что для него значит успех:",
+      "paragraphs": [
+        "BILLY SHEEHAN опубликовал видео исполнения композиции MR. BIG “Green-Tinted Sixties Mind”.",
+        "В недавнем интервью Charlie Kendall’s Metalshop он обсудил, что для него значит успех:",
+        "«Оплачивать счета и не так сильно беспокоиться о том, как я буду поддерживать свою жизнь, чтобы я мог уделять этому время – больше времени, чем когда-либо. Для меня это настоящая радость, и я благодарен каждому, кто когда-либо купил пластинку, билет или футболку и дал мне возможность жить в такой роскоши. Для меня это успех. Я могу играть на бас-гитаре в любое время и так долго, как захочу. Я могу записываться. Я свободен в выборе того, что я хочу создать как музыкант, и того, чем я хочу наслаждаться как музыкант. Я в порядке. Мне не нужен частный самолет. Я пью дешевое мальбекское вино – у меня дома нет бутылок вина за 100 долларов, — но мы прекрасно проводим время»."
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-10-15T06:05:50+00:00",
+      "original_url": "http://www.darkside.ru/news/184467/",
+      "saved_at": 1792280004,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/3791/n184467.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/3791/n184467.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [],
+      "original_title": "BILLY SHEEHAN исполняет Mr.BIG",
+      "topics": [],
+      "media_checked_at": 1792280058
+    },
+    {
       "id": "f1467cb39e960fde0ef4448fb1e279d75a502f50",
       "title": "Мастерство Ричарда Томпсона в Fender и фолке сияет на Hippies, Thugs And Heroes",
       "short": "Вы можете доверять Louder Наша опытная команда работала для некоторых из крупнейших брендов в музыке. От тестирования наушников до рецензирования альбомов, наши эксперты стремятся создавать отзывы, которым вы можете доверять.",
@@ -10602,8 +10807,8 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/vsxLTZiqKi6roCAphA6gF.jpg",
-          "caption": "Keyboard wiz Rick Wakeman&#039;s new album Return To The Red Planet documents his continuing Mars obsession "
+          "url": "https://cdn.mos.cms.futurecdn.net/sijJS2jHUY2tMUUMqbtfkZ.jpg",
+          "caption": "Metallica share official footage of title track from classic 1988 album filmed during Life Burns Faster residency at Sphere"
         },
         {
           "type": "video",
@@ -10645,7 +10850,7 @@
       "artists": [],
       "original_title": "Richard Thompson's mastery of Fender and folk shines on Hippies, Thugs And Heroes",
       "topics": [],
-      "media_checked_at": 1792043402
+      "media_checked_at": 1792280058
     },
     {
       "id": "30da9b5725303be7113f0d236fa46c53fb945be8",
@@ -10697,6 +10902,11 @@
         },
         {
           "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/Pv88YV9Qtdyh4j9FCo4nEh.jpg",
+          "caption": "Rogers Waters in 2023 and James Hetfield of Metallica in 2026"
+        },
+        {
+          "type": "image",
           "url": "https://cdn.mos.cms.futurecdn.net/Y2ZbwD9cJPd7BUBDwzRFY6.jpg",
           "caption": "Bono and Ed Sheeran"
         },
@@ -10722,58 +10932,53 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/24F85yFf4naFMvLBqnjkdM.jpg",
-          "caption": "Myles Kennedy"
+          "url": "https://cdn.mos.cms.futurecdn.net/SXsiewuBrdSnu8TenKfFK.jpg",
+          "caption": "Bobbie Dazzle and Thijs van Leer"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/LHuEKrn8gGZcQBxyDnBSQd.jpg",
-          "caption": "British Lion group portrait"
+          "url": "https://cdn.mos.cms.futurecdn.net/sijJS2jHUY2tMUUMqbtfkZ.jpg",
+          "caption": "Metallica studio portrait"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/Q26nycXWd7DkVc6TN6riBL.png",
-          "caption": "Pavlov&#039;s Dog singer David Surkamp"
+          "url": "https://cdn.mos.cms.futurecdn.net/vHGKxrRsuFKMgNPjHZK6iX.jpg",
+          "caption": "Glenn Hughes at Sweden Rock Festival on June 07, 2025"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/tR8YdxbEFbhdK4zDnhNThc.jpg",
-          "caption": "The Rolling Stones"
+          "url": "https://cdn.mos.cms.futurecdn.net/w6J6WVibpZ4tV6Giy6cDxA.jpg",
+          "caption": "Anthony Phillips in 2024"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/E2z3VGUaw4y3GczToAiV37.jpg",
-          "caption": "UNSPECIFIED - CIRCA 1970:  Photo of Jethro Tull  Photo by Michael Ochs Archives/Getty Images"
+          "url": "https://cdn.mos.cms.futurecdn.net/UvkHHfSxEXULnZXY34Nrbk.jpg",
+          "caption": "Ace Frehley studio portrait"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/FzqgCGJoHmKkXQd4wE6vVm.jpg",
-          "caption": "Taylor Momsen"
+          "url": "https://cdn.mos.cms.futurecdn.net/VimHfmGFzRVDR48QDDW2tg.jpg",
+          "caption": "Bruce Dickinson of Iron Maiden"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/yvHAdZiqaYC8UqkznUjEFS.jpg",
-          "caption": "Nene Royal and Avenged Sevenfold"
+          "url": "https://cdn.mos.cms.futurecdn.net/6aatqGU8SLc2LBm4K4WAoB.jpg",
+          "caption": "Sam Carter screaming on stage"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/p9HnfUzBiCtZ5oK3Wd7NmG.jpg",
-          "caption": "Eric Clapton onstage"
+          "url": "https://cdn.mos.cms.futurecdn.net/8bxJaz8shdT2kKEseckFVe.jpg",
+          "caption": "A young, AI-generated KK Downing steps off a bus holding a guitar case "
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/9uLjCrPymyj4Jku4p3Csob.jpg",
+          "caption": "U2 walking out of the surf"
         },
         {
           "type": "link",
           "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.loudersound.com%2Fbands-artists%2Fnikki-sixx-proclaims-motley-crue-shows-to-be-a-politics-free-zone",
           "caption": "Facebook"
-        },
-        {
-          "type": "link",
-          "url": "https://twitter.com/intent/tweet?text=%22We%27re+all+in+this+together.+Can+we+agree%3F%22+Nikki+Sixx+proclaims+M%C3%B6tley+Cr%C3%BCe+shows+to+be+politics-free+zones&url=https%3A%2F%2Fwww.loudersound.com%2Fbands-artists%2Fnikki-sixx-proclaims-motley-crue-shows-to-be-a-politics-free-zone",
-          "caption": "X"
-        },
-        {
-          "type": "link",
-          "url": "https://twitter.com/cantworkitout/status/2110214667842855309",
-          "caption": "October 14, 2026"
         }
       ],
       "original_paragraphs": [
@@ -10807,283 +11012,7 @@
       ],
       "original_title": "Nikki Sixx proclaims Mötley Crüe shows to be politics-free zones",
       "topics": [],
-      "media_checked_at": 1792025899
-    },
-    {
-      "id": "ba3159b07e9acfdff02f120c4636db3cdb4d2c1f",
-      "title": "Fleshgod Apocalypse Francesco Paoli показывает свою недавно восстановленную руку после последней операции по трансплантации",
-      "short": "Francesco Paoli, вокалист/гитарист итальянской симфонической death метал-группы Fleshgod Apocalypse, недавно перенес операцию по восстановлению левой руки. Процедура происходит в ответ на тяжелые травмы, которые он получил в результате несчастного случая в скалолазании в 2021 году, и продолжает страдать от этого.",
-      "paragraphs": [
-        "Francesco Paoli, вокалист/гитарист итальянской симфонической death метал-группы Fleshgod Apocalypse, недавно перенес операцию по восстановлению левой руки. Процедура происходит в ответ на тяжелые травмы, которые он получил в результате несчастного случая в скалолазании в 2021 году, и продолжает страдать от этого.",
-        "В дополнение к списку других травм, в результате падения Paoli получил повреждение нерва, которое потребовало пересадки нерва с ноги в локоть. Этот недуг был решен с помощью операции 2022 года. В то время как падение оставило его с длительным повреждением одной из его ног, последняя операция направлена на то, чтобы помочь ему с левой рукой. Для этого ему потребовалась пересадка ткани, происходящей из бедра.",
-        "Он объяснил свое нынешнее состояние здоровья в нижеприведенном посте, а также поделился галереей до и после.",
-        "«Привет всем, извините, если я не опубликовал много в последнее время, но, как вы знаете, социальные сети — это не моя чашка чая, и я все больше и больше превращаюсь в старый пердеж! В любом случае, я чувствовал, что обновление здоровья было связано со всеми людьми, которые поддерживали меня после аварии, которая произошла в 2021 году, и продолжали делать это на протяжении всего моего выздоровления, которое, как вы можете видеть, еще не завершено. Yes, после 5 лет я все еще работаю над исправлением того, что можно исправить, и после сортировки моей руки и ноги, мы, наконец, перешли к моей левой руке.",
-        "Из-за перебоев с локтевым нервом я в основном потерял ощущение и большинство мышц, которые лежат между костями моей руки. К сожалению, это останется; я accept и разработал экзотические решения (например, резиновые ленты), чтобы продолжать делать то, что я люблю больше всего, играть.",
-        "Но моя рука была почти скелетной, и мы должны были что-то сделать, чтобы защитить структуры, которые все еще работали там, такие как кости, связки, вены, сухожилия и т. Д. Итак, пару недель назад я перенес еще одну операцию по реконструкции, и вот моя «новая» рука! (рисунки 7-12) Они взяли какую-то ткань из моего бедра и пересадили ее в «пустые» области моей руки. Выглядит и чувствуется намного лучше! Кроме того, это очень круто знать, что благодаря науке у меня есть часть моей ноги в руке и бедро в руке, ага! Операция прошла хорошо, но я еще не закончил. В следующем году мне, вероятно, придется сделать еще одно «уточнение», но оно учтено и запланировано в расписании группы, поэтому мы не пропустим ни одного шоу!",
-        "Опять же, я чувствую себя счастливой и благодарной, чтобы поделиться с вами более позитивными новостями; это действительно чудесно. Тем не менее, в то же время, мои мысли постоянно со всеми парнями (и я встретил тонну замечательных людей за последние 5 лет), которым, к сожалению, не так повезло. Они настоящие воины, вместе со всеми врачами, исследователями, учеными, медсестрами и так далее, которые никогда не сдавались тому, что идиоты называют судьбой, несмотря на растущее отсутствие надлежащих условий работы. Нет судьбы, нет шансов, есть только невероятная сложность жизни, и мы все должны принять ее с большой улыбкой, как они делают каждый день.",
-        "Еще раз благодарю всех вас за то, что вы все время посылали мне позитивную энергию и давали мне силы, необходимые для того, чтобы продолжать настаивать, и благодарю мою семью, моих друзей, моих коллег по группе, менеджеров, команду и людей, окружающих меня, за то, что продолжали верить и никогда не оставляли меня позади. Назад к риффам и бласт-битам, конец. Fra\""
-      ],
-      "category": "Хэви-метал",
-      "source": "ThePRP",
-      "published": "2026-10-14T22:18:05+00:00",
-      "original_url": "https://www.theprp.com/2026/10/14/news/fleshgod-apocalypses-francesco-paoli-shows-off-his-newly-reconstructed-hand-following-his-latest-transplant-surgery/",
-      "saved_at": 1792017665,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.theprp.com/app/uploads/2026/10/francescopaoli-1200x675.webp",
-          "caption": ""
-        }
-      ],
-      "original_paragraphs": [
-        "Francesco Paoli , vocalist/guitarist for Italian symphonic death metal band Fleshgod Apocalypse , has recently undergone surgery to help repair his left hand. The procedure comes about in response to the severe injuries he sustained in a 2021 rock climbing accident and continues to suffer from.",
-        "In addition to a laundry list of other injuries, that fall saw Paoli suffer nerve damage that required a nerve transplant from his leg into his elbow. That ailment was addressed with a 2022 surgery. While the fall did leave him with lasting damage to one of his feet, the latest surgery aims to help him with his left hand. To That end, he required a transplant of tissue originating from his hip.",
-        "He explained his current health in the below post, while also sharing a before and after gallery.",
-        "“Hey everyone, sorry if I haven’t posted much lately, but as you know social media is not my cup of tea and I’m turning more and more into an old fart! Anyway, I felt like a health update was due to all the people who supported me after the accident I had in 2021 and kept doing so throughout my recovery which, as you can see, isn’t complete yet. Yes, after 5 years I’m still working on fixing what’s fixable and after sorting out my arm and foot, we finally moved on to my left hand.",
-        "Due to my ulnar nerve interruption, I basically lost sensation and most of the muscles that lie between the bones of my hand. Unfortunately, that is gonna stay; I accept it and worked out exotic solutions (like rubber bands) to keep doing what I love the most, playing.",
-        "But my hand was almost skeletal and we had to do something to protect the structures that were still working in there, like bones, ligaments, veins, tendons, etc… So a couple of weeks ago, I underwent another reconstruction surgery and here is my “new” hand! (Pics 7-12) They took some tissue from my hip and transplanted it into the “empty” areas of my hand. It looks and feels much better! Also, it’s super cool to know that thanks to science I have a piece of my leg in my arm and some hip in my hand, ahah! The surgery went well, but I’m not done yet. I will likely have to do another “refinement” next year, but it’s accounted for and planned in the band’s schedule so we won’t miss any show!",
-        "Again, I feel so fortunate and thankful to be here sharing more positive news with you all; it’s miraculous indeed. Yet, at the same time, my thoughts are constantly with all the guys (and I met a ton of great people in these last 5 years) who weren’t as lucky, unfortunately. They’re the true warriors, together with all the doctors, researchers, scientists, nurses, and so on who never surrendered to what idiots call fate despite the increasing lack of proper work conditions. There is no fate, there is no chance, there’s only the incredible complexity of life, and we should all embrace it with a big smile like they do every day.",
-        "Thank you all once again for sending me positive energy all the time and giving me the strength I needed to keep pushing, and thank you to my family, my friends, my bandmates, managers, crew and the people surrounding me for continuing to believe and never leaving me behind. Back to riffs and blast beats, over. Fra “"
-      ],
-      "content_complete": true,
-      "artists": [],
-      "original_title": "Fleshgod Apocalypse’s Francesco Paoli Shows Off His Newly Reconstructed Hand Following His Latest Transplant Surgery",
-      "topics": [],
-      "media_checked_at": 1792017824
-    },
-    {
-      "id": "a8e584d3f1424e0d4e30cd80dc77eb39133b3659",
-      "title": "Вокалист LAMB OF GOD: «Я бы хотел больше петь чистым, но... но... »",
-      "short": "В недавнем интервью вокалист LAMB OF GOD Randy Blythe рассказал, как ему удаётся оставаться одним из самых физически заряженных исполнителей в металле спустя более тридцати лет карьеры своего коллектива: «Я хорош только в одном-двух делах, так что лучше уж заниматься тем, что у меня получается.",
-      "paragraphs": [
-        "В недавнем интервью вокалист LAMB OF GOD Randy Blythe рассказал, как ему удаётся оставаться одним из самых физически заряженных исполнителей в металле спустя более тридцати лет карьеры своего коллектива:",
-        "«Я хорош только в одном-двух делах, так что лучше уж заниматься тем, что у меня получается. Я [ещё] неплохой писатель и неплохой фотограф. Не лучший в мире, но... А ещё я очень хорош в том, чтобы быть в LAMB OF GOD. [Я] не лучший музыкант на свете. Не буду утверждать, что я прекрасный музыкант, но быть в LAMB OF GOD у меня получается превосходно. Ну и я довольно неплохой фотограф и довольно неплохой писатель, так что... Мне всё это по душе».",
-        "Интервьюер отметил, что Blythe признаёт себя «довольно хорошим», а это «значит, что всегда можно стремиться стать лучше». Blythe согласился.",
-        "«[Как только ты решаешь, что ты лучший в мире], ты пропал. Именно тогда талант тебя покидает. Когда ты проникаешься верой в собственную гениальность и в то, что не можешь ошибаться, ты перестаёшь стремиться вперёд.",
-        "Недавно я говорил об этом с одним человеком. Любой артист, в какой бы области он ни работал, в момент создания вещи борется с самим собой. Ты пытаешься понять себя и своё место в мире. И в этот же момент пытаешься выйти за пределы собственного уровня таланта. Поэтому каждый раз, когда мы записываем альбом, я стараюсь сделать то, что раньше считал невозможным для себя, — не изобретая велосипед. И каждый раз, когда я пишу тексты, я стараюсь писать выше своего уровня, а не застревать где-то посередине, потому что именно тогда наступает лень».",
-        "Blythe также рассказал о том, как впервые использовал чистый вокал в треке «Overlord» 2015 года с альбома «VII: Sturm Und Drang», а затем и в мелодичном чистом пении в песне «The Duke» 2016 года. На вопрос, будет ли он, по его мнению, чаще обращаться к чистому вокалу в будущем, Randy ответил:",
-        "«Что касается LAMB OF GOD, я бы с радостью пел чистым вокалом больше, но использую его только там, где он уместен. Например, на новом альбоме [«Into Oblivion» 2026 года] есть песня «El Vacío». Начальную концепцию я придумал сам, попросил Mark'а Morton'а [гитариста LAMB OF GOD] написать музыку и поделился с ним своими идеями.",
-        "Он не стал следовать им в точности — это часть жизни в коллективе, — но вернулся с чем-то по-настоящему классным. Это просто само по себе просило чистого вокала. Я при этом не пытался заставить его написать что-то, под что подошёл бы чистый вокал. Он случайно принёс материал, о котором сразу подумалось: „О, это подходит“. Если подходит, я это сделаю. Если нет, не сделаю.",
-        "У меня нет иллюзий насчёт того, что LAMB OF GOD — это какой-то коллектив для крунера, за которым я мог бы изображать Фрэнка Синатру. Но время от времени вполне нормально расширять звуковой спектр».",
-        "Randy также заявил, что его не волнует недовольство части фанатов LAMB OF GOD, считающих, что чистому пению не место в музыке коллектива.",
-        "«Знаете что? Мне, блин, по..й. Что значит „нет, так нельзя“? Они что, придут в студию, скажут „нет“ и выдернут микрофон из розетки?»",
-        "Когда интервьюер заметил, что это значит, что они напишут под видео на Ётуб: «Это не мой LAMB OF GOD», Randy продолжил:",
-        "«А это, знаете, что значит? Ничего. Абсолютно ничего.",
-        "Вот что дико в нашу эпоху: молодые коллективы растут и смотрят на все эти комментарии, на мнения, которые есть у каждого... Интернет — огромная сила. А у нас её [когда мы начинали] не было. Совсем. Нам кричали „вы отстой“ и швыряли в нас пивные бутылки прямо на сцене, если мы не нравились. А не было миллиона людей, бубнящих „ну такое, ну такое, ну такое, ну такое“. Поэтому такой менталитет нас не затрагивает. И не должен затрагивать никого».",
-        "Развивая мысль о том, как ему удаётся не поддаваться онлайн-критике, Randy сказал:",
-        "«Ну, я просто не читаю все эти комментарии и прочую ерунду, так что... На самом деле, для моей реальности этого не существует. Если я этого не читаю... Это как старая дзен-загадка: если дерево падает в [лесу], а рядом никого нет, издаёт ли оно звук? В моём случае могу сказать точно: если кому-то не нравится новая песня и он что-то об этом пишет, а я не читаю, для меня этого нет. [Смеётся] Извините»."
-      ],
-      "category": "Хэви-метал",
-      "source": "Darkside",
-      "published": "2026-10-14T22:06:54+00:00",
-      "original_url": "http://www.darkside.ru/news/184433/",
-      "saved_at": 1792006830,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.darkside.ru/band/3058/n179467.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "http://www.darkside.ru/band/3058/n179467.jpg",
-          "caption": ""
-        }
-      ],
-      "artists": [],
-      "original_title": "Вокалист LAMB OF GOD: «Я бы хотел больше петь чистым, но... но... »",
-      "topics": [],
-      "media_checked_at": 1792006917
-    },
-    {
-      "id": "408de44324bf43ee6ce436cb930eca0d7e353693",
-      "title": "New Vision Премьера “SPICE” Музыкальное видео",
-      "short": "New Vision альбом “ Can’t Leave With Less ” был выпущен 4 декабря на лейбле Papercut Recordings. Пост-хардкор-группа также только что выпустила анимационное музыкальное видео для последнего сингла с этой пластинки «SPICE».",
-      "paragraphs": [
-        "New Vision альбом “ Can’t Leave With Less ” был выпущен 4 декабря на лейбле Papercut Recordings. Пост-хардкор-группа также только что выпустила анимационное музыкальное видео для последнего сингла с этой пластинки «SPICE». Stephen Coad взялся за создание этого клипа, в то время как вокалист Nico Caro подхватил следующее из самой этой песни:",
-        "«Иногда все становится тяжелым, особенно в наши дни, но я чувствую, что важно помнить, что всегда есть хорошее с плохим. Постарайтесь сделать шаг назад и посмотреть на все, делайте то, что вас пугает».",
-        "Запись “ Can’t Leave With Less ” проходила с Adam Cichocki ( Koyo, Soul Blind). Говоря об их видении этого, группа предложила:",
-        "«Наконец-то выпустить этот альбом просто потрясающе. У нас это было некоторое время, и я не могу поверить, что это почти здесь. Мы усердно работали над каждым треком и хотели показать новую эру New Vision, которая ближе к тому, как мы хотим звучать и как мы себя чувствуем сейчас. Каждый альбом постоянно меняется для нас, но эта атмосфера для нас, безусловно, там, где мы хотим остаться и расти».",
-        "“ Can’t Leave With Less ” трек-лист:",
-        "01 – Rattlesnake 02 – Still Losing 03 – When The Sun Explodes 04 – Blade 05 – We All Fall Down 06 – Crawl Space 07 – Open Hands 08 – я музы 09 – SPICE 10 – Caught In The Web 11 – Dull Halo",
-        "Ближайшие концерты включают в себя:",
-        "11/06 Meridan, CT – Angry Hair 11/07 Boston, MA – Cantab Lounge 11/13 Long Island, NY – Record Stop Booking 12/04 Poughkeepsie, NY – Reason & Ruckus 12/05 Troy, NY – No Fun 12/18 Butler, NJ – The Sanctuary 12/19 Philadelphia, PA – Milkboy"
-      ],
-      "category": "Хэви-метал",
-      "source": "ThePRP",
-      "published": "2026-10-14T21:48:23+00:00",
-      "original_url": "https://www.theprp.com/2026/10/14/news/new-vision-premiere-spice-music-video/",
-      "saved_at": 1792017678,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.theprp.com/app/uploads/2026/09/newvisionlarge-1200x675.webp",
-          "caption": ""
-        }
-      ],
-      "original_paragraphs": [
-        "New Vision ‘s album “ Can’t Leave With Less ” has been notched in for a December 04th release through Papercut Recordings . The post-hardcore band have also just issued a stop-motion animated music video for the latest single from that record, “ SPICE “. Stephen Coad took on creating that clip, while vocalist Nico Caro chimed in with the following of this song itself:",
-        "“It all gets heavy sometimes, especially nowadays, but I feel that it’s important to remember there’s always good with the bad. Try to take a step back and look at everything, do what scares you.”",
-        "Recording sessions for “ Can’t Leave With Less ” took place with Adam Cichocki ( Koyo , Soul Blind ). Speaking of their vision for it, the band offered:",
-        "“Finally getting to put out this record is awesome. We’ve had it for a little while and can’t believe it’s almost here. We worked hard on each and every track and wanted to show the new era of New Vision that’s closer to how we want to sound and how we feel now. Every record is ever changing for us, but this vibe for us is definitely where we want to stay and grow from.”",
-        "“ Can’t Leave With Less ” track listing:",
-        "01 – “ Rattlesnake “ 02 – “ Still Losing “ 03 – “ When The Sun Explodes “ 04 – “ Blade “ 05 – “ We All Fall Down “ 06 – “ Crawl Space “ 07 – “ Open Hands “ 08 – “ I Am A Muse “ 09 – “ SPICE “ 10 – “ Caught In The Web “ 11 – “ Dull Halo “",
-        "Upcoming live shows include:",
-        "11/06 Meridan, CT – Angry Hair 11/07 Boston, MA – Cantab Lounge 11/13 Long Island, NY – Record Stop Booking 12/04 Poughkeepsie, NY – Reason & Ruckus 12/05 Troy, NY – No Fun 12/18 Butler, NJ – The Sanctuary 12/19 Philadelphia, PA – Milkboy"
-      ],
-      "content_complete": true,
-      "artists": [],
-      "original_title": "New Vision Premiere “SPICE” Music Video",
-      "topics": [
-        "releases"
-      ],
-      "media_checked_at": 1792017824
-    },
-    {
-      "id": "d982e8b1a9a0317e48d7a0d6ca305bbbba50226b",
-      "title": "Стив Харрис объявил о British Lion резиденции в историческом лондонском пабе",
-      "short": "Iron Maiden Стив Харрис заявил, что его British Lion Сайд-проект отыграет шесть концертов в историческом пабе Cart & Horses в Стратфорде, Восточный Лондон, в это Рождество. Резиденция группы начнется 13 декабря при поддержке Albion, группы, построенной вокруг нынешнего гитариста Jethro Tull Джека Кларка и бывшего гитариста Tull Джо Пэрриша-Джеймса.",
-      "paragraphs": [
-        "Iron Maiden Стив Харрис заявил, что его British Lion Сайд-проект отыграет шесть концертов в историческом пабе Cart & Horses в Стратфорде, Восточный Лондон, в это Рождество.",
-        "Резиденция группы начнется 13 декабря при поддержке Albion, группы, построенной вокруг нынешнего гитариста Jethro Tull Джека Кларка и бывшего гитариста Tull Джо Пэрриша-Джеймса. Билеты стоят 38,50 фунтов стерлингов и доступны уже сейчас.",
-        "Мы очень рады вернуться в Cart & Horses на шесть ночей в декабре. \" says Harris. \" На протяжении многих лет у нас было несколько фантастических шоу, и всегда здорово вернуться на такое важное место. Iron Maiden История. Мы с нетерпением ждем встречи со всеми!",
-        "British Lion сыграл пять праздничных шоу на Cart & Horses в 2025 году и четыре раза в предыдущем году, в то время как Iron Maiden играл десятки концертов на 120-местной площадке в период с 1976 по 1978 год, заработав прозвище «Место рождения Iron Maiden».",
-        "«На самом деле, это было действительно хорошо», Harris told Brave Words in 2012 Вспоминая первое шоу группы на площадке в июне 1976 года. Мы только что привлекли как можно больше людей, семью и друзей, и в любом случае было несколько постоянных посетителей. Мне не нравится оставлять вещи на произвол судьбы, поэтому я вывесил несколько плакатов, и в итоге они были довольно разбиты.",
-        "Для нас была небольшая зона комфорта, в которой мы могли работать, и она была упакована - это всегда делает ее намного проще. Если вы играете в почти пустом месте, это делает его практически невозможным».",
-        "13 декабря: London Cart & Horses, Великобритания 14 декабря: London Cart & Horses, Великобритания 15 декабря: London Cart & Horses, Великобритания 16 декабря: London Cart & Horses, Великобритания 17 декабря: London Cart & Horses, Великобритания 18 декабря: London Cart & Horses, Великобритания",
-        "Онлайн-редактор журнала Louder/Classic Rock с 2014 года. 40 лет в музыкальной индустрии, 27 лет в интернете. Также строчки для: металлический молоток, прог-журнал, слово-журнал, страж, новый государственный деятель, сага, музыка365. Бывший руководитель отдела музыки на Xfm Radio, A&R на Fiction Records, ранний блогер, экс-автодор, автор публикации. Однажды он появился в видеоклипе Cure, одетый как ковбой, летал на Goodyear Blimp и думает, что любая ситуация может быть улучшена введением кошек. Любимый сербский трубач: Деян Петрович."
-      ],
-      "category": "Хэви-метал",
-      "source": "Louder",
-      "published": "2026-10-14T21:36:43+00:00",
-      "original_url": "https://www.loudersound.com/bands-artists/steve-harris-british-lion-cart-horses-2026",
-      "saved_at": 1792017689,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/LHuEKrn8gGZcQBxyDnBSQd-1280-80.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/LHuEKrn8gGZcQBxyDnBSQd.jpg",
-          "caption": "British Lion group portrait"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/k37n99McvLLbJLtqkfs9F7.jpg",
-          "caption": "Steve Harris explores exhibits at Eddfest"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/BYrkGJwuQ4cLmVkULd8fJS.jpg",
-          "caption": "Blaze Bayley onstage"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/CQsdEdWy3ruG4oQQYrUkVP.jpg",
-          "caption": "Iron Maiden posing for a photograph in 2021"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/cjKP8WpqXx4RS73sMB7H85.jpg",
-          "caption": "Marillion 2025"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/aVJF2UVe5uoXyeTX5hmDeh.jpg",
-          "caption": "Iron Maiden’s Steve Harris performing onstage"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/RL5vzkBbfM7mWgYqKuDsLo.jpg",
-          "caption": "Nicko McBrain of Iron Maiden in 2026"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/Q26nycXWd7DkVc6TN6riBL.png",
-          "caption": "Pavlov&#039;s Dog singer David Surkamp"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/tR8YdxbEFbhdK4zDnhNThc.jpg",
-          "caption": "The Rolling Stones"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/E2z3VGUaw4y3GczToAiV37.jpg",
-          "caption": "UNSPECIFIED - CIRCA 1970:  Photo of Jethro Tull  Photo by Michael Ochs Archives/Getty Images"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/FzqgCGJoHmKkXQd4wE6vVm.jpg",
-          "caption": "Taylor Momsen"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/24F85yFf4naFMvLBqnjkdM.jpg",
-          "caption": "Myles Kennedy"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/FFnDxR4a8JoPfWcXXdWYdW.jpg",
-          "caption": "Judas Priest bassist Ian Hill"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/yvHAdZiqaYC8UqkznUjEFS.jpg",
-          "caption": "Nene Royal and Avenged Sevenfold"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/p9HnfUzBiCtZ5oK3Wd7NmG.jpg",
-          "caption": "Eric Clapton onstage"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/3RwgQJ78asXYHQ47FqgoJG.jpg",
-          "caption": "Steve Hackett onstage"
-        },
-        {
-          "type": "link",
-          "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.loudersound.com%2Fbands-artists%2Fsteve-harris-british-lion-cart-horses-2026",
-          "caption": "Facebook"
-        },
-        {
-          "type": "link",
-          "url": "https://twitter.com/intent/tweet?text=%22We%27ve+had+some+fantastic+shows+there+over+the+years.%22+Steve+Harris+announces+British+Lion+residency+at+historic+London+pub&url=https%3A%2F%2Fwww.loudersound.com%2Fbands-artists%2Fsteve-harris-british-lion-cart-horses-2026",
-          "caption": "X"
-        },
-        {
-          "type": "link",
-          "url": "https://twitter.com/blogjam",
-          "caption": ""
-        }
-      ],
-      "original_paragraphs": [
-        "Iron Maiden 's Steve Harris has announced that his British Lion side project will play six shows at the historic Cart & Horses pub in Stratford, East London, this Christmas.",
-        "The band's residency will begin on December 13, with support from Albion, the band built around current Jethro Tull guitarist Jack Clark and former Tull guitarist Joe Parrish-James. Tickets are priced at £38.50 and are available now .",
-        "“We’re really happy to be coming back to the Cart & Horses for six nights in December,\" says Harris. \"We’ve had some fantastic shows there over the years, and it’s always great to get back to such an important venue for Iron Maiden’s history. We’re looking forward to seeing everyone there!”",
-        "British Lion played five festive shows at the Cart & Horses in 2025, and four times the previous year, while Iron Maiden played dozens of dates at the now 120-capacity venue between 1976 and 1978, earning it the nickname \"The birthplace of Iron Maiden.\"",
-        "\"Actually, it was really good,\" Harris told Brave Words in 2012 , recalling the band's first show at the venue in June 1976. \"We just pulled in as many people as we could, family and friends, and there were a few regulars in anyway. I don’t like leaving things to chance, so I put a few posters up, and it ended up being pretty rammed out.",
-        "\"There was a bit of a comfort zone for us to operate in, with it being packed out – it always makes it a lot easier. If you’re playing to a near-empty place, that makes it next to impossible.\"",
-        "Dec 13: London Cart & Horses, UK Dec 14: London Cart & Horses, UK Dec 15: London Cart & Horses, UK Dec 16: London Cart & Horses, UK Dec 17: London Cart & Horses, UK Dec 18: London Cart & Horses, UK",
-        "Online Editor at Louder/Classic Rock magazine since 2014. 40 years in music industry, online for 27. Also bylines for: Metal Hammer, Prog Magazine, The Word Magazine, The Guardian, The New Statesman, Saga, Music365. Former Head of Music at Xfm Radio, A&R at Fiction Records, early blogger, ex-roadie, published author. He once appeared in a Cure video dressed as a cowboy, has flown on the Goodyear Blimp, and thinks any situation can be improved by the introduction of cats. Favourite Serbian trumpeter: Dejan Petrović."
-      ],
-      "content_complete": true,
-      "artists": [
-        {
-          "id": "iron-maiden",
-          "name": "Iron Maiden"
-        },
-        {
-          "id": "jethro-tull",
-          "name": "Jethro Tull"
-        }
-      ],
-      "original_title": "Steve Harris announces British Lion residency at historic London pub",
-      "topics": [],
-      "media_checked_at": 1792017825
+      "media_checked_at": 1792280058
     }
   ]
 }
