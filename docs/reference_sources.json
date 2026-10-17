@@ -23375,6 +23375,876 @@
           "source_url": "https://musicbrainz.org/release-group/f98e73b7-2c6d-4e7b-9682-df933fbee17b"
         }
       ]
+    },
+    "porcupine-tree": {
+      "name": "Porcupine Tree",
+      "musicbrainz_url": "https://musicbrainz.org/artist/169c4c28-858e-497b-81a4-8bc15e0026ea",
+      "reference_checked_at": "2026-10-17T02:07:25.755887+00:00",
+      "genres": "alternative rock, ambient, metal, progressive metal, progressive rock, psychedelic rock, rock, space rock",
+      "bandcamp_url": "https://porcupinetreeofficial.bandcamp.com/",
+      "website": "https://porcupinetree.com/",
+      "members": [
+        {
+          "name": "Steven Wilson",
+          "role": "original",
+          "begin": "1987"
+        },
+        {
+          "name": "Richard Barbieri",
+          "role": "",
+          "begin": "1993"
+        },
+        {
+          "name": "Gavin Harrison",
+          "role": "",
+          "begin": "2002-02"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/169c4c28-858e-497b-81a4-8bc15e0026ea",
+      "albums": [
+        {
+          "name": "Voyage 34",
+          "date": "1992-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/065d59af-dc7e-3098-a2f9-162ba6215126"
+        },
+        {
+          "name": "Lightbulb Sun",
+          "date": "2000-05-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/07574c97-1763-332e-b197-8f0acde2497d"
+        },
+        {
+          "name": "Stupid Dream Demos 1998/1999",
+          "date": "2007",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/091fd37f-bfa5-4a29-b1d0-73f9c840758f"
+        },
+        {
+          "name": "4 Chords That Made a Million",
+          "date": "2000-04-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0ca7ffe2-e32b-3e4b-801f-ca8e9aa88ea7"
+        },
+        {
+          "name": "Recordings",
+          "date": "2001-05-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0e510b75-e8a3-3d09-8cc2-25bdc9bada75"
+        },
+        {
+          "name": "Coma Divine: Recorded Live in Rome",
+          "date": "1997-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0ee335ec-a6e3-3ab9-bb37-c26c409b886e"
+        },
+        {
+          "name": "IA / DW / XT",
+          "date": "2023-04-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0fec5a33-d3f6-4bd0-80e9-6de07f46749c"
+        },
+        {
+          "name": "Porcupine Tree Sampler 2002.3",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/12dac0e1-ad52-39ca-a9ed-e51143aff802"
+        },
+        {
+          "name": "1993-12-07: Borderline, London, UK",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/163b9611-2431-3bf5-a32b-27680162949a"
+        },
+        {
+          "name": "Stupid Dream",
+          "date": "1999-04-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/185c22fd-57df-35ce-a90f-26335666d12d"
+        },
+        {
+          "name": "House of Blues",
+          "date": "2020-05-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/19ba0267-621b-44af-aa76-ab8c3fd1013a"
+        },
+        {
+          "name": "Moonloop EP",
+          "date": "1994-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2227957f-6a77-32f0-892a-0314c74d320c"
+        },
+        {
+          "name": "Glass Soul Shattering",
+          "date": "2021-12-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22650e56-2639-4765-b653-0ab6e29df9e2"
+        },
+        {
+          "name": "Of the New Day",
+          "date": "2022-03-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2391952a-aa4b-435c-a541-3d266d5e776a"
+        },
+        {
+          "name": "Pure Narcotic",
+          "date": "1999-11-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/25233db5-41e5-338d-b60d-a7aec424aaac"
+        },
+        {
+          "name": "Time Flies",
+          "date": "2009-08-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/28d00afb-6e3e-4ac3-b6e4-f8fe35cd9bfa"
+        },
+        {
+          "name": "1995‐02‐12: Paard, Den Haag, Netherlands",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2916bafd-1d8a-4370-ad15-a87e98c8cb70"
+        },
+        {
+          "name": "Stars Die: The Delerium Years ’91–97",
+          "date": "2002-03-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2938a57a-0d6b-3bdd-bf05-c9663e27a9a4"
+        },
+        {
+          "name": "Men of Wood",
+          "date": "2004-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/29d85a15-3e15-41c6-be9d-9ceab2fc5305"
+        },
+        {
+          "name": "The Delerium Years (1991–1997)",
+          "date": "2020-11-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2ac0c36f-06c3-41d3-850b-f79db0aee374"
+        },
+        {
+          "name": "Signify",
+          "date": "1996-09-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3546d687-0c3f-3fde-a290-f94681cab3f6"
+        },
+        {
+          "name": "Trains (remastered)",
+          "date": "2020-02-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3631babe-a0f5-47ff-84d2-a8e3742283a1"
+        },
+        {
+          "name": "Insignificance",
+          "date": "1997",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/385ae4ae-c722-3bdd-a46e-92f55cafa752"
+        },
+        {
+          "name": "Shallow",
+          "date": "2005-01-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3b9cd9d4-0d56-32e9-a8b6-fd668ae1ad96"
+        },
+        {
+          "name": "Tarquin’s Seaweed Farm",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3e880983-77f6-330c-aefa-34cf8528cbc4"
+        },
+        {
+          "name": "1999‐05‐12: Klub Stodoła, Warszawa, Poland",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3f38d50a-d70d-4d3e-a878-9480ebb7dc16"
+        },
+        {
+          "name": "The Sound of No One Listening",
+          "date": "2020-11-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/41e53bc3-4796-4cc5-87b9-c3ccb7933f9b"
+        },
+        {
+          "name": "Acoustic Sets 95–99",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/42b35374-3acf-37f1-8e1b-b22a29d11a10"
+        },
+        {
+          "name": "1996‐05‐12: Duchess of York, Leeds, England, UK",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4607643b-4d10-426e-a4b8-77fd3c1a7523"
+        },
+        {
+          "name": "Pure Narcotic – Acoustic Session 2012",
+          "date": "2020-03-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4a01532e-9220-4184-9ad3-e4cdd13795a5"
+        },
+        {
+          "name": "Stranger by the Minute",
+          "date": "1999-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4a620b17-ff32-3232-8b95-0dc63523bd79"
+        },
+        {
+          "name": "2003-11-12: XM Live: XM Studios, Washington, DC, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4b54d64e-f2ea-39ab-bc24-59be853251ab"
+        },
+        {
+          "name": "Love, Death & Mussolini E.P.",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4db29dc6-abf3-31d4-9df9-b1c3b1673928"
+        },
+        {
+          "name": "2005‐05‐23: WKLQ Studios, Grand Rapids",
+          "date": "2005",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4f79e37b-83cf-4467-8b63-195db490d2c4"
+        },
+        {
+          "name": "Waiting",
+          "date": "1996-04-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/508f767b-0ae1-386c-9e77-86622c79662c"
+        },
+        {
+          "name": "XMII",
+          "date": "2005-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/52f4b91f-e747-30b6-9ee3-b9b74bd04e4f"
+        },
+        {
+          "name": "IndigO2 (2008)",
+          "date": "2020-10-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/61ed863a-d0bf-47a7-9d7c-5c80c361edb2"
+        },
+        {
+          "name": "Harridan",
+          "date": "2021-11-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6224c7b3-d06c-4540-95a7-cc101d1db30e"
+        },
+        {
+          "name": "Recordings II",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/65e9227e-c9ce-3a54-a402-ed20816ee082"
+        },
+        {
+          "name": "The Sky Moves Sideways",
+          "date": "1994",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/69202fd1-c977-36ba-9393-897132e7edda"
+        },
+        {
+          "name": "Anesthetize",
+          "date": "2010-05-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6a28c52d-3bc1-42a4-95e1-626deb94b68b"
+        },
+        {
+          "name": "Metanoia",
+          "date": "1998-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6c6d0287-095e-3cbe-976e-6d3043364402"
+        },
+        {
+          "name": "The Incident",
+          "date": "2009-09-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6f6c4a2f-7675-4680-89cc-091fc42193e9"
+        },
+        {
+          "name": "Athens (1995)",
+          "date": "2022-12-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/75d1dded-efe5-4c13-903d-7ce732631e25"
+        },
+        {
+          "name": "Coma:Coda (Rome 1997)",
+          "date": "2020-05-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/76f94a41-ced4-4440-bff2-7c7d5db56698"
+        },
+        {
+          "name": "Voyage 34: The Complete Trip",
+          "date": "2000-06-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/77e335ba-49e6-3b3f-ae5d-776159033356"
+        },
+        {
+          "name": "Up the Downstair",
+          "date": "1993-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7a97da8e-a1b7-3b7c-bae0-b7851821fdfd"
+        },
+        {
+          "name": "Demo",
+          "date": "1997",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7c7b211e-901b-4b05-a8b7-25cdaf8ea2c3"
+        },
+        {
+          "name": "BBC Session 13th April 2007",
+          "date": "2020-03-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/809b754c-e9ca-4e78-9d5f-21bd168d3877"
+        },
+        {
+          "name": "Harridan",
+          "date": "2023-11-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/84efef75-7c46-4335-a26b-f73d05133127"
+        },
+        {
+          "name": "Rockpalast",
+          "date": "2006-07-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/863d1be3-b680-30db-b74e-3d897bc0f17e"
+        },
+        {
+          "name": "XM",
+          "date": "2003-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/88343867-c375-3c4f-b2cf-2d10f9b7d83b"
+        },
+        {
+          "name": "1997-10-02: Solo by the Smoke Machine: Filharmonica Pomorska, Bydgoszcz, Poland",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8c674e11-a019-3f31-9490-bbffb64d0d0a"
+        },
+        {
+          "name": "Lazarus",
+          "date": "2005-03-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8d96bc12-53f0-3b31-b1e0-db5508811d30"
+        },
+        {
+          "name": "Arriving Somewhere…",
+          "date": "2006",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/90113d7e-5d18-3b71-82fa-bc1922a2477a"
+        },
+        {
+          "name": "In Absentia",
+          "date": "2002-09-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/94cfdc4c-5eb5-3b62-9dbe-8e051528c6e5"
+        },
+        {
+          "name": "Staircase Infinities",
+          "date": "1995-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/97603078-5cca-3827-b685-c5c862066386"
+        },
+        {
+          "name": "Transmission - Moonloop EP",
+          "date": "2001-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/990f00e7-b506-311d-8ebd-f665a3190d1e"
+        },
+        {
+          "name": "2009‐10‐08: O2 Academy, Leeds, UK",
+          "date": "2009-10-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/992602c8-501f-40c9-aaad-3d561b1d7129"
+        },
+        {
+          "name": "Roadrunner Records 2007 Prog Sampler",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9e915d33-b517-4874-b7c5-ef9709c71666"
+        },
+        {
+          "name": "Closure / Continuation. Live. Amsterdam 07/11/22",
+          "date": "2023-12-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9ea0f512-d01c-475a-8987-a84501b39cc9"
+        },
+        {
+          "name": "Herd Culling",
+          "date": "2022-05-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9f836430-7432-4f1f-983a-978c9fc024fe"
+        },
+        {
+          "name": "1999‐07‐11: Vigevano Open Air, Vigevano, Italy",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a27d2c3f-8c06-401f-bd0d-352475fe99a2"
+        },
+        {
+          "name": "Voyage 34",
+          "date": "1993-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a5dddd42-0ff9-4311-9ee0-8ed731a178e7"
+        },
+        {
+          "name": "Rats Return",
+          "date": "2022-06-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a62c10f2-d0d5-4360-a765-fac50bdaa36e"
+        },
+        {
+          "name": "Radioactive Sessions 1993–1996",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a744bdbe-98ef-41cd-88a1-12aa231953cb"
+        },
+        {
+          "name": "On the Sunday of Life…",
+          "date": "1992-05-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a8bfbcb6-e979-3e73-a4ea-b052a02cffd8"
+        },
+        {
+          "name": "Porcupine Tree Sampler 2008",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ab65e2f7-6813-40ef-8241-de468e6ba005"
+        },
+        {
+          "name": "Warszawa",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b0ed2ba8-68da-374c-b0be-b6cec95295a5"
+        },
+        {
+          "name": "2002‐11‐25: The Fillmore, San Francisco, CA, USA",
+          "date": "2002-11-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b19d8501-f683-46fc-aae8-f632c4913022"
+        },
+        {
+          "name": "2001-06-23: NEARfest 2001, Bethlehem, PA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b5f686dc-c684-3e4c-b8b3-1e399d67c42b"
+        },
+        {
+          "name": "1994-06-04: Planet Pul Festival, Uden, Netherlands",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bb436ff8-f4e2-3a8d-9889-1ca0b1f5c519"
+        },
+        {
+          "name": "Fear of a Blank Planet",
+          "date": "2007-04-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bca73156-8f32-3e56-8d83-2fb537b8fb6e"
+        },
+        {
+          "name": "2010-01: Acoustic Session",
+          "date": "2010-10-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bfa9f3e1-4559-43a4-860b-861fb8cf18a9"
+        },
+        {
+          "name": "Ilosaarirock",
+          "date": "2009-03-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c004969f-8081-3c4e-90bb-7aa1e6bbc998"
+        },
+        {
+          "name": "Blackest Eyes (remastered)",
+          "date": "2020-02-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c0d53024-bd0f-4322-ac52-99365bb0bbe3"
+        },
+        {
+          "name": "1999‐10‐18: Le Tube, Lyon, France",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c8217a9b-88b2-4e0c-88be-301a2b80a8bb"
+        },
+        {
+          "name": "Shesmovedon",
+          "date": "2000-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c8ab57d1-32e3-3e20-916a-4c1c8d162389"
+        },
+        {
+          "name": "Out Absentia",
+          "date": "2003",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/caa4a2b1-242a-3345-9122-b8245f160fd7"
+        },
+        {
+          "name": "Yellow Hedgerow Dreamscape",
+          "date": "1994-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cad84bf6-35ca-3c7b-beed-fd5da88d04b0"
+        },
+        {
+          "name": "Köln 4th Dec 2007 (TV broadcast)",
+          "date": "2020-03-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cb2f4d18-de6a-4b06-b458-8926ce268612"
+        },
+        {
+          "name": "Deadwing",
+          "date": "2005-03-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cdebdda3-f478-367c-92d2-3d592323cd91"
+        },
+        {
+          "name": "1995‐02‐10: Willem II, Den Bosch, Netherlands",
+          "date": "2012",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d054db60-a501-4b5c-97ad-59bab2f42c9b"
+        },
+        {
+          "name": "Spiral Circus",
+          "date": "1993-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d1535752-93fe-3b7e-8051-5e0bcf526288"
+        },
+        {
+          "name": "Tinto Brass (live in Warszawa 6th April 2001)",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d1f1d948-a784-4a83-82d3-07b3a08c0c19"
+        },
+        {
+          "name": "Salford (1994)",
+          "date": "2020-06-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d222dff4-f671-4273-9292-1430ec433c49"
+        },
+        {
+          "name": "First live performance 4th Dec 1993",
+          "date": "2020-03-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d484a0a2-9cd9-4fa2-b35a-1e7123cee963"
+        },
+        {
+          "name": "2007‐10‐26: Voodoo Festival, City Park, New Orleans, LA, USA",
+          "date": "2007",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dbebd7f2-33f5-4e16-a5c5-9482913d1c8f"
+        },
+        {
+          "name": "Atlanta",
+          "date": "2010-06-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dc4374e1-5117-48d5-b342-bc8b76243cf5"
+        },
+        {
+          "name": "Futile",
+          "date": "2003-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ddd136c7-cdf5-3708-9601-a39bd7591345"
+        },
+        {
+          "name": "BBC Recordings",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e1cf12d8-7dd3-4596-bb33-7516fe896b68"
+        },
+        {
+          "name": "The Nostalgia Factory",
+          "date": "1991",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e78ebb28-e85f-3a2b-ac01-ee9c1c1dabd3"
+        },
+        {
+          "name": "Closure / Continuation",
+          "date": "2022-06-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ed2462c0-29cd-4411-834d-4deb741219dc"
+        },
+        {
+          "name": "We Lost the Skyline",
+          "date": "2008-02-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/eeaf4e98-e68f-39c9-afdd-c9abb57df4c1"
+        },
+        {
+          "name": "Piano Lessons",
+          "date": "1999-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f2036c69-03a4-3033-a392-7b18602f1429"
+        },
+        {
+          "name": "Porcupine Tree Sampler 2005",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f40b5bd3-41d5-3462-ad2e-911909c54f96"
+        },
+        {
+          "name": "Octane Twisted",
+          "date": "2012-11-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f60d7d5c-6931-4000-a378-5f59328715d6"
+        },
+        {
+          "name": "Acoustic Radio Session 2009",
+          "date": "2020-03-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f69119cc-efce-4707-8076-26d851ee1cad"
+        },
+        {
+          "name": "1999‐05‐26: Phantasmagoria, Wheaton, IL, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f715a7ef-b267-3593-a6b5-cdf66aef8e04"
+        },
+        {
+          "name": "Nil Recurring",
+          "date": "2007-09-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fb5a98bd-62a6-323c-a105-1d2ec2635bff"
+        }
+      ]
+    },
+    "powerman-5000": {
+      "name": "Powerman 5000",
+      "musicbrainz_url": "https://musicbrainz.org/artist/0a41f86c-ced1-44e0-95a2-5c8b2368ab1d",
+      "reference_checked_at": "2026-10-17T02:07:41.241996+00:00",
+      "genres": "alternative metal, industrial metal, nu metal",
+      "bandcamp_url": "https://powerman5000.bandcamp.com/",
+      "website": "http://www.powerman5000.com/",
+      "members": [
+        {
+          "name": "Spider One",
+          "role": "lead vocals, original",
+          "begin": "1989"
+        },
+        {
+          "name": "Nick Quijano",
+          "role": "guitar",
+          "begin": "2012"
+        },
+        {
+          "name": "Dorian Heartsong",
+          "role": "bass",
+          "begin": null
+        },
+        {
+          "name": "Al Pahanish",
+          "role": "",
+          "begin": null
+        },
+        {
+          "name": "Michael Tempesta",
+          "role": "",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/0a41f86c-ced1-44e0-95a2-5c8b2368ab1d",
+      "albums": [
+        {
+          "name": "Show Me What You’ve Got",
+          "date": "2010-03-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/00049fb0-1d06-4419-9dd5-0edd6e8359c9"
+        },
+        {
+          "name": "Destroy What You Enjoy",
+          "date": "2006-08-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0224bde6-64b9-3378-b71f-31f727e32607"
+        },
+        {
+          "name": "Anyone for Doomsday?",
+          "date": "2001-08-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0695991a-4fb6-300a-94c3-0abc8cbd7e4f"
+        },
+        {
+          "name": "True Force",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0de4ad63-8183-3b43-98fc-e8297d53c732"
+        },
+        {
+          "name": "When Worlds Collide (Transformers The Movie Remix)",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/123eb644-2836-4408-82d1-800340957b4f"
+        },
+        {
+          "name": "Standing 8",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2fb32b91-7783-4e07-824f-1375d977d7f2"
+        },
+        {
+          "name": "The Korea EP",
+          "date": "2006-08-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/32dce6a7-087c-4491-af6c-70fac5a27ce2"
+        },
+        {
+          "name": "Black Lipstick (Die Krupps remix)",
+          "date": "2026-03-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/34c3bbdb-8d09-4669-b4dc-0b9bfe31dc91"
+        },
+        {
+          "name": "Copies, Clones, & Replicants",
+          "date": "2011-08-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3816ca52-616b-4cca-ab1f-25ac709985c4"
+        },
+        {
+          "name": "Super Villain",
+          "date": "2009-08-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/391159ba-ee10-48b2-8817-0b1df2b7b295"
+        },
+        {
+          "name": "The Blood Splat Rating System",
+          "date": "1995",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/44e51bb3-7ef9-3b71-9d9c-b04bda43ee99"
+        },
+        {
+          "name": "V Is for Vampire",
+          "date": "2009-04-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/67693227-9aea-4c87-8407-b37682f51b29"
+        },
+        {
+          "name": "The Good, the Bad and the Ugly, Vol.1",
+          "date": "2004-10-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6aa17b5b-7344-317a-afd3-2c273af356f5"
+        },
+        {
+          "name": "The Noble Rot",
+          "date": "2020-08-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6c52f792-0aba-4f82-8a95-03233441af80"
+        },
+        {
+          "name": "Supernova Goes Pop",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/71ed7919-66da-3b1c-93ca-b8c252786ac0"
+        },
+        {
+          "name": "When Worlds Collide",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7d9fe3f9-4928-496f-b49e-22ac2de59606"
+        },
+        {
+          "name": "Builders of the Future",
+          "date": "2014-05-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7f3691bc-957e-4e4f-9e91-c604d3d38e8e"
+        },
+        {
+          "name": "Mega!! Kung Fu Radio",
+          "date": "1997-01-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/804d6e66-561b-4154-98d8-4041375d830a"
+        },
+        {
+          "name": "When Worlds Collide (re-recorded - Die Krupps remix)",
+          "date": "2026-04-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/85d09aae-9f21-4e87-9090-b9c0063ba5a7"
+        },
+        {
+          "name": "A Private Little War",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9747baca-23a1-33e7-8edf-932924ce65b7"
+        },
+        {
+          "name": "Sid Vicious in a Dress",
+          "date": "2017-08-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a0017469-7b3c-4088-8f3e-9950bca5b40c"
+        },
+        {
+          "name": "Brave New World",
+          "date": "2020-08-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a465a1d2-8cd8-4b08-abff-1c5d83a951d4"
+        },
+        {
+          "name": "When Worlds Collide 2020",
+          "date": "2020-10-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a7b3a2c8-7e69-47f7-9ce3-c5a1192b696a"
+        },
+        {
+          "name": "Time Bomb",
+          "date": "2010-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aaeb2fe2-263f-4768-90f5-0347900af8ec"
+        },
+        {
+          "name": "Transform",
+          "date": "2003-01-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ad7b0347-1e22-31ab-8aef-7417f233a9a8"
+        },
+        {
+          "name": "Powerman 5000",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/baf0f3ea-042c-4023-8615-2744eb205510"
+        },
+        {
+          "name": "Tonight the Stars Revolt!",
+          "date": "1999-07-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c02cc25d-3884-3996-a377-9141fa65cf16"
+        },
+        {
+          "name": "Abandon Ship",
+          "date": "2024-05-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c3b79d92-abda-4055-b736-796422308cd1"
+        },
+        {
+          "name": "Tokyo Vigilante #1",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c646cac6-119c-43c5-98ed-349638e520fd"
+        },
+        {
+          "name": "Somewhere on the Other Side of Nowhere",
+          "date": "2009-10-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c6dda51f-1c76-4ea5-83ff-f661d14719b1"
+        },
+        {
+          "name": "Black Lipstick",
+          "date": "2020-06-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d2c5092e-1621-42e8-8447-d569a42d7e11"
+        },
+        {
+          "name": "How to Be a Human",
+          "date": "2014",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e4899b24-c922-4644-a067-29d7a87c5490"
+        },
+        {
+          "name": "New Wave",
+          "date": "2017-10-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/eabf62f0-3433-45cd-a23f-c64675ba00d6"
+        },
+        {
+          "name": "Bombshell (Re-Recorded)",
+          "date": "2024-06-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/efc5a663-b428-4189-b3aa-52f24a46616a"
+        }
+      ]
     }
   },
   "checked": {
@@ -23463,6 +24333,8 @@
     "pain-of-salvation": "2026-10-16T21:27:37.841016+00:00",
     "pearl-jam": "2026-10-16T21:27:41.987166+00:00",
     "periphery": "2026-10-16T23:53:22.214585+00:00",
-    "pink-floyd": "2026-10-16T23:53:23.464181+00:00"
+    "pink-floyd": "2026-10-16T23:53:23.464181+00:00",
+    "porcupine-tree": "2026-10-17T02:07:25.756019+00:00",
+    "powerman-5000": "2026-10-17T02:07:41.242093+00:00"
   }
 }
