@@ -643,49 +643,18 @@
     "260c0a5818de6628dd01b8b01b51bd422f17a37e",
     "01fb5dcbc6bcb587ba1a8e757285186c8f92e1fd",
     "b112b4383a92c77a56212655b8063db33aa7c2eb",
-    "80fb83f9aea1fbb90f16681509a1e219df3fc207"
+    "80fb83f9aea1fbb90f16681509a1e219df3fc207",
+    "cfcab785e341cc3c4781aecaadd2dc12aadde8b3",
+    "acc7ca4e6d2a83b116c3079a07bb593bc85308f7",
+    "d7b8960b8d00070c3aecde1930d20f004b0008d6",
+    "a3c69506c088fc4135d07d057c48d00dc1329566",
+    "e09a85016a54967c90ea785d8bdb2ce8e82bd691",
+    "ae8f26cc0f40051b60749f7ba83b2d9c2d50cf91",
+    "63af9aef8ab8b1a41ffd341a00c724e58ce267c4",
+    "3a3b8ed2d9af8097b459aa6fe68108d9d1710f20",
+    "62eb82d69ead2313c4d66cc465164d2a6d9ddb32"
   ],
   "recent_titles": [
-    {
-      "title": "Commoner’s “Passerby” Music Video Is Now Streaming",
-      "source": "ThePRP",
-      "ts": 1791939093
-    },
-    {
-      "title": "Led Zeppelin finally relent: Stairway To Heaven soundtracks the new Narnia trailer",
-      "source": "Louder",
-      "ts": 1791939105
-    },
-    {
-      "title": "Sleeping With Sirens, Saosin & Escape The Fate Revealed For 2027 ‘Sonic Temple’ Festival",
-      "source": "ThePRP",
-      "ts": 1791939109
-    },
-    {
-      "title": "Filth Launch “Shell Town” Music Video",
-      "source": "ThePRP",
-      "ts": 1791939114
-    },
-    {
-      "title": "‘America’s Got Talent’ Winner Nene Royal Joined Avenged Sevenfold Onstage In Singapore Tonight",
-      "source": "ThePRP",
-      "ts": 1791939128
-    },
-    {
-      "title": "Tom Morello Expands His Spring 2027 Canadian Tour",
-      "source": "ThePRP",
-      "ts": 1791939132
-    },
-    {
-      "title": "Chad Benekos Ex-(Hed)p.e. Announces His New Solo Album “Now Or Never”, Failure & Rival Sons Members Featured",
-      "source": "ThePRP",
-      "ts": 1791939135
-    },
-    {
-      "title": "Dream Theater Enter The Studio For Album #17",
-      "source": "ThePRP",
-      "ts": 1791939138
-    },
     {
       "title": "Why it took Genesis 10 years to break even on tour",
       "source": "Louder",
@@ -1445,6 +1414,46 @@
       "title": "Новое видео HOPES DIE LAST",
       "source": "Darkside",
       "ts": 1792202829
+    },
+    {
+      "title": "“The flute felt like a stupid instrument. Then I saw Focus”: Bobbie Dazzle on merging glam and prog",
+      "source": "Louder",
+      "ts": 1792220290
+    },
+    {
+      "title": "AN NCS VIDEO PREMIERE: SERPENT SKIES — “WHERE IS YOUR GOD”",
+      "source": "No Clean Singing",
+      "ts": 1792220359
+    },
+    {
+      "title": "Enter to Win an Epiphone Guitar + Signed Poster by Tony Iommi",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792220379
+    },
+    {
+      "title": "Carnifex Premiere “Licking Love From A Knife” Music Video",
+      "source": "ThePRP",
+      "ts": 1792220386
+    },
+    {
+      "title": "Hear Mike Patton (Faith No More, Etc.) Guest On Three New Tracks From The Avalanches",
+      "source": "ThePRP",
+      "ts": 1792220391
+    },
+    {
+      "title": "Steven Wilson bids you welcome to the village on the cover of the new issue of Prog, on sale now!",
+      "source": "Louder",
+      "ts": 1792220416
+    },
+    {
+      "title": "Кавер-версия LED ZEPPELIN от VIRGIN STEELE",
+      "source": "Darkside",
+      "ts": 1792220418
+    },
+    {
+      "title": "Трейлер новой игры VOIVOD",
+      "source": "Darkside",
+      "ts": 1792220420
     }
   ],
   "initialized_sources": [
@@ -4223,78 +4232,6 @@
       "retry_after": 1792127805
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Carnifex Premiere “Licking Love From A Knife” Music Video",
-      "link": "https://www.theprp.com/2026/10/15/news/carnifex-premiere-licking-love-from-a-knife-music-video/",
-      "rss_body": "Part of their forthcoming album, \"More Than Misery\".",
-      "tags": "News Carnifex",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T06:13:08+00:00",
-      "id": "a3c69506c088fc4135d07d057c48d00dc1329566",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Hear Mike Patton (Faith No More, Etc.) Guest On Three New Tracks From The Avalanches",
-      "link": "https://www.theprp.com/2026/10/15/news/hear-mike-patton-faith-no-more-etc-guest-on-three-new-tracks-from-the-avalanches/",
-      "rss_body": "One of which features actor Haley Joel Osment.",
-      "tags": "News Faith No More Mike Patton Mr. Bungle",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T06:06:52+00:00",
-      "id": "e09a85016a54967c90ea785d8bdb2ce8e82bd691",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Steven Wilson bids you welcome to the village on the cover of the new issue of Prog, on sale now!",
-      "link": "https://www.loudersound.com/music-industry/magazines/steven-wilson-bids-you-welcome-to-the-village-on-the-cover-of-the-new-issue-of-prog-on-sale-now",
-      "rss_body": "Steven WIlson\n\nis on the cover of the new issue of\n\nProg\n\n, which is on sale now!\n\nSteven's ninth studio album,\n\nRequiem For A Village\n\n, is about to be released. It's another fascinating album of depth, quality and intelligence that draws you into its insular and eerie world and refuses to let go. If someone were to make a modern-day, adult folk-horror version of the classic 70s kids’ TV show\n\nChildren Of The Stones\n\n, this would be the soundtrack.\n\nAs well as that,\n\nPeter Hammill\n\ntells us all about his first solo album of new material for a decade;\n\nKing Crimson\n\nco-founder and drummer Michael Giles looks back on more than 50 years of inquisitive music-making; surviving Moody Blue\n\nJustin Hayward\n\ntells us how excited he is about his UK tour and Scottish proggers\n\nPallas\n\ndeliver a powerful swansong for singer\n\nAlan Reed\n\n.\n\nPlus\n\nArthur Brown\n\n,\n\nEivor\n\n,\n\nThe Pineapple Thief\n\n,\n\nThe Tangent\n\n,\n\nPure Reason Revolution\n\n,\n\nLesoir\n\n,\n\nEdison's Children\n\n, Chelsea Wolfe and John Greenwood tell us all about their latest releases. All this plus\n\nRush\n\nreviewed live in their hometown of Toronto, a Steven Wilson art card and a great sampler from Ripcord Records!\n\nAlso in\n\nProg\n\n174\n\n...\n\nPeter Hammill -\n\nthe Prog Proms performer and VdGG frontman on his first solo album of new material for a decade.\n\nPallas -\n\nthe Scottish proggers discuss the majestic\n\nA Song For Tomorrow,\n\nand singer Alan Reed’s forthcoming solo album\n\nEivør -\n\nthe Faroese singer remains as uncategorisable as ever with\n\nTungl\n\n.\n\nJustin Hayward -\n\non his current tour dates and being the sole survivor of The Moody Blues.\n\nThe Pineapple Thief -\n\nthe quartet discuss stripping things back and staying true to prog on\n\nFar And Wide\n\n.\n\nThe Tangent -\n\nAndy Tillison unveils a real magnum opus in the elegant\n\nWas: A Nostalgia\n\n.\n\nPure Reason Revolution -\n\nJon Courtney and the gang are back to explain why angels are terrifying!\n\nArthur Brown -\n\nthe prog legend mulls over what we’re doing to the planet and more.\n\nLesoir -\n\nthe Dutch art-rock collective ponder Gaia theory on their latest album,\n\nTomorrow Is Now Today\n\n.\n\nEdison's Children -\n\nMarillion’s Pete Trewavas and pals return with more tales from outer space.\n\nChelsea Wolfe -\n\nthe enigmatic Chelsea Wolfe talks sobriety and her spellbinding new album,\n\nThe Dark.\n\nMichael Giles -\n\nthe King Crimson co-founder looks back on more than 50 years of inquisitive music-making.\n\nJohn Greenwood -\n\nthe Unitopia guitarist on a prog world full of Genesis, Floyd, Hackett and Celine Dion!\n\nPlus reviews of new releases and reissues by\n\nRick Wakeman\n\n,\n\nGenesis\n\n,\n\nAsia\n\n,\n\nThe Pineapple Thief\n\n,\n\nKing Crimson\n\n,\n\nThe Flower Kings\n\n,\n\nPallas\n\n,\n\nIona\n\n,\n\nEnslaved\n\n,\n\nLesoir\n\n,\n\nThe Tangent\n\n,\n\nNektar\n\n,\n\nAlso Eden\n\n,\n\nPhil Collins\n\n,\n\nEivør\n\n,\n\nStrawbs\n\nand loads more.\n\nThis month we saw\n\nRush\n\nin Toronto, went to\n\nArcTanGent\n\nand\n\nA Sunday In September\n\n, and saw gigs by\n\nIamthemorning\n\n,\n\nThe Anchoress\n\nand more.\n\nBuying\n\nProg\n\nMagazine made easy...\n\n*\n\nYou can use our store finder to find your nearest stockist\n\n. Go to\n\nProg\n\non the alphabetical pull-down menu and enter your postcode.\n\n* The easiest option for everyone would be to\n\ngo digital\n\n. You can get single digital issues from the\n\nApple Store\n\n, from\n\nZinio\n\nand all manner of digital magazine retailers.\n\n* Subscribe to\n\nProg\n\n. We are now accepting subscriptions from the rest of the world.\n\nSubscriptions available here\n\n.\n\n* In North America,\n\nProg\n\nis available is branches of Barnes & Noble and Books-A-Million, although new issues do not go on sale until a couple of weeks after they're published in The UK.\n\n* Single print issues of\n\nProg\n\ncan be purchased online from\n\nMagazines Direct\n\nand also\n\nBurning Shed\n\n.\n\nClick on the corresponding cover on the\n\nsingle issue page\n\nat Magazines Direct for payment options.",
-      "tags": "Magazines Music Industry",
-      "category": "Прогрессив",
-      "published": "2026-10-16T06:00:00+00:00",
-      "id": "ae8f26cc0f40051b60749f7ba83b2d9c2d50cf91",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "The Smashing Pumpkins Debut “Black Stars”, Their First New Track With Butch Vig In 32 Years",
-      "link": "https://www.theprp.com/2026/10/15/news/the-smashing-pumpkins-debut-black-stars-their-first-new-track-with-butch-vig-in-32-years/",
-      "rss_body": "Part of the soundtrack for 'The Hunger Games: Sunrise On The Reaping'.",
-      "tags": "News Butch Vig The Smashing Pumpkins",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T05:54:11+00:00",
-      "id": "63af9aef8ab8b1a41ffd341a00c724e58ce267c4",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Кавер-версия LED ZEPPELIN от VIRGIN STEELE",
-      "link": "http://www.darkside.ru/news/184526/",
-      "rss_body": "VIRGIN STEELE опубликовали видео на собственное прочтение классического произведения LED ZEPPELIN WHEN THE LEVEE BREAKS\n\nЭтот бонус трек можно найти на втором диске LIFE AMONG THE RUINS и он посвящен Great Mississippi Flood 1927…Используя разные гитары, бас, ударные, вокал и клавишные примочки, трек передает шум, рев и опустошение неумолимых вод…\n\nВизуально в видео использованы кадры, снятые в течение нескольких знойных июльских дней этого года во время репетиций, студийных съемок и фотосессий, а также кадры с нескольких недавних живых концертов в США и Европе.\n\nДля получения наилучших результатов смотрите при разрешении: 1920 x 1080",
-      "tags": "",
-      "category": "Хард-рок",
-      "published": "2026-10-16T05:35:05+00:00",
-      "id": "3a3b8ed2d9af8097b459aa6fe68108d9d1710f20",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Трейлер новой игры VOIVOD",
-      "link": "http://www.darkside.ru/news/184516/",
-      "rss_body": "Независимая студия Chaosmonger Studio представила новый трейлер демоверсии игры “Voivod: The Nuclear Warrior”. Это сюжетная метроидвания (популярный поджанр компьютерных и консольных игр, который сочетает в себе элементы игрового процесса двух культовых серий: Metroid от Nintendo и Castlevania (а именно её части Symphony of the Night) от Konami) в жанре «беги и стреляй», созданная по мотивам музыки, артов и антиутопической научно-фантастической вселенной легендарной канадской метал-группы VOIVOD.\n\nИгра примет участие в Steam Next Fest, который пройдёт с 19 по 26 октября. Там каждый сможет опробовать бесплатную демоверсию с двумя разными режимами. Полноценный релиз “Voivod: The Nuclear Warrior” на PC и консолях запланирован на начало 2027 года.\n\nДействие разворачивается в постъядерном будущем, где рушится сама реальность. “Voivod: The Nuclear Warrior” соединяет стремительные перестрелки, исследование мира в духе метроидваний, атмосферное повествование и суровую рукотворную пиксель-арт-графику.\n\nИгроку предстоит управлять Voivod'ом, постоянно мутирующим воином с расколотым сознанием. Под руководством загадочного Nothingface он отправится через опустошённые земли, биомеханические кошмары и расколотые измерения, чтобы собрать обрывки утраченных воспоминаний.\n\nПо пути предстоит сражаться с чудовищными мутантами, встречать причудливых существ, открывать новое оружие и способности и сходиться в бою с грозными боссами. Мир игры вдохновлён неповторимой художественной вселенной группы.\n\nИгра создаётся в тесном сотрудничестве с VOIVOD и переносит мифологию, музыку и визуальный стиль коллектива в интерактивный формат, сочетая фирменные научно-фантастические темы с напряжённым экшеном и исследованием.\n\nДемоверсия для Steam Next Fest предлагает два разных режима, то есть два способа шагнуть во вселенную Voivod'а.\n\n“Story Path” позволяет пройти примерно первый час полной версии, начиная со вступительной сцены. Здесь больший упор сделан на сюжет, исследование и богатую фантастическую мифологию. Игрока постепенно знакомят с миром, персонажами, оружием и способностями, соблюдая естественный ход, заложенный в финальной версии.\n\n“Combat Trial” даёт более быстрый, ориентированный на экшен опыт. В нём доступен широкий выбор оружия и способностей, а игрока ждут яростные схватки с врагами и сложный босс.\n\nОба режима показывают игру с разных сторон: от странной атмосферы и разворачивающегося сюжета до безумного темпа боёв и гротескного дизайна противников.\n\nПо мере приближения к релизу в начале 2027 года Chaosmonger Studio продолжает дорабатывать боевую систему, поведение врагов и баланс, учитывая отзывы, полученные в ходе тестирования, чтобы довести игру до блеска.\n\n“Voivod: The Nuclear Warrior” сейчас разрабатывается для PC (Windows, MacOS, Linux, Steam Deck) и консолей (Nintendo Switch, PlayStation, Xbox). Мультиплатформенный релиз намечен на начало 2027 года.\n\nChaosmonger Studio — независимая творческая студия из Таллина (Эстония), основанная итальянским кинорежиссёром и разработчиком игр Николой Пиовезаном. За плечами студии больше 20 лет опыта в кино, анимации и интерактивных развлечениях. Среди её проектов игры “ENCODYA” и “Clunky Hero”.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T04:50:19+00:00",
-      "id": "62eb82d69ead2313c4d66cc465164d2a6d9ddb32",
-      "retry_after": 0
-    },
-    {
       "source": "Louder",
       "priority": 84,
       "title": "\"We can’t get everywhere but we can try!\" Iron Maiden announce surprise 2027 North American tour, including headline set at Sonic Temple festival",
@@ -4307,7 +4244,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792160953
+      "retry_after": 1792220663
     },
     {
       "source": "Metal Injection",
@@ -4319,7 +4256,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
-      "retry_after": 1792160979
+      "retry_after": 1792220680
     },
     {
       "source": "Metal Injection",
@@ -4331,7 +4268,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
-      "retry_after": 1792161055
+      "retry_after": 1792220680
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4343,7 +4280,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T12:17:13+00:00",
       "id": "2a02732b6da7dc076e27515808483943e76cb609",
-      "retry_after": 1792161129
+      "retry_after": 1792220681
     },
     {
       "source": "No Clean Singing",
@@ -4355,7 +4292,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T16:58:49+00:00",
       "id": "0273687cb71099483ba5ce908236259a2e6eadd3",
-      "retry_after": 1792203023
+      "retry_after": 1792220616
     },
     {
       "source": "Metal Injection",
@@ -4371,7 +4308,7 @@
         "73ecf77997afc50510be4de8d18c56581c68c2f2",
         "1281d9679035a6042490add57117ba0078a761ea"
       ],
-      "retry_after": 0
+      "retry_after": 1792220663
     },
     {
       "source": "Metal Injection",
@@ -4383,7 +4320,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 1792203129
+      "retry_after": 1792220616
     },
     {
       "source": "Louder",
@@ -4395,19 +4332,7 @@
       "category": "Прогрессив",
       "published": "2026-10-16T15:00:00+00:00",
       "id": "b4f5ecf8c540624211fad00c162a79fe3896747f",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AN NCS VIDEO PREMIERE: SERPENT SKIES — “WHERE IS YOUR GOD”",
-      "link": "https://www.nocleansinging.com/2026/10/16/an-ncs-video-premiere-serpent-skies-where-is-your-god/",
-      "rss_body": "(written by Islander) Serpent Skies are a Swedish melodic death metal band from Gävle, Sweden who are returning after a 13-year hiatus with a new chapter in their story. The band’s current incarnation was formed in 2012. Drawing their inspirations from the classic Gothenburg sound, they released a debut EP named Graveyard Poets that same\n\n[...]",
-      "tags": "Premieres Serpent Skies",
-      "category": "Экстремальный метал",
-      "published": "2026-10-16T14:59:53+00:00",
-      "id": "acc7ca4e6d2a83b116c3079a07bb593bc85308f7",
-      "retry_after": 0
+      "retry_after": 1792220635
     },
     {
       "source": "Metal Injection",
@@ -4419,19 +4344,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:44:42+00:00",
       "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Enter to Win an Epiphone Guitar + Signed Poster by Tony Iommi",
-      "link": "https://ultimateclassicrock.com/tony-iommi-epiphone-guitar-signed-poster-contest/",
-      "rss_body": "Here's your chance to enter to win an Epiphone guitar and a signed poster featuring artwork from Iommi's 'From the Dark' album.",
-      "tags": "Contests News Black Sabbath Tony Iommi VIP",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T14:01:00+00:00",
-      "id": "d7b8960b8d00070c3aecde1930d20f004b0008d6",
-      "retry_after": 0
+      "retry_after": 1792220659
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4443,7 +4356,7 @@
       "category": "Хард-рок",
       "published": "2026-10-16T20:17:21+00:00",
       "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
-      "retry_after": 1792203021
+      "retry_after": 1792220614
     },
     {
       "source": "Metal Injection",
@@ -4455,7 +4368,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792203021
+      "retry_after": 1792220614
     },
     {
       "source": "Metal Injection",
@@ -4467,7 +4380,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792203019
+      "retry_after": 1792220609
     },
     {
       "source": "Louder",
@@ -4479,7 +4392,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792203019
+      "retry_after": 1792220609
     }
   ]
 }
