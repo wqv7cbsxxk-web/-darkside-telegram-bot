@@ -660,49 +660,17 @@
     "e0759cfd1d220eb17f437ad40dc7ed317509a3c2",
     "9d437f6c2274af8e237db686092795a3259c8920",
     "600188a11010ced322c25978b826a53a9551dd8e",
-    "c41895ccfd9f853a233e5be2a4123db5f754d1e3"
+    "c41895ccfd9f853a233e5be2a4123db5f754d1e3",
+    "5d0ddcd2911371c776637a94dbfbc3d36d1be373",
+    "2e607b00bfacc1a909cbafe7c6b273e349b7fde8",
+    "20858fcae4fb2be9593b57022bf1e2852ae05594",
+    "00c1c63225084a0e504541b2051555723650bef7",
+    "a96083555c266f2a44491243a24a3861ef0004c0",
+    "831cc5be7547938c6a94461f91850d3a406e7267",
+    "a94d89a1381ecc3e077adec9a2e44a6e4b928cd2",
+    "cb03150293e6f0905e87da07eb8da13802bd196d"
   ],
   "recent_titles": [
-    {
-      "title": "Могут ли группы нести политические посылы? Отвечает TOM MORELLO",
-      "source": "Darkside",
-      "ts": 1791974317
-    },
-    {
-      "title": "Хотели бы DEF LEPPARD выступить в Сфере?",
-      "source": "Darkside",
-      "ts": 1791974319
-    },
-    {
-      "title": "Концертное видео MOTIONLESS IN WHITE",
-      "source": "Darkside",
-      "ts": 1791974320
-    },
-    {
-      "title": "Новое видео A PERFECT CIRCLE",
-      "source": "Darkside",
-      "ts": 1791974322
-    },
-    {
-      "title": "Ralf Scheepers в новом клипе IN VAIN",
-      "source": "Darkside",
-      "ts": 1791974324
-    },
-    {
-      "title": "Новое видео GR&#214;NWALL",
-      "source": "Darkside",
-      "ts": 1791974325
-    },
-    {
-      "title": "Новое видео HEILUNG",
-      "source": "Darkside",
-      "ts": 1791974326
-    },
-    {
-      "title": "Профессиональное видео полного выступления CASTLE RAT",
-      "source": "Darkside",
-      "ts": 1791974328
-    },
     {
       "title": "Watch Trev Lukather and Levara's New 'Underneath It All' Video",
       "source": "Ultimate Classic Rock",
@@ -1462,6 +1430,46 @@
       "title": "Video Premiere: Abhoria – “Ambition and Delusion”",
       "source": "Decibel",
       "ts": 1792236969
+    },
+    {
+      "title": "Новое видео SABLE HILLS",
+      "source": "Darkside",
+      "ts": 1792247090
+    },
+    {
+      "title": "Новое видео ICE SEALED EYES",
+      "source": "Darkside",
+      "ts": 1792247091
+    },
+    {
+      "title": "Новое видео OSYRON",
+      "source": "Darkside",
+      "ts": 1792247093
+    },
+    {
+      "title": "Новое видео IN STRICT CONFIDENCE",
+      "source": "Darkside",
+      "ts": 1792247094
+    },
+    {
+      "title": "Джиу-джитсу наборы от OZZY OSBOURNE",
+      "source": "Darkside",
+      "ts": 1792247096
+    },
+    {
+      "title": "Студийное видео от ENTER SHIKARI",
+      "source": "Darkside",
+      "ts": 1792247097
+    },
+    {
+      "title": "Вокалист MAJESTICA исполняет BEE GEES",
+      "source": "Darkside",
+      "ts": 1792247141
+    },
+    {
+      "title": "GLENN HUGHES: «Я ощущаю, как энергия вновь наполняет мое тело»",
+      "source": "Darkside",
+      "ts": 1792247142
     }
   ],
   "initialized_sources": [
@@ -4316,7 +4324,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792237198
+      "retry_after": 1792247440
     },
     {
       "source": "Louder",
@@ -4328,7 +4336,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792237198
+      "retry_after": 1792247439
     },
     {
       "source": "Louder",
@@ -4340,7 +4348,31 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T10:00:00+00:00",
       "id": "c1ea453807d8fcbdf823e5a66dd8b50643c15a98",
-      "retry_after": 1792237131
+      "retry_after": 1792247422
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Tony Iommi Reflects on Life, Roger Waters Blasts James Hetfield + More Top Stories of the Week",
+      "link": "https://metalinjection.net/injection-reflection/tony-iommi-reflects-on-life-roger-waters-blasts-james-hetfield-more-top-stories-of-the-week",
+      "rss_body": "Plus Ghost goes death metal again, heavy metal meets SNF and more.",
+      "tags": "Injection Reflection tony iommi",
+      "category": "Экстремальный метал",
+      "published": "2026-10-17T14:23:28+00:00",
+      "id": "1c5cfbe84a92e91546a4f726ca221c8ac38f37ae",
+      "retry_after": 1792247393
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео THE FLOWER KINGS",
+      "link": "http://www.darkside.ru/news/184573/",
+      "rss_body": "The Gods of Rome, Pt. 2, новое видео группы THE FLOWER KINGS, доступно для просмотра ниже. Эта песня взята из альбома \"Hope\", выходящего 23 октября на InsideOut Music:\n\n01. World Spinning - The Final Curtain (18:45)\n\n02. In A World Of Fools (5:35)\n\n03. Mars & Minerva (4:40)\n\n04. The Gods Of Rome (28:15)",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T21:43:21+00:00",
+      "id": "f21fe46cda2fbe1ef2133d0a5ec598a23a7f26ea",
+      "retry_after": 0
     }
   ]
 }
