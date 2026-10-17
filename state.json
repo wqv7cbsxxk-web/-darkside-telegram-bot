@@ -684,49 +684,17 @@
     "fd9c1b12140b71940559069b063c071e0b37334b",
     "987ed98074c3546b1d8d8ffb1acb22cb51d81421",
     "2d83cacc6ce2a4817a64fe9cb2e2988fa6f4c296",
-    "f8dbbbe916f4f2ff83c5fc47c7d8e380e393bfbf"
+    "f8dbbbe916f4f2ff83c5fc47c7d8e380e393bfbf",
+    "0d571558d6abd5938de841bfc7f48f54ef2e6f7d",
+    "f3557252995c268cc53960503c9f10360d39ba38",
+    "542bf7af698b7553a4957f0dbd36456f80df16fe",
+    "4740948a0d9eaa87e85184444642024f2f5667ae",
+    "c73b4e7f0629668a4a79e907cda853f323d9380e",
+    "6fb8044450d08404e1cc607a07b32acc1641460a",
+    "ff069de1c277ce7bf25f770daabf4bd01ed0b874",
+    "04f695bfe1cb5d47c978725d8626a629d519dc99"
   ],
   "recent_titles": [
-    {
-      "title": "Fleshgod Apocalypse’s Francesco Paoli Shows Off His Newly Reconstructed Hand Following His Latest Transplant Surgery",
-      "source": "ThePRP",
-      "ts": 1792017666
-    },
-    {
-      "title": "New Vision Premiere “SPICE” Music Video",
-      "source": "ThePRP",
-      "ts": 1792017678
-    },
-    {
-      "title": "Steve Harris announces British Lion residency at historic London pub",
-      "source": "Louder",
-      "ts": 1792017689
-    },
-    {
-      "title": "The Sword’s New In-Studio Performance For KEXP Released",
-      "source": "ThePRP",
-      "ts": 1792017694
-    },
-    {
-      "title": "John 5 Featured In Newest Episode Of Ernie Ball’s ‘String Theory’ Series",
-      "source": "ThePRP",
-      "ts": 1792017703
-    },
-    {
-      "title": "Satanic Planet (Ex-Slayer/The Locust, Etc.) Debut “Antichrist” Short Film/Music Video",
-      "source": "ThePRP",
-      "ts": 1792017710
-    },
-    {
-      "title": "How Alter Bridge and Slash frontman Myles Kennedy learned to embrace rock stardom in his own way",
-      "source": "Louder",
-      "ts": 1792017815
-    },
-    {
-      "title": "BLACKGOLD Premiere “KILLAZ” Music Video Featuring Woes",
-      "source": "ThePRP",
-      "ts": 1792017823
-    },
     {
       "title": "Nikki Sixx proclaims Mötley Crüe shows to be politics-free zones",
       "source": "Louder",
@@ -1486,6 +1454,46 @@
       "title": "AN NCS VIDEO PREMIERE: NO WORTH OF MAN — “I DEFY”",
       "source": "No Clean Singing",
       "ts": 1792266290
+    },
+    {
+      "title": "JOHN 5 о недавнем туре M&#214;TLEY CR&#220;E: «Как-то раз мы летели на разных самолетах в одну точку»",
+      "source": "Darkside",
+      "ts": 1792273638
+    },
+    {
+      "title": "Новое видео DARTAGNAN",
+      "source": "Darkside",
+      "ts": 1792273639
+    },
+    {
+      "title": "Новое видео CALVA LOUISE",
+      "source": "Darkside",
+      "ts": 1792273641
+    },
+    {
+      "title": "Новое видео STARKILL",
+      "source": "Darkside",
+      "ts": 1792273642
+    },
+    {
+      "title": "Профессиональное видео с выступления GENE SIMMONS BAND'17",
+      "source": "Darkside",
+      "ts": 1792273644
+    },
+    {
+      "title": "Новая песня TURBO",
+      "source": "Darkside",
+      "ts": 1792273645
+    },
+    {
+      "title": "Концертное видео LAMB OF GOD",
+      "source": "Darkside",
+      "ts": 1792273647
+    },
+    {
+      "title": "Новый альбом SARLIC BLISS выйдет осенью",
+      "source": "Darkside",
+      "ts": 1792273648
     }
   ],
   "initialized_sources": [
@@ -4352,7 +4360,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T18:20:57+00:00",
       "id": "dfaa87e155fc4630bcaf24b6f82ebeb9dbeb28ea",
-      "retry_after": 1792266503
+      "retry_after": 1792273947
     }
   ]
 }
