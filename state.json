@@ -676,49 +676,17 @@
     "0273687cb71099483ba5ce908236259a2e6eadd3",
     "b4f5ecf8c540624211fad00c162a79fe3896747f",
     "b5d66186de4cb71a1e190e0db3da1ba16d5f8fc8",
-    "8131700ae59913781fb38af64b79d93f1829fe85"
+    "8131700ae59913781fb38af64b79d93f1829fe85",
+    "eaf0f42d8e544c699170b24c16dc22f39fdc6dc4",
+    "595de9071e4f6d4607b510ed1c405ee2a398130f",
+    "02bb7413188810c236968acaa670b83510582fe7",
+    "ee64655be11d699eaa63a196b2476fbd41d86b33",
+    "fd9c1b12140b71940559069b063c071e0b37334b",
+    "987ed98074c3546b1d8d8ffb1acb22cb51d81421",
+    "2d83cacc6ce2a4817a64fe9cb2e2988fa6f4c296",
+    "f8dbbbe916f4f2ff83c5fc47c7d8e380e393bfbf"
   ],
   "recent_titles": [
-    {
-      "title": "Вокалист LAMB OF GOD: «Я бы хотел больше петь чистым, но... но... »",
-      "source": "Darkside",
-      "ts": 1792006831
-    },
-    {
-      "title": "Новое видео &#33457;&#20919;&#12360;&#12290;",
-      "source": "Darkside",
-      "ts": 1792006832
-    },
-    {
-      "title": "Новое видео SEVENTH WONDER",
-      "source": "Darkside",
-      "ts": 1792006833
-    },
-    {
-      "title": "(Hed)p.e. Opt For CD-Only Release Of Their New Album “Relapse” As Digital Versions Get Delayed To Summer 2027",
-      "source": "ThePRP",
-      "ts": 1792006889
-    },
-    {
-      "title": "Новое видео GRYMHEART",
-      "source": "Darkside",
-      "ts": 1792006891
-    },
-    {
-      "title": "Vote for Rock's Spookiest Album Cover: Only 16 Artists Remain",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792006893
-    },
-    {
-      "title": "Pavlov's Dog frontman David Surkamp dead at 73",
-      "source": "Louder",
-      "ts": 1792006910
-    },
-    {
-      "title": "Tortured Demon Sign With BLKIIBLK, Debut “Apocalypse” Music Video",
-      "source": "ThePRP",
-      "ts": 1792006915
-    },
     {
       "title": "Fleshgod Apocalypse’s Francesco Paoli Shows Off His Newly Reconstructed Hand Following His Latest Transplant Surgery",
       "source": "ThePRP",
@@ -1478,6 +1446,46 @@
       "title": "“I’m slightly afraid of him”: Gary Kemp’s respect and fear for Robert Fripp",
       "source": "Louder",
       "ts": 1792258381
+    },
+    {
+      "title": "SAVE US Encounter Visa Issues Ahead Of Their Tour With Saosin, Silent Planet & Like Moths To Flames",
+      "source": "ThePRP",
+      "ts": 1792266121
+    },
+    {
+      "title": "My Chemical Romance Drop Official Live Performance Video For Their Rare Track “Someone Out There Loves You”",
+      "source": "ThePRP",
+      "ts": 1792266126
+    },
+    {
+      "title": "Amerakin Overdose Pen New Track “Parasite” In Response To Being Stiffed By A Promoter",
+      "source": "ThePRP",
+      "ts": 1792266132
+    },
+    {
+      "title": "SEEN AND HEARD ON A SATURDAY: IRREVERSIBLE MECHANISM, DÄMMERUNG, KORPSESOTURI, SONIC MOON, HVRT, FAKE DUST",
+      "source": "No Clean Singing",
+      "ts": 1792266202
+    },
+    {
+      "title": "Hear Eminem Guest On Kid Rock’s New Christian Track “Heal My Faith”",
+      "source": "ThePRP",
+      "ts": 1792266219
+    },
+    {
+      "title": "Stick To Your Guns/Eighteen Visions Members Launch New Straight Edge Group ALIVE",
+      "source": "ThePRP",
+      "ts": 1792266233
+    },
+    {
+      "title": "No Cure Share Cover Of Brotherhood’s “Till Death” For 2026 ‘Edge Day’",
+      "source": "ThePRP",
+      "ts": 1792266239
+    },
+    {
+      "title": "AN NCS VIDEO PREMIERE: NO WORTH OF MAN — “I DEFY”",
+      "source": "No Clean Singing",
+      "ts": 1792266290
     }
   ],
   "initialized_sources": [
@@ -4085,7 +4093,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:00:00+00:00",
       "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
-      "retry_after": 1792258657
+      "retry_after": 1792266572
     },
     {
       "source": "Metal Injection",
@@ -4097,19 +4105,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T17:10:18+00:00",
       "id": "4d9f2be08e5b1d74c24967411ca765a3963a5141",
-      "retry_after": 1792258658
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AN NCS VIDEO PREMIERE: NO WORTH OF MAN — “I DEFY”",
-      "link": "https://www.nocleansinging.com/2026/10/15/an-ncs-video-premiere-no-worth-of-man-i-defy/",
-      "rss_body": "(written by Islander) We are rapidly approaching the most metal night of the year, a time when veils will be parted and a cavalcade of deathless fiends will spread mayhem through the human world — or at least we and centuries of our ancestors have so imagined, with thrills and chills galore. It is thus\n\n[...]",
-      "tags": "Premieres No Worth of Man",
-      "category": "Экстремальный метал",
-      "published": "2026-10-15T15:57:25+00:00",
-      "id": "f8dbbbe916f4f2ff83c5fc47c7d8e380e393bfbf",
-      "retry_after": 0
+      "retry_after": 1792266572
     },
     {
       "source": "Metal Injection",
@@ -4133,7 +4129,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T20:49:09+00:00",
       "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
-      "retry_after": 1792258654
+      "retry_after": 1792266571
     },
     {
       "source": "Metal Injection",
@@ -4145,7 +4141,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:25:10+00:00",
       "id": "77b1588e20715ae846658427185c711f41edfa37",
-      "retry_after": 1792258657
+      "retry_after": 1792266572
     },
     {
       "source": "Louder",
@@ -4157,7 +4153,7 @@
       "category": "Прогрессив",
       "published": "2026-10-16T02:29:27+00:00",
       "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
-      "retry_after": 1792258651
+      "retry_after": 1792266568
     },
     {
       "source": "Louder",
@@ -4172,7 +4168,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792258644
+      "retry_after": 1792266560
     },
     {
       "source": "Metal Injection",
@@ -4184,7 +4180,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
-      "retry_after": 1792258645
+      "retry_after": 1792266560
     },
     {
       "source": "Metal Injection",
@@ -4196,7 +4192,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
-      "retry_after": 1792258645
+      "retry_after": 1792266560
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4208,7 +4204,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T12:17:13+00:00",
       "id": "2a02732b6da7dc076e27515808483943e76cb609",
-      "retry_after": 1792258646
+      "retry_after": 1792266563
     },
     {
       "source": "Metal Injection",
@@ -4224,7 +4220,7 @@
         "73ecf77997afc50510be4de8d18c56581c68c2f2",
         "1281d9679035a6042490add57117ba0078a761ea"
       ],
-      "retry_after": 1792258644
+      "retry_after": 1792266560
     },
     {
       "source": "Metal Injection",
@@ -4236,7 +4232,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 1792258638
+      "retry_after": 1792266556
     },
     {
       "source": "Metal Injection",
@@ -4248,7 +4244,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:44:42+00:00",
       "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
-      "retry_after": 1792258641
+      "retry_after": 1792266556
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4260,7 +4256,7 @@
       "category": "Хард-рок",
       "published": "2026-10-16T20:17:21+00:00",
       "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
-      "retry_after": 1792258634
+      "retry_after": 1792266555
     },
     {
       "source": "Metal Injection",
@@ -4272,7 +4268,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792258634
+      "retry_after": 1792266556
     },
     {
       "source": "Metal Injection",
@@ -4284,7 +4280,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792258627
+      "retry_after": 1792266552
     },
     {
       "source": "Louder",
@@ -4296,7 +4292,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792258627
+      "retry_after": 1792266552
     },
     {
       "source": "Louder",
@@ -4308,7 +4304,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T10:00:00+00:00",
       "id": "c1ea453807d8fcbdf823e5a66dd8b50643c15a98",
-      "retry_after": 1792258624
+      "retry_after": 1792266549
     },
     {
       "source": "Metal Injection",
@@ -4320,7 +4316,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-17T14:23:28+00:00",
       "id": "1c5cfbe84a92e91546a4f726ca221c8ac38f37ae",
-      "retry_after": 1792258618
+      "retry_after": 1792266540
     },
     {
       "source": "Metal Injection",
@@ -4332,7 +4328,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T15:46:43+00:00",
       "id": "17fb72fb196f9cfc779369925273ef76e14f814e",
-      "retry_after": 1792258587
+      "retry_after": 1792266540
     },
     {
       "source": "Metal Injection",
@@ -4344,7 +4340,19 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T14:56:10+00:00",
       "id": "75aefeb86fd73e4c90547f178d35ec6916166b04",
-      "retry_after": 1792258587
+      "retry_after": 1792266540
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "What's System of a Down Planning in LA for 2027?",
+      "link": "https://metalinjection.net/news/system-of-a-down-los-angeles-2027",
+      "rss_body": "Projections and posters have gone up throughout Los Angeles this past week.",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-10-17T18:20:57+00:00",
+      "id": "dfaa87e155fc4630bcaf24b6f82ebeb9dbeb28ea",
+      "retry_after": 1792266503
     }
   ]
 }
