@@ -24245,6 +24245,638 @@
           "source_url": "https://musicbrainz.org/release-group/efc5a663-b428-4189-b3aa-52f24a46616a"
         }
       ]
+    },
+    "rage-against-the-machine": {
+      "name": "Rage Against The Machine",
+      "musicbrainz_url": "https://musicbrainz.org/artist/3798b104-01cb-484c-a3b0-56adc6399b80",
+      "reference_checked_at": "2026-10-17T07:00:38.591159+00:00",
+      "genres": "alternative metal, alternative rock, funk metal, heavy metal, metal, nu metal, rap metal, rap rock",
+      "website": "http://www.ratm.com/",
+      "members": [
+        {
+          "name": "Tim Commerford",
+          "role": "electric bass guitar",
+          "begin": null
+        },
+        {
+          "name": "Tom Morello",
+          "role": "electric guitar",
+          "begin": null
+        },
+        {
+          "name": "Zack de la Rocha",
+          "role": "lead vocals",
+          "begin": null
+        },
+        {
+          "name": "Brad Wilk",
+          "role": "drums (drum set)",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/3798b104-01cb-484c-a3b0-56adc6399b80",
+      "albums": [
+        {
+          "name": "2008-01-22: The Battle of Sydney: Sydney Entertainment Centre, Sydney, Australia",
+          "date": "2008",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/08731690-9ab9-3578-832d-10d57d1592d3"
+        },
+        {
+          "name": "Best Collection",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/099d9ac3-12c8-4543-a9ac-28bb2ee77466"
+        },
+        {
+          "name": "Rage Against the Machine",
+          "date": "1992-11-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1305859b-8937-397f-9c33-39f62eb672fb"
+        },
+        {
+          "name": "Evil Empire",
+          "date": "1996-03-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1b469da1-e542-346b-84e6-4d7fe45be181"
+        },
+        {
+          "name": "Renegades / The Battle of Los Angeles",
+          "date": "2010-10-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1b95c80d-6093-4f1e-b5c3-2764532b1b91"
+        },
+        {
+          "name": "The Handler Of The Revolver (Live)",
+          "date": "2021-02-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1e18f596-b4ec-4663-9311-36aa3e1622f6"
+        },
+        {
+          "name": "Bombtracks, Volume 1: Studio Tracks",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2307cb61-1c69-3ba8-b56b-e4f1adf8b0d9"
+        },
+        {
+          "name": "The Battle of Los Angeles",
+          "date": "1999-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/25e72bf4-09fc-3e66-9d31-9247d91b4819"
+        },
+        {
+          "name": "Use The Revolver",
+          "date": "2021-06-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/25eb7fe1-3a82-4b84-82e7-73053227d9d1"
+        },
+        {
+          "name": "1999‐07‐24: Woodstock ’99, Rome, NY, USA",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/29065276-b589-3b5b-9805-7dd6da93db44"
+        },
+        {
+          "name": "Live 1995",
+          "date": "2021-05-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2c176d62-3e2b-4ba9-ac65-39605de1cc49"
+        },
+        {
+          "name": "Electric Factory",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3272a56f-e41e-3638-879f-d6767375dd4f"
+        },
+        {
+          "name": "LIVE IN BRAZIL 2010 (Live)",
+          "date": "2021-12-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3415efc6-369f-4834-9bf6-69bbf32ddc44"
+        },
+        {
+          "name": "Live in LA 1993",
+          "date": "2020-09-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/37acf185-99db-4e02-bd70-226b7b2070e9"
+        },
+        {
+          "name": "Live at the Grand Olympic Auditorium",
+          "date": "2003-11-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/37f5bd3a-bb14-3480-96c5-feadf0dbe038"
+        },
+        {
+          "name": "Renegades",
+          "date": "2000-11-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/38c1dd77-0116-380c-a4f5-2ea8e13389a3"
+        },
+        {
+          "name": "Bombtrack",
+          "date": "1993-08-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3acff9c6-fe2c-35b8-b692-1417ccc06a04"
+        },
+        {
+          "name": "America’s Most Wanted",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3ae9e412-5d79-33c4-9c59-90e432fcf532"
+        },
+        {
+          "name": "The Battle of Dusseldorf",
+          "date": "2000-04-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3cab1029-c22c-3baf-a5aa-6aab33ce8b0f"
+        },
+        {
+          "name": "Vietnow",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3fa3deea-a811-34ff-94db-f8eba2fd0904"
+        },
+        {
+          "name": "Freedom Fighters",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/40543e4f-ec87-40c3-9ef4-e41e8a5bbc4d"
+        },
+        {
+          "name": "Protest And Survive",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4245e59b-1669-4dbb-98fb-0b45985e0673"
+        },
+        {
+          "name": "Irvine Meadows June ’95",
+          "date": "2016-04-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/44373b57-cd92-4900-885e-884fe1df5d45"
+        },
+        {
+          "name": "Going into Action",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4b510c1e-383f-49ec-9d58-dfe2d86f2c84"
+        },
+        {
+          "name": "Sleep Now in the Fire",
+          "date": "2000-02-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4b8bb20e-21e2-3399-86a6-e903a803a2fe"
+        },
+        {
+          "name": "Live on Tour 1993",
+          "date": "2025-04-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4bb52711-2560-4c98-b0a7-bd56163f4bd4"
+        },
+        {
+          "name": "Rage Against the Machine",
+          "date": "1991-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/55399028-fe94-48c7-867a-3ad4fae84569"
+        },
+        {
+          "name": "The Battle of Mexico City",
+          "date": "2001-02-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/57114399-0ef2-3c26-b119-6ed3f8e378d9"
+        },
+        {
+          "name": "Live in California 1995",
+          "date": "2020-09-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/58e5d773-ab1e-4210-9de6-62b5f7ae6141"
+        },
+        {
+          "name": "×2: Rage Against the Machine / Evil Empire",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/59a9520e-cefc-4cde-aa77-7143dabed5fa"
+        },
+        {
+          "name": "People of the Sun",
+          "date": "1996-08-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5db756d6-ae2f-38e1-bb1c-549ab1b73c32"
+        },
+        {
+          "name": "Township Rebellion: Live in the U.S.A.",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5e9f10aa-017d-4269-a353-fd2dedaa6594"
+        },
+        {
+          "name": "…From Los Angeles, California",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/63068026-9a79-45e3-a98f-c4c3f98654fc"
+        },
+        {
+          "name": "Freedom",
+          "date": "1993-11-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/638fd26b-cfbc-40d6-b4b7-cbce069660b0"
+        },
+        {
+          "name": "2007-04-29: Coachella Festival, Indio, CA, USA",
+          "date": "2007-04-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/64b7179e-3cda-3203-8444-7072379c2c19"
+        },
+        {
+          "name": "Live at the Quad (1st Official Performance)",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/66207611-23e7-4b18-9043-c9f70567e87e"
+        },
+        {
+          "name": "Revolution",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/67295d00-8d38-4353-95f1-60fe98c9a62c"
+        },
+        {
+          "name": "Bulls on Parade",
+          "date": "1996-03-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/67822930-22cd-37e5-9e85-d47eaed0085a"
+        },
+        {
+          "name": "Star Profile",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a404636-2ec1-4b11-b3d1-1191cef3ee1e"
+        },
+        {
+          "name": "The Collection",
+          "date": "2010-05-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6c74387d-90ba-442f-a20b-20b2396339f1"
+        },
+        {
+          "name": "Guerilla Downloads",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/726e524e-cb0d-4d05-8193-263e8c334c1a"
+        },
+        {
+          "name": "The Palace of Exile",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/74a1bc4a-0666-3433-96db-fd93d70227de"
+        },
+        {
+          "name": "Killing in the Name of Karma (live)",
+          "date": "2021-02-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/75b42453-2710-4371-ae8f-40f458b86b80"
+        },
+        {
+          "name": "Collaborageons",
+          "date": "2004-03-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/760164a6-b0ee-4d16-bafc-8f05b57ea314"
+        },
+        {
+          "name": "1994-05-23: Bulletproof: Pinkpop: Megaland, Landgraaf, Netherlands",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/76cb7c88-a288-3c40-bc56-63a69952b6a3"
+        },
+        {
+          "name": "Warner Theater, Washington, November 18, 1980 (Remastered, Live On Broadcasting)",
+          "date": "2018",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/782cbc94-e2c6-4c26-94f3-23bdcdf8d7f4"
+        },
+        {
+          "name": "Testify",
+          "date": "2000-08-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/78990e89-ab98-38f7-84ae-da854a2b0372"
+        },
+        {
+          "name": "Hit Collection 2000",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7c2ab8a2-dc83-45f4-bb1a-9ea6c57c2325"
+        },
+        {
+          "name": "2008-02-09: Wake Up Messe: Makuhari Event Hall, Chiba, Japan",
+          "date": "2008",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7db26173-2ab1-4354-9025-5f7918b9381b"
+        },
+        {
+          "name": "Paintings of Rebellion (live ’95)",
+          "date": "2021-05-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7e8cf189-d9ec-41b2-8742-38af35d5b857"
+        },
+        {
+          "name": "Big Apple Boogie (Live)",
+          "date": "2023-03-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/81007401-09df-4193-b664-7d6e3de29a4b"
+        },
+        {
+          "name": "Rage Against the Machine",
+          "date": "1997-11-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/827c1309-41c4-4a65-9c92-b3714972c1c6"
+        },
+        {
+          "name": "Angry Souls",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/82a8cb50-17ba-40ec-8ab1-7ddd308022be"
+        },
+        {
+          "name": "Full Of Rage (Live)",
+          "date": "2021-02-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/83a075a6-f209-4865-9fbf-c0c2cdd3b499"
+        },
+        {
+          "name": "Best Ever",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8568a1ff-ab6e-3a05-9c07-9e904f0bbe2d"
+        },
+        {
+          "name": "Unplugged And Rare",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/857ee84d-bc36-3895-9267-c29e11e9f5f0"
+        },
+        {
+          "name": "Free Tibet",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/89366a1d-1ad2-36d6-888d-7a1741f90cac"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8ff1f87e-2929-4d6a-8702-3478c014d5cd"
+        },
+        {
+          "name": "Fahrenheit 451",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/90642a9f-9179-451f-9d8a-d44d356d5954"
+        },
+        {
+          "name": "Guerrilla Radio",
+          "date": "1999-10-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9190ab97-c476-3da0-bf2c-e144e00397c8"
+        },
+        {
+          "name": "Platinum Collection 2000",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9a54d263-b73e-3b97-9b7d-b2085a9d5c56"
+        },
+        {
+          "name": "2000-02-03: The Battle of Paris: Le Zénith, Paris, France",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9e656824-3949-38e7-89a2-4481f0e5e42b"
+        },
+        {
+          "name": "LIVE IN THE USA 1999 (Live)",
+          "date": "2021-12-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a0dc5a37-7897-480c-9381-464bec14eba3"
+        },
+        {
+          "name": "End of the Party",
+          "date": "2016-09-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a3e7bdf5-a57c-45e8-ba8e-37307840fcf9"
+        },
+        {
+          "name": "Overloaded (Live)",
+          "date": "2022",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a56f8555-e669-483a-aca5-9f8d91123080"
+        },
+        {
+          "name": "Live At The Wireless",
+          "date": "2003-03-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a8c0e46d-4676-4e2b-ad49-1e8c6cfb5631"
+        },
+        {
+          "name": "Rock Guerrillas",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ae8689d0-78cd-40ee-9e4f-1f00585a6738"
+        },
+        {
+          "name": "Live & Rare",
+          "date": "1997-07-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/af529466-8edf-35c2-b52f-f51cc20c14a0"
+        },
+        {
+          "name": "Rage On Stage",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/af9c5ddb-42c4-47dd-98b9-c3c1eab31772"
+        },
+        {
+          "name": "Demo 1991",
+          "date": "2022",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b005b764-22a9-426d-a81b-067607b14e77"
+        },
+        {
+          "name": "Blown Away",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bc093595-b2b9-479f-8a17-37de64a749f6"
+        },
+        {
+          "name": "1996-10-01: Scream Louder: Hollywood Palladium, Los Angeles, CA, USA",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bc9783a7-f1f1-3afc-908b-2647d91e33b7"
+        },
+        {
+          "name": "Killing in the Name",
+          "date": "1992-09-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/be4f96a6-22ab-3e52-9db0-176925024736"
+        },
+        {
+          "name": "People of the Sun EP",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c7b5b853-3c9c-45e1-88b0-9a14557f1552"
+        },
+        {
+          "name": "Best 2000",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c7d1f18e-4ee9-3e37-88b4-b294ad872064"
+        },
+        {
+          "name": "Democratic National Convention 2000",
+          "date": "2018-04-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c89a1831-a4c8-49e2-b380-8e9b04734fac"
+        },
+        {
+          "name": "Live & Alive",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ca786904-97f0-4d72-86fa-f2e523e43ed9"
+        },
+        {
+          "name": "Universal City ’93 (KROQ Broadcast)",
+          "date": "2020-07-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d038b57f-f00a-41ea-a05a-cf8440abc637"
+        },
+        {
+          "name": "Live at Finsbury Park",
+          "date": "2012",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d1f39c64-3234-4d34-bdb4-7a346e40d08f"
+        },
+        {
+          "name": "The Temptress (Live)",
+          "date": "2021-02-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d5b16ae9-5ced-434a-9694-3b3ddde601ff"
+        },
+        {
+          "name": "1993-02-07: Justify Those That Die: Melkweg, Amsterdam, Netherlands",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d933ad0f-7007-3a5b-a750-939b0da80ff3"
+        },
+        {
+          "name": "Clear the Lane / Hadda Be Playing on the Jukebox",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/db0c5c92-4206-4fff-bc9b-724bca63f360"
+        },
+        {
+          "name": "Fuck the Administration",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/df058383-e834-39bb-8d26-e0ffa76e3b8d"
+        },
+        {
+          "name": "Live & Loud ’93",
+          "date": "1993-12-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dfc7b19e-5103-4c55-aff8-6bef014426e1"
+        },
+        {
+          "name": "Snapshot",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e227bc85-cef8-4087-89e6-4ce1b5bc7af9"
+        },
+        {
+          "name": "Rage Against the Machine / Evil Empire / The Battle of Los Angeles",
+          "date": "2002-09-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e2d7ffa2-bdcd-4df0-abbe-a6877547ae8f"
+        },
+        {
+          "name": "30 Songs for a Revolution",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e447de79-9ee7-3883-8d80-8f160ee45b8b"
+        },
+        {
+          "name": "Forget Your Existence!",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e4c68910-78a5-47ca-b1c8-120a889d7566"
+        },
+        {
+          "name": "Bullet in the Head",
+          "date": "1993-03-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e5da24a4-87ed-3c7f-b939-424a3ad6f693"
+        },
+        {
+          "name": "1997-01-20: Radio Free L.A.: Sony Studios, Santa Monica, CA, USA",
+          "date": "1997-01-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e6a15b78-4b62-3f48-b1c0-b50ffbfaa91b"
+        },
+        {
+          "name": "Recordings (Live)",
+          "date": "2022-08-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e982f415-d87e-4bab-93a7-226b6aa06abf"
+        },
+        {
+          "name": "1999-10-10: The Battle of Indio: Coachella Festival, Indio, CA, USA",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e9ea95ed-05b1-4fc2-ab48-b591e823d970"
+        },
+        {
+          "name": "The Dirty Dozen",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ea0dcdcc-6173-47f3-919d-a818b23d52a9"
+        },
+        {
+          "name": "Unreleased and Remixed, Part 1",
+          "date": "2001-09-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/eafbebb8-3fad-422f-90b0-06c54e9295c5"
+        },
+        {
+          "name": "Live 1993",
+          "date": "2021-05-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f5b17fe9-44c2-430e-838b-39cfd5a95426"
+        },
+        {
+          "name": "Bombtracks, Volume 2: Remixes & Live",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f62c9b19-f10a-39a7-b678-ce4c20c7e160"
+        },
+        {
+          "name": "Unplugged & Fm",
+          "date": "2015-11-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f7518676-dd4e-45ea-a99d-984a91a7d942"
+        },
+        {
+          "name": "Rare & Live",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f980b007-5fb2-48c9-a6a7-12a5a5c87ea4"
+        },
+        {
+          "name": "Who’s on First?",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f999c4d4-62f1-4b5b-a17b-159edcebd2f1"
+        },
+        {
+          "name": "1993-02-02: The Killing Zone: The Melody, Stockholm, Sweden",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fd854b57-e8ea-314f-ad85-f88ffa9057fd"
+        }
+      ]
     }
   },
   "checked": {
@@ -24335,6 +24967,8 @@
     "periphery": "2026-10-16T23:53:22.214585+00:00",
     "pink-floyd": "2026-10-16T23:53:23.464181+00:00",
     "porcupine-tree": "2026-10-17T02:07:25.756019+00:00",
-    "powerman-5000": "2026-10-17T02:07:41.242093+00:00"
+    "powerman-5000": "2026-10-17T02:07:41.242093+00:00",
+    "queensryche": "2026-10-17T07:00:34.607852+00:00",
+    "rage-against-the-machine": "2026-10-17T07:00:38.591338+00:00"
   }
 }
