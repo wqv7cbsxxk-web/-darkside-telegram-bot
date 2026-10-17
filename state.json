@@ -668,49 +668,17 @@
     "a96083555c266f2a44491243a24a3861ef0004c0",
     "831cc5be7547938c6a94461f91850d3a406e7267",
     "a94d89a1381ecc3e077adec9a2e44a6e4b928cd2",
-    "cb03150293e6f0905e87da07eb8da13802bd196d"
+    "cb03150293e6f0905e87da07eb8da13802bd196d",
+    "b5d90cdb99a4dba559a5f4c2257d73a04b964b1e",
+    "f3ffb37691a6147e3132bc054977823c8c9a062a",
+    "b2b6e04bd4f106eaad3036045c3da2546240818e",
+    "f21fe46cda2fbe1ef2133d0a5ec598a23a7f26ea",
+    "0273687cb71099483ba5ce908236259a2e6eadd3",
+    "b4f5ecf8c540624211fad00c162a79fe3896747f",
+    "b5d66186de4cb71a1e190e0db3da1ba16d5f8fc8",
+    "8131700ae59913781fb38af64b79d93f1829fe85"
   ],
   "recent_titles": [
-    {
-      "title": "Watch Trev Lukather and Levara's New 'Underneath It All' Video",
-      "source": "Ultimate Classic Rock",
-      "ts": 1791991872
-    },
-    {
-      "title": "\"I thought people were probably gonna hate it.\" How Nimrod, and its surprise hit single Good Riddance (Time of Your Life), taught Green Day's Billie Joe Armstrong to stop caring about dumb punk rock rules",
-      "source": "Louder",
-      "ts": 1791991897
-    },
-    {
-      "title": "AN NCS PREMIERE: AODON — “SOUS LES SANGLES”",
-      "source": "No Clean Singing",
-      "ts": 1791991910
-    },
-    {
-      "title": "Video Premiere: NIXD – “Midlife Christless”",
-      "source": "Decibel",
-      "ts": 1791991970
-    },
-    {
-      "title": "Judas Priest's Ian Hill on his career-ending injury",
-      "source": "Louder",
-      "ts": 1791991983
-    },
-    {
-      "title": "Новое видео RAM",
-      "source": "Darkside",
-      "ts": 1791991985
-    },
-    {
-      "title": "Концертное видео THE OFFSPRING",
-      "source": "Darkside",
-      "ts": 1791991987
-    },
-    {
-      "title": "Top 10 Mike Love Beach Boys Songs",
-      "source": "Ultimate Classic Rock",
-      "ts": 1791992101
-    },
     {
       "title": "Вокалист LAMB OF GOD: «Я бы хотел больше петь чистым, но... но... »",
       "source": "Darkside",
@@ -1470,6 +1438,46 @@
       "title": "GLENN HUGHES: «Я ощущаю, как энергия вновь наполняет мое тело»",
       "source": "Darkside",
       "ts": 1792247142
+    },
+    {
+      "title": "Test your knowledge with our Iron Maiden trivia quiz",
+      "source": "Louder",
+      "ts": 1792258253
+    },
+    {
+      "title": "What kept Jarboe stuck with Swans until she was stupefied with exhaustion?",
+      "source": "Louder",
+      "ts": 1792258286
+    },
+    {
+      "title": "10 Years Later: Will We Ever See Another Desert Trip?",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792258317
+    },
+    {
+      "title": "Новое видео THE FLOWER KINGS",
+      "source": "Darkside",
+      "ts": 1792258331
+    },
+    {
+      "title": "SEEN AND HEARD: EXTOL, AETHERIAN, ARONIOUS, NIDARE",
+      "source": "No Clean Singing",
+      "ts": 1792258337
+    },
+    {
+      "title": "Anthrax’s Scott Ian remembers chaotic Pantera tour: “I threw up, and Darrell’s there with a shot”",
+      "source": "Louder",
+      "ts": 1792258340
+    },
+    {
+      "title": "Marilyn Manson Launched His “Antichrist Superstar” 30th Anniversary Tour Last Night With Mid-90s Nostalgia",
+      "source": "ThePRP",
+      "ts": 1792258357
+    },
+    {
+      "title": "“I’m slightly afraid of him”: Gary Kemp’s respect and fear for Robert Fripp",
+      "source": "Louder",
+      "ts": 1792258381
     }
   ],
   "initialized_sources": [
@@ -4068,18 +4076,6 @@
       "retry_after": 1792077953
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Marilyn Manson Launched His “Antichrist Superstar” 30th Anniversary Tour Last Night With Mid-90s Nostalgia",
-      "link": "https://www.theprp.com/2026/10/15/news/marilyn-manson-launched-his-antichrist-superstar-30th-anniversary-tour-last-night-with-mid-90s-nostalgia/",
-      "rss_body": "Featuring the podium, stilts and more.",
-      "tags": "News Marilyn Manson",
-      "category": "Хэви-метал",
-      "published": "2026-10-15T19:06:13+00:00",
-      "id": "b5d66186de4cb71a1e190e0db3da1ba16d5f8fc8",
-      "retry_after": 1792237219
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "Roger Waters Rips James Hetfield: “He’s Just Showing That He’s a Complete Prick”",
@@ -4089,7 +4085,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:00:00+00:00",
       "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
-      "retry_after": 1792237221
+      "retry_after": 1792258657
     },
     {
       "source": "Metal Injection",
@@ -4101,19 +4097,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T17:10:18+00:00",
       "id": "4d9f2be08e5b1d74c24967411ca765a3963a5141",
-      "retry_after": 1792237223
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "“I’m slightly afraid of him”: Gary Kemp’s respect and fear for Robert Fripp",
-      "link": "https://www.loudersound.com/bands-artists/interviews/gary-kemp-robert-fripp",
-      "rss_body": "When\n\nSpandau Ballet\n\nguitarist\n\nGary Kemp\n\nbecame a founding member of\n\nNick Mason\n\n’s\n\nSaucerful Of Secrets\n\n, he proved himself a lifelong member of the prog club. But in 2019 he revealed that, across the entire spectrum of musical genres he’d encountered,\n\nKing Crimson\n\nmastermind\n\nRobert Fripp\n\nwas his guiding light.\n\nMy introduction to Robert Fripp would have been with\n\nIn The Court Of The Crimson King\n\nand\n\n21st Century Schizoid Man\n\n. All the sixth-formers had that album, as did my cousin. For me as a kid it was extraordinary – it allowed me to think outside of the pop box. It was so diverse, unfathomable; I couldn’t get in there. I couldn’t see through its intricacies. But it had such a great rock energy, and it showed me that there was so much more to music than I thought.\n\nThat first Crimson album is the beginning of prog rock. We all knew here was something intricate beginning to happen, and that the middle classes were being satiated musically with early\n\nPink Floyd\n\n. Here was something a little more difficult – a little more intellectual.\n\nRock music had been a very working-class folk music. Fripp grabbed that and took it to darker, even further-out places on the edges of the universe, mixing it with jazz and with classical. He was taking the psychedelia of Floyd, the\n\nSyd Barrett\n\nstuff, playing around with loops and tapes.\n\nPete Townshend\n\ntold me that when he’d gone to Pink Floyd’s very first gig at\n\nUFO\n\n, Syd had Echorecs on stage with him, getting this double tape loop going, which is what Fripp ended up doing with\n\nBrian Eno\n\n.\n\nRobert Fripp has never stayed in this snooty\n\nUniversity Challenge\n\narea of music, where no one else is ever allowed to come in. He’s never turned his nose up at anything that was going on in the other music worlds. He’s been totally willing – probably with the influence of Eno – to come into pop, but never to bend for it, to say: “I’ll give you a straight blues riff on this one.”\n\nHe has always brought his beauty and his wonderfully intricate sound into other pop genres. Obviously I fell in love with\n\n“Heroes”\n\nby\n\nDavid Bowie\n\n, and that wonderful sustaining guitar that he’s very famous for; and\n\nScary Monsters (And Super Creeps)\n\nlater on.\n\nFripp turned up the weird. His playing has an exotic, erotic quality; that sustained drone that we associate with Eastern music but also with old British folk music and the hurdy-gurdy. This beautiful, ambient, abstract guitar playing, using odd tunings and tape delays that became a sound that everyone craved in the 70s.\n\nIt bounced out of the wonderful solo on Eno’s\n\nBaby’s On Fire\n\nor that wonderful first side of ambience from [Fripp & Eno’s]\n\nNo Pussyfooting\n\n. Then he went as pop as you can get, playing on\n\nBlondie\n\n’s\n\nParallel Lines\n\nand that wonderful solo album he produced for Daryl Hall,\n\nSacred Songs\n\n. Here’s a very interesting, strange, leftfield man, who doesn’t mind marrying himself to pop music. I mean, he literally did that with\n\nToyah\n\n!\n\nI’m slightly afraid of him. There are certain musicians in the world that we’re all afraid of, and I think Fripp’s one of them. I don’t think I’d ever have the nerve to introduce myself to him, and I’m sure he’s never heard of Spandau Ballet.\n\nHe’s never been afraid to challenge himself and challenge music in general. He’s the godfather of prog rock – but he also helped psychedelia become progressive rock; and he helped glam become ambient with his work with Eno and Bowie.\n\nHe brought Bowie, a glam pop star, into a darker, stranger landscape. Everything was on a slightly higher plane. We were out of reality here; we weren’t singing about waking up that morning and his baby was gone. Bowie’s lyrics were matched by Fripp’s strangeness on guitar.\n\nI don’t know all of his catalogue intimately, because it’s so vast and pretty much all encompassing. But if I had to pick my favourite Robert Fripp song ever it would be\n\nStarless\n\nfrom\n\nRed\n\n. That melody he falls upon – no matter how many times I listen – it’s always heartbreaking. It’s always full of yearning; an absolutely gorgeous riff.",
-      "tags": "Interviews Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-10-15T16:00:00+00:00",
-      "id": "8131700ae59913781fb38af64b79d93f1829fe85",
-      "retry_after": 0
+      "retry_after": 1792258658
     },
     {
       "source": "No Clean Singing",
@@ -4149,7 +4133,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T20:49:09+00:00",
       "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
-      "retry_after": 1792237217
+      "retry_after": 1792258654
     },
     {
       "source": "Metal Injection",
@@ -4161,7 +4145,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:25:10+00:00",
       "id": "77b1588e20715ae846658427185c711f41edfa37",
-      "retry_after": 1792237219
+      "retry_after": 1792258657
     },
     {
       "source": "Louder",
@@ -4173,7 +4157,7 @@
       "category": "Прогрессив",
       "published": "2026-10-16T02:29:27+00:00",
       "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
-      "retry_after": 1792237215
+      "retry_after": 1792258651
     },
     {
       "source": "Louder",
@@ -4188,7 +4172,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792237209
+      "retry_after": 1792258644
     },
     {
       "source": "Metal Injection",
@@ -4200,7 +4184,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
-      "retry_after": 1792237209
+      "retry_after": 1792258645
     },
     {
       "source": "Metal Injection",
@@ -4212,7 +4196,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
-      "retry_after": 1792237209
+      "retry_after": 1792258645
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4224,19 +4208,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T12:17:13+00:00",
       "id": "2a02732b6da7dc076e27515808483943e76cb609",
-      "retry_after": 1792237211
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "SEEN AND HEARD: EXTOL, AETHERIAN, ARONIOUS, NIDARE",
-      "link": "https://www.nocleansinging.com/2026/10/16/seen-and-heard-extol-aetherian-aronious-nidare/",
-      "rss_body": "(written by Islander) On almost all weekdays for many years I have committed to make either two track premieres or an EP premiere or an album premiere. Sometimes there is a day off because of some late-stage mishap (never my own, of course), as there was on Tuesday of this week, and sometimes we either\n\n[...]",
-      "tags": "Metal News RANDOM FUCKING MUSIC Aetherian Aronious Extol Nidare",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T16:58:49+00:00",
-      "id": "0273687cb71099483ba5ce908236259a2e6eadd3",
-      "retry_after": 1792237203
+      "retry_after": 1792258646
     },
     {
       "source": "Metal Injection",
@@ -4252,7 +4224,7 @@
         "73ecf77997afc50510be4de8d18c56581c68c2f2",
         "1281d9679035a6042490add57117ba0078a761ea"
       ],
-      "retry_after": 1792237209
+      "retry_after": 1792258644
     },
     {
       "source": "Metal Injection",
@@ -4264,19 +4236,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 1792237203
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Anthrax’s Scott Ian remembers chaotic Pantera tour: “I threw up, and Darrell’s there with a shot”",
-      "link": "https://www.loudersound.com/news/anthrax-remember-chaotic-1990s-pantera-support-tour-2026",
-      "rss_body": "Anthrax\n\n’s founding rhythm guitarist Scott Ian has reflected on the thrash metal stars’ chaotic tour with\n\nPantera\n\nin 1997 and ’98.\n\nTalking exclusively in\n\nthe brand-new issue of\n\nMetal Hammer\n\n, the 62-year-old says he truly “learned how to drink” while on the road with guitarist Dimebag Darrell and the boys, for whom nu metal outfit Coal Chamber opened.\n\nHe also recalls a particularly wild story where he was sick after an intense night, only for Dimebag to be waiting outside the toilet with even more alcohol.\n\n“We did a tour with Pantera and it was fucking chaos,” says Ian. “I would ride on Dimebag and Vinnie’s [Paul, drummer and Dimebag’s brother] bus sometimes, which seemed like a good idea when you were getting on it at 3am. And then it’s seven in the morning and they’ve been watching the same live\n\nKiss\n\nvideos for four hours.”\n\nThe guitarist continues: “I learned how to drink on that tour. One night I ran to the bathroom and threw up. I opened the bathroom door and Darrell’s standing there with a shot waiting for me. ‘Dude, I just threw up.’ He looks at me and goes, ‘What are you talking about, Baldini? Now you just have more room.’”\n\nDimebag, who was fatally shot aged 38 during a show by he and Paul’s post-Pantera band Damageplan in 2004, was a legendary drinker to the point that he had his own signature beverage called the Black Tooth Grin, named after a\n\nMegadeth\n\nlyric.\n\nMachine Head\n\nfrontman and friend Robb Flynn recalled in 2022 that Dimebag once got so drunk at a show that he smashed up one of Flynn’s guitars, yet he still went on to play perfectly.\n\nFlynn told YouTuber Ola Englund: “He picks up my guitar, and he goes – headstock first – right into the fucking ground. And I was like, ‘Dude!’ I was fucking pissed!\n\n“And that dude gets out there – and literally plays a fucking flawless show. Just every fucking note, every lead… dude doesn’t miss a note. If I hadn’t seen it with my own eyes, I never would have believed [it].”\n\nAnthrax collaborated with Dimebag on multiple occasions, getting him to contribute guest guitar solos across three of their studio albums:\n\nFueled\n\nand\n\nKing Size\n\non 1995’s\n\nStomp 442\n\n,\n\nInside Out\n\nand\n\nBorn Again Idiot\n\non 1998’s\n\nVol. 8: The Threat Is Real\n\n, and\n\nStrap It On\n\nand\n\nCadillac Rock Box\n\non 2003’s\n\nWe’ve Come For You All\n\n.\n\nThe veteran New York thrashers released their long-awaited new album\n\nCursum Perficio\n\nvia Nuclear Blast last month. Parts were recorded at Studio 606, the California recording space owned by\n\nFoo Fighters\n\nfrontman Dave Grohl. The band have no upcoming tour dates announced but recently played a run of shows supporting Iron Maiden.\n\nRead the full interview with Anthrax, conducted by Grohl, in the new\n\nHammer\n\n. The issue also features an in-depth celebration of late\n\nMetallica\n\nbassist Cliff Burton, 40 years after his death.\n\nOrder your copy now and have it delivered directly to your door.\n\n(Image credit: Future)",
-      "tags": "Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-10-16T15:00:00+00:00",
-      "id": "b4f5ecf8c540624211fad00c162a79fe3896747f",
-      "retry_after": 1792237205
+      "retry_after": 1792258638
     },
     {
       "source": "Metal Injection",
@@ -4288,7 +4248,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:44:42+00:00",
       "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
-      "retry_after": 1792237205
+      "retry_after": 1792258641
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4300,7 +4260,7 @@
       "category": "Хард-рок",
       "published": "2026-10-16T20:17:21+00:00",
       "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
-      "retry_after": 1792237201
+      "retry_after": 1792258634
     },
     {
       "source": "Metal Injection",
@@ -4312,7 +4272,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792237201
+      "retry_after": 1792258634
     },
     {
       "source": "Metal Injection",
@@ -4324,7 +4284,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792247440
+      "retry_after": 1792258627
     },
     {
       "source": "Louder",
@@ -4336,7 +4296,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792247439
+      "retry_after": 1792258627
     },
     {
       "source": "Louder",
@@ -4348,7 +4308,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T10:00:00+00:00",
       "id": "c1ea453807d8fcbdf823e5a66dd8b50643c15a98",
-      "retry_after": 1792247422
+      "retry_after": 1792258624
     },
     {
       "source": "Metal Injection",
@@ -4356,23 +4316,35 @@
       "title": "Tony Iommi Reflects on Life, Roger Waters Blasts James Hetfield + More Top Stories of the Week",
       "link": "https://metalinjection.net/injection-reflection/tony-iommi-reflects-on-life-roger-waters-blasts-james-hetfield-more-top-stories-of-the-week",
       "rss_body": "Plus Ghost goes death metal again, heavy metal meets SNF and more.",
-      "tags": "Injection Reflection tony iommi",
+      "tags": "Injection Reflection tony iommi featured1",
       "category": "Экстремальный метал",
       "published": "2026-10-17T14:23:28+00:00",
       "id": "1c5cfbe84a92e91546a4f726ca221c8ac38f37ae",
-      "retry_after": 1792247393
+      "retry_after": 1792258618
     },
     {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео THE FLOWER KINGS",
-      "link": "http://www.darkside.ru/news/184573/",
-      "rss_body": "The Gods of Rome, Pt. 2, новое видео группы THE FLOWER KINGS, доступно для просмотра ниже. Эта песня взята из альбома \"Hope\", выходящего 23 октября на InsideOut Music:\n\n01. World Spinning - The Final Curtain (18:45)\n\n02. In A World Of Fools (5:35)\n\n03. Mars & Minerva (4:40)\n\n04. The Gods Of Rome (28:15)",
-      "tags": "",
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: The Pretty Reckless Enlists Dave Grohl and Pat Smear on New \"About You\"",
+      "link": "https://metalinjection.net/news/listen-the-pretty-reckless-enlists-dave-grohl-and-pat-smear-on-new-about-you",
+      "rss_body": "\"I called Dave and Pat and asked them if they’d lend their magic to it. It was an amazing time in the studio making music, there’s nothing better than jamming with friends. I couldn’t be happier with the result.”",
+      "tags": "Latest News the pretty reckless",
       "category": "Хэви-метал",
-      "published": "2026-10-16T21:43:21+00:00",
-      "id": "f21fe46cda2fbe1ef2133d0a5ec598a23a7f26ea",
-      "retry_after": 0
+      "published": "2026-10-17T15:46:43+00:00",
+      "id": "17fb72fb196f9cfc779369925273ef76e14f814e",
+      "retry_after": 1792258587
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: HEALTH Drops Two New Songs Written For 'Street Fighter' Movie",
+      "link": "https://metalinjection.net/news/listen-health-drops-two-new-songs-written-for-street-fighter-movie",
+      "rss_body": "Following in the footsteps of Men in Black, Wild Wild West in their words.",
+      "tags": "Latest News health",
+      "category": "Хэви-метал",
+      "published": "2026-10-17T14:56:10+00:00",
+      "id": "75aefeb86fd73e4c90547f178d35ec6916166b04",
+      "retry_after": 1792258587
     }
   ]
 }
