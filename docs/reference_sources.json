@@ -24877,6 +24877,648 @@
           "source_url": "https://musicbrainz.org/release-group/fd854b57-e8ea-314f-ad85-f88ffa9057fd"
         }
       ]
+    },
+    "rammstein": {
+      "name": "Rammstein",
+      "musicbrainz_url": "https://musicbrainz.org/artist/b2d122f9-eadb-4930-a196-8f221eeb0c66",
+      "reference_checked_at": "2026-10-17T11:36:28.722784+00:00",
+      "genres": "industrial, industrial metal, metal, neue deutsche härte",
+      "website": "http://www.rammstein.com/",
+      "members": [
+        {
+          "name": "Richard Z. Kruspe",
+          "role": "background vocals, guitar",
+          "begin": "1994-02"
+        },
+        {
+          "name": "Paul Landers",
+          "role": "background vocals, guitar",
+          "begin": "1994-02"
+        },
+        {
+          "name": "Till Lindemann",
+          "role": "lead vocals",
+          "begin": "1994-02"
+        },
+        {
+          "name": "Christian Lorenz",
+          "role": "keyboard",
+          "begin": "1994-02"
+        },
+        {
+          "name": "Oliver Riedel",
+          "role": "bass guitar",
+          "begin": "1994-02"
+        },
+        {
+          "name": "Christoph Schneider",
+          "role": "drums (drum set)",
+          "begin": "1994-02"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/b2d122f9-eadb-4930-a196-8f221eeb0c66",
+      "albums": [
+        {
+          "name": "Exclusive Collection",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0656ed95-4612-40ec-ba5d-e53d8b18b7e7"
+        },
+        {
+          "name": "Zeit",
+          "date": "2022-03-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/071fd9df-1946-4c05-a875-893cdf89f3d0"
+        },
+        {
+          "name": "Halleluya: The Very Best of 2001",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/09a1cf53-9cdf-429b-a57d-afedc66ef969"
+        },
+        {
+          "name": "Ich tu dir weh",
+          "date": "2010-02-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0a3b875c-7f2a-4081-a651-de490693f6c0"
+        },
+        {
+          "name": "xXx",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0c8a9028-177e-3b97-ba7e-38aceac355e4"
+        },
+        {
+          "name": "Armee der Tristen (live in Mexico City)",
+          "date": "2026-09-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0f028587-dd26-4342-b6e1-2273b877bb4a"
+        },
+        {
+          "name": "Raritäten: 1994–2012",
+          "date": "2015-04-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/10ab51af-c648-4765-a176-eb78ec06eaed"
+        },
+        {
+          "name": "Rosenrot",
+          "date": "2005-10-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/15e65e08-85d1-3145-85b2-e18b9fbd4cba"
+        },
+        {
+          "name": "Mutter 2003 (Remixes)",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/194f7783-deae-469e-9c44-9a1a288e57c4"
+        },
+        {
+          "name": "1995–1999 - Trial by Fire: The Story So Far…",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1f9a9898-cf65-498e-b749-25f18f1fddb1"
+        },
+        {
+          "name": "Zeitreise - Reisezeit",
+          "date": "2004",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/203daa21-9013-47f1-82be-d84eec8cafa5"
+        },
+        {
+          "name": "Zeit",
+          "date": "2022-03-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/210461e7-8ea3-42aa-a076-35400da9cc90"
+        },
+        {
+          "name": "Platinum Collection 2000: Greatest Hits",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/224b0390-e6d1-3cc3-a387-698f21796e5a"
+        },
+        {
+          "name": "Dicke Titten",
+          "date": "2022-05-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/237fe566-2378-4678-a251-672487520f50"
+        },
+        {
+          "name": "Du hast",
+          "date": "1997-07-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/24d64a0b-a633-3475-b327-3a05a94976c4"
+        },
+        {
+          "name": "Sehnsucht",
+          "date": "1997-08-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2a323740-b615-35bc-9f58-1d2e6a5d9289"
+        },
+        {
+          "name": "Mein Herz brennt",
+          "date": "2012-01-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2b14bd79-0824-4260-a714-4b851414f55f"
+        },
+        {
+          "name": "3-Track Demo",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2daccc54-028b-47aa-b677-fac1dc5191b0"
+        },
+        {
+          "name": "Engel",
+          "date": "1997-04-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2e5b3410-480d-3034-ada1-3e9ce459f155"
+        },
+        {
+          "name": "Made in Germany 1995–2011",
+          "date": "2011-12-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2fb4554c-6ae3-4423-98ac-08c91d9fe99f"
+        },
+        {
+          "name": "All Time Hits 1980-2002",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/325842a3-12d9-4c91-b462-e96c76680bb9"
+        },
+        {
+          "name": "Remixes",
+          "date": "2020-03-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/32b23567-38d3-4e14-829d-66f48f9ca0ec"
+        },
+        {
+          "name": "6 Rough-Mixes / 3 Mixes",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/32f723bc-d8f5-42b1-83bc-9141724fb725"
+        },
+        {
+          "name": "3-Track Demo",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/33a6f22f-b9f2-4f54-ad94-9aac0a117260"
+        },
+        {
+          "name": "Asche zu Asche",
+          "date": "2001-01-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3457175e-622b-3557-9ea5-2f76fffb7eb3"
+        },
+        {
+          "name": "XXI Klavier",
+          "date": "2015-12-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/37680eba-dfff-4f65-ad30-782cff617541"
+        },
+        {
+          "name": "XXXIII",
+          "date": "2025-11-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/377b8aec-71b8-4b87-b2a6-88c04da7d063"
+        },
+        {
+          "name": "Ich will",
+          "date": "2001-09-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/391b2ca1-03b6-3232-9d4d-131a20641df5"
+        },
+        {
+          "name": "Videos 1995–2012",
+          "date": "2012-12-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3c5b578f-500e-4dc9-bef7-092c37f09a6e"
+        },
+        {
+          "name": "Das Modell",
+          "date": "1997-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/494a3246-9bf5-39e1-986e-570f1657f632"
+        },
+        {
+          "name": "Rare Tracks & Singles",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4b376fe5-ab6e-43aa-b807-eb474193be73"
+        },
+        {
+          "name": "Rammstein",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4ea191d7-f080-3f9f-a0ca-f699eb2cb823"
+        },
+        {
+          "name": "The Very Best",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4f5f9b47-17d7-4a28-949d-bfbc78aa06a0"
+        },
+        {
+          "name": "Du riechst so gut",
+          "date": "1995-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4f8445b1-53a6-3484-a005-fe736897b73e"
+        },
+        {
+          "name": "In Stahlgewittern",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/531c54cb-8898-3b7c-8397-be53233741e6"
+        },
+        {
+          "name": "Mann gegen Mann",
+          "date": "2006-03-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/55df23b7-fee1-37c5-9ce1-41052907e18b"
+        },
+        {
+          "name": "Sad but True",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/578a81c5-11c0-49cb-8c80-0b5378e835f1"
+        },
+        {
+          "name": "Blutmond",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5b6c342c-8659-3da1-98bd-4c2eb668a773"
+        },
+        {
+          "name": "MTV Music History",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5db1efe6-98d8-345a-b69d-260f0a0b18fd"
+        },
+        {
+          "name": "Ausländer",
+          "date": "2019-05-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5ee3d5a7-3cc8-4801-9c12-4145f151c743"
+        },
+        {
+          "name": "Mein Teil",
+          "date": "2004-07-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5f85367a-471e-3c45-b5d8-9673ae20f1d1"
+        },
+        {
+          "name": "Zick Zack",
+          "date": "2022-04-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6080dd9a-08d3-444a-9a25-326ace490ebc"
+        },
+        {
+          "name": "Radio",
+          "date": "2019-04-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/60aa68ab-e80a-4458-9562-a77c758d72d6"
+        },
+        {
+          "name": "Star Profile",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/63d3f138-0f7e-4ce8-9b61-5b7546d23506"
+        },
+        {
+          "name": "5/4 (B-sides)",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/63d4e664-d513-308b-b14a-82768add02a3"
+        },
+        {
+          "name": "Mutter",
+          "date": "2002-03-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/657c6bae-6c61-335d-a6d1-5e542d777f1d"
+        },
+        {
+          "name": "6-Track Demo",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/69cb13eb-d21f-47a1-9f84-69c4370bcdb6"
+        },
+        {
+          "name": "3-Track Demo",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/701be2df-1077-4b93-b549-511ad380e4f4"
+        },
+        {
+          "name": "Adieu",
+          "date": "2022-11-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7131094a-d2cb-49b3-948c-2d64ed5df61f"
+        },
+        {
+          "name": "Te quiero puta!",
+          "date": "2005",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/719313d9-1c99-42fb-a3c6-ecc6613a2f22"
+        },
+        {
+          "name": "Völkerball",
+          "date": "2006-11-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/71f02aef-8f52-3171-8b5e-86607e156b7d"
+        },
+        {
+          "name": "Infected Brain",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7908f285-bf66-4595-9b8d-77fa80b11e38"
+        },
+        {
+          "name": "Sonne (live in Mexico City)",
+          "date": "2026-10-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7bd5a73f-1dd0-4842-934d-2075ee59fd90"
+        },
+        {
+          "name": "Rosenrot",
+          "date": "2005-12-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7bfae355-44ea-3be6-89de-40147131be51"
+        },
+        {
+          "name": "Mutter “The Best”",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7d96362d-9d2a-4638-b6c0-2bf69de6fdb7"
+        },
+        {
+          "name": "Herzeleid",
+          "date": "1995-09-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/806eb9e1-06c6-385e-bf04-f3c5e2b4a6be"
+        },
+        {
+          "name": "Radio (Areal Kollen remix)",
+          "date": "2020-04-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8315571a-d6d8-4a9c-a64f-90e11ad3f757"
+        },
+        {
+          "name": "Mutter",
+          "date": "2001-03-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/833a9e1a-62c0-32f6-ab47-7797c4d83b07"
+        },
+        {
+          "name": "Du hast (LA-X remix)",
+          "date": "2019-05-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/87996ffc-fbec-434d-855b-9edc23aabb35"
+        },
+        {
+          "name": "Feuer Frei",
+          "date": "2026-02-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/93090843-7e9a-4e45-b7aa-ddda9c265a7a"
+        },
+        {
+          "name": "Pussy",
+          "date": "2009-09-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/93718f5c-3e3c-4941-8225-e39e6fc69b63"
+        },
+        {
+          "name": "XXI",
+          "date": "2015-12-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/96c946de-ed41-4fc4-838e-56bdfb9c74b3"
+        },
+        {
+          "name": "Benzin",
+          "date": "2005-10-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/975442f0-f879-3d42-9591-cd46722c69db"
+        },
+        {
+          "name": "Diamond Collection",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9a63692a-60a0-4df3-b69a-eb2836400bcc"
+        },
+        {
+          "name": "6-Track Demo",
+          "date": "1994-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9c6b308a-f8f2-43d3-ab63-f2cb7979d20c"
+        },
+        {
+          "name": "Original Single Kollektion",
+          "date": "1998-06-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9dbe240b-8326-4cfd-888f-e598c2afebed"
+        },
+        {
+          "name": "Sonne",
+          "date": "2001-02-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a11e02ca-ca35-4ab8-b1cf-0db8fa68b0f8"
+        },
+        {
+          "name": "Dicke Titten (soft mix by Ziguo Chen)",
+          "date": "2023-07-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a27fb712-0380-437f-aea2-f0ba915d8e1d"
+        },
+        {
+          "name": "Deutschland",
+          "date": "2019-03-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a7652e80-2fef-4131-8fe9-6049c5960ced"
+        },
+        {
+          "name": "Waidmanns Heil / Liebe ist für alle da",
+          "date": "2011-04-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b0171cad-95ac-4afc-92a2-2278167385f4"
+        },
+        {
+          "name": "Golden Collection 2000",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b1c3387a-48cd-315f-a1bd-75ee202b7575"
+        },
+        {
+          "name": "Keine Lust",
+          "date": "2004",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b9d95348-f84e-337d-b53d-fa60aa37c867"
+        },
+        {
+          "name": "Rammstein",
+          "date": "1994-04-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bba2056a-f9ec-40af-9f91-00ce268962e1"
+        },
+        {
+          "name": "Mein Land",
+          "date": "2011-11-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bc24edbf-9f0c-4efb-ba2d-514e39eecf2e"
+        },
+        {
+          "name": "Totes Fleisch 1994-1998 (Überarbeitete Version)",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c0e42130-20a9-3f09-bf8b-a01a50e33180"
+        },
+        {
+          "name": "Seemann",
+          "date": "1996-01-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c0ed40fb-c522-3f9b-b88b-8aabafa64c85"
+        },
+        {
+          "name": "Ich tu dir weh (electro rmx by Areal Kollen)",
+          "date": "2020-10-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c9c916ce-28dc-402e-9e4c-0f2af4924b87"
+        },
+        {
+          "name": "In Amerika",
+          "date": "2015-09-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ca1c9ece-8a57-445c-9f4f-a471d881d0fe"
+        },
+        {
+          "name": "Stripped",
+          "date": "1998-07-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cb04c8be-78d0-3b75-a49c-00227e826ce1"
+        },
+        {
+          "name": "Amerika",
+          "date": "2004-09-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cbe4fc10-077c-355b-98da-adf227073b39"
+        },
+        {
+          "name": "Feuer frei!",
+          "date": "2002-10-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cd8dafdb-2637-3c59-ab10-a01f6f01abf9"
+        },
+        {
+          "name": "Live aus Berlin",
+          "date": "1999-08-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d066f24b-e129-3ebf-be6c-0c789aabc5ee"
+        },
+        {
+          "name": "Liebe ist für alle da",
+          "date": "2009-10-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/da9fcca3-7dfc-45ee-b94e-54d898fe5bf3"
+        },
+        {
+          "name": "4-Track Demo",
+          "date": "1994-02-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dc91249c-390f-4bc4-aa9b-1ec5ec75fea5"
+        },
+        {
+          "name": "Herzeleid Demos 93-94",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dd836266-8916-3973-99bb-4d020b4181d8"
+        },
+        {
+          "name": "Ohne dich",
+          "date": "2004-11-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e0f2ba84-89df-3372-8571-5c4a6b445bf6"
+        },
+        {
+          "name": "Paris",
+          "date": "2017-05-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e17acfb0-c6ab-44ab-94c9-1e2fb6c01ec7"
+        },
+        {
+          "name": "6-Track Demo",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e3e0d7b7-b4e5-4cdb-8c12-917b86c0b4b6"
+        },
+        {
+          "name": "Die Beste",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e4d11f66-8494-4732-a8e5-ca5adc82d7dc"
+        },
+        {
+          "name": "[Rammstein]",
+          "date": "2019-05-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e4d39d2e-9420-4007-881a-9b5bc23944e0"
+        },
+        {
+          "name": "Links 2‐3‐4",
+          "date": "2001-05-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e634bfdc-ef97-36ec-982e-18e80ea133cb"
+        },
+        {
+          "name": "Reise, Reise",
+          "date": "2004-09-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ea9bf147-abbd-39df-b927-46fc945a5140"
+        },
+        {
+          "name": "1-Track Demo",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/eca5881c-b06e-4463-a42b-662bf2a8ea99"
+        },
+        {
+          "name": "Ihr wollt doch auch",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f665b35b-be52-3d59-bedc-850c7b7842bb"
+        },
+        {
+          "name": "Angst",
+          "date": "2022-08-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f66f6cfb-220f-41b9-97d9-926ce02b7dd5"
+        },
+        {
+          "name": "Musik wie Munition",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fb618139-a2cc-3808-aa0f-d74bd668f1a0"
+        },
+        {
+          "name": "Mix 2001",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fc28f89c-414b-3b71-b043-a7ea86fcd657"
+        },
+        {
+          "name": "Lichtspielhaus",
+          "date": "2003-12-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fd4c35f1-c069-3bdf-908b-3ed8d2cbac6a"
+        },
+        {
+          "name": "Live in Mexico City",
+          "date": "2026-11-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fe51a4f3-049a-489a-892a-4aebe2f036d4"
+        },
+        {
+          "name": "Haifisch",
+          "date": "2010-05-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ffbb1393-9aaf-4beb-b534-2468c35adc81"
+        }
+      ]
     }
   },
   "checked": {
@@ -24969,6 +25611,8 @@
     "porcupine-tree": "2026-10-17T02:07:25.756019+00:00",
     "powerman-5000": "2026-10-17T02:07:41.242093+00:00",
     "queensryche": "2026-10-17T07:00:34.607852+00:00",
-    "rage-against-the-machine": "2026-10-17T07:00:38.591338+00:00"
+    "rage-against-the-machine": "2026-10-17T07:00:38.591338+00:00",
+    "rainbow": "2026-10-17T11:36:24.545242+00:00",
+    "rammstein": "2026-10-17T11:36:28.722969+00:00"
   }
 }
