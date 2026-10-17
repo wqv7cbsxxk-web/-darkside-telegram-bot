@@ -635,49 +635,17 @@
     "6a75957dc19644e3e3c3aec5aebf06927cc0536d",
     "b539a464649e3182c651fad5d0448f24ddcc8cde",
     "9d476de3e1873738a48121372f177a6dbfab0fec",
-    "3e24accb3028075a93f2affd5d26bee4004d5a8f"
+    "3e24accb3028075a93f2affd5d26bee4004d5a8f",
+    "9a2775e735517ca61e8b33a77de5212e39eb517c",
+    "2aa77327a7645f75f3c026ad7b716b5b4aa02421",
+    "4dd1453094784f53c21e455ab81eea3378806e5f",
+    "d15101f27a68d135412c3be14cf018d02f898b5f",
+    "260c0a5818de6628dd01b8b01b51bd422f17a37e",
+    "01fb5dcbc6bcb587ba1a8e757285186c8f92e1fd",
+    "b112b4383a92c77a56212655b8063db33aa7c2eb",
+    "80fb83f9aea1fbb90f16681509a1e219df3fc207"
   ],
   "recent_titles": [
-    {
-      "title": "Ladrones Premiere “Esto De Estar Solo” Music Video",
-      "source": "ThePRP",
-      "ts": 1791928369
-    },
-    {
-      "title": "Blink-182's Travis Barker reveals the text from Kourtney Kardashian which kickstarted their relationship",
-      "source": "Louder",
-      "ts": 1791928388
-    },
-    {
-      "title": "Godsmack’s Sully Erna Taps Disturbed, Aerosmith, Extreme, Staind, Etc. Members For The Scars Foundation Benefit Show",
-      "source": "ThePRP",
-      "ts": 1791928397
-    },
-    {
-      "title": "The Number Twelve Looks Like You’s New Single “Trust Chaos” Arrives Online",
-      "source": "ThePRP",
-      "ts": 1791928405
-    },
-    {
-      "title": "Temple Of Bones (Ripping Corpse, Dim Mak, Etc.) Stream “Sky Is Like Ocean”",
-      "source": "ThePRP",
-      "ts": 1791928409
-    },
-    {
-      "title": "Windwaker Keyboardist Connor Robins Steps Away From The Band, ‘Hellbound Cruise’ Performance Canceled",
-      "source": "ThePRP",
-      "ts": 1791928417
-    },
-    {
-      "title": "Ian Hill Says He Had 'No Choice' in Retirement From Judas Priest",
-      "source": "Ultimate Classic Rock",
-      "ts": 1791928430
-    },
-    {
-      "title": "Tool’s Maynard James Keenan says retirement is not an option despite recent hip surgery",
-      "source": "Louder",
-      "ts": 1791928444
-    },
     {
       "title": "Commoner’s “Passerby” Music Video Is Now Streaming",
       "source": "ThePRP",
@@ -1437,6 +1405,46 @@
       "title": "Басист OBITUARY: «Мы думаем о новой музыке, но... »",
       "source": "Darkside",
       "ts": 1792194784
+    },
+    {
+      "title": "Dave Mustaine Says A 2027 Megadeth, Anthrax & Kerry King Tour Is In The Works",
+      "source": "ThePRP",
+      "ts": 1792202700
+    },
+    {
+      "title": "Haywire Announce Bicoastal “I DON’T WANNA SAY GOODBYE” Record Release Shows",
+      "source": "ThePRP",
+      "ts": 1792202725
+    },
+    {
+      "title": "Korn Celebrate 30 Years Of “Life Is Peachy” With Merch Capsule, Custom Smoothie & Hot Sauce",
+      "source": "ThePRP",
+      "ts": 1792202728
+    },
+    {
+      "title": "A tribute to Ace Frehley, the teen wannabe who became a global superstar",
+      "source": "Louder",
+      "ts": 1792202763
+    },
+    {
+      "title": "Five For Friday: October 16, 2026",
+      "source": "Decibel",
+      "ts": 1792202809
+    },
+    {
+      "title": "Гитарист DEF LEPPARD об ИИ: «Я считаю, что нужно принимать и осваивать любые новые технологии»",
+      "source": "Darkside",
+      "ts": 1792202811
+    },
+    {
+      "title": "MANNVEIRA: “VESÖLD”",
+      "source": "No Clean Singing",
+      "ts": 1792202828
+    },
+    {
+      "title": "Новое видео HOPES DIE LAST",
+      "source": "Darkside",
+      "ts": 1792202829
     }
   ],
   "initialized_sources": [
@@ -4347,31 +4355,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T16:58:49+00:00",
       "id": "0273687cb71099483ba5ce908236259a2e6eadd3",
-      "retry_after": 1792195071
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Haywire Announce Bicoastal “I DON’T WANNA SAY GOODBYE” Record Release Shows",
-      "link": "https://www.theprp.com/2026/10/16/news/haywire-announce-bicoastal-i-dont-wanna-say-goodbye-record-release-shows/",
-      "rss_body": "Taking place in Los Angeles and Boston.",
-      "tags": "News Haywire",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T16:41:01+00:00",
-      "id": "2aa77327a7645f75f3c026ad7b716b5b4aa02421",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Korn Celebrate 30 Years Of “Life Is Peachy” With Merch Capsule, Custom Smoothie & Hot Sauce",
-      "link": "https://www.theprp.com/2026/10/16/news/korn-celebrate-30-years-of-life-is-peachy-with-merch-capsule-custom-smoothie-hot-sauce/",
-      "rss_body": "The latter being dubbed 'Spice Is Peachy'.",
-      "tags": "News Korn",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T16:33:33+00:00",
-      "id": "4dd1453094784f53c21e455ab81eea3378806e5f",
-      "retry_after": 0
+      "retry_after": 1792203023
     },
     {
       "source": "Metal Injection",
@@ -4390,54 +4374,6 @@
       "retry_after": 0
     },
     {
-      "source": "Louder",
-      "priority": 84,
-      "title": "A tribute to Ace Frehley, the teen wannabe who became a global superstar",
-      "link": "https://www.loudersound.com/bands-artists/ace-frehley-tribute",
-      "rss_body": "On October 16, 2025,\n\nAce Frehley\n\ndied after suffering a brain bleed following a fall. It was the second of two tumbles Ace had at his studio as he worked on a new album. He was airlifted to hospital and placed on a ventilator, but passed away several hours later in Morristown, New Jersey. He was 74 years old.\n\nFrehley had two spells with New York-based glam titans\n\nKiss\n\n, firstly from their foundation in 1973 until a messy exit circa the\n\nCreatures Of The Night\n\nalbum in 1982. He was part of a\n\n1996 reunion\n\nof the original line-up, and remained on board for a further six years.\n\nCompletely self-taught as a guitarist, Frehley’s style and persona were a massive influence on subsequent generations of rock musicians. On December 7, 2025, when Kiss received Kennedy Center Honors, Frehley was only the third person to receive the honour posthumously.\n\nThe guitarist’s relationship with fellow original Kiss members\n\nGene Simmons\n\nand\n\nPaul Stanley\n\nwas never an easy one. Frehley liked to have a good time, which often led to butting of heads with teetotal bass player Simmons and rhythm guitarist Stanley, who largely partied in moderation. He was something of a square peg in a round hole, but that’s what made his contribution to Kiss so vital.\n\nAll the same, even after Ace belatedly found sobriety in 2006 the pair continued to keep him at arm’s length. And while Simmons insisted that Frehley and co-founding drummer Peter Criss were both invited to attend the band’s final hometown send-off in December 2023, joining them on stage was never going to fly.\n\nAce prepares to perform at Alex Cooley's Electric Ballroom on July 18, 1974 in Atlanta, Georgia\n\n(Image credit: Tom Hill/WireImage)\n\nFrehley was a hugely talented musician, but he could be his own worst enemy – promoting the solo record that would prove to be his last,\n\n10,000 Volts\n\n, he boasted, “My new album is going to make Paul Stanley look like an imbecile”.\n\nFrom Frehley’s perspective, he had endured a lifetime of humiliation and belittlement from the group’s leaders, and in the autumn of his life he just wouldn’t take it any more.\n\n“In the last few months Paul put me down pretty badly,” Ace told\n\nClassic Rock\n\n’s Dave Everley. “He even told [shock-jock] Howard Stern that if me and Peter got up on stage with them at Madison Square Garden, you might as well call the band Piss instead of Kiss.”\n\nIt was a cheap shot, to be sure, and knowing what\n\nClassic Rock\n\ndoes of Stanley, in the cold light of day he probably regretted saying it. But for Frehley this was just another brick in the wall between him and his former partners.\n\n“That [comment] got to me. We ended up having some words,” Ace sighed during the same interview. “But I’m really done with the tit-for-tat.”\n\nIn the grand scheme of things, the spat might be dismissed as brotherly rough and tumble, and a full reconnection took place during the final hours of Frehley’s life.\n\n“We are devastated by the passing of Ace Frehley,” said a statement from Simmons and Stanley. “He is and will always be a part of Kiss’s legacy.”\n\nIt continued: “In his last moments, we were fortunate enough to have been able to surround him with loving, caring, peaceful words, thoughts, prayers and intentions as he left this earth.\n\n“We cherish all of his finest memories, his laughter, and celebrate his strengths and kindness that he bestowed upon others. The magnitude of his passing is of epic proportions and beyond comprehension. Reflecting on all of his incredible life achievements, Ace’s memory will continue to live on forever!”\n\nPaul Stanley, Peter Criss, Gene Simmons and Ace Frehley pose for the the cover of their self-entitled first album\n\n(Image credit: Ginny Winn/Michael Ochs Archives/Getty Images))\n\nThe youngest of three children, Paul Daniel Frehley was born in a middle-class area of the Bronx, one of the five boroughs of New York City. The Frehley family lived together in a onebedroom apartment, with Paul and a brother sleeping on a bunk bed in their parents’ bedroom, his sister sleeping on the living-room couch. Money was tight, but there was a lot of love – and music. Everything changed when his dad handed 16-year-old Paul his first instrument.\n\n“It was a cheap, twenty-five-dollar Japanese guitar,” Frehley told to\n\nClassic Rock\n\n. “Once I hit the E-chord with the volume all the way up on the amp, it was love at first sight; or first hearing or whatever you want to call it.”\n\nWhile journeying through his earliest bands, Frehley dropped out of high school, and trouble with the NY police was never too far away. “I’d been arrested probably half a dozen times before I was in Kiss,” Ace admitted. “I learned the hard way, but I think it’s helped me in life. You’ve gotta have street smarts to survive.”\n\nIt was an advert placed in the\n\nVillage Voice\n\nnewspaper that led Frehley to the fledgling Kiss. On January 3, 1973, he famously turned up for his audition wearing mismatched sneakers, but his playing got him the gig.\n\nWhen the band decided to take on individual stage identities and paint their faces for live shows, Stanley the Starman, Simmons the Demon and Criss the Catman, Frehley’s fascination with science fiction brought him the moniker Space Ace. To make things more fascinating still, Kiss subsequently went to extreme lengths to avoid being photographed without make-up.\n\nAlthough Kiss’s gonzoid stage show – which involved colourful costumes, and enough pyrotechnics to blow up the Chase Manhattan Bank – brought them cult acclaim, their early records were not successful. A make-or-break last throw of the dice, the double gatefold concert set\n\nAlive!\n\nnot only rescued their career but also began the process of fast-tracking them towards superstardom.\n\nFrehley was loved for his occasional lead vocal tracks like\n\nShock Me\n\n, and also for playing a guitar that doubled as a rocket launcher.\n\nAt their height of their fame the four band members simultaneously recorded solo albums, all released on September 18, 1978. Debate over their relative merits still rages. But, thanks largely to the cover of the English glitter-rock combo Hello’s hit\n\nNew York Groove\n\n, up against the stylistically diverse releases from Simmons and Criss, Frehley’s Eddie Kramer-produced record sold the best.\n\n“I expected that,” Ace wrote in his 2011 memoir\n\nNo Regrets\n\n. “My goal was to make a really solid, guitar-based album, and I did. Mine outsold the other three albums and produced a top-twenty single.”\n\nFrehley didn’t hold back in criticising Simmons’s album, which included cameos from Donna Summer, Cher and Helen Reddy.\n\n“Helen Reddy? Really Gene? What the fuck?” Ace wrote in his book. “With Gene it was always about making money, advancing and expanding the brand. It was never about art. Never about music.”\n\n(Image credit: Casablanca Records)\n\nWildly differing responses to the solo records ensured that within Kiss nothing was quite the same again. As the 1980s dawned, drummer Peter Criss was voted out of the line-up, ensuring that Gene and Paul inevitably won any vote over direction. The band cut their hair and changed costumes for the ambitious but dismally received conceptual set\n\nMusic From ‘The Elder’\n\n. An uncomfortable Ace took a back seat, many of his solos rejected.\n\nBy the next album,\n\nCreatures Of The Night\n\n, Kiss were back on track. Their record deal had been re-negotiated, and each member was $20 million richer. Unfortunately, Frehley was ever more self-destructive. “I had lost interest in the band,” he wrote in\n\nNo Regrets\n\n. “My days passed in a blur of drinking and drugging. I knew that if I didn’t leave the group I was going to die.”\n\nHaving almost killed himself when he crashed a Porsche, in scenes reminiscent of\n\nSmokey And The Bandit\n\n, a sky-high Ace was also pursued by cops in his DeLorean for an hour at speeds of up to 90mph, crashing into several other vehicles. The incident inspired a great song called\n\nRock Soldiers\n\nfor his next project, Frehley’s Comet, but at that point in his life Ace wasn’t in the right shape to be a band leader.\n\nIn 1996, with their own career dipping after an era without make-up, even though highly cautious over the probability of the pair’s demons returning, Simmons and Stanley invited Frehley and Criss back on board. Things started encouragingly. The tour was a box-office smash, but Ace and Peter had little to do with a comeback set. This worked in their favour – for the most part Kiss’s\n\nPsycho Circus\n\nalbum wasn’t very good.\n\nWhen flying between cities on tour, Frehley admitted to hollowing out prescribed medication tablets and refilling them with cocaine. Clearly, things couldn’t last. And when Ace arrived with minutes to spare before a gig, tour manager Tommy Thayer was ready in a Spaceman outfit to take the stage in his place. Kiss had a Plan B, in case of disaster.\n\n(Image credit: Jayme Thornton)\n\nUpon completion of their 2001 itinerary, during which Criss had walked away due to ‘contract details’, Kiss installed Thayer as a full-time guitarist, and Frehley was solo again. Perhaps with some justification – previously, during the make-up era, new Kiss band members such as Vinnie Vincent and Eric Carr had been assigned fresh images – it stuck in Ace’s throat that Thayer had a costume the same as his own, and identical make-up.\n\nHe found gallows humour in the situation. In a 2008 interview, when a writer pointed out that former\n\nBlack N’ Blue\n\nman Thayer had once played in a Kiss tribute act, Frehley quipped: “He still is”. In another similar conversation, he said: “Paul and Gene have two impostors on stage with them.”\n\nFollowing several unsuccessful attempts, sobriety changed Frehley’s life completely. “My [AA] sponsor told me: ‘You had to make those mistakes to get to where you are today, and he was right,’” Ace told\n\nClassic Rock\n\n.\n\nWith a clear head and a good woman in his life, Ace entered a fertile era, releasing five albums in a decade.\n\n“I love to write songs, I love to record,” Ace told\n\nClassic Rock\n\nin 2024. “My fiancée’s got me on a strict diet of organic foods. She’s got me working out, lifting weights and doing push-ups. I’m down to a hundred and seventy-five pounds. I’ve never felt better in my life.”\n\nCertainly, unlike Kiss, at this point retirement was not on his mind.\n\n“I don’t give it any thought,” Frehley insisted. “I will go on till the wheels fall off. Even if I end up in a wheelchair, I can still write songs.”\n\nWith typical laser-focused business savvy, Kiss used the second of their farewell New York shows to introduce a new\n\nAI-based future for themselves\n\n, although Ace saw neither logic nor appeal in turning himself into an avatar.\n\n“That’s not what I’m all about,” he said. “I’m about amps, guitars, singing. As long as I can sing and write and play guitar, the sky’s the limit. I could have two more albums in me. I could have five more. As long as it’s fun, I’ll keep doing it.”",
-      "tags": "Bands & Artists",
-      "category": "Хард-рок",
-      "published": "2026-10-16T16:05:00+00:00",
-      "id": "d15101f27a68d135412c3be14cf018d02f898b5f",
-      "retry_after": 0
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Five For Friday: October 16, 2026",
-      "link": "https://www.decibelmagazine.com/2026/10/16/five-for-friday-october-16-2026/",
-      "rss_body": "Greetings,\n\nDecibel\n\nreaders!\n\nThere’s a lot to love here for\n\nDecibel\n\nreaders, as we’ve got a lot of death metal on the docket. Swedish-style death metal, blackened death metal, and some doomy death metal too. But we’ve also got some unique and experimental fare to offer as well, with the latest from a post-rock giant and some high-quality psych-rock too.\n\n—\n\nCarnation –\n\nSymphony In Flesh\n\nDismember\n\n-worship at its very best! Belgium’s\n\nCarnation\n\nemulates the classic HM-2 sound but also takes care to infuse melodies that keep the listener engaged and craving more. The tried-and-true never get old so long as the songwriting is good. And it’s really good here.\n\nStream:\n\nApple Music\n\nSymphony In Flesh by Carnation\n\n—\n\nCaspian –\n\nCaspian\n\nThe latest from one of the greatest in modern post-rock. Somehow, you know exactly what to expect from a band like\n\nCaspian\n\nbut they still manage to catch you by surprise. For some reason when I listen to the moving and evocative songs on this record, there’s an overwhelming feeling it sends me: “It’s going to be alright.”\n\nStream:\n\nApple Music\n\nCaspian by Caspian\n\n—\n\nFirebreather –\n\nBlood That I Spill Turns to Fire\n\nI hope you like riffs! When it comes to trippy, psych-influenced rock and metal, this is very much my jam. I can’t get over the band’s guitar tone here. So powerful and electric, and yet so clear! Think of the vibe of\n\nElectric Wizard\n\nbut with the songwriting approach of early\n\nMastodon\n\n.\n\nStream:\n\nApple Music\n\nFIREBREATHER – Blood That I Spill Turns To Fire by HEAVY PSYCH SOUNDS Records\n\n—\n\nMorgue –\n\nHerald the Dawn\n\nSolid, no-nonsense death metal. Like if\n\nVader\n\ndid a collaboration with\n\nBloodbath\n\n, specifically the iteration with Nick Holmes on vocals — but also added some ever-so-subtle black metal elements as well. You can even catch a bluesy-pentatonic guitar lick here and there. Maybe these guys are into early\n\nUnanimated\n\n. Whatever the case, this is one mean, dark, excellent record.\n\nStream:\n\nApple Music\n\nHerald the Dawn by MORGUE\n\n—\n\nWorm Altar –\n\nPillars of Eternal Dusk\n\nMeanwhile, if you want your death metal to have a little more doom mixed in, you’ve come to the right place with\n\nWorm Altar\n\n. This is one of those records that makes you just throw the horns up when you hear those low, guttural vocals kick in. You’ll probably make that ugly face when you hear the riffs as well. That’s how you know it’s good.\n\nStream:\n\nApple Music\n\nPillars of Eternal Dusk by Worm Altar",
-      "tags": "Five for Friday Carnation caspian Firebreather five for friday Morgue New Releases worm altar",
-      "category": "Экстремальный метал",
-      "published": "2026-10-16T16:00:22+00:00",
-      "id": "260c0a5818de6628dd01b8b01b51bd422f17a37e",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Гитарист DEF LEPPARD об ИИ: «Я считаю, что нужно принимать и осваивать любые новые технологии»",
-      "link": "http://www.darkside.ru/news/184517/",
-      "rss_body": "PHIL COLLEN в недавнем интервью ответил на вопрос о том, что он думает об использовании искусственного интеллекта (ИИ) в музыке в целом:\n\n«Это пугает. Нет, не пугает — это разочаровывает, потому что мы слышим много подобного... На данный момент ещё можно понять, что песня создана с помощью ИИ. Я слушаю много кантри-групп и исполнителей в стиле R&B, и когда слышишь что-то подобное, то сразу понимаешь: \"Это точно сделано с помощью ИИ\". Но то, что делаем мы, звучит совсем по-другому. Это определённо звучит иначе. То же самое касается живых выступлений. Сейчас много групп и исполнителей, которые используют семплы, фонограммы, секвенции и тому подобное. Да, мы используем лупы для ударных и тому подобное, но все наши вокальные партии живые. Мы поём вживую, и разница очевидна. А ещё мы допускаем ошибки, а это происходит каждый вечер, когда забываешь слова или что-то в этом роде. Так что, по-моему, в этом есть что-то по-настоящему крутое.\n\nСкажу одно: у нас на сцене нет колонок. У всех есть ушные мониторы, так что петь стало гораздо удобнее, потому что раньше был шум, гул, который шёл по микрофонам и попадал в ухо. Теперь всё слышно так отчётливо, что звук стал гораздо более чистым. Мне это нравится, это действительно круто.\n\nТак что я считаю, что нужно принимать и осваивать любые новые технологии. То же самое с искусственным интеллектом — все его используют. Люди используют его и даже не осознают этого. Они гуглят что-то, и искусственный интеллект отвечает им. Так что мы все его используем. Думаю, нужно просто быть в курсе. На данный момент мне нравится то, что мы делаем, и то, что мы не слишком зависим от всего этого и что технологии ещё не взяли над нами верх».\n\n#Def_Leppard #DefLeppard #HardRock #Hard_Rock #Hard 'n' Heavy #_Hard 'n' Heavy",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T15:55:17+00:00",
-      "id": "01fb5dcbc6bcb587ba1a8e757285186c8f92e1fd",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "MANNVEIRA: “VESÖLD”",
-      "link": "https://www.nocleansinging.com/2026/10/16/mannveira-vesold/",
-      "rss_body": "(Below you will find Daniel Barkasi’s review of a new album by the Icelandic band Mannveira which is being released today on Dark Descent Records.) Black metal contains a tendency, if not a foundational principle, to push the envelope in several facets. Recent times have shown the style to be malleable to all sorts of\n\n[...]",
-      "tags": "Album Reviews Daniel Barkasi Mannveira",
-      "category": "Экстремальный метал",
-      "published": "2026-10-16T15:53:45+00:00",
-      "id": "b112b4383a92c77a56212655b8063db33aa7c2eb",
-      "retry_after": 0
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "Listen: Silvertomb Reveal Doomy and Dreamy New \"Brain Matter/No God\"",
@@ -4447,19 +4383,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео HOPES DIE LAST",
-      "link": "http://www.darkside.ru/news/184535/",
-      "rss_body": "Evil Mind, новое видео HOPES DIE LAST, доступно для просмотра",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-16T15:25:58+00:00",
-      "id": "80fb83f9aea1fbb90f16681509a1e219df3fc207",
-      "retry_after": 0
+      "retry_after": 1792203129
     },
     {
       "source": "Louder",
@@ -4519,7 +4443,7 @@
       "category": "Хард-рок",
       "published": "2026-10-16T20:17:21+00:00",
       "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
-      "retry_after": 1792194995
+      "retry_after": 1792203021
     },
     {
       "source": "Metal Injection",
@@ -4531,7 +4455,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792194995
+      "retry_after": 1792203021
     },
     {
       "source": "Metal Injection",
@@ -4543,7 +4467,19 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792194920
+      "retry_after": 1792203019
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Watch Metallica perform ...And Justice for All at Las Vegas Sphere",
+      "link": "https://www.loudersound.com/bands-artists/watch-metallica-perform-and-justice-for-all-at-las-vegas-sphere",
+      "rss_body": "Metallica\n\nhave released official footage of the band performing\n\n...And Justice for All\n\non the opening night of their Life Burns Faster residency at Sphere in Las Vegas.\n\nThe nine-minute epic is the title track of\n\nthe 1988 album\n\n, the band's fourth LP and their first following the death of bassist\n\nCliff Burton\n\na few years earlier.\n\nIt was recorded on October 1 and marked the first time they had played the song live in 12 years.\n\nThey have also released footage of their performance of\n\nThe Call of Ktulu\n\nfrom the same night.\n\nBoth clips can be viewed below.\n\nMetallica are performing 24 dates at the revolutionary Vegas venue, split between October and November of this year and January, February and March of 2027.\n\nThe residency has wowed thousands of fans, but has also been mired in controversy after frontman\n\nJames Hetfield seemed to criticise artists\n\nwho use their platforms to make political statements.\n\nThat led ex-\n\nPink Floyd\n\nman Roger Waters to\n\ncall Hetfield a \"complete prick\"\n\nwith \"an IQ of about three\".\n\nMetallica live dates 2026/2027\n\nOct 17: Las Vegas Sphere, NV\n\nOct 22: Las Vegas Sphere, NV\n\nOct 24: Las Vegas Sphere, NV\n\nOct 29: Las Vegas Sphere, NV\n\nOct 31: Las Vegas Sphere, NV\n\nNov 05: Las Vegas Sphere, NV\n\nNov 07: Las Vegas Sphere, NV\n\nNov 19: Uncasville Mohegan Sun Arena, CT\n\nNov 21: Uncasville Mohegan Sun Arena, CT\n\nJan 28: Las Vegas Sphere, NV\n\nJan 30: Las Vegas Sphere, NV\n\nFeb 04: Las Vegas Sphere, NV\n\nFeb 06: Las Vegas Sphere, NV\n\nFeb 18: Las Vegas Sphere, NV\n\nFeb 20: Las Vegas Sphere, NV\n\nFeb 25: Las Vegas Sphere, NV\n\nFeb 27: Las Vegas Sphere, NV\n\nMar 04: Las Vegas Sphere, NV\n\nMar 06: Las Vegas Sphere, NV\n\nMar 11: Las Vegas Sphere, NV\n\nMar 13: Las Vegas Sphere, NV\n\nMay 08: Vancouver BC Place, BC\n\nMay 13: San Diego Snapdragon Stadium, CA\n\nMay 18: El Paso Sun Bowl Stadium, TX\n\nMay 22: San Antonio Alamodome, TX\n\nMay 26: Fayetteville Razorback Stadium, AR\n\nMay 29: Kansas City Arrowhead Stadium, MO\n\nJun 02: Raleigh Carter-Finley Stadium, NC\n\nJun 05: Indianapolis Lucas Oil Stadium, IN\n\nJun 08: Buffalo Highmark Stadium, NY\n\nJun 12: Madison Camp Randall Stadium, WI\n\nJun 15: Cleveland Huntington Bank Field, OH\n\nJun 19: Salt Lake City Rice-Eccles Stadium, UT",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-17T00:00:00+00:00",
+      "id": "11a348017a96b128623b4b05b495605cbc69e516",
+      "retry_after": 1792203019
     }
   ]
 }
