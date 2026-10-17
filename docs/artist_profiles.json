@@ -260,7 +260,7 @@
       "website": "http://blacksabbath.com",
       "reference_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
       "reference_checked_at": "2026-10-12T12:48:59.110685+00:00",
-      "tour_attempted_at": "2026-10-12T09:21:39.276300+00:00",
+      "tour_attempted_at": "2026-10-17T14:25:56.992893+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-12T12:48:59.110709+00:00"
     },
@@ -278,7 +278,7 @@
       "website": "http://ayreon.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ayreon",
       "reference_checked_at": "2026-10-12T12:48:59.222228+00:00",
-      "tour_attempted_at": "2026-10-12T09:21:40.672790+00:00",
+      "tour_attempted_at": "2026-10-17T14:25:58.184570+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-12T12:48:59.222252+00:00"
     },
@@ -648,20 +648,6 @@
       },
       "events": [
         {
-          "date": "2026-10-13",
-          "city": "Athens",
-          "country": "Greece",
-          "venue": "Telekom Centre Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-16",
-          "city": "Zurich",
-          "country": "Switzerland",
-          "venue": "Hallenstadion",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
           "date": "2026-10-17",
           "city": "Milan",
           "country": "Italy",
@@ -887,10 +873,10 @@
         }
       ],
       "tour_source": "https://deep-purple.com/tour-dates-2/",
-      "tour_checked_at": "2026-10-12T09:21:37.431142+00:00",
+      "tour_checked_at": "2026-10-17T14:25:56.050555+00:00",
       "qid": "Q101505",
       "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
-      "tour_attempted_at": "2026-10-12T09:21:37.431167+00:00",
+      "tour_attempted_at": "2026-10-17T14:25:56.050569+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-13T02:44:53.978598+00:00"
     },
@@ -2223,7 +2209,7 @@
       "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
       "qid": "Q18557",
       "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
-      "tour_attempted_at": "2026-10-12T09:21:38.706345+00:00",
+      "tour_attempted_at": "2026-10-17T14:25:56.803186+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T10:39:01.593260+00:00"
     },
