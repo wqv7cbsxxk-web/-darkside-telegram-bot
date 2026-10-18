@@ -738,49 +738,19 @@
     "45c6cab3ece1af625a1387f44734145ec36eb786",
     "3e70a0b05fd7cb33734a9aa84dda831299e8041d",
     "f5e384bf8beeb121d085dc258af8e1691151bcdf",
-    "5b8d9526c2c3e594a87ced9027b83b6a03a796c7"
+    "5b8d9526c2c3e594a87ced9027b83b6a03a796c7",
+    "a63596a83cbd100b365d5bc8a8e6f1ad005a7318",
+    "5510020347d80a2a645b8d1a7cef943a41ef91f8",
+    "e805e03bc54fd9322f376df430db0cbb59d68271",
+    "ddc1a53a9b1290056f1caa4f5db2ed05fc044c5f",
+    "a52097b43354659c0a5ce2bf14edf574880a38b1",
+    "8b761f59c9c765efba0e2673261a69c20186b717",
+    "4d649d10c4adbbccf836580b67c25c87cc347394",
+    "6b5c9436c1346842f46638e2e807446b913ebec3",
+    "15b319df50e9cd57e9db50b781ddf65a06b08334",
+    "6c36add0a4713fdbd20fe031c790040efefdfece"
   ],
   "recent_titles": [
-    {
-      "title": "CHARLOTTE WESSELS выпустит новый альбом зимой",
-      "source": "Darkside",
-      "ts": 1792103464
-    },
-    {
-      "title": "BABYMETAL To Issue New 7″ EP For The Live Debut Of “My Queen” With Spiritbox’s Courtney LaPlante",
-      "source": "ThePRP",
-      "ts": 1792103470
-    },
-    {
-      "title": "King Buffalo’s “Vagabond” Music Video Debuts",
-      "source": "ThePRP",
-      "ts": 1792111325
-    },
-    {
-      "title": "Ando San Debuts Drumline-Inspired New Track “March For Me”",
-      "source": "ThePRP",
-      "ts": 1792111328
-    },
-    {
-      "title": "Lamb Of God Launch Official “Blunt Force Blues” Live Video From 2026 ‘Bloodstock Open Air’ Festival",
-      "source": "ThePRP",
-      "ts": 1792111330
-    },
-    {
-      "title": "Metallica Share Official Live Footage Of “Call Of Ktulu” From The Sphere",
-      "source": "ThePRP",
-      "ts": 1792111334
-    },
-    {
-      "title": "PRESIDENT, Imminence & Vana Confirmed For 2027 ‘Sonic Temple’ Festival",
-      "source": "ThePRP",
-      "ts": 1792111336
-    },
-    {
-      "title": "Pro-Shot Footage From Knocked Loose & Loathe’s 2026 ‘Louder Than Life’ Festival Sets Released",
-      "source": "ThePRP",
-      "ts": 1792111340
-    },
     {
       "title": "Architects’ Sam Carter Says Continued Criticisms About His Live Screams Took The Joy Out Of Performing",
       "source": "ThePRP",
@@ -1540,6 +1510,46 @@
       "title": "Alice Cooper reveals his reaction to his friend John Lennon’s murder",
       "source": "Louder",
       "ts": 1792345803
+    },
+    {
+      "title": "ROBERT FRIPP & TOYAH пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ AC/DC",
+      "source": "Darkside",
+      "ts": 1792352605
+    },
+    {
+      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ ZEBRA",
+      "source": "Darkside",
+      "ts": 1792352607
+    },
+    {
+      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ SALIVA",
+      "source": "Darkside",
+      "ts": 1792352609
+    },
+    {
+      "title": "Metallica Just Brought “Harvester Of Sorrow” To Their The Sphere Residency With Goosed Up Visuals",
+      "source": "ThePRP",
+      "ts": 1792352631
+    },
+    {
+      "title": "Red Hot Chili Peppers Dusted Off Various 80s Tracks For Their Benefit Show In Los Angeles Last Night",
+      "source": "ThePRP",
+      "ts": 1792352678
+    },
+    {
+      "title": "Haywire Announce Rescheduled Australian Tour Ahead Of A Run With Rise Against & Dropkick Murphys",
+      "source": "ThePRP",
+      "ts": 1792352682
+    },
+    {
+      "title": "Nervosa Drop Off Their UK Tour With Xentrix In Light Of Prika Amaral’s Health Condition",
+      "source": "ThePRP",
+      "ts": 1792352696
+    },
+    {
+      "title": "SLASH пїЅпїЅпїЅпїЅпїЅпїЅпїЅ Les Paul Spirit Award",
+      "source": "Darkside",
+      "ts": 1792352703
     }
   ],
   "initialized_sources": [
@@ -3833,18 +3843,6 @@
       "retry_after": 1792345924
     },
     {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Zebra Celebrates First New Album in 23 Years With Tour Dates",
-      "link": "https://ultimateclassicrock.com/zebra-new-album-tour-dates-2026/",
-      "rss_body": "Randy Jackson tells UCR about their newest work, including the first single, which he wrote with Paul Stanley.",
-      "tags": "Exclusive Interviews New Albums News UCR Ultimate Classic Rock Radio Zebra",
-      "category": "Хард-рок",
-      "published": "2026-10-16T20:17:21+00:00",
-      "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
-      "retry_after": 1792345924
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "Korn Releasing ‘Spice Is Peachy’ Hot Sauce to Celebrate Album 30th Anniversary",
@@ -3962,7 +3960,55 @@
       "category": "Хард-рок",
       "published": "2026-10-18T16:23:43+00:00",
       "id": "04a02e037aa53946d8b4e9212a2922257434dfdf",
-      "retry_after": 1792345857
+      "retry_after": 1792353000
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Here’s This Week’s Top Ten Stories On Theprp.com (October 18th, 2026)",
+      "link": "https://www.theprp.com/2026/10/18/news/heres-this-weeks-top-ten-stories-on-theprp-com-october-18th-2026/",
+      "rss_body": "Megadeth, Roger Waters, Metallica, and more.",
+      "tags": "News This Week's Top Ten",
+      "category": "Хэви-метал",
+      "published": "2026-10-18T19:17:26+00:00",
+      "id": "503147e0f372c017ebf4b19f9b07f11881cbb32e",
+      "retry_after": 1792352922
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "SHADES OF BLACK: INQUINAMENTUM, OBSCVRE SER, BOARHAMMER, LES BÂTARDES DU ROI",
+      "link": "https://www.nocleansinging.com/2026/10/18/shades-of-black-inquinamentum-obscvre-ser-boarhammer-les-batardes-du-roi/",
+      "rss_body": "(written by Islander) I’m beginning today’s collection with the same explanation I used in yesterday’s roundup, except I slept even longer and later last night than I did on Friday night. I may have done too good a job in convincing my restless mind to turn itself off overnight, because a big chunk of this\n\n[...]",
+      "tags": "Album Reviews SHADES OF BLACK SHORT BUT SWEET Boarhammer Inquinamentum Les Bâtards du Roi Obscvre Ser",
+      "category": "Прогрессив",
+      "published": "2026-10-18T18:58:51+00:00",
+      "id": "5bb6507f6ee95ee118e62ae890e5c8534bbf884b",
+      "retry_after": 1792352971
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: No Cure Cover's Brotherhood's \"Till Death\" to Celebrate Edge Day",
+      "link": "https://metalinjection.net/news/listen-no-cure-covers-brotherhoods-till-death-to-celebrate-edge-day",
+      "rss_body": "Some bands like to acknowledge a holiday with social media platitudes. On the other hand, certified real ones like No Cure would rather go balls-out and celebrate their heroes with […]",
+      "tags": "Latest News In the News No Cure",
+      "category": "Хэви-метал",
+      "published": "2026-10-18T17:12:50+00:00",
+      "id": "b02678d0ddcd01b28134a4b7a183953fe2f40ca5",
+      "retry_after": 1792352997
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Judas Priest Launches Virtual Scrapbook Detailing Band's Early Years",
+      "link": "https://metalinjection.net/news/judas-priest-launches-virtual-scrapbook-detailing-bands-early-years",
+      "rss_body": "Few gaggles of old men cram as much history into one news cycle as Judas Priest. In a single week, the Metal Gods celebrated a 50-year-old classic, bid farewell to […]",
+      "tags": "Latest News In the News kk downing Uriah Heep Judas Priest Ian Hill",
+      "category": "Хард-рок",
+      "published": "2026-10-18T16:38:08+00:00",
+      "id": "871c216a743cfb918ed9f1c13570e5899626ad1b",
+      "retry_after": 1792352997
     }
   ]
 }
