@@ -26268,6 +26268,718 @@
           "source_url": "https://musicbrainz.org/release-group/f8fee31e-c179-457f-98f0-6c08847e05ca"
         }
       ]
+    },
+    "symphony-x": {
+      "name": "Symphony X",
+      "musicbrainz_url": "https://musicbrainz.org/artist/b669c53e-5a1f-4adc-80be-755e64e8115e",
+      "reference_checked_at": "2026-10-18T11:45:56.035731+00:00",
+      "genres": "neoclassical metal, power metal, progressive metal, symphonic metal",
+      "website": "https://www.symphonyx.com/",
+      "members": [
+        {
+          "name": "Michael Pinnella",
+          "role": "keyboard, original",
+          "begin": "1994"
+        },
+        {
+          "name": "Michael Romeo",
+          "role": "background vocals, electric guitar, original",
+          "begin": "1994"
+        },
+        {
+          "name": "Russell Allen",
+          "role": "lead vocals",
+          "begin": "1995"
+        },
+        {
+          "name": "Michael LePond",
+          "role": "electric bass guitar",
+          "begin": "1999"
+        },
+        {
+          "name": "Jason Rullo",
+          "role": "drums (drum set)",
+          "begin": "2000"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/b669c53e-5a1f-4adc-80be-755e64e8115e",
+      "albums": [
+        {
+          "name": "V: The New Mythology Suite",
+          "date": "2000-07-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/03c42255-e3cc-3dc1-8240-44d7b1367311"
+        },
+        {
+          "name": "1998-10-06: MarX, Hamburg, Germany",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/055b3013-faf0-342d-9924-d63e452e7f80"
+        },
+        {
+          "name": "The Damnation Game / Twilight in Olympus",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/09ab45f6-52ae-4391-b8ed-ea11880b3070"
+        },
+        {
+          "name": "2003-03-27: Gothenburg, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0ebc76ba-0d33-3d04-ac0a-21300c7011d1"
+        },
+        {
+          "name": "Manowar / Vanden Plas / Symphony X / Rhapsody",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/10d2d848-199a-46b6-96f7-46752968d4f4"
+        },
+        {
+          "name": "Live in Olympus",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1807ca8c-931b-3648-bfc8-343b031cfd49"
+        },
+        {
+          "name": "Hard Rock",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22b79062-bd16-4260-9d20-c9bd475d39ea"
+        },
+        {
+          "name": "Dance Macabre",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/25142ce4-0aff-3b24-9497-1c70af54afc2"
+        },
+        {
+          "name": "The Odyssey",
+          "date": "2002-11-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/25d0e38d-21bc-34ea-b8e0-506adbe0a18f"
+        },
+        {
+          "name": "Prelude to the Millennium: Essentials of Symphony",
+          "date": "1998-02-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/27202a2d-3a0e-3661-aed0-74a63309db1d"
+        },
+        {
+          "name": "Underworld",
+          "date": "2015-07-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2c45f562-a46e-4963-be84-0be4281afb6a"
+        },
+        {
+          "name": "Tour Sampler",
+          "date": "2007",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2e5e29b7-5b4f-4f2f-8ca8-32b8238657c9"
+        },
+        {
+          "name": "The End of Innocence",
+          "date": "2011-05-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3a1b422e-bd5b-4f89-bbce-ccc8b0a55fea"
+        },
+        {
+          "name": "1998-06-23: Osaka, Japan",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4bcbf80f-d291-3589-80ad-85817f98bcb5"
+        },
+        {
+          "name": "2001-06-08: Sweden Rock Festival, Norje Havsbad, Sölvesborg, Sweden",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/571fdd96-b386-3a62-b9b4-1ad800944776"
+        },
+        {
+          "name": "Live on the Edge of Forever",
+          "date": "2001-10-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/582e0f4e-698b-3b44-8e9d-f40ff475badb"
+        },
+        {
+          "name": "2000-11-20: Montpellier, France",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/78a85253-131c-3ac0-969e-1a8776f09f96"
+        },
+        {
+          "name": "Without You",
+          "date": "2015-06-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7c9c5d7e-1048-499a-83b6-c691e12733fb"
+        },
+        {
+          "name": "2003-03-22: Kulttuuritalo, Helsinki, Finland",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8fc53e20-46a8-3dee-b88b-cc1d939c33df"
+        },
+        {
+          "name": "2000-11-29: Bordeaux, France",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9fd99424-490b-3aaa-9982-e4d7764c7420"
+        },
+        {
+          "name": "2003-04-17: Stadthalle, Langen, Germany",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a601aaac-9dc4-36d5-9e2e-38eb0ba938fe"
+        },
+        {
+          "name": "Iconoclast",
+          "date": "2011-06-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c00318b7-1154-442c-8f68-1d6414c1795c"
+        },
+        {
+          "name": "Symphony X",
+          "date": "1994-12-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d40fd67e-077c-3c84-b24a-5ba3441756ea"
+        },
+        {
+          "name": "Paradise Lost",
+          "date": "2007-06-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d59c9d23-7f69-3d1f-8678-dd9d4d8406e4"
+        },
+        {
+          "name": "2001-01-27: North Plainfield, NJ, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d8bedd13-026f-34be-bd9b-db9fb3824c2a"
+        },
+        {
+          "name": "The Damnation Game",
+          "date": "1995-11-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/de32f6ff-7584-3cfe-95bd-92dcd5fa3ff5"
+        },
+        {
+          "name": "The Divine Wings of Tragedy",
+          "date": "1996-11-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e4def96d-5819-38f6-ad02-2ed1cf407f7a"
+        },
+        {
+          "name": "Rarities and Demos",
+          "date": "2005-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f8c6cf23-aebb-3e6d-b3aa-94a7436d3e1c"
+        },
+        {
+          "name": "Twilight in Olympus",
+          "date": "1998-02-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/feb9a257-3c3d-31c6-8fd6-66bae325a3f0"
+        }
+      ]
+    },
+    "system-of-a-down": {
+      "name": "System Of A Down",
+      "musicbrainz_url": "https://musicbrainz.org/artist/cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+      "reference_checked_at": "2026-10-18T11:46:00.050648+00:00",
+      "genres": "alternative metal, alternative rock, hard rock, heavy metal, nu metal",
+      "bandcamp_url": "https://systemofadown.bandcamp.com/",
+      "website": "https://systemofadown.com/",
+      "members": [
+        {
+          "name": "Daron Malakian",
+          "role": "guitar, lead vocals, original",
+          "begin": "1994"
+        },
+        {
+          "name": "Shavo Odadjian",
+          "role": "background vocals, bass guitar, original",
+          "begin": "1994"
+        },
+        {
+          "name": "Serj Tankian",
+          "role": "lead vocals, original",
+          "begin": "1994"
+        },
+        {
+          "name": "John Dolmayan",
+          "role": "drums (drum set), percussion",
+          "begin": "1997"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+      "albums": [
+        {
+          "name": "Live in Paris Bercy 2005",
+          "date": "2005-06-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/03160e76-931e-43a1-be53-63017077221c"
+        },
+        {
+          "name": "Rock in Rio 2015",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0501050b-c294-4d87-9491-ecfb805eb23d"
+        },
+        {
+          "name": "Post Hypnotic Suggestions",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0fb0d941-7d45-3f3a-914c-876d7165c09e"
+        },
+        {
+          "name": "Toxic Avengers",
+          "date": "2002-08-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/10f17cba-cd5a-4497-9c5a-501881ee40f1"
+        },
+        {
+          "name": "1999-11-13: Best Buy, Pasadena, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/11895c0e-dd50-449e-8fa1-b7548da2bdea"
+        },
+        {
+          "name": "[1995 Demo Tape]",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/14bc98d4-a80d-3ba6-8696-f299cb05755c"
+        },
+        {
+          "name": "Unreleased, Live & Rare, Volume 1",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1dbdf5c6-cbd8-30a1-b18a-88bd8dabf959"
+        },
+        {
+          "name": "Sugar E.P.",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2038b727-aadf-4b25-9b86-5a3787495b0f"
+        },
+        {
+          "name": "Hypnotize",
+          "date": "2005-10-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/21a4a256-7168-435e-af72-0352d0fa4521"
+        },
+        {
+          "name": "Diabolus in Musica Tour Sampler",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2bef63fd-ecda-392b-9086-e9fd4a9d7b8b"
+        },
+        {
+          "name": "1999‐12‐20: Astoria, London, England, UK",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/312f071f-0379-3eae-89a6-1a8f36b8aa7b"
+        },
+        {
+          "name": "Steal This Album!",
+          "date": "2002-10-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3351730c-7853-38f3-8d56-1bf627de4523"
+        },
+        {
+          "name": "Hold Up in Antwerpen",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3a5c3593-2716-4eaf-9c11-e0d58fed039d"
+        },
+        {
+          "name": "B.Y.O.B.",
+          "date": "2005-03-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/40611291-3619-3b99-9fcc-bbc176bc602e"
+        },
+        {
+          "name": "Chop Suey! A Campingflight to Lowlands Paradise 2001",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/42153682-90ad-33b6-9f29-21d20cbc6069"
+        },
+        {
+          "name": "Vicinity of Obscenity / Lonely Day",
+          "date": "2006-05-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4935f4d5-5733-4b80-b648-26913061f53e"
+        },
+        {
+          "name": "Fallen Angels (Live in Nottingham England 2002)",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4be4a8f5-e50c-4a2c-a8e6-bc6d9c0c65b0"
+        },
+        {
+          "name": "[Demo Tape 1]",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/515634f3-b215-3819-95fe-806590b51d7b"
+        },
+        {
+          "name": "[Untitled Advance]",
+          "date": "2002-05-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/58bf9a1c-b5da-3414-bf43-bb134b36509b"
+        },
+        {
+          "name": "KROQ Almost Acoustic Christmas Concert",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5b764aa9-b5de-3430-a5a5-4328a97680cd"
+        },
+        {
+          "name": "Toxic Traxx",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/670119cb-21c8-3fbb-a89f-714a8dc0bea3"
+        },
+        {
+          "name": "Limited Edition Tour CD",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/67891aa6-1391-332c-9d78-44344b26b973"
+        },
+        {
+          "name": "One Night in France",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/68412e2b-57be-4c03-96d9-876dacd70ac2"
+        },
+        {
+          "name": "Aerials",
+          "date": "2002-06-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/709f8db6-2740-3a8b-b026-a08fb6171f81"
+        },
+        {
+          "name": "Promotional EP",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/71510d33-e606-443d-920b-f610cbd0dc2c"
+        },
+        {
+          "name": "Hypnotize",
+          "date": "2005-11-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/72035143-d6ec-308b-8ee5-070b8703902a"
+        },
+        {
+          "name": "The B Sides",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/731ff670-7f0d-4100-b25c-f2adf5f2216d"
+        },
+        {
+          "name": "Question!",
+          "date": "2005-08-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/77b49885-13b4-47db-a26a-57879e981720"
+        },
+        {
+          "name": "Live in Armenia",
+          "date": "2015",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/77e347bc-cdb8-44bb-b592-1bf5446f5420"
+        },
+        {
+          "name": "Sampler",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/78b0429a-dbf9-4798-969a-47bb7e786a10"
+        },
+        {
+          "name": "Violent Pornography",
+          "date": "2005",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/798de00a-295c-47bb-8390-1c67870c4457"
+        },
+        {
+          "name": "Cigaro",
+          "date": "2005-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7c2e45db-1cdb-39a5-a721-2b7575c3f9b6"
+        },
+        {
+          "name": "Streamline",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7f183602-f5a4-4632-b949-5508fb673a42"
+        },
+        {
+          "name": "Storaged Melodies",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/827eb91e-8acc-36e2-a576-3f1f55e6ebe2"
+        },
+        {
+          "name": "Know Your Enemy",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8404ba3d-2457-33c7-b103-b0a1e62aed4a"
+        },
+        {
+          "name": "2005‐06‐12: Download Festival, Donington, England, UK",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/84cd3cae-5f53-330b-ac00-b18c33d83895"
+        },
+        {
+          "name": "2000-01-18: Club Rio, Phoenix, AZ, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/88cbfdcc-aa0a-4627-a28b-5c1dec66c22d"
+        },
+        {
+          "name": "Kill Rock ’n Roll",
+          "date": "2006",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8c49d9d6-f7ae-4f68-8120-08c473340cc8"
+        },
+        {
+          "name": "System of a Down: 5 Album Bundle",
+          "date": "2011",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8cab4b11-de38-486c-bafb-b8abbe3eb0b8"
+        },
+        {
+          "name": "Mezmerize",
+          "date": "2005-05-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8d18c070-adea-353f-a089-cbd2543342dd"
+        },
+        {
+          "name": "Legend of Zelda",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9043640b-478e-4c6b-b6c6-df199cfbda62"
+        },
+        {
+          "name": "System of a Down",
+          "date": "1998-06-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/97f37409-b91a-3495-8e70-56fd9f7658c2"
+        },
+        {
+          "name": "Beno’s Copy",
+          "date": "2001-03-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9b995eaf-bd5b-4b09-bfff-0f842affdf8c"
+        },
+        {
+          "name": "Chop Suey!",
+          "date": "2001-10-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9cb50ffe-c5cf-338d-8833-f5fc5572f45f"
+        },
+        {
+          "name": "Prison Song / X",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9d43c0d5-d892-4349-a292-977ea8a645ef"
+        },
+        {
+          "name": "2005‐11‐09: ARCO Arena, Sacramento, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a1b994e4-1f4e-4a39-ae0f-00a157085f11"
+        },
+        {
+          "name": "Steps and Hemp",
+          "date": "2014-10-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a1fe1182-d3e8-489d-b7e3-293cbda62b58"
+        },
+        {
+          "name": "[Demo Tape 2]",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a33742e7-d350-3d5a-bb84-1bfdc305fb2b"
+        },
+        {
+          "name": "Live at the Wireless",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a3e76a73-6248-35e9-b540-81547b1e3cd6"
+        },
+        {
+          "name": "Science (Live) / Psycho (Live)",
+          "date": "2005-11-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a5302185-cbd7-43bb-bb4b-488b2140d4c9"
+        },
+        {
+          "name": "Live at Souls Benefit 2004",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a5c028bd-0486-44f2-b8a1-ce2c719c78eb"
+        },
+        {
+          "name": "[Demo Tape 4]",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a7174064-f03d-3406-9fff-f33b70e3ab5b"
+        },
+        {
+          "name": "Toxicity",
+          "date": "2002-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a81c97f6-7a58-3a44-be4a-e0df67a83921"
+        },
+        {
+          "name": "Rock in Rio 2011",
+          "date": "2011-11-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a961486d-829c-4165-9258-64474a787e99"
+        },
+        {
+          "name": "War? / Suite‐Pee",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b07d2291-e75b-405c-a273-19e43f1be68d"
+        },
+        {
+          "name": "Psycho System",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b1750c9c-c710-4714-9ff9-9d6628787569"
+        },
+        {
+          "name": "[Demo Tape 3]",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b61c71ab-bd65-4395-8eac-ca8a640d57f4"
+        },
+        {
+          "name": "1997-07-11: Whisky A Go Go, West Hollywood, CA, USA",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b6cbf482-ce41-3f96-8481-8f2b92dd589b"
+        },
+        {
+          "name": "Genecide Noun",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ba6b3938-00a6-44d1-a890-8b44d56b6df9"
+        },
+        {
+          "name": "The Demo EPs",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bd735c40-502d-4800-9c94-6923506f42fd"
+        },
+        {
+          "name": "Boom!",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c23271db-636e-4970-bcd2-98b3f04c53d2"
+        },
+        {
+          "name": "Johnny",
+          "date": "2001-08-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c52b0ae2-e55b-45ac-821c-381ed7bd9a76"
+        },
+        {
+          "name": "Kill Rock’n’Roll: Greatest Hits",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c6ff2b8c-87b0-4e61-81d9-bc74aa496c42"
+        },
+        {
+          "name": "Spiders",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c88debfa-b766-3b1b-924c-3b5b729311d2"
+        },
+        {
+          "name": "Sugar",
+          "date": "1998-05-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c8d0a9b9-1d9a-318b-ac76-f4ba40e7f7cb"
+        },
+        {
+          "name": "SHAME!",
+          "date": "2023-06-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d623bac7-be5a-40de-8059-a425b9d7881c"
+        },
+        {
+          "name": "Unreleased",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d87fb62b-7370-3b10-a851-1a68102d6a78"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/db87f726-e939-35d4-82b4-f7f58d2c10c2"
+        },
+        {
+          "name": "1998-08-22: The Roxy, Los Angeles, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dcaf7532-8585-4a9e-afe4-5718f7962fc1"
+        },
+        {
+          "name": "1998-05-27: Club Rio, Tempe, AZ, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e6499e9d-c12d-4829-a55c-f5ada8000ac3"
+        },
+        {
+          "name": "Innervision",
+          "date": "2002",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ed7ba5f7-3d62-4e1a-8ff2-a03eb77beaf4"
+        },
+        {
+          "name": "Johnny",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f1b9ee59-47b8-30d9-8c5d-5035812ba010"
+        },
+        {
+          "name": "Lonely Day",
+          "date": "2006-04-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f1d65f47-f088-3cb2-a398-f5a685ddc344"
+        },
+        {
+          "name": "2011-10-02: Cidade do Rock, Rio de Janeiro, Brazil",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f27903de-0ed4-4cbf-8181-e487d23f4c6a"
+        },
+        {
+          "name": "Live 2005",
+          "date": "2005-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f2c61562-ebc8-4eea-836b-f4958ccf9ffe"
+        },
+        {
+          "name": "Toxicity",
+          "date": "2001-08-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f50fbcb4-bfcd-3784-b4c9-44f4793e66b2"
+        },
+        {
+          "name": "Protect the Land / Genocidal Humanoidz",
+          "date": "2020-11-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fb97b367-2cdd-4c87-a031-6313443b75de"
+        },
+        {
+          "name": "1999-08-14: Hornet Field, Sacramento, CA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fd27771e-1b02-451b-aad2-e84921dab0ac"
+        }
+      ]
     }
   },
   "checked": {
@@ -26376,6 +27088,8 @@
     "soundgarden": "2026-10-18T01:33:28.012125+00:00",
     "static-dress": "2026-10-18T01:33:32.050372+00:00",
     "steven-wilson": "2026-10-18T06:40:06.451221+00:00",
-    "suffocation": "2026-10-18T06:40:07.729909+00:00"
+    "suffocation": "2026-10-18T06:40:07.729909+00:00",
+    "symphony-x": "2026-10-18T11:45:56.035898+00:00",
+    "system-of-a-down": "2026-10-18T11:46:00.050852+00:00"
   }
 }
