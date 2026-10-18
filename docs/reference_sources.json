@@ -25519,6 +25519,755 @@
           "source_url": "https://musicbrainz.org/release-group/ffbb1393-9aaf-4beb-b534-2468c35adc81"
         }
       ]
+    },
+    "soundgarden": {
+      "name": "Soundgarden",
+      "musicbrainz_url": "https://musicbrainz.org/artist/153c9281-268f-4cf3-8938-f5a4593e5df4",
+      "reference_checked_at": "2026-10-18T01:33:28.011940+00:00",
+      "genres": "alternative metal, alternative rock, grunge, hard rock, psychedelic rock, sludge metal",
+      "bandcamp_url": "https://soundgarden.bandcamp.com/",
+      "website": "http://soundgardenworld.com/",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/153c9281-268f-4cf3-8938-f5a4593e5df4",
+      "albums": [
+        {
+          "name": "Blow Up the Outside World",
+          "date": "1996-10-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0be1e610-73d2-3a07-ab3f-d86a2ec7a7b6"
+        },
+        {
+          "name": "Somewhere",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1145836a-71c8-32fe-a87d-eb2682eaff7d"
+        },
+        {
+          "name": "Hands All Over",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1427418c-872f-318a-9f23-03442f063cc2"
+        },
+        {
+          "name": "Big Dumb Sex: Live in Boston Jan 1990",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/17d0d67c-620b-31e1-82db-c4f78c846500"
+        },
+        {
+          "name": "Interview",
+          "date": "1997-08-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/18a9b7f1-4d0d-4fc0-9d5b-7610c4bd8ba9"
+        },
+        {
+          "name": "1994-03-23: Push: Sentrum Scene, Oslo, Norway",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/190b17fb-da92-30a3-9751-92c4910e9049"
+        },
+        {
+          "name": "Crown of Thorns",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/19467082-16f5-4f32-8f43-12cc3b6c1ce1"
+        },
+        {
+          "name": "1997-01-25: Royal Melbourne Showgrounds, Melbourne, Australia",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1fc2fea6-e51d-452a-9ea2-4566e17aca5b"
+        },
+        {
+          "name": "1992-06-20: Talavara Mainweisen, Wurzburg, Germany",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/223ce177-6005-4ccc-acf3-7ceb6d6e453b"
+        },
+        {
+          "name": "Mindriot",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/25703e49-becb-440c-88ab-fb275f6d0ab4"
+        },
+        {
+          "name": "Louder Than Love & BadMotorFinger",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/27b441f1-3420-4a68-89db-b6a05daaab5f"
+        },
+        {
+          "name": "Echo of Miles: The Originals",
+          "date": "2014-11-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/285c83f0-7323-445e-ac2d-076546d1e026"
+        },
+        {
+          "name": "Superunknown: The Singles",
+          "date": "2014-04-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2f360088-6f66-41fc-b315-625a249e08a1"
+        },
+        {
+          "name": "She's a Politician / Christmas With the Devil",
+          "date": "1991-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/30b944eb-e166-422e-9507-a391ab6558c9"
+        },
+        {
+          "name": "Stolen Prayers",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/32ee12d0-5848-314d-95c3-3c8381e1bce9"
+        },
+        {
+          "name": "Down on the Upside",
+          "date": "1996-05-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3813786b-db5a-369c-83b5-41d68b981d7c"
+        },
+        {
+          "name": "Motorvision",
+          "date": "1992-11-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/40adef83-248c-4e16-ae58-41cd86aa885b"
+        },
+        {
+          "name": "Ty Cobb",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/456b8bba-06a4-36a4-acb7-96ee393eb545"
+        },
+        {
+          "name": "1991-10-06: The Palladium, Hollywood, CA, USA",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4dcbde19-8ed4-4b9a-97f3-abe05147084e"
+        },
+        {
+          "name": "Fresh Deadly Rarities",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/53f8b9d6-d3d6-3a99-b808-19efbb4c8aa1"
+        },
+        {
+          "name": "Loud Love",
+          "date": "1989-08-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/544917a6-9587-4688-a802-41d6601716cc"
+        },
+        {
+          "name": "Before the Doors: Live on I-5",
+          "date": "2011-11-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5604a33b-cfcd-4c42-b8e1-db16c0eee18a"
+        },
+        {
+          "name": "Rusty Cage",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/57b97d7d-b7e1-35cc-bfe7-921201d6d562"
+        },
+        {
+          "name": "Black Rain",
+          "date": "2010-08-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5a0ca9e1-cdc4-4a58-89c6-750dd2a02e85"
+        },
+        {
+          "name": "Jesus Christ Pose",
+          "date": "1991-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5a773b4b-0303-3699-996d-5c8e34970bf4"
+        },
+        {
+          "name": "Omega Paradise",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/606f61eb-b1cf-4319-84de-bc91f7c0f474"
+        },
+        {
+          "name": "Badmotorfinger + Superunknown",
+          "date": "2010",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6125dc12-c317-4af5-b2ba-22897709e7ce"
+        },
+        {
+          "name": "Been Away Too Long",
+          "date": "2012-09-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/648956a7-4b54-4e97-a5f6-c52842f946bb"
+        },
+        {
+          "name": "1989-02-12: The I-Beam, San Francisco, CA, USA",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/659a5355-d054-471e-885b-ed25215458ec"
+        },
+        {
+          "name": "Badmotorfinger / Superunknown",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/65f3cd6f-cc23-43cb-a3e4-91f36ac1d384"
+        },
+        {
+          "name": "Superuninterview",
+          "date": "1994",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/67fc4b67-93b9-4645-8ba0-9fed914cf293"
+        },
+        {
+          "name": "Loudest Love",
+          "date": "1990-10-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/69ac0ea6-9908-4447-a9dc-b108ce934fdf"
+        },
+        {
+          "name": "Fell on Black Days",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a311ecf-3a97-38e9-9c2f-f3d53f631ab4"
+        },
+        {
+          "name": "Supermotorfinger",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6a484aeb-3945-408d-8364-947ac7593356"
+        },
+        {
+          "name": "The Very Best Of",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6f0cc2e6-51e2-3984-b426-bb28c80e7618"
+        },
+        {
+          "name": "1989-06-09: Motion Unlimited, Madone, Bergamo, Italy",
+          "date": "1989",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/70160a1f-bcb5-410a-85c9-56849afb2b75"
+        },
+        {
+          "name": "Bleed Together",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7106c460-2f99-3733-aa3b-ac79a45c6580"
+        },
+        {
+          "name": "Room a Thousand Years Wide",
+          "date": "1990-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/72855cf2-d7a1-3e8e-b852-5340d5436923"
+        },
+        {
+          "name": "New Damage",
+          "date": "2019-06-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/73290c94-8c44-477e-b58a-589aff17bd07"
+        },
+        {
+          "name": "1997-01-27: Sydney Showground, Sydney, Australia",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/76bd3004-3ee3-4dc3-b6c6-b409ad6143ae"
+        },
+        {
+          "name": "Black Hole Sun",
+          "date": "1994-08-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/79ace4d1-4e0c-34f1-95ef-2b411a15bfd8"
+        },
+        {
+          "name": "King Animal Demos",
+          "date": "2013-04-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7c44733b-d2bd-4c15-b932-5debf1d79b8a"
+        },
+        {
+          "name": "Middle East",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/804abb72-374e-49cf-9f4c-704fe40ed338"
+        },
+        {
+          "name": "Foreshocks",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/80f0fddf-88ad-39f0-9e50-8ea03327feba"
+        },
+        {
+          "name": "Live to Rise",
+          "date": "2012-04-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81b91bbb-1c13-4dc7-9fd6-eb99723fa14c"
+        },
+        {
+          "name": "2010-08-05 The Vic Theater, Chicago, IL",
+          "date": "2010-08-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/826699db-3ac6-4af3-9a07-aa793704f3e5"
+        },
+        {
+          "name": "Superunknown",
+          "date": "1994-03-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8300fe9c-0022-3c55-8a3e-8dc61f282e8c"
+        },
+        {
+          "name": "Louder Than Live",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8449defe-562c-40f0-a591-cb75482ef625"
+        },
+        {
+          "name": "Badmotorfinger",
+          "date": "1991-09-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/85766188-9484-333e-b8ae-a5cab5e5167b"
+        },
+        {
+          "name": "Satanoscillatemymetallicsonatas",
+          "date": "2016-11-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/877a8ba5-036c-322a-92ae-f583860d6355"
+        },
+        {
+          "name": "Ultramegaunknown",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8a2bf6fd-f094-3e40-8fe9-379428d777ff"
+        },
+        {
+          "name": "Beyond This Mortal Coil",
+          "date": "2017-07-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/92659c8e-3443-43ad-9a5e-10aab42c1ce7"
+        },
+        {
+          "name": "Into the Upside",
+          "date": "1996",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/96b605e2-988c-485c-95f7-f504f84563bf"
+        },
+        {
+          "name": "Telephantasm",
+          "date": "2010-09-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/99f2c4db-a8b3-4701-9cd4-27f3f3acf498"
+        },
+        {
+          "name": "Outshined",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9d007c8e-c404-3fa2-87a8-96feaaa7296b"
+        },
+        {
+          "name": "Moonlight on Vermont",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a1737c87-e61d-3cf1-ad65-b1d10a341f1e"
+        },
+        {
+          "name": "Burden in My Hand",
+          "date": "1996-09-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a39277f1-2300-3cd2-b3e1-6646c6619764"
+        },
+        {
+          "name": "Hunted Down / Nothing to Say",
+          "date": "1987-06-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a43b153c-a34b-425b-beb8-e7f71be32153"
+        },
+        {
+          "name": "Searching With My Good Eye Closed",
+          "date": "2016-10-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a6133e1e-b1b5-4eb7-bafe-c3d3e1418de3"
+        },
+        {
+          "name": "Soundgarden",
+          "date": "1989-10-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/abb0efbc-2b2a-43aa-bb72-5ca95e627bb5"
+        },
+        {
+          "name": "Storm",
+          "date": "2014-10-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/adeebcd1-dd97-4a46-89bb-9e2959eaeab2"
+        },
+        {
+          "name": "Live From the Artists Den",
+          "date": "2019-07-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b199e14b-942d-4774-b025-46e115da7627"
+        },
+        {
+          "name": "Gardenheads",
+          "date": "1994",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b1b362fa-21e6-4f35-94fa-f593087dc7ba"
+        },
+        {
+          "name": "Coverin'",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b47592f4-ada8-32cb-ae0d-874ad53235e5"
+        },
+        {
+          "name": "By Crooked Steps",
+          "date": "2013-02-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b758f291-aabc-42e7-8b23-178808ff2065"
+        },
+        {
+          "name": "Songs From the Superunknown",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b8bab7c3-d144-3d15-b9db-810c8918e9d9"
+        },
+        {
+          "name": "1994-02-08: Club Citta, Kawasaki, Japan",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b8e5b7fe-6fb0-4382-9fd1-379deb9baf97"
+        },
+        {
+          "name": "Come Together",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b9353970-9bf0-387f-ad55-2bc91eb174fe"
+        },
+        {
+          "name": "Spoonman",
+          "date": "1994-02-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bc2b608f-f2ae-34fc-a0ff-93d78fdeb044"
+        },
+        {
+          "name": "The Garden Grows",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bd0bb91f-af07-3047-9615-c20906e72f37"
+        },
+        {
+          "name": "Echo of Miles: Scattered Tracks Across the Path",
+          "date": "2014-11-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bebdee24-2145-427c-bf4f-ce14b6f83dfd"
+        },
+        {
+          "name": "1989: Louder: Whiskey-A-Go-Go, Los Angeles, CA, USA",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c8a71ec0-1efe-348d-95d8-8cb04dddd77c"
+        },
+        {
+          "name": "Pretty Noose",
+          "date": "1996-05-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c96559df-a3a5-370a-8c97-b9bfcc9b3122"
+        },
+        {
+          "name": "1990-01-21: From Seattle to Boston: Paradise Ballroom, Boston, MA, USA",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c977709c-504f-36f9-ad74-ed194d9018bb"
+        },
+        {
+          "name": "My Wave",
+          "date": "1994-10-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cb2bed91-bb32-3071-957d-29dcd3b226aa"
+        },
+        {
+          "name": "Screaming Life",
+          "date": "1987-10-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cb6f7950-1d4f-3de9-9943-7a24e1ba9380"
+        },
+        {
+          "name": "Loudest Love",
+          "date": "1990-10-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cbc63267-6c8b-30ed-9bb9-e9a8c0b0e08c"
+        },
+        {
+          "name": "1992-09-08: Lollapalooza '92: Lollapalooza, Desert Sky Pavilion, Phoenix, AZ, USA",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cd811d26-eb12-3730-b685-06498ec6062e"
+        },
+        {
+          "name": "Birth Ritual",
+          "date": "2016-11-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d2864840-8fca-4062-81a3-5f1e5658154a"
+        },
+        {
+          "name": "Fortissimo",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d3c604d0-aede-40b9-a590-7bd48e40f648"
+        },
+        {
+          "name": "Flower",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d3d968a3-7660-3bf6-991b-b9ae1e4c869f"
+        },
+        {
+          "name": "Badmotorfinger + Superunknown",
+          "date": "2010",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d4d6a612-d34e-45a6-b396-d1420e8993f3"
+        },
+        {
+          "name": "Damage Nouveau",
+          "date": "2015-05-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d8842152-0931-4df5-8cef-d45c3d52ae4a"
+        },
+        {
+          "name": "Alive in the Superunknown",
+          "date": "1995-11-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dd8642bb-5fe6-35fe-84a2-816aac216db1"
+        },
+        {
+          "name": "The Classic Album Selection",
+          "date": "2012-05-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dfdeba48-10a4-40fd-bb7c-b78ca80c30c7"
+        },
+        {
+          "name": "Louder Than Love",
+          "date": "1989-09-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e0c68e83-bc36-3146-af81-7d595e146b14"
+        },
+        {
+          "name": "Soundgarden's Garden",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e587076f-b441-375e-9783-5d46883a6361"
+        },
+        {
+          "name": "A‐Sides",
+          "date": "1997-11-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e6682d25-1ef1-3d19-83ba-879dc4a50f91"
+        },
+        {
+          "name": "King Animal",
+          "date": "2012-11-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e825adf8-14e0-4778-837f-afbc6ad60540"
+        },
+        {
+          "name": "The Day I Tried to Live",
+          "date": "1994-04-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e863c1e1-2acf-3765-91f5-0683347efdb0"
+        },
+        {
+          "name": "Digging The Garden",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e937093b-4be0-4704-880b-cd404007d565"
+        },
+        {
+          "name": "Accoustic Pollution",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e9b38ff8-6de9-484a-bf9b-d874c0297a3d"
+        },
+        {
+          "name": "Ultramega OK",
+          "date": "1988-10-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ea22eb82-c3b2-32c6-84cf-10f7e28b0230"
+        },
+        {
+          "name": "Spoonman (remix by Steve Aoki)",
+          "date": "2016-08-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f2bddb7c-01af-41c4-99f0-ade3006e17ad"
+        },
+        {
+          "name": "Live on I-5",
+          "date": "2011-03-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f2c922dc-9605-4ac1-86b1-2a1cc0c31059"
+        },
+        {
+          "name": "Beyond The Wheel",
+          "date": "2017-01-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f3b570be-2ebd-4e44-9c44-3fdf0138a4d3"
+        },
+        {
+          "name": "Norway 1994",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f50b138f-7c51-3f28-8f82-d276b3d235de"
+        },
+        {
+          "name": "Screaming Life / Fopp",
+          "date": "1990-06-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f72610aa-be6b-37dd-b068-b21d07bb717d"
+        },
+        {
+          "name": "Fopp",
+          "date": "1988-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f937c4d1-6a79-330d-a61b-d5118c544264"
+        },
+        {
+          "name": "The Telephantasm / Gun",
+          "date": "2010-11-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ff49afe8-d091-4fcc-ac35-3e3ca527f8d7"
+        }
+      ]
+    },
+    "static-dress": {
+      "name": "Static Dress",
+      "musicbrainz_url": "https://musicbrainz.org/artist/9f61afe8-7142-44ee-b518-4dbb1caefb82",
+      "reference_checked_at": "2026-10-18T01:33:32.050302+00:00",
+      "genres": "emo, metalcore, post-hardcore",
+      "bandcamp_url": "https://staticdress.bandcamp.com/",
+      "website": "https://staticdress.com/",
+      "members": [
+        {
+          "name": "Olli Appleyard",
+          "role": "lead vocals",
+          "begin": "2018"
+        },
+        {
+          "name": "Vincent Weight",
+          "role": "electric guitar",
+          "begin": "2025"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/9f61afe8-7142-44ee-b518-4dbb1caefb82",
+      "albums": [
+        {
+          "name": "indecent_",
+          "date": "2020-06-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/005f8ad2-0846-4397-abb7-07bb32af8c45"
+        },
+        {
+          "name": "sweet.",
+          "date": "2021-06-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0207f16f-eee2-4ca9-9753-d68466b24fcf"
+        },
+        {
+          "name": "face.",
+          "date": "2025-04-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0968ee86-bf60-4399-bbca-fad8b878755f"
+        },
+        {
+          "name": "DSC_301",
+          "date": "2019-04-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0a594846-71af-4b61-909d-dbc0415f5e12"
+        },
+        {
+          "name": "Safeword",
+          "date": "2020-04-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3d7c72ff-1783-435d-b1c0-2e96837504ee"
+        },
+        {
+          "name": "Prologue… (Comic Book Soundtrack)",
+          "date": "2021-12-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4d5e65c3-04fd-4376-b2f8-419a275872dd"
+        },
+        {
+          "name": "death to the overground.",
+          "date": "2025",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/64a19fcd-4fcc-422b-b263-5aea7b8ee94d"
+        },
+        {
+          "name": "For the Attention Of...",
+          "date": "2020-09-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/64c40cc6-98a7-41cf-894d-d86ee1eaeec3"
+        },
+        {
+          "name": "Rouge Carpet Disaster",
+          "date": "2022-05-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7433e318-7695-4240-9e73-262e8665b9d8"
+        },
+        {
+          "name": "...hospice",
+          "date": "2026-04-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8dd6fc19-03c3-4b58-af5a-4a3ba7eb9535"
+        },
+        {
+          "name": "Clean.",
+          "date": "2019-08-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8f7541ec-7197-43d6-bb43-4451de60a4b9"
+        },
+        {
+          "name": "Nostalgia Kills",
+          "date": "2026-04-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9bbf4bad-f439-46df-b4fe-29154fecc7fa"
+        },
+        {
+          "name": "human props",
+          "date": "2026-01-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9c67b93f-009c-47e6-b1ea-07e78c6eb885"
+        },
+        {
+          "name": "vol.3",
+          "date": "2023-11-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bb0862ac-e748-4ca7-981d-ced7c52b5e2a"
+        },
+        {
+          "name": "Injury Episode",
+          "date": "2026-05-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c2e41611-a7cd-4883-a2e0-0dc4a57fd72c"
+        },
+        {
+          "name": "Adaptive Taste",
+          "date": "2019-09-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d1fa76ef-12ee-4843-9e4e-668755c8f5a5"
+        },
+        {
+          "name": "2019 - 2024",
+          "date": "2020-11-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dd4539ce-25cf-45d5-b7ae-9a3680b05fc0"
+        },
+        {
+          "name": "vol.2",
+          "date": "2023-10-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f61f32d0-3f9f-42e9-b74c-7c39b86a08a5"
+        },
+        {
+          "name": "crying",
+          "date": "2024-05-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f8fee31e-c179-457f-98f0-6c08847e05ca"
+        }
+      ]
     }
   },
   "checked": {
@@ -25623,6 +26372,8 @@
     "shogun-mojo": "2026-10-17T21:47:49.725825+00:00",
     "skid-row": "2026-10-17T21:47:50.979525+00:00",
     "slayer": "2026-10-17T23:34:38.241631+00:00",
-    "sodom": "2026-10-17T23:34:39.492311+00:00"
+    "sodom": "2026-10-17T23:34:39.492311+00:00",
+    "soundgarden": "2026-10-18T01:33:28.012125+00:00",
+    "static-dress": "2026-10-18T01:33:32.050372+00:00"
   }
 }
