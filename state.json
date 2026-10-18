@@ -700,49 +700,17 @@
     "4b12330e5843d06eadc90f267778452ac55eab29",
     "7cf27149aa5c4e6b88ecb096d514bfe8fa04400e",
     "9d16af9b8ef8b73dc34f2023768464a4ed9ec3e3",
-    "1ea55febbf63d227af8fb20f6ef54e3593577afd"
+    "1ea55febbf63d227af8fb20f6ef54e3593577afd",
+    "1353c7429f4358200e588fde1a879832df56c1c2",
+    "54dddfaba078f0b1373d96a49e32118a07cb2c49",
+    "602481439bf9bba7eec8f9162f76d250c5b31ade",
+    "c22e8131dcd6143c64d53729ec2d3d997e077d58",
+    "96f42f47a52793b8906c057d1727d249d5fac416",
+    "facbb7c14380e3fe765ee8919c55e2f337c64dc9",
+    "15cbdbeb68de50589ab1a275a78a5af6edeffe69",
+    "b4208857495f559ae218b1d2a0e7d89122481e13"
   ],
   "recent_titles": [
-    {
-      "title": "Richard Thompson's mastery of Fender and folk shines on Hippies, Thugs And Heroes",
-      "source": "Louder",
-      "ts": 1792043340
-    },
-    {
-      "title": "Dopethrone’s Early 2027 U.S. Tour To Feature Conjurer, -(16)- & Armed For Apocalypse",
-      "source": "ThePRP",
-      "ts": 1792043341
-    },
-    {
-      "title": "Midnight Release “Violence On Violence” Performance From Their Upcoming Live Album “Satanic Attack Live!”",
-      "source": "ThePRP",
-      "ts": 1792043345
-    },
-    {
-      "title": "Primer 55 Announce Fall Tour With REdEFIND, Sicksense & Makes My Blood Dance",
-      "source": "ThePRP",
-      "ts": 1792043364
-    },
-    {
-      "title": "Marilyn Manson Announces 30th Anniversary Edition Of “Antichrist Superstar”",
-      "source": "ThePRP",
-      "ts": 1792043371
-    },
-    {
-      "title": "DAVE LOMBARDO о культовой пластинке SLAYER",
-      "source": "Darkside",
-      "ts": 1792043374
-    },
-    {
-      "title": "Emmure’s Frankie Palmeri Says People Want Politicized Music “Only If It Aligns With Their Brand Of Politics And World View”",
-      "source": "ThePRP",
-      "ts": 1792043391
-    },
-    {
-      "title": "The Rolling Stones announce Foreign Tongues, Loose Lips",
-      "source": "Louder",
-      "ts": 1792043401
-    },
     {
       "title": "Новое видео BONEYARD",
       "source": "Darkside",
@@ -1502,6 +1470,46 @@
       "title": "SHARON OSBOURNE: «Мы очень, очень-очень хотели, чтобы MEGADETH выступили на прощальном концерте Оззи»",
       "source": "Darkside",
       "ts": 1792280054
+    },
+    {
+      "title": "DREAM THEATER начали работу над альбомом",
+      "source": "Darkside",
+      "ts": 1792287073
+    },
+    {
+      "title": "SEEN AND HEARD: RADIANT KNIFE, NIHILO, ANCESTROS, GNULL, SUNDOWNER, GHÂSIQIN",
+      "source": "No Clean Singing",
+      "ts": 1792287081
+    },
+    {
+      "title": "A roots band created an album so progressively ironic that a label paid for it twice",
+      "source": "Louder",
+      "ts": 1792287105
+    },
+    {
+      "title": "Black Sabbath's Tony Iommi says Ozzy Osbourne's passing has made him reflect on his own mortality",
+      "source": "Louder",
+      "ts": 1792287118
+    },
+    {
+      "title": "UDO DIRKSCHNEIDER и сын: «Сейчас лейблы творят много дичи!»",
+      "source": "Darkside",
+      "ts": 1792287120
+    },
+    {
+      "title": "Subterranean Dissonance Festival Announces Tony Danza Tapdance Extravaganza, Cave In and More for 2027 Edition",
+      "source": "Decibel",
+      "ts": 1792287131
+    },
+    {
+      "title": "Новое видео HYPNO5E",
+      "source": "Darkside",
+      "ts": 1792287132
+    },
+    {
+      "title": "BEHEMOTH: “I, SCVLPTOR”",
+      "source": "No Clean Singing",
+      "ts": 1792287188
     }
   ],
   "initialized_sources": [
@@ -3665,7 +3673,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T16:21:04+00:00",
       "id": "6fa9e66a27bc3bb4d1d6d699ea1d0cf9eb170e41",
-      "retry_after": 1791911824
+      "retry_after": 1792287388
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3677,7 +3685,7 @@
       "category": "Хард-рок",
       "published": "2026-10-13T16:08:03+00:00",
       "id": "b3483a2937a66c5ce60b948a1df4c2641bc669a5",
-      "retry_after": 1791911855
+      "retry_after": 1792287390
     },
     {
       "source": "Metal Injection",
@@ -3689,79 +3697,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T15:39:10+00:00",
       "id": "d084dcb5b9cf81ee155f4415cc6f2e255a918dbf",
-      "retry_after": 1791911855
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "A roots band created an album so progressively ironic that a label paid for it twice",
-      "link": "https://www.loudersound.com/music/albums/wilco-yankee-hotel-foxtrot-prog",
-      "rss_body": "In 2015\n\nProg\n\nargued that Wilco’s fourth album,\n\nYankee Hotel Foxtrot\n\n, was a much more progressive album than many people have ever realised – made more so by its confused backstory.\n\nTraditionally at least, there’s very little about alt country that can rightfully be considered prog. But then Wilco have never been your average roots band.\n\nBy 2001 they’d issued three albums of country-ish rock with nods to The Replacements, Big Star and Uncle Tupelo, the latter being the former vehicle of Wilco chief Jeff Tweedy. These were records that bled freely into soul, R&B and hard rock, each one an incremental shift from its predecessor in terms of ambition.\n\nYet no one was quite prepared for\n\nYankee Hotel Foxtrot\n\n: a dizzying confection of avant-garde flourishes, arty prog and weird noise, wrapped in just enough melodic know-how to make it utterly palatable.\n\nSuch a record warranted its own creation myth. And boy did it have one. Initially due on September 11 – a portent in itself – Reprise pulled the release, citing what they considered a lack of commercial appeal. The upshot was that Wilco acquired the rights and streamed it free on their website.\n\nYankee Hotel Foxtrot\n\nfinally found a home on Nonesuch, who released it in April 2002. The great irony was that both Nonesuch and Reprise were imprints of AOL Time Warner – in effect, the parent company had bought the album twice.\n\nRelations within the band were equally confused. Drummer Ken Coomer (at Tweedy’s side since Uncle Tupelo) was ousted in favour of the more flexible Glenn Kotche, deemed a better choice to carry off the album’s percussive tics and rhythms.\n\nCo-songwriter Jay Bennett was fired on the project’s completion, after much conflict over Tweedy’s decision to bring in leftfield producer Jim O’Rourke as mixer/engineer.\n\nThe greatest irony of it all was that\n\nYankee Hotel Foxtrot –\n\nas suggested by its title – was an album about communication. Or, more pertinently, our struggle to do so on both a personal and global level. This disconnect was echoed by Tweedy’s use of transmitter static as a recurring motif amid songs that swapped moods as if governed by a random dial.\n\nDistorted guitars elide into experimental jazz on\n\nWar On War\n\n; dissonant art-rock flirts with musique concrète on the epic\n\nI Am Trying To Break Your Heart\n\n; samples from shortwave stations seep into\n\nPoor Places\n\n, rife with electronic effects and semi-classical tones.\n\nComplex, adventurous and often very beautiful indeed,\n\nYankee Hotel Foxtrot\n\nis progressive in the truest sense. And, in light of the fact that it remains Wilco’s biggest seller by some distance – proof that populism and daring need not be mutually exclusive.",
-      "tags": "Albums Music",
-      "category": "Прогрессив",
-      "published": "2026-10-13T15:00:00+00:00",
-      "id": "602481439bf9bba7eec8f9162f76d250c5b31ade",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Black Sabbath's Tony Iommi says Ozzy Osbourne's passing has made him reflect on his own mortality",
-      "link": "https://www.loudersound.com/bands-artists/black-sabbath-tony-iommi-says-ozzy-osbourne-death-has-made-him-reflect-on-his-own-mortality",
-      "rss_body": "Black Sabbath\n\nlegend Tony Iommi has admitted that the death of his bandmate\n\nOzzy Osbourn\n\ne has made him reflect on his own mortality.\n\nIn a new interview with\n\nThe Telegraph\n\n, the guitarist is asked whether his friend's death has served to remind him of his own mortality, to which he responds, “Yes, it does. A lot.\n\n\"I’ve had a few friends go now,\" he says, \"and you think: Blimey, hang on, I’m 78, how much longer? You\n\ndo\n\n. [\n\nQueen\n\nguitarist] Brian May and myself have this conversation. He’s more dismal than me. Bloody hell.\"\n\nIn the interview, Iommi also recalls his final conversation with Osbourne, on July 21 last year, the day before the singer died.\n\n“Ozzy said, ‘I’m really tired. I’m absolutely shattered,\" Iommi recalls. \"I said, Well, it’s been a tough few weeks. You’re bound to be.\"\n\nThe guitarist remembers telling his friend to take it easy and get some rest.\n\n\"He went, ‘Yeah, I’ll try to do that.’ And that was it. Then I heard the next day that he’d gone. And that was... weird.\"\n\n\"He was a part of my life for 60 years. I do miss him.\"\n\nRecently, producer Andrew Watt claimed that Iommi, Osbourne and Geezer Butler wanted to make one more album with the group's original line-up in the early 2020s, but that the idea never got off the ground because drummer Bill Ward couldn't commit to the idea.\n\nIommi's recollection\n\nof this is somewhat different.\n\n\"I’d met Andrew Watt when he was producing Ozzy,\" Iommi recalled to\n\nClassic Rock\n\n. “He was very keen and a bit too excited. He also didn’t know what it was like working with the original Sabbath, working with Bill. Also, we’d done\n\n13\n\n, and I didn’t like the idea of: ‘Now here's another album'.\"\n\nIommi is set to release a solo album,\n\nFrom the Dark\n\non October 23 on BMG. The guitarist has previewed the album with the release of singles\n\nWorld Alone\n\nand\n\nStormwatcher\n\n.",
-      "tags": "Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-10-13T15:00:00+00:00",
-      "id": "c22e8131dcd6143c64d53729ec2d3d997e077d58",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "UDO DIRKSCHNEIDER и сын: «Сейчас лейблы творят много дичи!»",
-      "link": "http://www.darkside.ru/news/184370/",
-      "rss_body": "В недавнем интервью с семьей DIRKSCHNEIDER был задан вопрос о том, в чём заключается разница между тем, как создаётся музыка сегодня, и как она создавалась четыре десятилетия назад назад. Sven, которому 32 года, ответил:\n\n«Самое большое отличие было в том, что Udo и другие ребята из ACCEPT работали в абсолютно свободном стиле. Они не понимали, что делают. Они просто сочиняли песни. Возможно, у них было какое-то направление, к которому они стремились, но они приходили в репетиционный зал, кто-то придумывал рифф, и тогда они начинали сочинять песню. Сейчас всё уже заранее продумывается. Если ты хочешь заниматься этим жанром, ты должен делать нечто определённое, и есть некоторые правила, чего не стоит делать. Из серии: делай вот это или это, и существует много поджанров основного жанра, поэтому иногда очень трудно следовать правилам. Теперь у нас есть даже \"dwarf-металл\"... Для меня это безумие.\n\nКонечно, здорово, что создаётся что-то новое, но иногда это, я бы сказал, немного странно. Почему бы нам просто не назвать это тяжёлым металлом? Мы можем сказать, что такое дэт-металл. Мы можем сказать, что такое трэш-металл. Всё это понятно. Но кто-то придумал \"dwarf-металл\"! Я не понимаю. Извините. Но это самое главное, что изменилось с тех пор. У группы должна быть концепция. Все эти концептуальные группы, когда люди могут взаимодействовать с артистами, надеть маску или разрисовать лицо, а потом прийти на концерт и по-настоящему проникнуться атмосферой, — это изменило ситуацию. Раньше ничего подобного не было.\n\nМожет быть, люди хотели носить одежду, которую видели на каком-то конкретном исполнителе, но это точно не то, что мы видим сегодня у POWERWOLF и SABATON. А что ещё? С GHOST похожая история. Все эти группы концептуальные. Они следуют концепции. И мне очень интересно наблюдать, например, за тем, как SABATON пошли по этому историческому пути, писали о конкретных исторических событиях, а теперь им нужно найти что-то, во что они могли бы погрузиться. И в этом они настоящие мастера, я бы сказал, потому что, на мой взгляд, у Pär [Sundström] было такое видение с самого начала. Он уже знал, в каком направлении они будут двигаться через 10 лет, а для этого нужно быть очень умным и сообразительным. Думаю, ничего подобного не было в те времена».\n\nЧто касается того, чем новые металл-группы могут выделиться на фоне остальных представителей современной сцены, Udo сказал:\n\n«Я думаю, что самое важное для группы, которая занимается музыкой и хочет выжить в этом бизнесе, — это сочинять песни. Могу сказать, что мы в ACCEPT и U.D.O. написали много песен, которые уже стали классикой. Возьмём, к примеру, \"Smoke On The Water\" DEEP PURPLE: эту песню можно будет исполнять и через 30 лет, и вообще когда угодно. То же самое с песней ACCEPT \"Balls To The Wall\" . Это песня, которую можно исполнять где угодно. Люди проникаются этой песней, в том числе молодёжь. Иногда я нахожусь на сцене и думаю: \"Как это возможно?\" Парням может быть по 16 или 17 лет, но они поют всю песню от начала до конца. Это значит, что мы написали стоящие песни, и я считаю, что это очень важно для создания музыки.\n\nНе нужно писать песни по 12 минут, с кучей изменений и так далее. Никто не сможет за этим угнаться. Я говорю о настоящих песнях, которым люди могут подпевать. Я думаю, что в наши дни не так-то просто сделать что-то подобное. Но сейчас, я думаю, это более важно для новых групп, мы говорим о SABATON или POWERWOLF, и нужно что-то, что выделит вас из всех этих групп. Сейчас появилось много групп. В этом также разница между 1980-ми и сегодняшним днём.\n\nВ 1980-х было не так уж много групп. Были SCORPIONS, ACCEPT и MOTLEY CRUE, IRON MAIDEN, JUDAS PRIEST, MOTÖRHEAD. В то время их было не так уж много. Но сейчас, на мой взгляд... Звукозаписывающие компании сами создают себе проблемы, подписывая контракты со слишком большим количеством групп. Мы можем обсудить бизнес звукозаписывающих компаний. Я думаю, они многое делают неправильно».\n\n#Dirkschneider #HeavyMetal #Heavy_Metal #MelodicHard 'n' Heavy #Melodic_Hard 'n' Heavy",
-      "tags": "",
-      "category": "Хард-рок",
-      "published": "2026-10-13T14:43:33+00:00",
-      "id": "96f42f47a52793b8906c057d1727d249d5fac416",
-      "retry_after": 0
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Subterranean Dissonance Festival Announces Tony Danza Tapdance Extravaganza, Cave In and More for 2027 Edition",
-      "link": "https://www.decibelmagazine.com/2026/10/13/subterranean-dissonance-festival-announces-tony-danza-tapdance-extravaganza-cave-in-and-more-for-2027-edition/",
-      "rss_body": "Subterranean Dissonance Festival\n\n, hosted yearly in Philadelphia at Underground Arts, has announced the majority of its 2027 lineup, featuring\n\nThe Tony Danza Tapdance Extravaganza\n\nperforming their first Philly set in over 16 years,\n\nCave In\n\n,\n\nToday is the Day\n\n(\n\nTemple of the Morning Star\n\nset),\n\nPlanning for Burial\n\n(\n\nBelow the House\n\nset) and a dozen other performances.\n\nThe whole thing goes down on Friday, February 5 and Saturday, February 6, 2027.\n\n“Taking a year off gave us the opportunity to come back with the strongest lineup we could have dreamed up. I’m especially proud that it features several bands we’ve been trying to land since year one, some truly rare performances and incredible representation from our beloved Philly scene,” Subterranean Dissonance curator Graham Noel says of the event.\n\nCheck out the full lineup below. Tickets officially go on sale on Friday, October 16 at 10am, but\n\nDecibel\n\nhas partnered for early access (and to save you a few bucks!) if you\n\nuse pre-sale code\n\nDECIBEL\n\nfrom now until October 16.\n\nFebruary 5, 2027\n\nCave In\n\nPrimitive Man\n\nInter Arma\n\nCrowhurst\n\nAlustrium\n\nLástima\n\nCountdown From Ten\n\nFebruary 6, 2027\n\nThe Tony Danza Tapdance Extravaganza\n\nPortrayal of Guil\n\nToday Is the Day\n\nPlanning for Burial\n\nMy Wife’s an Angel\n\nMaria BC\n\nVile Form\n\nShardik",
-      "tags": "News Cave In Crowhurst inter arma Portrayal of Guilt primitive man Subterranean Dissonance The Tony Danza Tapdance Extravagnaza",
-      "category": "Хэви-метал",
-      "published": "2026-10-13T14:15:58+00:00",
-      "id": "facbb7c14380e3fe765ee8919c55e2f337c64dc9",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео HYPNO5E",
-      "link": "http://www.darkside.ru/news/184277/",
-      "rss_body": "Trame Noire, новое видео HYPNO5E, доступно для просмотра. Этот трек взят из нового альбома \"Trame Noire\", выход которого намечен на шестое ноября на Pelagic Records.\n\n«В клипе на песню «Trame Noire» — заглавную композицию нашего нового альбома — я хотел воплотить в образах темы, проходящие красной нитью через всю мою музыку: воспоминания, утрата, сны и призраки прошлого.\n\nЯ сам снял это видео, работая с моделями, коллажами, рисунками и различными приёмами наложения изображений. Путешествие по этим меняющимся пространствам и призраки, населяющие их, — это фрагменты воспоминаний героя, обречённого бродить по этому миру. Он сталкивается со следами того, что ему пришлось пережить, но также и со своим собственным образом, который возвращается, словно ещё один призрак.\n\nПамять становится материалом, который повторяется, искажается и бесконечно всплывает на поверхность. Это замкнутый круг, из которого нет выхода, словно личное проклятие, где прошлое всегда находит путь обратно в настоящее».",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-13T14:02:19+00:00",
-      "id": "15cbdbeb68de50589ab1a275a78a5af6edeffe69",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "BEHEMOTH: “I, SCVLPTOR”",
-      "link": "https://www.nocleansinging.com/2026/10/13/behemoth-i-scvlptor/",
-      "rss_body": "(Here is NCS writer DGR’s take on the assembly of songs released by Behemoth, Massacre Records, and Nuclear Blast in September under the title of I, Scvlptor.) Even though yours truly is personally knee-deep in slowly trudging through a backlog that is forever growing for a series of articles that have rapidly spun out of\n\n[...]",
-      "tags": "Album Reviews Behemoth DGR",
-      "category": "Экстремальный метал",
-      "published": "2026-10-13T13:54:50+00:00",
-      "id": "b4208857495f559ae218b1d2a0e7d89122481e13",
-      "retry_after": 0
+      "retry_after": 1792287390
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3836,18 +3772,6 @@
       "retry_after": 0
     },
     {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "SEEN AND HEARD: RADIANT KNIFE, NIHILO, ANCESTROS, GNULL, SUNDOWNER, GHÂSIQIN",
-      "link": "https://www.nocleansinging.com/2026/10/13/seen-and-heard-radiant-knife-nihilo-ancestros-gnull-sundowner-ghasiqin/",
-      "rss_body": "(written by Islander) We’ve had a couple of reviews today that are well worth reading — DGR’s take on Behemoth’s new compilation and Andy Synn’s writing about the fantastic new album from Great Falls. I was supposed to prepare the premiere of a full album stream for today as well, but that fell through because\n\n[...]",
-      "tags": "Album Reviews Metal News RANDOM FUCKING MUSIC East",
-      "category": "Экстремальный метал",
-      "published": "2026-10-13T18:59:56+00:00",
-      "id": "54dddfaba078f0b1373d96a49e32118a07cb2c49",
-      "retry_after": 1791992328
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "Watch: Tetrarch Guitarist Diamond Rowe Covers Metallica on ‘Sunday Night Football’",
@@ -3857,7 +3781,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T18:54:54+00:00",
       "id": "0bc34f73ce3a3bd4aab3f2118e879131426eafce",
-      "retry_after": 1791992328
+      "retry_after": 1792287382
     },
     {
       "source": "Metal Injection",
@@ -3869,7 +3793,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T17:17:37+00:00",
       "id": "6e57911a7743ad43cbb0c228a83d313ae826bb57",
-      "retry_after": 1791992328
+      "retry_after": 1792287382
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3881,7 +3805,7 @@
       "category": "Прогрессив",
       "published": "2026-10-13T17:03:04+00:00",
       "id": "19ed93ba39ae6d8df8b72eef8ab84fed711e541c",
-      "retry_after": 1791992352
+      "retry_after": 1792287386
     },
     {
       "source": "Metal Injection",
@@ -3893,7 +3817,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T14:29:26+00:00",
       "id": "763e15189ce9457ccfc94db35b8bf0ab36b0b73c",
-      "retry_after": 1791992211
+      "retry_after": 1792287374
     },
     {
       "source": "No Clean Singing",
@@ -3905,7 +3829,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-14T13:50:53+00:00",
       "id": "ec5d5018bd5a2da6a26d2be63d29fc90708fbe85",
-      "retry_after": 1791992261
+      "retry_after": 1792287375
     },
     {
       "source": "Metal Injection",
@@ -3917,7 +3841,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T19:10:15+00:00",
       "id": "876f0e380ed29bab07d20ff6f276f4eb5127cf8d",
-      "retry_after": 1792280305
+      "retry_after": 1792287366
     },
     {
       "source": "Metal Injection",
@@ -3929,7 +3853,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T18:29:41+00:00",
       "id": "1834789368e897d2953ea559c83ebc82f22da77e",
-      "retry_after": 1792280305
+      "retry_after": 1792287367
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3941,7 +3865,7 @@
       "category": "Хард-рок",
       "published": "2026-10-14T18:20:40+00:00",
       "id": "ff16b61cfefd0d8d20a1469a1d16616fb4fe7420",
-      "retry_after": 1792280308
+      "retry_after": 1792287370
     },
     {
       "source": "Metal Injection",
@@ -3953,19 +3877,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T16:23:37+00:00",
       "id": "55523d2252c09131aa39f7d0fe81c81e5cac2c33",
-      "retry_after": 1792280329
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "DREAM THEATER начали работу над альбомом",
-      "link": "http://www.darkside.ru/news/184484/",
-      "rss_body": "DREAM THEATER опубликовали фотографию всех участников в студии, снабдив её лаконичным комментарием: \"#DT17 is underway…\".",
-      "tags": "",
-      "category": "Прогрессив",
-      "published": "2026-10-14T15:10:03+00:00",
-      "id": "1353c7429f4358200e588fde1a879832df56c1c2",
-      "retry_after": 0
+      "retry_after": 1792287370
     },
     {
       "source": "Louder",
@@ -3977,7 +3889,7 @@
       "category": "Прогрессив",
       "published": "2026-10-15T15:09:41+00:00",
       "id": "b8627ce094e15f871bb133333c9bfc54fbccab43",
-      "retry_after": 1792280295
+      "retry_after": 1792287366
     },
     {
       "source": "Metal Injection",
@@ -3989,7 +3901,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T14:27:45+00:00",
       "id": "b8813643295210f92ea2a5445221cc8716d1da1a",
-      "retry_after": 1792280295
+      "retry_after": 1792287366
     },
     {
       "source": "Metal Injection",
@@ -4001,7 +3913,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T13:38:42+00:00",
       "id": "85748d127186f72494688a79d3cef331539f30f2",
-      "retry_after": 1792280301
+      "retry_after": 1792287366
     },
     {
       "source": "Metal Injection",
@@ -4013,7 +3925,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T12:33:17+00:00",
       "id": "4da71dd62974056053bdf4743d7dc2a8927284cb",
-      "retry_after": 1792280301
+      "retry_after": 1792287366
     },
     {
       "source": "Metal Injection",
@@ -4025,7 +3937,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:00:00+00:00",
       "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
-      "retry_after": 1792280289
+      "retry_after": 1792287360
     },
     {
       "source": "Metal Injection",
@@ -4037,7 +3949,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T17:10:18+00:00",
       "id": "4d9f2be08e5b1d74c24967411ca765a3963a5141",
-      "retry_after": 1792280289
+      "retry_after": 1792287360
     },
     {
       "source": "Metal Injection",
@@ -4049,7 +3961,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T15:23:41+00:00",
       "id": "14906496ce8d34abc3e4c5bd74c18eff90dc1185",
-      "retry_after": 1792280289
+      "retry_after": 1792287360
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4061,7 +3973,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T20:49:09+00:00",
       "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
-      "retry_after": 1792280289
+      "retry_after": 1792287360
     },
     {
       "source": "Metal Injection",
@@ -4073,7 +3985,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:25:10+00:00",
       "id": "77b1588e20715ae846658427185c711f41edfa37",
-      "retry_after": 1792280289
+      "retry_after": 1792287360
     },
     {
       "source": "Louder",
@@ -4085,7 +3997,7 @@
       "category": "Прогрессив",
       "published": "2026-10-16T02:29:27+00:00",
       "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
-      "retry_after": 1792280286
+      "retry_after": 1792287357
     },
     {
       "source": "Louder",
@@ -4100,7 +4012,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792280279
+      "retry_after": 1792287351
     },
     {
       "source": "Metal Injection",
@@ -4112,7 +4024,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
-      "retry_after": 1792280279
+      "retry_after": 1792287351
     },
     {
       "source": "Metal Injection",
@@ -4124,7 +4036,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
-      "retry_after": 1792280279
+      "retry_after": 1792287351
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4136,7 +4048,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T12:17:13+00:00",
       "id": "2a02732b6da7dc076e27515808483943e76cb609",
-      "retry_after": 1792280281
+      "retry_after": 1792287353
     },
     {
       "source": "Metal Injection",
@@ -4152,7 +4064,7 @@
         "73ecf77997afc50510be4de8d18c56581c68c2f2",
         "1281d9679035a6042490add57117ba0078a761ea"
       ],
-      "retry_after": 1792280279
+      "retry_after": 1792287351
     },
     {
       "source": "Metal Injection",
@@ -4164,7 +4076,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 1792280274
+      "retry_after": 1792287347
     },
     {
       "source": "Metal Injection",
@@ -4176,7 +4088,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:44:42+00:00",
       "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
-      "retry_after": 1792280274
+      "retry_after": 1792287347
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4188,7 +4100,7 @@
       "category": "Хард-рок",
       "published": "2026-10-16T20:17:21+00:00",
       "id": "e805e03bc54fd9322f376df430db0cbb59d68271",
-      "retry_after": 1792280273
+      "retry_after": 1792287347
     },
     {
       "source": "Metal Injection",
@@ -4200,7 +4112,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792280273
+      "retry_after": 1792287347
     },
     {
       "source": "Metal Injection",
@@ -4212,7 +4124,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792280257
+      "retry_after": 1792287344
     },
     {
       "source": "Louder",
@@ -4224,7 +4136,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792280257
+      "retry_after": 1792287344
     },
     {
       "source": "Louder",
@@ -4236,7 +4148,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T10:00:00+00:00",
       "id": "c1ea453807d8fcbdf823e5a66dd8b50643c15a98",
-      "retry_after": 1792280254
+      "retry_after": 1792287341
     },
     {
       "source": "Metal Injection",
@@ -4248,7 +4160,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-17T14:23:28+00:00",
       "id": "1c5cfbe84a92e91546a4f726ca221c8ac38f37ae",
-      "retry_after": 1792280238
+      "retry_after": 1792287334
     },
     {
       "source": "Metal Injection",
@@ -4260,7 +4172,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T15:46:43+00:00",
       "id": "17fb72fb196f9cfc779369925273ef76e14f814e",
-      "retry_after": 1792280238
+      "retry_after": 1792287334
     },
     {
       "source": "Metal Injection",
@@ -4272,7 +4184,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T14:56:10+00:00",
       "id": "75aefeb86fd73e4c90547f178d35ec6916166b04",
-      "retry_after": 1792280238
+      "retry_after": 1792287334
     },
     {
       "source": "Metal Injection",
@@ -4284,7 +4196,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T18:20:57+00:00",
       "id": "dfaa87e155fc4630bcaf24b6f82ebeb9dbeb28ea",
-      "retry_after": 1792280237
+      "retry_after": 1792287334
     }
   ]
 }

@@ -5121,7 +5121,7 @@
         "releases"
       ],
       "media_checked_at": 1792160890,
-      "translation_last_attempt": 1792279924
+      "translation_last_attempt": 1792287028
     },
     {
       "id": "7f93b387dec8817cc0a3a9d07f21b5392240b6be",
@@ -6997,8 +6997,7 @@
         "live"
       ],
       "media_checked_at": 1792111355,
-      "translation_last_attempt": 1792273625,
-      "translation_pending": true
+      "translation_last_attempt": 1792287028
     },
     {
       "id": "084a03eebc53b8721ab9596d80e6deeda5f3bab4",
@@ -8164,7 +8163,8 @@
         "releases"
       ],
       "media_checked_at": 1792091906,
-      "translation_last_attempt": 1792279924
+      "translation_last_attempt": 1792279924,
+      "translation_pending": true
     },
     {
       "id": "8d20acc305d16928c214da17831fc87c939fc259",
@@ -9218,7 +9218,7 @@
       ],
       "original_title": "AN NCS PREMIERE: DEVIL’S HOUR — “HELLBOUND & HAMMERED”",
       "topics": [],
-      "media_checked_at": 1792077686
+      "media_checked_at": 1792287196
     },
     {
       "id": "9374528d8fdbd14bc67f8097d8f4ae3254a4cdc9",
@@ -9347,7 +9347,7 @@
         },
         {
           "type": "image",
-          "url": "https://www.decibelmagazine.com/wp-content/uploads/2026/09/70000-Tons-of-Metal-September-2026-animated-content-banner.gif",
+          "url": "https://www.decibelmagazine.com/wp-content/uploads/2026/09/Burial-Site-September-2026-content-banner.png",
           "caption": ""
         },
         {
@@ -9359,6 +9359,11 @@
           "type": "link",
           "url": "https://www.facebook.com/profile.php?id=100063556804614",
           "caption": "Here"
+        },
+        {
+          "type": "link",
+          "url": "https://burialsitedoom.bandcamp.com/album/deathdrone",
+          "caption": ""
         }
       ],
       "original_paragraphs": [
@@ -9377,7 +9382,7 @@
       ],
       "original_title": "Bloodshoteye’s “The Slaughterhouse Romance”: Defunct Death Metal Band Takes on a Dead Serial Killer",
       "topics": [],
-      "media_checked_at": 1792077686
+      "media_checked_at": 1792287196
     },
     {
       "id": "b59a2327112f06afef604db8d90d26fafadb951f",
@@ -9855,7 +9860,7 @@
       "topics": [
         "live"
       ],
-      "media_checked_at": 1792059893
+      "media_checked_at": 1792287190
     },
     {
       "id": "5c00752dbc898b1587c702210cfde374ae9e63d6",
@@ -9906,7 +9911,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792059894
+      "media_checked_at": 1792287192
     },
     {
       "id": "e3d9b7bd494d1fb6e245d703a30daf59589967c6",
@@ -9942,11 +9947,6 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/yUkhaaUNdkW3xGTvPihniP.jpg",
-          "caption": "Evanescence in 2026 and Metallica in 2026"
-        },
-        {
-          "type": "image",
           "url": "https://cdn.mos.cms.futurecdn.net/yvHAdZiqaYC8UqkznUjEFS.jpg",
           "caption": "Nene Royal and Avenged Sevenfold"
         },
@@ -9962,13 +9962,18 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/SJynHHFS2h3niwXxtcCU9S.jpg",
-          "caption": ""
+          "url": "https://cdn.mos.cms.futurecdn.net/sijJS2jHUY2tMUUMqbtfkZ.jpg",
+          "caption": "Metallica studio portrait"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/iDPf9BXSeGnhmRMJ6pygQZ.jpg",
-          "caption": "Deftones at APE /Outbreak"
+          "url": "https://cdn.mos.cms.futurecdn.net/mdpn95TawRVnmn52vN449X.jpg",
+          "caption": "AMERICA&#039;S GOT TALENT - Nene Royal, Linkin Park"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/VimHfmGFzRVDR48QDDW2tg.jpg",
+          "caption": "Bruce Dickinson of Iron Maiden"
         },
         {
           "type": "image",
@@ -9992,43 +9997,33 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/DAAXDtoZboTdFXZt6bfvaJ.jpg",
-          "caption": "Metallica’s James Hetfield performing onstage in 2025"
+          "url": "https://cdn.mos.cms.futurecdn.net/bcFMFBUaoqyGYkUvfpQ2eJ.png",
+          "caption": "Randy Blythe of Lamb Of God performs during the 2026 Bloodstock Festival at Catton Hall on August 07, 2026 in Derby, England"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/WnqmyFnodSAkp3yeHP3puf.jpg",
-          "caption": "Floor Jansen onstage in 2026"
+          "url": "https://cdn.mos.cms.futurecdn.net/vHGKxrRsuFKMgNPjHZK6iX.jpg",
+          "caption": "Glenn Hughes at Sweden Rock Festival on June 07, 2025"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/8QiGDySuBFzJvXH4QWYXUT.jpg",
-          "caption": "Nikki Sixx onstage"
+          "url": "https://cdn.mos.cms.futurecdn.net/6aatqGU8SLc2LBm4K4WAoB.jpg",
+          "caption": "Sam Carter screaming on stage"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/LHuEKrn8gGZcQBxyDnBSQd.jpg",
-          "caption": "British Lion group portrait"
+          "url": "https://cdn.mos.cms.futurecdn.net/8bxJaz8shdT2kKEseckFVe.jpg",
+          "caption": "A young, AI-generated KK Downing steps off a bus holding a guitar case "
         },
         {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/Q26nycXWd7DkVc6TN6riBL.png",
-          "caption": "Pavlov&#039;s Dog singer David Surkamp"
+          "type": "link",
+          "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.loudersound.com%2Fbands-artists%2Flive-performances%2Ftetrarch-diamond-atlanta-falcons-metallica",
+          "caption": "Facebook"
         },
         {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/tR8YdxbEFbhdK4zDnhNThc.jpg",
-          "caption": "The Rolling Stones"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/FzqgCGJoHmKkXQd4wE6vVm.jpg",
-          "caption": "Taylor Momsen"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/YnpGcsnUVwVYmzKAoPWrsT.jpg",
-          "caption": "The velvet-voiced symphonic metal singer details the soundtrack of her life"
+          "type": "link",
+          "url": "https://twitter.com/intent/tweet?text=%22I%E2%80%99m+the+first+artist+they%27ve+allowed+to+walk+out+of+the+tunnel%21%22+Watch+Tetrarch+guitarist+Diamond+Rowe+make+history+by+shredding+Metallica+in+front+of+70%2C000+NFL+fans+before+the+Atlanta+Falcons+vs+Baltimore+Ravens+game&url=https%3A%2F%2Fwww.loudersound.com%2Fbands-artists%2Flive-performances%2Ftetrarch-diamond-atlanta-falcons-metallica",
+          "caption": "X"
         }
       ],
       "original_paragraphs": [
@@ -10072,7 +10067,7 @@
       ],
       "original_title": "Watch Tetrarch's Diamond Rowe shred Metallica in front of 70,000 NFL fans",
       "topics": [],
-      "media_checked_at": 1792059895
+      "media_checked_at": 1792287192
     },
     {
       "id": "a0678733ee215f88560d59c2d0fa82fbd4a8c00e",
@@ -10103,7 +10098,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792059896
+      "media_checked_at": 1792287194
     },
     {
       "id": "3fbef7bc15ec8fe1ee11f525c39e48b4439bfc22",
@@ -10134,7 +10129,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792059897
+      "media_checked_at": 1792287195
     },
     {
       "id": "4b22ca0f5425c795127a6c623273b844233c9ea7",
@@ -10226,8 +10221,13 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/wKEbaxWczfgUjyD7tdh59j.jpg",
-          "caption": "Evanescence’s Amy Lee posing for a photograph in 2006"
+          "url": "https://cdn.mos.cms.futurecdn.net/dxq7tTvPhfqGi4fNeSns5d.jpg",
+          "caption": "Nightwish press 2026"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/hEnb2fuMdsZbmZ6pQhMtKC.jpg",
+          "caption": "Rick Wakeman 2026"
         },
         {
           "type": "image",
@@ -10256,13 +10256,8 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/3PNLK5dbhKFPKyBarjrTiC.jpg",
-          "caption": "Jon Anderson performing during a solo acoustic set on stage at Under The Bridge in London, on August 10, 2013. (Photo by Will Ireland/Prog Magazine/Future via Getty Images/Future via Getty Images)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/E2z3VGUaw4y3GczToAiV37.jpg",
-          "caption": "UNSPECIFIED - CIRCA 1970:  Photo of Jethro Tull  Photo by Michael Ochs Archives/Getty Images"
+          "url": "https://cdn.mos.cms.futurecdn.net/SXsiewuBrdSnu8TenKfFK.jpg",
+          "caption": "Bobbie Dazzle and Thijs van Leer"
         }
       ],
       "original_paragraphs": [
@@ -10298,7 +10293,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792059897
+      "media_checked_at": 1792287196
     },
     {
       "id": "fa300b1603e3b8e8a3e5f7bf2f0f582528f838b5",
