@@ -5475,7 +5475,7 @@
         "releases"
       ],
       "media_checked_at": 1792160890,
-      "translation_last_attempt": 1792323647
+      "translation_last_attempt": 1792335123
     },
     {
       "id": "7f93b387dec8817cc0a3a9d07f21b5392240b6be",
@@ -7082,7 +7082,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792103472
+      "media_checked_at": 1792335648
     },
     {
       "id": "67471967bfa108b1cb741be152bca10e945b218f",
@@ -7113,7 +7113,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792103473
+      "media_checked_at": 1792335649
     },
     {
       "id": "4595dcac4d470f04a162230a2022c5d1c52f18a0",
@@ -7311,7 +7311,7 @@
       ],
       "original_title": "SAMMY HAGAR: «С Боном Скоттом AC/DC были настоящим рок-н-роллом»",
       "topics": [],
-      "media_checked_at": 1792103475
+      "media_checked_at": 1792335651
     },
     {
       "id": "8718a2b63e6e5145586c26d6f0e221dd8772910c",
@@ -7351,7 +7351,8 @@
         "live"
       ],
       "media_checked_at": 1792111355,
-      "translation_last_attempt": 1792323647
+      "translation_last_attempt": 1792323647,
+      "translation_pending": true
     },
     {
       "id": "084a03eebc53b8721ab9596d80e6deeda5f3bab4",
@@ -7654,7 +7655,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792103475
+      "media_checked_at": 1792335651
     },
     {
       "id": "d4c7e2ccb4a253ee0ddbb1df388a2e839a4f78af",
@@ -7691,7 +7692,7 @@
       ],
       "original_title": "Extinction A.D. Share Their Cover Of Alice Cooper’s “Feed My Frankenstein”",
       "topics": [],
-      "media_checked_at": 1792103475
+      "media_checked_at": 1792335651
     },
     {
       "id": "d7cfe7f2dcc60d3ce63ebcb2840a48ee8deeff8d",
@@ -7725,7 +7726,7 @@
       "artists": [],
       "original_title": "Old Man Gloom Booked For Brooklyn, NY Show With High On Fire",
       "topics": [],
-      "media_checked_at": 1792103475
+      "media_checked_at": 1792335652
     },
     {
       "id": "4becddfe1b9fd1edf230148603eda74b16f9b467",
@@ -7791,7 +7792,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792103477
+      "media_checked_at": 1792335653
     },
     {
       "id": "324a82f301361e46f9cff9701861a7bfa6d41dc7",
@@ -7823,7 +7824,7 @@
       "topics": [
         "live"
       ],
-      "media_checked_at": 1792103477
+      "media_checked_at": 1792335653
     },
     {
       "id": "904e548719413b36d00e54640236259686fb4afa",
@@ -8517,8 +8518,7 @@
         "releases"
       ],
       "media_checked_at": 1792323942,
-      "translation_last_attempt": 1792305209,
-      "translation_pending": true
+      "translation_last_attempt": 1792335122
     },
     {
       "id": "8d20acc305d16928c214da17831fc87c939fc259",
