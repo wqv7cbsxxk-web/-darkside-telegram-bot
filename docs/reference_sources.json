@@ -26980,6 +26980,357 @@
           "source_url": "https://musicbrainz.org/release-group/fd27771e-1b02-451b-aad2-e84921dab0ac"
         }
       ]
+    },
+    "twisted-sister": {
+      "name": "Twisted Sister",
+      "musicbrainz_url": "https://musicbrainz.org/artist/c6122fee-089f-41c4-a34f-e5f7e5607b05",
+      "reference_checked_at": "2026-10-19T04:47:14.313157+00:00",
+      "genres": "glam, glam metal, glam rock, hard rock, heavy metal, metal",
+      "website": "http://www.twistedsister.com/",
+      "members": [
+        {
+          "name": "Eddie Ojeda",
+          "role": "background vocals, guitar",
+          "begin": "1975"
+        },
+        {
+          "name": "Dee Snider",
+          "role": "lead vocals",
+          "begin": "1976"
+        },
+        {
+          "name": "Mark Mendoza",
+          "role": "background vocals, bass guitar",
+          "begin": "1978"
+        },
+        {
+          "name": "Sebastian Bach",
+          "role": "lead vocals",
+          "begin": "2026-03-03"
+        },
+        {
+          "name": "Joey Cassata",
+          "role": "",
+          "begin": null
+        },
+        {
+          "name": "Jay Jay French",
+          "role": "background vocals, guitar",
+          "begin": null
+        },
+        {
+          "name": "Jay Jay French",
+          "role": "",
+          "begin": null
+        },
+        {
+          "name": "Eddie Ojeda",
+          "role": "",
+          "begin": null
+        },
+        {
+          "name": "Russell Pzutto",
+          "role": "",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/c6122fee-089f-41c4-a34f-e5f7e5607b05",
+      "albums": [
+        {
+          "name": "2003-04-12: Come Back Out to Play in 2003, Poughkeepsie, NY, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/079f66eb-aa2c-3d27-9336-56893fd219b3"
+        },
+        {
+          "name": "Rock ’n’ Roll Saviors (The Early Years)",
+          "date": "2016-07-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0a177bf5-8960-45a8-892c-e6b9b4905b79"
+        },
+        {
+          "name": "Live in Barcelona",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1273ba84-cea5-4032-9eab-4f416928214c"
+        },
+        {
+          "name": "A Twisted X-Mas (live at the Las Vegas Hilton, Las Vegas, Nv/2009)",
+          "date": "2012-10-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/174bbec7-3133-40e3-9bd1-3c2c4137411e"
+        },
+        {
+          "name": "Explode Into Space (Live, NY '80)",
+          "date": "2021-03-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/17794082-74a2-4489-bfc6-6cbb2ea70a0c"
+        },
+        {
+          "name": "Ruff Cutts",
+          "date": "1982",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/24d605d4-afcf-3a5f-9ac1-bddce496eb18"
+        },
+        {
+          "name": "You Can't Stop Rock ’n’ Roll",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/25881559-62f4-489e-8b09-71c4efdf17d2"
+        },
+        {
+          "name": "Легенды Зарубежного Рока",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2f0b865a-bde8-4d19-b95a-e69d2e694bad"
+        },
+        {
+          "name": "Big Hits and Nasty Cuts: The Best of Twisted Sister",
+          "date": "1992-03-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3101e685-c2cf-3dfe-b128-6b82e05a210c"
+        },
+        {
+          "name": "Twisted Sister / Ratt Concert",
+          "date": "1984",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/31aac887-e9e2-444d-a69c-d8fb9f24730e"
+        },
+        {
+          "name": "New York Steel",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/34ea7475-0213-3dbe-8c5e-6cc209faf69b"
+        },
+        {
+          "name": "Love Is for Suckers",
+          "date": "1987-07-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/35c7a395-0204-340b-9770-f8c6a5d6898d"
+        },
+        {
+          "name": "Metal Meltdown - Live From The Hard Rock Casino Las Vegas",
+          "date": "2016-07-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/35cdcef9-4a1e-434d-afb4-178a30216cb2"
+        },
+        {
+          "name": "Live at Hammersmith",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3de27468-5949-3103-be1a-c13fce108470"
+        },
+        {
+          "name": "Come Out and Play",
+          "date": "1985-11-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/46ab7885-1a30-4b08-9ca5-3c47c75ac26e"
+        },
+        {
+          "name": "Fighting for the Rockers",
+          "date": "2023",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4f2c1999-f97f-4df7-aa51-deefc92941f4"
+        },
+        {
+          "name": "Under the Blade",
+          "date": "1982",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/52e6e299-c51a-3537-ac0a-8c1978acc54a"
+        },
+        {
+          "name": "I Wanna Rock: The Ultimate Twisted Sister Collection",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/57af2461-0965-3b7a-baca-d46cec1a0e43"
+        },
+        {
+          "name": "The Best of Twisted Sister",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/61d0b057-fc18-33f1-abc7-70e01372e1fa"
+        },
+        {
+          "name": "I'll Never Grow Up, Now! / Under the Blade",
+          "date": "1979",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/628f1124-7744-4cfa-b5dc-1d634fe55110"
+        },
+        {
+          "name": "The Kids Are Back (Live)",
+          "date": "2020-01-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/69dec744-b1e3-45b1-aafa-38010aaddbdb"
+        },
+        {
+          "name": "Bad Boys (Of Rock 'n' Roll) / Lady's Boy",
+          "date": "1980",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/69f2e80b-19b9-4429-a84c-ffb5928317ce"
+        },
+        {
+          "name": "Rhino Hi‐Five: Twisted Sister",
+          "date": "2007-06-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6cf90d0a-3f85-4b86-b577-69efc69a3ae9"
+        },
+        {
+          "name": "I Wanna Rock",
+          "date": "1984",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6efc18f3-3187-438d-a41d-1103530e4636"
+        },
+        {
+          "name": "Feel Appeal: Love Is For Suckers Extras",
+          "date": "2021-04-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/78371944-f489-4fb8-bbf1-601437fea264"
+        },
+        {
+          "name": "Live... Past & Present",
+          "date": "2005-06-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/81ce2360-41b2-3c94-9781-a18af6207e61"
+        },
+        {
+          "name": "Still Hungry",
+          "date": "2004-08-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/82a42ad0-03fd-3281-bd28-648354344eab"
+        },
+        {
+          "name": "You Can’t Stop Rock ’n’ Roll",
+          "date": "1983",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/864bf5b7-bd42-3e95-9a31-729e2e9ea0e9"
+        },
+        {
+          "name": "We're Not Gonna Take It",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8ca27198-6deb-346b-9eb0-867c8326880a"
+        },
+        {
+          "name": "Knifes Out, New York Broadcast 1984",
+          "date": "2019-10-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/900ccf1e-9139-4032-a364-03870a2dfd71"
+        },
+        {
+          "name": "Twisted Sister / Ratt",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/994c9959-2565-44e1-967e-ef21366f29d0"
+        },
+        {
+          "name": "Club Daze Volume II: Live in the Bars",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9c611c78-d075-303b-b1c9-660daf708a8a"
+        },
+        {
+          "name": "Live at North Stage '82",
+          "date": "2011-07-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9cef6392-6525-4d4e-ac47-a12cc50f4b49"
+        },
+        {
+          "name": "The Best of the Atlantic Years",
+          "date": "2016-08-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a59dec6a-4cfb-4302-9c01-f3bc41db0147"
+        },
+        {
+          "name": "Live at the Astoria",
+          "date": "2008-11-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a8bf733c-84be-3cca-ad24-f43b0e80df52"
+        },
+        {
+          "name": "Club Daze Volume I: The Studio Sessions",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ad7d7574-f2d4-3f13-809b-9d15960faea3"
+        },
+        {
+          "name": "Live at Wacken: The Reunion",
+          "date": "2011-02-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c6eccb3d-a2ff-4435-a32a-5e5feb59a6ec"
+        },
+        {
+          "name": "The Kids Are Back",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c79c9932-d926-46ce-a902-a9e758724d9c"
+        },
+        {
+          "name": "Stay Hungry",
+          "date": "1984-05-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ce11e17f-1c1f-345e-9c41-e5f0010c3b53"
+        },
+        {
+          "name": "The Essentials",
+          "date": "2002-09-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cf8b2222-d5b4-4f42-915a-59eb117fcafc"
+        },
+        {
+          "name": "Official Singles",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d04d4a93-1ad5-4c68-95c9-b4fbfc458a0f"
+        },
+        {
+          "name": "I Am (I'm Me)",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d1464df6-0f9a-419d-9c80-0566bb695b5e"
+        },
+        {
+          "name": "A Twisted Christmas",
+          "date": "2006-10-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dbd9c0ab-9746-3d51-a695-dc1ea112f112"
+        },
+        {
+          "name": "Live at the Marquee Club",
+          "date": "2011-10-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ea348761-fe62-4d24-96db-d371e8d2e138"
+        },
+        {
+          "name": "Hammerheads 1980",
+          "date": "2025-12-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f46fdb47-c9cd-4384-b1dd-296987c8a393"
+        },
+        {
+          "name": "We're Not Gonna Take It and Other Hits",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f675a80a-f84d-36bf-bf9e-28834d0f1153"
+        },
+        {
+          "name": "Love Is For Suckers Demos 1987",
+          "date": "2019",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f714e135-5a38-45f2-bfa4-3ef9b308d5a0"
+        },
+        {
+          "name": "Heroes Are Hard to Find",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f7f92857-a8aa-3da1-ad59-86a87a0befed"
+        },
+        {
+          "name": "You Want What We Got",
+          "date": "1986",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f9052f67-77c2-4fe8-84c3-eb2ae89554d8"
+        }
+      ]
     }
   },
   "checked": {
@@ -27100,6 +27451,8 @@
     "the-rolling-stones": "2026-10-18T22:01:05.817812+00:00",
     "thin-lizzy": "2026-10-18T22:01:07.057528+00:00",
     "thrice": "2026-10-19T00:15:09.194575+00:00",
-    "tom-morello": "2026-10-19T00:15:13.131425+00:00"
+    "tom-morello": "2026-10-19T00:15:13.131425+00:00",
+    "tool": "2026-10-19T04:47:10.099022+00:00",
+    "twisted-sister": "2026-10-19T04:47:14.313313+00:00"
   }
 }
