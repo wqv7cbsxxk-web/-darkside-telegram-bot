@@ -27968,6 +27968,617 @@
           "source_url": "https://musicbrainz.org/release-group/fd384dbe-e118-4620-a28e-7098025f43a1"
         }
       ]
+    },
+    "van-halen": {
+      "name": "Van Halen",
+      "musicbrainz_url": "https://musicbrainz.org/artist/b665b768-0d83-4363-950c-31ed39317c15",
+      "reference_checked_at": "2026-10-19T17:07:16.848181+00:00",
+      "genres": "classic rock, glam metal, hard rock, heavy metal, metal, rock",
+      "website": "http://www.van-halen.com/",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/b665b768-0d83-4363-950c-31ed39317c15",
+      "albums": [
+        {
+          "name": "Secrets",
+          "date": "1982-08-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/04efeec4-e5d1-4ab7-abb1-11c86c9d1df4"
+        },
+        {
+          "name": "Dance the Night Away",
+          "date": "1979-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/09cd153a-66ed-425f-99a9-f3df79f0b508"
+        },
+        {
+          "name": "For Unlawful Carnal Knowledge",
+          "date": "1991-06-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0a5921ef-3aa4-398e-ad4a-2ef45d055842"
+        },
+        {
+          "name": "Metal Hammer Collection",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0b220c5e-595b-42cc-be9a-cf59ac1bf349"
+        },
+        {
+          "name": "The Collection II",
+          "date": "2023-10-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0d11a87f-5978-4abc-8efd-a6a2ba886925"
+        },
+        {
+          "name": "The Atomic Punks",
+          "date": "1992-03-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0dbda5bb-db93-4990-bc7b-875d1c1965e3"
+        },
+        {
+          "name": "So This Is Love?",
+          "date": "1981-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0ff69768-f926-491d-a786-497f7342e5df"
+        },
+        {
+          "name": "I’ll Wait",
+          "date": "1984-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1a4f2f90-0fca-4832-b106-55e37b1832cc"
+        },
+        {
+          "name": "OU812",
+          "date": "1988-05-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1af0e74f-d4b2-3105-ae7a-43b6bf7251ea"
+        },
+        {
+          "name": "Love Walks In",
+          "date": "1986-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1bd43730-4f8f-4926-a865-f794365557e9"
+        },
+        {
+          "name": "Poundcake",
+          "date": "1991-06-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1cadddd9-f7c9-30fe-a994-90c4c9264aa8"
+        },
+        {
+          "name": "The Best of Both Worlds",
+          "date": "2004-07-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1e275787-073e-3077-be8f-d9c43ec6df5a"
+        },
+        {
+          "name": "Diver Down / For Unlawful Carnal Knowledge",
+          "date": "1998-05-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1f44993b-263b-479a-9a1d-c391c37883f5"
+        },
+        {
+          "name": "And the Cradle Will Rock...",
+          "date": "1980",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/22542c47-d73a-48c5-bb87-ad5589e42c83"
+        },
+        {
+          "name": "You Really Got Me",
+          "date": "1978-01-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/23cb9aa3-73c0-470f-b5ba-e6484f6c7b77"
+        },
+        {
+          "name": "A Different Kind of Truth",
+          "date": "2012-02-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/27047e5a-987f-409b-8d73-80a8ba55b9da"
+        },
+        {
+          "name": "Blueprint",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2ada1206-22c9-3226-b3c3-d1bbf5e2679c"
+        },
+        {
+          "name": "The Triple Album Collection",
+          "date": "2012-10-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2caa7457-abc0-4afe-a4b9-234ca08db79b"
+        },
+        {
+          "name": "Pretty Woman",
+          "date": "1982-01-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2d21a9f8-328b-44ac-8eed-bc6ad6798f2c"
+        },
+        {
+          "name": "Somebody Get Me a Doctor",
+          "date": "1979",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2e8e08af-031b-4e66-ae9e-680ae5ca86da"
+        },
+        {
+          "name": "Deluxe",
+          "date": "2015-04-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/300512bd-5672-407f-a411-864cff7d14cd"
+        },
+        {
+          "name": "Top of the World (live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+          "date": "2024-06-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/34056ba7-cb33-422b-a4ef-ccde65c0fed7"
+        },
+        {
+          "name": "Best Of, Volume I",
+          "date": "1996-10-17",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3551fd70-dc1d-3b3b-beeb-0f4a5c16d3de"
+        },
+        {
+          "name": "Women and Children First",
+          "date": "1980-03-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/36338d76-f764-32fb-b11b-4ea68588865a"
+        },
+        {
+          "name": "The Studio Albums 1978–1984",
+          "date": "2013-03-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/39a547d6-3d69-4f36-9ed4-560cf5ab8bce"
+        },
+        {
+          "name": "Balance",
+          "date": "1995-01-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3a032793-ecc7-3d8b-9552-d9bb2464e636"
+        },
+        {
+          "name": "Live at Wembley 1995",
+          "date": "2026-01-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3a4ed447-a8de-4671-bbdc-b285b44e5620"
+        },
+        {
+          "name": "Van Halen",
+          "date": "1978-02-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/43a0e8b5-6059-397f-81e6-b8df5a648496"
+        },
+        {
+          "name": "Why Can't This Be Love (Extended Version) [2026 Remaster]",
+          "date": "2026-03-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/43c8be3a-fc16-4ff9-865e-69d49c0f4d56"
+        },
+        {
+          "name": "Women and Children First Studio Sessions",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/46c4cfdc-579d-434d-8e4c-a1759db5ee86"
+        },
+        {
+          "name": "Top of the World",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/486692f0-6097-4410-871e-fad34c67db7a"
+        },
+        {
+          "name": "Me Wise Magic",
+          "date": "1996-10-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4ae7595a-227b-34c3-b1b2-6fbddd3570c7"
+        },
+        {
+          "name": "Live USA - Original Artist Recording",
+          "date": "1999-12-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/50c39ca5-d65e-4dfe-9893-c29f2960dc51"
+        },
+        {
+          "name": "Unchained",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/51393b1c-9154-4603-a69c-bf954e2c6d82"
+        },
+        {
+          "name": "Without You",
+          "date": "1998-02-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/57774094-c561-45fa-8ee6-47ad301345a0"
+        },
+        {
+          "name": "1984",
+          "date": "1984-01-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5846f0c9-fec3-3b9e-a77c-fbe9a7bdf0e7"
+        },
+        {
+          "name": "Right Now",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5deda50d-c32c-45be-afd5-041149992c6f"
+        },
+        {
+          "name": "Mean Street",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5ffcf3db-9749-489a-a3c4-7078ccedfd25"
+        },
+        {
+          "name": "Finish What Ya Started",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/60726d27-91b0-4cdc-aa48-7accdd368df1"
+        },
+        {
+          "name": "The Japanese Singles: 1978-1984",
+          "date": "2019-11-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/66d195b7-0303-45ae-9976-94a1197f756b"
+        },
+        {
+          "name": "Dave Is Back: Rarest Covers and Demos",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6b0594ba-2ae3-3d23-b8cb-cd8f7c19b028"
+        },
+        {
+          "name": "US Festival ’83",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6c8bab5d-c0b9-458b-b35e-0c5d4c21fad4"
+        },
+        {
+          "name": "Video Hits, Volume 1",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6e81aaa5-f1d4-4c6f-9e78-249d8a357d51"
+        },
+        {
+          "name": "The Seventh Seal (live at Wembley Stadium, London, UK, 6/24/1995)",
+          "date": "2025-06-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6f8ecad0-2a9c-4ec9-8775-5ead4818d0fa"
+        },
+        {
+          "name": "When It’s Love",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6fec761c-fb36-4993-a864-d1247174d7ae"
+        },
+        {
+          "name": "Feels So Good",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/70671aa5-7b21-3d3e-bb3f-cdd30bb5fa30"
+        },
+        {
+          "name": "Panama",
+          "date": "1984-04-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7601c3bc-267e-48a2-92c8-6166625c0111"
+        },
+        {
+          "name": "2007",
+          "date": "2007-02-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/77081dd2-4d11-4c40-af79-5f350a45bc77"
+        },
+        {
+          "name": "That's All Folks - The Warner Bros. Demos",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/773bd7ee-de0d-4227-8eff-14ae831b6303"
+        },
+        {
+          "name": "Van Halen Box 1986–1993",
+          "date": "1995-10-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/77ec03ae-0006-4cdd-b881-368736100934"
+        },
+        {
+          "name": "Dancing in the Street",
+          "date": "1982-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7d146828-2dc6-4083-9e4b-8c88c19b578a"
+        },
+        {
+          "name": "Jump (Armin van Buuren remix)",
+          "date": "2019-05-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7dccb916-5eab-4e2b-aa02-5893073a6ffc"
+        },
+        {
+          "name": "Tattoo",
+          "date": "2012-01-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7fd345ce-55d6-424b-80bc-e7712c724f4b"
+        },
+        {
+          "name": "Van Halen II",
+          "date": "1979-03-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8001e841-11a1-379d-b52c-da0311340b56"
+        },
+        {
+          "name": "Live in Dallas 1991",
+          "date": "2024-11-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8149f581-aaa9-4278-a6af-9568fd97a20d"
+        },
+        {
+          "name": "Jump",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/83ec8c1b-0443-4555-8f1a-54ac7df8a353"
+        },
+        {
+          "name": "Live: Dreams",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8a9c0b80-27ce-4d73-bf98-bc088e7fdee7"
+        },
+        {
+          "name": "Live Without A Net",
+          "date": "1986",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8cd3876e-71db-4f30-8925-1dd87369fef9"
+        },
+        {
+          "name": "Fire in the Hole",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/90e04dc6-39ec-4a1a-a98f-df83f36e17b4"
+        },
+        {
+          "name": "Black and Blue",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/95734847-0fcf-3fcc-9ffb-23aed3e4a05b"
+        },
+        {
+          "name": "Ain’t Talkin’ ’Bout Love",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/989e2b94-e4e7-4f09-a7ec-86592f8b66db"
+        },
+        {
+          "name": "For Unlawful Carnal Knowledge Album Network Premiere",
+          "date": "1991-06-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9b0937c9-ed34-446e-abd2-d9c57b0a9640"
+        },
+        {
+          "name": "Tokyo Dome Live in Concert",
+          "date": "2015-03-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9caa3372-5fec-41bf-8ab2-7f6d631cff15"
+        },
+        {
+          "name": "Complete Zero",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a36af843-9aa8-4727-8b9b-6cc66a2bd757"
+        },
+        {
+          "name": "Crossing Over",
+          "date": "2023-09-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a879d011-35b5-4247-b9ae-9886793cbcae"
+        },
+        {
+          "name": "Zero Demos",
+          "date": "2017",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a97477e6-a0c7-42cc-b24c-892e8a11e5fb"
+        },
+        {
+          "name": "Jump!",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/abc2869a-337d-40b5-9ed1-c067cbefcf94"
+        },
+        {
+          "name": "Runnin' With the Devil / You Really Got Me",
+          "date": "1980",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b0d2c68a-ad9f-4217-8d3a-2219a9e94050"
+        },
+        {
+          "name": "Hot for Teacher",
+          "date": "1984-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b111d600-672d-40fd-870e-22a9b1f6dc31"
+        },
+        {
+          "name": "Don’t Tell Me (What Love Can Do)",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b18d4d17-7e26-3708-a9c5-dce370378021"
+        },
+        {
+          "name": "Balance Album Release Party",
+          "date": "1995-01-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b2c478f2-3404-4914-9e77-273057a10b2e"
+        },
+        {
+          "name": "Best of Both Worlds",
+          "date": "1986-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b49818be-8f42-4077-9bb6-89bd0b43c8dc"
+        },
+        {
+          "name": "Diver Down",
+          "date": "1982-04-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b9201554-b7ee-3093-9093-758af7ad097f"
+        },
+        {
+          "name": "Runnin’ With the Devil",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cc4cd300-735c-41ef-8822-f7df377def3d"
+        },
+        {
+          "name": "The Best Days (Radio Broadcast Recordings)",
+          "date": "2024-11-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d3dbcfbc-2632-4367-86f4-fbe8aa43db68"
+        },
+        {
+          "name": "It’s About Time",
+          "date": "2004-05-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d50193ad-9114-36c7-a334-7b853020e3d7"
+        },
+        {
+          "name": "Before The Eruption",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d6741ac9-f889-4f14-bcc7-498d559a3741"
+        },
+        {
+          "name": "Why Can't This Be Love",
+          "date": "1986-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d91ebbb5-ae65-494e-a4a8-e9b98cc0ca9e"
+        },
+        {
+          "name": "Hot for Teacher (live at the Tokyo Dome June 21, 2013)",
+          "date": "2015-03-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/da9168e1-826d-4f0c-bdfe-36b4560a7855"
+        },
+        {
+          "name": "Mini Best",
+          "date": "1997-11-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/db2dbd4b-748c-390f-86cd-7e7cf26a615f"
+        },
+        {
+          "name": "Humans Being",
+          "date": "1996-07-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/db6007f6-fea1-44d5-816b-862ec3ab1792"
+        },
+        {
+          "name": "Feelin’ (live at Wembley Stadium, London, UK, 6/24/1995)",
+          "date": "2025-08-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/defd0c9e-0f15-4126-9c3f-5d3da7bf54b9"
+        },
+        {
+          "name": "Live in New Haven 1986",
+          "date": "2026-04-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/df0baf40-e076-4719-aa1c-2c3662b42b5f"
+        },
+        {
+          "name": "Amsterdam",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e25a212b-e3db-34ea-aabe-da3784af5bc6"
+        },
+        {
+          "name": "Can’t Stop Lovin’ You",
+          "date": "1995-03-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e793d102-7a1d-3d76-9536-5f4385574ac7"
+        },
+        {
+          "name": "The Broadcast Collection 1976-1992",
+          "date": "2022-10-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e82059a9-5a98-4d9e-8335-a3dd6bf73822"
+        },
+        {
+          "name": "Fair Warning",
+          "date": "1981-04-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e8e44b8b-d7db-3e46-a2fb-e70757d32c75"
+        },
+        {
+          "name": "Electric Ladyland Sessions",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e958e4ff-6157-40e9-9b43-14c4aacb2387"
+        },
+        {
+          "name": "Van Halen III",
+          "date": "1998-03-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ed0c73b9-27b4-3263-951a-b16a01c77cc2"
+        },
+        {
+          "name": "Dreams",
+          "date": "1986-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ee32e500-9fa5-4320-9451-484ff3035deb"
+        },
+        {
+          "name": "Not Enough",
+          "date": "1995-06-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ee9acee5-db9c-3d9b-8211-cdcd00ae7a34"
+        },
+        {
+          "name": "The Collection",
+          "date": "2015-03-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f4964db0-4be6-41de-81c7-59ac35b34df7"
+        },
+        {
+          "name": "Beautiful Girls",
+          "date": "1979",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f4fb234a-cc89-4c28-8f47-9f578932670b"
+        },
+        {
+          "name": "5150",
+          "date": "1986-03-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f546dd9a-d77f-38ec-98c1-c7a2842a3860"
+        },
+        {
+          "name": "Poundcake (live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+          "date": "2024-05-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f5787636-eaee-4b8d-903f-1d128fb650b6"
+        },
+        {
+          "name": "Hear About It Later",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f606518c-a23f-43bf-b7ac-f94f0bc2edd7"
+        },
+        {
+          "name": "Live: Jump",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f78f1cab-779b-3432-9785-f94c464a5304"
+        },
+        {
+          "name": "Jamie's Cryin'",
+          "date": "1978",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f8f31882-1ec9-4af1-b0e1-0a5ed3535bd5"
+        },
+        {
+          "name": "Looney Tunes Merrie Melodies: The Unreleased",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fc5ee66d-3f93-3cc8-8c94-2fb495a1c909"
+        },
+        {
+          "name": "Live: Right Here, Right Now",
+          "date": "1993-02-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fcfd4abc-c44a-36f8-8397-8b629317ae24"
+        }
+      ]
     }
   },
   "checked": {
@@ -28092,6 +28703,8 @@
     "tool": "2026-10-19T04:47:10.099022+00:00",
     "twisted-sister": "2026-10-19T04:47:14.313313+00:00",
     "ufo": "2026-10-19T10:24:23.646603+00:00",
-    "uriah-heep": "2026-10-19T10:24:27.501706+00:00"
+    "uriah-heep": "2026-10-19T10:24:27.501706+00:00",
+    "van-halen": "2026-10-19T17:07:16.848393+00:00",
+    "venom": "2026-10-19T17:07:18.078343+00:00"
   }
 }
