@@ -27331,6 +27331,643 @@
           "source_url": "https://musicbrainz.org/release-group/f9052f67-77c2-4fe8-84c3-eb2ae89554d8"
         }
       ]
+    },
+    "uriah-heep": {
+      "name": "Uriah Heep",
+      "musicbrainz_url": "https://musicbrainz.org/artist/f1548c5b-329e-4036-921c-02213a04b525",
+      "reference_checked_at": "2026-10-19T10:24:27.501552+00:00",
+      "genres": "acoustic rock, classic rock, hard rock, heavy metal, progressive rock, rock",
+      "website": "http://www.uriah-heep.com/",
+      "members": [
+        {
+          "name": "Mick Box",
+          "role": "original",
+          "begin": "1969"
+        },
+        {
+          "name": "Phil Lanzon",
+          "role": "",
+          "begin": "1986"
+        },
+        {
+          "name": "Bernie Shaw",
+          "role": "",
+          "begin": "1986"
+        },
+        {
+          "name": "Russell Gilbrook",
+          "role": "drums (drum set)",
+          "begin": "2007"
+        },
+        {
+          "name": "Davey Rimmer",
+          "role": "",
+          "begin": "2013"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/f1548c5b-329e-4036-921c-02213a04b525",
+      "albums": [
+        {
+          "name": "Come Away Melinda: The Ballads",
+          "date": "2001-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/00e91a98-870f-30af-9104-5824c721d4f9"
+        },
+        {
+          "name": "Sea of Light",
+          "date": "1995-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/01d6762d-007e-3258-bc6d-1d58ce7b48e9"
+        },
+        {
+          "name": "The Very Best of Uriah Heep",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/088a4f6d-1e82-3766-881a-1ff2e1c201a0"
+        },
+        {
+          "name": "Best Of",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/08e1df16-48af-46ed-b94d-7fbc03b8f3a2"
+        },
+        {
+          "name": "Three Classic Albums",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/093154f3-4991-4c62-b694-9cf62944d247"
+        },
+        {
+          "name": "Super Best Uriah Heep Collection",
+          "date": "1990",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0cae91c5-7d15-3b51-8730-287dca5f0569"
+        },
+        {
+          "name": "Uriah Heep Forever",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0e6e5102-257c-3058-bffd-b235b9499efc"
+        },
+        {
+          "name": "Living the Dream",
+          "date": "2018-08-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0ff5ef80-321e-4d1d-ad90-001d3a8cf774"
+        },
+        {
+          "name": "The Best of Uriah Heep",
+          "date": "1976",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/105c852f-c306-3840-906e-19695265040a"
+        },
+        {
+          "name": "Milestones",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/177e30ea-e9a2-3dd9-a3a0-4d5097e6e879"
+        },
+        {
+          "name": "Demons and Wizards",
+          "date": "1972-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/19f95cb8-6ffc-307f-a474-369103dd1b82"
+        },
+        {
+          "name": "Rock Giants",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1b8d3aa8-3b31-30ec-9d70-3890e3cf9291"
+        },
+        {
+          "name": "Masters of Rock",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1df29b43-2779-3ce2-8251-5d4ae5803928"
+        },
+        {
+          "name": "The Best of… Part 2",
+          "date": "1997-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1e2debec-897c-3121-a42e-c01c9ac1eff6"
+        },
+        {
+          "name": "The Best of Uriah Heep",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/209bdf65-de4a-47b9-836a-7fce964611e8"
+        },
+        {
+          "name": "Lady in Black",
+          "date": "1994-09-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/217ad768-47d1-3a30-b656-863bd6cecc71"
+        },
+        {
+          "name": "High and Mighty",
+          "date": "1976-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/265b3998-4596-3405-902b-86aa449f8f33"
+        },
+        {
+          "name": "Lady in Black",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/275fa7e3-fd43-3362-8228-593321260828"
+        },
+        {
+          "name": "The Best of Uriah Heep",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2c376ee1-4b5c-3cb3-89d3-2e658445c955"
+        },
+        {
+          "name": "Outsider",
+          "date": "2014-06-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2c585f01-3b30-4e67-a760-533d9d151815"
+        },
+        {
+          "name": "Equator",
+          "date": "1985-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2e08c703-922c-32e5-adec-1d7e9c4ce15f"
+        },
+        {
+          "name": "The Magician’s Birthday",
+          "date": "1972-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/35453797-1c54-383d-bbb1-4d12dfa5e74e"
+        },
+        {
+          "name": "The Best Of",
+          "date": "1979",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/35a3b0e0-3391-3208-a0c7-0279c49f5150"
+        },
+        {
+          "name": "Easy Livin’",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3c3329ad-b7fb-338c-b7d6-e5112edfa8a3"
+        },
+        {
+          "name": "The Best of… Part 1",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/40d525dc-f85d-3e72-a87a-e9c622ffd67b"
+        },
+        {
+          "name": "Downunda",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/42bf1adf-50cb-3611-9123-a9a954412b60"
+        },
+        {
+          "name": "Conquest",
+          "date": "1980-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4786dbab-8b07-33a5-8ab5-a668ed915b8a"
+        },
+        {
+          "name": "Look at Yourself / Very ’Eavy Very ’Umble",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/49c3cb05-c804-4cbd-8c2b-cb29ae93f5e9"
+        },
+        {
+          "name": "Spotlight",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4f4d0c45-8e7e-3d10-bbcb-12c1ccbefef0"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/503c22af-f0c4-377f-a968-47d11dbfb39f"
+        },
+        {
+          "name": "The Collection",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/55b3b0ed-3d5b-36bf-806c-f56f27e0be99"
+        },
+        {
+          "name": "Echoes in the Dark",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5a301adf-ab04-33a2-b248-6dbe1f739082"
+        },
+        {
+          "name": "The Best of Uriah Heep",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5ad5e3e5-32e3-39d4-a534-ed70eac84e32"
+        },
+        {
+          "name": "The Best of Uriah Heep",
+          "date": "1975",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5bec6368-b760-3942-91de-4d61d1e8d3eb"
+        },
+        {
+          "name": "Gold",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5d59efbd-de17-32ea-9cf0-b936c229fc52"
+        },
+        {
+          "name": "Sweet Freedom",
+          "date": "1973-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5d94cee4-0756-3fc0-9673-718dd6921a44"
+        },
+        {
+          "name": "Salisbury",
+          "date": "1971-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/62d88709-b653-3c37-b7f1-52974ea05010"
+        },
+        {
+          "name": "All Stars",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/683ddafb-8d08-4ff4-9595-6759aa2ebac8"
+        },
+        {
+          "name": "Anthology",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/69a7cf25-c6a1-3220-a149-e9a357895f15"
+        },
+        {
+          "name": "The Best of…",
+          "date": "1975-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6c291b8f-201e-3c25-8871-377b648b9ce3"
+        },
+        {
+          "name": "Wake the Sleeper",
+          "date": "2008-06-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/71c0eb44-d72c-3e43-a664-87f24f3852f8"
+        },
+        {
+          "name": "Anthology, Volume One",
+          "date": "1986-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7380c223-a98b-386f-a838-9fc4fa833a34"
+        },
+        {
+          "name": "…Very ’eavy …Very ’umble",
+          "date": "1970-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7486e67b-89f9-372b-8624-9cb11fd44773"
+        },
+        {
+          "name": "Free Me",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7752564b-8a74-34b2-8961-8a0ea9ae0aa6"
+        },
+        {
+          "name": "July Morning Rain",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/77a2e56e-835c-3f08-8440-f182e841c21b"
+        },
+        {
+          "name": "Classic Heep: An Anthology",
+          "date": "1998-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7b3782d4-06ac-3377-8829-e538be1ada55"
+        },
+        {
+          "name": "Bronze Records Sampler November 1977",
+          "date": "1977",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7ca83dfa-a423-49b2-888d-97610c3da56d"
+        },
+        {
+          "name": "The Very Best Of",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/82eee60d-a9ba-317d-bd87-4520252133ea"
+        },
+        {
+          "name": "Still ’Eavy, Still Proud",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/83612c22-db60-33a3-b0ed-80f773275aac"
+        },
+        {
+          "name": "Best",
+          "date": "1997-03-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/84cb79fc-bf9d-31db-80d5-a5a2ac551fae"
+        },
+        {
+          "name": "Fallen Angel",
+          "date": "1978-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/85b45baa-9854-39cf-b303-1799e700e62d"
+        },
+        {
+          "name": "“Blood on Stone” Anthology, Volume II",
+          "date": "2001-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/86b268d7-e9b9-3f81-8e3a-feceb9e4fcac"
+        },
+        {
+          "name": "Two Decades in Rock",
+          "date": "1990-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/86e040c2-f2a0-31a9-a56e-3b745836fb75"
+        },
+        {
+          "name": "Firefly",
+          "date": "1977-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8c9c245c-8cd0-368a-aa7f-af8a95780dfc"
+        },
+        {
+          "name": "Into the Wild",
+          "date": "2011-04-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8cc539b4-9d61-4b4c-993c-65834bfd49b2"
+        },
+        {
+          "name": "The Best of Uriah Heep, Volume 2",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/946f66be-ab3c-394c-9f32-64e99c9fdcdc"
+        },
+        {
+          "name": "Super 20",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/950cf4b0-bdbd-3c43-9f97-45bd35df0624"
+        },
+        {
+          "name": "Easy Livin’",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9668e008-9d4b-3760-9959-b67d42dbc041"
+        },
+        {
+          "name": "Look at Yourself",
+          "date": "1971-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/99100318-0642-3138-9023-6e5d681a2b7e"
+        },
+        {
+          "name": "Raging Silence",
+          "date": "1989-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9c4eb4be-9a2c-3fd5-b02a-39ae37421d66"
+        },
+        {
+          "name": "Collection",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/abac8c6c-c73f-3d14-b493-ca04ddfe1aaf"
+        },
+        {
+          "name": "20 Golden Greats",
+          "date": "1980",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ac581d78-2328-3725-8197-044e0eddc95a"
+        },
+        {
+          "name": "Look at Yourself / Firefly",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ac8f9c2c-2968-3e7d-ad5e-7dff550ee9d1"
+        },
+        {
+          "name": "Special DJ Copy",
+          "date": "1972",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ae62e593-9ffc-4f7a-8b1b-b1677f0a50f8"
+        },
+        {
+          "name": "The Best of Uriah Heep",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/aeb27bcd-b9d9-406b-99a2-72a5e86504c4"
+        },
+        {
+          "name": "The Best of Uriah Heep",
+          "date": "1974",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b09c2482-0021-38ce-b4f4-54b8914db8f8"
+        },
+        {
+          "name": "Chaos & Colour",
+          "date": "2023-01-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b0a21891-c424-42a8-bef8-dfbf6bdb93bb"
+        },
+        {
+          "name": "Abominog",
+          "date": "1982-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b1c57669-8bb9-3897-a8c6-3d2f291116b6"
+        },
+        {
+          "name": "Different World",
+          "date": "1991-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b758605b-912c-387f-9adc-fbfc42ed3000"
+        },
+        {
+          "name": "Easy Livin’: Best",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b81b85d3-df51-3d67-8a7e-cc3e5f48f26d"
+        },
+        {
+          "name": "Sonic Origami",
+          "date": "1998-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ba0a82c4-809e-36e1-b3e0-6fe10737e80a"
+        },
+        {
+          "name": "The Best of Uriah Heep",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bbf56722-edff-4257-b4b4-665fa7ffbedf"
+        },
+        {
+          "name": "The Very Best of Uriah Heep",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c49865f1-be73-4bb9-8a0f-92f09964a14f"
+        },
+        {
+          "name": "The Very Best of Uriah Heep",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c4be68a7-8bfa-3ff8-899a-f461d6a7dba1"
+        },
+        {
+          "name": "1970–1978",
+          "date": "1978",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c53906c1-c79e-4f0b-bacd-12cc34db1e7f"
+        },
+        {
+          "name": "2 Originals - Sea of Light / Spellbinder",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c913e5f5-0b04-491d-a834-0d9654924f56"
+        },
+        {
+          "name": "Platinum: The Ultimate Collection",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d5c6f15c-511c-3924-87d5-2076288e64d1"
+        },
+        {
+          "name": "Head First",
+          "date": "1983-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d7271a6a-1cb7-3a13-9d12-077f14e77e08"
+        },
+        {
+          "name": "Best Of",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dad24624-3f84-498c-9f55-bdb516d3e90f"
+        },
+        {
+          "name": "Ironstrike: 14 Rock Hard Hits",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/de5a340c-5193-3964-baf9-dc4f574fbcd5"
+        },
+        {
+          "name": "The Best of… Parts 1 & 2",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/debd6f39-9aad-4511-b6f0-9d006f0b7f1b"
+        },
+        {
+          "name": "Rarities from the Bronze Age",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dfec0b84-a08b-3b3d-a9db-53d1c7213e57"
+        },
+        {
+          "name": "Rock History: The Best of Uriah Heep",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e21f57aa-c6f3-3a15-9fc9-27f241715630"
+        },
+        {
+          "name": "The Ballads",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e2b12681-91c1-345e-b87d-02783e2bb2de"
+        },
+        {
+          "name": "A Time of Revelation: 25 Years On...",
+          "date": "1996-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e308a285-62d6-3f8a-b864-260daaf39da9"
+        },
+        {
+          "name": "Easy Livin'",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e3240d67-2406-3b58-8f5e-1c2f9a2dc5d1"
+        },
+        {
+          "name": "From Spice to Uriah Heep – Transition: The Lansdowne Tapes",
+          "date": "1993-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e586c38a-241d-35c8-a3ea-63772e650ddd"
+        },
+        {
+          "name": "Metal Master Series Volume 1",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e5c23609-99ec-45da-9bd2-9318d6d47017"
+        },
+        {
+          "name": "Golden Years 1970–1980",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/eaf43f95-b873-427f-b4ff-b62597b55fad"
+        },
+        {
+          "name": "Wonderworld",
+          "date": "1974-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/eb02333a-88dc-3f5e-851b-99c0dd7c97bc"
+        },
+        {
+          "name": "“Travellers in Time” Anthology, Vol. 1",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ebc133a2-7f51-39d4-9095-7526048dbde8"
+        },
+        {
+          "name": "The Gold Collection",
+          "date": "1994-11-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ec8aacd8-acc3-349f-a54b-3feacd8b9774"
+        },
+        {
+          "name": "The Best – Volume 1",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ed26de86-8768-4ffb-adce-7f9b9040a66f"
+        },
+        {
+          "name": "Still 'eavy, Still Proud: Two Decades of Uriah Heep",
+          "date": "1990-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ef5dda3c-e154-33d8-a3e7-580fc4b7b08b"
+        },
+        {
+          "name": "Return to Fantasy",
+          "date": "1975-05-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ef753054-4db6-3a62-a86f-b1948a6d32fa"
+        },
+        {
+          "name": "Innocent Victim",
+          "date": "1977-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f0c44ac2-6467-33f2-b5d9-80e6718083a2"
+        },
+        {
+          "name": "The Legendary Artists",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f10ffc5a-d5bd-41e4-8cbf-9c28ce93eec4"
+        },
+        {
+          "name": "Power to the Rockers",
+          "date": "1988",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f2ad9dc5-42af-30a0-830b-e81e377b1877"
+        },
+        {
+          "name": "The Collection",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f86ab418-b68f-3110-8d81-8983786c6f0f"
+        },
+        {
+          "name": "David Byron Hits",
+          "date": "2017",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fd384dbe-e118-4620-a28e-7098025f43a1"
+        }
+      ]
     }
   },
   "checked": {
@@ -27453,6 +28090,8 @@
     "thrice": "2026-10-19T00:15:09.194575+00:00",
     "tom-morello": "2026-10-19T00:15:13.131425+00:00",
     "tool": "2026-10-19T04:47:10.099022+00:00",
-    "twisted-sister": "2026-10-19T04:47:14.313313+00:00"
+    "twisted-sister": "2026-10-19T04:47:14.313313+00:00",
+    "ufo": "2026-10-19T10:24:23.646603+00:00",
+    "uriah-heep": "2026-10-19T10:24:27.501706+00:00"
   }
 }
