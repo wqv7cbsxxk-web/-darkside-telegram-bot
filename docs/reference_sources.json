@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-18T19:45:33.255068+00:00"
+      "bandcamp_checked_at": "2026-10-19T21:31:56.004772+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -28579,6 +28579,1033 @@
           "source_url": "https://musicbrainz.org/release-group/fcfd4abc-c44a-36f8-8397-8b629317ae24"
         }
       ]
+    },
+    "w-a-s-p": {
+      "name": "W.A.S.P.",
+      "musicbrainz_url": "https://musicbrainz.org/artist/171cbc8f-8ab3-4aec-9916-f0bdbe26bb79",
+      "reference_checked_at": "2026-10-19T21:31:42.203032+00:00",
+      "genres": "glam metal, hard rock, heavy metal, metal",
+      "bandcamp_url": "https://wasp.bandcamp.com/",
+      "website": "http://www.waspnation.com/",
+      "members": [
+        {
+          "name": "Blackie Lawless",
+          "role": "",
+          "begin": "1982"
+        },
+        {
+          "name": "Mike Duda",
+          "role": "",
+          "begin": "1997"
+        },
+        {
+          "name": "Mike Dupke",
+          "role": "",
+          "begin": "2006-05"
+        },
+        {
+          "name": "Doug Blair",
+          "role": "",
+          "begin": "2006"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/171cbc8f-8ab3-4aec-9916-f0bdbe26bb79",
+      "albums": [
+        {
+          "name": "Forever Free",
+          "date": "1989-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/08f6cf6f-680a-37d3-9d2b-f25a445c7c45"
+        },
+        {
+          "name": "Wild Child (The Wild Remix)",
+          "date": "1986",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/114ceccc-fc16-4f55-b5ca-44332a08cad6"
+        },
+        {
+          "name": "I Wanna Be Somebody",
+          "date": "1984",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/130854cd-4656-4818-b188-f5ad857e4636"
+        },
+        {
+          "name": "Live... In the Raw",
+          "date": "1987-11-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1ebad141-73bd-3b49-9b57-206b04c60bad"
+        },
+        {
+          "name": "Hold On to My Heart",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1f79c294-a9d8-33e0-801a-cfa3c19d3d1b"
+        },
+        {
+          "name": "The Real Me",
+          "date": "1989-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2071387c-f3d1-35a6-8dc1-e35369493be4"
+        },
+        {
+          "name": "Business the American Way",
+          "date": "1998",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/20de7bc6-23d2-355a-aaf4-1b40ba985197"
+        },
+        {
+          "name": "Chainsaw Charlie (Murders in the New Morgue)",
+          "date": "1992-06-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/21d5f3cb-923b-32e5-9cc7-ab6fd302d821"
+        },
+        {
+          "name": "Helldorado",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/23ccb5be-f6af-42dd-b5fe-69301bb702ac"
+        },
+        {
+          "name": "Animal (F**k Like A Beast) / Live... Animal",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/287f8f19-5c25-3eda-83d1-90d800552792"
+        },
+        {
+          "name": "L.O.V.E. Machine",
+          "date": "1984-12-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/388c1548-6bb8-47a4-bca3-15c5a9d179a8"
+        },
+        {
+          "name": "Live At Irvine Meadows 1985",
+          "date": "2024",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4374653d-59eb-457c-9c40-d99a1f26831a"
+        },
+        {
+          "name": "I Don't Need No Doctor",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/44522bfa-caff-4af3-a32a-dd19dd2b2efe"
+        },
+        {
+          "name": "Babylon",
+          "date": "2009-10-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4584ad93-f37b-4544-9a24-aebff3fe5acf"
+        },
+        {
+          "name": "The Story Of Jonathan Part I & II",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4b9c43d4-5282-4967-bccc-dadb94fd28e8"
+        },
+        {
+          "name": "The Last Command",
+          "date": "1985-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4e15ae79-37e9-3186-9786-f86ce79f2dd8"
+        },
+        {
+          "name": "Reidolized: The Soundtrack to The Crimson Idol",
+          "date": "2018-02-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4e3bab45-2791-4060-956e-ce85f9beb547"
+        },
+        {
+          "name": "Helldorado",
+          "date": "1999-05-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/51910018-76e0-42cd-99ff-c9ffb6eb1a70"
+        },
+        {
+          "name": "Still Not Black Enough",
+          "date": "1995-06-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/53cce325-eb28-39ff-b97b-476ee7265293"
+        },
+        {
+          "name": "First Blood... Last Cuts",
+          "date": "1993-10-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/54232d9c-8e5a-3e43-84c1-820a95811a92"
+        },
+        {
+          "name": "Dominator",
+          "date": "2007-04-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/548fe83d-976b-3c9f-9ab7-78dd9f1214f3"
+        },
+        {
+          "name": "Live Animal (F**k Like a Beast)",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/55a0f449-c7a8-4a8a-9f2c-e24fd9149a8c"
+        },
+        {
+          "name": "Bonus Tracks and B Sides",
+          "date": "2025-02-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/56c10e2c-7ec1-4a03-9d04-45819620cdb8"
+        },
+        {
+          "name": "Mean Man",
+          "date": "1989-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5a9e7735-ad15-359d-8e4c-fc641282416d"
+        },
+        {
+          "name": "The Neon God, Part 2: The Demise",
+          "date": "2004-09-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5fb05f2b-edc2-31ef-977b-004974ac19b1"
+        },
+        {
+          "name": "The Headless Children",
+          "date": "1989-04-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/60156035-ff94-325e-8b7f-265346cf58f8"
+        },
+        {
+          "name": "Scream Until You Like It",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/699e4b69-15fa-44bb-9d37-debccbccb312"
+        },
+        {
+          "name": "Inside the Electric Circus",
+          "date": "1986-11-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6d5fc1a3-0a67-3250-9396-e3de1016dc0f"
+        },
+        {
+          "name": "Wild Child",
+          "date": "1986-04-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6fca75d1-5e4f-46b9-8fa1-2327fbd74dba"
+        },
+        {
+          "name": "Golgotha",
+          "date": "2015-10-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/71cf81cc-aef4-4ed9-a057-ba71cbade68e"
+        },
+        {
+          "name": "The Sting: Live at the Key Club, L.A.",
+          "date": "2000-01-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/73864585-2fcf-4aae-ba5a-1791ac2ba21b"
+        },
+        {
+          "name": "I Am One",
+          "date": "1992-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/76f13bdc-8627-3d25-9ef3-1b88c0fd0ac1"
+        },
+        {
+          "name": "The Idol",
+          "date": "1992-06-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7e8f0f7b-4512-3eea-b21f-96957edf6823"
+        },
+        {
+          "name": "W.A.S.P. - The Best Of The Best 1984-2000",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7f748f22-e82a-3f95-bdf9-1f4ed3f54d6c"
+        },
+        {
+          "name": "Dancing With Danger (Live 1986)",
+          "date": "2022-04-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8174a051-f0c2-48b0-94d2-b9529796efdf"
+        },
+        {
+          "name": "W.A.S.P. & The Last Command",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/82105cc1-09e3-4cfb-8bc7-10def536899d"
+        },
+        {
+          "name": "Kill Fuck Die",
+          "date": "1997-03-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9785ad3b-dff6-3c51-a758-8173393889fa"
+        },
+        {
+          "name": "9.5.-N.A.S.T.Y.",
+          "date": "1986-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9f97cf86-c13b-4f95-a5b9-ba8d168c25c2"
+        },
+        {
+          "name": "Blind in Texas",
+          "date": "1985-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a33d8cdc-272c-4161-b6e1-6e8d8b8db0ca"
+        },
+        {
+          "name": "Animal (F**k Like a Beast)",
+          "date": "1984-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a3bd6209-1d40-3523-8b48-755dfbd04f3b"
+        },
+        {
+          "name": "Black Forever",
+          "date": "1995",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a5eb35e6-d4d7-4657-9f8a-28b35cc434fd"
+        },
+        {
+          "name": "W.A.S.P.",
+          "date": "1984-08-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/af1deb9c-f3c3-3624-9760-2fa791be53c7"
+        },
+        {
+          "name": "Let the Torture Begin: The Lost Demos 1979 to 1982",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b27b36bd-63ea-4ad4-9c9c-dace8fa42338"
+        },
+        {
+          "name": "Face the Attack",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bfacd535-66d5-3af5-9873-b26723a2ca6b"
+        },
+        {
+          "name": "Unholy Terror",
+          "date": "2001-04-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c2a09480-8c96-3e0a-86d1-787d32c33025"
+        },
+        {
+          "name": "First blood... Last visions...",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c310c15e-a1af-4a8c-b7a6-20e87162890b"
+        },
+        {
+          "name": "Sunset & Babylon",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c6a9e8a0-83bc-3308-afb3-4bfce24f9e92"
+        },
+        {
+          "name": "Shadow Man",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c7569cae-99ed-44ab-a760-1266047fdfc2"
+        },
+        {
+          "name": "The Neon God, Part 1: The Rise",
+          "date": "2004-04-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cb494b82-e94d-34d8-a8e2-ecddceebbacf"
+        },
+        {
+          "name": "The Crimson Idol",
+          "date": "1992-06-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cb86f898-9052-324a-a7d8-8292c36b5178"
+        },
+        {
+          "name": "Double Live Assassins",
+          "date": "1998-02-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d11fb57c-b19e-3550-bd52-bba0a265b0aa"
+        },
+        {
+          "name": "Live in Japan 1986",
+          "date": "2017-11-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d3e9c3c4-ef01-4696-96ee-2dd5aa2dcc32"
+        },
+        {
+          "name": "Kill Fuck Die",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/da7c68f1-6ae5-32df-837b-ad40d4c7a906"
+        },
+        {
+          "name": "School Daze",
+          "date": "1984-11-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e77fcb9b-ae29-43e2-bb6f-20e24d94526e"
+        },
+        {
+          "name": "Doctor Rockter",
+          "date": "2017-12-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f3577837-c28a-4074-8ae6-f1097161040e"
+        },
+        {
+          "name": "Inside the Electric Circus / The Headless Children",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fde9741d-c564-4c99-a39a-cd72d98f63bf"
+        },
+        {
+          "name": "Dying for the World",
+          "date": "2002-06-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fe20d3eb-0ae5-3e48-b7b8-36fe08e8465d"
+        }
+      ]
+    },
+    "whitesnake": {
+      "name": "Whitesnake",
+      "musicbrainz_url": "https://musicbrainz.org/artist/5dedf5cf-a598-4408-9556-3bf3f149f3ba",
+      "reference_checked_at": "2026-10-19T21:31:46.073438+00:00",
+      "genres": "blues rock, classic rock, glam metal, hard rock, heavy metal, rock",
+      "website": "http://www.whitesnake.com/",
+      "members": [
+        {
+          "name": "Reb Beach",
+          "role": "electric guitar",
+          "begin": "2002"
+        },
+        {
+          "name": "David Coverdale",
+          "role": "lead vocals, original",
+          "begin": "2002"
+        },
+        {
+          "name": "Tommy Aldridge",
+          "role": "drums (drum set)",
+          "begin": "2013"
+        },
+        {
+          "name": "Joel Hoekstra",
+          "role": "electric guitar",
+          "begin": "2014"
+        },
+        {
+          "name": "Michele Luppi",
+          "role": "keyboard",
+          "begin": "2015"
+        },
+        {
+          "name": "Tanya O’Callaghan",
+          "role": "bass guitar",
+          "begin": "2021-11"
+        },
+        {
+          "name": "Dino Jelusick",
+          "role": "background vocals",
+          "begin": "2021"
+        },
+        {
+          "name": "Dino Jelusick",
+          "role": "keyboard",
+          "begin": "2021"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/5dedf5cf-a598-4408-9556-3bf3f149f3ba",
+      "albums": [
+        {
+          "name": "Made in Japan",
+          "date": "2013-04-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/00f9aa83-643a-4ebb-80d0-c0b7216384d5"
+        },
+        {
+          "name": "Love Ain’t No Stranger (2019 remix)",
+          "date": "2019-03-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0165d465-8e3c-4748-827c-244085a46863"
+        },
+        {
+          "name": "Starkers in Tokyo",
+          "date": "2008",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/03d1f6d5-d073-4b75-84aa-1aeb26dbc90e"
+        },
+        {
+          "name": "Best of Whitesnake",
+          "date": "2003-03-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/05cb6b4f-9826-3681-a237-2174c2697c4f"
+        },
+        {
+          "name": "Shut Up & Kiss Me",
+          "date": "2019-02-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/09a3fc21-8ee8-4db9-a7c5-34e5a6c5afb3"
+        },
+        {
+          "name": "Gold",
+          "date": "2006-01-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0d236f30-d983-3406-993f-751e76d4f8df"
+        },
+        {
+          "name": "Little Box 'o' Snakes",
+          "date": "2013",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0f75617c-4833-4b1d-b847-04a97c2f02bd"
+        },
+        {
+          "name": "Flesh & Blood",
+          "date": "2019-05-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/10e764e7-b195-4a5f-b6ff-d7a74f3240fc"
+        },
+        {
+          "name": "The Purple Album",
+          "date": "2015-04-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/11eafdd6-0c94-468e-b539-3897cae283e7"
+        },
+        {
+          "name": "Stormbringer",
+          "date": "2015-04-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/14d3794a-2367-492b-a99a-2622644e4ba7"
+        },
+        {
+          "name": "Still of the Night",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1546cac7-1a71-41a8-b8ad-2502a587ac78"
+        },
+        {
+          "name": "Burn",
+          "date": "2015-04-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/16bf6032-3767-400c-a11b-4de756c2a1a2"
+        },
+        {
+          "name": "Best Ballads",
+          "date": "2018",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1a310f8b-cb3b-4a0e-ac77-80d11d47e2fe"
+        },
+        {
+          "name": "20th Century Masters: The Millennium Collection: The Best of Whitesnake",
+          "date": "2000-06-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/20da93f7-5d8d-3a2f-9f7f-e05e9d5f7691"
+        },
+        {
+          "name": "1987 Versions",
+          "date": "1987-10-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/26f8a6e3-e6bc-4b01-b84b-b2c47ce3cc5f"
+        },
+        {
+          "name": "Into the Light: The Solo Albums",
+          "date": "2024-10-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2b7c7acf-6412-42be-b3f0-6e6662f7331f"
+        },
+        {
+          "name": "Come an’ Get It",
+          "date": "1981",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2d4dfb06-6a4f-311c-88e7-4a7eae7e08f6"
+        },
+        {
+          "name": "Snakebite",
+          "date": "1977",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2e8395a5-7711-3746-b54c-8182f32154c4"
+        },
+        {
+          "name": "Guilty Of Love",
+          "date": "1983-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/32e447dd-67fb-4690-a991-585b86ceb499"
+        },
+        {
+          "name": "Whitesnake’s Greatest Hits",
+          "date": "1994-07-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/32eb410b-99bd-3201-b764-c7149e092f91"
+        },
+        {
+          "name": "Live at Donington 1990",
+          "date": "2011-05-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3d88919d-c868-4d19-af63-7cbd6010e4b8"
+        },
+        {
+          "name": "The Vintage Concert",
+          "date": "1979-08-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3e450893-d65d-35e9-9e61-ca4e3a8f9232"
+        },
+        {
+          "name": "Hey You (You Make Me Rock)",
+          "date": "2019-04-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3f686604-4cc5-4a57-a82f-78b835c80d30"
+        },
+        {
+          "name": "The Best",
+          "date": "1991-10-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/40d6387c-d8a1-36de-98f5-43710fe2e9d8"
+        },
+        {
+          "name": "Whitesnake",
+          "date": "1987-03-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4182146e-3f7a-38e0-96d2-8ec32077f224"
+        },
+        {
+          "name": "Lay Down Stay Down",
+          "date": "2015-04-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4602be4d-13ae-4f25-96e6-0473c7df36dc"
+        },
+        {
+          "name": "The Blues Album",
+          "date": "2021-02-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/46a3714d-5d4d-4a71-ac37-eaf65726acbd"
+        },
+        {
+          "name": "Ain’t No Love in the Heart of the City",
+          "date": "1980",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/47991f5c-13f4-4868-a91d-3621d0f6700a"
+        },
+        {
+          "name": "Good to See You Again",
+          "date": "2019-11-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/493a3c03-74d8-4c50-8ec3-c904887507fb"
+        },
+        {
+          "name": "Give Me All Your Love",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/49b01119-9122-4748-be10-8e602363abfe"
+        },
+        {
+          "name": "Live at Hammersmith",
+          "date": "1980-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/505727ae-9471-3cb5-a6c9-9c9b5d1c0ae5"
+        },
+        {
+          "name": "Box 'o' Snakes (The Sunburst Years 1978-1982)",
+          "date": "2011-11-15",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/52a080b0-e718-4505-aa3f-3a5725a06bf5"
+        },
+        {
+          "name": "Rarities",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/54c9fade-0ff5-3524-949d-e1433c0619bc"
+        },
+        {
+          "name": "Still of the Night (2020 remix)",
+          "date": "2020-05-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/55d8134f-eb8f-4c1e-9e52-745239c59bc5"
+        },
+        {
+          "name": "30th Anniversary Collection",
+          "date": "2008-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5652024f-aa12-4994-a0f0-edf8e9be52c6"
+        },
+        {
+          "name": "Fool For Your Loving = フール・フォー・ユア・ラヴィング",
+          "date": "1980-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/57356c42-a3a5-4644-8748-bccedcce4385"
+        },
+        {
+          "name": "Live at Reading Rock Festival 1979",
+          "date": "2011",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/580fa574-1a14-45ec-9e7b-b2f1d0be2dfa"
+        },
+        {
+          "name": "1978-11-07: Hanley, England",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/597475aa-773a-4e86-ba6e-75e6a23d57f2"
+        },
+        {
+          "name": "Here I Go Again: The Whitesnake Collection",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5b8d41e6-8799-393e-97d1-f8c1a8ef8821"
+        },
+        {
+          "name": "Still... Good to Be Bad",
+          "date": "2023-04-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/62d3f692-cf1a-4ae1-8bd4-d543080bc0d9"
+        },
+        {
+          "name": "Soldier of Fortune",
+          "date": "2015-05-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/62fc4822-2c07-4c49-8741-1e56e4dda34d"
+        },
+        {
+          "name": "Good to Be Bad",
+          "date": "2008-04-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/644b8b9e-c232-3049-be25-fe021b4046a7"
+        },
+        {
+          "name": "Slip of the Tongue",
+          "date": "1989-11-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6b27e675-e131-39e4-a061-69815ab52f98"
+        },
+        {
+          "name": "Starkers in Tokyo",
+          "date": "1997-09-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6b6276ad-ae37-328a-828f-a04294c71a18"
+        },
+        {
+          "name": "1987 / Slip of the Tongue",
+          "date": "2000-05-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6bc69e50-50c4-4a23-b20e-75d35018ab09"
+        },
+        {
+          "name": "Live… In the Heart of the City",
+          "date": "1980-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6c202510-39dd-37f6-a3d1-6b83c13bfff0"
+        },
+        {
+          "name": "The Definitive Collection",
+          "date": "2006-02-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6d8e4f55-f19d-3482-8be3-bb36a599c524"
+        },
+        {
+          "name": "The Deeper the Love",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/72151f61-958a-3a8d-a432-98f4630ee50b"
+        },
+        {
+          "name": "Burn (2023 Remix)",
+          "date": "2023-08-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/73105ede-4ebc-406a-9758-30ff935b7669"
+        },
+        {
+          "name": "Would I Lie to You",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/74957b7d-4f66-419a-9f41-0562a4c07d43"
+        },
+        {
+          "name": "Give Me All Your Love",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7c08ec44-a659-4134-b7e3-1d01cc07b5fa"
+        },
+        {
+          "name": "Is This Love",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81e18763-fbdb-4e2b-9c54-b0b28b83daab"
+        },
+        {
+          "name": "Give Me More Time",
+          "date": "1984",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/83dfec6e-5530-4f35-888f-181cc64d5d19"
+        },
+        {
+          "name": "The ROCK Album",
+          "date": "2020-06-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8567ee61-f2de-4c86-91db-f77ff201f18f"
+        },
+        {
+          "name": "Don't Fade Away",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/87640f2f-3b41-40c2-a1d3-72844913cdf2"
+        },
+        {
+          "name": "1980-04-11: Tokyo Bites: Tokyo, Japan",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8a2736f4-53f5-3984-89db-0be336c8f604"
+        },
+        {
+          "name": "The Early Years",
+          "date": "2004-02-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8bd7c517-86a5-3e37-8304-02b22df4fe56"
+        },
+        {
+          "name": "Trouble",
+          "date": "1978",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/90ba7bc4-fc5e-3103-b539-97070e1ddc38"
+        },
+        {
+          "name": "Ready an’ Willing",
+          "date": "1980",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9192d467-ed14-3e49-99e9-82a3bda78910"
+        },
+        {
+          "name": "The Back to Black Collection",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9c88ee85-5377-4c5d-8b8a-8960b2bd53c8"
+        },
+        {
+          "name": "The Definitive Collection",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9c956e28-1606-3fc5-96a8-5bb3dcb7adf9"
+        },
+        {
+          "name": "1987",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9d663590-a60c-4169-99f0-51c269ba0ab9"
+        },
+        {
+          "name": "Winning Combinations",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9e2fbb55-652e-4adc-8606-d85d0cb9725f"
+        },
+        {
+          "name": "Love Songs",
+          "date": "2020-11-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9fc77b40-380c-4f0a-b47f-91a53600eaf0"
+        },
+        {
+          "name": "Live... In the Heart of the City: Complete",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a0289062-f049-4fe2-b97e-ca6a9bac53e5"
+        },
+        {
+          "name": "1979-08-26: Wrathchild: Reading Festival, Berkshire, UK",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a49e2116-7c7a-37ea-b456-13631bf93773"
+        },
+        {
+          "name": "Live in the Shadow of the Blues",
+          "date": "2006-11-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a615c0e2-6cb5-3c91-b180-a84880607410"
+        },
+        {
+          "name": "Best Ballads",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/aa2d2cd4-3fa3-4061-b2dc-da366121eeb2"
+        },
+        {
+          "name": "Here I Go Again ’87",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ac71380d-2618-4ed0-8f4f-45d56e70c918"
+        },
+        {
+          "name": "Always the Same (2020 remix)",
+          "date": "2020-04-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ad2039d1-a70b-4491-bf43-4d54fab08133"
+        },
+        {
+          "name": "The Purple Tour",
+          "date": "2018-01-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ae97968d-33b3-4bfe-8096-ee5ee46a91e6"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/aec7f6bd-1557-4dd0-aeba-a4dc2b0faf42"
+        },
+        {
+          "name": "Saints & Sinners",
+          "date": "1982-11-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b0dda456-8965-39ee-b933-6d2810c5a742"
+        },
+        {
+          "name": "Restless Heart",
+          "date": "1997-03-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b140bddd-c8b1-33ec-94f9-a48783eb3c28"
+        },
+        {
+          "name": "1988-06-13: Bad Boy Boogie: Tokyo, Japan",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b27497ad-bf94-386c-b01f-d33bf4d789b0"
+        },
+        {
+          "name": "Too Many Tears",
+          "date": "1997-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b2f6423a-532e-48ac-90d2-b6b4cfd784ff"
+        },
+        {
+          "name": "Snake Bites",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b807cf5b-9b29-4af3-a41a-067273c2fd24"
+        },
+        {
+          "name": "Here I Go Again",
+          "date": "1982",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bdfbaba8-32a2-4f78-ba52-1bb1f1f101dc"
+        },
+        {
+          "name": "The Best of Whitesnake",
+          "date": "2021-06-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/be69c07e-d206-453a-8b64-8279a3b45845"
+        },
+        {
+          "name": "Don’t Break My Heart Again",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bfca6722-d081-4955-94b5-f48bbb12bd1c"
+        },
+        {
+          "name": "The Silver Anniversary Collection",
+          "date": "2003-05-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c5bf3c0a-a54e-3961-b2a1-7a0754ffad34"
+        },
+        {
+          "name": "Live in '84: Back to the Bone",
+          "date": "2014-11-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/caa7847d-51ce-4214-afc2-45b4cb915170"
+        },
+        {
+          "name": "Live in the Still of the Night",
+          "date": "2006",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cb7a2fd8-69ce-38d2-8054-73af6a5cb610"
+        },
+        {
+          "name": "Lovehunter",
+          "date": "1979",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cb98c75d-7a36-39dc-8fd1-98f955b29f87"
+        },
+        {
+          "name": "Lovehunter / Saints An' Sinners",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cd4053c2-d68b-4aca-bcc1-807fb1949969"
+        },
+        {
+          "name": "Now You're Gone",
+          "date": "1990-05-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d6038ca5-ac14-465a-a3f3-7f4c2e96f840"
+        },
+        {
+          "name": "1980-04-14: Linehunter: Tokyo, Japan",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d8f056f5-b642-42ab-8ced-23b39fc71a8e"
+        },
+        {
+          "name": "Here I Go Again",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d9a956b9-bc6d-4947-945a-2a028a5a376b"
+        },
+        {
+          "name": "1978-07-05: BBC In Concert",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d9d68fe8-ae05-417a-853e-7da2c2945167"
+        },
+        {
+          "name": "Trouble Is Your Middle Name",
+          "date": "2019-03-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dcaf7e62-8392-498f-a2bf-27581f339e6c"
+        },
+        {
+          "name": "Give Me All Your Love (2020 remix)",
+          "date": "2020-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e1e6d3b8-4498-411f-a3e3-1c6387bc2a70"
+        },
+        {
+          "name": "Made in Britain / The World Record",
+          "date": "2013-06-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e3b2b8d9-b1b7-4601-bfb1-ef27983f3acf"
+        },
+        {
+          "name": "Slide It In",
+          "date": "1984-01-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e58c6c0a-7602-3251-8111-8820a8764162"
+        },
+        {
+          "name": "Forevermore",
+          "date": "2011-03-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e78c17e1-31c2-4e34-84e2-bcc7fe68f057"
+        },
+        {
+          "name": "Access All Areas: Live",
+          "date": "2025-04-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e8616bbc-54e5-4f9c-90b8-240923eedc88"
+        },
+        {
+          "name": "All for Love",
+          "date": "2008",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ecde67ce-8b40-4753-ac82-5a705c94183c"
+        },
+        {
+          "name": "1978-11-01: The Devil In Me: Brighton, England",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f5c20af1-98a1-4491-bcb3-cf05d25ff4a3"
+        },
+        {
+          "name": "1980-06-15: Preston Guild Hall, Preston, England",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f71147ba-3105-43cf-996c-2bdf321b8b74"
+        },
+        {
+          "name": "The Best of Whitesnake",
+          "date": "1982",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f9986b45-6447-4994-8076-81ac419fe242"
+        },
+        {
+          "name": "Unzipped",
+          "date": "2018-10-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ffb9df63-715d-4f3f-a661-253cec845510"
+        }
+      ]
     }
   },
   "checked": {
@@ -28705,6 +29732,8 @@
     "ufo": "2026-10-19T10:24:23.646603+00:00",
     "uriah-heep": "2026-10-19T10:24:27.501706+00:00",
     "van-halen": "2026-10-19T17:07:16.848393+00:00",
-    "venom": "2026-10-19T17:07:18.078343+00:00"
+    "venom": "2026-10-19T17:07:18.078343+00:00",
+    "w-a-s-p": "2026-10-19T21:31:42.203200+00:00",
+    "whitesnake": "2026-10-19T21:31:46.073626+00:00"
   }
 }

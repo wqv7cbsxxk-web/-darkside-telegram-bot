@@ -388,10 +388,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.blueoystercult.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blue_Oyster_Cult",
-      "reference_checked_at": "2026-10-12T21:28:15.787040+00:00",
+      "reference_checked_at": "2026-10-19T21:31:32.640439+00:00",
       "tour_attempted_at": "2026-10-17T17:33:08.759424+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-12T21:28:15.787132+00:00"
+      "reference_attempted_at": "2026-10-19T21:31:32.640558+00:00"
     },
     "cannibal-corpse": {
       "origin": "Buffalo, New York , U.S.",
@@ -422,10 +422,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://cannibalcorpse.net",
       "reference_url": "https://en.wikipedia.org/wiki/Cannibal_Corpse",
-      "reference_checked_at": "2026-10-12T21:28:15.983013+00:00",
+      "reference_checked_at": "2026-10-19T21:31:32.956915+00:00",
       "tour_attempted_at": "2026-10-17T19:44:55.309813+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-12T21:28:15.983162+00:00"
+      "reference_attempted_at": "2026-10-19T21:31:32.957083+00:00"
     },
     "dark-tranquillity": {
       "origin": "Billdal , Gothenburg , Sweden",
@@ -460,10 +460,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://darktranquillity.com",
       "reference_url": "https://en.wikipedia.org/wiki/Dark_Tranquillity",
-      "reference_checked_at": "2026-10-12T21:28:16.139266+00:00",
+      "reference_checked_at": "2026-10-19T21:31:33.043758+00:00",
       "tour_attempted_at": "2026-10-17T19:44:56.144947+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-12T21:28:16.139284+00:00"
+      "reference_attempted_at": "2026-10-19T21:31:33.043780+00:00"
     },
     "darkthrone": {
       "origin": "Kolbotn , Akershus , Norway",
@@ -482,9 +482,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Darkthrone",
-      "reference_checked_at": "2026-10-12T21:28:16.301938+00:00",
+      "reference_checked_at": "2026-10-19T21:31:33.144810+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-12T21:28:16.301957+00:00"
+      "reference_attempted_at": "2026-10-19T21:31:33.144830+00:00"
     },
     "deftones": {
       "origin": "Sacramento, California , U.S.",
@@ -511,10 +511,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://deftones.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deftones",
-      "reference_checked_at": "2026-10-12T21:28:16.517365+00:00",
+      "reference_checked_at": "2026-10-19T21:31:33.463567+00:00",
       "tour_attempted_at": "2026-10-17T19:44:56.588179+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-12T21:28:16.517529+00:00"
+      "reference_attempted_at": "2026-10-19T21:31:33.463753+00:00"
     },
     "death": {
       "origin": "Altamonte Springs, Florida , U.S.",
@@ -549,10 +549,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://emptywords.org",
       "reference_url": "https://en.wikipedia.org/wiki/Death_%28metal_band%29",
-      "reference_checked_at": "2026-10-12T21:28:16.694616+00:00",
+      "reference_checked_at": "2026-10-19T21:31:33.585072+00:00",
       "tour_attempted_at": "2026-10-17T19:44:58.041980+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-12T21:28:16.694636+00:00"
+      "reference_attempted_at": "2026-10-19T21:31:33.585092+00:00"
     },
     "def-leppard": {
       "origin": "Sheffield , England",
@@ -2738,7 +2738,7 @@
       "website": "http://www.symphonyx.com",
       "reference_url": "https://en.wikipedia.org/wiki/Symphony_X",
       "reference_checked_at": "2026-10-14T22:43:49.114777+00:00",
-      "tour_attempted_at": "2026-10-15T15:21:33.859405+00:00",
+      "tour_attempted_at": "2026-10-19T21:31:33.788359+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T22:43:49.114799+00:00"
     },
@@ -2768,7 +2768,7 @@
       "website": "http://systemofadown.com",
       "reference_url": "https://en.wikipedia.org/wiki/System_Of_A_Down",
       "reference_checked_at": "2026-10-14T22:43:49.469523+00:00",
-      "tour_attempted_at": "2026-10-15T15:21:34.409991+00:00",
+      "tour_attempted_at": "2026-10-19T21:31:34.301953+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T22:43:49.469544+00:00"
     },
@@ -2806,7 +2806,7 @@
       "website": "https://www.thecontortionist.net/",
       "reference_url": "https://en.wikipedia.org/wiki/The_Contortionist",
       "reference_checked_at": "2026-10-14T22:43:49.560270+00:00",
-      "tour_attempted_at": "2026-10-15T15:21:34.805304+00:00",
+      "tour_attempted_at": "2026-10-19T21:31:34.446269+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-14T22:43:49.560290+00:00"
     },
@@ -2852,7 +2852,7 @@
         "members_checked_at": "2026-10-02T02:29:28.923484+00:00",
         "about": ""
       },
-      "tour_attempted_at": "2026-10-15T15:21:34.993137+00:00",
+      "tour_attempted_at": "2026-10-19T21:31:34.777506+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T00:58:24.733653+00:00"
     },
