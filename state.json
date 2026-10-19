@@ -791,49 +791,17 @@
     "ffe54278ab247eec541a358aa60a18e6ff924739",
     "0975d33cd6e2e303583d236ebfbc841c97e34a2a",
     "71360d11b253ba22471e4f512456a6dd6e36ec45",
-    "3e4f40043af20792a2dfa6428014839bc71b4702"
+    "3e4f40043af20792a2dfa6428014839bc71b4702",
+    "a7d246ffd514005fe24fbf9377c3029eb4d41f03",
+    "bd5c4e503fadffb9c1d29fbd051c53fd0cc20f1e",
+    "a725db66f05f550edacadcbcee44084fbf990537",
+    "55f2280ae7bd213dcd1361387199c72b66e24a44",
+    "7d632d40eb24536f16661e7cdd8307811850bc22",
+    "a5480d81358f6978f347f9cba6aa4f693e44b5d6",
+    "e7bb2a2d438030c2f84d1e61ded56c584bd247e6",
+    "c9b4e7d8a77d0dd0806ecbdb7e882bc9d5b85fec"
   ],
   "recent_titles": [
-    {
-      "title": "Iron Maiden’s Bruce Dickinson Performed “The Trooper” From Backstage In Ecuador Due To Smoke From Flares In The Audience",
-      "source": "ThePRP",
-      "ts": 1792186038
-    },
-    {
-      "title": "He Is Legend’s “91025” EP Has Newly Been Remastered For Its Vinyl Debut",
-      "source": "ThePRP",
-      "ts": 1792186043
-    },
-    {
-      "title": "Rodrigo Y Gabriela on the new album, outrunning the law, and the pleasures/perils of busking",
-      "source": "Louder",
-      "ts": 1792194690
-    },
-    {
-      "title": "Umbilicus (Cannibal Corpse, Deicide, Etc.) Debut “Prelude: Eternity”",
-      "source": "ThePRP",
-      "ts": 1792194702
-    },
-    {
-      "title": "Metallica Share Official Live Video For “…And Justice For All” From Their Residency At The Sphere",
-      "source": "ThePRP",
-      "ts": 1792194708
-    },
-    {
-      "title": "Музыканты AMORPHIS в новом клипе INSOMNIUM",
-      "source": "Darkside",
-      "ts": 1792194710
-    },
-    {
-      "title": "Silvertomb (Ex-Type O Negative) Premiere New Single “Brain Matter/No God”",
-      "source": "ThePRP",
-      "ts": 1792194717
-    },
-    {
-      "title": "Glenn Hughes offers some philosophical life advice as he recovers from 10 hour open heart surgery operation",
-      "source": "Louder",
-      "ts": 1792194728
-    },
     {
       "title": "Insomnium Premiere “The Hour Grows Late” Video, Amorphis Members Guest",
       "source": "ThePRP",
@@ -1593,6 +1561,46 @@
       "title": "System Of A Down Announce Rose Bowl Show As Their Lone U.S. Date For 2027",
       "source": "ThePRP",
       "ts": 1792429607
+    },
+    {
+      "title": "Taylor Barber (Left To Suffer, Seven Hours) Shows Up On A Denny’s Social Media Video",
+      "source": "ThePRP",
+      "ts": 1792445428
+    },
+    {
+      "title": "YOB, Kylesa, Windhand, Etc. Announced For 2027 ‘Desertfest London’",
+      "source": "ThePRP",
+      "ts": 1792445433
+    },
+    {
+      "title": "Ocean Grove, UnityTX & Diamond Construct Announce 2027 European/UK Tour",
+      "source": "ThePRP",
+      "ts": 1792445436
+    },
+    {
+      "title": "How Street Fighter star David Dastmalchian channelled Tool, Nine Inch Nails, Deftones to get into the mindset of a villain",
+      "source": "Louder",
+      "ts": 1792445457
+    },
+    {
+      "title": "Anciients Officially Welcome 3 Inches Of Blood’s Justin Hagberg As A Permanent Member",
+      "source": "ThePRP",
+      "ts": 1792445466
+    },
+    {
+      "title": "Artificial Brain’s “Planet: Carrion” Music Video Debuts",
+      "source": "ThePRP",
+      "ts": 1792445477
+    },
+    {
+      "title": "Metallica Share Official Live Footage Of “Devil’s Dance” At The Sphere",
+      "source": "ThePRP",
+      "ts": 1792445482
+    },
+    {
+      "title": "Fake Names (Bad Religion, Refused, Etc.) Premiere “Punk Ruins” Lyric Video",
+      "source": "ThePRP",
+      "ts": 1792445486
     }
   ],
   "initialized_sources": [
@@ -3602,7 +3610,7 @@
       "title": "Listen: The Pretty Reckless Enlists Dave Grohl and Pat Smear on New \"About You\"",
       "link": "https://metalinjection.net/news/listen-the-pretty-reckless-enlists-dave-grohl-and-pat-smear-on-new-about-you",
       "rss_body": "\"I called Dave and Pat and asked them if they’d lend their magic to it. It was an amazing time in the studio making music, there’s nothing better than jamming with friends. I couldn’t be happier with the result.”",
-      "tags": "Latest News the pretty reckless",
+      "tags": "Latest News the pretty reckless featured",
       "category": "Хэви-метал",
       "published": "2026-10-17T15:46:43+00:00",
       "id": "17fb72fb196f9cfc779369925273ef76e14f814e",
@@ -3638,7 +3646,7 @@
       "title": "5 Metal Reunions That Collapsed Over Time",
       "link": "https://metalinjection.net/lists/5-metal-reunions-that-collapsed-over-time",
       "rss_body": "Getting the band back together sounds simple. These five prove exactly how badly it can go.",
-      "tags": "Lists KISS reunion morbid angel celtic frost Trouble kyuss featured1",
+      "tags": "Lists KISS reunion morbid angel celtic frost Trouble kyuss featured2",
       "category": "Экстремальный метал",
       "published": "2026-10-18T13:48:23+00:00",
       "id": "e60ce886de7ed29dbe56084a288ebd2a75bf0094",
@@ -3698,7 +3706,7 @@
       "title": "Judas Priest Launches Virtual Scrapbook Detailing Band's Early Years",
       "link": "https://metalinjection.net/news/judas-priest-launches-virtual-scrapbook-detailing-bands-early-years",
       "rss_body": "Few gaggles of old men cram as much history into one news cycle as Judas Priest. In a single week, the Metal Gods celebrated a 50-year-old classic, bid farewell to […]",
-      "tags": "Latest News In the News kk downing Uriah Heep Judas Priest Ian Hill",
+      "tags": "Latest News In the News kk downing Uriah Heep featured judas priest Ian Hill",
       "category": "Хард-рок",
       "published": "2026-10-18T16:38:08+00:00",
       "id": "871c216a743cfb918ed9f1c13570e5899626ad1b",
@@ -3722,7 +3730,7 @@
       "title": "System of a Down Announces 2027 Rose Bowl Show With Pierce the Veil",
       "link": "https://metalinjection.net/tour-dates/system-of-a-down-announces-2027-rose-bowl-show-with-pierce-the-veil",
       "rss_body": "Surprise! Sort of.",
-      "tags": "Tour Dates",
+      "tags": "Tour Dates System Of A Down Pierce The Veil featured1",
       "category": "Хэви-метал",
       "published": "2026-10-19T15:11:43+00:00",
       "id": "95d06f7f857cb151a8d43b8e47aa307bd83ed897",
@@ -3746,7 +3754,7 @@
       "title": "London Politician Calls on Wembley Stadium to Reconsider Marilyn Manson’s Slipknot Booking",
       "link": "https://metalinjection.net/news/london-politician-calls-on-wembley-stadium-to-review-marilyn-mansons-slipknot-booking",
       "rss_body": "\"Wembley Stadium needs to explain what consideration was given to them before this booking was confirmed.\"",
-      "tags": "Latest News Slipknot Marilyn Manson",
+      "tags": "Latest News Slipknot Marilyn Manson featured2",
       "category": "Хэви-метал",
       "published": "2026-10-19T14:13:37+00:00",
       "id": "be1139c09e1ee624d67752284d3e006095c725f3",
@@ -3805,11 +3813,134 @@
       "priority": 84,
       "title": "Bon Jovi announce London Hyde Park show for 2027 alongside more stadium shows",
       "link": "https://www.loudersound.com/bands-artists/live-performances/its-a-full-circle-moment-bon-jovi-announce-huge-london-hyde-park-show-for-2027-as-first-bst-headliner",
-      "rss_body": "Bon Jovi\n\nhave been confirmed as the first headliners for next year's British Summer Time festival, which will take place across multiple weekends in Hyde Park, London across summer 2027.\n\nHeadlining Hyde Park on Thursday June 24, the announcement marks what will be Bon Jovi's fourth time at Hyde Park, having previously played there in 2000, 2003, 2011 and 2013, the last of which was also a British Summer Time headline show and the first edition of the BST event.\n\n“We have a storied history with performing at Hyde Park on previous tours and it’s a full circle moment to be returning to BST Hyde Park, 14 years after headlining the very first festival,” says Jon Bon Jovi of returning to London. “The Forever Tour has been an incredible celebration of the music and the fans who have been with us all these years. There’s nothing quite like the energy of a UK crowd, and the joy and excitement we shared with our fans this summer was something truly special. To bring that energy back to Hyde Park means a lot to us. We’re grateful for every one of you and can’t wait to make more memories together.”\n\n\"Bon Jovi helped launch BST Hyde Park in 2013, and it’s a pleasure to welcome them back,\" adds CEO of AEG Presents UK and European Festivals, Jim King. \"They are one of the defining rock bands of their generation, with an extraordinary catalogue of hits and a live show that remains as powerful and compelling as ever. They continue to connect with audiences around the world, making this rare return to Hyde Park a genuinely special occasion.”\n\nTickets for Bon Jovi's BST day will go on sale from the\n\nofficial BST website\n\non Monday October 19 at 1pm BST (Amex pre-sale), Wednesday October 21 at 10am BST (artist pre-sale), Thursday October 22 at 10am BST (AEG pre-sale) and Friday October 23 at 10am BST (general sale).\n\nBon Jovi have also announced new stadium shows for dates in Australia, the US and Canada in 2027. See the full list of dates below.\n\nBon Jovi's latest studio album,\n\nForever\n\n, was released in 2024.\n\nBon Jovi tour dates 2027\n\nMar 4 Melbourne, Australia Marvel Stadium\n\nMar 11 Sydney Olympic Park, Australia Accor Stadium\n\nJun 24 London, UK BST Hyde Park\n\nJul 15 East Rutherford, NJ MetLife Stadium\n\nJul 21 Chicago, IL Soldier Field Stadium\n\nJul 28 Foxborough, MA Gillette Stadium\n\nAug 4 Toronto, ON Canada Rogers Stadium",
+      "rss_body": "Bon Jovi\n\nhave been confirmed as the first headliners for next year's British Summer Time festival, which will take place across multiple weekends in Hyde Park, London across summer 2027.\n\nHeadlining Hyde Park on Thursday June 24, the announcement marks what will be Bon Jovi's fourth time at Hyde Park, having previously played there in 2000, 2003, 2011 and 2013, the last of which was also a British Summer Time headline show and the first edition of the BST event.\n\n“We have a storied history with performing at Hyde Park on previous tours and it’s a full circle moment to be returning to BST Hyde Park, 14 years after headlining the very first festival,” says Jon Bon Jovi of returning to London. “The Forever Tour has been an incredible celebration of the music and the fans who have been with us all these years. There’s nothing quite like the energy of a UK crowd, and the joy and excitement we shared with our fans this summer was something truly special. To bring that energy back to Hyde Park means a lot to us. We’re grateful for every one of you and can’t wait to make more memories together.”\n\n\"Bon Jovi helped launch BST Hyde Park in 2013, and it’s a pleasure to welcome them back,\" adds CEO of AEG Presents UK and European Festivals, Jim King. \"They are one of the defining rock bands of their generation, with an extraordinary catalogue of hits and a live show that remains as powerful and compelling as ever. They continue to connect with audiences around the world, making this rare return to Hyde Park a genuinely special occasion.”\n\nTickets for Bon Jovi's BST day will go on sale from the\n\nofficial BST website\n\non Monday October 19 at 1pm BST (Amex pre-sale), Wednesday October 21 at 10am BST (artist pre-sale), Thursday October 22 at 10am BST (AEG pre-sale) and Friday October 23 at 10am BST (general sale).\n\nBon Jovi have also announced new stadium shows for dates in Australia, the US and Canada in 2027. See the full list of dates below.\n\nBon Jovi's latest studio album,\n\nForever\n\n, was released in 2024.\n\nBon Jovi tour dates 2027\n\nMar 04: Melbourne Marvel Stadium, Australia\n\nMar 11: Sydney Olympic Park, Australia\n\nJun 24: London BST Hyde Park, UK\n\nJul 15: East Rutherford MetLife Stadium, NJ\n\nJul 21: Chicago Soldier Field Stadium, IL\n\nJul 28: Foxborough Gillette Stadium, MA\n\nAug 04: Toronto Rogers Stadium, ON\n\nFind Bon Jovi tickets\n\n.",
       "tags": "Live Performances Bands & Artists",
       "category": "Хэви-метал",
       "published": "2026-10-19T11:00:00+00:00",
       "id": "1480bb2857af89648d345cb5e45bd1bddc312080",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Ozzy Osbourne Producer Andrew Watt Says Unreleased Songs Made “For a Specific Reason” Still Exist",
+      "link": "https://metalinjection.net/news/ozzy-osbourne-producer-andrew-watt-says-unreleased-songs-made-for-a-specific-reason-still-exist",
+      "rss_body": "\"They’re hard for me to listen to.\"",
+      "tags": "Latest News ozzy osbourne",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T20:46:28+00:00",
+      "id": "89599497293a46a23cf1bbd976b46cee48fb6f92",
+      "retry_after": 1792445737
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Sonic Temple Reveals Meshuggah, Testament + More to Play 2027 Festival",
+      "link": "https://metalinjection.net/news/sonic-temple-reveals-meshuggah-testament-more-to-play-2027-festival",
+      "rss_body": "Sonic Temple has announced the second wave of bands playing the Columbus, Ohio-based festival this year with yet another blend of metal and pop-punk bands. This new lot of bands […]",
+      "tags": "Latest News Sonic Temple",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T20:15:49+00:00",
+      "id": "4e7d490c705992631896877d4b6801c02d85dece",
+      "retry_after": 1792445737
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Track Premiere: Electric Valley – “Gata”",
+      "link": "https://www.decibelmagazine.com/2026/10/19/track-premiere-electric-valley-gata/",
+      "rss_body": "Spanish space rockers\n\nElectric Valley\n\nare exploring the cosmos once again with new track “Gata,” taken from the trio’s upcoming fourth full-length\n\nEcho\n\n. We’re offering up the six-minute video, “a new sci-fi story,”\n\ncreated and produced by the band with MindVideo IA. On this sonic slow-burner, the opening minutes are light, airy and psychedelic as a spaceship floats off into the galaxy, its astronauts unconscious in pods, unaware of their impending doom. When the their ship encounters an asteroid field and gets damaged, the music transitions into heavy fuzzed-out riffs and Electric Valley—\n\nMario García (guitar), Charlie Sánchez (drums), Miky Simón (bass/vocals—provide the crushing soundtrack to the hapless space travelers’ demise as they crash and burn.\n\nEcho\n\nwas recorded by Javier Ortiz at Studio Brazil, Madrid, Spain, except the title track which was recorded by Eric Medina at Abuso De Confianza Studio in Madrid. All songs were mixed by Charlie Sanchez, except “Echo” (by Eric Medina). Mastering was handled by Chris Goosman at Baseline Audio Labs, Ann Arbor, MI. It’s set for release on vinyl, CD and digitally via Small Stone Recordings on November 6. Place your preorder\n\nhere\n\n.\n\nBassist/vocalist Miky Simón offered this description of the band’s latest effort:\n\n“‘Gata’ narrates a space mission that ends in catastrophe. Two humans destined to spend eternity together see their destiny truncated in a space odyssey that breaks their ties and ends their mission in an unexpected and tragic way. A psychedelic beginning with kraut rock vibes and space rock atmospheres grows until it explodes with the perfect storm of heavy riffs to narrate a crushing ending.”",
+      "tags": "Exclusive Featured Track Premiere Videos Echo Electric Valley Gata Madrid psych rock Small Stone Records Space rock Spain stoner rock",
+      "category": "Прогрессив",
+      "published": "2026-10-19T19:00:27+00:00",
+      "id": "d3a3a5b910c05b0a6836f557ed8edcfc35ce83c0",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Sleep Token Distance Themselves From New Mystery Band Arcus",
+      "link": "https://www.theprp.com/2026/10/19/news/sleep-token-distance-themselves-from-new-mystery-band-arcus/",
+      "rss_body": "The latter band had been promoting themselves as being from the 'co-creator of Sleep Token.'",
+      "tags": "News Arcus Sleep Token",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T18:50:47+00:00",
+      "id": "3d852e9d6a4a084f13e355bd242108793cd0f917",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Watch: Bring Me The Horizon’s Oli Sykes & Spiritbox’s Courtney LaPlante Perform “If The Sun Burns Out Tonight” At Valorant Champions Grand Finals Opening Ceremony",
+      "link": "https://www.theprp.com/2026/10/19/news/watch-bring-me-the-horizons-oli-sykes-spiritboxs-courtney-laplante-perform-if-the-sun-burns-out-tonight-at-valorant-champions-grand-finals-opening-ceremony/",
+      "rss_body": "Complete with lasers, choreography and elaborate stage production.",
+      "tags": "News Bring Me The Horizon Courtney LaPlante Oli Sykes Spiritbox",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T18:32:28+00:00",
+      "id": "5e3fcccc11b639587cfdbc69afa19a69064566fc",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Gates To Hell Drop Off Despised Icon, Carnifex & Suffocation European/UK Tour, Replacements Announced",
+      "link": "https://www.theprp.com/2026/10/19/news/gates-to-hell-drop-off-despised-icon-carnifex-suffocation-european-uk-tour-replacements-announced/",
+      "rss_body": "Gutrectomy and Kanine will be picking up select dates.",
+      "tags": "News Carnifex Despised Icon Gates To Hell Suffocation",
+      "category": "Экстремальный метал",
+      "published": "2026-10-19T18:17:08+00:00",
+      "id": "21524d6ba23a22ff1a4fee1674bad90ad961a017",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Papa Roach Announces 2027 Arena Tour With Ice Nine Kills",
+      "link": "https://metalinjection.net/tour-dates/papa-roach-announces-2027-arena-tour-with-ice-nine-kills",
+      "rss_body": "General sale tickets launch this Friday, October 23.",
+      "tags": "Tour Dates papa roach Ice Nine Kills ninth key",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T17:09:16+00:00",
+      "id": "43c4f56ed9c715afe06d05133b00f7aa967b574d",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Sleep Token Issue Rare Statement After New Band Promoted as From Their “Co-Creator”",
+      "link": "https://metalinjection.net/news/sleep-token-issue-rare-statement-after-new-band-promoted-as-from-their-co-creator",
+      "rss_body": "\"What is ours is here, and here alone.\"",
+      "tags": "Latest News Sleep Token arcus",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T16:43:30+00:00",
+      "id": "215f3c05f1717ab4472d1bb78dd3e2e825dbfc54",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Bring Me the Horizon's Oli Sykes and Spiritbox's Courtney Laplante Perform Collaboration Live",
+      "link": "https://metalinjection.net/news/watch-bring-me-the-horizons-oli-sykes-and-spiritboxs-courtney-laplante-perform-collaboration-live",
+      "rss_body": "The two frontpeople brought their massive collab to China.",
+      "tags": "Latest News Bring Me the Horizon oli sykes Spiritbox Courtney LaPlante",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T15:34:21+00:00",
+      "id": "5f78597e52e1e77b5cd6fb67a9b926366f28da59",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Rock legends Toto announce 2027 UK and Ireland tour with support from Todd Rundgren",
+      "link": "https://www.loudersound.com/bands-artists/concerts-shows/its-going-to-be-a-great-time-for-everyone-rock-legends-toto-announce-2027-uk-tour-with-support-from-todd-rundgren",
+      "rss_body": "US rock icons\n\nToto\n\nhave announced their return to the UK and Ireland, and they'll be bringing none other than\n\nTodd Rundgren\n\nwith them for the ride.\n\n“From the earliest stages of our career, the UK has supported Toto,\" says Toto guitarist/vocalist Steve Lukather \"There is a mutual affection between us and the entire country. I can’t wait to bring them great shows featuring Joe, myself, and a band comprised of world-class musicians. It’s going to be a great time for everyone in the venues come summer.”\n\nToto's 50th Anniversary tour will take in seven arenas across Ireland and the UK, kicking off in Dublin, Ireland, before heading to Cork, Glasgow, Manchester, Birmingham, Cardiff and, finally, wrapping up in London at the historic Wembley Arena.\n\nSee the full list of dates below. Tickets for all shows go on sale this Friday, October 23, via\n\nthis location\n\n. These won't be Toto's only appearance in Europe this summer, as they follow the UK shows with an extensive run of bookings on the European mainland. The band also have Japanese dates in Osaka and Tokyo planned for March. Full dates below.\n\nToto 50th Anniversary Tour dates 2027\n\nMar 22: Osaka Asue Arena, Japan\n\nMar 23: Tokyo Ariake Arena, Japan\n\nJun 16: Dublin 3 Arena, Ireland*\n\nJun 17: Cork Marquee, Ireland*\n\nJun 19: Glasgow OVO Hydro, UK*\n\nJun 20: Manchester AO Arena, UK*\n\nJun 22: Birmingham bp pulse LIVE, UK*\n\nJun 24: Cardiff Ultilita Arena, UK*\n\nJun 25: London OVO Wembley Arena, UK*\n\nJul 01: Bordeaux Arkea Arena, France\n\nJul 03: Groningen Stadspark, Netherlands\n\nJul 05: Antwerp AFAS Dom, Belgium\n\nJul 06: Bremen Seebuhne an der Waterfront, Germany\n\nJul 08: Paris Accor Arena, France\n\nJul 09: Mainz Zitadelle Mainz Open Air, Germany\n\nJul 10: Balingen Marktplatz Open Air, Germany\n\nJul 12: Bonn Kunst!Rasen Bonn Gronau, Germany\n\nJul 13: Regensburg Open Air am Jahnstadion, Germany\n\nJul 14: Montreux Jazz Festival, Switzerland\n\nJul 16: Saint-Julian-En-Genevois Guitare en Scene Festival, France\n\nJul 19: Lucca Summer Festival, Italy\n\nJul 20: Este Castello Carrarese, Italy\n\nJul 21: Milan Parco della Musica, Italy\n\nJul 23: Klam Burg Clam, Austria\n\nJul 24: Konstanz Klein Venedig, Germany\n\nJul 25: Northeim Waldbuhne, Germany\n\nJul 27: Krakow Tauron Arena, Poland\n\nJul 29: Tallinn Unibet Arena, Estonia\n\nJul 30: Helsinki Helsinki Ice Hall, Finland\n\nAug 01: Rattvik Dalhalla, Sweden\n\nAug 02: Huskvarna Huskvarna Folkets Park, Sweden\n\n* with Toss Rundgren\n\nFind Toto tickets\n\n.",
+      "tags": "Concerts & Shows Bands & Artists Live Performances",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T09:25:20+00:00",
+      "id": "7c0691ea628826121e85548b56430a6a75095d45",
+      "duplicate_ids": [
+        "ee3b84bfd3eef5f76308920078c0664142e5c849"
+      ],
       "retry_after": 0
     }
   ]
