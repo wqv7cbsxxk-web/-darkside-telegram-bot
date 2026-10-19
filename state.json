@@ -756,49 +756,18 @@
     "e2650a270fa1b9e82c753e0aacb0e6cc49c53681",
     "c8b5184e03f2287c5093618a7da4acd2dbee90df",
     "88778b0392276b5ab5808ed18f7975da17829335",
-    "819a3961fa967c96d3c9ed7616121a476235b30a"
+    "819a3961fa967c96d3c9ed7616121a476235b30a",
+    "471d0ab68c50645e7d2357eac9aa5e4a075865a5",
+    "703dad9c6c5753f6e27d6bd0fa57503f0d35dc16",
+    "535d34c638f2f6afdda1850c81cf088d3c0f442f",
+    "97db385af5990e6312caaba86605e9e4f185118a",
+    "e181cb547b4bb863b0757114545fdef436ccb5e5",
+    "6fd08cfc2b358cf7cfed19ffa7bbee9f4e484db9",
+    "b596e191db5df83b083fbf45f55f3188009bf0f8",
+    "5461bdc34c0affe3f3d86d138ef0e571b77fb04a",
+    "a32835b68e8209126b2ca759f8fcc68af743d790"
   ],
   "recent_titles": [
-    {
-      "title": "We Came As Romans Enlist HEAVENSGATE For New Version Of “Where Did You Go?”",
-      "source": "ThePRP",
-      "ts": 1792127598
-    },
-    {
-      "title": "APOCALYPTICA в новом видео TARJA",
-      "source": "Darkside",
-      "ts": 1792127601
-    },
-    {
-      "title": "MARTY FRIEDMAN работает над новой музыкой",
-      "source": "Darkside",
-      "ts": 1792144189
-    },
-    {
-      "title": "Концертное видео MEGADETH",
-      "source": "Darkside",
-      "ts": 1792144191
-    },
-    {
-      "title": "Новая композиция UNHEILIG",
-      "source": "Darkside",
-      "ts": 1792144193
-    },
-    {
-      "title": "MARTY MUSIC впервые слышит хит RAMMSTEIN",
-      "source": "Darkside",
-      "ts": 1792144195
-    },
-    {
-      "title": "Chris Harms в новом видео CATALYST CRIME",
-      "source": "Darkside",
-      "ts": 1792144196
-    },
-    {
-      "title": "Trivium's Matt Heafy explains why he almost quit the band last year",
-      "source": "Louder",
-      "ts": 1792144209
-    },
     {
       "title": "Get a limited edition Pallas t-shirt and signed lyric sheet with our great new bundle",
       "source": "Louder",
@@ -1558,6 +1527,46 @@
       "title": "Greysight Sign With Seek & Strike, Debut “VIOLENCE IN BLOOM” Music Video From Their New EP",
       "source": "ThePRP",
       "ts": 1792360853
+    },
+    {
+      "title": "Beyond Nirvana: how Sub Pop shed its grunge origins to become one of the world's most daringly disruptive record labels",
+      "source": "Louder",
+      "ts": 1792368649
+    },
+    {
+      "title": "Charlotte Church: “I love Radiohead more than I could possibly love anything other than my kids.”",
+      "source": "Louder",
+      "ts": 1792368694
+    },
+    {
+      "title": "SHORT BUT SWEET: 1917, CISZA, HEXER, RANĂ",
+      "source": "No Clean Singing",
+      "ts": 1792368744
+    },
+    {
+      "title": "Lou Gramm Says 'It’ll Take a Miracle' to Bring Real Rock Back",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792368780
+    },
+    {
+      "title": "How Stereophonics' gritty, poetic debut album Word Gets Around set the small-town trio up for a big, bright future",
+      "source": "Louder",
+      "ts": 1792368813
+    },
+    {
+      "title": "Childhood Myths We Accepted as Absolute Fact (and Maybe Still Do)",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792368823
+    },
+    {
+      "title": "Wayne Hussey looks back on The Mission's debut album, God's Own Medicine",
+      "source": "Louder",
+      "ts": 1792368874
+    },
+    {
+      "title": "Ghost’s Tobias Forge brings his long-lost death metal band Repugnant back from the dead",
+      "source": "Louder",
+      "ts": 1792368890
     }
   ],
   "initialized_sources": [
@@ -2641,7 +2650,7 @@
       "category": "Прогрессив",
       "published": "2026-10-12T05:46:24+00:00",
       "id": "808238b24b152164b8b599f858b62cde56b5f9ea",
-      "retry_after": 1792360989
+      "retry_after": 1792368892
     },
     {
       "source": "Metal Injection",
@@ -2653,7 +2662,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T21:01:02+00:00",
       "id": "969d97253905597168fabf415fea9390493b098b",
-      "retry_after": 1792360989
+      "retry_after": 1792368892
     },
     {
       "source": "ThePRP",
@@ -2665,7 +2674,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T18:55:10+00:00",
       "id": "abf275665418aa54bf92e60afa2be9cd2561da58",
-      "retry_after": 1792361000
+      "retry_after": 1792368902
     },
     {
       "source": "Metal Injection",
@@ -2677,7 +2686,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-11T15:56:11+00:00",
       "id": "c4c0033e8848c44c4d3e94d73c71a07b84069639",
-      "retry_after": 1792361000
+      "retry_after": 1792368902
     },
     {
       "source": "Louder",
@@ -2689,7 +2698,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T15:00:00+00:00",
       "id": "0102c2be91b458ba311ab0d9ae5838eacdb32ff3",
-      "retry_after": 1792361004
+      "retry_after": 1792368906
     },
     {
       "source": "Metal Injection",
@@ -2701,7 +2710,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T14:52:46+00:00",
       "id": "d57214e6be19d7d0b00b9b89de84ca16bb058b74",
-      "retry_after": 1792361004
+      "retry_after": 1792368906
     },
     {
       "source": "Metal Injection",
@@ -2713,7 +2722,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T14:14:41+00:00",
       "id": "0e3227631c52c966ee2999135322b92ed5bb912e",
-      "retry_after": 1792361004
+      "retry_after": 1792368906
     },
     {
       "source": "Louder",
@@ -2725,7 +2734,7 @@
       "category": "Прогрессив",
       "published": "2026-10-11T12:00:00+00:00",
       "id": "546ea24ced5734c9f8ea4173c952d9d00f5779b9",
-      "retry_after": 1792361007
+      "retry_after": 1792368908
     },
     {
       "source": "Louder",
@@ -2737,19 +2746,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T22:48:09+00:00",
       "id": "cb1f7bb841035730a61630ef1a793c58a3020393",
-      "retry_after": 1792361092
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Beyond Nirvana: how Sub Pop shed its grunge origins to become one of the world's most daringly disruptive record labels",
-      "link": "https://www.loudersound.com/music/albums/beyond-nirvana-how-sub-pop-shed-its-grunge-origins-to-become-one-of-the-worlds-finest-most-eclectic-daringly-disruptive-record-labels",
-      "rss_body": "Founded by Olympia-born music fanatic/\n\nfanzine editor Bruce Pavitt\n\nand Seattle-based promoter and radio host Jonathan Poneman after the pair decided to document the obscure underground punk scenes cropping up in the Pacific NorthWest, Seattle’s Sub Pop Records was, and remains, a label born out of pure passion for music, mixed in with a whole lot of bravado.\n\nIts long-standing motto, \"Going out of business since 1988”, may seem tongue-in-cheek given how much the label is celebrated globally for its pivotal role in fostering the grunge scene and unearthing Nirvana, whose debut album Bleach was released in June 1989, but the Sub Pop journey has been far from smooth.\n\nOften scrambling to keep afloat amidst financial struggles and internal conflict, what the Seattle label has never lacked is personality, as evidenced by its extensive, eclectic roster. Spanning four decades, the Sub Pop catalogue ventures everywhere from garage rock to folk to psychedelic rock to post-punk, while retaining a distinct regional identity.\n\nThe label that served as the beating heart of grunge in the late '80s and '90s, has cleverly and cannily adapted to live on into the 21st century. Here is the Sub Pop story, post-grunge, told through five essential albums.\n\nThe Shins – Oh, Inverted World (2001)\n\n(Image credit: Sub Pop)\n\nAfter forming a joint venture with Warner Music Group in 1994, Sub Pop was struck by an identity crisis. With Pavitt keen to retain the company’s DNA and Poneman fixated on increasing revenues and stabilising their financial situation, the duo were at a crossroads.\n\nWith pressure to churn out new Next Big Things as the profile of alternative rock grew ever larger, there was a distinct shift in Sub Pop’s company culture, resulting in Pavitt exiting the label for good. Struggling to find stability and cycling through multiple new identities as it attempted to define itself post-grunge, by 1997 Sub Pop had almost collapsed completely.\n\nAfter years spent trying to turn the label into a corporate force, eventually Poneman realised why nothing was working. Reflecting on Sub Pop’s DNA, it became apparent that bands weren’t seeking out contracts with Sub Pop for the chance to become global megastars, they were drawn to its community foundations. After deciding that the way forward for Sub Pop was to realign with its initial vision, Sub Pop needed a new marquee artist: enter The Shins.\n\nClocking in at just 33 minutes, the Albuquerque band’s debut\n\nOh, Inverted World\n\nis a near-flawless summer pop rock record. With frontman James Mercer’s clever wordplay laced over endless swirling hooks, it proved to be a huge seller for the label, and a landmark release: suddenly, Sub Pop was cool again.\n\nThe Postal Service – Give Up (2003)\n\n(Image credit: Sub Pop)\n\nWith The Shins’ success empowering Sub Pop, the label began to forge a new identity. Rebranding as the home of dreamy American indie music, it would become home to artists such as Iron & Wine, Fleet Foxes, and Band of Horses. But no-one would release anything with quite as much impact as The Postal Service’s,\n\nGive Up\n\n.\n\nArriving at the label by chance due to Sub Pop A&R head Tony Kiewell’s friendships with Ben Gibbard and Jimmy Tamborello, the band’s only album brought an entirely new audience to the label, but its success was more than the label bargained for.\n\nPredicting that\n\nGive Up\n\nwould shift around 20,000 copies, Sub Pop feared their own figures may be optimistic, and duly recruited two of their heaviest hitters – The Shins and Iron & Wine – to cover the album’s tracks to help with promotion. But, once Gibbard and Tamborello returned from a month-long US tour following the album’s release, they were indie superstars.\n\nBecoming the second-best-selling Sub Pop album after\n\nBleach\n\n, the group’s debut brought nods to new wave and synth sounds of the 80s, but most importantly it brought a sense of connection. With music fans all over the world delving deep into their emotions while immersing hearts and souls into songs of doomed love and bittersweet memories, 2003 would be the year that indie broke worldwide, and Sub Pop was right at the heart of it.\n\nMetz - Metz (2012)\n\nIn the '90s, the debut album by Canadaian noise-rockers Metz would likely have emerged on Amphetamine Reptile Records, or perhaps on Trance Syndicate, the\n\nAustin, Texas indie label founded by Butthole Surfers drummer King Coffey. But the Ottowa trio were so enamoured with the iconic Seattle's label's catalogue that, even before they signed a deal with the label, they joked about naming the record\n\nSub Pop\n\nin its honour.\n\nWith eleven songs packed into its 29 minutes and 50 seconds run-time,\n\nMetz\n\nsounds like some of the best bands of the '90s - The Jesus Lizard, Helmet, Fugazi, Unsane, Shellac, Drive Like Jehu - melded into one beautiful slab of black vinyl. A cursory glance at the album's song titles -\n\nHeadache\n\n,\n\nSad Pricks\n\n,\n\nRats\n\n,\n\nWasted\n\n- telegraphs the tense, caustic, relentlessly aggressive vibe of the record, with walls of riffs erected, smashed into atoms, reconstructed and deconstructed. Metz are currently on an indefinite hiatus, but even if they'd imploded after this record, their place in noise-rock is assured.\n\nFather John Misty – Pure Comedy (2017)\n\n(Image credit: Sub Pop)\n\nInitiated into the Sub Pop family with Fleet Foxes back in 2008, Josh Tillman was always destined to be more than a drummer in a Seattle folk rock band. Though the band’s first two albums brought considerable success for the label, Tillman was a star in his own right, and upon his departure from Fleet Foxes in 2012, his potential began to be truly realised.\n\nAdopting the stage name of Father John Misty, 2012’s\n\nFear Fun\n\nand 2015’s\n\nI Love You, Honeybear\n\nintroduced a deep, introspective approach to songwriting worlds away from Fleet Foxes’ earnest expansiveness, chronicling the darker aspects of the human condition. Paired with a wry stage persona, this vision came to full fruition on his 2017 masterpiece,\n\nPure Comedy\n\n.\n\nAn immersive character study into his semi-fictionalised self, Father John Misty’s third album merged contemplative lyricism with gorgeous melody to completely shake up the alternative music scene. A melting pot of music, politics, technology, human nature, and connection, with\n\nPure Comedy\n\nSub Pop moved beyond simply providing a platform for incredible albums, to emerge as an incubator for some of the greatest and most ambitious songwriters of the modern age.\n\nSlift - Fantasia (2026)\n\nA genuine word of mouth sensation whose reputation spread spread globally following the recording of a session for Seattle's KEXP radio station, Slift - brothers Jean Fossat (vocals, guitar, synthesizers) and Rémi Fossat (bass), plus drummer Canek Flores, a friend of the duo since they were in high school together in Toulouse, France - formed in 2016, and signed a worldwide record deal with Sub Pop in 2023.\n\nNever shy of hyping up its artists, the label suggested that the trio's fourth album, this year's\n\nFantasia\n\n, had the potential \"not just to disrupt the status quo but perhaps to destroy it completely.\" Released in June,\n\nFantasia\n\nhas yet to turn the planet upside down, but its early days yet.\n\nA thrilling amalgam of post-rock, psychedelia, jazz-fusion, space rock, krautrock and prog, it's an unforgettable, DNA-rearranging sonic adventure, with the potential to make a solid 98% of modern rock bands seem utterly irrelevant. Released as Sub Pop turns 40, its a record that suggests that the label hasn't lost its hunger to disrupt and redefine rock for future generations.",
-      "tags": "Albums Music",
-      "category": "Хэви-метал",
-      "published": "2026-10-10T18:00:00+00:00",
-      "id": "471d0ab68c50645e7d2357eac9aa5e4a075865a5",
-      "retry_after": 0
+      "retry_after": 1792368911
     },
     {
       "source": "Metal Injection",
@@ -2761,7 +2758,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T16:11:17+00:00",
       "id": "8ae89ebe3bea2b95425db3413adfb09f7e9e7703",
-      "retry_after": 0
+      "retry_after": 1792368950
     },
     {
       "source": "Louder",
@@ -2773,7 +2770,7 @@
       "category": "Прогрессив",
       "published": "2026-10-10T16:00:00+00:00",
       "id": "998f5683f9550a81c70810e5b8306de3f2fbe759",
-      "retry_after": 0
+      "retry_after": 1792368981
     },
     {
       "source": "Metal Injection",
@@ -2785,31 +2782,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T15:40:59+00:00",
       "id": "071f28d3e5f796e65e81254814af7268b0e82fe8",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Charlotte Church: “I love Radiohead more than I could possibly love anything other than my kids.”",
-      "link": "https://www.loudersound.com/bands-artists/interviews/why-in-rainbows-is-national-treasure-charlotte-church-favourite-radiohead-album",
-      "rss_body": "In 1998, when she was just 12-years-old, Charlotte Church released an album of religious songs, Celtic trad standards and classical arias called\n\nVoice Of An Angel\n\nwhich went double-platinum in both the US (2 million sales) and UK (600,000 sales). But as she moved from her teenage years to adulthood, the Cardiff-born singer developed an interest in much noisier, left-field 'alternative rock', becoming a fan of\n\nNeutral Milk Hotel\n\n, The Van Pelt,\n\nThe Hold Steady\n\nand more.\n\nIn an entertaining 2013 interview with\n\nThe Quietus\n\n, Church - very much a 'national treasure' these days -singled out\n\nRadiohead\n\nas her favourite band, telling music writer Simon Price, “I love Radiohead more than I could possibly love anything other than my kids.”\n\nThe singer recalled seeing Thom Yorke's band play a “mindblowing” at Coachella festival the previous year, and admitted, “I just lost my shit.”\n\n“I got hysterical,” she remembered. “I was in floods of tears.... I’m not a crier, so I was like, Christ this is a bit embarrassing! And then I fell asleep for five minutes, because it got way too much for me.”\n\nAsked to nominate her favourite Radiohead album, Church plumped for the band's 2007 album\n\nIn Rainbows\n\n.\n\n“I find\n\nIn Rainbows\n\nRadiohead’s most succinct record,” she said. “Everything about it is inescapably ‘Radiohead’. Of all their albums from\n\nPablo Honey\n\nthrough to\n\nKing Of Limbs\n\n,\n\nIn Rainbows\n\nis the one that’s most ‘Radiohead’, if you know what I mean. It’s so lean and yet manages to pack the same punch as their more elaborately arranged records. It’s hopeful and joyous and uplifting, and I can cry my fucking eyes out to this record, and it feels bloody wonderful.\n\n“I love\n\nNude\n\nand the whole idea that they had this song kicking around for ages that they didn’t know how to make it work, and then they finally did it.”\n\nChurch admitted to Price that by the time the feature was published on the Quietus site, she might well wish she'd chosen to select\n\nKid A\n\nas her favourite record by her favourite band, “or the back end of\n\nHail To The Thief\n\ndovetailed onto the\n\nMy Iron Lung\n\nEP.”\n\n“Basically I really like Radiohead,” she concluded. “But I guess I’m not alone in that.”",
-      "tags": "Interviews Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-10-10T15:00:00+00:00",
-      "id": "703dad9c6c5753f6e27d6bd0fa57503f0d35dc16",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "SHORT BUT SWEET: 1917, CISZA, HEXER, RANĂ",
-      "link": "https://www.nocleansinging.com/2026/10/10/short-but-sweet-1917-cisza-hexer-rana/",
-      "rss_body": "(Andy Synn is in charge today… woe unto us all) These are dark days, my friends. Our beloved overlord has abandoned us to go off and… checks notes… have something called “a social life”? Which means it’s all up to little ol’ me to keep the site running this weekend while he’s off gallavanting around. Thankfully\n\n[...]",
-      "tags": "SHORT BUT SWEET 1917 Andy Synn Cisza Hexer Rana",
-      "category": "Хэви-метал",
-      "published": "2026-10-10T14:33:50+00:00",
-      "id": "535d34c638f2f6afdda1850c81cf088d3c0f442f",
-      "retry_after": 0
+      "retry_after": 1792368981
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2821,79 +2794,7 @@
       "category": "Хард-рок",
       "published": "2026-10-10T13:52:21+00:00",
       "id": "75481e168aec5f932156782b1bb4c73389f4fd27",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Lou Gramm Says 'It’ll Take a Miracle' to Bring Real Rock Back",
-      "link": "https://ultimateclassicrock.com/lou-gramm-on-bringing-real-rock-back/",
-      "rss_body": "Foreigner vocalist dismisses current music as commercial and poppy, and says radio wouldn't play his band's hits today.",
-      "tags": "News Foreigner Lou Gramm UCR",
-      "category": "Хэви-метал",
-      "published": "2026-10-10T13:06:03+00:00",
-      "id": "97db385af5990e6312caaba86605e9e4f185118a",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "How Stereophonics' gritty, poetic debut album Word Gets Around set the small-town trio up for a big, bright future",
-      "link": "https://www.loudersound.com/music/albums/how-stereophonics-word-gets-around-set-the-small-town-trio-up-for-a-big-bright-future",
-      "rss_body": "Through no fault of its own, the village of Cwmaman, in the Cynon Valley of Wales, probably doesn’t feature on a lot of people’s dream travel destinations. But like many of the best records unmistakably born from a particular time and place, one listen to\n\nWord Gets Around\n\ntakes you there.\n\nThe once proud and formerly thriving coal mining community fell afoul of a fate well-known to many in areas where industry and shared purpose were wilfully left to rot. Working-class places where there wasn’t enough work to go around anymore became of little interest to those in power at the tail end of the last century. Things aren’t so different now, sadly. Thirty years ago, however, the debut\n\nStereophonics\n\nalbum gave voice to those people, those places and all those lost purposes with rarefied poignancy.\n\nAs native sons of the very streets left to pick up the pieces, they knew the realities first-hand. Frontman Kelly Jones and late drummer Stuart Cable grew up on the same one, in fact. Enlisting bassist Richard Jones and after a decade deep into their friendship, plying their wares on the dive circuit, the trio finally caught a break. In the summer of 1996, fellow Welshmen\n\nManic Street Preachers\n\nwere staking a strong claim as the most important band in the UK, propelled by their anthem-packed fourth album,\n\nEverything Must Go\n\n. Taking their up-and-coming countrymen out on the road in support of the record, the industry was sensing blood in the waters.\n\nSoon enough, Stereophonics had successfully whipped up enough fervour to become the first act signed to Richard Branson’s newly launched V2 Records, one of 35 labels alleged to have wanted their signature. Such faith would be justified before too long.\n\nDespite years of musical kinship forged in covers bands, Stereophonics boasted an emerging teenage star who had tales to tell of his own. And on\n\nWord Gets Around\n\n, his richly evocative stories were worth listening to.\n\nThose who embraced the record, were welcomed into a world filled with both characters and character. The focus places Cwmaman firmly at the front and centre of its canvas, but the woes of its people prove unerringly universal. You don’t need to know the real Chaplain, Cliff Chips or Caramel Crisp namedropped in the lyrics. These local folk legends might go by different names elsewhere, but every small town and village spawns its own equivalents. They emerge from environments where everybody knows everything about everyone else, and the suffocation plays out in all manner of excruciating ways.\n\nKelly Jones paints the minutiae of that life in unapologetically grim and unglamourous strokes. The drama inhabits pool halls, chips shops, market stalls, and working men’s clubs. Between the lines, the sticky carpets and decades-old stench of cigarettes is almost tangible.\n\nThe former junior boxer writing those lines never pulls a punch (or equally as important, punches down). He never lets himself or his narrators off the hook either. There’s the self-knowing barb in the observations of\n\nGoldfish Bowl\n\n, for instance, “\n\nI'm drinking, sinking, swimming… thieving, cheating, beating… I'm deep in a goldfish bowl. It's sink or swim\n\n.”\n\nHe’s a product of this environment and just like everyone else, he’s doing all he knows to survive. In service to the songs and their cast of loners, drunks and hometown heroes, the music keeps things taut and economic. Even at the quieter end of the scale (\n\nTraffic\n\n,\n\nNot Up To You\n\n) the Bird & Bush production aims sky-high. If you didn’t pay close attention, you could be forgiven for thinking the whole thing’s quite upbeat other than a few exceptions.\n\nOf course, that belies the swinging tonal extremes of self-loathing and unshakeable local pride. For Stereophonics, there seems to be an unspoken understanding in play that yes, some of these people might be bastards, but they’re their bastards. Woe betides anyone else who’d dare speak ill of them.\n\nThat’s the kind of world that\n\nWord Gets Around\n\nis mired in. Frustration and disenfranchisement abound. Infidelity and sexual murkiness are never far from the scene. The small-town rumour mill might be the only one left still working overtime. The authenticity of the band’s lived experience is never in question, however. These are dispatches from the dying embers of once proud and united communities, now tearing at the seams and coming undone.\n\nFrom the “blue rinse” brigade down to the barmaids and boys out for another tear up in town, there’s generation-spanning pathos. There’s victims everywhere. It’s a record that finds heft in everyday mundanity, but they’re sad stories at the core. On\n\nLocal Boy In The Photograph\n\nyoung people gather to drink away the pain of grieving the tragic loss of their friend. It all ends on the haunting ballad of\n\nBilly Davey’s Daughter\n\n, the titular character who threw herself off a bridge that both joins and separates this village from the next, where much of the same dramas are likely unfolding.\n\nIn many ways, history has been unkind to the band behind this debut album. Arguing the whys and wherefores of how that came to pass aren’t required here. What’s not up for debate is that\n\nWord Gets Around\n\ndeserves better. It tells tales of people and perspectives rarely heard beyond the communities they originate from. For the often underrepresented from unsung, unglamorous locales, there’s comfort in recognising the similar if not the exact sames.\n\nOutside of some wildest hopes, dreams and maybes, these were not songs destined to be sung by thousands of people while headlining music festivals. Stereophonics’ success wasn’t supposed to be crowned by number one records. Yet those things would come to pass. And when the band won the 1998 Best British Breakthrough Act at the BRIT Awards, it felt fairly seismic. The next month they gave\n\nLocal Boy In The Photograph\n\nits second shot at the singles chart where it landed at number 14. The subsequent attention and momentum saw the album attain gold status (100,000 sales) in the UK. In 2026, it's nudging closer to one million sales, which seems like a worthy reward for a record that deserves to be heard, loved and remembered fondly.\n\n“It’s the album that defines who we are, where we came from, the one die-hard Stereophonics fans will probably say we’ll never beat,\"\n\nKelly Jones reflected in 2013\n\n. “It’s that record.\n\n“I’m still very, very proud of [it], because I still can’t believe that an 18-year-old kid wrote some of that.”",
-      "tags": "Albums Music",
-      "category": "Прогрессив",
-      "published": "2026-10-10T12:00:00+00:00",
-      "id": "e181cb547b4bb863b0757114545fdef436ccb5e5",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Childhood Myths We Accepted as Absolute Fact (and Maybe Still Do)",
-      "link": "https://ultimateclassicrock.com/childhood-myths-we-believed/",
-      "rss_body": "Wishing at 11:11, lifting your feet over railroad tracks, and fearing Bloody Mary: the childhood myths and rituals we swore by.",
-      "tags": "Pop Culture Gallery Pop Culture UCR",
-      "category": "Хэви-метал",
-      "published": "2026-10-10T11:09:12+00:00",
-      "id": "6fd08cfc2b358cf7cfed19ffa7bbee9f4e484db9",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Trivium, Power Trip and Calva Louise are all in Metal Hammer's new Tracks Of The Week",
-      "link": "https://www.loudersound.com/music/tracks-singles/best-new-metal-songs/trivium-power-trip-hanabie",
-      "rss_body": "The dark nights are drawing in, but don't worry - we've got an excellent soundtrack to keep you warm in these Autumnal months. Speaking of which, let's go through the results of\n\nlast week's vote\n\n!\n\nAs we've come to expect, a big name doesn't guarantee top billing in the Hammer TOTW chart, and the likes of Tony Iommi and Hatebreed were left behind some emergent talent. Aussie metalcore mob The Local Romance took third place, while Japanese newcomers EMNW stormed ahead with the fun\n\nParty Loud\n\n. But our overall winners for the week were the brutish, no frills hardcore champs of Inherited,\n\nWasted Space\n\nproving anything but.\n\nWe've got a wide-ranging selection for you this week, as we always hope is the case. Trivium and Hanabie. have announced new albums for this side of Christmas, while Battlesnake and Resolve are eyeing early 2027 release dates for their new records. There's also brutish death metal, CoB-style melodeath and some wild and wonderful music that crosses so many genre boundaries it's pointless even trying to pin down (Hello, Calva Louise). Don't forget to vote for your favourite in the poll below - and have an excellent weekend!\n\nTrivium - Crown In The Grave\n\nIt's only been a couple of weeks since\n\nTrivium\n\ndropped\n\nDead Inside Of Me,\n\nbut they've barely let the dust settle before announcing that new album\n\nCrown In The Grave\n\nwill be out on November 20. Alongside the announcement, the band unveiled a video for the title-track, a song which certainly upholds the classic-meets-contemporary sound they've been honing over the past few records with sublime guitars and a big, chest-beating chorus that's sure to land when they hit the road again next year.\n\nThy Catafalque - Tombok\n\nWant some weird\n\nblack metal\n\n? Thy Catafalque have been masters of the art for decades now and if you ever thought jaunty flutes couldn't work against crushing, blackened heft then clearly this is your first time listening to the band - welcome, things are about to get wonderfully weird!\n\nTömbök\n\ncomes from the Hungarian band's new album\n\nXIII: Sárga erdő,\n\nwhich is due out November 20. Opening on 70s style keys, its not long before the track is blustering forth on blackened death metal blasts, only to get suddenly jaunty with jazz flutes. It's glorious.\n\nWage War - God Complex\n\nMetalcore with a bit of meat between its teeth,\n\nGod Complex\n\nis a plain\n\nbanger\n\n. From its bounding main riff to the shrieking high-end that adds a nu metal energy to the track, Wage War's latest single has serious metal club anthem energy and we dare say that'll translate well to gigs and festival fields next summer. Either way, their new album\n\nLandfall\n\nis out today and well worth a spin if you like big, hooky metal.\n\nEmployed To Serve - Absolute Onslaught\n\nMore\n\nproof that metalcore isn't in a creative dead-end, you say? Well, look no further than the\n\nkiller\n\nthrash-friendly pace of\n\nAbsolute Onslaught\n\n, which isn't a tribute to Bristolian thrashers, but instead a new offering by Woking's Employed To Serve. With a guest appearance from Cabal's Andreas Bjulver - who ETS will be touring with next month - it's a solid fist to the lugs that'll make you want to dropkick a pumpkin till the mush becomes a fine paste.\n\nPower Trip - Precinct 3\n\nWant thrash riffs? Power Trip have always had 'em and in spades, and look - THEY'RE BACK! It's been a rough six years since the passing of original frontman Riley Gale, but the Texans have come back with a renewed force and fury with new vocalist Seth Gilmore. The band have released two new songs this week,\n\nPrecinct 3\n\nand\n\nScavenger,\n\nand both are excellent, muscular showcases for why this band got people so excited in the first place. There's even an air of Ministry's mid-00s car-crash thrash to the early riff (we're proper hearing\n\nRio Grande Blood\n\n), which is a delight when that band have dialled back in recent years. Either way, we're getting new Power Trip in 2027 and we couldn't be happier.\n\nCalva Louise - La Promesa\n\nWe fell in love with\n\nCalva Louise\n\nlast year when they unveiled the wild genre-hopping opus that was\n\nEdge Of The Abyss\n\n. It's looking like the band - based in the UK but made up of members from Venezuela, France and New Zealand - will have a new record coming next year, and if new single\n\nLa Promesa\n\nis anything to go by, it's gonna be even wilder than the last. Mixing snarling metalcore, Venezuelan folk (Joropo) and even little Mozart-like key flourishes, it's typically madcap and utterly delightful.\n\nBlack Royal - Extremophiles\n\nSlowing the pace down some, Finland's Black Royal excel at chucking together elements of black'n'roll and sludge metal. You can hear both of those elements in full swing on\n\nExtremophiles,\n\na stomping, Motorhead-friendly riff delivered with tar-thick heft and grinding force that makes you wanna bang your head until your neck muscles pop. New album\n\nAbyssian\n\nis coming October 30, and well worth raising some hell to.\n\nHanabie. - Bari Bari Buddy\n\nWell this one crept into the schedule! Hanabie.'s new album\n\nUmami\n\nis coming on December 2, and the Japanese group have celebrated the fact by dropping a typically unhinged mixture of snarling, riffy metal and cutesy J-pop melody. We've come to expect nothing less at this point and they're still one of the most vibrant new things in metal right now.\n\nBattlesnake - Bog Bringer\n\nBattlesnake must be the most disdainful band of Satan since Mr. Lordi announced the devil was a loser and also his bitch. After killing the horned one on a single earlier this year, now the weird and wonderful Aussies are apparently bringing us a whole album of colourful tales and weird fantasy themes, new single\n\nBog Bringer\n\ntoeing the line being ridiculous and utterly brilliant. There's plenty of run up to this one - the album isn't coming until February 19 next year, but we reckon its a strong contender for the maddest metal album of 2027. All hail the bogpocalypse...\n\nResolve - Godtier\n\nIf you're looking for a tune to bound around to and lose your mind, Resolve have you covered.\n\nGodtier\n\npractically leaps off its main riff, mixing up melodic hooks, quick rap flows and grimacing snarls in a delightfully energetic package. The band's new album\n\nSpread My Ashes Into Space\n\nis coming in January next year and is exactly the kind of energy we want to greet 2027 with.\n\nUndeath - Arterial Bombardment\n\nPropelled with all the force of a goods truck careening through a shopping centre, Undeath aren't reinventing the wheel with\n\nArterial Bombardment.\n\nBut why the hell should they? The New York death metallers have carved a bloody niche for themselves by making primo old-school-style death metal and this latest single is no exception, lumbering forth like the only thing they need is a bit of carnage and a great riff.\n\nUlthima - Midnight’s Call\n\nComing out of Mexico via Finalnd - and boy can you tell - Ulthima offer up a distinct fusion of worlds. Starting out in the realms of grandiose symphonic/power metal - hello, Nightwish - they're soon giving way to something more feral and extreme. There's an air of Children Of Bodom to the fusion of styles they offer, but Ulthima don't sound beholden to any one band or scene. Keep your eyes out for new album\n\nMidnight's Call\n\non November 27.",
-      "tags": "Tracks & Singles Music",
-      "category": "Прогрессив",
-      "published": "2026-10-10T10:00:00+00:00",
-      "id": "b596e191db5df83b083fbf45f55f3188009bf0f8",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Wayne Hussey looks back on The Mission's debut album, God's Own Medicine",
-      "link": "https://www.loudersound.com/bands-artists/the-mission-gods-own-medicine-anniversary-interview",
-      "rss_body": "Below,\n\nThe Mission\n\n's frontman and co-founder\n\nWayne Hussey\n\npreviews the band’s run of four unique nights at The Forum in London next month in celebration of 40 years of the group’s debut album,\n\nGod’s Own Medicine\n\n.\n\nGod’s Own Medicine\n\nwas released in the same year that London’s accursed M25 was opened, the Chernobyl nuclear power plant exploded and NASA’s space shuttle Challenger blew up. Does it feel like 40 years have elapsed?\n\n[Nodding] It was a long time ago and a lot of things have happened. I’ve made a lot more records since. Certain memories from those days are even more vivid than something I did last week. They were special times. And 40 years is a milestone worth celebrating.\n\nWere you confident that God’s Own Medicine would be successful?\n\nOh yeah. We’d all been in bands before. It wasn’t like we were new kids on the block, we had worked hard to get to that point. By the time The Mission formed, all of us knew what we were doing.\n\nThe album spawned three Top-30 hits and went gold in the UK. How did you react to stardom?\n\nI suppose like everybody else that it affects. You spend many years working towards something and initially it goes to your head. I was a young man around town. I milked it for all it was worth [chuckles]. But that only lasts for a couple of years, and then you begin to find yourself as a person within that maelstrom.\n\nA review in US magazine Trouser Press dismissed the album as “a horrible amalgam of Led Zeppelin, Yes and Echo & The Bunnymen”.\n\nI like Zeppelin and the Bunnymen, and I even went to see\n\nYes\n\nwhen I was younger. We were never popular with the music press so we very quickly learned to take that stuff with a pinch of salt.\n\nYou smiled while saying that, almost like it was a challenge that had been relished\n\n.\n\nIt [banter with the press] was entertaining. With losing the weekly papers all of that has changed. Music journalism has now become more conservative, which is a shame as you no longer get characters like Nick Kent or Paul Morley [of\n\nNME\n\n]. Certain writers were pretentious to us back then, and it was nice to give it right back to them.\n\nIronically, John Paul Jones was hired to produce The Mission’s next album,\n\nChildren\n\n. Was that a good collaboration?\n\nVery much so. Suddenly we were being invited round to\n\nIggy Pop\n\n’s for tea. We were the first thing John did after\n\nLed Zeppelin\n\nhad split. He was great. He taught us a lot. I’ll never forget that one night we sat up late with him drinking and playing Zeppelin music. He started crying, telling us how much he missed John [Bonham].\n\nDid those days feel like the best of times?\n\nNot particularly. There have been a lot of great moments. We’re preparing a new album now – our first in 12 years – and it’s great to still be making music with your mates. It comes out in February or March of next year. If nobody likes it, then so what? We’re of an age where it doesn’t really matter. We’re doing it for ourselves.\n\nThe Mission are revisiting\n\nGod’s Own Medicine\n\nover four gigs for its 40th anniversary. On the first night it will be played in its entirety, followed by other era-specific sets. Throw in different support acts each night and the ‘unique factor’ escalates. Such events are often a treat for the fans, but can be a nightmare for the musicians.\n\nIt doesn’t really bother me. When we go out on tour I like to change the setlist every night. There are three or four songs that you have to play, but I thrive on spontaneity. It certainly keeps the band on its toes, and me as well. And I love the idea of these gigs because they’re all in London, so there’s no travel involved.\n\nThe Mission play The Forum in London on November 4-7.\n\nFind tickets.",
-      "tags": "Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-10-10T09:05:00+00:00",
-      "id": "5461bdc34c0affe3f3d86d138ef0e571b77fb04a",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Ghost’s Tobias Forge brings his long-lost death metal band Repugnant back from the dead",
-      "link": "https://www.loudersound.com/bands-artists/ghosts-tobias-forge-brings-his-long-lost-death-metal-band-repugnant-back-from-the-dead",
-      "rss_body": "Ghost\n\nmastermind Tobias Forge has resurrected his early-2000s death metal band\n\nRepugnant\n\nand released their first ‘new’ song in 20 years.\n\nForge has contributed a brand new video for Repugnant’s 2004 song\n\nPremature Burial\n\nto\n\nV/H/S Mixtape\n\n, the latest instalment in long-running horror anthology\n\nV/H/S\n\n.\n\nWhile Tobias himself sang on the original, this new version features Watain’s Erik Danielsson on vocals. Also appearing on the song are bassist Gustaf Lindström, drummer Thomas Daun and guitarist Gottfrid Åhman, all of whom played in previous incarnations of Repugnant (Lindström also played in an early incarnation of Ghost).\n\nForge formed Repugnant in 1998, releasing a series of singles and EPs before they split in 2004. A posthumous album, Epitome Of Darkness, was released in 2006, and the singer briefly put a new version of Repugnant together in the early 2010s, but abandoned it once more to focus on Ghost.\n\n“I don't know if we were good enough or whatever,” Tobias later told\n\nLoudwire\n\nof Repugnant. “Now, knowing a lot of the things that is required, how many stars that need to align and all the decisions you have to make, I can definitely look back on myself as a 21-year-old and quickly see why I didn't achieve that with Repugnant. I wasn't mature. I wasn't thinking. I wasn't there yet.”\n\nWith Ghost currently on hiatus, Forge is reportedly\n\nrecording a new death metal project\n\n. In June, drummer Johan Koleberg – who’s played in Hammerfall, revealed that he was helping Forge prepare drums for a unspecified new music, while Earache Records boss Digby Pearson recently said that the label had signed a “connected-to-Ghost death metal band”’, ading that “apparently, he’s [Tobias] doing a death metal album, as well”, though whether it’s a full Repugnant comeback is unconfirmed.\n\nV/H/S Mixtape\n\nis available to stream now on Shudder\n\n.",
-      "tags": "Bands & Artists",
-      "category": "Экстремальный метал",
-      "published": "2026-10-10T07:57:06+00:00",
-      "id": "a32835b68e8209126b2ca759f8fcc68af743d790",
-      "retry_after": 0
+      "retry_after": 1792369071
     },
     {
       "source": "Louder",
@@ -3349,7 +3250,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-12T16:19:23+00:00",
       "id": "ed145ac3739dc539d4672f04dfcb4c894a3132aa",
-      "retry_after": 1792360979
+      "retry_after": 1792368882
     },
     {
       "source": "Metal Injection",
@@ -3361,7 +3262,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-12T15:06:30+00:00",
       "id": "7118f5120f6c201ef8842f480354d910b7da50e5",
-      "retry_after": 1792360979
+      "retry_after": 1792368882
     },
     {
       "source": "Metal Injection",
@@ -3373,7 +3274,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-12T14:34:45+00:00",
       "id": "0161762704b9d659d48fa0cba42aa5307bd27da7",
-      "retry_after": 1792360979
+      "retry_after": 1792368882
     },
     {
       "source": "No Clean Singing",
@@ -3385,7 +3286,7 @@
       "category": "Прогрессив",
       "published": "2026-10-12T13:53:17+00:00",
       "id": "3d4534b4f7365e30c932054eaa86440b8bbcad0d",
-      "retry_after": 1792360982
+      "retry_after": 1792368885
     },
     {
       "source": "ThePRP",
@@ -3397,7 +3298,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T16:21:04+00:00",
       "id": "6fa9e66a27bc3bb4d1d6d699ea1d0cf9eb170e41",
-      "retry_after": 1792360971
+      "retry_after": 1792368874
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3409,7 +3310,7 @@
       "category": "Хард-рок",
       "published": "2026-10-13T16:08:03+00:00",
       "id": "b3483a2937a66c5ce60b948a1df4c2641bc669a5",
-      "retry_after": 1792360974
+      "retry_after": 1792368877
     },
     {
       "source": "Metal Injection",
@@ -3421,7 +3322,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T15:39:10+00:00",
       "id": "d084dcb5b9cf81ee155f4415cc6f2e255a918dbf",
-      "retry_after": 1792360974
+      "retry_after": 1792368877
     },
     {
       "source": "Metal Injection",
@@ -3433,7 +3334,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T13:43:21+00:00",
       "id": "0550fbdbf700f9c123f830e31daa90002a226aa9",
-      "retry_after": 1792360974
+      "retry_after": 1792368877
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3445,7 +3346,7 @@
       "category": "Хард-рок",
       "published": "2026-10-13T11:54:39+00:00",
       "id": "083084d358ed43495ce32f26fe1d6f749f3aa7d3",
-      "retry_after": 1792360979
+      "retry_after": 1792368882
     },
     {
       "source": "Metal Injection",
@@ -3457,7 +3358,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T18:54:54+00:00",
       "id": "0bc34f73ce3a3bd4aab3f2118e879131426eafce",
-      "retry_after": 1792360967
+      "retry_after": 1792368868
     },
     {
       "source": "Metal Injection",
@@ -3469,7 +3370,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T17:17:37+00:00",
       "id": "6e57911a7743ad43cbb0c228a83d313ae826bb57",
-      "retry_after": 1792360967
+      "retry_after": 1792368868
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3481,7 +3382,7 @@
       "category": "Прогрессив",
       "published": "2026-10-13T17:03:04+00:00",
       "id": "19ed93ba39ae6d8df8b72eef8ab84fed711e541c",
-      "retry_after": 1792360970
+      "retry_after": 1792368871
     },
     {
       "source": "Metal Injection",
@@ -3493,7 +3394,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T14:29:26+00:00",
       "id": "763e15189ce9457ccfc94db35b8bf0ab36b0b73c",
-      "retry_after": 1792360966
+      "retry_after": 1792368867
     },
     {
       "source": "No Clean Singing",
@@ -3505,7 +3406,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-14T13:50:53+00:00",
       "id": "ec5d5018bd5a2da6a26d2be63d29fc90708fbe85",
-      "retry_after": 1792360967
+      "retry_after": 1792368868
     },
     {
       "source": "Metal Injection",
@@ -3517,7 +3418,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T19:10:15+00:00",
       "id": "876f0e380ed29bab07d20ff6f276f4eb5127cf8d",
-      "retry_after": 1792360962
+      "retry_after": 1792368864
     },
     {
       "source": "Metal Injection",
@@ -3529,7 +3430,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T18:29:41+00:00",
       "id": "1834789368e897d2953ea559c83ebc82f22da77e",
-      "retry_after": 1792360962
+      "retry_after": 1792368864
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3541,7 +3442,7 @@
       "category": "Хард-рок",
       "published": "2026-10-14T18:20:40+00:00",
       "id": "ff16b61cfefd0d8d20a1469a1d16616fb4fe7420",
-      "retry_after": 1792360965
+      "retry_after": 1792368867
     },
     {
       "source": "Metal Injection",
@@ -3553,7 +3454,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T16:23:37+00:00",
       "id": "55523d2252c09131aa39f7d0fe81c81e5cac2c33",
-      "retry_after": 1792360966
+      "retry_after": 1792368867
     },
     {
       "source": "Louder",
@@ -3565,7 +3466,7 @@
       "category": "Прогрессив",
       "published": "2026-10-15T15:09:41+00:00",
       "id": "b8627ce094e15f871bb133333c9bfc54fbccab43",
-      "retry_after": 1792360962
+      "retry_after": 1792368863
     },
     {
       "source": "Metal Injection",
@@ -3577,7 +3478,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T14:27:45+00:00",
       "id": "b8813643295210f92ea2a5445221cc8716d1da1a",
-      "retry_after": 1792360962
+      "retry_after": 1792368863
     },
     {
       "source": "Metal Injection",
@@ -3589,7 +3490,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T13:38:42+00:00",
       "id": "85748d127186f72494688a79d3cef331539f30f2",
-      "retry_after": 1792360962
+      "retry_after": 1792368864
     },
     {
       "source": "Metal Injection",
@@ -3601,7 +3502,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T12:33:17+00:00",
       "id": "4da71dd62974056053bdf4743d7dc2a8927284cb",
-      "retry_after": 1792360962
+      "retry_after": 1792368864
     },
     {
       "source": "Metal Injection",
@@ -3613,7 +3514,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:00:00+00:00",
       "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
-      "retry_after": 1792360957
+      "retry_after": 1792368852
     },
     {
       "source": "Metal Injection",
@@ -3625,7 +3526,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T17:10:18+00:00",
       "id": "4d9f2be08e5b1d74c24967411ca765a3963a5141",
-      "retry_after": 1792360957
+      "retry_after": 1792368852
     },
     {
       "source": "Metal Injection",
@@ -3637,7 +3538,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T15:23:41+00:00",
       "id": "14906496ce8d34abc3e4c5bd74c18eff90dc1185",
-      "retry_after": 1792360957
+      "retry_after": 1792368853
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3649,7 +3550,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T20:49:09+00:00",
       "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
-      "retry_after": 1792360957
+      "retry_after": 1792368852
     },
     {
       "source": "Metal Injection",
@@ -3661,7 +3562,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:25:10+00:00",
       "id": "77b1588e20715ae846658427185c711f41edfa37",
-      "retry_after": 1792360957
+      "retry_after": 1792368852
     },
     {
       "source": "Louder",
@@ -3673,7 +3574,7 @@
       "category": "Прогрессив",
       "published": "2026-10-16T02:29:27+00:00",
       "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
-      "retry_after": 1792360954
+      "retry_after": 1792368850
     },
     {
       "source": "Louder",
@@ -3688,7 +3589,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792360947
+      "retry_after": 1792368844
     },
     {
       "source": "Metal Injection",
@@ -3700,7 +3601,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
-      "retry_after": 1792360948
+      "retry_after": 1792368844
     },
     {
       "source": "Metal Injection",
@@ -3712,7 +3613,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
-      "retry_after": 1792360948
+      "retry_after": 1792368844
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3724,7 +3625,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T12:17:13+00:00",
       "id": "2a02732b6da7dc076e27515808483943e76cb609",
-      "retry_after": 1792360951
+      "retry_after": 1792368846
     },
     {
       "source": "Metal Injection",
@@ -3740,7 +3641,7 @@
         "73ecf77997afc50510be4de8d18c56581c68c2f2",
         "1281d9679035a6042490add57117ba0078a761ea"
       ],
-      "retry_after": 1792360948
+      "retry_after": 1792368844
     },
     {
       "source": "Metal Injection",
@@ -3752,7 +3653,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 1792360943
+      "retry_after": 1792368840
     },
     {
       "source": "Metal Injection",
@@ -3764,7 +3665,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:44:42+00:00",
       "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
-      "retry_after": 1792360944
+      "retry_after": 1792368840
     },
     {
       "source": "Metal Injection",
@@ -3776,7 +3677,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792360943
+      "retry_after": 1792368840
     },
     {
       "source": "Metal Injection",
@@ -3788,7 +3689,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792360943
+      "retry_after": 1792368840
     },
     {
       "source": "Louder",
@@ -3800,7 +3701,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792360943
+      "retry_after": 1792368840
     },
     {
       "source": "Louder",
@@ -3812,7 +3713,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T10:00:00+00:00",
       "id": "c1ea453807d8fcbdf823e5a66dd8b50643c15a98",
-      "retry_after": 1792360940
+      "retry_after": 1792368836
     },
     {
       "source": "Metal Injection",
@@ -3824,7 +3725,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-17T14:23:28+00:00",
       "id": "1c5cfbe84a92e91546a4f726ca221c8ac38f37ae",
-      "retry_after": 1792360934
+      "retry_after": 1792368832
     },
     {
       "source": "Metal Injection",
@@ -3836,7 +3737,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T15:46:43+00:00",
       "id": "17fb72fb196f9cfc779369925273ef76e14f814e",
-      "retry_after": 1792360934
+      "retry_after": 1792368832
     },
     {
       "source": "Metal Injection",
@@ -3848,7 +3749,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T14:56:10+00:00",
       "id": "75aefeb86fd73e4c90547f178d35ec6916166b04",
-      "retry_after": 1792360934
+      "retry_after": 1792368832
     },
     {
       "source": "Metal Injection",
@@ -3860,7 +3761,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T18:20:57+00:00",
       "id": "dfaa87e155fc4630bcaf24b6f82ebeb9dbeb28ea",
-      "retry_after": 1792360934
+      "retry_after": 1792368831
     },
     {
       "source": "Metal Injection",
@@ -3872,7 +3773,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-18T13:48:23+00:00",
       "id": "e60ce886de7ed29dbe56084a288ebd2a75bf0094",
-      "retry_after": 1792360934
+      "retry_after": 1792368831
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3884,7 +3785,7 @@
       "category": "Хард-рок",
       "published": "2026-10-18T16:23:43+00:00",
       "id": "04a02e037aa53946d8b4e9212a2922257434dfdf",
-      "retry_after": 1792360934
+      "retry_after": 1792368831
     },
     {
       "source": "ThePRP",
@@ -3896,7 +3797,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-18T19:17:26+00:00",
       "id": "503147e0f372c017ebf4b19f9b07f11881cbb32e",
-      "retry_after": 1792360927
+      "retry_after": 1792368821
     },
     {
       "source": "No Clean Singing",
@@ -3908,7 +3809,7 @@
       "category": "Прогрессив",
       "published": "2026-10-18T18:58:51+00:00",
       "id": "5bb6507f6ee95ee118e62ae890e5c8534bbf884b",
-      "retry_after": 1792360930
+      "retry_after": 1792368827
     },
     {
       "source": "Metal Injection",
@@ -3920,7 +3821,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-18T17:12:50+00:00",
       "id": "b02678d0ddcd01b28134a4b7a183953fe2f40ca5",
-      "retry_after": 1792360930
+      "retry_after": 1792368827
     },
     {
       "source": "Metal Injection",
@@ -3932,7 +3833,7 @@
       "category": "Хард-рок",
       "published": "2026-10-18T16:38:08+00:00",
       "id": "871c216a743cfb918ed9f1c13570e5899626ad1b",
-      "retry_after": 1792360930
+      "retry_after": 1792368828
     }
   ]
 }

@@ -336,7 +336,8 @@
       "original_title": "Metallica Just Brought “Harvester Of Sorrow” To Their The Sphere Residency With Goosed Up Visuals",
       "topics": [],
       "media_checked_at": 1792352708,
-      "translation_last_attempt": 1792360594
+      "translation_last_attempt": 1792360594,
+      "translation_pending": true
     },
     {
       "id": "4d649d10c4adbbccf836580b67c25c87cc347394",
@@ -6559,8 +6560,7 @@
         "releases"
       ],
       "media_checked_at": 1792160890,
-      "translation_last_attempt": 1792352599,
-      "translation_pending": true
+      "translation_last_attempt": 1792368481
     },
     {
       "id": "7f93b387dec8817cc0a3a9d07f21b5392240b6be",
@@ -6896,7 +6896,7 @@
       ],
       "original_title": "MARTY FRIEDMAN работает над новой музыкой",
       "topics": [],
-      "media_checked_at": 1792144223
+      "media_checked_at": 1792368899
     },
     {
       "id": "a9d628871628144db8fc795cea8ee9e011af86c8",
@@ -7091,7 +7091,7 @@
         "live",
         "releases"
       ],
-      "media_checked_at": 1792144224
+      "media_checked_at": 1792368900
     },
     {
       "id": "e7e81c6134b9c858e0eb0f1715f313f1c1c47351",
@@ -7150,7 +7150,7 @@
       "artists": [],
       "original_title": "Новая композиция UNHEILIG",
       "topics": [],
-      "media_checked_at": 1792144226
+      "media_checked_at": 1792368901
     },
     {
       "id": "e2e9f9294b13f4510e33848c1cafe84cd388e99a",
@@ -8436,8 +8436,7 @@
         "live"
       ],
       "media_checked_at": 1792360854,
-      "translation_last_attempt": 1792352599,
-      "translation_pending": true
+      "translation_last_attempt": 1792368481
     },
     {
       "id": "084a03eebc53b8721ab9596d80e6deeda5f3bab4",
@@ -9009,7 +9008,7 @@
       "topics": [
         "live"
       ],
-      "media_checked_at": 1792127603
+      "media_checked_at": 1792368892
     },
     {
       "id": "6097ede003d455d66a5ee217c3eb29003999116b",
@@ -9065,11 +9064,6 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/vF5JRUkGnki9JCPdWJKY69.jpg",
-          "caption": " Chester Bennington and Chris Cornell"
-        },
-        {
-          "type": "image",
           "url": "https://cdn.mos.cms.futurecdn.net/tWVBHdwyJYwp6328EznZdQ.jpeg",
           "caption": "Soundgarden&#039;s Chris Cornell"
         },
@@ -9080,53 +9074,58 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/Pv88YV9Qtdyh4j9FCo4nEh.jpg",
-          "caption": "Rogers Waters in 2023 and James Hetfield of Metallica in 2026"
+          "url": "https://cdn.mos.cms.futurecdn.net/iut6cFyz8M6PxiLCRiQBG8.jpg",
+          "caption": "Emily Armstrong on a red carpet"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/dxq7tTvPhfqGi4fNeSns5d.jpg",
-          "caption": "Nightwish press 2026"
+          "url": "https://cdn.mos.cms.futurecdn.net/SXsiewuBrdSnu8TenKfFK.jpg",
+          "caption": "Bobbie Dazzle and Thijs van Leer"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/75ZXZF5dANnJhReumqk5ei.jpg",
-          "caption": "Gary Kemp performs in Milan in 2024; and Robert Fripp  performs in London in 2023"
+          "url": "https://cdn.mos.cms.futurecdn.net/bcFMFBUaoqyGYkUvfpQ2eJ.png",
+          "caption": "Randy Blythe of Lamb Of God performs during the 2026 Bloodstock Festival at Catton Hall on August 07, 2026 in Derby, England"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/WnqmyFnodSAkp3yeHP3puf.jpg",
-          "caption": "Floor Jansen onstage in 2026"
+          "url": "https://cdn.mos.cms.futurecdn.net/sijJS2jHUY2tMUUMqbtfkZ.jpg",
+          "caption": "Metallica studio portrait"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/8QiGDySuBFzJvXH4QWYXUT.jpg",
-          "caption": "Nikki Sixx onstage"
+          "url": "https://cdn.mos.cms.futurecdn.net/vHGKxrRsuFKMgNPjHZK6iX.jpg",
+          "caption": "Glenn Hughes at Sweden Rock Festival on June 07, 2025"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/LHuEKrn8gGZcQBxyDnBSQd.jpg",
-          "caption": "British Lion group portrait"
+          "url": "https://cdn.mos.cms.futurecdn.net/w6J6WVibpZ4tV6Giy6cDxA.jpg",
+          "caption": "Anthony Phillips in 2024"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/G9KQTNtBM3kcKHGuLfT8J8.jpg",
-          "caption": "Pink Floyd"
+          "url": "https://cdn.mos.cms.futurecdn.net/UvkHHfSxEXULnZXY34Nrbk.jpg",
+          "caption": "Ace Frehley studio portrait"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/Q26nycXWd7DkVc6TN6riBL.png",
-          "caption": "Pavlov&#039;s Dog singer David Surkamp"
+          "url": "https://cdn.mos.cms.futurecdn.net/VimHfmGFzRVDR48QDDW2tg.jpg",
+          "caption": "Bruce Dickinson of Iron Maiden"
         },
         {
-          "type": "link",
-          "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.loudersound.com%2Fbands-artists%2Ftaylor-momsen-on-the-challenges-she-faces-singing-chris-cornells-songs-with-soundgarden",
-          "caption": "Facebook"
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/6aatqGU8SLc2LBm4K4WAoB.jpg",
+          "caption": "Sam Carter screaming on stage"
         },
         {
-          "type": "link",
-          "url": "https://twitter.com/intent/tweet?text=%22Everyone+thinks+it%27s+the+notes%3A+no%2C+it%27s+the+time+signatures.%22+The+Pretty+Reckless+star+Taylor+Momsen+on+the+challenges+she+faces+singing+Chris+Cornell%27s+songs+with+Soundgarden&url=https%3A%2F%2Fwww.loudersound.com%2Fbands-artists%2Ftaylor-momsen-on-the-challenges-she-faces-singing-chris-cornells-songs-with-soundgarden",
-          "caption": "X"
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/8bxJaz8shdT2kKEseckFVe.jpg",
+          "caption": "A young, AI-generated KK Downing steps off a bus holding a guitar case "
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/N7UAZS7yJDEun3LUZtFC6.jpg",
+          "caption": "Belgian alt.rockers Triggerfinger on why albums are like children, rolling with the Stones, and the last days of their hard-living bassist"
         }
       ],
       "original_paragraphs": [
@@ -9175,7 +9174,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792127603
+      "media_checked_at": 1792368892
     },
     {
       "id": "0e71c4cd3d4b7e67c504f800ac1ad3e064938d76",
@@ -9228,7 +9227,7 @@
         "live",
         "releases"
       ],
-      "media_checked_at": 1792127606
+      "media_checked_at": 1792368896
     },
     {
       "id": "d4eb9d5715058b41aa1ea74d7a31b0e69ac40479",
@@ -9258,7 +9257,7 @@
       "artists": [],
       "original_title": "We Came As Romans Enlist HEAVENSGATE For New Version Of “Where Did You Go?”",
       "topics": [],
-      "media_checked_at": 1792127606
+      "media_checked_at": 1792368897
     },
     {
       "id": "b5d66186de4cb71a1e190e0db3da1ba16d5f8fc8",
@@ -9354,7 +9353,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792127608
+      "media_checked_at": 1792368898
     },
     {
       "id": "4d2d19fc52f3f19efc09f152f25cec7455800b20",
@@ -9603,7 +9602,8 @@
         "releases"
       ],
       "media_checked_at": 1792323942,
-      "translation_last_attempt": 1792360594
+      "translation_last_attempt": 1792360594,
+      "translation_pending": true
     },
     {
       "id": "8d20acc305d16928c214da17831fc87c939fc259",
