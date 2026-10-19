@@ -765,49 +765,17 @@
     "6fd08cfc2b358cf7cfed19ffa7bbee9f4e484db9",
     "b596e191db5df83b083fbf45f55f3188009bf0f8",
     "5461bdc34c0affe3f3d86d138ef0e571b77fb04a",
-    "a32835b68e8209126b2ca759f8fcc68af743d790"
+    "a32835b68e8209126b2ca759f8fcc68af743d790",
+    "87a9142818003c224fd64f5ec0ef9388cfe766d7",
+    "0d23d025b8c0d9cf5aa94bbc0cb3bae57e34fad7",
+    "aec1fa8e1d6b87fc66547005a4e39f0132021e07",
+    "7cde84b0e5dc67b9444247a32c67d9360d49a700",
+    "d75d0da9387882bf3e906089ed932ca50259e4b4",
+    "6043ac8715e3ea80818a0c4e596ef8769a95bc3e",
+    "6bd2e41c4f23e7dbd0b778deedc60327be4b8011",
+    "abb8137400bc4a6f5af06e89afc4f5a25fea4a95"
   ],
   "recent_titles": [
-    {
-      "title": "Get a limited edition Pallas t-shirt and signed lyric sheet with our great new bundle",
-      "source": "Louder",
-      "ts": 1792144219
-    },
-    {
-      "title": "Новое видео SETY&#216;URSAILS",
-      "source": "Darkside",
-      "ts": 1792144221
-    },
-    {
-      "title": "CURSEBINDER – PSYCHOHAZARD",
-      "source": "No Clean Singing",
-      "ts": 1792160678
-    },
-    {
-      "title": "Marantz MCR-60n DAB CD player review: an all-in-one system that’s small in size but huge in scope",
-      "source": "Louder",
-      "ts": 1792160725
-    },
-    {
-      "title": "Hear Shane Cronin and Whisker’s New Single, ‘Bus Stop'",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792160754
-    },
-    {
-      "title": "Top 10 Roger Waters Political Songs",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792160814
-    },
-    {
-      "title": "Architects' Sam Carter posts emotional statement responding to recent criticisms",
-      "source": "Louder",
-      "ts": 1792160851
-    },
-    {
-      "title": "Why Led Zeppelin Finally Let ‘Stairway’ be Used in a Movie",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792160866
-    },
     {
       "title": "Paul McCartney on the difficulty of getting genuine feedback as a legendary artist",
       "source": "Louder",
@@ -1567,6 +1535,46 @@
       "title": "Ghost’s Tobias Forge brings his long-lost death metal band Repugnant back from the dead",
       "source": "Louder",
       "ts": 1792368890
+    },
+    {
+      "title": "How to bring Yes and King Crimson giant Bill Bruford out of retirement, by the guy who did it",
+      "source": "Louder",
+      "ts": 1792384892
+    },
+    {
+      "title": "Classic Rock Tracks Of The Week: October 19, 2026",
+      "source": "Louder",
+      "ts": 1792384916
+    },
+    {
+      "title": "The Aerosmith albums you should definitely listen to",
+      "source": "Louder",
+      "ts": 1792385073
+    },
+    {
+      "title": "Judas Priest Lineup Changes: A Complete Guide",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792385087
+    },
+    {
+      "title": "Hear Pitbull and Kiss Team Up for New Song 'Reach for the Stars'",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792385101
+    },
+    {
+      "title": "Five For Friday: October 9, 2026",
+      "source": "Decibel",
+      "ts": 1792385124
+    },
+    {
+      "title": "AN NCS PREMIERE: DISEMBODY — “DWELLER OF ABYSSAL WATERS”",
+      "source": "No Clean Singing",
+      "ts": 1792385164
+    },
+    {
+      "title": "GONZO’S HEAVY ROUNDUP, SEPTEMBER 2026",
+      "source": "No Clean Singing",
+      "ts": 1792385216
     }
   ],
   "initialized_sources": [
@@ -2650,7 +2658,7 @@
       "category": "Прогрессив",
       "published": "2026-10-12T05:46:24+00:00",
       "id": "808238b24b152164b8b599f858b62cde56b5f9ea",
-      "retry_after": 1792368892
+      "retry_after": 1792385288
     },
     {
       "source": "Metal Injection",
@@ -2662,7 +2670,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T21:01:02+00:00",
       "id": "969d97253905597168fabf415fea9390493b098b",
-      "retry_after": 1792368892
+      "retry_after": 1792385289
     },
     {
       "source": "ThePRP",
@@ -2674,7 +2682,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T18:55:10+00:00",
       "id": "abf275665418aa54bf92e60afa2be9cd2561da58",
-      "retry_after": 1792368902
+      "retry_after": 1792385299
     },
     {
       "source": "Metal Injection",
@@ -2686,7 +2694,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-11T15:56:11+00:00",
       "id": "c4c0033e8848c44c4d3e94d73c71a07b84069639",
-      "retry_after": 1792368902
+      "retry_after": 1792385299
     },
     {
       "source": "Louder",
@@ -2698,7 +2706,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T15:00:00+00:00",
       "id": "0102c2be91b458ba311ab0d9ae5838eacdb32ff3",
-      "retry_after": 1792368906
+      "retry_after": 1792385302
     },
     {
       "source": "Metal Injection",
@@ -2710,7 +2718,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T14:52:46+00:00",
       "id": "d57214e6be19d7d0b00b9b89de84ca16bb058b74",
-      "retry_after": 1792368906
+      "retry_after": 1792385303
     },
     {
       "source": "Metal Injection",
@@ -2722,7 +2730,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T14:14:41+00:00",
       "id": "0e3227631c52c966ee2999135322b92ed5bb912e",
-      "retry_after": 1792368906
+      "retry_after": 1792385303
     },
     {
       "source": "Louder",
@@ -2734,7 +2742,7 @@
       "category": "Прогрессив",
       "published": "2026-10-11T12:00:00+00:00",
       "id": "546ea24ced5734c9f8ea4173c952d9d00f5779b9",
-      "retry_after": 1792368908
+      "retry_after": 1792385305
     },
     {
       "source": "Louder",
@@ -2746,7 +2754,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T22:48:09+00:00",
       "id": "cb1f7bb841035730a61630ef1a793c58a3020393",
-      "retry_after": 1792368911
+      "retry_after": 1792385308
     },
     {
       "source": "Metal Injection",
@@ -2758,7 +2766,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T16:11:17+00:00",
       "id": "8ae89ebe3bea2b95425db3413adfb09f7e9e7703",
-      "retry_after": 1792368950
+      "retry_after": 1792385308
     },
     {
       "source": "Louder",
@@ -2770,7 +2778,7 @@
       "category": "Прогрессив",
       "published": "2026-10-10T16:00:00+00:00",
       "id": "998f5683f9550a81c70810e5b8306de3f2fbe759",
-      "retry_after": 1792368981
+      "retry_after": 1792385314
     },
     {
       "source": "Metal Injection",
@@ -2782,7 +2790,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T15:40:59+00:00",
       "id": "071f28d3e5f796e65e81254814af7268b0e82fe8",
-      "retry_after": 1792368981
+      "retry_after": 1792385314
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2794,19 +2802,7 @@
       "category": "Хард-рок",
       "published": "2026-10-10T13:52:21+00:00",
       "id": "75481e168aec5f932156782b1bb4c73389f4fd27",
-      "retry_after": 1792369071
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "The Aerosmith albums you should definitely listen to",
-      "link": "https://www.loudersound.com/music/albums/aerosmith-best-albums-buyers-guide",
-      "rss_body": "You can’t keep a good band down, even one as intent on self-destruction as\n\nAerosmith\n\n. Years of Olympic-standar drug abuse couldn’t do for them. Neither could the departure of guitarists Joe Perry and Brad Whitford in the early 80s (both came back). Nor some unseemly, turbo-charged friction between frontman Steven Tyler and his bandmates at the end of the 2010s. Even an aborted farewell tour, cancelled after Tyler suffered seemingly irreparable vocal cord damage, hasn’t stuck – the onetime Bad Boys From Boston have announced\n\ntheir return to the stage\n\nfor the first time since 2023 with a pair of all-star shows at the Hollywood Bowl on October 29 and November 1, which will see them joined by Guns N’ Roses, The Black Crowes, Heart and countless other famous friends and fans.\n\nIt’s a two-way fight between Aerosmith and\n\nKiss\n\nfor the title of America’s Greatest Rock’N’Roll Band.\n\nGene Simmons\n\nand\n\nPaul Stanley\n\nhave the whole band-as-brand thing nailed, but when it comes to swagger, attitude and malicious intent, The Bad Boys From Boston rule.\n\nAerosmith’s genius idea was to repackage the\n\nRolling Stones\n\n’ pharmaceutical rock’n’roll and sell it back to America as home-made product. The frequently brilliant albums they made in the 1970s were feral and brash, fuelled by a cocktail of bulletproof self-confidence and weapons-grade chemicals. Toxic Twins Steven Tyler and Joe Perry were 70s rock incarnate: cool, charismatic, permanently strung out.\n\nIt couldn’t last, and it didn’t. By the start of the 80s, this speeding train had crashed off the tracks, leaving a pile of twisted metal and mangled bodies. But halfway through the decade came an unexpected resurrection. A world-beating collaboration with\n\nhip hop group Run DMC on a cover of their own 1975 hit\n\nWalk This Way\n\nput Aerosmith back in the game, while the subsequent string of multi-platinum albums repositioned them as rock’n’roll’s wayward uncles, the glint of their gold earrings matched by the one in their eyes.\n\nTheir second act has been even more successful than the first – 1998’s\n\nArmageddon\n\n-soundtracking mega-ballad\n\nI Don’t To Miss A Thing\n\nbecame their biggest ever hit and the soundtrack to ten million prom nights. Nor has the soap opera surrounding them abated – the last two decades have been punctuated by bust-ups and bitchiness, relapses and rehab that would have put lesser bands out of business.\n\nBut Aerosmith aren’t lesser bands, and over 50 years and more they proved over and over that the music and the drama needed each other. Rock'n'roll's a dirty job, and no one did it dirtier than Aerosmith.\n\nAerosmith (CBS, 1973)\n\nAerosmith’s debut album was a stuttering start rather than one of rock’n’roll’s great opening salvos. Part of the problem was a sluggish mix courtesy of British producer Adrian Barber – and let’s not get into Steven Tyler’s baffling last-minute decision swap his jive-talking rasp for a strangulated, Kermit-sings-the-blues gargle.\n\nBut the songs mostly stand up.\n\nMama Kin\n\nand\n\nSomebody\n\nare cocksure enough to paper over any cracks, a cover of Rufus Thomas’\n\nWalkin’ The Dog\n\nis textbook early 70s white-boy R&B, and Tyler’s showboating proto-power ballad\n\nDream On\n\nhas become part of The Great Hard Rock Songbook. Promising, but there was much better to come.\n\nGet Your Wings (CBS, 1974)\n\nNot so much the difficult second album as Aerosmith’s great leap forward. Credit talismanic new producer Jack Douglas, who brought a clarity to\n\nGet Your Wings\n\nwhich had been missing first time out.\n\nMainly, though, it was all on the band themselves.\n\nSame Old Song And Dance\n\nand\n\nWalk This Way\n\ndry-run\n\nLord Of The Thighs\n\nwere exponentially sharper and funkier than anything Aerosmith had laid down before, while Tyler’s\n\nSeasons Of Wither\n\nwas an enigmatic rock’n’roll madrigal that showcased the musicality the singer had inherited from his concert pianist father.\n\nGet Your Wings\n\nstalled at No.74 in the US, but suddenly Aerosmith sounded like contenders.\n\nToys In The Attic (CBS, 1975)\n\nWhatever Aerosmith were on – which was pretty much everything by this stage – was working. If\n\nGet Your Wings\n\nwas Aerosmith breaking into a sprint,\n\nToys In The Attic\n\nwas where they opened their legs and showed their class.\n\nThe peacock-strutting\n\nWalk This Way\n\nis Toys’ marquee number, but it’s not the best song here. That would be the sublime\n\nSweet Emotion\n\n, a song that sidles in on the greatest bassline in rock history then spends the next four minutes ratcheting up the sexual tension.\n\nThe rest isn’t far behind, though the sheer breadth of what Aerosmith were doing here is often overlooked, from the jump-jiving single-entendres of\n\nBig Ten Inch\n\nto\n\nRound And Round\n\n’s Quaalude grind. And in closing ballad\n\nYou See Me Crying\n\n, Tyler once again proves that he’s the king of the rock’n’roll weepie.\n\nRocks (CBS, 1976)\n\nToys In The Attic\n\nand\n\nRocks\n\nwere Aerosmith’s greatest one-two punch. But where the former found them in full showboating mode, the latter doubled down on the kind of nasty, druggy rock’n’roll that that their idols the Rolling Stones had once owned the patent on.\n\nRocks\n\nis sleazier than a Boston back alley and sharper than a hypodermic needle.\n\nBack In The Saddle\n\nand\n\nLast Child\n\nooze chemically enhanced confidence, the hyper-speed blues of\n\nRats In The Cellar\n\nsounds like it’s just mainlined a kilo of Columbia’s finest, while\n\nCombination\n\nis the greatest Aerosmith song nobody ever talks about:\n\nRocks\n\nwas Peak 70s Aerosmith. They wouldn’t hit the same artistic or commercial heights for more than a decade, by which time they were clean if not serene.\n\nDraw The Line (1977)\n\nBy\n\nDraw The Line\n\n, Aerosmith’s career had become a battleground between the music and the drugs, and the drugs were winning. Their fifth album was about as bloated as a nine track LP could get, its songs gleaming with clammy narcotic sweat.\n\nYet\n\nDraw The Line\n\nstill contains its share of ’Smiths classics. The livewire title track busts through the stratosphere and heads off outer space without drawing breath,\n\nKings And Queens\n\nis the kind of grandstanding rock’n’roll psychedelia that only a band on this much gear would be unembarrassed enough to attempt, and the harmonica-blasted cover of pre-rock’n’roll staple\n\nMilk Cow Blues\n\nis the point where the fug momentarily lifts and these addled reprobates reconnect with the band used to be. But the thrills were sparser and the fun was dissipating, not least for Aerosmith themselves.\n\nRock In A Hard Place (Columbia, 1982)\n\nAerosmith stumbled into the 1980s strung-out, cross-eyed and minus two founding members. But even without Joe Perry and fellow six-stringer Brad Whitford, they still managed to cook up one last hit of maximum rock’n’roll before they nodded out.\n\nThe clue was in the defiant title. Where 1979’s troubled\n\nNight In The Ruts\n\nwas made by a band running on fumes and mostly sounded like it,\n\nRock In A Hard Place\n\nglimmered with some of the lip-flapping fever that marked their ascent. Newbie guitarist Jimmy Crespo brought a fresh batch of magic dust just when they needed it – the opening double-header of\n\nJailbait\n\nand\n\nLightning Strikes\n\nwouldn’t have sounded out of place on\n\nRocks\n\n(the same can’t be said for the washes of synth that pop up sporadically).\n\nIn the end, the energy they expended on\n\nRock In Hard Place\n\nwas too much, and Aerosmith flopped down on the nearest bed the could find. There they’d stay for the next four years, until a hotshot producer named Rick Rubin finally slapped them out of their stupor.\n\nPermanent Vacation (Geffen, 1987)\n\nPerry and Whitford had rejoined for 1985’s under-powered\n\nDone With Mirrors\n\ntwo years earlier, but that was a false comeback.\n\nPermanent Vacation\n\nwas the real curtain up on Aerosmith’s second act. And they pulled out the stops to ensure it flew, enlisting Bon Jovi producer Bruce Fairbairn and a battalion of outside writers, including hitmakers Holly Knight, Jim Vallance and Desmond Child.\n\nThe result was a state-of-art 80s rock record with a 70s soul. MTV smash singles\n\nDude (Looks Like A Lady), Rag Doll\n\nand\n\nAngel\n\nshowed the newly-cleaned-up Aerosmith could mix it up with the emergent glam metal bands they had inspired, but even its lesser numbers –\n\nHangman Jury\n\n, the demob-happy title track, the perpetually under-rated\n\nSimoriah\n\n– showed that these wayward souls had rediscovered whatever they’d lost along the way.\n\nPump (Geffen, 1989)\n\nPermanent Vacation\n\nhad shaken off the ring-rust, but\n\nPump\n\nwas where the all-time heavyweight champs of American rock’n’roll truly reclaimed their belt.\n\nThe nudge-nudge-wink-winking\n\nLove In Elevator\n\ntook the pop smarts they’d picked up last time round and magnified them a hundredfold, while\n\nYoung Lust\n\nand the rocket-fuelled\n\nF.I.N.E\n\nsuggested there might still be some residual Class A’s sloshing around their systems.\n\nBut there was a depth to\n\nPump\n\nthat transcended its era, not least in the stellar\n\nJanie’s Got A Gun\n\n– a startlingly mature take on the impact of childhood abuse that’s impossible to imagine the Aerosmith of old tackling.\n\nElsewhere, Tyler proved himself one of rock’s great lyricists: “\n\nLivin’, lovin’, getting’ loose, masturbatin’ with a noose/Now someone’s kicking out rhe chair,\n\n” he croaked on the shit-kicking\n\nVoodoo Medicine Man\n\n. Even after all this time, there was still no one like them.\n\nGet A Grip (Geffen, 1993)\n\nTwenty years after their debut, Aerosmith finally bagged their first US No.1 album. It’s easy to see why.\n\nGet A Grip\n\ntook the blockbuster template of\n\nPermanent Vacation/Pump\n\nand sanded down any remaining rough edges.\n\nThe result was a rock’n’roll album for people who didn’t really like rock’n’roll. At its heart were\n\nCryin’, Crazy\n\nand\n\nAmazing\n\n, a trilogy of machine-tooled ballads that provided the soundtrack for America’s teens to get their first hickey to (the videos, featuring Tyler’s teenage daughter Liv and fellow rising Hollywood star Alicia Silverstone, didn’t hurt their chances).\n\nThey were still partial to the hard stuff when the mood took them. The woozy\n\nLivin’ On The Edge\n\nis one of the all-time great Aerosmith singles, and\n\nEat The Rich\n\nand the title track proved they could still get it up when the occasion called.\n\nGet A Grip\n\nmight have lacked the danger of old, but the seven million-plus people who bought it weren’t arguing.",
-      "tags": "Albums Music",
-      "category": "Прогрессив",
-      "published": "2026-10-10T03:00:00+00:00",
-      "id": "aec1fa8e1d6b87fc66547005a4e39f0132021e07",
-      "retry_after": 0
+      "retry_after": 1792385316
     },
     {
       "source": "Metal Injection",
@@ -2818,19 +2814,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-09T18:50:14+00:00",
       "id": "1c587fa403b1041e5f9d9c1065173375f3a7c03c",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Judas Priest Lineup Changes: A Complete Guide",
-      "link": "https://ultimateclassicrock.com/judas-priest-lineup-changes-2/",
-      "rss_body": "In a Spinal Tap-esque twist, they spent most of their career trying to hold onto a drummer.",
-      "tags": "News Judas Priest UCR",
-      "category": "Хэви-метал",
-      "published": "2026-10-09T18:39:18+00:00",
-      "id": "7cde84b0e5dc67b9444247a32c67d9360d49a700",
-      "retry_after": 0
+      "retry_after": 1792385374
     },
     {
       "source": "Metal Injection",
@@ -2842,7 +2826,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-09T18:04:55+00:00",
       "id": "42dbcbd16ecd5b4d6283b60761b823ba2822fc29",
-      "retry_after": 0
+      "retry_after": 1792385388
     },
     {
       "source": "Metal Injection",
@@ -2854,31 +2838,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-09T16:59:25+00:00",
       "id": "9cbfe026aa21183f787df958cb7ab0b0ceb29c90",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Hear Pitbull and Kiss Team Up for New Song 'Reach for the Stars'",
-      "link": "https://ultimateclassicrock.com/kiss-pitbull-reach-for-the-stars/",
-      "rss_body": "\"If you don't like what we're doing, you can kiss our ass,\" Pitbull raps in the intro.",
-      "tags": "News Songs Kiss Pitbull UCR",
-      "category": "Хард-рок",
-      "published": "2026-10-09T16:07:19+00:00",
-      "id": "d75d0da9387882bf3e906089ed932ca50259e4b4",
-      "retry_after": 0
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Five For Friday: October 9, 2026",
-      "link": "https://www.decibelmagazine.com/2026/10/09/five-for-friday-october-9-2026/",
-      "rss_body": "Greetings,\n\nDecibel\n\nreaders!\n\nWe have a lot of great stuff for you this week. A very busy Frenchman is back at it again. A group of Swedish veterans are back with d-beats. A fiery death metal beast has awoken to devour us all. It’s gonna be great!\n\n—\n\nEsoctrilihum –\n\nAnnochiül Xar Sorthïlazur\n\nThere’s only a few things you can always count on in life: death, taxes, and a new\n\nEsoctrilihum\n\nalbum every year. Sometimes you’ll even get two! And you can always count on it being worth listening to and exploring. Of all of\n\nAsthâghul’s output, this is probably the most cinematic offering he’s given us. But don’t let that fool you into thinking it’s a smooth ride. No, there’s still plenty of unrelenting brutality and mind-bending musicianship to be found here.\n\nAnnochiül Xar Sorthïlazur by ESOCTRILIHUM\n\n—\n\nGraveyard –\n\nFever\n\nIs there a new wave of 1960s rock happening nowadays? At this point, I assume there’s a new wave of all styles happening all at once. But let’s not theorize about stuck culture right now, let’s just rock!\n\nGraveyard\n\nunearths the classic sounds of\n\nThe\n\nDoors\n\n,\n\nThe MC5\n\nand blends it with the noisy garage-rock bands that were bashing away a few years earlier.\n\nStream:\n\nApple Music\n\nFever by Graveyard\n\n—\n\nIn Obscurity Revealed –\n\nCaustic Maelstrom\n\nI mean, longtime readers of this column know I’ll always feature anything that sounds like this. If you’ve got a band that takes\n\nIncantation\n\n,\n\nFormulas\n\n-era\n\nMorbid Angel\n\n, and throws in just enough black metal to give it a bestial quality — I’m going to talk about it. So you should go listen to it.\n\nStream:\n\nApple Music\n\nCaustic Maelstrom by IN OBSCURITY REVEALED\n\n—\n\nMargarita –\n\nAbysses of Melancholia\n\nFrom\n\nour full-album stream\n\n:\n\nThis sludgy offering is performed by a trio of women—Karen Verdier-Désérable (guitar/vocals), Julie Appéré (bass/vocals/synth), Julie Picard (drums/SPD) — who channel the retro doom of female fronted acts like Blood Ceremony, as well as the grungy skronk of Babes in Toyland and early Hole. It’s moody, melancholic and crushing, taking the vibe from haunting to frightening over the course of nearly 40 minutes.\n\nStream:\n\nApple Music\n\nMargarita – Abysses Of Melancholia by Electric Valley Records\n\n—\n\nWolfbrigade –\n\nHowl from Underground\n\nClassic Swedish crust meets classic Swedish death metal. Essential listening for anyone who longs for the d-beat divebombs of bands like\n\nAnti-Cimex\n\nand\n\nSkitsystem\n\nbut also craves the riffing power of\n\nDismember\n\nand\n\nEntombed\n\n.\n\nStream:\n\nApple Music\n\nHowl from Underground by Wolfbrigade",
-      "tags": "Five for Friday ESOCTRILIHUM five for friday graveyard In Obscurity Revealed Margarita New Releases Wolfbrigade",
-      "category": "Прогрессив",
-      "published": "2026-10-09T16:00:26+00:00",
-      "id": "6043ac8715e3ea80818a0c4e596ef8769a95bc3e",
-      "retry_after": 0
+      "retry_after": 1792385388
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2890,19 +2850,7 @@
       "category": "Хард-рок",
       "published": "2026-10-09T15:09:42+00:00",
       "id": "8be1747cd4d988990d3693ad080bbacf7c407e8a",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AN NCS PREMIERE: DISEMBODY — “DWELLER OF ABYSSAL WATERS”",
-      "link": "https://www.nocleansinging.com/2026/10/09/an-ncs-premiere-disembody-dweller-of-abyssal-waters/",
-      "rss_body": "(written by Islander) “Raw, vicious and uncanny….” That’s the succinct summing-up offered by Helldprod Records for a new album named Awakening of Ancient Evil by the Finnish black/thrash duo Disembody. It’s their second full-length, following the aptly named Reigniting Hellfire from 2021, and that quick take on the music is accurate. Here’s the label’s more\n\n[...]",
-      "tags": "Premieres Disembody",
-      "category": "Хэви-метал",
-      "published": "2026-10-09T14:52:55+00:00",
-      "id": "6bd2e41c4f23e7dbd0b778deedc60327be4b8011",
-      "retry_after": 0
+      "retry_after": 1792385447
     },
     {
       "source": "Metal Injection",
@@ -2914,19 +2862,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-09T14:07:11+00:00",
       "id": "aaaaaf07e4d60e4f4a55d5de2c7b35ce2a3f50f5",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "GONZO’S HEAVY ROUNDUP, SEPTEMBER 2026",
-      "link": "https://www.nocleansinging.com/2026/10/09/gonzos-heavy-roundup-september-2026/",
-      "rss_body": "(Our Denver-based writer Gonzo has returned to reviewing and recommending albums for us on a monthly basis, and here he recommends five of them released in September.) These days, I’m trying to look past the infinite well of bullshit that we’re all constantly forced to stare into. Music has a way of distracting me from\n\n[...]",
-      "tags": "Album Reviews Burner Cold Decay Deathchant Dreadnought Gonzo The Ocean",
-      "category": "Хэви-метал",
-      "published": "2026-10-09T13:52:04+00:00",
-      "id": "abb8137400bc4a6f5af06e89afc4f5a25fea4a95",
-      "retry_after": 0
+      "retry_after": 1792385465
     },
     {
       "source": "Metal Injection",
@@ -3250,7 +3186,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-12T16:19:23+00:00",
       "id": "ed145ac3739dc539d4672f04dfcb4c894a3132aa",
-      "retry_after": 1792368882
+      "retry_after": 1792385278
     },
     {
       "source": "Metal Injection",
@@ -3262,7 +3198,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-12T15:06:30+00:00",
       "id": "7118f5120f6c201ef8842f480354d910b7da50e5",
-      "retry_after": 1792368882
+      "retry_after": 1792385278
     },
     {
       "source": "Metal Injection",
@@ -3274,7 +3210,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-12T14:34:45+00:00",
       "id": "0161762704b9d659d48fa0cba42aa5307bd27da7",
-      "retry_after": 1792368882
+      "retry_after": 1792385278
     },
     {
       "source": "No Clean Singing",
@@ -3286,7 +3222,7 @@
       "category": "Прогрессив",
       "published": "2026-10-12T13:53:17+00:00",
       "id": "3d4534b4f7365e30c932054eaa86440b8bbcad0d",
-      "retry_after": 1792368885
+      "retry_after": 1792385281
     },
     {
       "source": "ThePRP",
@@ -3298,7 +3234,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T16:21:04+00:00",
       "id": "6fa9e66a27bc3bb4d1d6d699ea1d0cf9eb170e41",
-      "retry_after": 1792368874
+      "retry_after": 1792385271
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3310,7 +3246,7 @@
       "category": "Хард-рок",
       "published": "2026-10-13T16:08:03+00:00",
       "id": "b3483a2937a66c5ce60b948a1df4c2641bc669a5",
-      "retry_after": 1792368877
+      "retry_after": 1792385273
     },
     {
       "source": "Metal Injection",
@@ -3322,7 +3258,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T15:39:10+00:00",
       "id": "d084dcb5b9cf81ee155f4415cc6f2e255a918dbf",
-      "retry_after": 1792368877
+      "retry_after": 1792385273
     },
     {
       "source": "Metal Injection",
@@ -3334,7 +3270,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T13:43:21+00:00",
       "id": "0550fbdbf700f9c123f830e31daa90002a226aa9",
-      "retry_after": 1792368877
+      "retry_after": 1792385273
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3346,7 +3282,7 @@
       "category": "Хард-рок",
       "published": "2026-10-13T11:54:39+00:00",
       "id": "083084d358ed43495ce32f26fe1d6f749f3aa7d3",
-      "retry_after": 1792368882
+      "retry_after": 1792385278
     },
     {
       "source": "Metal Injection",
@@ -3358,7 +3294,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T18:54:54+00:00",
       "id": "0bc34f73ce3a3bd4aab3f2118e879131426eafce",
-      "retry_after": 1792368868
+      "retry_after": 1792385267
     },
     {
       "source": "Metal Injection",
@@ -3370,7 +3306,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T17:17:37+00:00",
       "id": "6e57911a7743ad43cbb0c228a83d313ae826bb57",
-      "retry_after": 1792368868
+      "retry_after": 1792385267
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3382,7 +3318,7 @@
       "category": "Прогрессив",
       "published": "2026-10-13T17:03:04+00:00",
       "id": "19ed93ba39ae6d8df8b72eef8ab84fed711e541c",
-      "retry_after": 1792368871
+      "retry_after": 1792385269
     },
     {
       "source": "Metal Injection",
@@ -3394,7 +3330,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T14:29:26+00:00",
       "id": "763e15189ce9457ccfc94db35b8bf0ab36b0b73c",
-      "retry_after": 1792368867
+      "retry_after": 1792385265
     },
     {
       "source": "No Clean Singing",
@@ -3406,7 +3342,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-14T13:50:53+00:00",
       "id": "ec5d5018bd5a2da6a26d2be63d29fc90708fbe85",
-      "retry_after": 1792368868
+      "retry_after": 1792385267
     },
     {
       "source": "Metal Injection",
@@ -3418,7 +3354,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T19:10:15+00:00",
       "id": "876f0e380ed29bab07d20ff6f276f4eb5127cf8d",
-      "retry_after": 1792368864
+      "retry_after": 1792385262
     },
     {
       "source": "Metal Injection",
@@ -3430,7 +3366,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T18:29:41+00:00",
       "id": "1834789368e897d2953ea559c83ebc82f22da77e",
-      "retry_after": 1792368864
+      "retry_after": 1792385262
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3442,7 +3378,7 @@
       "category": "Хард-рок",
       "published": "2026-10-14T18:20:40+00:00",
       "id": "ff16b61cfefd0d8d20a1469a1d16616fb4fe7420",
-      "retry_after": 1792368867
+      "retry_after": 1792385265
     },
     {
       "source": "Metal Injection",
@@ -3454,7 +3390,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T16:23:37+00:00",
       "id": "55523d2252c09131aa39f7d0fe81c81e5cac2c33",
-      "retry_after": 1792368867
+      "retry_after": 1792385265
     },
     {
       "source": "Louder",
@@ -3466,7 +3402,7 @@
       "category": "Прогрессив",
       "published": "2026-10-15T15:09:41+00:00",
       "id": "b8627ce094e15f871bb133333c9bfc54fbccab43",
-      "retry_after": 1792368863
+      "retry_after": 1792385261
     },
     {
       "source": "Metal Injection",
@@ -3478,7 +3414,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T14:27:45+00:00",
       "id": "b8813643295210f92ea2a5445221cc8716d1da1a",
-      "retry_after": 1792368863
+      "retry_after": 1792385261
     },
     {
       "source": "Metal Injection",
@@ -3490,7 +3426,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T13:38:42+00:00",
       "id": "85748d127186f72494688a79d3cef331539f30f2",
-      "retry_after": 1792368864
+      "retry_after": 1792385261
     },
     {
       "source": "Metal Injection",
@@ -3502,7 +3438,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T12:33:17+00:00",
       "id": "4da71dd62974056053bdf4743d7dc2a8927284cb",
-      "retry_after": 1792368864
+      "retry_after": 1792385262
     },
     {
       "source": "Metal Injection",
@@ -3514,7 +3450,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:00:00+00:00",
       "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
-      "retry_after": 1792368852
+      "retry_after": 1792385257
     },
     {
       "source": "Metal Injection",
@@ -3526,7 +3462,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T17:10:18+00:00",
       "id": "4d9f2be08e5b1d74c24967411ca765a3963a5141",
-      "retry_after": 1792368852
+      "retry_after": 1792385257
     },
     {
       "source": "Metal Injection",
@@ -3538,7 +3474,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T15:23:41+00:00",
       "id": "14906496ce8d34abc3e4c5bd74c18eff90dc1185",
-      "retry_after": 1792368853
+      "retry_after": 1792385257
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3550,7 +3486,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T20:49:09+00:00",
       "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
-      "retry_after": 1792368852
+      "retry_after": 1792385257
     },
     {
       "source": "Metal Injection",
@@ -3562,7 +3498,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:25:10+00:00",
       "id": "77b1588e20715ae846658427185c711f41edfa37",
-      "retry_after": 1792368852
+      "retry_after": 1792385257
     },
     {
       "source": "Louder",
@@ -3574,7 +3510,7 @@
       "category": "Прогрессив",
       "published": "2026-10-16T02:29:27+00:00",
       "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
-      "retry_after": 1792368850
+      "retry_after": 1792385255
     },
     {
       "source": "Louder",
@@ -3589,7 +3525,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792368844
+      "retry_after": 1792385249
     },
     {
       "source": "Metal Injection",
@@ -3601,7 +3537,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
-      "retry_after": 1792368844
+      "retry_after": 1792385249
     },
     {
       "source": "Metal Injection",
@@ -3613,7 +3549,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
-      "retry_after": 1792368844
+      "retry_after": 1792385249
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3625,7 +3561,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T12:17:13+00:00",
       "id": "2a02732b6da7dc076e27515808483943e76cb609",
-      "retry_after": 1792368846
+      "retry_after": 1792385251
     },
     {
       "source": "Metal Injection",
@@ -3641,7 +3577,7 @@
         "73ecf77997afc50510be4de8d18c56581c68c2f2",
         "1281d9679035a6042490add57117ba0078a761ea"
       ],
-      "retry_after": 1792368844
+      "retry_after": 1792385249
     },
     {
       "source": "Metal Injection",
@@ -3653,7 +3589,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 1792368840
+      "retry_after": 1792385245
     },
     {
       "source": "Metal Injection",
@@ -3665,7 +3601,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:44:42+00:00",
       "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
-      "retry_after": 1792368840
+      "retry_after": 1792385245
     },
     {
       "source": "Metal Injection",
@@ -3677,7 +3613,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792368840
+      "retry_after": 1792385245
     },
     {
       "source": "Metal Injection",
@@ -3689,7 +3625,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792368840
+      "retry_after": 1792385245
     },
     {
       "source": "Louder",
@@ -3701,7 +3637,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792368840
+      "retry_after": 1792385245
     },
     {
       "source": "Louder",
@@ -3713,7 +3649,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T10:00:00+00:00",
       "id": "c1ea453807d8fcbdf823e5a66dd8b50643c15a98",
-      "retry_after": 1792368836
+      "retry_after": 1792385241
     },
     {
       "source": "Metal Injection",
@@ -3725,7 +3661,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-17T14:23:28+00:00",
       "id": "1c5cfbe84a92e91546a4f726ca221c8ac38f37ae",
-      "retry_after": 1792368832
+      "retry_after": 1792385236
     },
     {
       "source": "Metal Injection",
@@ -3737,7 +3673,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T15:46:43+00:00",
       "id": "17fb72fb196f9cfc779369925273ef76e14f814e",
-      "retry_after": 1792368832
+      "retry_after": 1792385236
     },
     {
       "source": "Metal Injection",
@@ -3749,7 +3685,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T14:56:10+00:00",
       "id": "75aefeb86fd73e4c90547f178d35ec6916166b04",
-      "retry_after": 1792368832
+      "retry_after": 1792385236
     },
     {
       "source": "Metal Injection",
@@ -3761,7 +3697,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T18:20:57+00:00",
       "id": "dfaa87e155fc4630bcaf24b6f82ebeb9dbeb28ea",
-      "retry_after": 1792368831
+      "retry_after": 1792385236
     },
     {
       "source": "Metal Injection",
@@ -3773,7 +3709,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-18T13:48:23+00:00",
       "id": "e60ce886de7ed29dbe56084a288ebd2a75bf0094",
-      "retry_after": 1792368831
+      "retry_after": 1792385236
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3785,7 +3721,7 @@
       "category": "Хард-рок",
       "published": "2026-10-18T16:23:43+00:00",
       "id": "04a02e037aa53946d8b4e9212a2922257434dfdf",
-      "retry_after": 1792368831
+      "retry_after": 1792385236
     },
     {
       "source": "ThePRP",
@@ -3797,7 +3733,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-18T19:17:26+00:00",
       "id": "503147e0f372c017ebf4b19f9b07f11881cbb32e",
-      "retry_after": 1792368821
+      "retry_after": 1792385228
     },
     {
       "source": "No Clean Singing",
@@ -3809,7 +3745,7 @@
       "category": "Прогрессив",
       "published": "2026-10-18T18:58:51+00:00",
       "id": "5bb6507f6ee95ee118e62ae890e5c8534bbf884b",
-      "retry_after": 1792368827
+      "retry_after": 1792385232
     },
     {
       "source": "Metal Injection",
@@ -3821,7 +3757,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-18T17:12:50+00:00",
       "id": "b02678d0ddcd01b28134a4b7a183953fe2f40ca5",
-      "retry_after": 1792368827
+      "retry_after": 1792385232
     },
     {
       "source": "Metal Injection",
@@ -3833,7 +3769,7 @@
       "category": "Хард-рок",
       "published": "2026-10-18T16:38:08+00:00",
       "id": "871c216a743cfb918ed9f1c13570e5899626ad1b",
-      "retry_after": 1792368828
+      "retry_after": 1792385232
     }
   ]
 }
