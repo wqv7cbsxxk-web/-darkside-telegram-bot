@@ -782,49 +782,18 @@
     "9e21eb9f3a54306b9dff4ef306d383657607a103",
     "cce93e25348f788c85c56dbded500cf9f3ca8904",
     "02eb2556fa069a709965ffbb6f31e3d350f4eb59",
-    "139854f175de4a3fd1e683cee541be2b32ffbb24"
+    "139854f175de4a3fd1e683cee541be2b32ffbb24",
+    "4cac29ae22d18fb338974406315359a847d36b31",
+    "929780c21798d9064d59ded2414610817da259d1",
+    "9b120e5ade2fc4103d8d378bfc038a32658d84a3",
+    "417ec62257d54cf20a2f927d11d5c88ff97a0654",
+    "7791c624cf2d4361e263a18fcda0e29133b5fe55",
+    "ffe54278ab247eec541a358aa60a18e6ff924739",
+    "0975d33cd6e2e303583d236ebfbc841c97e34a2a",
+    "71360d11b253ba22471e4f512456a6dd6e36ec45",
+    "3e4f40043af20792a2dfa6428014839bc71b4702"
   ],
   "recent_titles": [
-    {
-      "title": "Smosh Parody Limp Bizkit With Fred Darts’ “Bring ‘Em Back (We Want Dinos)” Video",
-      "source": "ThePRP",
-      "ts": 1792174626
-    },
-    {
-      "title": "Survivalist’s “Four Nails” EP Due In November, “Infinity” Video Debuts",
-      "source": "ThePRP",
-      "ts": 1792174631
-    },
-    {
-      "title": "How Genesis ex Anthony Phillips helped build the band, lost his mojo and started to rebuild himself",
-      "source": "Louder",
-      "ts": 1792185970
-    },
-    {
-      "title": "Foo Fighters’ Dave Grohl & Pat Smear Guest On New Version Of The Pretty Reckless’ “About You”",
-      "source": "ThePRP",
-      "ts": 1792186016
-    },
-    {
-      "title": "HEALTH Debut Two New Tracks They Wrote For The Latest ‘Street Fighter’ Movie",
-      "source": "ThePRP",
-      "ts": 1792186022
-    },
-    {
-      "title": "Infant Annihilator’s New Album Set For December Release",
-      "source": "ThePRP",
-      "ts": 1792186025
-    },
-    {
-      "title": "Haywire, Integrity, God’s Hate, Etc. Booked For 2027 ‘LDB Fest’",
-      "source": "ThePRP",
-      "ts": 1792186029
-    },
-    {
-      "title": "Caspian Release “A Great Fire” Short Film",
-      "source": "ThePRP",
-      "ts": 1792186032
-    },
     {
       "title": "Iron Maiden’s Bruce Dickinson Performed “The Trooper” From Backstage In Ecuador Due To Smoke From Flares In The Audience",
       "source": "ThePRP",
@@ -1584,6 +1553,46 @@
       "title": "WEREWOLVES: “YOU’RE WEAK AND YOU KNOW YOU’RE WEAK”",
       "source": "No Clean Singing",
       "ts": 1792405448
+    },
+    {
+      "title": "“It pulled the whole album together”: How Pink Floyd made High Hopes",
+      "source": "Louder",
+      "ts": 1792429524
+    },
+    {
+      "title": "Meshuggah, Testament, Sylosis, Etc. Booked For 2027 ‘Sonic Temple Art + Music Festival’",
+      "source": "ThePRP",
+      "ts": 1792429530
+    },
+    {
+      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): FVNERAL FVKK — “INDECENT IDOLS”",
+      "source": "No Clean Singing",
+      "ts": 1792429567
+    },
+    {
+      "title": "Queens Of The Stone Age Tease Their Upcoming Tour Announcements",
+      "source": "ThePRP",
+      "ts": 1792429572
+    },
+    {
+      "title": "Full Album Stream: ORB – “Supernatural Season”",
+      "source": "Decibel",
+      "ts": 1792429585
+    },
+    {
+      "title": "Mötley Crüe Announce Eight-Date Las Vegas Residency For 2027",
+      "source": "ThePRP",
+      "ts": 1792429591
+    },
+    {
+      "title": "Papa Roach Reveal 2027 U.S. Tour With Ice Nine Kills & Ninth Key",
+      "source": "ThePRP",
+      "ts": 1792429601
+    },
+    {
+      "title": "System Of A Down Announce Rose Bowl Show As Their Lone U.S. Date For 2027",
+      "source": "ThePRP",
+      "ts": 1792429607
     }
   ],
   "initialized_sources": [
@@ -3694,6 +3703,114 @@
       "published": "2026-10-18T16:38:08+00:00",
       "id": "871c216a743cfb918ed9f1c13570e5899626ad1b",
       "retry_after": 1792405562
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "BLACK MASK – VESTIGE OF MERCY",
+      "link": "https://www.nocleansinging.com/2026/10/19/black-mask-vestige-of-mercy/",
+      "rss_body": "(Andy Synn has a thoroughly nasty new recommendation to share with you all today) Music, for a lot of people anyway, can be an inspirational thing. The new Cursebinder (reviewed here), for example, seeks to inspire the listener to reflect on the disaffected nature of the metropolitan age, while the latest slab of Deathcore destruction from To\n\n[...]",
+      "tags": "RANDOM FUCKING MUSIC Andy Synn Black Mask",
+      "category": "Экстремальный метал",
+      "published": "2026-10-19T15:16:42+00:00",
+      "id": "25a0800bf3728f989902d006a82f791c1352d057",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "System of a Down Announces 2027 Rose Bowl Show With Pierce the Veil",
+      "link": "https://metalinjection.net/tour-dates/system-of-a-down-announces-2027-rose-bowl-show-with-pierce-the-veil",
+      "rss_body": "Surprise! Sort of.",
+      "tags": "Tour Dates",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T15:11:43+00:00",
+      "id": "95d06f7f857cb151a8d43b8e47aa307bd83ed897",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Robert Plant says the death of his son changed his relationship with Led Zeppelin",
+      "link": "https://www.loudersound.com/bands-artists/i-didnt-need-the-group-after-losing-my-boy-when-things-go-left-of-centre-who-wants-to-sit-backstage-for-hours-with-people-youve-been-stuck-with-since-1968-robert-plant-says-that-the-death-of-his-son-changed-his-relationship-with-led-zeppelin",
+      "rss_body": "Led Zeppelin\n\nlegend Robert Plant has spoken about how the death of his son Karac in 1977 changed his perspective on the band.\n\nKarac Plant passed away on on July 26, 1977, aged five, after contracting an acute gastrointestinal infection, which spread rapidly. His father learned of his death while touring Led Zeppelin's seventh album\n\nPresence\n\n, and the tour was immediately cancelled, with seven dates still on the docket.. Led Zeppelin would never tour America again, although they would release two further albums, 1979's\n\nIn Through The Out Door\n\n, and\n\nCoda\n\n, which emerged in 1982, two years after their break-up following drummer John Bonham's death.\n\nSpeaking about his tragic loss in a new interview with\n\nThe SundayTimes\n\n, Plant says, \"there was no map, no instructions to Led Zeppelin, and we just carried on.\"\n\n“But I didn’t need the group after losing my boy. These musical romances are great when everything\n\nis\n\ngreat. When things go left of centre, who wants to sit backstage for hours and hours with people you’ve been stuck with since 1968? You’re not playing cards, you’re not going to the movies, you’re just waiting. I was always looking to get away.”\n\nThe comment echoes what Plant told\n\nRolling Stone\n\nmagazine in 2007.\n\n\"I lost my boy,\" he said. \"I didn't want to be in Led Zeppelin. I wanted to be with my family.\"\n\nPlant now lives in Shatterford, in Worcestershire, a quiet English village where there is none of the mania which surrounded Led Zeppelin at their peak.\n\n\"I’ve been a quasi big shot for so long that in Worcestershire nobody gives a fuck\" he admits. \"The most they say is: ‘All right, Bob? Still doing a bit?’ Well, I won five Grammys with Alison Krauss… ‘What’s a Grammy?’\"\n\nNot that his life now is not without its own glamour and excitement.\n\n\"Tuesday night is bingo night\" he reveals. \"You might win 25 quid.\"",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-19T15:00:00+00:00",
+      "id": "67aed05d399327733bfa2545452386a983ff3f24",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "London Politician Calls on Wembley Stadium to Reconsider Marilyn Manson’s Slipknot Booking",
+      "link": "https://metalinjection.net/news/london-politician-calls-on-wembley-stadium-to-review-marilyn-mansons-slipknot-booking",
+      "rss_body": "\"Wembley Stadium needs to explain what consideration was given to them before this booking was confirmed.\"",
+      "tags": "Latest News Slipknot Marilyn Manson",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T14:13:37+00:00",
+      "id": "be1139c09e1ee624d67752284d3e006095c725f3",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "BITTER LOSS: “THE FUTILE DREAM OF BEING”",
+      "link": "https://www.nocleansinging.com/2026/10/19/bitter-loss-the-futile-dream-of-being/",
+      "rss_body": "(The Greek band Bitter Loss released their second album last April, and DGR has gotten around to reviewing it in the following paragraphs.) Greece’s Bitter Loss is a band who have sat on the backburner for a little while, joining an honored class of groups who’ve not been done right by my personal gauge. Forever\n\n[...]",
+      "tags": "Album Reviews Bitter Loss DGR",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T14:00:38+00:00",
+      "id": "05ce9bf5e3377ca5fd87c8120eafe4e13889ab3c",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Q&A: Neige (Alcest) Reflects On Spirituality & Dani Filth",
+      "link": "https://www.decibelmagazine.com/2026/10/19/alcest/",
+      "rss_body": "Neige [aka Stéphane Paut] has catapulted Alcest into the stratosphere. Powered by sentimental, empowering, isolating, and ephemeral songs, the France-based combo, featuring long-time drummer Winterhalter [aka Jean Deflandre], take the engaged and passersby on otherwordly journeys. From debut\n\nSouvenirs d’un Autre Monde\n\nto 2024’s dreamy\n\nLes Chants de L’Aurore\n\n, they’ve pulled and pushed, tugged at heartstrings and enraged souls. No surprise–actually Neige was taken aback–when metal’s leading lights and\n\nDecibel\n\nfavorites Mastodon invited them on a massive U.S. tour. With no new album to promote and only vibes to go on, Neige, Winterhalter, live guitarist Zero and live bassist Indria, posited their delicate angst and spiritual intention as a foil to Mastodon’s mind-intensive mettle.\n\nDecibel\n\nfound Neige in Detroit–a sort of homecoming for yours truly–near the halfway mark of Alcest’s month-long jaunt across the U.S. and Canada. Read on as the frontman tentatively drops hints about future music, both Classical and metallic, and gets personal about his sojourn in this life (and before). In fact, as a stopgap between now and what’s to come, Alcest have slated the release of their new live album,\n\nLive at Hellfest 2022\n\n, for December 4th on Nuclear Blast.\n\nIt’s been several years since\n\nLes Chants de L’Aurore\n\n. Have you started to think about what follows?\n\nNeige\n\n: We have this project on the side of the regular Alcest, which is like a collaboration album. It’s like a piano and three vocals. We are going to release an album next year. It’s going to be a pianist, Zero [Pierre Corson], the other guitar player, and Elise [Aranguren], she’s our tour manager, but she’s singing in this project. Long story short, Nicolas Horvath, a musician from the Classical music world, who also has like a foot into the metal scene, wrote me a mail a couple years ago to tell me if I would be interested in doing like reinterpretations of the Alcest songs in a Classical setting. I said, sure, I think that’d sound great. The guy is a big Alcest fan, so he knows a lot about the project. We worked on this thing for two years. We did a couple of shows, and now, we’ve made an album. Nicolas is one of the main interpreters of Philip Glass.\n\nMy mind immediately goes to the French band, Elend, who had some notable releases in the 1990s.\n\nNeige\n\n: Oh, yeah, of course! Normally, I’m not into metal and Classical together. It’s a bit cheesy.\n\nIf you’re thinking about Rhapsody (or Rhapsody of Fire), then yes, I agree.\n\nNeige\n\n: If it’s a 100-percent metal, it’s fine. If it’s 100-percent Classical, it’s fine. We’re not trying to do both too much with this new project. So, it’s two very different universes, the metal scene and the classical scene. I hope it’s not cheesy.\n\nAre you writing new Alcest songs at the moment?\n\nNeige\n\n: It’s been a while since I wrote anything. I’m just lacking time. We are on tour a lot. When I come back from the tour, it takes like a week to recover, like a week or more sometimes. Only then I can start being creative again.\n\nHard to feel creative when you’re not in the moment or have the right mindset for the moment.\n\nNeige\n\n: When you’re on tour for three months, it’s not really possible to be creative like that. I need to be a little bit more grounded before I can start to work at home again.\n\nDescribe that process.\n\nNeige\n\n: You have to feel in the mood. You have to feel like you’re moving towards something. So, in my case, I could never force myself to write something. For example, once I spent a whole year without making a single riff. So, this happens. I hope it doesn’t happen again because it’s very scary, but it can happen. Basically, there are no rules. If we knew how to make the best song in the world everyone would have done it. There are no rules. Everyone is different. We all have our ways to make a song. For me, it’s very, very basic. I just jam on my guitar and make riff memos in my phone. I don’t even work so much on a computer. I don’t really make demos. At this stage, I just record my riffs, assemble them to make like a song. I don’t really know how the riffs come to me. It’s a bit mysterious. I just know I’m channeling something. I don’t know what exactly. I can spend months writing nothing, but then I can suddenly write a song in a few hours.\n\nThe creative process is torture or bliss.\n\nNeige\n\n: Something I noticed, I’m almost never creative when I’m too happy. It’s cliché, I know. I need to be in some kind of dark place in my life to feel inspired.\n\nDoes that happen naturally or do you force yourself?\n\nNeige\n\n: Good question. No, I think it happens naturally, because I don’t think I’m a sad person, but I’m not a happy person. So, it’s easy to slip into that place. It’s a part of who I am. I’ve always been a little bit on the melancholic side of things. In my case, it’s not like a creepy melancholy. It’s more like a bittersweet, nostalgic melancholy.\n\nLes chants de l’aurore. 2024. Nuclear Blast.\n\nYou can hear that in Alcest.\n\nNeige\n\n: The main feeling that’s in this music is this feeling to be… Not to be where I’m supposed to be. Maybe homesick. I talk about this otherworldly place [in Alcest]. I’m still trying to find a way to integrate my spirituality into this life. As much as I’m a spiritual person, I hate religion. It’s hard to integrate spirituality into music without it making it sound like religion.\n\nBeing religious and being spiritual are two different things.\n\nNeige\n\n: I agree, but for most people they are not. Every time I say to someone, “I believe in God. I believe there is a higher being.” People, they always say to me, “Oh, so you are religious?” I say, “No, that’s not what I said.” I’m not following any established way to believe in something. I have my own way. It’s just I believe in something. I don’t want to follow any old books. Or, go to church on Sunday at 10 and leave at 1—like a regiment. Sometimes, it’s a very solitary path. I think it’s important to do it alone not to have too much influence from the outside. The connection that is between you and something higher is what’s important.\n\nSo where are you on that journey now?\n\nNeige\n\n: The beginning? I think I kind of always had the answer. What I consider to be my answer. I believe that we are here to learn something. And life after life, we learn more and more. And we are going to come back again and again, our souls. So, I’m not afraid of dying. I know there is an after.\n\nThere are Buddhist tenets to what you’re talking about.\n\nNeige\n\n: I know. But I hate labels. Reincarnation. It’s something that I feel I’ve lived personally. Not in a book. I remember where I was before being here. That’s the Alcest concept. I’m still trying to figure it out. So, maybe I’m at the beginning of that. Or, maybe I’m at the end?\n\nHow do you feel about that?\n\nNeige\n\n: I’m not sure. I believe that we all are on this journey—to elevate our souls in a way. In order to do that, we have to experience everything: the pain, the joys, the sickness, the happiness. Absolutely everything. This is a part of our training. To your previous question, I think I have a hint because I notice that I’m still very attached to some things. I’m still very haunted by things. I’m not at peace at all. This band is my own like spiritual quest. The reason I wanted to feel less alone. When I was a kid, I remembered this place—this otherworldly place. I thought it was normal. Everyone had it, but now, I realize that not everyone could remember where they were before being here. When I became a teenager, I discovered metal music, and I thought, “OK, why not use music to talk about this experience?” I wanted to see also if other people would recognize their own story in my story.\n\nAlcest live in Detroit. Photo by Chris Dick. 2026.\n\nLes Chants…\n\nwas more textural. Talk about that approach.\n\nNeige:\n\nI resonate a lot with melodies. The first instrument I learned was piano with my grandmother. She was a piano teacher. I’m a more of a melody-type of guy than rhythm. I didn’t grow up with punk music, for example. A lot of people, they listen to punk and then they went into metal. For me, it was Classical. Then, I discovered dance music in the ‘90s. Wait, I think I listened to Nirvana for a few months.\n\nThen, it was black metal. A friend of mine bought a magazine [Metallian]. He gave me the magazine. Dani from Cradle of Filth was on the cover. I was like, “What’s this?!” It had a CD on the cover [cover mounted CD], and he said, “You have to listen to this!” Cradle was on it. Bunch of other black and death metal bands. I was into it in a fucking instant. I was maybe 12 or 13.\n\nWhen did you get into shoegaze?\n\nNeige\n\n: At the time of my first album [\n\nSouvenirs d’un Autre Monde\n\n], is when I really started to discover the shoegaze scene. I was a black metal heavy hitter for about two years—nothing but black metal. Then, I went straight into techno and indie.\n\nIt wasn’t very common to listen to black metal and shoegaze, especially in the 1990s. Katatonia did, though.\n\nNeige\n\n: I know. Now, it’s very normal.\n\n[Points to my Cocteau Twins shirt and my wife’s Type O Negative battle jacket]\n\nNeige\n\n: Peter Steele was a huge Cocteau Twins fan. He was also a big Lycia fan.\n\nGetting back to Alcest, where do you think you’ll take the next album?\n\nNeige\n\n: I function strangely. I need one bright album and one dark album. My albums are bright, dark, bright, dark. The last album [\n\nLes Chants…\n\n] was a very uplifting album. I guess the next one will darker. I want to explore the chorus-y type of cold wave.\n\nLike Asylum Party?\n\nNeige\n\n: I think so. With more clean guitars. I think it’s still a little bit too early for me to know where I’m gonna go next, but I have a few ideas. That could be next year or maybe in eight years. It’s not really up to me. I don’t force inspiration. It comes when it comes. That makes sense for art, but not for being in a band that’s active, touring and all that.\n\nYou’re obviously aware that Alcest is a vehicle for your spiritual quest, but also a commercial venture.\n\nNeige:\n\nI am. We like to commoditize art, make it commercial. It’s a product. I guess we should be a little bit more money driven. Most bands are. That’s not really the case with us. We have people who work for us. It’s a big team, actually. I just write songs.\n\nNone of that would be possible if you weren’t writing songs, though.\n\nNeige\n\n: I realize that. I still am doing the artistic direction of everything, so I make sure that every visual that we are gonna sell is compatible with Alcest. We have lore now. At least, that’s what people call it nowadays. So, I’m doing the music, the concept, and visuals. But I have no idea how to promote it or sell it. I would be horrible at selling my work.\n\nSo, you’re on tour with Deafheaven, who you toured with before, and Mastodon.\n\nNeige\n\n: We are. They’re such great people. We’ve known Deafheaven for a long time. We hadn’t met Mastodon before. So, they’re the ones who approached us. It’s interesting. They’re a very different type of band. They could’ve taken another band from the states, but no, they took a weird-ass band from France. Maybe they’re weird-ass, too. I’m very happy and of course, grateful. It’s a great tour.\n\nAlcest on tour with Deafheaven and Mastodon\n\nSep 16 – Orlando, FL @ Hard Rock\n\nSep 18 – Asheville, NC @ Asheville Yards\n\nSep 19 – Pittsburgh, PA @ Stage AE\n\nSep 22 – Philadelphia, PA @ Franklin Music Hall\n\nSep 23 – Boston, MA @ House of Blues\n\nSep 24 – Brooklyn, NY @ Brooklyn Paramount\n\nSep 25 – Washington, DC @ The Anthem\n\nSep 27 – Montreal, QC @ MTELUS\n\nSep 28 – Toronto, ON @ Rebel\n\nSep 29 – Buffalo, NY @ Buffalo Riverworks\n\nOct 1 – Detroit, MI @ Fillmore Auditorium\n\nOct 2 – Chicago, IL @ The Riviera Theatre\n\nOct 3 – Minneapolis, MN @ Palace Theatre\n\nOct 4 – Omaha, NE @ FILL\n\nOct 6 – Salt Lake City, UT @ The Complex\n\nOct 7 – Garden City, ID @ Revolution Concert House\n\nOct 9 – Oakland, CA @ Fox Theater\n\nOct 10 – Los Angeles, CA @ Hollywood Palladium\n\nOct 11 – Del Mar, CA @ The Sound\n\nOct 12 – Las Vegas, NV @ FILL\n\nOct 14 – Denver, CO @ The Fillmore\n\nOct 16 – Des Moines, IA @ Val Air Ballroom\n\nOct 17 – St. Louis, MO @ The Pageant\n\nOct 18 – Memphis, TN @ Satellite Music Hall\n\nOct 20 – Cleveland, OH @ The Agora\n\nOct 21 – Greensboro, NC @ Piedmont Hall\n\nOct 22 – Atlanta, GA @ The Eastern",
+      "tags": "Interview Interviews Alcest black metal blackgaze Cradle of Filth France French black metal Neige Nuclear Blast Records shoegaze",
+      "category": "Прогрессив",
+      "published": "2026-10-19T13:30:31+00:00",
+      "id": "557548bcc6d908937482a68d6d215a11aa2fd0f2",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Six things you need to know about Green Lung",
+      "link": "https://www.loudersound.com/bands-artists/six-things-you-need-to-know-about-green-lung",
+      "rss_body": "For a band still yet to hit their 10-year mark,\n\nGreen Lung\n\nhave reached heights most of their peers can only dream of. Since forming in 2017 after a “seven-pint deep” conversation in London boozer The Black Heart, and more recently headlining the 3,000-plus capacity Roundhouse at this year’s Desertfest, their anthemic blend of doomy, witchy heavy metal inspired by British folklore, history and mythology has captivated the metal masses.\n\nWith each of their albums based on a season, their fourth,\n\nNecropolitan,\n\nrepresents winter, taking its title from the seven garden cemeteries of Victorian London, from Highgate to Tower Hamlets. We sat down with guitarist Scott Black and vocalist Tom Templar to find out more.\n\nRural beginnings set them on their path\n\n.\n\nGrowing up in Dorset (Scott) and rural Norfolk (Tom), the pair’s upbringings informed what the band would become.\n\n“I was always a kid who had a lot of obsessions – like bugs and mushrooms and anything weird,” says Templar, who writes Green Lung’s lyrics. “Folklore and mythology were an early obsession of mine. I think it’s because it made the landscape around me have that sense of enchantment.”\n\n“I didn’t grow up in a musical household,” says Black, who writes the music. “Nu metal was big then, and I asked my nan to buy me a\n\nMachine Head\n\nrecord, and she accidentally bought me\n\nDeep Purple\n\n’s Machine Head – which was very fortuitous for Green Lung.”\n\nTemplar is a storyteller at heart\n\n.\n\nAs a child, Templar was always writing stories and making his own music magazines with fictional bands. He now works in book publishing, and Green Lung’s new album\n\nNecropolitan\n\ncame from a novel he started as a 21-year-old.\n\n“It was an occult mystery [about London]. But it turns out if you’re 21 years old, and you’ve never been to London, you can’t really write that. But the fun thing is I can now play around with things I’ve written before, and rework them into a Green Lung song.”\n\nBooks by other writers also proved inspirational. On\n\nNecropolitan,\n\nthe song\n\nOzymandias\n\nrefers to the poem of the same name by British Romantic poet Percy Bysshe Shelley. “That poem really fit the theme of the album,” Templar says. “It’s this meditation on how quickly empires fall and the triumph of nature.”\n\nThey want to bring back the art of writing classics\n\n.\n\nGreen Lung aim to write anthems – songs that will be remembered, that audiences can sing along with.\n\n“Iconic songs like\n\nBreaking The Law, Run To The Hills\n\n,” Templar says. “We’re both obsessed with classic songwriting. I feel that honed songcraft is missing from mainstream metal at the moment.”\n\n“I call it ‘propulsive songwriting’,” Black says. “We take the core and musicality of early proto-metal – like\n\nUriah Heep\n\n,\n\nRainbow\n\n, Deep Purple, Sabbath – where it was very freeform and experimental, since those guys were inventing it from the ground up, and work on the songcraft.”\n\nFor them, heavy metal is spiritual.\n\nMany of Green Lung’s lyrics explore spirituality and the occult, but they aren’t practitioners of any particular faith.\n\nTemplar: “I was very religious as a kid. But when I was about twelve I renounced Christianity and replaced it with music. I feel like in the last sixty years or so people have flocked to live music as a replacement for a church. There’s so much about heavy metal as a subculture that has similarities to religion: the devotion, the ceremonial gigs, how you dress in a way that identifies you.”\n\n“If you look at the function [organised religion] fulfils,” Scott adds, “like community, identity, that fortification of the self, those are things that metal can be a surrogate for.”\n\nThey don’t mind being mocked.\n\nWhen Green Lung played Bloodstock festival in 2024, Templar saw a sign that poked fun at the band’s lyrics.\n\n“It was like: ‘Abandoned Green Lung song titles’,” he says, “with tracks like ‘\n\nBog Body\n\n’, just a comedy list. The fact they could parody us shows that Green Lung actually means something.”\n\nTheir new album symbolises the band’s ethos.\n\nGreen Lung named\n\nNecropolitan\n\nafter seven grand Victorian cemeteries because they represent the power of nature – a subject close to their hearts.\n\n“Each Green Lung album is really about nature and humankind,” Templar says. “These [cemeteries] were monuments for people and are now totally overgrown. There’s this idea that humans are special and will always dominate. Green Lung interrogates that.”\n\nNecropolitan is out now via Nuclear Blast. Green Lung tour Europe in December. For dates and tickets, check the\n\nGreen Lung website\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-19T13:05:00+00:00",
+      "id": "fd69b0ebe2bd4ff9c14b98c65d99254962b24c38",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Toto and Todd Rundgren Announce 2027 Tour",
+      "link": "https://ultimateclassicrock.com/toto-todd-rundgren-tour-dates-2027/",
+      "rss_body": "\"It's going to be a great time for everyone,\" Steve Lukather says.",
+      "tags": "Concerts News Todd Rundgren Toto UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-19T13:02:27+00:00",
+      "id": "ee3b84bfd3eef5f76308920078c0664142e5c849",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Bon Jovi announce London Hyde Park show for 2027 alongside more stadium shows",
+      "link": "https://www.loudersound.com/bands-artists/live-performances/its-a-full-circle-moment-bon-jovi-announce-huge-london-hyde-park-show-for-2027-as-first-bst-headliner",
+      "rss_body": "Bon Jovi\n\nhave been confirmed as the first headliners for next year's British Summer Time festival, which will take place across multiple weekends in Hyde Park, London across summer 2027.\n\nHeadlining Hyde Park on Thursday June 24, the announcement marks what will be Bon Jovi's fourth time at Hyde Park, having previously played there in 2000, 2003, 2011 and 2013, the last of which was also a British Summer Time headline show and the first edition of the BST event.\n\n“We have a storied history with performing at Hyde Park on previous tours and it’s a full circle moment to be returning to BST Hyde Park, 14 years after headlining the very first festival,” says Jon Bon Jovi of returning to London. “The Forever Tour has been an incredible celebration of the music and the fans who have been with us all these years. There’s nothing quite like the energy of a UK crowd, and the joy and excitement we shared with our fans this summer was something truly special. To bring that energy back to Hyde Park means a lot to us. We’re grateful for every one of you and can’t wait to make more memories together.”\n\n\"Bon Jovi helped launch BST Hyde Park in 2013, and it’s a pleasure to welcome them back,\" adds CEO of AEG Presents UK and European Festivals, Jim King. \"They are one of the defining rock bands of their generation, with an extraordinary catalogue of hits and a live show that remains as powerful and compelling as ever. They continue to connect with audiences around the world, making this rare return to Hyde Park a genuinely special occasion.”\n\nTickets for Bon Jovi's BST day will go on sale from the\n\nofficial BST website\n\non Monday October 19 at 1pm BST (Amex pre-sale), Wednesday October 21 at 10am BST (artist pre-sale), Thursday October 22 at 10am BST (AEG pre-sale) and Friday October 23 at 10am BST (general sale).\n\nBon Jovi have also announced new stadium shows for dates in Australia, the US and Canada in 2027. See the full list of dates below.\n\nBon Jovi's latest studio album,\n\nForever\n\n, was released in 2024.\n\nBon Jovi tour dates 2027\n\nMar 4 Melbourne, Australia Marvel Stadium\n\nMar 11 Sydney Olympic Park, Australia Accor Stadium\n\nJun 24 London, UK BST Hyde Park\n\nJul 15 East Rutherford, NJ MetLife Stadium\n\nJul 21 Chicago, IL Soldier Field Stadium\n\nJul 28 Foxborough, MA Gillette Stadium\n\nAug 4 Toronto, ON Canada Rogers Stadium",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-19T11:00:00+00:00",
+      "id": "1480bb2857af89648d345cb5e45bd1bddc312080",
+      "retry_after": 0
     }
   ]
 }
