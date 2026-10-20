@@ -838,49 +838,17 @@
     "2fe1f171969a38b11c3d27f41b4baf156ce2c69b",
     "459148324fb405e1b4b522a6daf6783be9ae6cd4",
     "bab6c11dec07453034f7126483b4fa8ba98699f8",
-    "5bee63ca48e2797fb57b362be9a8b2a3f9de74e1"
+    "5bee63ca48e2797fb57b362be9a8b2a3f9de74e1",
+    "cb56e6dbf6c28c6ad898bae082db4e3ce246e8fd",
+    "93741e7ebd9796a3c20138dc048c5164fc29182b",
+    "4a6beb52d46d1dc1d15444cf15797a8fc44796f2",
+    "2e158d70e7eda3a75f6280220b521a3639a6fec4",
+    "8f87a50a5b809b806b0b49cc4373c26e50fe9e0f",
+    "bfd627828e3d497656a641c854c742db4454453a",
+    "cba9d3bb4d8930dc53496cd35d9d37082ef6fd5f",
+    "6862ebd80a13d02202789728968ebc103482e402"
   ],
   "recent_titles": [
-    {
-      "title": "SEEN AND HEARD: EXTOL, AETHERIAN, ARONIOUS, NIDARE",
-      "source": "No Clean Singing",
-      "ts": 1792258337
-    },
-    {
-      "title": "Anthrax’s Scott Ian remembers chaotic Pantera tour: “I threw up, and Darrell’s there with a shot”",
-      "source": "Louder",
-      "ts": 1792258340
-    },
-    {
-      "title": "Marilyn Manson Launched His “Antichrist Superstar” 30th Anniversary Tour Last Night With Mid-90s Nostalgia",
-      "source": "ThePRP",
-      "ts": 1792258357
-    },
-    {
-      "title": "“I’m slightly afraid of him”: Gary Kemp’s respect and fear for Robert Fripp",
-      "source": "Louder",
-      "ts": 1792258381
-    },
-    {
-      "title": "SAVE US Encounter Visa Issues Ahead Of Their Tour With Saosin, Silent Planet & Like Moths To Flames",
-      "source": "ThePRP",
-      "ts": 1792266121
-    },
-    {
-      "title": "My Chemical Romance Drop Official Live Performance Video For Their Rare Track “Someone Out There Loves You”",
-      "source": "ThePRP",
-      "ts": 1792266126
-    },
-    {
-      "title": "Amerakin Overdose Pen New Track “Parasite” In Response To Being Stiffed By A Promoter",
-      "source": "ThePRP",
-      "ts": 1792266132
-    },
-    {
-      "title": "SEEN AND HEARD ON A SATURDAY: IRREVERSIBLE MECHANISM, DÄMMERUNG, KORPSESOTURI, SONIC MOON, HVRT, FAKE DUST",
-      "source": "No Clean Singing",
-      "ts": 1792266202
-    },
     {
       "title": "Hear Eminem Guest On Kid Rock’s New Christian Track “Heal My Faith”",
       "source": "ThePRP",
@@ -1640,6 +1608,46 @@
       "title": "Machine Head Surprise Release New Single “Sutures”",
       "source": "ThePRP",
       "ts": 1792524188
+    },
+    {
+      "title": "PeelingFlesh’s New Single “Crackology” Lands Online",
+      "source": "ThePRP",
+      "ts": 1792535373
+    },
+    {
+      "title": "Fervence’s “Oculum” Music Video Debuts",
+      "source": "ThePRP",
+      "ts": 1792535377
+    },
+    {
+      "title": "Big Ass Truck I.E. Premiere “BIG ASS GUN” Music Video",
+      "source": "ThePRP",
+      "ts": 1792535382
+    },
+    {
+      "title": "Napalm Death Announce 2027 European/UK Tour With Misery Index, Author & Punisher, Habak & Piece",
+      "source": "ThePRP",
+      "ts": 1792535409
+    },
+    {
+      "title": "Enslaved’s Ivar Bjørnson turned down a tour with Type O Negative’s Peter Steele because he had to go to school",
+      "source": "Louder",
+      "ts": 1792535450
+    },
+    {
+      "title": "Thrown, Guilt Trip & Fromjoy Reveal Spring 2027 North American Tour",
+      "source": "ThePRP",
+      "ts": 1792535459
+    },
+    {
+      "title": "Queens Of The Stone Age Set For ‘The Tonight Show Starring Jimmy Fallon’ This Week",
+      "source": "ThePRP",
+      "ts": 1792535463
+    },
+    {
+      "title": "Korn, Iron Maiden, Bad Omens, Alice In Chains, Etc. Booked For 2027 ‘Boardwalk Rock’ Festival",
+      "source": "ThePRP",
+      "ts": 1792535469
     }
   ],
   "initialized_sources": [
@@ -3836,7 +3844,10 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T18:33:13+00:00",
       "id": "33e13b0eec3f3dd9fcb9c8e28ab5a68a01b90f85",
-      "retry_after": 1792524408
+      "duplicate_ids": [
+        "736f8f2b43c810dcf967be3d9738961ab800ccf0"
+      ],
+      "retry_after": 1792535751
     },
     {
       "source": "ThePRP",
@@ -3848,7 +3859,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T18:13:02+00:00",
       "id": "6a9172fc4bab7ca5aeb402cf428750c24298e880",
-      "retry_after": 1792524432
+      "retry_after": 1792535757
     },
     {
       "source": "Metal Injection",
@@ -3856,11 +3867,11 @@
       "title": "Listen: Disfear, Featuring At the Gates’ Tomas Lindberg, Releases New Track “Shackled to Our Vice”",
       "link": "https://metalinjection.net/new-music/listen-disfear-featuring-at-the-gates-tomas-lindberg-releases-new-track-shackled-to-our-vice",
       "rss_body": "Coming off 'The Last Nail,' out November 20 on Relapse Records.",
-      "tags": "New Music disfear",
+      "tags": "New Music disfear featured",
       "category": "Хэви-метал",
       "published": "2026-10-20T17:22:26+00:00",
       "id": "70ea150b32b0a3584cd536c87e4e78ff4ed3f8b0",
-      "retry_after": 1792524444
+      "retry_after": 1792535757
     },
     {
       "source": "Metal Injection",
@@ -3872,31 +3883,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T16:44:25+00:00",
       "id": "3dbbede0b0cfb9e887f50da6aa77691e5f1085cb",
-      "retry_after": 1792524485
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Thrown, Guilt Trip & Fromjoy Reveal Spring 2027 North American Tour",
-      "link": "https://www.theprp.com/2026/10/20/news/thrown-guilt-trip-fromjoy-reveal-spring-2027-north-american-tour/",
-      "rss_body": "Launching in mid-March.",
-      "tags": "News fromjoy Guilt Trip Thrown",
-      "category": "Хэви-метал",
-      "published": "2026-10-20T16:28:26+00:00",
-      "id": "bfd627828e3d497656a641c854c742db4454453a",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Queens Of The Stone Age Set For ‘The Tonight Show Starring Jimmy Fallon’ This Week",
-      "link": "https://www.theprp.com/2026/10/20/news/queens-of-the-stone-age-set-for-the-tonight-show-starring-jimmy-fallon-this-week/",
-      "rss_body": "A Perfecth appearance.",
-      "tags": "News Queens Of The Stone Age The Tonight Show Starring Jimmy Fallon",
-      "category": "Хэви-метал",
-      "published": "2026-10-20T16:18:07+00:00",
-      "id": "cba9d3bb4d8930dc53496cd35d9d37082ef6fd5f",
-      "retry_after": 0
+      "retry_after": 1792535757
     },
     {
       "source": "Metal Injection",
@@ -3908,19 +3895,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T16:09:18+00:00",
       "id": "448e220074bf5c6ec63d71c9def7319becfa0c36",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Korn, Iron Maiden, Bad Omens, Alice In Chains, Etc. Booked For 2027 ‘Boardwalk Rock’ Festival",
-      "link": "https://www.theprp.com/2026/10/20/news/korn-iron-maiden-bad-omens-alice-in-chains-etc-booked-for-2027-boardwalk-rock-festival/",
-      "rss_body": "Plus Judas Priest, Breaking Benjamin, Good Charlotte, Marilyn Manson and many more.",
-      "tags": "News Alice In Chains Bad Omens Boardwalk Rock Iron Maiden Korn",
-      "category": "Хэви-метал",
-      "published": "2026-10-20T16:07:11+00:00",
-      "id": "6862ebd80a13d02202789728968ebc103482e402",
-      "retry_after": 0
+      "retry_after": 1792535764
     },
     {
       "source": "No Clean Singing",
@@ -3993,6 +3968,54 @@
       "published": "2026-10-16T14:42:15+00:00",
       "id": "73ecf77997afc50510be4de8d18c56581c68c2f2",
       "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Metal Allegiance Tap Mastodon, Opeth, Etc. Members For Their Annual Californian Show",
+      "link": "https://www.theprp.com/2026/10/20/news/metal-allegiance-tap-mastodon-opeth-etc-members-for-their-annual-californian-show/",
+      "rss_body": "Just in time for NAMM.",
+      "tags": "News Angel Vivaldi Bobby Blitz Mastodon Metal Allegiance Opeth Overkill Troy Sanders",
+      "category": "Прогрессив",
+      "published": "2026-10-20T20:36:58+00:00",
+      "id": "d76234609543d2b10627a8d5294661c541af3926",
+      "retry_after": 1792535706
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Hellripper Stream Their Cover Of Arctic Monkeys’ B-Side “If You Found This It’s Probably Too Late”",
+      "link": "https://www.theprp.com/2026/10/20/news/hellripper-stream-their-cover-of-arctic-monkeys-b-side-if-you-found-this-its-probably-too-late/",
+      "rss_body": "Should you prefer your indie rock blackened.",
+      "tags": "News Arctic Monkeys Hellripper",
+      "category": "Экстремальный метал",
+      "published": "2026-10-20T20:22:01+00:00",
+      "id": "5f4aef02aba41525f00be9728bc1e635bb9cd6d6",
+      "retry_after": 1792535714
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: PeelingFlesh Drop “Crackology” Off Upcoming Self-Titled LP",
+      "link": "https://metalinjection.net/new-music/listen-peelingflesh-drop-crackology-off-upcoming-self-titled-lp",
+      "rss_body": "Their self-titled sophomore album comes out November 27 via Unique Leader Records.",
+      "tags": "New Music peelingflesh",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T20:14:35+00:00",
+      "id": "b38e69e533f7c2dcc065219ae8b13ef3884c719a",
+      "retry_after": 1792535714
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Little Feat Adds More Farewell Tour Dates for 2027",
+      "link": "https://ultimateclassicrock.com/little-feat-farewell-tour-2027/",
+      "rss_body": "\"It's an emotional time for everyone,\" the band's Bill Payne says, regarding the outing.",
+      "tags": "Concerts News Little Feat UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-20T20:10:44+00:00",
+      "id": "2a43a85a58d77af7ac04c31d1d15d8fc835c46d8",
+      "retry_after": 1792535739
     }
   ]
 }
