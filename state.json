@@ -799,49 +799,17 @@
     "7d632d40eb24536f16661e7cdd8307811850bc22",
     "a5480d81358f6978f347f9cba6aa4f693e44b5d6",
     "e7bb2a2d438030c2f84d1e61ded56c584bd247e6",
-    "c9b4e7d8a77d0dd0806ecbdb7e882bc9d5b85fec"
+    "c9b4e7d8a77d0dd0806ecbdb7e882bc9d5b85fec",
+    "6d09ba10c99876889f03d2e538a0adb17a21a3f6",
+    "c62d2e0ec4ebc1fcc9bbf5b5bcb870646a6ccbf6",
+    "72c98e08d39d3d3aeea1761a6242a3c27f4e8309",
+    "a2ef6ea957becf44ea97f9ef7f8d7ce018f2f0b7",
+    "e14426a8c5dbd9e91c4eeac542e6b54db6ce7c81",
+    "e836fd59d796dcdd00d515d2782052c50ebdebd3",
+    "d3a3a5b910c05b0a6836f557ed8edcfc35ce83c0",
+    "3d852e9d6a4a084f13e355bd242108793cd0f917"
   ],
   "recent_titles": [
-    {
-      "title": "Insomnium Premiere “The Hour Grows Late” Video, Amorphis Members Guest",
-      "source": "ThePRP",
-      "ts": 1792194782
-    },
-    {
-      "title": "Басист OBITUARY: «Мы думаем о новой музыке, но... »",
-      "source": "Darkside",
-      "ts": 1792194784
-    },
-    {
-      "title": "Dave Mustaine Says A 2027 Megadeth, Anthrax & Kerry King Tour Is In The Works",
-      "source": "ThePRP",
-      "ts": 1792202700
-    },
-    {
-      "title": "Haywire Announce Bicoastal “I DON’T WANNA SAY GOODBYE” Record Release Shows",
-      "source": "ThePRP",
-      "ts": 1792202725
-    },
-    {
-      "title": "Korn Celebrate 30 Years Of “Life Is Peachy” With Merch Capsule, Custom Smoothie & Hot Sauce",
-      "source": "ThePRP",
-      "ts": 1792202728
-    },
-    {
-      "title": "A tribute to Ace Frehley, the teen wannabe who became a global superstar",
-      "source": "Louder",
-      "ts": 1792202763
-    },
-    {
-      "title": "Five For Friday: October 16, 2026",
-      "source": "Decibel",
-      "ts": 1792202809
-    },
-    {
-      "title": "Гитарист DEF LEPPARD об ИИ: «Я считаю, что нужно принимать и осваивать любые новые технологии»",
-      "source": "Darkside",
-      "ts": 1792202811
-    },
     {
       "title": "MANNVEIRA: “VESÖLD”",
       "source": "No Clean Singing",
@@ -1601,6 +1569,46 @@
       "title": "Fake Names (Bad Religion, Refused, Etc.) Premiere “Punk Ruins” Lyric Video",
       "source": "ThePRP",
       "ts": 1792445486
+    },
+    {
+      "title": "Andrew Watt Speaks On Unreleased Ozzy Osbourne Songs: “There Are Some Songs That We Made For A Specific Reason.”",
+      "source": "ThePRP",
+      "ts": 1792456616
+    },
+    {
+      "title": "Mark Hunter Reflects On Chimaira Playing Farmclub, Weighs In On The Possibility Of New Music And Lengthier Touring",
+      "source": "ThePRP",
+      "ts": 1792456652
+    },
+    {
+      "title": "The Pretty Reckless release video for About You with Foo Fighters' Dave Grohl and Pat Smear",
+      "source": "Louder",
+      "ts": 1792456664
+    },
+    {
+      "title": "Gradience Debut “Vermin” Music Video, Announce Their First-Ever UK Tour With Survivalist",
+      "source": "ThePRP",
+      "ts": 1792456673
+    },
+    {
+      "title": "Exist Immortal’s “Fall To Find” Music Video Debuts",
+      "source": "ThePRP",
+      "ts": 1792456676
+    },
+    {
+      "title": "First 10 Minutes Of ‘Neil Peart: No One’s Disciple’ Documentary Released On YouTube, Tool, Red Hot Chili Peppers, Etc. Members Featured",
+      "source": "ThePRP",
+      "ts": 1792456686
+    },
+    {
+      "title": "Track Premiere: Electric Valley – “Gata”",
+      "source": "Decibel",
+      "ts": 1792456697
+    },
+    {
+      "title": "Sleep Token Distance Themselves From New Mystery Band Arcus",
+      "source": "ThePRP",
+      "ts": 1792456704
     }
   ],
   "initialized_sources": [
@@ -3718,7 +3726,7 @@
       "title": "BLACK MASK – VESTIGE OF MERCY",
       "link": "https://www.nocleansinging.com/2026/10/19/black-mask-vestige-of-mercy/",
       "rss_body": "(Andy Synn has a thoroughly nasty new recommendation to share with you all today) Music, for a lot of people anyway, can be an inspirational thing. The new Cursebinder (reviewed here), for example, seeks to inspire the listener to reflect on the disaffected nature of the metropolitan age, while the latest slab of Deathcore destruction from To\n\n[...]",
-      "tags": "RANDOM FUCKING MUSIC Andy Synn Black Mask",
+      "tags": "Album Reviews Andy Synn Black Mask",
       "category": "Экстремальный метал",
       "published": "2026-10-19T15:16:42+00:00",
       "id": "25a0800bf3728f989902d006a82f791c1352d057",
@@ -3787,9 +3795,9 @@
     {
       "source": "Louder",
       "priority": 84,
-      "title": "Six things you need to know about Green Lung",
+      "title": "Six things you need to know about rising UK doom metal heroes Green Lung",
       "link": "https://www.loudersound.com/bands-artists/six-things-you-need-to-know-about-green-lung",
-      "rss_body": "For a band still yet to hit their 10-year mark,\n\nGreen Lung\n\nhave reached heights most of their peers can only dream of. Since forming in 2017 after a “seven-pint deep” conversation in London boozer The Black Heart, and more recently headlining the 3,000-plus capacity Roundhouse at this year’s Desertfest, their anthemic blend of doomy, witchy heavy metal inspired by British folklore, history and mythology has captivated the metal masses.\n\nWith each of their albums based on a season, their fourth,\n\nNecropolitan,\n\nrepresents winter, taking its title from the seven garden cemeteries of Victorian London, from Highgate to Tower Hamlets. We sat down with guitarist Scott Black and vocalist Tom Templar to find out more.\n\nRural beginnings set them on their path\n\n.\n\nGrowing up in Dorset (Scott) and rural Norfolk (Tom), the pair’s upbringings informed what the band would become.\n\n“I was always a kid who had a lot of obsessions – like bugs and mushrooms and anything weird,” says Templar, who writes Green Lung’s lyrics. “Folklore and mythology were an early obsession of mine. I think it’s because it made the landscape around me have that sense of enchantment.”\n\n“I didn’t grow up in a musical household,” says Black, who writes the music. “Nu metal was big then, and I asked my nan to buy me a\n\nMachine Head\n\nrecord, and she accidentally bought me\n\nDeep Purple\n\n’s Machine Head – which was very fortuitous for Green Lung.”\n\nTemplar is a storyteller at heart\n\n.\n\nAs a child, Templar was always writing stories and making his own music magazines with fictional bands. He now works in book publishing, and Green Lung’s new album\n\nNecropolitan\n\ncame from a novel he started as a 21-year-old.\n\n“It was an occult mystery [about London]. But it turns out if you’re 21 years old, and you’ve never been to London, you can’t really write that. But the fun thing is I can now play around with things I’ve written before, and rework them into a Green Lung song.”\n\nBooks by other writers also proved inspirational. On\n\nNecropolitan,\n\nthe song\n\nOzymandias\n\nrefers to the poem of the same name by British Romantic poet Percy Bysshe Shelley. “That poem really fit the theme of the album,” Templar says. “It’s this meditation on how quickly empires fall and the triumph of nature.”\n\nThey want to bring back the art of writing classics\n\n.\n\nGreen Lung aim to write anthems – songs that will be remembered, that audiences can sing along with.\n\n“Iconic songs like\n\nBreaking The Law, Run To The Hills\n\n,” Templar says. “We’re both obsessed with classic songwriting. I feel that honed songcraft is missing from mainstream metal at the moment.”\n\n“I call it ‘propulsive songwriting’,” Black says. “We take the core and musicality of early proto-metal – like\n\nUriah Heep\n\n,\n\nRainbow\n\n, Deep Purple, Sabbath – where it was very freeform and experimental, since those guys were inventing it from the ground up, and work on the songcraft.”\n\nFor them, heavy metal is spiritual.\n\nMany of Green Lung’s lyrics explore spirituality and the occult, but they aren’t practitioners of any particular faith.\n\nTemplar: “I was very religious as a kid. But when I was about twelve I renounced Christianity and replaced it with music. I feel like in the last sixty years or so people have flocked to live music as a replacement for a church. There’s so much about heavy metal as a subculture that has similarities to religion: the devotion, the ceremonial gigs, how you dress in a way that identifies you.”\n\n“If you look at the function [organised religion] fulfils,” Scott adds, “like community, identity, that fortification of the self, those are things that metal can be a surrogate for.”\n\nThey don’t mind being mocked.\n\nWhen Green Lung played Bloodstock festival in 2024, Templar saw a sign that poked fun at the band’s lyrics.\n\n“It was like: ‘Abandoned Green Lung song titles’,” he says, “with tracks like ‘\n\nBog Body\n\n’, just a comedy list. The fact they could parody us shows that Green Lung actually means something.”\n\nTheir new album symbolises the band’s ethos.\n\nGreen Lung named\n\nNecropolitan\n\nafter seven grand Victorian cemeteries because they represent the power of nature – a subject close to their hearts.\n\n“Each Green Lung album is really about nature and humankind,” Templar says. “These [cemeteries] were monuments for people and are now totally overgrown. There’s this idea that humans are special and will always dominate. Green Lung interrogates that.”\n\nNecropolitan is out now via Nuclear Blast. Green Lung tour Europe in December. For dates and tickets, check the\n\nGreen Lung website\n\n.",
+      "rss_body": "For a band still yet to hit their 10-year mark,\n\nGreen Lung\n\nhave reached heights most of their peers can only dream of. Since forming in 2017 after a “seven-pint deep” conversation in London boozer The Black Heart, and more recently headlining the 3,000-plus capacity Roundhouse at this year’s Desertfest, their anthemic blend of doomy, witchy heavy metal inspired by British folklore, history and mythology has captivated the metal masses.\n\nWith each of their albums based on a season, their fourth,\n\nNecropolitan,\n\nrepresents winter, taking its title from the seven garden cemeteries of Victorian London, from Highgate to Tower Hamlets. We sat down with guitarist Scott Black and vocalist Tom Templar to find out more.\n\nRural beginnings set them on their path\n\nGrowing up in Dorset (Scott) and rural Norfolk (Tom), the pair’s upbringings informed what the band would become.\n\n“I was always a kid who had a lot of obsessions – like bugs and mushrooms and anything weird,” says Templar, who writes Green Lung’s lyrics. “Folklore and mythology were an early obsession of mine. I think it’s because it made the landscape around me have that sense of enchantment.”\n\n“I didn’t grow up in a musical household,” says Black, who writes the music. “Nu metal was big then, and I asked my nan to buy me a\n\nMachine Head\n\nrecord, and she accidentally bought me\n\nDeep Purple\n\n’s Machine Head – which was very fortuitous for Green Lung.”\n\nTemplar is a storyteller at heart\n\nAs a child, Templar was always writing stories and making his own music magazines with fictional bands. He now works in book publishing, and Green Lung’s new album\n\nNecropolitan\n\ncame from a novel he started as a 21-year-old.\n\n“It was an occult mystery [about London]. But it turns out if you’re 21 years old, and you’ve never been to London, you can’t really write that. But the fun thing is I can now play around with things I’ve written before, and rework them into a Green Lung song.”\n\nBooks by other writers also proved inspirational. On\n\nNecropolitan,\n\nthe song\n\nOzymandias\n\nrefers to the poem of the same name by British Romantic poet Percy Bysshe Shelley. “That poem really fit the theme of the album,” Templar says. “It’s this meditation on how quickly empires fall and the triumph of nature.”\n\nThey want to bring back the art of writing classics\n\nGreen Lung aim to write anthems – songs that will be remembered, that audiences can sing along with.\n\n“Iconic songs like\n\nBreaking The Law, Run To The Hills\n\n,” Templar says. “We’re both obsessed with classic songwriting. I feel that honed songcraft is missing from mainstream metal at the moment.”\n\n“I call it ‘propulsive songwriting’,” Black says. “We take the core and musicality of early proto-metal – like\n\nUriah Heep\n\n,\n\nRainbow\n\n, Deep Purple, Sabbath – where it was very freeform and experimental, since those guys were inventing it from the ground up, and work on the songcraft.”\n\nFor them, heavy metal is spiritual\n\nMany of Green Lung’s lyrics explore spirituality and the occult, but they aren’t practitioners of any particular faith.\n\nTemplar: “I was very religious as a kid. But when I was about twelve I renounced Christianity and replaced it with music. I feel like in the last sixty years or so people have flocked to live music as a replacement for a church. There’s so much about heavy metal as a subculture that has similarities to religion: the devotion, the ceremonial gigs, how you dress in a way that identifies you.”\n\n“If you look at the function [organised religion] fulfils,” Scott adds, “like community, identity, that fortification of the self, those are things that metal can be a surrogate for.”\n\nThey don’t mind being mocked\n\nWhen Green Lung played Bloodstock festival in 2024, Templar saw a sign that poked fun at the band’s lyrics.\n\n“It was like: ‘Abandoned Green Lung song titles’,” he says, “with tracks like ‘\n\nBog Body\n\n’, just a comedy list. The fact they could parody us shows that Green Lung actually means something.”\n\nTheir new album symbolises the band’s ethos\n\nGreen Lung named\n\nNecropolitan\n\nafter seven grand Victorian cemeteries because they represent the power of nature – a subject close to their hearts.\n\n“Each Green Lung album is really about nature and humankind,” Templar says. “These [cemeteries] were monuments for people and are now totally overgrown. There’s this idea that humans are special and will always dominate. Green Lung interrogates that.”\n\nNecropolitan is out now via Nuclear Blast. Green Lung tour Europe in December. For dates and tickets, check the\n\nGreen Lung website\n\n.",
       "tags": "Bands & Artists",
       "category": "Хард-рок",
       "published": "2026-10-19T13:05:00+00:00",
@@ -3826,11 +3834,11 @@
       "title": "Ozzy Osbourne Producer Andrew Watt Says Unreleased Songs Made “For a Specific Reason” Still Exist",
       "link": "https://metalinjection.net/news/ozzy-osbourne-producer-andrew-watt-says-unreleased-songs-made-for-a-specific-reason-still-exist",
       "rss_body": "\"They’re hard for me to listen to.\"",
-      "tags": "Latest News ozzy osbourne",
+      "tags": "Latest News Ozzy Osbourne featured2",
       "category": "Хэви-метал",
       "published": "2026-10-19T20:46:28+00:00",
       "id": "89599497293a46a23cf1bbd976b46cee48fb6f92",
-      "retry_after": 1792445737
+      "retry_after": 1792456987
     },
     {
       "source": "Metal Injection",
@@ -3842,31 +3850,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T20:15:49+00:00",
       "id": "4e7d490c705992631896877d4b6801c02d85dece",
-      "retry_after": 1792445737
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Track Premiere: Electric Valley – “Gata”",
-      "link": "https://www.decibelmagazine.com/2026/10/19/track-premiere-electric-valley-gata/",
-      "rss_body": "Spanish space rockers\n\nElectric Valley\n\nare exploring the cosmos once again with new track “Gata,” taken from the trio’s upcoming fourth full-length\n\nEcho\n\n. We’re offering up the six-minute video, “a new sci-fi story,”\n\ncreated and produced by the band with MindVideo IA. On this sonic slow-burner, the opening minutes are light, airy and psychedelic as a spaceship floats off into the galaxy, its astronauts unconscious in pods, unaware of their impending doom. When the their ship encounters an asteroid field and gets damaged, the music transitions into heavy fuzzed-out riffs and Electric Valley—\n\nMario García (guitar), Charlie Sánchez (drums), Miky Simón (bass/vocals—provide the crushing soundtrack to the hapless space travelers’ demise as they crash and burn.\n\nEcho\n\nwas recorded by Javier Ortiz at Studio Brazil, Madrid, Spain, except the title track which was recorded by Eric Medina at Abuso De Confianza Studio in Madrid. All songs were mixed by Charlie Sanchez, except “Echo” (by Eric Medina). Mastering was handled by Chris Goosman at Baseline Audio Labs, Ann Arbor, MI. It’s set for release on vinyl, CD and digitally via Small Stone Recordings on November 6. Place your preorder\n\nhere\n\n.\n\nBassist/vocalist Miky Simón offered this description of the band’s latest effort:\n\n“‘Gata’ narrates a space mission that ends in catastrophe. Two humans destined to spend eternity together see their destiny truncated in a space odyssey that breaks their ties and ends their mission in an unexpected and tragic way. A psychedelic beginning with kraut rock vibes and space rock atmospheres grows until it explodes with the perfect storm of heavy riffs to narrate a crushing ending.”",
-      "tags": "Exclusive Featured Track Premiere Videos Echo Electric Valley Gata Madrid psych rock Small Stone Records Space rock Spain stoner rock",
-      "category": "Прогрессив",
-      "published": "2026-10-19T19:00:27+00:00",
-      "id": "d3a3a5b910c05b0a6836f557ed8edcfc35ce83c0",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Sleep Token Distance Themselves From New Mystery Band Arcus",
-      "link": "https://www.theprp.com/2026/10/19/news/sleep-token-distance-themselves-from-new-mystery-band-arcus/",
-      "rss_body": "The latter band had been promoting themselves as being from the 'co-creator of Sleep Token.'",
-      "tags": "News Arcus Sleep Token",
-      "category": "Хэви-метал",
-      "published": "2026-10-19T18:50:47+00:00",
-      "id": "3d852e9d6a4a084f13e355bd242108793cd0f917",
-      "retry_after": 0
+      "retry_after": 1792456987
     },
     {
       "source": "ThePRP",
@@ -3910,7 +3894,7 @@
       "title": "Sleep Token Issue Rare Statement After New Band Promoted as From Their “Co-Creator”",
       "link": "https://metalinjection.net/news/sleep-token-issue-rare-statement-after-new-band-promoted-as-from-their-co-creator",
       "rss_body": "\"What is ours is here, and here alone.\"",
-      "tags": "Latest News Sleep Token arcus",
+      "tags": "Latest News Sleep Token featured1 arcus",
       "category": "Хэви-метал",
       "published": "2026-10-19T16:43:30+00:00",
       "id": "215f3c05f1717ab4472d1bb78dd3e2e825dbfc54",
