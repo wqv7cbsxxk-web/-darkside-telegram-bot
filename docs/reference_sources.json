@@ -1345,7 +1345,7 @@
     "alice-in-chains": {
       "name": "Alice In Chains",
       "musicbrainz_url": "https://musicbrainz.org/artist/4bd95eea-b9f6-4d70-a36c-cfea77431553",
-      "reference_checked_at": "2026-10-04T02:35:53.356692+00:00",
+      "reference_checked_at": "2026-10-20T15:20:02.117269+00:00",
       "genres": "acoustic rock, alternative metal, alternative rock, doom metal, glam metal, grunge, hard rock, heavy metal, rock, sludge metal, stoner metal",
       "website": "https://aliceinchains.com/",
       "members": [
@@ -1896,7 +1896,7 @@
         },
         {
           "name": "Alice in Chains",
-          "date": "1995-11-07",
+          "date": "1995-10-31",
           "kind": "studio",
           "source_url": "https://musicbrainz.org/release-group/d2f5bcb9-a6e7-3d24-b2d6-95890b188c94"
         },
@@ -30424,8 +30424,8 @@
     "accept": "2026-10-20T05:29:49.141871+00:00",
     "aerosmith": "2026-10-20T10:22:30.576154+00:00",
     "alice-cooper": "2026-10-20T10:22:31.828001+00:00",
-    "alice-in-chains": "2026-10-04T02:35:53.356847+00:00",
-    "anthrax": "2026-10-04T02:35:54.644629+00:00",
+    "alice-in-chains": "2026-10-20T15:20:02.117498+00:00",
+    "anthrax": "2026-10-20T15:20:03.346397+00:00",
     "arch-enemy": "2026-10-04T06:24:02.395598+00:00",
     "at-the-gates": "2026-10-04T06:24:06.237858+00:00",
     "ayreon": "2026-10-04T12:36:43.655909+00:00",
