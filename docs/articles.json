@@ -1363,7 +1363,8 @@
         "live"
       ],
       "media_checked_at": 1792429609,
-      "translation_last_attempt": 1792473648
+      "translation_last_attempt": 1792473648,
+      "translation_pending": true
     },
     {
       "id": "9b120e5ade2fc4103d8d378bfc038a32658d84a3",
@@ -3021,8 +3022,7 @@
       "original_title": "Metallica Just Brought “Harvester Of Sorrow” To Their The Sphere Residency With Goosed Up Visuals",
       "topics": [],
       "media_checked_at": 1792352708,
-      "translation_last_attempt": 1792456571,
-      "translation_pending": true
+      "translation_last_attempt": 1792491306
     },
     {
       "id": "4d649d10c4adbbccf836580b67c25c87cc347394",
@@ -6570,8 +6570,18 @@
         },
         {
           "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/SXsiewuBrdSnu8TenKfFK.jpg",
+          "caption": "Bobbie Dazzle and Thijs van Leer"
+        },
+        {
+          "type": "image",
           "url": "https://cdn.mos.cms.futurecdn.net/75ZXZF5dANnJhReumqk5ei.jpg",
           "caption": "Gary Kemp performs in Milan in 2024; and Robert Fripp  performs in London in 2023"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/XGMurt6TztGydxYLebhefP.jpg",
+          "caption": "Getdown Services posing topless, with one of them pointing a rifle at the head of a giant plushie penguin"
         },
         {
           "type": "image",
@@ -6590,23 +6600,13 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/CykFPrG35eudwXAyvMbeLS.jpg",
-          "caption": "Genesis singer Peter Gabriel is suspended in midair during a concert in New York City, 6 May 1974. Guitarist-bassist Mike Rutherford is seated at left, drummer Phil Collins is behind the kit at right."
+          "url": "https://cdn.mos.cms.futurecdn.net/6hy5koXcbiXmAsSYFdDQTP.jpg",
+          "caption": "Geoff Tate of Queensryche performs onstage at the Gibson Amphitheatre on September 27, 2009 in Universal City, California.  (Photo by David Livingston/Getty Images)"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/oQHw476MM4T8b3ouiFUyHJ.jpg",
-          "caption": "Yes lead singer Jon Davison performs during at Budweiser Stage, on August 25, 2024 in Toronto, Ontario, Canada. (Photo by Julian Avram/Icon Sportswire via Getty Images)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/UvkHHfSxEXULnZXY34Nrbk.jpg",
-          "caption": "Ace Frehley studio portrait"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/MMBMBsbcjpomeKyb9i5nMR.jpg",
-          "caption": "Roger Waters, Dave Gilmour, Nick Mason, Rick Wright walking off stage at The Wall Concert"
+          "url": "https://cdn.mos.cms.futurecdn.net/jyZUucZuxXh2mU4pnJzyYP.jpg",
+          "caption": "David Bowie during David Bowie in Concert - October 14, 2007 at Capital Theater in Port Chester, New York, United States. (Photo by Ke.Mazur/WireImage)"
         }
       ],
       "original_paragraphs": [
@@ -6659,7 +6659,7 @@
       ],
       "original_title": "How Genesis ex Anthony Phillips helped build the band, lost his mojo and started to rebuild himself",
       "topics": [],
-      "media_checked_at": 1792186044
+      "media_checked_at": 1792491735
     },
     {
       "id": "764ee34da80c1c19d9f651521e329f872c64d960",
@@ -6690,7 +6690,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792174635
+      "media_checked_at": 1792491731
     },
     {
       "id": "c1c643da947b9189db17e3d8bf65b8054e4963fc",
@@ -6721,7 +6721,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792174637
+      "media_checked_at": 1792491732
     },
     {
       "id": "0e7b6ac0d4efd32b01a05f9036b67c99208735ce",
@@ -6973,7 +6973,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792174638
+      "media_checked_at": 1792491733
     },
     {
       "id": "97a6034532e807eb934a02d03c2d416062c47901",
@@ -7097,7 +7097,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792174639
+      "media_checked_at": 1792491735
     },
     {
       "id": "2fcbcc5bf5c730984013a417f55a0cb3bdac0489",
@@ -7133,7 +7133,7 @@
       "artists": [],
       "original_title": "Fan-Filmed Footage Of Marilyn Manson’s Entire First “Antichrist Superstar” 30th Anniversary Show Available",
       "topics": [],
-      "media_checked_at": 1792174639
+      "media_checked_at": 1792491735
     },
     {
       "id": "db384f4294c8f6a5e7d957e6904d49f6ff5dee62",
@@ -7163,7 +7163,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792174640
+      "media_checked_at": 1792491735
     },
     {
       "id": "30ff3aa60223a2440894c56560695ae9a01e0368",
@@ -7195,7 +7195,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792174640
+      "media_checked_at": 1792491735
     },
     {
       "id": "8e2c31365518725f795fbfadb1d415f32fd5f40f",
@@ -9245,7 +9245,8 @@
         "releases"
       ],
       "media_checked_at": 1792405450,
-      "translation_last_attempt": 1792473648
+      "translation_last_attempt": 1792473648,
+      "translation_pending": true
     },
     {
       "id": "7f93b387dec8817cc0a3a9d07f21b5392240b6be",
@@ -11126,8 +11127,7 @@
         "live"
       ],
       "media_checked_at": 1792360854,
-      "translation_last_attempt": 1792456570,
-      "translation_pending": true
+      "translation_last_attempt": 1792491306
     },
     {
       "id": "084a03eebc53b8721ab9596d80e6deeda5f3bab4",
