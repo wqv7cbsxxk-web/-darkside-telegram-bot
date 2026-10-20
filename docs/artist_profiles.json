@@ -1202,10 +1202,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ghost-official.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29",
-      "reference_checked_at": "2026-10-13T17:13:04.931442+00:00",
+      "reference_checked_at": "2026-10-20T19:23:14.524298+00:00",
       "tour_attempted_at": "2026-10-18T01:33:20.327436+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T17:13:04.931656+00:00"
+      "reference_attempted_at": "2026-10-20T19:23:14.524351+00:00"
     },
     "gorgoroth": {
       "origin": "Hyllestad , Sognefjord , Norway",
@@ -1228,10 +1228,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://gorgoroth.info",
       "reference_url": "https://en.wikipedia.org/wiki/Gorgoroth",
-      "reference_checked_at": "2026-10-13T17:13:05.078101+00:00",
+      "reference_checked_at": "2026-10-20T19:23:14.818062+00:00",
       "tour_attempted_at": "2026-10-18T06:40:00.364205+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T17:13:05.078124+00:00"
+      "reference_attempted_at": "2026-10-20T19:23:14.818102+00:00"
     },
     "great-white": {
       "origin": "Los Angeles, California, U.S.",
@@ -1246,10 +1246,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://officialgreatwhite.com",
       "reference_url": "https://en.wikipedia.org/wiki/Great_White",
-      "reference_checked_at": "2026-10-13T17:13:05.223366+00:00",
+      "reference_checked_at": "2026-10-20T19:23:14.948182+00:00",
       "tour_attempted_at": "2026-10-18T06:40:01.011756+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T17:13:05.223389+00:00"
+      "reference_attempted_at": "2026-10-20T19:23:14.948199+00:00"
     },
     "guns-n-roses": {
       "origin": "Los Angeles , California, U.S.",
@@ -1288,10 +1288,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://gunsnroses.com",
       "reference_url": "https://en.wikipedia.org/wiki/Guns_N%E2%80%99_Roses",
-      "reference_checked_at": "2026-10-13T17:13:06.445741+00:00",
+      "reference_checked_at": "2026-10-20T19:23:16.336065+00:00",
       "tour_attempted_at": "2026-10-18T06:40:01.466973+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T17:13:06.445898+00:00"
+      "reference_attempted_at": "2026-10-20T19:23:16.336380+00:00"
     },
     "halestorm": {
       "origin": "Red Lion, Pennsylvania , U.S.",
@@ -1318,10 +1318,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.halestormrocks.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Halestorm",
-      "reference_checked_at": "2026-10-13T17:13:06.777824+00:00",
+      "reference_checked_at": "2026-10-20T19:23:16.447835+00:00",
       "tour_attempted_at": "2026-10-18T06:40:01.934930+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T17:13:06.777847+00:00"
+      "reference_attempted_at": "2026-10-20T19:23:16.447858+00:00"
     },
     "i-am-morbid": {
       "origin": "",
@@ -1344,7 +1344,7 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/I_Am_Morbid",
-      "reference_checked_at": "2026-10-13T17:13:06.819524+00:00",
+      "reference_checked_at": "2026-10-20T19:23:16.490474+00:00",
       "reviewed": {
         "members": [
           {
@@ -1384,7 +1384,7 @@
       "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
       "tour_source": "https://www.ticketone.it/eventseries/i-am-morbid-atheist-cancer-stellvris-4254596/",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T17:13:06.819546+00:00"
+      "reference_attempted_at": "2026-10-20T19:23:16.490493+00:00"
     },
     "immortal": {
       "origin": "Bergen , Norway",
@@ -3759,7 +3759,7 @@
       "website": "http://gojira-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gojira_%28band%29",
       "reference_checked_at": "2026-10-15T15:21:32.895395+00:00",
-      "tour_attempted_at": "2026-10-16T09:50:33.946807+00:00",
+      "tour_attempted_at": "2026-10-20T19:23:17.609209+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T15:21:32.895696+00:00"
     },
@@ -3793,7 +3793,7 @@
       "website": "http://exodusattack.com",
       "reference_url": "https://en.wikipedia.org/wiki/Exodus_%28American_band%29",
       "reference_checked_at": "2026-10-15T15:21:33.317415+00:00",
-      "tour_attempted_at": "2026-10-16T09:50:34.353591+00:00",
+      "tour_attempted_at": "2026-10-20T19:23:18.105945+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T15:21:33.317436+00:00"
     },
@@ -3823,7 +3823,7 @@
       "website": "http://hakenmusic.com",
       "reference_url": "https://en.wikipedia.org/wiki/Haken_%28band%29",
       "reference_checked_at": "2026-10-15T19:18:30.387984+00:00",
-      "tour_attempted_at": "2026-10-16T09:50:34.526908+00:00",
+      "tour_attempted_at": "2026-10-20T19:23:18.258954+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T19:18:30.388057+00:00"
     },
@@ -3853,7 +3853,7 @@
       "website": "http://immolation.info",
       "reference_url": "https://en.wikipedia.org/wiki/Immolation_%28band%29",
       "reference_checked_at": "2026-10-15T19:18:30.462322+00:00",
-      "tour_attempted_at": "2026-10-16T09:50:35.527303+00:00",
+      "tour_attempted_at": "2026-10-20T19:23:18.664373+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T19:18:30.462341+00:00"
     },
