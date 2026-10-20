@@ -41,7 +41,7 @@
     "ac-dc": {
       "name": "AC/DC",
       "musicbrainz_url": "https://musicbrainz.org/artist/66c662b6-6e2f-4930-8610-912e24c63ed1",
-      "reference_checked_at": "2026-10-04T01:43:12.106742+00:00",
+      "reference_checked_at": "2026-10-20T05:29:47.838494+00:00",
       "genres": "blues rock, classic rock, hard rock, rock, rock and roll",
       "website": "https://www.acdc.com/",
       "members": [
@@ -30420,8 +30420,8 @@
     }
   },
   "checked": {
-    "ac-dc": "2026-10-04T01:43:12.106995+00:00",
-    "accept": "2026-10-04T01:43:13.460406+00:00",
+    "ac-dc": "2026-10-20T05:29:47.838820+00:00",
+    "accept": "2026-10-20T05:29:49.141871+00:00",
     "aerosmith": "2026-10-04T02:04:51.020073+00:00",
     "alice-cooper": "2026-10-04T02:04:52.281767+00:00",
     "alice-in-chains": "2026-10-04T02:35:53.356847+00:00",
