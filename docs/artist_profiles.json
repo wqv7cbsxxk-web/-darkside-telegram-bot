@@ -1003,10 +1003,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://entershikari.com",
       "reference_url": "https://en.wikipedia.org/wiki/Enter_Shikari",
-      "reference_checked_at": "2026-10-13T09:47:19.788051+00:00",
+      "reference_checked_at": "2026-10-20T10:22:18.660024+00:00",
       "tour_attempted_at": "2026-10-17T23:34:24.737843+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T09:47:19.788182+00:00"
+      "reference_attempted_at": "2026-10-20T10:22:18.660146+00:00"
     },
     "eminem": {
       "origin": "Detroit , Michigan, U.S.",
@@ -1016,10 +1016,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://eminem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Eminem",
-      "reference_checked_at": "2026-10-13T09:47:20.552221+00:00",
+      "reference_checked_at": "2026-10-20T10:22:19.388648+00:00",
       "tour_attempted_at": "2026-10-17T23:34:25.557939+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T09:47:20.552552+00:00"
+      "reference_attempted_at": "2026-10-20T10:22:19.388823+00:00"
     },
     "fates-warning": {
       "origin": "Hartford, Connecticut , U.S.",
@@ -1046,10 +1046,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.fateswarning.com",
       "reference_url": "https://en.wikipedia.org/wiki/Fates_Warning",
-      "reference_checked_at": "2026-10-13T09:47:20.690910+00:00",
+      "reference_checked_at": "2026-10-20T10:22:19.507548+00:00",
       "tour_attempted_at": "2026-10-17T23:34:26.907427+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T09:47:20.690933+00:00"
+      "reference_attempted_at": "2026-10-20T10:22:19.507568+00:00"
     },
     "foo-fighters": {
       "origin": "Seattle , Washington , U.S.",
@@ -1084,10 +1084,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://foofighters.com",
       "reference_url": "https://en.wikipedia.org/wiki/Foo_Fighters",
-      "reference_checked_at": "2026-10-13T09:47:21.082149+00:00",
+      "reference_checked_at": "2026-10-20T10:22:19.799147+00:00",
       "tour_attempted_at": "2026-10-18T01:33:18.900707+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T09:47:21.082171+00:00"
+      "reference_attempted_at": "2026-10-20T10:22:19.799170+00:00"
     },
     "gentle-giant": {
       "origin": "Portsmouth , England",
@@ -1126,10 +1126,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://gentlegiantband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gentle_Giant",
-      "reference_checked_at": "2026-10-13T09:47:21.416205+00:00",
+      "reference_checked_at": "2026-10-20T10:22:20.009105+00:00",
       "tour_attempted_at": "2026-10-18T01:33:19.588986+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T09:47:21.416227+00:00"
+      "reference_attempted_at": "2026-10-20T10:22:20.009127+00:00"
     },
     "genesis": {
       "origin": "Godalming , Surrey , England",
@@ -1184,10 +1184,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://genesis-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Genesis_%28band%29",
-      "reference_checked_at": "2026-10-13T09:47:21.787683+00:00",
+      "reference_checked_at": "2026-10-20T10:22:20.363762+00:00",
       "tour_attempted_at": "2026-10-18T01:33:19.948945+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-13T09:47:21.787707+00:00"
+      "reference_attempted_at": "2026-10-20T10:22:20.363783+00:00"
     },
     "ghost": {
       "origin": "Linköping , Östergötland , Sweden",
@@ -3266,7 +3266,7 @@
       "website": "http://whitesnake.com",
       "reference_url": "https://en.wikipedia.org/wiki/Whitesnake",
       "reference_checked_at": "2026-10-15T05:50:07.839864+00:00",
-      "tour_attempted_at": "2026-10-16T00:42:41.834925+00:00",
+      "tour_attempted_at": "2026-10-20T10:22:21.247564+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T05:50:07.839955+00:00"
     },
@@ -3300,7 +3300,7 @@
       "website": "http://yesworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Yes_%28band%29",
       "reference_checked_at": "2026-10-15T05:50:08.035389+00:00",
-      "tour_attempted_at": "2026-10-16T00:42:42.731600+00:00",
+      "tour_attempted_at": "2026-10-20T10:22:22.214675+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T05:50:08.035411+00:00"
     },
@@ -3525,7 +3525,7 @@
       "website": "http://camelproductions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Camel_%28band%29",
       "reference_checked_at": "2026-10-15T10:24:59.944724+00:00",
-      "tour_attempted_at": "2026-10-16T00:42:42.999716+00:00",
+      "tour_attempted_at": "2026-10-20T10:22:22.520681+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T10:24:59.944736+00:00"
     },
@@ -3559,7 +3559,7 @@
       "website": "http://anthrax.com",
       "reference_url": "https://en.wikipedia.org/wiki/Anthrax_%28American_band%29",
       "reference_checked_at": "2026-10-15T10:25:00.218438+00:00",
-      "tour_attempted_at": "2026-10-16T00:42:43.351253+00:00",
+      "tour_attempted_at": "2026-10-20T10:22:23.008529+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T10:25:00.218553+00:00"
     },

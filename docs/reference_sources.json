@@ -688,7 +688,7 @@
     "aerosmith": {
       "name": "Aerosmith",
       "musicbrainz_url": "https://musicbrainz.org/artist/3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
-      "reference_checked_at": "2026-10-04T02:04:51.019835+00:00",
+      "reference_checked_at": "2026-10-20T10:22:30.575900+00:00",
       "genres": "aor, arena rock, blues rock, classic rock, glam metal, hard rock, rock, rock and roll",
       "website": "https://www.aerosmith.com/",
       "members": [
@@ -30422,8 +30422,8 @@
   "checked": {
     "ac-dc": "2026-10-20T05:29:47.838820+00:00",
     "accept": "2026-10-20T05:29:49.141871+00:00",
-    "aerosmith": "2026-10-04T02:04:51.020073+00:00",
-    "alice-cooper": "2026-10-04T02:04:52.281767+00:00",
+    "aerosmith": "2026-10-20T10:22:30.576154+00:00",
+    "alice-cooper": "2026-10-20T10:22:31.828001+00:00",
     "alice-in-chains": "2026-10-04T02:35:53.356847+00:00",
     "anthrax": "2026-10-04T02:35:54.644629+00:00",
     "arch-enemy": "2026-10-04T06:24:02.395598+00:00",
