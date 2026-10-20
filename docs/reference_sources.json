@@ -29606,6 +29606,817 @@
           "source_url": "https://musicbrainz.org/release-group/ffb9df63-715d-4f3f-a661-253cec845510"
         }
       ]
+    },
+    "wolves-in-the-throne-room": {
+      "name": "Wolves In The Throne Room",
+      "musicbrainz_url": "https://musicbrainz.org/artist/e9452446-7702-4853-96ce-5dfe6748d3fb",
+      "reference_checked_at": "2026-10-20T00:38:40.094590+00:00",
+      "genres": "atmospheric black metal, black metal",
+      "bandcamp_url": "https://wolvesinthethroneroomsl.bandcamp.com/",
+      "website": "http://www.wittr.com/",
+      "members": [
+        {
+          "name": "Aaron Weaver",
+          "role": "drums (drum set), guitar, keyboard, original, percussion",
+          "begin": "2002"
+        },
+        {
+          "name": "Nathan Weaver",
+          "role": "guitar family, lead vocals, original",
+          "begin": "2002"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/e9452446-7702-4853-96ce-5dfe6748d3fb",
+      "albums": [
+        {
+          "name": "Primordial Arcana",
+          "date": "2021-08-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0b576080-7ac7-48d8-b09a-db9d683c21dd"
+        },
+        {
+          "name": "BBC Session 2011 Anno Domini",
+          "date": "2013-10-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/12de04d4-f3b8-406a-b553-3124b3c4b0ee"
+        },
+        {
+          "name": "Born From the Serpent’s Eye",
+          "date": "2017-08-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1e807cf7-8e2c-43dd-92bf-bf24d5177093"
+        },
+        {
+          "name": "Thrice Woven",
+          "date": "2017-09-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/34d4ac60-6dd8-4124-b49c-17553ae27e1f"
+        },
+        {
+          "name": "Mountain Magick",
+          "date": "2021-06-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3ca09832-5a53-4263-ad7a-785fa6f16520"
+        },
+        {
+          "name": "Wolves in the Throne Room",
+          "date": "2004",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3d51421a-fcaa-3811-994e-9d5eb9817060"
+        },
+        {
+          "name": "Celestial Lineage",
+          "date": "2011-09-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/42c8c669-e2e3-49da-8b25-f046ca99bbf4"
+        },
+        {
+          "name": "Spirit of Lightning",
+          "date": "2021-07-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/49652221-1e35-4d57-9936-fa3bce91eb5e"
+        },
+        {
+          "name": "Wolves in the Throne Room",
+          "date": "2015",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4b4ff2e9-b47f-4775-9903-3bde49b18115"
+        },
+        {
+          "name": "2009‐06‐01: Caledonia Lounge, Athens, GA, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/510f86c7-0f7f-4d38-847d-4c998d6755e7"
+        },
+        {
+          "name": "Primal Chasm (Gift of Fire)",
+          "date": "2021-08-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/51d1d402-f62e-496d-a7a4-9c53cb6fcac7"
+        },
+        {
+          "name": "Estuary",
+          "date": "2026-10-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8164a0e2-61a9-481e-b5e0-d7045858a2be"
+        },
+        {
+          "name": "Malevolent Grain",
+          "date": "2009-02-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/86fab1df-79df-37c1-8b3b-12daa0bd0c92"
+        },
+        {
+          "name": "Celestite",
+          "date": "2014-07-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8bf3b842-a4cc-4276-a0a6-6b1d2ab8265c"
+        },
+        {
+          "name": "Angrboda",
+          "date": "2017-08-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8c3e49a2-48d5-4a41-952c-3bd0df89d9d8"
+        },
+        {
+          "name": "Crypt of Ancestral Knowledge",
+          "date": "2023-09-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/93e482e6-9fb3-44c5-970d-b523107789f2"
+        },
+        {
+          "name": "Live at Roadburn 2008",
+          "date": "2008-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9c86a07d-0fee-437d-b228-502537fc10d2"
+        },
+        {
+          "name": "Estuary",
+          "date": "2026-09-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ab62d1ba-a74c-4a60-a0af-d84835c19560"
+        },
+        {
+          "name": "Ghosts Among the Obelisks",
+          "date": "2026-08-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dbc4f460-c8a0-4111-a151-c6e55c8b5792"
+        },
+        {
+          "name": "Twin Mouthed Spring",
+          "date": "2023-08-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/de8b37bd-adcf-49d7-8d89-6134b4ef0c54"
+        },
+        {
+          "name": "Two Hunters",
+          "date": "2007-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e7a777cf-7def-3a3a-b0e0-913fb4109e37"
+        },
+        {
+          "name": "Initiates of the White Hart",
+          "date": "2023-09-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ed7dd86c-2248-487f-8c88-e6d29019d3bf"
+        },
+        {
+          "name": "Turning Ever Towards the Sun – Live at Neudegg Alm",
+          "date": "2014-10-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f7f24bc4-61c2-4c81-8ae7-ad7113621329"
+        },
+        {
+          "name": "Black Cascade",
+          "date": "2009-03-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f8e0b797-0f11-3818-88f0-cc8c9d074737"
+        },
+        {
+          "name": "Diadem of 12 Stars",
+          "date": "2006-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fae52544-a41f-3944-b22b-01f74082a254"
+        },
+        {
+          "name": "[Demo 2005]",
+          "date": "2005-05-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ff161092-48d9-3937-9c28-3c6c2cc01526"
+        }
+      ]
+    },
+    "yes": {
+      "name": "Yes",
+      "musicbrainz_url": "https://musicbrainz.org/artist/c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+      "reference_checked_at": "2026-10-20T00:38:44.456899+00:00",
+      "genres": "aor, art rock, classic rock, disco, electronic, garage rock, hard rock, pop rock, progressive, progressive pop, progressive rock, psychedelic rock, rock, symphonic prog, synth-pop",
+      "website": "https://www.yesworld.com/",
+      "members": [
+        {
+          "name": "Steve Howe",
+          "role": "guitar",
+          "begin": "1996"
+        },
+        {
+          "name": "Geoff Downes",
+          "role": "",
+          "begin": "2011-03-30"
+        },
+        {
+          "name": "Jon Davison",
+          "role": "lead vocals",
+          "begin": "2012-02"
+        },
+        {
+          "name": "Jay Schellen",
+          "role": "",
+          "begin": "2023-02-14"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+      "albums": [
+        {
+          "name": "Keys to Ascension",
+          "date": "1996-10-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/01369103-ba1c-334f-9d97-1a995bb6a1a0"
+        },
+        {
+          "name": "Yesshows",
+          "date": "1979",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0271516b-4e6d-3116-b00f-0ec8b098f1cb"
+        },
+        {
+          "name": "Heaven & Earth",
+          "date": "2014-07-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/03503b5a-3044-43de-a22f-f6ce3c8e6c7c"
+        },
+        {
+          "name": "Astral Traveller: The BBC Sessions",
+          "date": "2011",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/07b19db2-1b38-41b6-ab49-19ee1ff2b197"
+        },
+        {
+          "name": "Essential Elements",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/08d824f2-2ddf-324d-8498-d150e7e929bf"
+        },
+        {
+          "name": "Open Your Eyes",
+          "date": "1997-11-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/094cfe23-5f29-36a7-8e20-fa61ffb01593"
+        },
+        {
+          "name": "Essentially",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/0f98f07c-81f2-4f25-ad4f-681c5a840f21"
+        },
+        {
+          "name": "The Yes Album",
+          "date": "1971-01-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0fa03925-736c-3537-b0c6-201091543177"
+        },
+        {
+          "name": "90125",
+          "date": "1983-11-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/11267884-baaa-38e5-a11c-0a4907ec1b98"
+        },
+        {
+          "name": "Roundabout: The Best of Yes Live",
+          "date": "2003",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/13cfec8b-abe9-4024-8398-d8fbeb199cd9"
+        },
+        {
+          "name": "YesStory",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/157d32bc-cfc9-3848-8fe5-cdb70b2c190c"
+        },
+        {
+          "name": "The Definitive Rock Collection",
+          "date": "2007-02-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1a0ade36-3643-33be-9304-8c94c318a086"
+        },
+        {
+          "name": "Live at Duke University, Durham, North Carolina, November 11, 1972",
+          "date": "2015-05-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1d438ea5-0e46-4da5-9b2b-528605ce3a7e"
+        },
+        {
+          "name": "Sweet Dreams",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1f9b30ee-1927-3e88-89e2-3e38ee73acc2"
+        },
+        {
+          "name": "Yesstories",
+          "date": "2006-09-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/25315ba3-7e17-35e4-baf7-fe1df6778c1e"
+        },
+        {
+          "name": "In the Present: Live From Lyon",
+          "date": "2011-11-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/26741e62-8513-4db6-a439-7d05e744fd2c"
+        },
+        {
+          "name": "Keys to Ascension 2",
+          "date": "1997-11-03",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/273eb9d4-5d78-3f75-b78d-343cbd4c88de"
+        },
+        {
+          "name": "Yes 50 Live",
+          "date": "2019-08-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/286d17f1-2286-415a-ab28-dde54c1aa2de"
+        },
+        {
+          "name": "The Early Years",
+          "date": "2015-03-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/29bf0bb6-dca1-465c-ae6e-e08fe35b0dbf"
+        },
+        {
+          "name": "Yes, Friends and Relatives, Volume 2",
+          "date": "2001-01-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2bb0563b-99c9-43cf-84f4-3f6155d36423"
+        },
+        {
+          "name": "Yessongs",
+          "date": "1973-05-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2cd8e583-7941-38ee-a760-aebe2ab24656"
+        },
+        {
+          "name": "House of Yes: Live From House of Blues",
+          "date": "2000-09-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2d679361-5c32-353b-87d3-019b255149de"
+        },
+        {
+          "name": "Mirror to the Sky",
+          "date": "2023-05-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/354eac9c-977c-4f68-a50d-edf374e64b3d"
+        },
+        {
+          "name": "Original Album Series",
+          "date": "2013-02-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3659fa2c-2230-4cf9-ae79-fcdc6a013fe4"
+        },
+        {
+          "name": "In a Word: Yes (1969– )",
+          "date": "2002-07-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/36d9d51c-abe9-33fe-ab7d-adbd8df787b4"
+        },
+        {
+          "name": "Progeny: Highlights From Seventy‐Two",
+          "date": "2015-05-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/376de151-2332-4acd-b149-cb357c602074"
+        },
+        {
+          "name": "The Best of Yes: 1970–1987",
+          "date": "2000-01-03",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3b49ebee-a043-3795-818b-1f6ceee1ea0d"
+        },
+        {
+          "name": "The Quest",
+          "date": "2021-10-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3c0947fc-6b33-42af-8ffd-db3e4d8a9dfb"
+        },
+        {
+          "name": "Yes, Friends and Relatives",
+          "date": "1998-08-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/45eea997-e18f-46ef-a1dd-2de465f35d9f"
+        },
+        {
+          "name": "The Word Is Live",
+          "date": "2005-09-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/480e2280-1fa4-3bcd-b8a0-38c0f782dd86"
+        },
+        {
+          "name": "Drama",
+          "date": "1980-08-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/525095c6-4550-367e-b03c-1ad9efeaa986"
+        },
+        {
+          "name": "Union 30 Live Bonus Tracks & Tour Extras",
+          "date": "2023",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/55780357-7843-453d-a307-55e55a730b8b"
+        },
+        {
+          "name": "Live 1975 at Q.P.R., Vol. 1",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/55bc8741-0edf-406e-b588-930390be4465"
+        },
+        {
+          "name": "Introducing: Yes",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/57fd53b3-3d5c-4313-853b-abeb1a2c0c5d"
+        },
+        {
+          "name": "Close to the Edge",
+          "date": "1972-09-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5a59b948-1961-32ff-80d9-e970c7d4ebe9"
+        },
+        {
+          "name": "Fly From Here: Return Trip",
+          "date": "2018-03-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5e47c23f-84f8-4ba0-be4a-dcd10dd5640a"
+        },
+        {
+          "name": "Live and Solo",
+          "date": "2006-06-26",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/65074c3c-7df0-4f11-b479-d3ac3a0820f5"
+        },
+        {
+          "name": "The Very Best of Yes",
+          "date": "2014-04-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6ac253d8-d6a1-45a4-80fb-1ff5499c1907"
+        },
+        {
+          "name": "Yessingles",
+          "date": "2023-10-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6e2ae9f2-2c18-4fc5-9203-e352c05206a7"
+        },
+        {
+          "name": "High Vibration",
+          "date": "2013-09-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/72e2e790-02e9-403e-b71c-ff715eb6eb32"
+        },
+        {
+          "name": "Union 30 Live",
+          "date": "2021",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/74301e6f-2df7-4457-bc45-2e23edfbb080"
+        },
+        {
+          "name": "Classic Yes",
+          "date": "1981",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/76206648-b8ad-3c11-86af-e0957e4b9f2d"
+        },
+        {
+          "name": "In the Present: Live From London",
+          "date": "2009-11-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/76ef4f00-46dd-4cab-9f90-bd34ce4ec959"
+        },
+        {
+          "name": "The Ladder",
+          "date": "1999-09-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/77c8a1b9-5702-3a49-a3ab-5c7142fd18dd"
+        },
+        {
+          "name": "YesYears",
+          "date": "1991-08-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7adb2564-39ad-390e-8816-07aab16472a3"
+        },
+        {
+          "name": "Live at Glastonbury Festival 2003",
+          "date": "2019-07-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7b8afeda-6b80-4e65-89f7-1a74f16a15d8"
+        },
+        {
+          "name": "Big Generator",
+          "date": "1987-09-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7ca40721-af57-3a2c-b47e-ecce74771fba"
+        },
+        {
+          "name": "Time and a Word",
+          "date": "1970-07-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7ca63070-4b61-3569-9c1d-014a69f16f69"
+        },
+        {
+          "name": "Extended Versions: The Encore Collection",
+          "date": "2002-01-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7e9502bf-bf28-337c-a74b-9eb65076fede"
+        },
+        {
+          "name": "The Lost Broadcasts",
+          "date": "2009",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f020588-03f2-4f38-a034-f483dd0ba09b"
+        },
+        {
+          "name": "The Solid Gold Collection",
+          "date": "2005",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/802715e1-625b-4f11-8d04-cca5d1b6635d"
+        },
+        {
+          "name": "The Yes Story: Gold",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/815f751b-d7a5-4872-a784-1d05bac70a04"
+        },
+        {
+          "name": "Collection",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/852d8868-fc2f-4e7f-befc-58f6cbee9893"
+        },
+        {
+          "name": "Union",
+          "date": "1991-04-29",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/85b50921-cd91-3e7e-9225-98331d04f363"
+        },
+        {
+          "name": "Symphonic Live",
+          "date": "2002",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/8677f014-a28a-308a-a00f-ce80e5957e11"
+        },
+        {
+          "name": "Talk",
+          "date": "1994-03-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/873784dc-d158-3671-abc7-48e8b348b1c1"
+        },
+        {
+          "name": "Popular Selections From “Magnification” and “House of Yes: Live From House of Blues”",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/88c5c650-3260-4e06-b278-6aee228779b9"
+        },
+        {
+          "name": "Tales From Topographic Oceans",
+          "date": "1973-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/94862bd6-6a24-3774-b136-860059c6376e"
+        },
+        {
+          "name": "Union Live",
+          "date": "2000-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9651b778-f2c6-4930-a8d0-e0803ae45d02"
+        },
+        {
+          "name": "Aurora",
+          "date": "2026-06-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/96a132b5-1e90-4ac9-87cf-73d696fb7bc5"
+        },
+        {
+          "name": "Keystudio",
+          "date": "2001-09-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/97336253-d43a-3fda-8dff-e551cf454aab"
+        },
+        {
+          "name": "Topographic Drama: Live Across America",
+          "date": "2017-11-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/99831be2-0b6e-4cff-ab18-c912fb9fdb89"
+        },
+        {
+          "name": "Geographic Potions",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9a0d108d-0119-4023-9145-7cbd4fe0dbc0"
+        },
+        {
+          "name": "Like It Is: Yes at the Mesa Arts Center",
+          "date": "2015-06-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9f81d292-243a-4123-9093-dfa201f85c16"
+        },
+        {
+          "name": "Live at Montreux 2003",
+          "date": "2007-09-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a53a4c63-4edf-3abc-9c88-0c10fc065fef"
+        },
+        {
+          "name": "The Collection",
+          "date": "2005-03-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a5de689b-c713-349d-a20a-df6c7b662631"
+        },
+        {
+          "name": "Fragile",
+          "date": "1971-11-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b1176e7b-fa2e-3b28-959a-d8f55b5b6ccf"
+        },
+        {
+          "name": "Like It Is: Yes at the Bristol Hippodrome",
+          "date": "2014-12-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b23719cd-9e75-4192-b65c-7e006fbafe69"
+        },
+        {
+          "name": "Rock Heroes",
+          "date": "2009",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b46a41e7-0270-4005-a1e8-07bb42620c3d"
+        },
+        {
+          "name": "Magnification",
+          "date": "2001-09-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b4db0136-f2c7-44ce-b234-52e2ed8528e2"
+        },
+        {
+          "name": "Yesterdays",
+          "date": "1975-02-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b83c83dc-ec64-3097-9ec5-f1344efd17fc"
+        },
+        {
+          "name": "Owner of a Lonely Heart",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bb5043b6-092e-44ee-87f3-f476b32895d6"
+        },
+        {
+          "name": "Tormato",
+          "date": "1978-09-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bc36d872-1398-3de0-b7f7-30d10714cce1"
+        },
+        {
+          "name": "Progeny: Seven Shows From Seventy‐Two",
+          "date": "2015-05-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/be2b1949-95c2-4ef2-820e-e7940f82d9a2"
+        },
+        {
+          "name": "Yes + Friends",
+          "date": "2008-12-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/be328fa4-9009-427d-ac52-7e2468e5244c"
+        },
+        {
+          "name": "The Steven Wilson Remixes",
+          "date": "2018-06-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c305e93d-25ef-4f49-9749-8a90aa3558d0"
+        },
+        {
+          "name": "Going for the One",
+          "date": "1977-07-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c51f0a03-b999-382d-a378-0e30d69ec0c2"
+        },
+        {
+          "name": "Fly From Here",
+          "date": "2011-06-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c68d404c-0582-440a-a96b-3d23d515c20f"
+        },
+        {
+          "name": "Yes‐Today",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c99e0062-1e90-31b7-8108-2befa9a42b82"
+        },
+        {
+          "name": "Roundabout & Other Hits",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ca4ad034-f7ee-4214-9a92-e3d505905ed3"
+        },
+        {
+          "name": "Millenium Collection",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/cb849dd2-0cae-4363-90ce-4c208d65ec25"
+        },
+        {
+          "name": "9012Live: The Solos",
+          "date": "1985-11-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cf712800-e6f2-3185-9097-da78f46e9ac5"
+        },
+        {
+          "name": "Live 1975 at Q.P.R., Vol. 2",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d0e65338-0608-4c38-862d-e00deac99c72"
+        },
+        {
+          "name": "Yes and Friends",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d4b1d303-f335-44e7-8968-87bc0e84a2af"
+        },
+        {
+          "name": "Yes",
+          "date": "1969-07-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d85fd220-b4a7-3d98-baf1-7a53a5e5e255"
+        },
+        {
+          "name": "Wonderous Stories: The Best of Yes",
+          "date": "2011-08-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d95c0714-88d2-4f5a-9c0a-14d266d9600c"
+        },
+        {
+          "name": "Relayer",
+          "date": "1974-11-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/db835afa-72f9-39d0-ae1b-067836ec5152"
+        },
+        {
+          "name": "Topography: The Yes Anthology",
+          "date": "2004-04-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dfd94c4a-cc8b-44e1-8b8a-fae878829624"
+        },
+        {
+          "name": "Keys to Ascension, Volumes 1 & 2",
+          "date": "1998-03-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dff73c00-fd5e-4829-92b2-861d5e66dfc0"
+        },
+        {
+          "name": "Rhino Hi-Five: Yes",
+          "date": "2006-04-18",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e0a594e1-5ee0-48d7-921a-cf7c479e68cf"
+        },
+        {
+          "name": "Songs From Tsongas: 35th Anniversary Concert",
+          "date": "2014-09-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e202d61b-a62b-4bcf-a200-56e03be3b251"
+        },
+        {
+          "name": "The Greatest Hits",
+          "date": "2014-11-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e5530836-43df-4244-be09-f938f4de4e00"
+        },
+        {
+          "name": "Something’s Coming: The BBC Recordings 1969–1970",
+          "date": "1997-09-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e955e3d6-a9ac-39aa-b9e4-b7388d27cfcb"
+        },
+        {
+          "name": "Greatest Video Hits",
+          "date": "2002",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f1fe706f-4f01-498b-920a-e88b3570d5f9"
+        },
+        {
+          "name": "Astral Traveller",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f7061d55-9e64-41ef-b1a7-f9fb0b9ef864"
+        },
+        {
+          "name": "Yessongs",
+          "date": "2013-01-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f980b14f-4116-43c9-be1f-a36150b99329"
+        },
+        {
+          "name": "Yes Acoustic: Guaranteed No Hiss",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fb06db16-c2c7-3f52-a9d6-c50424e9e58c"
+        },
+        {
+          "name": "The Ultimate Yes: 35th Anniversary Collection",
+          "date": "2003-07-28",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fb2952da-a95b-374e-b0ea-37ff797d0f7b"
+        },
+        {
+          "name": "The Studio Albums: 1969–1987",
+          "date": "2013-11-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fbf948c2-c47c-498e-a445-cabd9e3c40bf"
+        },
+        {
+          "name": "Highlights: The Very Best of Yes",
+          "date": "1993-09-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fea5b2a9-1f3f-3b34-a419-2f1323a24c88"
+        }
+      ]
     }
   },
   "checked": {
@@ -29734,6 +30545,8 @@
     "van-halen": "2026-10-19T17:07:16.848393+00:00",
     "venom": "2026-10-19T17:07:18.078343+00:00",
     "w-a-s-p": "2026-10-19T21:31:42.203200+00:00",
-    "whitesnake": "2026-10-19T21:31:46.073626+00:00"
+    "whitesnake": "2026-10-19T21:31:46.073626+00:00",
+    "wolves-in-the-throne-room": "2026-10-20T00:38:40.094730+00:00",
+    "yes": "2026-10-20T00:38:44.457073+00:00"
   }
 }
