@@ -830,49 +830,17 @@
     "c5c7dc619c3cf0ad890a29216fb7cadac58ebf7a",
     "bf7ca28a56c560034bad1a4c53cdab6f3cc72a48",
     "eb209b6bb611fb2c28acf4cd548f1aca4781a278",
-    "b5eefe4802dfdf326eadd59daf99c3e06c5e36f0"
+    "b5eefe4802dfdf326eadd59daf99c3e06c5e36f0",
+    "ddb96266c8849bbb63777adf04475e3e570b47df",
+    "8bc1e10efec66d9cde64c9c842d260164a1d081d",
+    "a1fea5a38e432a365e652e2fa7153cb6876e6303",
+    "cbe4bc9a10750b308c5ff6bb1f4d5a3caf921ffd",
+    "2fe1f171969a38b11c3d27f41b4baf156ce2c69b",
+    "459148324fb405e1b4b522a6daf6783be9ae6cd4",
+    "bab6c11dec07453034f7126483b4fa8ba98699f8",
+    "5bee63ca48e2797fb57b362be9a8b2a3f9de74e1"
   ],
   "recent_titles": [
-    {
-      "title": "Джиу-джитсу наборы от OZZY OSBOURNE",
-      "source": "Darkside",
-      "ts": 1792247096
-    },
-    {
-      "title": "Студийное видео от ENTER SHIKARI",
-      "source": "Darkside",
-      "ts": 1792247097
-    },
-    {
-      "title": "Вокалист MAJESTICA исполняет BEE GEES",
-      "source": "Darkside",
-      "ts": 1792247141
-    },
-    {
-      "title": "GLENN HUGHES: «Я ощущаю, как энергия вновь наполняет мое тело»",
-      "source": "Darkside",
-      "ts": 1792247142
-    },
-    {
-      "title": "Test your knowledge with our Iron Maiden trivia quiz",
-      "source": "Louder",
-      "ts": 1792258253
-    },
-    {
-      "title": "What kept Jarboe stuck with Swans until she was stupefied with exhaustion?",
-      "source": "Louder",
-      "ts": 1792258286
-    },
-    {
-      "title": "10 Years Later: Will We Ever See Another Desert Trip?",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792258317
-    },
-    {
-      "title": "Новое видео THE FLOWER KINGS",
-      "source": "Darkside",
-      "ts": 1792258331
-    },
     {
       "title": "SEEN AND HEARD: EXTOL, AETHERIAN, ARONIOUS, NIDARE",
       "source": "No Clean Singing",
@@ -1632,6 +1600,46 @@
       "title": "Dieth Part Ways With David Ellefson Ahead Of New Single “Pound Of Flesh”",
       "source": "ThePRP",
       "ts": 1792509582
+    },
+    {
+      "title": "Full Album Stream: Armory – “Echoes of the Astrolith”",
+      "source": "Decibel",
+      "ts": 1792524103
+    },
+    {
+      "title": "Forbidden Stream New Track “Single Point Failure” Just Ahead Of Their Comeback Album’s Release",
+      "source": "ThePRP",
+      "ts": 1792524108
+    },
+    {
+      "title": "Four Year Strong Announce “Rise Or Die Trying” 25th Anniversary Tour With Drug Church, Heart Attack Man & More",
+      "source": "ThePRP",
+      "ts": 1792524118
+    },
+    {
+      "title": "Bullet For My Valentine, The Warning, Sleep Theory, Etc. Confirmed For 2027 ‘Sonic Temple’ Festival",
+      "source": "ThePRP",
+      "ts": 1792524143
+    },
+    {
+      "title": "Disfear’s New Single “Shackled To Our Vice” Premieres",
+      "source": "ThePRP",
+      "ts": 1792524149
+    },
+    {
+      "title": "Megadeth’s Dave Mustaine explains why he wasn’t at Black Sabbath’s Back To The Beginning – and why the thrashers probably won’t have their own star-studded farewell show",
+      "source": "Louder",
+      "ts": 1792524172
+    },
+    {
+      "title": "One Step Closer Announce New Album “Zero”, Debut Music Video For Two New Songs",
+      "source": "ThePRP",
+      "ts": 1792524184
+    },
+    {
+      "title": "Machine Head Surprise Release New Single “Sutures”",
+      "source": "ThePRP",
+      "ts": 1792524188
     }
   ],
   "initialized_sources": [
@@ -3629,7 +3637,7 @@
       "title": "System of a Down Announces 2027 Rose Bowl Show With Pierce the Veil",
       "link": "https://metalinjection.net/tour-dates/system-of-a-down-announces-2027-rose-bowl-show-with-pierce-the-veil",
       "rss_body": "Surprise! Sort of.",
-      "tags": "Tour Dates System Of A Down Pierce The Veil featured1",
+      "tags": "Tour Dates System Of A Down Pierce The Veil featured",
       "category": "Хэви-метал",
       "published": "2026-10-19T15:11:43+00:00",
       "id": "95d06f7f857cb151a8d43b8e47aa307bd83ed897",
@@ -3641,7 +3649,7 @@
       "title": "London Politician Calls on Wembley Stadium to Reconsider Marilyn Manson’s Slipknot Booking",
       "link": "https://metalinjection.net/news/london-politician-calls-on-wembley-stadium-to-review-marilyn-mansons-slipknot-booking",
       "rss_body": "\"Wembley Stadium needs to explain what consideration was given to them before this booking was confirmed.\"",
-      "tags": "Latest News Slipknot Marilyn Manson featured2",
+      "tags": "Latest News Slipknot Marilyn Manson featured",
       "category": "Хэви-метал",
       "published": "2026-10-19T14:13:37+00:00",
       "id": "be1139c09e1ee624d67752284d3e006095c725f3",
@@ -3713,7 +3721,7 @@
       "title": "Sonic Temple Reveals Meshuggah, Testament + More to Play 2027 Festival",
       "link": "https://metalinjection.net/news/sonic-temple-reveals-meshuggah-testament-more-to-play-2027-festival",
       "rss_body": "Sonic Temple has announced the second wave of bands playing the Columbus, Ohio-based festival this year with yet another blend of metal and pop-punk bands. This new lot of bands […]",
-      "tags": "Latest News Sonic Temple",
+      "tags": "Latest News Sonic Temple featured",
       "category": "Хэви-метал",
       "published": "2026-10-19T20:15:49+00:00",
       "id": "4e7d490c705992631896877d4b6801c02d85dece",
@@ -3800,7 +3808,7 @@
       "title": "Ten Horror Soundtracks You Need to Add to Your Vinyl Collection",
       "link": "https://metalinjection.net/exclusive-2/ten-horror-soundtracks-you-need-to-add-to-your-vinyl-collection",
       "rss_body": "From a best-of nu-metal compilation, to the GOAT re-connecting with his son, here's ten records you need immediately.",
-      "tags": "Exclusive halloween",
+      "tags": "Exclusive halloween featured2",
       "category": "Хэви-метал",
       "published": "2026-10-20T14:26:19+00:00",
       "id": "2d0e3d559d6fffa0c5743c8833d4077e77571dd8",
@@ -3817,6 +3825,174 @@
       "published": "2026-10-20T13:14:40+00:00",
       "id": "2e8df00fe1d468b2b0b57e36fbb14a139853e8a4",
       "retry_after": 1792509619
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Soul Glo Drops New Song “Ppl Worried” Featuring TV On the Radio’s Tunde Adebimpe",
+      "link": "https://metalinjection.net/new-music/listen-soul-glo-drops-new-song-ppl-worried-featuring-tv-on-the-radios-tunde-adebimpe",
+      "rss_body": "Featured on 'Na I'm Gone Grab Allat,' out January 15 on Epitaph.",
+      "tags": "New Music Soul Glo Tunde Adebimpe Tv On The Radio",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T18:33:13+00:00",
+      "id": "33e13b0eec3f3dd9fcb9c8e28ab5a68a01b90f85",
+      "retry_after": 1792524408
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Infectious Grooves Announce 35th Anniversary Show For Their Debut Album",
+      "link": "https://www.theprp.com/2026/10/20/news/infectious-grooves-announce-35th-anniversary-show-for-their-debut-album/",
+      "rss_body": "Make booties move in Los Angeles this this November.",
+      "tags": "News Infectious Grooves Suicidal Tendencies",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T18:13:02+00:00",
+      "id": "6a9172fc4bab7ca5aeb402cf428750c24298e880",
+      "retry_after": 1792524432
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Disfear, Featuring At the Gates’ Tomas Lindberg, Releases New Track “Shackled to Our Vice”",
+      "link": "https://metalinjection.net/new-music/listen-disfear-featuring-at-the-gates-tomas-lindberg-releases-new-track-shackled-to-our-vice",
+      "rss_body": "Coming off 'The Last Nail,' out November 20 on Relapse Records.",
+      "tags": "New Music disfear",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T17:22:26+00:00",
+      "id": "70ea150b32b0a3584cd536c87e4e78ff4ed3f8b0",
+      "retry_after": 1792524444
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "\"Farewell, and F*** Off!\" Ministry's Al Jourgensen on the Band's End, Final Record + More [Exclusive]",
+      "link": "https://metalinjection.net/video/farewell-and-f-off-ministrys-al-jourgensen-on-the-bands-end-final-record-more-exclusive",
+      "rss_body": "'Farewell, and fuck off!'",
+      "tags": "Ministry",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T16:44:25+00:00",
+      "id": "3dbbede0b0cfb9e887f50da6aa77691e5f1085cb",
+      "retry_after": 1792524485
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Thrown, Guilt Trip & Fromjoy Reveal Spring 2027 North American Tour",
+      "link": "https://www.theprp.com/2026/10/20/news/thrown-guilt-trip-fromjoy-reveal-spring-2027-north-american-tour/",
+      "rss_body": "Launching in mid-March.",
+      "tags": "News fromjoy Guilt Trip Thrown",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T16:28:26+00:00",
+      "id": "bfd627828e3d497656a641c854c742db4454453a",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Queens Of The Stone Age Set For ‘The Tonight Show Starring Jimmy Fallon’ This Week",
+      "link": "https://www.theprp.com/2026/10/20/news/queens-of-the-stone-age-set-for-the-tonight-show-starring-jimmy-fallon-this-week/",
+      "rss_body": "A Perfecth appearance.",
+      "tags": "News Queens Of The Stone Age The Tonight Show Starring Jimmy Fallon",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T16:18:07+00:00",
+      "id": "cba9d3bb4d8930dc53496cd35d9d37082ef6fd5f",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Boardwalk Rock Announces 2027 Fest Featuring Korn, Bad Omens, Iron Maiden and More",
+      "link": "https://metalinjection.net/tour-dates/festivals/boardwalk-rock-announces-2027-fest-featuring-korn-bad-omens-iron-maiden-and-more",
+      "rss_body": "In true Halloween spirit, we have a festival returning from the dead!",
+      "tags": "Festivals bullet for my valentine korn Iron Maiden Alice In Chains Motionless in White Sleeping With Sirens The Prodigy Bad Omens Loathe poppy boardwalk festival",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T16:09:18+00:00",
+      "id": "448e220074bf5c6ec63d71c9def7319becfa0c36",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Korn, Iron Maiden, Bad Omens, Alice In Chains, Etc. Booked For 2027 ‘Boardwalk Rock’ Festival",
+      "link": "https://www.theprp.com/2026/10/20/news/korn-iron-maiden-bad-omens-alice-in-chains-etc-booked-for-2027-boardwalk-rock-festival/",
+      "rss_body": "Plus Judas Priest, Breaking Benjamin, Good Charlotte, Marilyn Manson and many more.",
+      "tags": "News Alice In Chains Bad Omens Boardwalk Rock Iron Maiden Korn",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T16:07:11+00:00",
+      "id": "6862ebd80a13d02202789728968ebc103482e402",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: CAVE MOTH — “CLONE”",
+      "link": "https://www.nocleansinging.com/2026/10/20/an-ncs-premiere-cave-moth-clone/",
+      "rss_body": "(written by Islander) (If you think the artwork is bizarre, wait until you hear the music.) Cave Moth have released six EPs over the last 13 years. They have evolved into a music collective whose members are spread across the U.S. East Coast, and that group is now poised to release yet another EP in\n\n[...]",
+      "tags": "Premieres Cave Moth",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T16:00:49+00:00",
+      "id": "83393d46fec5fc2de884d829fae1836e212e62ff",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Track Premiere: Source – “What Remains”",
+      "link": "https://www.decibelmagazine.com/2026/10/20/track-premiere-source-what-remains/",
+      "rss_body": "Psychedelic proggy\n\nColorado\n\ntrio\n\nSource\n\npresents “What Remains” ahead of their fifth studio album,\n\nResurgence,\n\nout January 15, 2027.\n\nAbout the track, Source say:\n\n“‘What Remains’ asks the question: What is left when all hope is lost? When everything I’ve believed is shattered, what remains? It looks at desperation and attachment to outcomes as one of the last barriers to the truth beneath all my delusions and invites  surrendering to what remains.”\n\nThematically, the track was inspired by the band’s personal experiences with touring; the hidden workload behind and the scenes, the moments missed and sacrifices made. “There were a few tours specifically where we all felt an unfathomable sense of dread that we had no control over our future as musicians.” Vocalist, guitarist, and keyboardist Benjamin Gleason comments. “But underneath that dread was this sensation of being fully present in the current moment. A new connection with the truth of our lives which felt safe and secure.”\n\nResurgence\n\nwas produced by Benjamin Gleason and recorded at Cymatic Sounds Studios with engineer Justin Mirarck. Mixed by Benjamin Gleason and Justin Mirarck, and mastered by Tom Capeck. The album artwork for\n\nResurgence\n\nis by Mike Gamble.\n\nBacking vocals on\n\nResurgence\n\nare performed by Wes Watkins, Yasmine Hunter, Emma Phillips-Strain and Chipo Muzilikazi.\n\nSource Are:\n\nBenjamin Gleason – Vocals, Guitars, Keyboards\n\nJustin Mirarack – Drums, Acoustic Percussion, Electric Percussion\n\nPascal Faurie – Bass\n\nPreorder the album here.",
+      "tags": "Exclusive Streaming Track Premiere Videos Colorado premiere Prog Rock psychedelic Resurgence Source What Remains",
+      "category": "Прогрессив",
+      "published": "2026-10-20T16:00:22+00:00",
+      "id": "f8e31410967231627a9ee08ce21d7f19cd45e147",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "What Ozric Tentacles’ Ed Wynne learned after his music teacher gave up on him",
+      "link": "https://www.loudersound.com/music/albums/ozric-tentacles-ed-wynne-harmonic-mind",
+      "rss_body": "The prolific\n\nOzric Tentacles\n\ncontinue to carve out their own sonic universe on 17th studio album\n\nHarmonic Mind\n\n, which evokes their free-spirited origins and takes in trippy 90s rave culture.\n\nProg\n\ncatches up with bandleader\n\nEd Wynne\n\nto discuss hanging out in\n\nDonovan\n\n’s flat, the ever-changing collective and his plans to avoid the AI trap.\n\nFor progressive music fans of a certain vintage, Ozric Tentacles always seemed like the new kids on the block, bucking the trend in the late 80s by purveying instrumental, intricate, driving, guitar-based fare. So it’s rather surprising to realise it’s 40 years since they permeated our consciousness – firstly as hidden champions of the free-festival movement, subverting record company norms by self-releasing a succession of brightly coloured cassettes; then unlikely pioneers of neo-psychedelia’s resurrection, capturing a crossover audience with their ravey vibe.\n\nWe’re now almost 17 studio albums in, give or take the vast number of off-the-record releases, authorised or otherwise, in the Ozrics’ “floativerse.” The current line-up’s youthful energy captures something of band’s critical and commercial peak circa the early-90s\n\nErpland\n\nera. Guitarist and band leader Ed Wynne acknowledges that the prevailing vibe extends to latest release\n\nHarmonic Mind\n\n.\n\n“Each album does sort of tread on the shoulders of the one before,” he says as he gears up for an autumn tour with\n\nThe Orb\n\n, “but there’s a hark back to some of the earlier stuff, more of a band feel – there are camaraderies between bandmembers enjoying the progression and development of the tracks.”\n\nHarmonic Mind\n\nis, perhaps, a gentler vibe than other recent releases. “I don’t know what that comes from. Maybe because I am!” he says. “I do have it in mind to make an outrageously heavy tune very soon!”\n\nAll members of the current live line-up contributed to the studio work, most notably Wynne’s son and right-hand man Silas Neptune, whose implacable countenance behind a bank of keyboards and dials belies a dexterity that’s only occasionally unleashed. In Wynne’s words, “He takes care of a lot of the synthesisers, and making sure everybody can hear each other.” Neptune’s musical partner, Saskia Maxwell, contributes fulsome flute; Wynne contrasts her with former Ozrics flautist ‘Jumping’ John Egan.\n\n“She’s more accurate than John! It was fun with John, but I recorded everything he played because it was never going to repeat. With Saskia I give her a scale and she’ll go away for a day and practise; there’s more control.” Maxwell also lends a mysterious dancing presence onstage: “She brings a female element, which hasn’t always been the case with this band.”\n\nThe line-up is completed by drummer Pat Garvey and bassist Corey Wallace – “a real joy onstage; he’s got this feeling about him.” Wynne himself works through his usual melange of guitar styles: funky rhythmic licks, bell-like harmonics, and full-blown eyeballs-out soloing, as well as acknowledging “an acoustic resurgence,” with the title track incorporating “more than one guitar superimposed over another, sculpting, erasing and editing.”\n\nFor a family as musical as the Wynnes, there was little formal training as Ed grew up; instead, innate talent prevailed. “My mum got me trying to have piano lessons, but the guy took her aside and said, ‘I’m very sorry but this is the only totally unmusical person I ever tried to teach. It’s not going to work!’ I started off just playing piano and then my brother had a guitar and I thought, ‘I must have a go on that.’ I thought that little grid on the chord-book must mean the frets and fingers. I worked a few chords out and started really enjoying it.”\n\nHe can’t recall his transition to playing solos, but that blistering work remains his calling card. He lists\n\nHendrix\n\n,\n\nZappa\n\n,\n\nHillage\n\n,\n\nSantana\n\nand\n\nHoldsworth\n\nas key influences. Just as important growing up, though, was the innate atmosphere around him. “My father was a sculptor – an artist – and there was an aura about the house we grew up in,” he explains. David Wynne’s most recognisable works included\n\nGirl With A Dolphin\n\n(1973), a statue that stands near London’s Tower Bridge; and an interlocking hands design for the 50p that marked the United Kingdom joining what was then the EEC that same year.\n\nWynne recalls: “A few famous musical people used to hang around the place, which was very inspiring and made me think, ‘This is a good way to be.’ I was given the freedom to not get some boring job. I was very blessed.” Home was an apartment in Wimbledon, London, in the same block as psychedelic singer-songwriter Donovan. “I’d get back from school and think, ‘Which door should I go in? I’ll go in Don’s door today!’ There they all were with their instruments, smoking dope, with weird lights, telling their jokes and odd people doing strange things. It was absolutely fascinating!”\n\nWoking in his attic, Wynne became a prolific composer and performer from the early 1980s onwards. “I had my four-track recorder where I spent all day, every day, just recording stuff. It was brilliant. I couldn’t stop. I thought, ‘Well, why stop? What if I can’t stop?’ I just got into recording as a permanent way of life, really.”\n\nThere’s a load of bootlegs out there which I’m not that proud of, but it’s fun for people to see where it comes from\n\nWynne became equally adept at guitar, bass, various keyboards and production techniques, but also took on board a rolling collective of people, some of whom, like brother Roly, ended up in the Ozrics and its precursor, Bolshem People. “The house was between the local pub and the railway station. People used to pop in on the way back from the pub – which was either good or bad! We used to set up and just crank it out. My dad would stomp on the door and say, ‘It’s too loud. I’m trying to work here!’ He was fairly nearby in the house trying to make his sculptures.”\n\nTapes were altruistically sent out to anyone interested in them, starting a dispersed archive of unofficial material, which has continued to this day. “It was experimental stuff,” says Wynne. “There’s a load of bootlegs out there which I’m not that proud of, but it’s fun for people to see where it comes from.”\n\nThat was also the starting point for the band’s six coveted brightly coloured cassettes, including the wonderfully-titled\n\nTantric Obstacles\n\n, which were sold at gigs and via mail order for the few in the know. “Roughly once a year we were like, ‘Oh, look, we’ve got enough for another tape!’ As those evolved, it became more like doing an album.”\n\n(Image credit: Press)\n\nThe culmination was 1988’s masterful, ethnically diverse\n\nSliding Gliding Worlds\n\n, which was subject to additional influences “Prior to that I went for a three-month jaunt to Thailand – I just got fed up with the whole Western thing and said, ‘Sorry, guys. I’m getting a ticket. See you in a few months!’ I had an acoustic guitar and got to the point where I felt very, very content. I came home and literally camped out in the studio. Nobody saw me for about a month, and I had\n\nSliding Gliding Worlds\n\nat the end of that.”\n\nProg\n\nwonders if self-releasing the cassettes was an anti-system statement in itself? “It was more about the fact that it was too strange for most labels!” he replies. “And it was really fun. We used to literally spend all week copying tapes and getting photocopies, cutting out covers, folding and putting them in there and having a box of them at the gigs, selling them for £2.50.”\n\nI didn’t have to explain the frame or the mode or the scale or the style – Roly would just grab the bass and play the perfect line\n\nBy that time he’d developed an affinity with the free festival movement. “I left school and ended up going to Stonehenge Free Festival and playing at campfires – all kinds of random fun free stuff.” The band were a main attraction at the famously anarchic Treworgey Tree Fayre in Cornwall in 1989, not long after they’d released their first official album, the pristine\n\nPungent Effulgent\n\n. Their ramshackle, jammed performance on Wango Riley’s Stage (an open-sided lorry) very much represented a messy alter ego.\n\n“It was hard for people to get paid at that festival,” he recalls. “There was a farmhouse on the edge of the site and we managed to get past the gatekeeper. Suddenly we were in this normal house, full of hippies. We made a cup of tea and one of our lot went upstairs to get the dosh for the gig. He found this room where the floor was completely covered in pound coins, with this guy desperately trying to pull it all together!”\n\nThe classic line-up featured Wynne’s sadly missed brother Roly. “He was a pure bass player,” he remembers. “I didn’t have to explain the frame or the mode or the scale or the style – he’d just grab the bass and play the perfect line.”\n\nAlongside the brothers in the late 80s were Egan, the flautist and visual centrepiece; plus Joie Hinton and Merv Pepler, soon to succumb to their ravey sides with Eat Static. High points were\n\nJurassic Shift\n\n, which reached No.11 in the UK charts in 1993, and high billing at Reading and Glastonbury Festivals the same year.\n\nBoth the Ozrics and The Orb found themselves in the vanguard of a new movement in that era, 80s, which bridged genres and generations: The Orb via samples of Steve Hillage’s\n\nRainbow Dome Musick\n\nand\n\nPink Floyd\n\n; the Ozrics with ravey wig-out tracks such as\n\nThe Throbbe\n\n,\n\nSploosh!\n\nand\n\nPyramidion\n\n– which still feature in today’s live sets. Their audiences cross-pollinated at the time, but as they prepare to tour together, is that still the case? Wynne thinks so.\n\nI admire the fact that The Orb aren’t too serious. I find it crazy when people do take themselves too seriously\n\n“The bands are very, very different to listen to. But there’s a match with the feeling that comes across: the almost goofy, funny kind of spacey thing that people enjoy. I admire the fact that The Orb aren’t too serious about things. I find it a bit crazy when people do take themselves too seriously.\n\n“It’s something to do with – sorry to say this – prog people. When someone says ‘prog’ to me, it makes me think of complicated music and people with furrowed brows trying to play it as well as they can. It’s probably my biased opinion, but to me ‘prog’ means ‘progressive,’ which means moving forward. In one way we’re progressive because we’re trying to push out the edges of what’s been done before.\n\n“At the moment I’m basically trying to second-guess AI. I don’t want AI to be able to copy what I do. I’ll have to make it a bit stranger, perhaps!”\n\nHarmonic Mind\n\nis on sale now.",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-10-20T16:00:00+00:00",
+      "id": "90a7f746ea0f336a94b25e63157103dcfdd69955",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Why Do Fans Dislike These Notorious Rock Records So Much?",
+      "link": "https://ultimateclassicrock.com/hated-rock-records/",
+      "rss_body": "Some of rock's most infamous records aren't bad so much as they are deeply, passionately hated by people who can't stop talking about them.",
+      "tags": "Galleries Lists Original Features Bob Dylan Metallica Phil Collilns UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-20T15:34:35+00:00",
+      "id": "c0a166ce0aaccba699d9865df7cb5c6f70ad2083",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Metal Allegiance Announces Massive 2027 LA Show",
+      "link": "https://metalinjection.net/tour-dates/metal-allegiance-announces-massive-2027-la-show",
+      "rss_body": "Featuring some friends from Overkill, Opeth, Armored Saint, and more.",
+      "tags": "Tour Dates Metal Allegiance",
+      "category": "Прогрессив",
+      "published": "2026-10-20T15:02:24+00:00",
+      "id": "57154af41f8981b22ba1ee430c4cf719368045d9",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Iron Maiden Announces 2027 North American Tour Dates",
+      "link": "https://ultimateclassicrock.com/iron-maiden-2027-north-american-tour/",
+      "rss_body": "Iron Maiden scrapped their planned 2027 hiatus and added 16 North American dates for spring after the current tour's massive success.",
+      "tags": "Concerts News Iron Maiden UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-16T14:42:15+00:00",
+      "id": "73ecf77997afc50510be4de8d18c56581c68c2f2",
+      "retry_after": 0
     }
   ]
 }
