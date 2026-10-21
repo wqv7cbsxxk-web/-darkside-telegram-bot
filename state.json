@@ -880,49 +880,17 @@
     "1480bb2857af89648d345cb5e45bd1bddc312080",
     "7c0691ea628826121e85548b56430a6a75095d45",
     "5f7623a39b90a0fd4aa247bc41a28c957a06b3e6",
-    "8afdeb264a48071de2003eeb6785b7766b856319"
+    "8afdeb264a48071de2003eeb6785b7766b856319",
+    "b3fcbd2694728e0890b0feb81540f2d4bab89a5f",
+    "865fb0b9b3298bee9b102992805dd92f05aa4e90",
+    "37f2c8dd2225cb7c899ce2d94f43b85ab3a7ae6a",
+    "09a5961416763a80a6edd19d7994b30d1a273008",
+    "1fccbf76463604e2942ef56a08e40053a8a9de4a",
+    "9d629c21aa412ed084cabde278400a6d48d6b61d",
+    "e5bfb51c3d3b9fb829e763c90780949f31bc40f2",
+    "7d95953ebf499dfbd5ab41b1e6882515d9b7baa4"
   ],
   "recent_titles": [
-    {
-      "title": "Q&A: New Jersey Death-Thrash Legends Revenant Resurrected",
-      "source": "Decibel",
-      "ts": 1792305463
-    },
-    {
-      "title": "When Simon Le Bon Realized Duran Duran Had No Street Cred",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792305481
-    },
-    {
-      "title": "DEEN CASTRONOVO вернулся на сцену после проблем со здоровьем во время концерта JOURNEY",
-      "source": "Darkside",
-      "ts": 1792305584
-    },
-    {
-      "title": "BEHEMOTH и SHAGRATH исполнили кавер-версию VENOM",
-      "source": "Darkside",
-      "ts": 1792305585
-    },
-    {
-      "title": "Battlesnake Announce February Australian Tour Ahead Of Their New Album",
-      "source": "ThePRP",
-      "ts": 1792305590
-    },
-    {
-      "title": "Triggerfinger are huge in Europe, and some people say they sound like sex",
-      "source": "Louder",
-      "ts": 1792323779
-    },
-    {
-      "title": "Converge To Play “Jane Doe”, Oathbreatker To Perform “Rheia” At The First-Ever ‘Lucidity’ Festival In Australia",
-      "source": "ThePRP",
-      "ts": 1792323845
-    },
-    {
-      "title": "Silverstein & Story Of The Year’s ‘Camp Screamo’ Tour Booked For An Australian Leg",
-      "source": "ThePRP",
-      "ts": 1792323849
-    },
     {
       "title": "King 810 Give Their “Queen” EP Its First Vinyl Release",
       "source": "ThePRP",
@@ -1682,6 +1650,46 @@
       "title": "“Greg Lake said, ‘I can’t believe they played Schizoid Man like this”: Italian proggers’ trick got them a record deal",
       "source": "Louder",
       "ts": 1792597530
+    },
+    {
+      "title": "BORE Hit The Studio For Their Sophomore Album",
+      "source": "ThePRP",
+      "ts": 1792611549
+    },
+    {
+      "title": "The Tony Danza Tapdance Extravaganza Tease New Single “Nothing Can Stop What Is Coming”",
+      "source": "ThePRP",
+      "ts": 1792611569
+    },
+    {
+      "title": "Track Premiere: Adversor – “Totem of Doom”",
+      "source": "Decibel",
+      "ts": 1792611574
+    },
+    {
+      "title": "Metallica Release Official “Welcome Home (Sanitarium)” Live Video From The Sphere",
+      "source": "ThePRP",
+      "ts": 1792611578
+    },
+    {
+      "title": "Devin Townsend Launches Orchestral Live Video For “War Beyond Words”",
+      "source": "ThePRP",
+      "ts": 1792611582
+    },
+    {
+      "title": "Ignea Joined By Britta Görtz of Hiraes For “Harmony Manufactured” Music Video",
+      "source": "ThePRP",
+      "ts": 1792611590
+    },
+    {
+      "title": "Lacuna Coil Celebrate 20 Years Of “Karmacode” With New Version Of “Fragile”",
+      "source": "ThePRP",
+      "ts": 1792611598
+    },
+    {
+      "title": "Bleed From Within Announce UK/European Headlining Shows With VEXED & More",
+      "source": "ThePRP",
+      "ts": 1792611602
     }
   ],
   "initialized_sources": [
@@ -3520,7 +3528,7 @@
       "title": "Ozzy Osbourne Producer Andrew Watt Says Unreleased Songs Made “For a Specific Reason” Still Exist",
       "link": "https://metalinjection.net/news/ozzy-osbourne-producer-andrew-watt-says-unreleased-songs-made-for-a-specific-reason-still-exist",
       "rss_body": "\"They’re hard for me to listen to.\"",
-      "tags": "Latest News Ozzy Osbourne featured2",
+      "tags": "Latest News Ozzy Osbourne featured",
       "category": "Хэви-метал",
       "published": "2026-10-19T20:46:28+00:00",
       "id": "89599497293a46a23cf1bbd976b46cee48fb6f92",
@@ -3544,7 +3552,7 @@
       "title": "Sleep Token Issue Rare Statement After New Band Promoted as From Their “Co-Creator”",
       "link": "https://metalinjection.net/news/sleep-token-issue-rare-statement-after-new-band-promoted-as-from-their-co-creator",
       "rss_body": "\"What is ours is here, and here alone.\"",
-      "tags": "Latest News Sleep Token featured1 arcus",
+      "tags": "Latest News Sleep Token featured2 arcus",
       "category": "Хэви-метал",
       "published": "2026-10-19T16:43:30+00:00",
       "id": "215f3c05f1717ab4472d1bb78dd3e2e825dbfc54",
@@ -3632,9 +3640,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T18:33:13+00:00",
       "id": "33e13b0eec3f3dd9fcb9c8e28ab5a68a01b90f85",
-      "duplicate_ids": [
-        "736f8f2b43c810dcf967be3d9738961ab800ccf0"
-      ],
       "retry_after": 1792597582
     },
     {
@@ -3667,7 +3672,7 @@
       "title": "\"Farewell, and F*** Off!\" Ministry's Al Jourgensen on the Band's End, Final Record + More [Exclusive]",
       "link": "https://metalinjection.net/video/farewell-and-f-off-ministrys-al-jourgensen-on-the-bands-end-final-record-more-exclusive",
       "rss_body": "'Farewell, and fuck off!'",
-      "tags": "Ministry",
+      "tags": "Ministry featured",
       "category": "Хэви-метал",
       "published": "2026-10-20T16:44:25+00:00",
       "id": "3dbbede0b0cfb9e887f50da6aa77691e5f1085cb",
@@ -3755,6 +3760,9 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T15:10:06+00:00",
       "id": "30830af5458b317f2bde65f41084320ee5cdad31",
+      "duplicate_ids": [
+        "4fac36e35593d007fa4bcee09d1243a000fa20c9"
+      ],
       "retry_after": 1792597424
     },
     {
@@ -3775,11 +3783,191 @@
       "title": "Spotify Removes More Than 50 Million 'AI Slop' Songs",
       "link": "https://metalinjection.net/news/spotify-removes-more-than-50-million-ai-slop-songs",
       "rss_body": "Small miracles, I guess.",
-      "tags": "Latest News spotify",
+      "tags": "Latest News spotify featured1",
       "category": "Хэви-метал",
       "published": "2026-10-21T14:13:43+00:00",
       "id": "26e0abee154a12ad19dad3bff8a236c6c7b8fa95",
       "retry_after": 1792597562
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Metallica Releases Pro-Shot Footage of \"Welcome Home\" From The Sphere",
+      "link": "https://metalinjection.net/news/watch-metallica-releases-pro-shot-footage-of-welcome-home-from-the-sphere",
+      "rss_body": "Fans were surrounded by visuals.",
+      "tags": "Latest News Metallica",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T19:34:37+00:00",
+      "id": "d1ee1b0931d0bcde88bcf084d8cd82f7f281c362",
+      "retry_after": 1792611846
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Judas Priest Announce First 2027 U.S. Appearance",
+      "link": "https://ultimateclassicrock.com/judas-priest-tour-dates-u-s-2027/",
+      "rss_body": "The British heavy metal legends will be back in action in the new year. See all of the currently confirmed dates so far.",
+      "tags": "Concerts News Judas Priest UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-21T19:19:34+00:00",
+      "id": "c58de7178017ef2df6887f7db7daf138c145c110",
+      "retry_after": 1792611866
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Megan Thee Stallion Freestyles Over Limp Bizkit’s \"Break Stuff\"",
+      "link": "https://metalinjection.net/new-music/watch-megan-thee-stallion-freestyles-over-limp-bizkits-break-stuff",
+      "rss_body": "The sample works perfectly on her \"Thin Ice\" freestyle.",
+      "tags": "New Music Limp Bizkit megan thee stallion",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T18:42:14+00:00",
+      "id": "e76072366a79a333e118741eaa4e074024ecc6b0",
+      "retry_after": 1792611879
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Iron Maiden Drummer Nicko McBrain Says Trump and His “Bunch of Cronies” Should Be Put in Jail",
+      "link": "https://metalinjection.net/news/iron-maiden-drummer-nicko-mcbrain-says-trump-and-his-bunch-of-cronies-should-be-put-in-jail",
+      "rss_body": "Nicko McBrain reveals he turned down a round of golf with Donald Trump, and says the president and his “bunch of cronies” should be put in jail.",
+      "tags": "Latest News Iron Maiden nicko mcbrain",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T18:05:25+00:00",
+      "id": "8333faf6d1c99f96d382aea496b54b5251133172",
+      "retry_after": 1792611899
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Pro-Shot Footage Of Nevermore’s 2026 ‘Motocultor Festival’ Set Available",
+      "link": "https://www.theprp.com/2026/10/21/news/pro-shot-footage-of-nevermores-2026-motocultor-festival-set-available/",
+      "rss_body": "The band took the stage at that annual fest this past August.",
+      "tags": "News Nevermore",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T17:26:32+00:00",
+      "id": "b936c74aa382623567c969c778cd1b9d7d5a6916",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "'Life Is Peachy' at 30: The Rushed, Brawling Record That Proved Korn Weren’t a Fluke",
+      "link": "https://metalinjection.net/anniversary/life-is-peachy-at-30-the-rushed-brawling-record-that-proved-korn-werent-a-fluke",
+      "rss_body": "Korn had little time and no finished songs when work began on their second album.",
+      "tags": "Anniversary korn Life Is Peachy",
+      "category": "Прогрессив",
+      "published": "2026-10-21T17:19:37+00:00",
+      "id": "c000d0b65b27adeb4dfddcace6311217f8a11e78",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "2027 ‘Welcome To Rockville’ Lineup Set To Be Revealed Next Week, Poppy Officially Confirmed",
+      "link": "https://www.theprp.com/2026/10/21/news/2027-welcome-to-rockville-lineup-set-to-be-revealed-next-week-poppy-officially-confirmed/",
+      "rss_body": "Hitting Daytona Beach in May.",
+      "tags": "News Poppy Welcome To Rockville",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T17:18:58+00:00",
+      "id": "7b225d29c3076c515da0da1758060274a2bab200",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "\"It's like Heathcliff digging up Cathy's corpse and dancing with it in the cold moonlight.\" The strange tale of the outrageous \"erotic\" 80s power ballad that Broadway legend Andrew Lloyd Webber called \"the greatest love song ever written\"",
+      "link": "https://www.loudersound.com/bands-artists/the-outrageous-erotic-80s-power-ballad-that-andrew-lloyd-webber-called-the-greatest-love-song-ever-written",
+      "rss_body": "\"\n\nI've been dreaming up a storm lately. I've been dreaming up a storm lately, and the entire city is burning. Look, you can see the colours dancing around the flames like the inside of a mad jukebox. Horny angels stalk the streets, looking for a little damnation and wearing nothing but the red badge of love. Motorcycles reproduce in nocturnal alleys, groaning with greasy pleasure, and they've blown up the YWCA like a giant balloon and sent it out to sea, full of screaming, lovely, lonely girls.\n\n\"And if I fall asleep here tonight. You better give me some asbestos sheets, 'cause I've been sweating gasoline. My dreams are highly flammable, and there are parts of my body that just won't stop giving off sparks. Stop me before I dream again.\n\n\"Why must I be a teenager in love?\n\n\"\n\nWith this wild fever dream intro to the seven-and-a-half minutes video for their debut single, the world was introduced in 1989 to gothic girl group Pandora's Box, a New York quartet featuring only three actual flesh-and-blood humans.\n\nThe band might be unfamiliar to you: the song, however, you'll know... just not this version of it. Or the epic story behind it all, encompassing an angry\n\nMeat Loaf\n\n, a disgraced nun,\n\nWuthering Heights\n\n, English film-maker Ken Russell, one member of\n\nBruce Springsteen\n\n's E Street Band, and er, \"an erotic motorcycle\".\n\nStrap in, it's a wild ride.\n\n(Image credit: Terry Lott/Sony Music Archive via Getty Images)\n\nOn his\n\nwebsite\n\n, Jim Steinman described\n\nIt's All Coming Back To Me Now,\n\nwritten \"while under the influence of\n\nWuthering Heights\n\n\" as \"my attempt to write the most passionate, romantic song I could ever write.\"\n\n\"I was trying to write a song about dead things coming to life,\" he revealed. \"I was trying to write a song about being enslaved and obsessed by love, not just enchanted and happy with it. It was about the dark side of love and about the extraordinary ability to be resurrected by it once dead.\n\n\"It's about obsession, and that can be scary because you're not in control and you don't know where it's going to stop.\n\n\"It's like Heathcliff digging up Cathy's corpse and dancing with it in the cold moonlight. You can't get more extreme, operatic or passionate than that.\"\n\nBy the late '80s, Steinman had a reputation in the music industry: exactly what that reputation was depended on you asked. To some he was a visionary genius, to others an unhinged maniac. Steinman believed that anything worth doing was worth over-doing, that boundaries were for the weak, that truth could only be found in excess. Raised on classical music and '50s rock 'n' roll, he knowingly self-defined as 'Little Richard Wagner', a composite character who desired everything louder than everything else, long before the phrase became associated with Motorhead.\n\n\"I never really saw classical music and rock 'n' roll as different,\" he told\n\nKerrang!\n\nmagazine in 1989. \"I still don't. I grew up liking extremes in music - big gothic textures. I never have much regard for more subtle stuff... I was attracted to William Blake, Hieronymus Bosch, I couldn't see the point in writing songs about ordinary, real-life stuff... I always wanted to sweep in, speaking in German, with a bat on my shoulder.\"\n\nBat Out Of Hell\n\nmade Steinman a music business legend. Composed by Steinman, produced by\n\nTodd Rundgren\n\n, and sung by Meat Loaf, it has sold over 43 million copies worldwide, and vindicated and amplified Steinman's belief that everyone else was doing rock 'n' roll wrong. This, unsurprisingly, also made Steinman a lot of enemies within the music industry.\n\nEven Meat Loaf, who first met Steinman in 1973, and loved him dearly - \"We belonged heart and soul to each other\" he told\n\nRolling Stone\n\nin 2021 - sometimes found his friend exasperating. Not least when Steinman refused to let him record what he called his \"erotic motorcycle\" -\n\nIt's All Coming Back To Me Now -\n\ninsisting that he always envisaged it being performed by a woman. While Meat Loaf seethed on the sidelines, Steinman, seeking an '80s version of his favourite 1960s girl group The Shangri-Las, began to assemble an all-female band that could do justice to his magnum opus.\n\nI wanted this project as though Clockwork Orange was about girls\n\nJim Steinman\n\nHe didn't cast the net too wide when recruiting for Pandora's Box. Ellen Foley was Meat Loaf's girlfriend, who'd dazzled with her performance on\n\nParadise by the Dashboard Light\n\nalongside her man on\n\nBat Out Of Hell.\n\nElaine Caswell was found singing in a New York bar, where Steinman was \"blown away\" by her voice and \"the looks of an avenging angel.\" Gina Taylor was performing in NYC as Tina Turner in '60s musical Beehive. And Deliria Wilde - talked up in the media as a former nun thrown out of a convent for a \"shocking\" transgression, didn't actually exist, except in Steinman's imagination.\n\nTogether, with musical assistance from E Street Band keyboard player Roy Bittan, Pandora's Box recorded the 1989 concept album\n\nOriginal Sin,\n\nfeaturing the single\n\ns It's All Coming Back To Me Now, Good Girls Go to Heaven (Bad Girls Go Everywhere)\n\n, and\n\nSafe Sex (When It Comes 2 Loving U).\n\n\"I wanted this project as though\n\nClockwork Orange\n\nwas about girls,\" he explained to\n\nKerrang!\n\n\"I wanted to write an album that sums up the last 10 years. What I saw coming out of the AIDS epidemic, as with all plagues, was a plus side. This one is that it's restored sex as something dark and magical and terrible.\"\n\nSteinman recruited English film director Ken Russell -\n\nTommy\n\n,\n\nWomen In Love\n\n,\n\nThe Devils\n\n- to direct a video for\n\nIt's All Coming Back To Me Now\n\nin London. It was not subtle. Reporting from the video shoot, music writer Sylvie Simmons noted, \"There's leather and snakes and tombstones and cockrings with shrunken heads on, and a glorious, erotic ceremony on the fantasies of a girl near death from a motorcycle crash being ministered to by paramedics.\"\n\n\"My manager saw it and goes, 'It's a porno movie!',\" Steinman admitted.\n\nDespite all the hype, all the headlines, the saucy video, and Steinman's obvious songwriting talents, the single - and indeed the\n\nOriginal Sin\n\nalbum - was a total flop. But the song didn't die.\n\nIn the summer of 1996 it was resurrected by Steinman for Celine Dion, who released it as the third single from her 14th studio album,\n\nFalling Into You\n\n. The single reached number one in Canada, and number two in the US, and is fondly remembered as one of the Quebec singer's most powerful anthems.\n\nReflecting on the themes of the song on his website, Steinman wrote, \"It says that, at any point in somebody's life, when they loved somebody strongly enough and that person returns, a certain touch, a certain physical gesture can turn them from being defiant and disgusted with this person to being subservient again. And it's not just a pleasurable feeling that comes back, it's the complete terror and loss of control that comes back. And I think that's ultimately a great weapon.\"\n\nBroadway legend Andrew Lloyd Webber reportedly told Steinman that he believed the song was \"the greatest love song ever written\", and after hearing Dion's version he predicted, \"This will be the record of the millennium.\"\n\nFinally, in 2006, Meat Loaf recorded the song as a duet on\n\nBat Out of Hell III: The Monster Is Loose.\n\n\"I believe that the version that Marion Raven and myself did on this album is the definitive version,\" Meat Loaf regularly declared while promoting the record, but the record-buying public had already decided otherwise.",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T17:00:00+00:00",
+      "id": "e303957b3d3c7ceabff4c8d687c703a4aefd6092",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): BEATEN TO DEATH — “VNTRVE”",
+      "link": "https://www.nocleansinging.com/2026/10/21/an-ncs-album-premiere-and-a-review-beaten-to-death-vntrve/",
+      "rss_body": "(written by Islander) The Norwegian band Beaten To Death don’t play by anyone else’s rules. In the most rudimentary of terms their music is grindcore, but it’s so infiltrated by unorthodox ideas that it rarely sounds quite like the work of any other band in that rebellious genre. This excerpt from recent press materials makes\n\n[...]",
+      "tags": "Premieres Beaten To Death",
+      "category": "Экстремальный метал",
+      "published": "2026-10-21T16:35:19+00:00",
+      "id": "37ed19528eceeca962fa227312de46e0a00abcb1",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Former Killswitch Engage bandmates Howard Jones and Adam D detail new project Burn Eternal, sign to Metal Blade Records",
+      "link": "https://www.loudersound.com/news/killswitch-engage-adam-d-howard-jones-launch-burn-eternal-band-2026",
+      "rss_body": "Former\n\nKillswitch Engage\n\ncohorts Howard Jones and Adam Dutkiewicz have reunited in new band Burn Eternal.\n\nThe US tandem announced today (Wednesday, October 21) that they have inked a deal with heavy metal label Metal Blade Records and will release their first song soon.\n\nThe news follows years of teases about the project and their as-yet-unannounced debut album, which was recorded in 2023 and 2024.\n\nSinger Jones comments: “We couldn’t be more excited to announce Burn Eternal joining forces with Metal Blade for our debut album. The whole team has been amazing, and we can’t wait to get this music out. From an idea while having lunch in London to a completed album, this has been such a fun way to reconnect with my friend. Burn Eternal lives!”\n\nGuitarist Dutkiewicz adds: “I am wicked excited to finally be able to share my project with Howard with all of you! It feels great to be hanging with an old friend and making more music with him. We’re just two goofballs just dicking around in the studio again. We are also excited to be putting it out with the Metal Blade family. Mostly because they truly feel like family, not a corporation. Good vibes abound!”\n\nDutkiewicz co-founded Killswitch Engage, one of the biggest bands in modern metalcore, in 1999, and Jones joined their lineup in 2002, replacing Jesse Leach. With Jones upfront, the band made a series of era-defining albums, including 2004’s\n\nThe End Of Heartache\n\nand 2006’s\n\nAs Daylight Dies\n\n. The singles\n\nMy Curse\n\n,\n\nThe End Of Heartache\n\nand\n\nHoly Diver\n\n(a cover of Dio’s 1983 anthem) were smash hits which enjoyed extensive MTV airplay.\n\nJones departed Killswitch in 2012 due to personal struggles and was replaced by his predecessor Leach. The exit was amicable, and the singer temporarily reunited with the band as a guest at select live shows in 2018, before handling co-lead vocals on 2019 single\n\nThe Signal Fire\n\n.\n\nTalk of Burn Eternal kicked off in 2023, when Jones revealed via social media that he and Dutkiewicz were in the studio together. “1st song down, 11 to go,” he wrote on Instagram. That December, the singer shared that\n\nvocal recording for he album was finished\n\n. It\n\nwas confirmed in December 2024\n\nthat the album had been mixed.\n\nMeanwhile, Killswitch continue to record and tour. They put out their latest album\n\nThis Consequence\n\nlast year and will start a run of shows in Australia and New Zealand at the end of the month. See dates and get tickets\n\nvia their website\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T16:30:15+00:00",
+      "id": "fe613c15e05ab5998c7639a6bc2fe6e73b7056f3",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Odes to The Old-School: Q&A With Avrak’s Ted Skjellum (Nocturno Culto) and Anders Hegna",
+      "link": "https://www.decibelmagazine.com/2026/10/21/odes-to-the-old-school-qa-with-avraks-ted-skjellum-nocturno-culto-and-anders-hegna/",
+      "rss_body": "We recently had the chance to speak with the fine gentlemen behind Norway’s\n\nAvrak\n\nabout their self-titled debut album. A devotional work dedicated to the spirit of classic hard rock and heavy metal,\n\nAvrak\n\nbears the character of its two leading lights: scene veteran Anders Hegna and none other than Nocturno Culto himself,\n\nDarkthrone’s\n\nTed Skjellum.\n\nThe project, also featuring Terje Kråbøl on Drums and Steinar Gundersen on bass, gives the listener a fresh, energetic and powerful experience of heavy rock and roll — played by expert craftsmen but still maintaining a spontaneous and unrefined edge. And that’s exactly what the band is going for, as you can tell from our discussion below. It was fascinating to talk to both Ted and Anders about how they got started, how they went about recording the album, and what inspired them along the way. You might be surprised by a couple things, so read on!\n\n(Note: The interview below has been lightly edited for clarity.)\n\n—\n\nThank you for agreeing to talk with Decibel today! Could you tell me how the project came together?\n\nAnders:\n\nWe’ve talked about it a couple of times now, but we’ve known each other for like 10, 12 years or so on a private basis. And so a couple of years ago, we talked about how we should do something together musically. I, of course, knew Ted as a musician and he’s been to some of my concerts. And we just thought that we should try it out and see what happened.\n\nWe just filled my car with some musical equipment and went for a kind of a weekend trip up in the mountain. And then we were just like having lots of beers and then we sat down on a Thursday night and kind of connected everything. “And now what? What do we do?” And we just started playing and we had some ideas, both of us. Early on day two, we find out that, yeah, we kind of have something here and it sounded cool.\n\nSo we just went from there. So that’s how it started. We didn’t have any plans. We didn’t have any musical directions. We didn’t have anything.\n\nTed:\n\nSo I think one of the slogans we have is that we don’t close any doors. So in this band, so we are up for whatever it is. I mean, we both love the, you know, the eighties heavy metal and metal scene and also the seventies. So we kind of meet on a good level.\n\nI mean, I’m a tiny bit more old school than Anders, but it works out very well because-\n\nAnders:\n\nYou’re a tiny bit older as well.\n\nTed:\n\nA tiny bit. So yeah, but it’s fun because we can kind of combine the ideas and we both learn something new, it’s one of those things that makes doing music interesting. I think it was good to not have a plan on this one, but obviously it’s our love for heavy and hard rock that comes through in this band.\n\nI agree, if you start out with an overcomplicated plan, it could actually stifle your inspiration and make it harder to come up with cool ideas. So with that in mind, for this album, did you have, you know, specific influences in mind? Like a few bands that were like, “Let’s try and like emulate something like that,” or did it all just flow?\n\nTed:\n\nIt was kind of flowing, but the thing is that we have a tradition for now after three years that when we have these gatherings when we actually make music we take some breaks and then we listen to music. It’s almost like a music quiz, like we are just playing classics, you know, from the 60s, 70s, and 80s. I got a problem with the 90s.\n\nI remember when we were going to have the 90s last time and I was, I couldn’t come up with anything, but then I came up with Rob Zombie.\n\nAnders:\n\nYeah, we tried the 90s, but I guess I have more classics from the 90s.\n\nTed:\n\nI mean, 90s for me would probably be, since I was a knee deep in the so-called black metal thing, I know a lot of classics when it comes to black metal, but yeah.\n\nYeah, because you were in your own world during the 90s.\n\nTed:\n\nYeah, very much.\n\nWhen you’re in your own creative space and, to the extent that you were part of a tight-knit scene, you almost don’t realize what’s going on around you.\n\nTed:\n\nOh, yeah. I mean, especially I would say up until, I guess, ‘96 or ‘97. I very much was closed in some kind of a bubble. But that was nice, but I did miss a lot of things going on otherwise in the world of music.\n\nAnders:\n\nBut just to be sure, if Ted wanted to now create a kind of an old-school black metal thing, he wouldn’t ask me!\n\nSo I wasn’t part of that at all. So, but we could have some elements from that part because, okay, I’m 50 years old. I’ve heard a lot of music and I’ve heard things that Ted has done earlier and so on. But this project is just us melting together creatively and trying to make some music that we ourselves think sounds good. That’s just what it is.\n\nYeah, and that’s all that matters. So do you both kind of share the writing or does one of you do more of music, more of lyrics? How did it kind of shake out for this album?\n\nTed:\n\nWell, it shook out pretty much 50-50 on everything because we go through every detail together. And if Anders has an idea, we create something out of that. You know, if you heard the album, we have two different arrangement for the guitars almost all the time. We don’t play the same riff together other than, I guess, three, four times on the album. So that’s the way we do it.\n\nAnd if I have an idea, Anders will do some other things on top of that. And vice versa. So that’s why it takes a bit, it’s a very slow writing process because everything has to work together and sound good, you know?\n\nFor what you write, Ted, what would you say makes the writing here different from what you’ve done in the past with\n\nDarkthrone\n\nand other stuff? Because on songs like “Unborn” and “Vard,” I can still hear your\n\nCeltic Frost\n\ninfluence a little bit, for example.\n\nTed:\n\nI think, you know, when Anders and I get in the creative bubble, there’s no rules. I mean, we do have, we do come up with ideas. But somebody sent me a review that said the album sounded like heavy metal and hard rock with a black metal undercurrent. I think that’s probably true. And I think there are elements of me, of course, in it as well. I think that was not my plan, basically.\n\nAs I said, we didn’t have any plan for how to sound, but I think also the sound production is this kind of dark and ambient.\n\nAnders:\n\nBut I think that both of us have our own kind of style of playing guitar. I do a different tuning that Ted does on this album. That’s also part of making it kind of different. But of course you can hear that it’s Ted playing guitar on this because he kind of has his own style. So yeah, I see what you mean.\n\nI think so much of what audiences associate with black metal was shaped by Darkthrone. And so it’s just YOU playing. It sounds like Nocturno Culto. And even if you’re playing something that’s more hard rock, it’s still going to be you.\n\nTed:\n\nYeah, that’s the way I play guitar. But for the actual music and for the arrangement and all the melodies and stuff, this has been a very unique experience for me to be working with Anders because, yeah, we spent a lot of time together. I mean, it could have happened on the first night in November of 2023 that it didn’t work.\n\nAnd I heard you modified yourself Anders because we did that interview earlier and you said we took “some beers” with us, but now we said “a lot of beers” and that’s more correct.\n\nAnders:\n\nYes, I want to be honest.\n\nWell, the worst that could have happened is you just hung out as a couple of friends, played some music, and drank a lot of beers. That’s still a success!\n\nTed:\n\nAbsolutely!\n\nAnders:\n\nOf course, it could be kind of awkward when two guys are going, “and now we’re going to make music together.” And we had some awkward moments when, for example, when deciding the band name, and that’s not an easy thing to do.\n\nAnd there was a lot of kind of awkward suggestions on the way. So yeah, it kind of worked out.\n\nTed:\n\nYeah, because we understood by the second time we did meet up, we thought that, you know, this is working very well. I mean, the obvious thing we thought about is, well, we have to try to make an album then. So yeah, so we went for that. It took a lot of time, but I think we are happy that we did that because we felt things were going smoothly.\n\nAnd we needed a drummer because neither of us are drummers, or only if we have to be. And we didn’t want to be drummers. So we got the perfect guy for this album. So he shaped the album because he connected with the music immediately. And so he shaped much of the rhythm of the album and he understood where this was going.\n\nAnders:\n\nHe didn’t get any kind of pointers from us, anything. We just sent our two guitar tracks up to him without anything added, how we wanted it to be. So, but when we got the result back from him, we just understood that he was connected to the project.\n\nSo, because when I play guitar, I of course have some drums in my head and I have some ideas. And I could say he matched 80% or 90% of my ideas but only better. It was exactly how I figured it was supposed to be. So yeah, couldn’t praise him more. He was just doing an amazing job. And he also spent a lot of time doing it all over and over and over again to make it perfect, he told us. So that’s kind of how we did it as well.\n\nNormally for Avrak, the rehearsal could last for like eight, nine, or 10 hours. And we could play only one song that day. That’s how we did this thing.\n\nSo it’s been a lot of grinding.\n\nTed:\n\nGrinding, yes.\n\nWhat about the lyrics? You don’t have to go into too much detail, but in general, what would you say the lyrical themes are on this album?\n\nTed:\n\nWell, I think the cover of the album says a lot about it. We have something to say, but I think good lyrics allow each individual to interpret those lyrics themselves.\n\nBut it’s very much about breaking free.\n\nAnders\n\n: It’s a lot of things. I don’t want to label what people are kind of breaking free from. It could be their life and things in their life, in their country or whatever. We try to write lyrics that are kind of universal. It’s not about trying to find the meaning, but trying to say something that people could interpret. So if I find a poem that I like, I want to read the poem and make out the meaning of the poem by myself.\n\nThose are the best poems, when it’s not that obvious what it’s all about.\n\nIt should feel like a work of art and not like a pamphlet that someone hands to you.\n\nAnders:\n\nYeah, I agree.\n\nTed:\n\nI have to say that for us, this has been one of the absolutely best studio sessions I’ve had in my entire life. I think the studio was a very special and atmospheric place.\n\nAnd also working with Mr. Valle, Knut Magne, was incredible. I mean, he’s just so professional and a calm guy. I think when I listen to the album now, it’s like being immediately taken back to that kind of atmosphere we had in the studio, which was absolutely awesome.\n\nThat’s great. Do you guys have any plans to play live or anything like that?\n\nTed:\n\nYeah, we did one show in our local town in April. And, but now with the album out, we are going to have a release concert in Oslo at the Revolver on the 7th of November. And we’re going to play in the Orgium Satanicum festival in Oslo on the 9th of January. And after that, we don’t know. I mean, we are up for playing live. So 2027 will be a good year for us to be taking on those concerts.\n\nLet’s say, younger fans or fans coming from an extreme metal standpoint check out your album and it’s like, “Oh, I wanna hear more stuff like this.” Do either of you have a few classics that you talked about before that you’d wanna list off?\n\nTed:\n\nYeah, well, that could be a lot of things. I mean, we did stretch the term “classics” a bit, after a while, but it’s fun. I mean, an obvious classic is “Shot in the Dark” by Ozzy Osbourne, that’s a classic.\n\nAnders:\n\nAnd if you like two guitars playing different stuff, you could listen to Thin Lizzy, perhaps.\n\nTed:\n\nYeah, Thin Lizzy is always a classic.\n\nRatt is classic for me. I mean, the guitar sound that Ratt had on the\n\nInvasion of Privacy\n\nalbum is a fantastic heavy metal guitar sound. I love that album.\n\nAnders:\n\nAnd one thing that I can say that we tried to do on this album is to make the guitar sound the way you would hear it when it comes out of the speaker when you stand in front of it and play. So that’s kind of like when you go out to a music store and try out the guitar and drive some distortion on and play. And that’s how I think that a guitar should sound. So, yeah, that’s kind of a classic way of thinking of the sound, I think.\n\nYou can always tell when bands put extra care into the album when you feel like they’re in the room with you playing. Whereas if it’s a little too produced, too modulated, it’s like, it doesn’t sound like a band anymore.\n\nTed:\n\nExactly. Exactly the point. I have to add a very important thing that when writing this album, we were sitting together in the same room and creating the music together. But so we also did that in studio.\n\nSo when we recorded those guitar tracks, it was together. We played the songs together live on the album. And I like that because then you get this kind of genuine feel that we’re actually playing together.\n\nAnders:\n\nThere’s probably some nerds out there saying “Oh, he’s playing that note that isn’t quite perfect” or something. And I’m perfectly happy with that because it’s rock and roll.\n\nWe played the songs live and we took two recordings of each song and that’s what’s on the album. But we spent a lot of hours to get to those recordings. So yeah.\n\nTed:\n\nYeah, it was fun.\n\nIt’s kind of like how they say “Measure 10 times and cut once.” I think it’s key to practice a lot and grind before you record and then record something really great. Because it doesn’t feel the same if you record like tons of takes then smash them all together and kind of make this Frankenstein.\n\nTed:\n\nI miss that time when bands were recording live more. I mean, rock and roll and metal should be slightly out of control, in my opinion. That makes it so, you know, you can hear that the band actually means what they’re doing.\n\nAnders:\n\nAnd by the name, it’s a record. So recorded this for five days and that’s what it is. So it’s kind of a timestamp of where we were at that time. We are already starting on some new songs. So for the next album, we’re probably gonna do the same thing and record where we were at that time. So I don’t think we’re going to spend three months in a studio. I would probably kill myself.\n\nTed:\n\nOh, that would be horrible.\n\nI actually got a text message from Fenriz today and he said like, I think it was about Black Sabbath. And it said that one of the albums was recorded in 12 hours and he was like really impressed. And that’s nice. I mean, I understand that. Because they recorded the single for “Evil Woman” and the B-side, “Wicked World” in 69’. And the remainder of the album was recorded in a single 12-hour session.\n\nYeah, there’s a clip that was going around for a while. It’s an interview with Ozzy in the early 80s where he’s talking about how, in the early days of Sabbath, they recorded first album in 12 hours and then Paranoid they recorded in like a week.\n\nBut then as they got bigger they kind of just melded into this mentality where they had to go to like exotic locations and take weeks and weeks. And he said by the time you get to Never Say Die, they’re in, they’re freezing in like Toronto at some place that some famous band mixed a live album or whatever. And he was saying what is the point of this? Like, I’m miserable and we’ve been here for weeks and it doesn’t feel like rock and roll anymore.\n\nTed:\n\nYeah. Yeah, because it has to be, back to what I said, that it should be slightly out of control. And I think to take your chances and just go for it, you know, I think that’s my way of doing things, I guess. And also with Darkthrone we don’t spend much time in the studio but we are well prepared.\n\nYeah, you wanna feel like you’re listening to human beings play music. I mean, for certain songs, playing to a click makes sense. But if you start to go beyond there it just starts to lose something.\n\nTed:\n\nYes, yes, it can, I know. I’ve been in projects before when some of the album is a bit overcut.\n\nAnders:\n\nI think there’s a minimal editing on this album.\n\nMaybe some things were moved from the take before but just the only the one thing. But everything is still played live.\n\nThe production should help you get closer to the sound that you really want, not further away from yourselves.\n\nTed:\n\nExactly, and I think, as I always said, the sound production and the sound you’re hearing is supposed to take the listener to your place, you know, whatever place you want it to be. And I always like to compare an album to a painting when you can have a like a really massive, amazing painting in your living room. And that’s the music and the riffs and the production sound is the frame around that picture.\n\nAnd you can also, of course, slap just a flat plastic frame around your massive, nice painting, but it’s better to have some exotic wood and carve out the details, you know, it takes people to your place.\n\nAVRAK by AVRAK",
+      "tags": "Interviews Avrak Heavy Metal Nocturno Culto Norway",
+      "category": "Прогрессив",
+      "published": "2026-10-21T16:00:46+00:00",
+      "id": "135a467714a6e41a67f7991d12878b75db4fa0d5",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Meat Loaf’s Long Road to ‘Bat Out of Hell'",
+      "link": "https://ultimateclassicrock.com/meat-loaf-bat-out-of-hell/",
+      "rss_body": "Todd Rundgren tells UCR how he and others worked hard to help the singer and his collaborator, Jim Steinman, bring their ambitious vision to life.",
+      "tags": "Exclusive Interviews News Meat Loaf Todd Rundgren UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-21T16:00:01+00:00",
+      "id": "88a3eabd8952414a2db7c27756430d555ce17d58",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "When Julian Cope entered the prog-pop world of Syd Barrett, 13th Floor Elevators and Love",
+      "link": "https://www.loudersound.com/music/albums/julian-cope-fried-prog-credentials",
+      "rss_body": "After having moved on from The Teardrop Explodes,\n\nJulian Cope\n\nreleased his second solo album,\n\nFried\n\n, in 1984. It was received with bewilderment and confusion by many, but in 2014 Prog argued that it should be seen as a rewarding – if flawed – prog-pop experiment.\n\nAfter a whirlwind four years fronting psychedelic-loving post-punks The Teardrop Explodes, and a level of LSD ingestion that could only be described as heroic, Julian Cope was living in the Staffordshire village of Drayton Bassett, wide-eyed, paranoid and nurturing an obsession with accumulating toy cars. Rock music had gobbled up another young soul.\n\nOr so it seemed – in fact, he was of a sterner disposition, and way more than the drooling eccentric and/or preening narcissist dismissed by the press. While his contemporaries fed their egos with stadium rock and philanthropy, Cope burrowed deep into the subjects that actually interested him. Those included mythology, paganism, krautrock, psychedelia.\n\nHe had looked into the abyss and seen\n\nBono\n\n’s puckered face staring back at him, and now he was a man on a mission to show the world he meant business.\n\nThe world, however, took one look at the cover of\n\nFried\n\n, beheld an emaciated Cope crawling through the dirt wearing nothing but a turtle shell – and needed some convincing. “Nothing I do is ironic,” Cope has since said. “Irony is the last refuge of the scoundrel.”\n\nIt sold even fewer copies than\n\nWorld Shut Your Mouth\n\n, released six months earlier, and resulted him being dropped by his label. It’s a flawed work, but rich too, and a return visit today is highly rewarding.\n\nEpic, anthropomorphic opener\n\nReynard The Fox\n\n(categorically not the\n\nFairport Convention\n\nsong of the same name) is written from the perspective of a hunted animal: ‘\n\nHey in the pouring rain/When the smell of terror brings a thousand eyes/The red men come again/They kill my children and they kill my wife\n\n.’\n\nFeaturing a nostalgic\n\nDoors\n\n-esque spoken-word mid-section about Cope’s beloved Warwickshire countryside, and a conclusion that alludes to the singer’s propensity for self-abuse, this is the music of mythical England at its bloodiest.\n\nMeanwhile, the barbed\n\nBill Drummond Says\n\ntreads that finest of lines between jangly indie and prog-pop, and is inspired by former Teardrop Explodes manager Drummond’s own\n\nJulian Cope Is Dead\n\n.\n\nWith its neat, elegant arrangements,\n\nHoly Love\n\nis a joyous pop song –\n\nScott Walker\n\nreborn as a lanky plank with saucer eyes – and the single\n\nSunspots\n\nis a thoroughly uplifting piece of oompah-pop.\n\nAnd that’s the thing about\n\nFried\n\n: for all its obvious signs of embracing cult status, here Cope is a pop fan – albeit the type of skewed pop written by\n\nSyd Barrett\n\n,\n\n13th Floor Elevators\n\nor\n\nLove\n\n.\n\nWith its feet deep in English soil, it’s music that’s plugged into an alternative national grid of stone circles and ley lines, political dissent, wanton hedonism, burned psyches and individuality.\n\nFried\n\nis punk in approach but prog in outlook; it’s earthy, timeless and slightly ludicrous – and all the better for it.",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-10-21T16:00:00+00:00",
+      "id": "8636124a27a8ef9dc75ba79f40440c49c0816d2a",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Rotting Christ – Triarchy of the Lost Lovers",
+      "link": "https://www.decibelmagazine.com/2026/10/21/rotting-christ-triarchy-of-the-lost-lovers/",
+      "rss_body": "Hellas Heroes\n\nThe Making of Rotting Christ’s\n\nTriarchy of the Lost Lovers\n\nLegends Rotting Christ had an outsized impact on the early black metal scene, and before the second wave was in veritable flames, the Athens-based had already volleyed the now-classic\n\nPassage to Arcturo\n\nEP from their historic city. Through their Hall of Fame debut LP\n\nThy Mighty Contract\n\n(1993) and its follow-up\n\nNon Serviam\n\n(1994), the group—then featuring Sakis “Necromayhem” Tolis, Themis “Necrosavron” Tolis, Jim “Mutilator” Patsouris and George “The Magus” Zacharopoulos—forged a sound as unique as their neighbors to the far north. Labeled by ardent fans as “Hellenic black metal,” the havoc of aggression, melody and mystical “Southern” atmospheres advanced by Rotting Christ (as well as Varathron and Necromantia) were sonically closer to Hell (warmer, resonating tones).\n\nLess interested in following the Continental herd, Rotting Christ, now a trio following the departure of The Magus and feeling the weight of age (from teenage tearaways to twentysomethings with a vision), moved to position their future. The slogan “Non serviam” (“I will not serve” in Latin) wasn’t a rallying cry, but a core belief. They imbued that ethos into songs that would follow more traditional songwriting form, a hat tip to their heavy metal influences. When Rotting Christ and their new label Century Media unveiled\n\nTriarchy of the Lost Lovers\n\nin the spring of 1996, it was clear black metal was no longer mired in unvarying monochromatic expression. Opening track “King of a Stellar War” was anthemic, a larger-than-life victory march for a band who had nearly collapsed years before.\n\nThe road to\n\nTriarchy of the Lost Lovers\n\nwasn’t easy. Rotting Christ’s grimoire of almost-failures, the seminal Fuck Christ Tour in 1993, of near-deaths traversing countries in search of a new label, and avoiding the\n\nstratologia\n\n(conscription into the Hellenic Armed Forces) is almost unbelievable. Yet, hardship and love for metal, blackened or otherwise, conspired in Rotting Christ to create one of the most important blackened metal albums of our age. From the album’s clutch opener to the rampaging “Archon” and the controlled furor of “Shadows Follow,”\n\nTriarchy of the Lost Lovers\n\nlooms large. They were, in fact, Hellenic black metal perfected.\n\nRefinement is largely credited to producer Andy “Angelraper” Classen, who experienced high-end death firsthand with Asphyx’s self-titled and Belphegor’s\n\nThe Last Supper\n\nin the years prior. That said, even with Classen’s sleights of hand, Necromayhem’s songs, particularly “A Dynasty From the Ice,” “One With the Forest” and the reworked “Snowing Still,” were gems on a diadem spoiled for choice.\n\nRotting Christ’s impact on present-day extreme metal is significant, and the group’s continued evolution and work-hardened ethics of today have their locus in\n\nTriarchy of the Lost Lovers\n\n.\n\nDecibel\n\nis hereby honored to induct said album into our hallowed Hall.\n\nNeed more classic Rotting Christ? To read the entire seven-page story, featuring interviews with all three members who performed on\n\nTriarchy of the Lost Lovers\n\npurchase the print issue from our\n\nstore\n\n, or\n\ndigitally\n\nvia our app for iPhone/iPad or Android.",
+      "tags": "Hall of Fame Rotting Christ Triarchy of the Lost Lovers",
+      "category": "Экстремальный метал",
+      "published": "2026-10-21T15:41:07+00:00",
+      "id": "d9c272590d52b8daf2c5cfcf1b93e00df45edaf7",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Burn Eternal (Howard Jones and Adam D. of Killswitch Engage) Signs to Metal Blade, Reveal New Music Coming Soon",
+      "link": "https://metalinjection.net/news/burn-eternal-howard-jones-and-adam-d-of-killswitch-engage-signs-to-metal-blade-reveal-new-music-coming-soon",
+      "rss_body": "Don't panic! It's happening! Everyone stay f*cking calm!",
+      "tags": "Latest News Adam Dutkiewicz howard jones featured Burn Eternal",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T15:26:10+00:00",
+      "id": "d4380dfdf8d80ff81edf42cbe0781406df9fcc2c",
+      "retry_after": 0
     }
   ]
 }
