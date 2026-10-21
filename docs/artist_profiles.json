@@ -2082,10 +2082,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "https://imotorhead.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mot%C3%B6rhead",
-      "reference_checked_at": "2026-10-14T10:39:00.939978+00:00",
+      "reference_checked_at": "2026-10-21T10:43:32.370199+00:00",
       "tour_attempted_at": "2026-10-18T22:00:59.941092+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T10:39:00.940114+00:00"
+      "reference_attempted_at": "2026-10-21T10:43:32.370365+00:00"
     },
     "motley-crue": {
       "origin": "Hollywood, California , U.S.",
@@ -2112,10 +2112,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://motley.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Motley_Crue",
-      "reference_checked_at": "2026-10-14T10:39:01.423342+00:00",
+      "reference_checked_at": "2026-10-21T10:43:32.895912+00:00",
       "tour_attempted_at": "2026-10-18T22:01:00.345543+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T10:39:01.423524+00:00"
+      "reference_attempted_at": "2026-10-21T10:43:32.896094+00:00"
     },
     "opeth": {
       "origin": "Stockholm , Sweden",
@@ -2146,7 +2146,7 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://opeth.com",
       "reference_url": "https://en.wikipedia.org/wiki/Opeth",
-      "reference_checked_at": "2026-10-14T10:39:01.593240+00:00",
+      "reference_checked_at": "2026-10-21T10:43:33.138731+00:00",
       "reviewed": {
         "members": [
           {
@@ -2211,7 +2211,7 @@
       "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
       "tour_attempted_at": "2026-10-17T14:25:56.803186+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T10:39:01.593260+00:00"
+      "reference_attempted_at": "2026-10-21T10:43:33.138752+00:00"
     },
     "nightwish": {
       "origin": "Kitee , Finland",
@@ -2231,10 +2231,6 @@
           "role": ""
         },
         {
-          "name": "Floor Jansen",
-          "role": ""
-        },
-        {
           "name": "Kai Hahto",
           "role": ""
         },
@@ -2246,10 +2242,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://nightwish.com",
       "reference_url": "https://en.wikipedia.org/wiki/Nightwish",
-      "reference_checked_at": "2026-10-14T10:39:01.789114+00:00",
+      "reference_checked_at": "2026-10-21T10:43:33.409164+00:00",
       "tour_attempted_at": "2026-10-19T00:15:04.171772+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T10:39:01.789136+00:00"
+      "reference_attempted_at": "2026-10-21T10:43:33.409185+00:00"
     },
     "of-mice-men": {
       "origin": "",
@@ -2260,8 +2256,8 @@
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Of_Mice_%26_Men",
       "reference_checked_at": "2026-10-02T02:23:33.014549+00:00",
-      "reference_retry_after": 1792060742,
-      "reference_attempted_at": "2026-10-14T10:39:02.838287+00:00"
+      "reference_retry_after": 1792665813,
+      "reference_attempted_at": "2026-10-21T10:43:33.652082+00:00"
     },
     "pearl-jam": {
       "origin": "Seattle , Washington, U.S.",
@@ -2288,10 +2284,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://pearljam.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pearl_Jam",
-      "reference_checked_at": "2026-10-14T10:39:03.060288+00:00",
+      "reference_checked_at": "2026-10-21T10:43:33.991247+00:00",
       "tour_attempted_at": "2026-10-19T00:15:04.326968+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T10:39:03.060309+00:00"
+      "reference_attempted_at": "2026-10-21T10:43:33.991267+00:00"
     },
     "pain-of-salvation": {
       "origin": "Eskilstuna , Sweden",
@@ -4404,7 +4400,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Skid_Row_%28American_band%29",
       "reference_checked_at": "2026-10-16T00:42:40.403170+00:00",
       "reference_attempted_at": "2026-10-16T00:42:40.403186+00:00",
-      "tour_attempted_at": "2026-10-16T23:53:12.510287+00:00"
+      "tour_attempted_at": "2026-10-21T10:43:34.744472+00:00"
     },
     "sodom": {
       "origin": "Gelsenkirchen , North Rhine-Westphalia, West Germany",
@@ -4426,7 +4422,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Sodom_%28band%29",
       "reference_checked_at": "2026-10-16T05:13:32.110063+00:00",
       "reference_attempted_at": "2026-10-16T05:13:32.110155+00:00",
-      "tour_attempted_at": "2026-10-16T23:53:14.316696+00:00"
+      "tour_attempted_at": "2026-10-21T10:43:36.197506+00:00"
     },
     "suffocation": {
       "origin": "Centereach, New York , U.S.",
@@ -4460,7 +4456,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Suffocation_%28band%29",
       "reference_checked_at": "2026-10-16T05:13:32.504478+00:00",
       "reference_attempted_at": "2026-10-16T05:13:32.504572+00:00",
-      "tour_attempted_at": "2026-10-16T23:53:14.614145+00:00"
+      "tour_attempted_at": "2026-10-21T10:43:36.714860+00:00"
     },
     "tesla": {
       "origin": "Sacramento, California , U.S.",
@@ -4494,7 +4490,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Tesla_%28band%29",
       "reference_checked_at": "2026-10-16T05:13:32.617581+00:00",
       "reference_attempted_at": "2026-10-16T05:13:32.617602+00:00",
-      "tour_attempted_at": "2026-10-16T23:53:15.035603+00:00"
+      "tour_attempted_at": "2026-10-21T10:43:37.123961+00:00"
     },
     "testament": {
       "origin": "Berkeley, California , U.S.",

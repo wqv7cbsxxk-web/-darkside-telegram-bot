@@ -4099,7 +4099,7 @@
     "bruce-springsteen": {
       "name": "Bruce Springsteen",
       "musicbrainz_url": "https://musicbrainz.org/artist/70248960-cb53-4ea4-943a-edb18f7d336f",
-      "reference_checked_at": "2026-10-04T22:47:06.319022+00:00",
+      "reference_checked_at": "2026-10-21T10:43:45.072320+00:00",
       "genres": "alternative folk, americana, aor, classic rock, contemporary folk, folk, folk rock, heartland rock, pop rock, rock, rock and roll, singer-songwriter, soft rock",
       "website": "https://brucespringsteen.net/",
       "members": [],
@@ -4640,7 +4640,7 @@
           "source_url": "https://musicbrainz.org/release-group/d875c2f0-27d5-4946-81f9-3ebaf6636ccd"
         },
         {
-          "name": "The Album Collection Vol. 2, 1987–1996",
+          "name": "The Album Collection, Vol. 2: 1987–1996",
           "date": "2018-05-18",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/d94d0f16-8d93-4fd1-aa81-3770da717079"
@@ -30434,8 +30434,8 @@
     "black-sabbath": "2026-10-21T00:58:28.981874+00:00",
     "blind-channel": "2026-10-21T05:43:58.272574+00:00",
     "blue-oyster-cult": "2026-10-21T05:43:59.511293+00:00",
-    "bruce-springsteen": "2026-10-04T22:47:06.319218+00:00",
-    "camel": "2026-10-04T22:47:07.564597+00:00",
+    "bruce-springsteen": "2026-10-21T10:43:45.072557+00:00",
+    "camel": "2026-10-21T10:43:46.333744+00:00",
     "cannibal-corpse": "2026-10-05T01:20:32.515660+00:00",
     "carcass": "2026-10-05T01:20:36.519387+00:00",
     "dark-tranquillity": "2026-10-05T07:14:03.164471+00:00",
