@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-20T22:31:36.179961+00:00"
+      "bandcamp_checked_at": "2026-10-21T22:49:13.262739+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -6188,7 +6188,7 @@
     "deep-purple": {
       "name": "Deep Purple",
       "musicbrainz_url": "https://musicbrainz.org/artist/79491354-3d83-40e3-9d8e-7592d58d790a",
-      "reference_checked_at": "2026-10-05T16:02:31.342195+00:00",
+      "reference_checked_at": "2026-10-21T22:49:03.227582+00:00",
       "genres": "blues rock, classic rock, hard rock, heavy metal, progressive rock, rock",
       "website": "https://www.deep-purple.com/",
       "members": [
@@ -30417,6 +30417,360 @@
           "source_url": "https://musicbrainz.org/release-group/fea5b2a9-1f3f-3b34-a419-2f1323a24c88"
         }
       ]
+    },
+    "death": {
+      "name": "Death",
+      "musicbrainz_url": "https://musicbrainz.org/artist/dbb3b771-ae77-4381-b61c-758b5b7898ec",
+      "reference_checked_at": "2026-10-21T22:48:59.058680+00:00",
+      "genres": "death metal, metal, progressive metal, technical death metal",
+      "bandcamp_url": "https://death.bandcamp.com/",
+      "website": "https://www.emptywords.org/",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/dbb3b771-ae77-4381-b61c-758b5b7898ec",
+      "albums": [
+        {
+          "name": "Symphonic Technicalogy: Live in Japan 1995",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0409a136-8628-4fe4-b679-8c6effbbfd0b"
+        },
+        {
+          "name": "Live in Eindhoven ’98",
+          "date": "2001-10-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0cb0f829-96db-3a1e-9055-eb545b5422c4"
+        },
+        {
+          "name": "The Sound of Perseverance",
+          "date": "1998-09-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0cd38da9-90a9-3e0b-bef6-e70036c8a619"
+        },
+        {
+          "name": "Live 11/9/84",
+          "date": "1984-11-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1dd596f4-7b47-45f5-a3ad-f575e10e83c1"
+        },
+        {
+          "name": "#1 #2 & Rehearsal Demos",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2569b04e-47ff-4715-9d76-1520c4bf1918"
+        },
+        {
+          "name": "Rehearsal tape #1",
+          "date": "1985",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2e62c9ff-1216-4dca-afdd-e09587b75eba"
+        },
+        {
+          "name": "Live in L.A. (Death & Raw)",
+          "date": "2001-09-17",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/393c6b04-8cdd-3b6d-a9c5-419fb820ecb4"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - Chicago, IL 01-21-1988",
+          "date": "2020-04-14",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3a4f1a93-3812-45f1-a4d9-a1f1560a8e74"
+        },
+        {
+          "name": "Rehearsal tape #9",
+          "date": "1985-07-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3e4e5e78-e197-43f3-be56-025f2250de95"
+        },
+        {
+          "name": "Total Zombie Death",
+          "date": "1984-11-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/485f7399-ce8a-4065-b129-c1f813344f9b"
+        },
+        {
+          "name": "Scream Bloody Gore",
+          "date": "1987-05-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4b2378ca-9617-3b4a-bac3-dcc23a0467bf"
+        },
+        {
+          "name": "Rigor Mortis",
+          "date": "1985-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4e1aab09-7eb3-4f7e-b1a3-2a9f849c8ec5"
+        },
+        {
+          "name": "Live Tape #2",
+          "date": "1984-09-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4fc0dff0-049f-4af6-8aae-78526a4eeda9"
+        },
+        {
+          "name": "Rehearsal tape #13",
+          "date": "1986-03-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/50117f11-e22f-4aff-b088-90ae0f8beeb7"
+        },
+        {
+          "name": "Scream Bloody Gore Aborted Sessions",
+          "date": "1986-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/567b29e6-4697-41f3-b0c6-a9837e9180c1"
+        },
+        {
+          "name": "Rehearsal tape #7",
+          "date": "1985-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/56f63d07-3e25-4339-b564-98111ba5fb0f"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - Belgium 12-23-1991",
+          "date": "2020-06-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/589f0288-bb7e-48af-a9a2-93646f80d54a"
+        },
+        {
+          "name": "Infernal Death",
+          "date": "1985-03-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/61e09f34-7cc1-4c42-b619-65a1c7c5952d"
+        },
+        {
+          "name": "Human",
+          "date": "1991-10-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6346903b-4480-3b0f-adef-90fe0b338509"
+        },
+        {
+          "name": "Rehearsal tape #5",
+          "date": "1985-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/64625ea3-f810-4c47-a6a2-3db38d5951bb"
+        },
+        {
+          "name": "Demo #3 #4 #5",
+          "date": "2003",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/64fd18a4-1246-4fc2-a5a5-099d7eb54afb"
+        },
+        {
+          "name": "Leprosy Demos",
+          "date": "1987-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6ae4c78f-08ba-4e06-a63d-fb9efe859215"
+        },
+        {
+          "name": "Vivus!",
+          "date": "2012-02-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/71c8c4a6-fc96-4847-aa45-ea904ef6bc8c"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - New Rochelle, NY 12-03-1988",
+          "date": "2020-08-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/73defe3c-19b3-4eea-b27a-51a26e93472d"
+        },
+        {
+          "name": "Infernal Death (demo) / Back From the Dead (demo) / Mutilation (demo) / 1986-08-20: FL, USA / 1987: Brandon, FL, USA (live)",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/7bcfec7b-e83f-3d68-af14-db849376759f"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - 1990, 1991 Unknown",
+          "date": "2020-05-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7c71bf04-317d-4f5a-8e7a-d6d4faee50be"
+        },
+        {
+          "name": "Rehearsal tape #8",
+          "date": "1985-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7d036a9a-b396-45fb-aab7-549920b62c3f"
+        },
+        {
+          "name": "Victims of Death: The Best of Decade of Chaos",
+          "date": "1999",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/817f75b4-f061-462b-9559-f1901e3c1bc5"
+        },
+        {
+          "name": "Individual Thought Patterns",
+          "date": "1993-06-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/94554b6c-2d9e-3174-89f0-94aec0b285e9"
+        },
+        {
+          "name": "Early Demos",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/94997c1a-c701-4490-898e-65f9caf99f35"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - Detroit, MI 1993",
+          "date": "2020-07-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9574b5e3-1689-4392-bcfc-a0976cf4b8dc"
+        },
+        {
+          "name": "Fate: The Best of Death",
+          "date": "1992",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/98c4c184-34ff-314c-9014-19a680a9eed6"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - Montreal 06-22-1995",
+          "date": "2020-03-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9affd082-3bbd-4ada-b834-bafd8cf7c11b"
+        },
+        {
+          "name": "Live at Ruthie’s Inn",
+          "date": "1985-11-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9de98213-bdcc-4149-ad06-f4e81296480b"
+        },
+        {
+          "name": "Rehearsal tape #11",
+          "date": "1985-08-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/9e634b65-c187-401b-a9e4-683dd6510421"
+        },
+        {
+          "name": "Live Tape #4",
+          "date": "1984-11-20",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a0b47b89-ef9d-41cc-a118-750739f9fa83"
+        },
+        {
+          "name": "Death by Metal",
+          "date": "1984",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/afb258c0-a29d-4b68-ac85-2254497ae73e"
+        },
+        {
+          "name": "Back From the Dead",
+          "date": "1985",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b0ea55b1-2a5b-359b-b521-c984743334ff"
+        },
+        {
+          "name": "Rehearsal tape #12",
+          "date": "1985-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b72f89c0-121e-4de7-9ea1-a05517868610"
+        },
+        {
+          "name": "Symbolic",
+          "date": "1995-03-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/bd675025-abcb-3536-9e19-ba3204c0183d"
+        },
+        {
+          "name": "Baptized in Blood",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bee2ba3e-250a-37a4-8080-a11774d5db2e"
+        },
+        {
+          "name": "Opened Casket",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c4c16a6d-ca75-46a1-b1f8-75ef7194ee0a"
+        },
+        {
+          "name": "Death",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c877f1d4-5ee0-4415-960a-72d243cc8703"
+        },
+        {
+          "name": "Live in Cottbus ’98",
+          "date": "2005-11-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ca7bd7b3-e84a-4fb9-9f33-c114534f1c0b"
+        },
+        {
+          "name": "Mutilation",
+          "date": "1986-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cdc38384-f09a-481f-bf53-f24fd97a6137"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - Tampa, FL 02-10-1989",
+          "date": "2020-06-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dd02cb5f-d1b6-40eb-a7c9-556ed180fc38"
+        },
+        {
+          "name": "1985 Rehearsals",
+          "date": "2013-06-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dfa1c1e0-b647-476e-ac1e-4f42e4def35a"
+        },
+        {
+          "name": "Reign of Terror",
+          "date": "1984-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e05f2c7b-5bc0-4057-90a2-8a8876f83f7d"
+        },
+        {
+          "name": "Infernal Live",
+          "date": "1984-12-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e1899b9d-48e4-4acc-a05f-de3bdae68eb9"
+        },
+        {
+          "name": "The Demo-Tapes",
+          "date": "",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e457c42e-e911-4ecc-baf7-6fe0aadae342"
+        },
+        {
+          "name": "Leprosy",
+          "date": "1988-11-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e4f11dc7-ed0c-4fb2-bdf7-b1a6240bd167"
+        },
+        {
+          "name": "Spiritual Healing",
+          "date": "1990-02-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ecc036f3-d7c6-3594-a19f-e6ca76c15f29"
+        },
+        {
+          "name": "Rehearsal tape #6",
+          "date": "1985-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ef13db62-eabe-4b4a-a0d2-4423eb3c968e"
+        },
+        {
+          "name": "Rehearsal tape #2",
+          "date": "1985",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f6678152-e3a5-4ce0-a9df-d574a16dfb89"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - Tijuana 10-06-1990",
+          "date": "2020-04-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fa3c9db1-9fdf-48fe-92fc-ff739d436c91"
+        },
+        {
+          "name": "Rehearsal tape #10",
+          "date": "1985-07-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fc076d38-5560-4346-b192-57f413d951fe"
+        },
+        {
+          "name": "Non:Analog - On:Stage Series - Showcase Theater, CA 07-14-1995",
+          "date": "2020-05-15",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fc4535fe-27b3-47ac-8c43-6f653b18b24f"
+        }
+      ]
     }
   },
   "checked": {
@@ -30440,8 +30794,8 @@
     "carcass": "2026-10-21T15:45:51.608010+00:00",
     "dark-tranquillity": "2026-10-21T19:40:21.081392+00:00",
     "darkthrone": "2026-10-21T19:40:24.917350+00:00",
-    "death": "2026-10-05T16:02:26.872493+00:00",
-    "deep-purple": "2026-10-05T16:02:31.342385+00:00",
+    "death": "2026-10-21T22:48:59.058840+00:00",
+    "deep-purple": "2026-10-21T22:49:03.227748+00:00",
     "def-leppard": "2026-10-05T22:27:11.946312+00:00",
     "deftones": "2026-10-05T22:27:15.979863+00:00",
     "deicide": "2026-10-06T02:25:58.539103+00:00",

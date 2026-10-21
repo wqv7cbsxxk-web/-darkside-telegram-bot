@@ -132,7 +132,7 @@
       "website": "http://aerosmith.com",
       "reference_url": "https://en.wikipedia.org/wiki/Aerosmith",
       "reference_checked_at": "2026-10-19T10:24:15.281785+00:00",
-      "tour_attempted_at": "2026-10-17T11:36:17.201646+00:00",
+      "tour_attempted_at": "2026-10-21T22:48:48.693382+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-19T10:24:15.281799+00:00"
     },
@@ -166,7 +166,7 @@
       "website": "http://archenemy.net",
       "reference_url": "https://en.wikipedia.org/wiki/Arch_Enemy",
       "reference_checked_at": "2026-10-19T10:24:15.385379+00:00",
-      "tour_attempted_at": "2026-10-17T11:36:17.630795+00:00",
+      "tour_attempted_at": "2026-10-21T22:48:49.187326+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-19T10:24:15.385392+00:00"
     },
@@ -196,7 +196,7 @@
       "website": "http://www.atthegates.se/",
       "reference_url": "https://en.wikipedia.org/wiki/At_The_Gates",
       "reference_checked_at": "2026-10-19T10:24:15.507893+00:00",
-      "tour_attempted_at": "2026-10-17T11:36:18.965578+00:00",
+      "tour_attempted_at": "2026-10-21T22:48:50.484753+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-19T10:24:15.507905+00:00"
     },
@@ -226,7 +226,7 @@
       "website": "http://aliceinchains.com",
       "reference_url": "https://en.wikipedia.org/wiki/Alice_In_Chains",
       "reference_checked_at": "2026-10-19T17:06:54.793722+00:00",
-      "tour_attempted_at": "2026-10-17T11:36:19.645152+00:00",
+      "tour_attempted_at": "2026-10-21T22:48:51.347758+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-19T17:06:54.793964+00:00"
     },
@@ -2469,10 +2469,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rammstein.de",
       "reference_url": "https://en.wikipedia.org/wiki/Rammstein",
-      "reference_checked_at": "2026-10-14T19:42:04.992947+00:00",
+      "reference_checked_at": "2026-10-21T22:48:46.011141+00:00",
       "tour_attempted_at": "2026-10-19T10:24:16.956222+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T19:42:04.993039+00:00"
+      "reference_attempted_at": "2026-10-21T22:48:46.011296+00:00"
     },
     "rainbow": {
       "origin": "Hertford , Hertfordshire , England",
@@ -2503,9 +2503,9 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Rainbow_%28rock_band%29",
-      "reference_checked_at": "2026-10-14T19:42:05.075121+00:00",
+      "reference_checked_at": "2026-10-21T22:48:46.094870+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T19:42:05.075149+00:00"
+      "reference_attempted_at": "2026-10-21T22:48:46.094891+00:00"
     },
     "rage-against-the-machine": {
       "origin": "Los Angeles, California, U.S.",
@@ -2532,10 +2532,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://ratm.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rage_Against_The_Machine",
-      "reference_checked_at": "2026-10-14T19:42:05.429756+00:00",
+      "reference_checked_at": "2026-10-21T22:48:46.756510+00:00",
       "tour_attempted_at": "2026-10-19T10:24:17.351662+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T19:42:05.429864+00:00"
+      "reference_attempted_at": "2026-10-21T22:48:46.756695+00:00"
     },
     "rush": {
       "origin": "Toronto , Ontario, Canada",
@@ -2554,10 +2554,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rush.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rush_%28band%29",
-      "reference_checked_at": "2026-10-14T19:42:05.682257+00:00",
+      "reference_checked_at": "2026-10-21T22:48:47.023973+00:00",
       "tour_attempted_at": "2026-10-19T10:24:18.021026+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T19:42:05.682389+00:00"
+      "reference_attempted_at": "2026-10-21T22:48:47.024180+00:00"
     },
     "sepultura": {
       "origin": "Belo Horizonte , Minas Gerais , Brazil",
@@ -2584,10 +2584,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://sepultura.com.br",
       "reference_url": "https://en.wikipedia.org/wiki/Sepultura",
-      "reference_checked_at": "2026-10-14T19:42:05.847571+00:00",
+      "reference_checked_at": "2026-10-21T22:48:47.186817+00:00",
       "tour_attempted_at": "2026-10-19T10:24:19.167801+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T19:42:05.847597+00:00"
+      "reference_attempted_at": "2026-10-21T22:48:47.186840+00:00"
     },
     "slayer": {
       "origin": "Huntington Park, California , U.S.",
@@ -2614,10 +2614,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://slayer.net",
       "reference_url": "https://en.wikipedia.org/wiki/Slayer",
-      "reference_checked_at": "2026-10-14T19:42:06.086018+00:00",
+      "reference_checked_at": "2026-10-21T22:48:47.417209+00:00",
       "tour_attempted_at": "2026-10-19T17:06:57.394408+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T19:42:06.086055+00:00"
+      "reference_attempted_at": "2026-10-21T22:48:47.417231+00:00"
     },
     "static-dress": {
       "origin": "Leeds , West Yorkshire , England",
