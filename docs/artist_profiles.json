@@ -1874,10 +1874,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://manowar.com",
       "reference_url": "https://en.wikipedia.org/wiki/Manowar",
-      "reference_checked_at": "2026-10-14T05:42:51.565585+00:00",
+      "reference_checked_at": "2026-10-21T05:43:41.596115+00:00",
       "tour_attempted_at": "2026-10-18T19:45:13.621212+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T05:42:51.565688+00:00"
+      "reference_attempted_at": "2026-10-21T05:43:41.596274+00:00"
     },
     "megadeth": {
       "origin": "Los Angeles , California , U.S.",
@@ -1904,10 +1904,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://megadeth.com",
       "reference_url": "https://en.wikipedia.org/wiki/Megadeth",
-      "reference_checked_at": "2026-10-14T05:42:51.830588+00:00",
+      "reference_checked_at": "2026-10-21T05:43:41.902631+00:00",
       "tour_attempted_at": "2026-10-18T19:45:14.643127+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T05:42:51.830823+00:00"
+      "reference_attempted_at": "2026-10-21T05:43:41.902849+00:00"
     },
     "meshuggah": {
       "origin": "Umeå , Sweden",
@@ -1938,10 +1938,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://meshuggah.net",
       "reference_url": "https://en.wikipedia.org/wiki/Meshuggah",
-      "reference_checked_at": "2026-10-14T05:42:52.013415+00:00",
+      "reference_checked_at": "2026-10-21T05:43:42.078202+00:00",
       "tour_attempted_at": "2026-10-18T19:45:16.274831+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T05:42:52.013436+00:00"
+      "reference_attempted_at": "2026-10-21T05:43:42.078225+00:00"
     },
     "metallica": {
       "origin": "Los Angeles , California, U.S.",
@@ -1968,10 +1968,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://metallica.com",
       "reference_url": "https://en.wikipedia.org/wiki/Metallica",
-      "reference_checked_at": "2026-10-14T05:42:52.244834+00:00",
+      "reference_checked_at": "2026-10-21T05:43:42.332039+00:00",
       "tour_attempted_at": "2026-10-18T19:45:16.833697+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T05:42:52.244987+00:00"
+      "reference_attempted_at": "2026-10-21T05:43:42.332430+00:00"
     },
     "morbid-angel": {
       "origin": "Tampa, Florida , U.S.",
@@ -1998,10 +1998,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://morbidangel.com",
       "reference_url": "https://en.wikipedia.org/wiki/Morbid_Angel",
-      "reference_checked_at": "2026-10-14T05:42:52.373687+00:00",
+      "reference_checked_at": "2026-10-21T05:43:42.481565+00:00",
       "tour_attempted_at": "2026-10-18T22:00:58.683804+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T05:42:52.373708+00:00"
+      "reference_attempted_at": "2026-10-21T05:43:42.481587+00:00"
     },
     "napalm-death": {
       "origin": "Meriden, West Midlands , England",
@@ -2028,10 +2028,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://napalmdeath.org/",
       "reference_url": "https://en.wikipedia.org/wiki/Napalm_Death",
-      "reference_checked_at": "2026-10-14T05:42:52.466422+00:00",
+      "reference_checked_at": "2026-10-21T05:43:42.575073+00:00",
       "tour_attempted_at": "2026-10-18T22:00:59.628464+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T05:42:52.466442+00:00"
+      "reference_attempted_at": "2026-10-21T05:43:42.575093+00:00"
     },
     "motorhead": {
       "origin": "London , England",
@@ -4181,7 +4181,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Periphery_%28band%29",
       "reference_checked_at": "2026-10-16T00:42:39.212768+00:00",
       "reference_attempted_at": "2026-10-16T00:42:39.212820+00:00",
-      "tour_attempted_at": "2026-10-16T21:27:28.612709+00:00"
+      "tour_attempted_at": "2026-10-21T05:43:43.199500+00:00"
     },
     "riverside": {
       "origin": "Warsaw , Poland",
@@ -4203,7 +4203,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Riverside_%28band%29",
       "reference_checked_at": "2026-10-16T00:42:39.499224+00:00",
       "reference_attempted_at": "2026-10-16T00:42:39.499238+00:00",
-      "tour_attempted_at": "2026-10-16T21:27:30.109268+00:00"
+      "tour_attempted_at": "2026-10-21T05:43:44.745562+00:00"
     },
     "saxon": {
       "origin": "Barnsley , Yorkshire , England",
@@ -4229,7 +4229,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Saxon_%28band%29",
       "reference_checked_at": "2026-10-16T00:42:39.736823+00:00",
       "reference_attempted_at": "2026-10-16T00:42:39.736837+00:00",
-      "tour_attempted_at": "2026-10-16T21:27:31.065646+00:00"
+      "tour_attempted_at": "2026-10-21T05:43:45.460194+00:00"
     },
     "scorpions": {
       "origin": "Hanover , West Germany",
@@ -4264,6 +4264,13 @@
       "reference_checked_at": "2026-10-16T00:42:39.880751+00:00",
       "reference_attempted_at": "2026-10-16T00:42:39.880803+00:00",
       "events": [
+        {
+          "date": "2027-06-26",
+          "city": "Oslo",
+          "country": "Norway",
+          "venue": "Tons of Rock",
+          "source_url": "http://the-scorpions.com"
+        },
         {
           "date": "2027-08-27",
           "city": "Zapopan",
@@ -4326,18 +4333,11 @@
           "country": "United States",
           "venue": "PH Live at Planet Hollywood",
           "source_url": "http://the-scorpions.com"
-        },
-        {
-          "date": "2027-09-23",
-          "city": "Las Vegas",
-          "country": "United States",
-          "venue": "PH Live at Planet Hollywood",
-          "source_url": "http://the-scorpions.com"
         }
       ],
-      "tour_checked_at": "2026-10-16T21:27:33.287812+00:00",
+      "tour_checked_at": "2026-10-21T05:43:49.197718+00:00",
       "tour_source": "http://the-scorpions.com",
-      "tour_attempted_at": "2026-10-16T21:27:33.287831+00:00"
+      "tour_attempted_at": "2026-10-21T05:43:49.197735+00:00"
     },
     "set-your-goals": {
       "origin": "San Francisco, California , U.S.",
