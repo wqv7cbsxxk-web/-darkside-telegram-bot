@@ -888,49 +888,17 @@
     "1fccbf76463604e2942ef56a08e40053a8a9de4a",
     "9d629c21aa412ed084cabde278400a6d48d6b61d",
     "e5bfb51c3d3b9fb829e763c90780949f31bc40f2",
-    "7d95953ebf499dfbd5ab41b1e6882515d9b7baa4"
+    "7d95953ebf499dfbd5ab41b1e6882515d9b7baa4",
+    "0de01c1b36e93c527a6348d571ffe265aafac692",
+    "accecd5bad15084912abd65c95e5c65ff1e53adc",
+    "c97bf8deb61eeb835d7d4bdeaf54b9c3816b028a",
+    "5b203a280c105af6cf298967b1573eee26aa3993",
+    "17f5362dbd07c76422e22586c9739f45323542d2",
+    "ca08e3c2a0c3a7e10b606b15384b43aa2a8d9815",
+    "b936c74aa382623567c969c778cd1b9d7d5a6916",
+    "7b225d29c3076c515da0da1758060274a2bab200"
   ],
   "recent_titles": [
-    {
-      "title": "King 810 Give Their “Queen” EP Its First Vinyl Release",
-      "source": "ThePRP",
-      "ts": 1792323854
-    },
-    {
-      "title": "AN NCS PREMIERE: CEREBRAL CURSE — “MANGLED CRANIAL LIQUEFACTION”",
-      "source": "No Clean Singing",
-      "ts": 1792323874
-    },
-    {
-      "title": "Video Premiere: Stricken – ‘Dust from the Grave’",
-      "source": "Decibel",
-      "ts": 1792323884
-    },
-    {
-      "title": "AN NCS PREMIERE: REPLICANT — “MENACING VOID”",
-      "source": "No Clean Singing",
-      "ts": 1792323904
-    },
-    {
-      "title": "How Pearl Jam's intense, combative second album Vs. saved the band's soul",
-      "source": "Louder",
-      "ts": 1792323940
-    },
-    {
-      "title": "Linkin Park's Emily Armstrong reveals anxieties she held around joining the band",
-      "source": "Louder",
-      "ts": 1792335215
-    },
-    {
-      "title": "Sex Pistols’ Frank Carter Doubles Down On The Band’s Women-Only Mosh Pit Section: “Incels, Homophobes, Misogynists, Racists, Fascists Not Welcome”",
-      "source": "ThePRP",
-      "ts": 1792335408
-    },
-    {
-      "title": "Southpaw FLHC Returned To The Stage For The First Time Since Denying Allegations Of Nazism",
-      "source": "ThePRP",
-      "ts": 1792335417
-    },
     {
       "title": "How Deep Purple, Black Sabbath and the California Jam banished Altamont's demons",
       "source": "Louder",
@@ -1690,6 +1658,46 @@
       "title": "Bleed From Within Announce UK/European Headlining Shows With VEXED & More",
       "source": "ThePRP",
       "ts": 1792611602
+    },
+    {
+      "title": "Microtonal sensations Angine de Poitrine announce mammoth 2027 Concerts de Musique tour",
+      "source": "Louder",
+      "ts": 1792622857
+    },
+    {
+      "title": "Ho99o9 Team With Slay Squad On New Single “War Bait”",
+      "source": "ThePRP",
+      "ts": 1792622860
+    },
+    {
+      "title": "Conjurer Announce U.S. Headlining Shows With Armed For Apocalypse",
+      "source": "ThePRP",
+      "ts": 1792622864
+    },
+    {
+      "title": "Downswing’s New In-Studio Set For Audiotree Released",
+      "source": "ThePRP",
+      "ts": 1792622867
+    },
+    {
+      "title": "Sharon Osbourne kept Black Sabbath in the dark about doctors' warnings that their Back To The Beginning farewell show could kill Ozzy",
+      "source": "Louder",
+      "ts": 1792622881
+    },
+    {
+      "title": "Former Nightwish singer Floor Jansen doesn’t mind her old band After Forever coming back – just don’t call it a reunion",
+      "source": "Louder",
+      "ts": 1792622895
+    },
+    {
+      "title": "Pro-Shot Footage Of Nevermore’s 2026 ‘Motocultor Festival’ Set Available",
+      "source": "ThePRP",
+      "ts": 1792622917
+    },
+    {
+      "title": "2027 ‘Welcome To Rockville’ Lineup Set To Be Revealed Next Week, Poppy Officially Confirmed",
+      "source": "ThePRP",
+      "ts": 1792622920
     }
   ],
   "initialized_sources": [
@@ -3783,7 +3791,7 @@
       "title": "Spotify Removes More Than 50 Million 'AI Slop' Songs",
       "link": "https://metalinjection.net/news/spotify-removes-more-than-50-million-ai-slop-songs",
       "rss_body": "Small miracles, I guess.",
-      "tags": "Latest News spotify featured1",
+      "tags": "Latest News spotify featured",
       "category": "Хэви-метал",
       "published": "2026-10-21T14:13:43+00:00",
       "id": "26e0abee154a12ad19dad3bff8a236c6c7b8fa95",
@@ -3795,11 +3803,11 @@
       "title": "Watch: Metallica Releases Pro-Shot Footage of \"Welcome Home\" From The Sphere",
       "link": "https://metalinjection.net/news/watch-metallica-releases-pro-shot-footage-of-welcome-home-from-the-sphere",
       "rss_body": "Fans were surrounded by visuals.",
-      "tags": "Latest News Metallica",
+      "tags": "Latest News Metallica featured",
       "category": "Хэви-метал",
       "published": "2026-10-21T19:34:37+00:00",
       "id": "d1ee1b0931d0bcde88bcf084d8cd82f7f281c362",
-      "retry_after": 1792611846
+      "retry_after": 1792623196
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3811,7 +3819,7 @@
       "category": "Хард-рок",
       "published": "2026-10-21T19:19:34+00:00",
       "id": "c58de7178017ef2df6887f7db7daf138c145c110",
-      "retry_after": 1792611866
+      "retry_after": 1792623215
     },
     {
       "source": "Metal Injection",
@@ -3823,7 +3831,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T18:42:14+00:00",
       "id": "e76072366a79a333e118741eaa4e074024ecc6b0",
-      "retry_after": 1792611879
+      "retry_after": 1792623215
     },
     {
       "source": "Metal Injection",
@@ -3831,23 +3839,14 @@
       "title": "Iron Maiden Drummer Nicko McBrain Says Trump and His “Bunch of Cronies” Should Be Put in Jail",
       "link": "https://metalinjection.net/news/iron-maiden-drummer-nicko-mcbrain-says-trump-and-his-bunch-of-cronies-should-be-put-in-jail",
       "rss_body": "Nicko McBrain reveals he turned down a round of golf with Donald Trump, and says the president and his “bunch of cronies” should be put in jail.",
-      "tags": "Latest News Iron Maiden nicko mcbrain",
+      "tags": "Latest News Iron Maiden nicko mcbrain featured1",
       "category": "Хэви-метал",
       "published": "2026-10-21T18:05:25+00:00",
       "id": "8333faf6d1c99f96d382aea496b54b5251133172",
-      "retry_after": 1792611899
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Pro-Shot Footage Of Nevermore’s 2026 ‘Motocultor Festival’ Set Available",
-      "link": "https://www.theprp.com/2026/10/21/news/pro-shot-footage-of-nevermores-2026-motocultor-festival-set-available/",
-      "rss_body": "The band took the stage at that annual fest this past August.",
-      "tags": "News Nevermore",
-      "category": "Хэви-метал",
-      "published": "2026-10-21T17:26:32+00:00",
-      "id": "b936c74aa382623567c969c778cd1b9d7d5a6916",
-      "retry_after": 0
+      "duplicate_ids": [
+        "d88d359d09dc4e5e10f45d3f6c9c2680779ac172"
+      ],
+      "retry_after": 1792623215
     },
     {
       "source": "Metal Injection",
@@ -3859,19 +3858,7 @@
       "category": "Прогрессив",
       "published": "2026-10-21T17:19:37+00:00",
       "id": "c000d0b65b27adeb4dfddcace6311217f8a11e78",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "2027 ‘Welcome To Rockville’ Lineup Set To Be Revealed Next Week, Poppy Officially Confirmed",
-      "link": "https://www.theprp.com/2026/10/21/news/2027-welcome-to-rockville-lineup-set-to-be-revealed-next-week-poppy-officially-confirmed/",
-      "rss_body": "Hitting Daytona Beach in May.",
-      "tags": "News Poppy Welcome To Rockville",
-      "category": "Хэви-метал",
-      "published": "2026-10-21T17:18:58+00:00",
-      "id": "7b225d29c3076c515da0da1758060274a2bab200",
-      "retry_after": 0
+      "retry_after": 1792623218
     },
     {
       "source": "Louder",
@@ -3968,6 +3955,18 @@
       "published": "2026-10-21T15:26:10+00:00",
       "id": "d4380dfdf8d80ff81edf42cbe0781406df9fcc2c",
       "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: French Hardcore Band Headbussa Drops “Manhunt”",
+      "link": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt",
+      "rss_body": "Their debut full-length 'Survival Measures' comes out November 13 on Daze.",
+      "tags": "New Music headbussa",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T21:01:51+00:00",
+      "id": "e33886430e8631d7bc8766db7250f00352799395",
+      "retry_after": 1792623168
     }
   ]
 }
