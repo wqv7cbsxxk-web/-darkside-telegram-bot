@@ -1678,10 +1678,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://kissonline.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kiss_%28band%29",
-      "reference_checked_at": "2026-10-14T00:52:24.981077+00:00",
+      "reference_checked_at": "2026-10-21T00:58:13.179880+00:00",
       "tour_attempted_at": "2026-10-18T15:00:57.506514+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T00:52:24.981296+00:00"
+      "reference_attempted_at": "2026-10-21T00:58:13.180051+00:00"
     },
     "kreator": {
       "origin": "Essen , North Rhine-Westphalia , Germany",
@@ -1708,10 +1708,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://kreator-terrorzone.de",
       "reference_url": "https://en.wikipedia.org/wiki/Kreator",
-      "reference_checked_at": "2026-10-14T00:52:25.249001+00:00",
+      "reference_checked_at": "2026-10-21T00:58:13.436881+00:00",
       "tour_attempted_at": "2026-10-18T15:00:57.947066+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T00:52:25.249022+00:00"
+      "reference_attempted_at": "2026-10-21T00:58:13.436902+00:00"
     },
     "led-zeppelin": {
       "origin": "London , England",
@@ -1738,10 +1738,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://ledzeppelin.com",
       "reference_url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
-      "reference_checked_at": "2026-10-14T00:52:25.701220+00:00",
+      "reference_checked_at": "2026-10-21T00:58:13.689232+00:00",
       "tour_attempted_at": "2026-10-18T17:50:10.327757+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T00:52:25.701424+00:00"
+      "reference_attempted_at": "2026-10-21T00:58:13.689407+00:00"
     },
     "leprous": {
       "origin": "Notodden , Norway",
@@ -1772,10 +1772,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://leprous.net",
       "reference_url": "https://en.wikipedia.org/wiki/Leprous",
-      "reference_checked_at": "2026-10-14T00:52:25.830510+00:00",
+      "reference_checked_at": "2026-10-21T00:58:13.794811+00:00",
       "tour_attempted_at": "2026-10-18T17:50:10.572643+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T00:52:25.830530+00:00"
+      "reference_attempted_at": "2026-10-21T00:58:13.794834+00:00"
     },
     "marillion": {
       "origin": "Aylesbury , Buckinghamshire, England",
@@ -1806,10 +1806,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://marillion.com",
       "reference_url": "https://en.wikipedia.org/wiki/Marillion",
-      "reference_checked_at": "2026-10-14T00:52:26.080492+00:00",
+      "reference_checked_at": "2026-10-21T00:58:13.982605+00:00",
       "tour_attempted_at": "2026-10-18T17:50:11.425776+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T00:52:26.080514+00:00"
+      "reference_attempted_at": "2026-10-21T00:58:13.982626+00:00"
     },
     "linkin-park": {
       "origin": "Agoura Hills, California , U.S.",
@@ -1844,10 +1844,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://linkinpark.com",
       "reference_url": "https://en.wikipedia.org/wiki/Linkin_Park",
-      "reference_checked_at": "2026-10-14T00:52:26.590358+00:00",
+      "reference_checked_at": "2026-10-21T00:58:14.237526+00:00",
       "tour_attempted_at": "2026-10-18T17:50:11.996687+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-14T00:52:26.590494+00:00"
+      "reference_attempted_at": "2026-10-21T00:58:14.237680+00:00"
     },
     "manowar": {
       "origin": "Auburn, New York , U.S.",
@@ -4003,7 +4003,7 @@
       "website": "http://obituary.cc",
       "reference_url": "https://en.wikipedia.org/wiki/Obituary_%28band%29",
       "reference_checked_at": "2026-10-15T22:31:19.695082+00:00",
-      "tour_attempted_at": "2026-10-16T18:17:23.267132+00:00",
+      "tour_attempted_at": "2026-10-21T00:58:14.648133+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T22:31:19.695174+00:00"
     },
@@ -4037,7 +4037,7 @@
       "website": "http://thetruemayhem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mayhem_%28band%29",
       "reference_checked_at": "2026-10-15T22:31:19.840187+00:00",
-      "tour_attempted_at": "2026-10-16T18:17:25.313063+00:00",
+      "tour_attempted_at": "2026-10-21T00:58:16.374292+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-15T22:31:19.840338+00:00"
     },
@@ -4112,7 +4112,7 @@
       "website": "http://emperorhorde.com",
       "reference_url": "https://en.wikipedia.org/wiki/Emperor_%28Norwegian_band%29",
       "reference_checked_at": "2026-10-16T09:50:32.631943+00:00",
-      "tour_attempted_at": "2026-10-16T18:17:25.833618+00:00",
+      "tour_attempted_at": "2026-10-21T00:58:16.830860+00:00",
       "reference_attempted_at": "2026-10-16T09:50:32.632016+00:00"
     },
     "overkill": {
@@ -4147,7 +4147,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Overkill_%28band%29",
       "reference_checked_at": "2026-10-15T22:31:21.083130+00:00",
       "reference_attempted_at": "2026-10-15T22:31:21.083154+00:00",
-      "tour_attempted_at": "2026-10-16T18:17:26.243367+00:00"
+      "tour_attempted_at": "2026-10-21T00:58:17.026229+00:00"
     },
     "periphery": {
       "origin": "Washington, D.C. , U.S.",
