@@ -917,49 +917,17 @@
     "97cf868a77fd420a8db9a47d8b34a02a851c3462",
     "49cd8a54975eab55e9662bb2c94a265b2d5c81a9",
     "ab116787846871db64e4728b211067a86cf3ead9",
-    "06c92accd76e7b98495b80a7f1d031d3f4119d57"
+    "06c92accd76e7b98495b80a7f1d031d3f4119d57",
+    "3baf9157ffdc851cbf1872c0276dcdddc4e3a1a9",
+    "5f94ea6c987736a93703f50a19f161c3b6ca8304",
+    "57b76a703424f9cb8f82be745439312a0e5d83db",
+    "7500df0cde5141c024ab4242e855a50ae358ca46",
+    "49fd163e5c938c97d62613275cf2cd9366d79374",
+    "f09a6989a24c5c7aa7404f66b859a33128dbb2f8",
+    "82484437a473accc292df4851bc9d856c7284a1f",
+    "d83eab6556d5f64ade592b4d8adc207a6061f0a4"
   ],
   "recent_titles": [
-    {
-      "title": "How Judas Priest made the iconic album that saved their career",
-      "source": "Louder",
-      "ts": 1792360779
-    },
-    {
-      "title": "Tom Morello on the future hair metal guitar hero who blew him away",
-      "source": "Louder",
-      "ts": 1792360808
-    },
-    {
-      "title": "Elder’s Jack Donovan Is On The Mend After Open-Heart Surgery Following Mid-Tour Hospitalization",
-      "source": "ThePRP",
-      "ts": 1792360818
-    },
-    {
-      "title": "Watch Frank Carter Eject A Male Concertgoer Who Took Issue With A Female-Only Mosh Pit At Sex Pistols’ Denver Show",
-      "source": "ThePRP",
-      "ts": 1792360841
-    },
-    {
-      "title": "Devin Townsend’s DreamPeace Project To Release ‘Harmonic Dharma” Album This Month",
-      "source": "ThePRP",
-      "ts": 1792360849
-    },
-    {
-      "title": "Greysight Sign With Seek & Strike, Debut “VIOLENCE IN BLOOM” Music Video From Their New EP",
-      "source": "ThePRP",
-      "ts": 1792360853
-    },
-    {
-      "title": "Beyond Nirvana: how Sub Pop shed its grunge origins to become one of the world's most daringly disruptive record labels",
-      "source": "Louder",
-      "ts": 1792368649
-    },
-    {
-      "title": "Charlotte Church: “I love Radiohead more than I could possibly love anything other than my kids.”",
-      "source": "Louder",
-      "ts": 1792368694
-    },
     {
       "title": "SHORT BUT SWEET: 1917, CISZA, HEXER, RANĂ",
       "source": "No Clean Singing",
@@ -1719,6 +1687,46 @@
       "title": "The tangled story of Led Zeppelin's Whole Lotta Love",
       "source": "Louder",
       "ts": 1792669786
+    },
+    {
+      "title": "Track Premiere: Titans of Mars – “Leviathan”",
+      "source": "Decibel",
+      "ts": 1792685119
+    },
+    {
+      "title": "Queens Of The Stone Age Perform On ‘The Tonight Show’, Announce U.S. Tour With Pixies & Wheelchair Sports Camp",
+      "source": "ThePRP",
+      "ts": 1792685127
+    },
+    {
+      "title": "Reece Scruggs Speaks On His Exit From Machine Head, Launches New Band Burning Hammer",
+      "source": "ThePRP",
+      "ts": 1792685144
+    },
+    {
+      "title": "Iron Maiden, Korn, Falling In Reverse, Blink-182, Faith No More, Etc. Booked For 2027 ‘Sonic Temple’ Festival",
+      "source": "ThePRP",
+      "ts": 1792685161
+    },
+    {
+      "title": "50 Years Ago: A Led Zeppelin Soundtrack Captures '70s Spectacle",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792685189
+    },
+    {
+      "title": "Cliff Burton’s ex-bandmate remembers the late Metallica bassist’s prodigious talent",
+      "source": "Louder",
+      "ts": 1792685212
+    },
+    {
+      "title": "AN NCS VIDEO PREMIERE: KALT VINDUR — “IN SILENCE”",
+      "source": "No Clean Singing",
+      "ts": 1792685234
+    },
+    {
+      "title": "AN NCS INTERVIEW: FVNERAL FVKK",
+      "source": "No Clean Singing",
+      "ts": 1792685324
     }
   ],
   "initialized_sources": [
@@ -3801,9 +3809,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T18:05:25+00:00",
       "id": "8333faf6d1c99f96d382aea496b54b5251133172",
-      "duplicate_ids": [
-        "d88d359d09dc4e5e10f45d3f6c9c2680779ac172"
-      ],
       "retry_after": 1792669774
     },
     {
@@ -3877,6 +3882,78 @@
       "published": "2026-10-21T23:50:16+00:00",
       "id": "cf82ba1fd8519adf766294c270a4c36d37cbb2f1",
       "retry_after": 1792669769
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Reece Scruggs Exits Machine Head: “A Badge of Honor I Will Carry With Me Forever”",
+      "link": "https://metalinjection.net/news/reece-scruggs-exits-machine-head-a-badge-of-honor-i-will-carry-with-me-forever",
+      "rss_body": "\"I had Robb's support and understanding before I could get the words out.\"",
+      "tags": "Latest News Machine Head",
+      "category": "Хэви-метал",
+      "published": "2026-10-22T15:32:56+00:00",
+      "id": "ac8dc65c6820c6b9f770690ddf8f3e86bdd19687",
+      "retry_after": 1792685444
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Queens of the Stone Age Announce 2027 Tour With The Pixies",
+      "link": "https://metalinjection.net/tour-dates/queens-of-the-stone-age-announce-2027-tour-with-the-pixies",
+      "rss_body": "Hear some very loud guitar music in a very big venue.",
+      "tags": "Tour Dates queens of the stone age Pixies",
+      "category": "Хэви-метал",
+      "published": "2026-10-22T14:42:23+00:00",
+      "id": "d05633f54cb8907cf7137d4e100a73ae615d1e91",
+      "retry_after": 1792685535
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Sonic Temple Announces 2027 Lineup Featuring Falling In Reverse, Iron Maiden, Korn + More",
+      "link": "https://metalinjection.net/tour-dates/festivals/sonic-temple-announces-2027-lineup-featuring-falling-in-reverse-iron-maiden-korn-more",
+      "rss_body": "Your favorite band is probably playing.",
+      "tags": "Festivals korn Iron Maiden Falling In Reverse Sonic Temple Festival featured1",
+      "category": "Хэви-метал",
+      "published": "2026-10-22T13:47:38+00:00",
+      "id": "21e8a741425459590d3fec44e3909b2175342bc4",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Korn, Blink-182, Iron Maiden, Faith No More, Turnstile, The Prodigy and more confirmed for Sonic Temple Festival 2027 as full lineup is revealed",
+      "link": "https://www.loudersound.com/bands-artists/music-festivals/korn-blink-182-iron-maiden-faith-no-more-turnstile-the-prodigy-and-more-confirmed-for-sonic-temple-festival-2027-as-full-lineup-is-revealed",
+      "rss_body": "Sonic Temple Art+ Music festival has announced its full lineup for 2027's edition, and it's packing another absolute monster of a bill. One of the world's biggest rock and metal festivals, which will take place May 13-16 2027 at the Historic Crew Stadium in Columbus, Ohio, will be headlined by\n\nBlink-182\n\n, Falling In Reverse and\n\nKorn\n\n, joining fellow headliners Iron Maiden, who were announced on Friday (October 16).\n\nThe announcement of\n\nIron Maiden\n\nheadlining Sonic Temple in 2027 marked a surprise extra leg of the metal legends' Run For Your Lives world tour, which has been celebrating the band's 50th anniversary since it kicked off in Europe last year.\n\nAs well as those four blockbuster headliners, Sonic Temple will also feature over 100 bands across the rock and metal spectrum, including Turnstile, Alice In Chains, The Offspring, The Prodigy, Beartooth, Poppy, Knocked Loose, Primus, GWAR, Castle Rat, Helmet, Blood Incantation, Suicideboys and many, many more.\n\nThose bands and dozens more join the likes of A Perfect Circle,\n\nMeshuggah\n\n, President, Clutch, Testament, Imminence, Crowbar and Showing Teeth, who had all been previously confirmed for the festival in recent weeks.\n\nTickets for Sonic Temple 2027 are on sale now from the\n\nofficial Sonic Temple website\n\n, with various ticket tiers, deals, discounts and bundles available. See the full lineup for Sonic Temple 2027 below.\n\n(Image credit: DWP)\n\nSonic Temple Art + Music Festival 2027 lineup\n\nIron Maiden\n\nBlink-182\n\nKorn\n\nFalling in Reverse\n\n$UICIDEBOY$\n\nFaith No More\n\nA Perfect Circle\n\nAlice in Chains\n\nTurnstile\n\nThe Offspring\n\nA Day To Remember\n\nThe Prodigy\n\nKnocked Loose\n\nThe All-American Rejects\n\nBeartooth\n\nSlash feat. Myles Kennedy & The Conspirators\n\nTill Lindemann: The Voice of Rammstein\n\nJimmy Eat World\n\nDayseeker\n\nPrimus\n\nSeether\n\nMastodon\n\nSleeping With Sirens\n\nCirca Survive\n\nThe Pretty Reckless\n\nPoppy\n\nHot Mulligan\n\nMinistry\n\nMeshuggah\n\nBullet For My Valentine\n\nIn This Moment\n\nHighly Suspect\n\nHollywood Undead\n\nPresident\n\nGhostemane\n\nThe Warning\n\nInsane Clown Posse\n\nClutch\n\nUnderoath\n\nLOATHE\n\nSleep Theory\n\nSullivan King\n\nChad Gray: Voice of Mudvayne & HELLYEAH\n\nSkid Row\n\nTestament\n\nBadflower\n\nHANABIE.\n\nWaka Flocka Flame\n\nSuperheaven\n\nBowling For Soup\n\nImminence\n\n3OH!3, DRAIN\n\nGym Class Heroes\n\nSwitchfoot\n\nWe The Kings\n\nRelient k\n\nFleshwater\n\nSaosin\n\nViolent Vira\n\nKim Dracula\n\nGWAR\n\nForever The Sickest Kids\n\nPeelingFlesh\n\nCastle Rat\n\nSteel Panther\n\nOf Mice & Men\n\nCrown The Empire\n\nBoundaries\n\nCarpenter Brut\n\nCrowbar\n\nHelmet\n\nBlood Incantation\n\nPalisades\n\nJutes\n\nFit For An Autopsy\n\nAfter The Burial\n\nDiggy Graves\n\nSoulfly\n\nThe Paradox\n\nHot Milk\n\nFear Factory\n\nDirty Honey\n\nThe Black Dahlia Murder\n\nInvent Animate\n\nUgly Kid Joe\n\nSLOMOSA\n\nSpite\n\nEmmure\n\nRain City Drive\n\nDemon Hunter\n\nCute Is What We Aim For\n\nShadows Fall\n\nSponge\n\nMonolord\n\nHer Last Sight\n\n10 Years\n\nLacuna Coil\n\n156/Silence\n\nEscape The Fate\n\nI See Stars\n\nSnot\n\nSpineshank\n\nVana\n\nShadow of Intent\n\nShowing Teeth\n\nThe Color Morale\n\nMadball\n\nHouse of Protection\n\nNevertel\n\nSouth Arcade\n\nPoint North\n\nNailbomb\n\nBear McCreary\n\nMidnight\n\nThe Ataris\n\nWheatus\n\nGreen Lung\n\nsace6\n\nThe Barbarians of California\n\nOTEP\n\nNita Strauss\n\nKami Kehoe\n\nBig Ass Truck\n\nRed\n\nThousand Below\n\nCKY\n\nButcher Babies\n\nIf Not For Me\n\nUnearth\n\nDry Kill Logic\n\nPain of Truth\n\nHo99o9\n\nDark Divine\n\nArankai\n\nAllt\n\nSylosis\n\nImpending Doom\n\nWolves At The Gate\n\nInfected Rain\n\nSecrets\n\nEyes Set To Kill\n\nKing 810\n\nXCOMM\n\nSunborn\n\nSilent Theory\n\nEmpty Shell Casing",
+      "tags": "Music Festivals Bands & Artists Live Performances",
+      "category": "Прогрессив",
+      "published": "2026-10-22T13:34:53+00:00",
+      "id": "6eeb08c1c473addc4773d647dfa1505b37547d57",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "10 Reunions Every Classic Rock Fan Wants to See",
+      "link": "https://ultimateclassicrock.com/reunions-classic-rock-fans-want/",
+      "rss_body": "Theo Wargo/Jim Dyson/Jamie McCarthy, Getty Images",
+      "tags": "Lists Original Features Fleetwood Mac Journey Led Zeppelin Motley Crue Pink Floyd Rage Against the Machine Sex Pistols Talking Heads The Police The Smiths UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-22T12:24:33+00:00",
+      "id": "9255a55ce37c1b5aa696acb9d5265f7519e6bcb0",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Jethro Tull Adds More 2027 Curious Ruminant Tour Dates",
+      "link": "https://ultimateclassicrock.com/jethro-tull-2027-tour/",
+      "rss_body": "This massive tour in support of 'Curious Ruminant' began last February and now continues into the fall of next year.",
+      "tags": "Concerts News Jethro Tull UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-22T11:51:54+00:00",
+      "id": "509d2bee17abebafaa81efc222aaf9ae45411074",
+      "retry_after": 0
     }
   ]
 }
