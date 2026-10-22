@@ -933,49 +933,17 @@
     "f5bedf2bc5a0e83417c8057c5423a698d184ea11",
     "fc919df4e0a29aa556172c455890f5fd4a6f2b41",
     "1788aa79a2223e6cd70c00c7b2f1cd3f4a73026b",
-    "c56bc2348337f5bde32e59c5180e5ad49d86efd6"
+    "c56bc2348337f5bde32e59c5180e5ad49d86efd6",
+    "90fbe1ba9fedc20e42a78f0e046a65f2fd37ff63",
+    "55eb6a719b898160e9fca7ca541dc3bc8c2650dc",
+    "86849046756c235b99c02a81fa8f5a04451fd6bc",
+    "2ac26d4b798b863803d073c0ae1509ee6cba7e56",
+    "4a44cd3f184fe23d8929570913fa8603ea434eb1",
+    "ffd196e2e58ac2223dd4ec6bb487aedfd1dfe3ec",
+    "a574a334757997b222fe1ba92ec51f3fb4eb2fc9",
+    "11404f300b3e72e939497bb8190fd991e05e6744"
   ],
   "recent_titles": [
-    {
-      "title": "The Aerosmith albums you should definitely listen to",
-      "source": "Louder",
-      "ts": 1792385073
-    },
-    {
-      "title": "Judas Priest Lineup Changes: A Complete Guide",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792385087
-    },
-    {
-      "title": "Hear Pitbull and Kiss Team Up for New Song 'Reach for the Stars'",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792385101
-    },
-    {
-      "title": "Five For Friday: October 9, 2026",
-      "source": "Decibel",
-      "ts": 1792385124
-    },
-    {
-      "title": "AN NCS PREMIERE: DISEMBODY — “DWELLER OF ABYSSAL WATERS”",
-      "source": "No Clean Singing",
-      "ts": 1792385164
-    },
-    {
-      "title": "GONZO’S HEAVY ROUNDUP, SEPTEMBER 2026",
-      "source": "No Clean Singing",
-      "ts": 1792385216
-    },
-    {
-      "title": "Sleep Token break silence to release statement condemning other bands claiming to be affiliated with them",
-      "source": "Louder",
-      "ts": 1792405217
-    },
-    {
-      "title": "Man rope in Queen's producer but still sound American on Winos, Rhinos & Lunatics",
-      "source": "Louder",
-      "ts": 1792405251
-    },
     {
       "title": "Judas Priest Bassist Ian Hill Announces His Retirement",
       "source": "Ultimate Classic Rock",
@@ -1735,6 +1703,46 @@
       "title": "Nekrogoblikon Premiere “The Boiling Sea” Music Video",
       "source": "ThePRP",
       "ts": 1792699706
+    },
+    {
+      "title": "That long-awaited documentary about Fleetwood Mac will finally premiere early next year",
+      "source": "Louder",
+      "ts": 1792711387
+    },
+    {
+      "title": "Dead7’s New Track “Feels Like” Arrives Online",
+      "source": "ThePRP",
+      "ts": 1792711390
+    },
+    {
+      "title": "Loathe Release “Remnant” Live Video From Recent Los Angeles Show",
+      "source": "ThePRP",
+      "ts": 1792711397
+    },
+    {
+      "title": "Hellripper Expected To Miss Half Of Their First U.S. Tour Due To Visa Delays",
+      "source": "ThePRP",
+      "ts": 1792711405
+    },
+    {
+      "title": "Deafheaven Announce Early 2027 Tour With Interpol",
+      "source": "ThePRP",
+      "ts": 1792711408
+    },
+    {
+      "title": "Misery Index’s “Overthrow” Set For Newly Remastered 25th Anniversary Edition",
+      "source": "ThePRP",
+      "ts": 1792711415
+    },
+    {
+      "title": "Imminence Share “Crestfallen” Performance From Ystads Theater",
+      "source": "ThePRP",
+      "ts": 1792711418
+    },
+    {
+      "title": "HALF ME Launch Music Video Combining Three Tracks From Their New Album “Dogma”",
+      "source": "ThePRP",
+      "ts": 1792711421
     }
   ],
   "initialized_sources": [
@@ -4057,6 +4065,54 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T15:56:25+00:00",
       "id": "06b14815517432a5ae4144cc30568c5f2d4c7ac2",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Bullet For My Valentine, Black Veil Brides, Loathe & Chad Gray Set For 2027 ‘Welcome To Rockville’",
+      "link": "https://www.theprp.com/2026/10/22/news/bullet-for-my-valentine-black-veil-brides-loathe-chad-gray-set-for-2027-welcome-to-rockville/",
+      "rss_body": "One drip-feed reveal ends, another begins.",
+      "tags": "News Bullet For My Valentine Chad Gray Loathe Welcome To Rockville",
+      "category": "Хэви-метал",
+      "published": "2026-10-22T20:27:41+00:00",
+      "id": "cf220523de4a5ae7e7824546a96c27f335672724",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "SIFYN (Ex-Veil Of Maya) Debut “LEXICON”",
+      "link": "https://www.theprp.com/2026/10/22/news/sifyn-ex-veil-of-maya-debut-lexicon/",
+      "rss_body": "The first song the group wrote for their upcoming new EP.",
+      "tags": "News Lukas Magyar SIFYN Veil Of Maya",
+      "category": "Хэви-метал",
+      "published": "2026-10-22T20:19:16+00:00",
+      "id": "e8c3f38b57b3eb775148ce686723b5ea8a3b7114",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Official Footage Of Agriculture’s 2026 ‘Roadburn’ Set Released",
+      "link": "https://www.theprp.com/2026/10/22/news/official-footage-of-agricultures-2026-roadburn-set-released/",
+      "rss_body": "Filmed this past April.",
+      "tags": "News Agriculture",
+      "category": "Хэви-метал",
+      "published": "2026-10-22T20:12:18+00:00",
+      "id": "07e028e37c641449be58565045573e9fa4724793",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Darkest Hour DARKEST HOUR Talks Surviving Three Decades of Changes, Scene Youth, & More [Exclusive]",
+      "link": "https://metalinjection.net/video/darkest-hour-darkest-hour-talks-surviving-three-decades-of-changes-scene-youth-more-exclusive",
+      "rss_body": "Guitarist Mike Schleibaum sat down with Frank Godla of Metal Injection for an exclusive interview about the past 30 years of melodic death metal Darkest Hour. Starting with discussions of […]",
+      "tags": "Darkest Hour",
+      "category": "Экстремальный метал",
+      "published": "2026-10-22T17:58:32+00:00",
+      "id": "6afd173a56372c449701cfb9e33acc02aecd6f54",
       "retry_after": 0
     }
   ]
