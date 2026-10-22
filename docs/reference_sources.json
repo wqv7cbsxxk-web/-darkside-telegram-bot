@@ -8891,7 +8891,7 @@
     "dokken": {
       "name": "Dokken",
       "musicbrainz_url": "https://musicbrainz.org/artist/09ade3bd-b110-4277-b923-7dc32e6a3f92",
-      "reference_checked_at": "2026-10-06T20:47:33.912575+00:00",
+      "reference_checked_at": "2026-10-22T20:08:56.769117+00:00",
       "genres": "glam metal, hard rock, heavy metal",
       "website": "https://www.dokken.net/",
       "members": [
@@ -9066,6 +9066,12 @@
           "date": "",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/595a1257-1fb5-3b50-bc2d-0836ac4bdf79"
+        },
+        {
+          "name": "So Many Tears",
+          "date": "1987",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5c3f1368-8623-40eb-acde-176f1a74cf79"
         },
         {
           "name": "Under Lock and Key",
@@ -9324,7 +9330,7 @@
     "dream-theater": {
       "name": "Dream Theater",
       "musicbrainz_url": "https://musicbrainz.org/artist/28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
-      "reference_checked_at": "2026-10-06T20:47:38.138012+00:00",
+      "reference_checked_at": "2026-10-22T20:09:05.915706+00:00",
       "genres": "heavy metal, metal, progressive, progressive metal",
       "bandcamp_url": "https://dreamtheaterofficial.bandcamp.com/",
       "website": "https://dreamtheater.net/",
@@ -31335,8 +31341,8 @@
     "devin-townsend": "2026-10-22T11:50:13.096980+00:00",
     "dio": "2026-10-22T16:08:59.626516+00:00",
     "dismember": "2026-10-22T16:09:00.853190+00:00",
-    "dokken": "2026-10-06T20:47:33.912726+00:00",
-    "dream-theater": "2026-10-06T20:47:38.138165+00:00",
+    "dokken": "2026-10-22T20:08:56.769296+00:00",
+    "dream-theater": "2026-10-22T20:09:05.915846+00:00",
     "eminem": "2026-10-07T00:11:35.568103+00:00",
     "emperor": "2026-10-07T00:11:36.857750+00:00",
     "enslaved": "2026-10-12T09:21:45.528509+00:00",
