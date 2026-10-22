@@ -896,49 +896,17 @@
     "17f5362dbd07c76422e22586c9739f45323542d2",
     "ca08e3c2a0c3a7e10b606b15384b43aa2a8d9815",
     "b936c74aa382623567c969c778cd1b9d7d5a6916",
-    "7b225d29c3076c515da0da1758060274a2bab200"
+    "7b225d29c3076c515da0da1758060274a2bab200",
+    "f98c02edbb7467d5ee31c1889347d41dca83d6eb",
+    "1c119cf83cb64ab65583c40ad272649836d2274f",
+    "b0953378c53d95984898f98a6a32b160031dcb40",
+    "cb2e0ccae64d8a48755ed95d173dbeecdacda742",
+    "f110a6be066cc1c0ce5cee4256428f9800251dbf",
+    "e303957b3d3c7ceabff4c8d687c703a4aefd6092",
+    "37ed19528eceeca962fa227312de46e0a00abcb1",
+    "fe613c15e05ab5998c7639a6bc2fe6e73b7056f3"
   ],
   "recent_titles": [
-    {
-      "title": "How Deep Purple, Black Sabbath and the California Jam banished Altamont's demons",
-      "source": "Louder",
-      "ts": 1792335479
-    },
-    {
-      "title": "Watch Metallica Debut 'Until It Sleeps' at Sphere",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792335552
-    },
-    {
-      "title": "SHORT BUT SWEET: BACKSTABBED, CEASE, CULTURE VOID, THE FAULT OF MAN",
-      "source": "No Clean Singing",
-      "ts": 1792335626
-    },
-    {
-      "title": "Test your Metallica knowledge with this ridiculously hard quiz",
-      "source": "Louder",
-      "ts": 1792345479
-    },
-    {
-      "title": "Unheard Ozzy Osbourne Songs Were ‘Made for a Reason’",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792345570
-    },
-    {
-      "title": "When Geoff Tate looked back on Queensrÿche’s Operation: Mindcrime and its sequel",
-      "source": "Louder",
-      "ts": 1792345597
-    },
-    {
-      "title": "Alice Cooper can see his influence on death metal – and he think it’s great",
-      "source": "Louder",
-      "ts": 1792345613
-    },
-    {
-      "title": "Rick Wakeman is exploring Mars and playing a concert for bears in Vietnam. What on earth?",
-      "source": "Louder",
-      "ts": 1792345731
-    },
     {
       "title": "How Ozzy opened No Rest For The Wicked with an almighty diss track against a disgraced preacher",
       "source": "Louder",
@@ -1698,6 +1666,46 @@
       "title": "2027 ‘Welcome To Rockville’ Lineup Set To Be Revealed Next Week, Poppy Officially Confirmed",
       "source": "ThePRP",
       "ts": 1792622920
+    },
+    {
+      "title": "Skinless Finish Writing Their First Album Since 2018",
+      "source": "ThePRP",
+      "ts": 1792630862
+    },
+    {
+      "title": "Doomriders, Whores, Waxed, Etc. Announced For 2026 ‘Saddest Day’ Pre-Show",
+      "source": "ThePRP",
+      "ts": 1792630874
+    },
+    {
+      "title": "Iron Maiden drummer Nicko McBrain says he turned down the opportunity to play golf with Donald Trump",
+      "source": "Louder",
+      "ts": 1792630887
+    },
+    {
+      "title": "Pierce The Veil Launch ‘Hot Topic Live’ Series With Three-Song Session",
+      "source": "ThePRP",
+      "ts": 1792630892
+    },
+    {
+      "title": "Newly Remastered Reissues Of Obituary’s “Xecutioner’s Return” & “Darkest Day” Due In December",
+      "source": "ThePRP",
+      "ts": 1792630898
+    },
+    {
+      "title": "\"It's like Heathcliff digging up Cathy's corpse and dancing with it in the cold moonlight.\" The strange tale of the outrageous \"erotic\" 80s power ballad that Broadway legend Andrew Lloyd Webber called \"the greatest love song ever written\"",
+      "source": "Louder",
+      "ts": 1792630929
+    },
+    {
+      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): BEATEN TO DEATH — “VNTRVE”",
+      "source": "No Clean Singing",
+      "ts": 1792630955
+    },
+    {
+      "title": "Former Killswitch Engage bandmates Howard Jones and Adam D detail new project Burn Eternal, sign to Metal Blade Records",
+      "source": "Louder",
+      "ts": 1792630965
     }
   ],
   "initialized_sources": [
@@ -3768,9 +3776,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T15:10:06+00:00",
       "id": "30830af5458b317f2bde65f41084320ee5cdad31",
-      "duplicate_ids": [
-        "4fac36e35593d007fa4bcee09d1243a000fa20c9"
-      ],
       "retry_after": 1792597424
     },
     {
@@ -3807,7 +3812,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T19:34:37+00:00",
       "id": "d1ee1b0931d0bcde88bcf084d8cd82f7f281c362",
-      "retry_after": 1792623196
+      "retry_after": 1792631199
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3819,7 +3824,7 @@
       "category": "Хард-рок",
       "published": "2026-10-21T19:19:34+00:00",
       "id": "c58de7178017ef2df6887f7db7daf138c145c110",
-      "retry_after": 1792623215
+      "retry_after": 1792631203
     },
     {
       "source": "Metal Injection",
@@ -3831,7 +3836,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T18:42:14+00:00",
       "id": "e76072366a79a333e118741eaa4e074024ecc6b0",
-      "retry_after": 1792623215
+      "retry_after": 1792631203
     },
     {
       "source": "Metal Injection",
@@ -3846,7 +3851,7 @@
       "duplicate_ids": [
         "d88d359d09dc4e5e10f45d3f6c9c2680779ac172"
       ],
-      "retry_after": 1792623215
+      "retry_after": 1792631203
     },
     {
       "source": "Metal Injection",
@@ -3858,43 +3863,7 @@
       "category": "Прогрессив",
       "published": "2026-10-21T17:19:37+00:00",
       "id": "c000d0b65b27adeb4dfddcace6311217f8a11e78",
-      "retry_after": 1792623218
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "\"It's like Heathcliff digging up Cathy's corpse and dancing with it in the cold moonlight.\" The strange tale of the outrageous \"erotic\" 80s power ballad that Broadway legend Andrew Lloyd Webber called \"the greatest love song ever written\"",
-      "link": "https://www.loudersound.com/bands-artists/the-outrageous-erotic-80s-power-ballad-that-andrew-lloyd-webber-called-the-greatest-love-song-ever-written",
-      "rss_body": "\"\n\nI've been dreaming up a storm lately. I've been dreaming up a storm lately, and the entire city is burning. Look, you can see the colours dancing around the flames like the inside of a mad jukebox. Horny angels stalk the streets, looking for a little damnation and wearing nothing but the red badge of love. Motorcycles reproduce in nocturnal alleys, groaning with greasy pleasure, and they've blown up the YWCA like a giant balloon and sent it out to sea, full of screaming, lovely, lonely girls.\n\n\"And if I fall asleep here tonight. You better give me some asbestos sheets, 'cause I've been sweating gasoline. My dreams are highly flammable, and there are parts of my body that just won't stop giving off sparks. Stop me before I dream again.\n\n\"Why must I be a teenager in love?\n\n\"\n\nWith this wild fever dream intro to the seven-and-a-half minutes video for their debut single, the world was introduced in 1989 to gothic girl group Pandora's Box, a New York quartet featuring only three actual flesh-and-blood humans.\n\nThe band might be unfamiliar to you: the song, however, you'll know... just not this version of it. Or the epic story behind it all, encompassing an angry\n\nMeat Loaf\n\n, a disgraced nun,\n\nWuthering Heights\n\n, English film-maker Ken Russell, one member of\n\nBruce Springsteen\n\n's E Street Band, and er, \"an erotic motorcycle\".\n\nStrap in, it's a wild ride.\n\n(Image credit: Terry Lott/Sony Music Archive via Getty Images)\n\nOn his\n\nwebsite\n\n, Jim Steinman described\n\nIt's All Coming Back To Me Now,\n\nwritten \"while under the influence of\n\nWuthering Heights\n\n\" as \"my attempt to write the most passionate, romantic song I could ever write.\"\n\n\"I was trying to write a song about dead things coming to life,\" he revealed. \"I was trying to write a song about being enslaved and obsessed by love, not just enchanted and happy with it. It was about the dark side of love and about the extraordinary ability to be resurrected by it once dead.\n\n\"It's about obsession, and that can be scary because you're not in control and you don't know where it's going to stop.\n\n\"It's like Heathcliff digging up Cathy's corpse and dancing with it in the cold moonlight. You can't get more extreme, operatic or passionate than that.\"\n\nBy the late '80s, Steinman had a reputation in the music industry: exactly what that reputation was depended on you asked. To some he was a visionary genius, to others an unhinged maniac. Steinman believed that anything worth doing was worth over-doing, that boundaries were for the weak, that truth could only be found in excess. Raised on classical music and '50s rock 'n' roll, he knowingly self-defined as 'Little Richard Wagner', a composite character who desired everything louder than everything else, long before the phrase became associated with Motorhead.\n\n\"I never really saw classical music and rock 'n' roll as different,\" he told\n\nKerrang!\n\nmagazine in 1989. \"I still don't. I grew up liking extremes in music - big gothic textures. I never have much regard for more subtle stuff... I was attracted to William Blake, Hieronymus Bosch, I couldn't see the point in writing songs about ordinary, real-life stuff... I always wanted to sweep in, speaking in German, with a bat on my shoulder.\"\n\nBat Out Of Hell\n\nmade Steinman a music business legend. Composed by Steinman, produced by\n\nTodd Rundgren\n\n, and sung by Meat Loaf, it has sold over 43 million copies worldwide, and vindicated and amplified Steinman's belief that everyone else was doing rock 'n' roll wrong. This, unsurprisingly, also made Steinman a lot of enemies within the music industry.\n\nEven Meat Loaf, who first met Steinman in 1973, and loved him dearly - \"We belonged heart and soul to each other\" he told\n\nRolling Stone\n\nin 2021 - sometimes found his friend exasperating. Not least when Steinman refused to let him record what he called his \"erotic motorcycle\" -\n\nIt's All Coming Back To Me Now -\n\ninsisting that he always envisaged it being performed by a woman. While Meat Loaf seethed on the sidelines, Steinman, seeking an '80s version of his favourite 1960s girl group The Shangri-Las, began to assemble an all-female band that could do justice to his magnum opus.\n\nI wanted this project as though Clockwork Orange was about girls\n\nJim Steinman\n\nHe didn't cast the net too wide when recruiting for Pandora's Box. Ellen Foley was Meat Loaf's girlfriend, who'd dazzled with her performance on\n\nParadise by the Dashboard Light\n\nalongside her man on\n\nBat Out Of Hell.\n\nElaine Caswell was found singing in a New York bar, where Steinman was \"blown away\" by her voice and \"the looks of an avenging angel.\" Gina Taylor was performing in NYC as Tina Turner in '60s musical Beehive. And Deliria Wilde - talked up in the media as a former nun thrown out of a convent for a \"shocking\" transgression, didn't actually exist, except in Steinman's imagination.\n\nTogether, with musical assistance from E Street Band keyboard player Roy Bittan, Pandora's Box recorded the 1989 concept album\n\nOriginal Sin,\n\nfeaturing the single\n\ns It's All Coming Back To Me Now, Good Girls Go to Heaven (Bad Girls Go Everywhere)\n\n, and\n\nSafe Sex (When It Comes 2 Loving U).\n\n\"I wanted this project as though\n\nClockwork Orange\n\nwas about girls,\" he explained to\n\nKerrang!\n\n\"I wanted to write an album that sums up the last 10 years. What I saw coming out of the AIDS epidemic, as with all plagues, was a plus side. This one is that it's restored sex as something dark and magical and terrible.\"\n\nSteinman recruited English film director Ken Russell -\n\nTommy\n\n,\n\nWomen In Love\n\n,\n\nThe Devils\n\n- to direct a video for\n\nIt's All Coming Back To Me Now\n\nin London. It was not subtle. Reporting from the video shoot, music writer Sylvie Simmons noted, \"There's leather and snakes and tombstones and cockrings with shrunken heads on, and a glorious, erotic ceremony on the fantasies of a girl near death from a motorcycle crash being ministered to by paramedics.\"\n\n\"My manager saw it and goes, 'It's a porno movie!',\" Steinman admitted.\n\nDespite all the hype, all the headlines, the saucy video, and Steinman's obvious songwriting talents, the single - and indeed the\n\nOriginal Sin\n\nalbum - was a total flop. But the song didn't die.\n\nIn the summer of 1996 it was resurrected by Steinman for Celine Dion, who released it as the third single from her 14th studio album,\n\nFalling Into You\n\n. The single reached number one in Canada, and number two in the US, and is fondly remembered as one of the Quebec singer's most powerful anthems.\n\nReflecting on the themes of the song on his website, Steinman wrote, \"It says that, at any point in somebody's life, when they loved somebody strongly enough and that person returns, a certain touch, a certain physical gesture can turn them from being defiant and disgusted with this person to being subservient again. And it's not just a pleasurable feeling that comes back, it's the complete terror and loss of control that comes back. And I think that's ultimately a great weapon.\"\n\nBroadway legend Andrew Lloyd Webber reportedly told Steinman that he believed the song was \"the greatest love song ever written\", and after hearing Dion's version he predicted, \"This will be the record of the millennium.\"\n\nFinally, in 2006, Meat Loaf recorded the song as a duet on\n\nBat Out of Hell III: The Monster Is Loose.\n\n\"I believe that the version that Marion Raven and myself did on this album is the definitive version,\" Meat Loaf regularly declared while promoting the record, but the record-buying public had already decided otherwise.",
-      "tags": "Bands & Artists",
-      "category": "Хэви-метал",
-      "published": "2026-10-21T17:00:00+00:00",
-      "id": "e303957b3d3c7ceabff4c8d687c703a4aefd6092",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): BEATEN TO DEATH — “VNTRVE”",
-      "link": "https://www.nocleansinging.com/2026/10/21/an-ncs-album-premiere-and-a-review-beaten-to-death-vntrve/",
-      "rss_body": "(written by Islander) The Norwegian band Beaten To Death don’t play by anyone else’s rules. In the most rudimentary of terms their music is grindcore, but it’s so infiltrated by unorthodox ideas that it rarely sounds quite like the work of any other band in that rebellious genre. This excerpt from recent press materials makes\n\n[...]",
-      "tags": "Premieres Beaten To Death",
-      "category": "Экстремальный метал",
-      "published": "2026-10-21T16:35:19+00:00",
-      "id": "37ed19528eceeca962fa227312de46e0a00abcb1",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Former Killswitch Engage bandmates Howard Jones and Adam D detail new project Burn Eternal, sign to Metal Blade Records",
-      "link": "https://www.loudersound.com/news/killswitch-engage-adam-d-howard-jones-launch-burn-eternal-band-2026",
-      "rss_body": "Former\n\nKillswitch Engage\n\ncohorts Howard Jones and Adam Dutkiewicz have reunited in new band Burn Eternal.\n\nThe US tandem announced today (Wednesday, October 21) that they have inked a deal with heavy metal label Metal Blade Records and will release their first song soon.\n\nThe news follows years of teases about the project and their as-yet-unannounced debut album, which was recorded in 2023 and 2024.\n\nSinger Jones comments: “We couldn’t be more excited to announce Burn Eternal joining forces with Metal Blade for our debut album. The whole team has been amazing, and we can’t wait to get this music out. From an idea while having lunch in London to a completed album, this has been such a fun way to reconnect with my friend. Burn Eternal lives!”\n\nGuitarist Dutkiewicz adds: “I am wicked excited to finally be able to share my project with Howard with all of you! It feels great to be hanging with an old friend and making more music with him. We’re just two goofballs just dicking around in the studio again. We are also excited to be putting it out with the Metal Blade family. Mostly because they truly feel like family, not a corporation. Good vibes abound!”\n\nDutkiewicz co-founded Killswitch Engage, one of the biggest bands in modern metalcore, in 1999, and Jones joined their lineup in 2002, replacing Jesse Leach. With Jones upfront, the band made a series of era-defining albums, including 2004’s\n\nThe End Of Heartache\n\nand 2006’s\n\nAs Daylight Dies\n\n. The singles\n\nMy Curse\n\n,\n\nThe End Of Heartache\n\nand\n\nHoly Diver\n\n(a cover of Dio’s 1983 anthem) were smash hits which enjoyed extensive MTV airplay.\n\nJones departed Killswitch in 2012 due to personal struggles and was replaced by his predecessor Leach. The exit was amicable, and the singer temporarily reunited with the band as a guest at select live shows in 2018, before handling co-lead vocals on 2019 single\n\nThe Signal Fire\n\n.\n\nTalk of Burn Eternal kicked off in 2023, when Jones revealed via social media that he and Dutkiewicz were in the studio together. “1st song down, 11 to go,” he wrote on Instagram. That December, the singer shared that\n\nvocal recording for he album was finished\n\n. It\n\nwas confirmed in December 2024\n\nthat the album had been mixed.\n\nMeanwhile, Killswitch continue to record and tour. They put out their latest album\n\nThis Consequence\n\nlast year and will start a run of shows in Australia and New Zealand at the end of the month. See dates and get tickets\n\nvia their website\n\n.",
-      "tags": "Bands & Artists",
-      "category": "Хэви-метал",
-      "published": "2026-10-21T16:30:15+00:00",
-      "id": "fe613c15e05ab5998c7639a6bc2fe6e73b7056f3",
-      "retry_after": 0
+      "retry_after": 1792631203
     },
     {
       "source": "Decibel",
@@ -3966,7 +3935,31 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T21:01:51+00:00",
       "id": "e33886430e8631d7bc8766db7250f00352799395",
-      "retry_after": 1792623168
+      "retry_after": 1792631199
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Blood Of The Earth (Thy Will Be Done, Ex-Crowbar, Etc.) Premiere “The Constellation”",
+      "link": "https://www.theprp.com/2026/10/21/news/blood-of-the-earth-thy-will-be-done-ex-crowbar-etc-premiere-the-constellation/",
+      "rss_body": "Their new EP arrives this Friday.",
+      "tags": "News Blood Of The Earth Crowbar Thy Will Be Done",
+      "category": "Хэви-метал",
+      "published": "2026-10-22T00:26:27+00:00",
+      "id": "e37d3424cecd4b467ab1c22ad5814f30c4513ea9",
+      "retry_after": 1792631170
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Nirvana’s Cover Of Shocking Blue’s “Love Buzz” Goes Gold In The U.S.",
+      "link": "https://www.theprp.com/2026/10/21/news/nirvanas-cover-of-shocking-blues-love-buzz-goes-gold-in-the-u-s/",
+      "rss_body": "The lead single from \"Bleach\".",
+      "tags": "News Nirvana",
+      "category": "Хэви-метал",
+      "published": "2026-10-21T23:50:16+00:00",
+      "id": "cf82ba1fd8519adf766294c270a4c36d37cbb2f1",
+      "retry_after": 1792631180
     }
   ]
 }
