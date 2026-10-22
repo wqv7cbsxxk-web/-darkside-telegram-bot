@@ -1064,7 +1064,7 @@
       "website": "http://foofighters.com",
       "reference_url": "https://en.wikipedia.org/wiki/Foo_Fighters",
       "reference_checked_at": "2026-10-20T10:22:19.799147+00:00",
-      "tour_attempted_at": "2026-10-18T01:33:18.900707+00:00",
+      "tour_attempted_at": "2026-10-22T23:23:47.572267+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T10:22:19.799170+00:00"
     },
@@ -1106,7 +1106,7 @@
       "website": "http://gentlegiantband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gentle_Giant",
       "reference_checked_at": "2026-10-20T10:22:20.009105+00:00",
-      "tour_attempted_at": "2026-10-18T01:33:19.588986+00:00",
+      "tour_attempted_at": "2026-10-22T23:23:48.181870+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T10:22:20.009127+00:00"
     },
@@ -1164,7 +1164,7 @@
       "website": "http://genesis-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Genesis_%28band%29",
       "reference_checked_at": "2026-10-20T10:22:20.363762+00:00",
-      "tour_attempted_at": "2026-10-18T01:33:19.948945+00:00",
+      "tour_attempted_at": "2026-10-22T23:23:48.575149+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T10:22:20.363783+00:00"
     },
@@ -1182,7 +1182,7 @@
       "website": "http://ghost-official.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ghost_%28Swedish_band%29",
       "reference_checked_at": "2026-10-20T19:23:14.524298+00:00",
-      "tour_attempted_at": "2026-10-18T01:33:20.327436+00:00",
+      "tour_attempted_at": "2026-10-22T23:23:48.980617+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T19:23:14.524351+00:00"
     },
@@ -3797,10 +3797,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://hakenmusic.com",
       "reference_url": "https://en.wikipedia.org/wiki/Haken_%28band%29",
-      "reference_checked_at": "2026-10-15T19:18:30.387984+00:00",
+      "reference_checked_at": "2026-10-22T23:23:46.753772+00:00",
       "tour_attempted_at": "2026-10-20T19:23:18.258954+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T19:18:30.388057+00:00"
+      "reference_attempted_at": "2026-10-22T23:23:46.753832+00:00"
     },
     "immolation": {
       "origin": "Yonkers, New York , U.S.",
@@ -3827,10 +3827,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://immolation.info",
       "reference_url": "https://en.wikipedia.org/wiki/Immolation_%28band%29",
-      "reference_checked_at": "2026-10-15T19:18:30.462322+00:00",
+      "reference_checked_at": "2026-10-22T23:23:46.868761+00:00",
       "tour_attempted_at": "2026-10-20T19:23:18.664373+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T19:18:30.462341+00:00"
+      "reference_attempted_at": "2026-10-22T23:23:46.868771+00:00"
     },
     "grave-digger": {
       "origin": "Gladbeck , West Germany",
@@ -3845,10 +3845,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://grave-digger-clan.com",
       "reference_url": "https://en.wikipedia.org/wiki/Grave_Digger_%28band%29",
-      "reference_checked_at": "2026-10-15T19:18:30.571614+00:00",
+      "reference_checked_at": "2026-10-22T23:23:46.979383+00:00",
       "tour_attempted_at": "2026-10-20T22:31:17.280469+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T19:18:30.571631+00:00"
+      "reference_attempted_at": "2026-10-22T23:23:46.979396+00:00"
     },
     "imminence": {
       "origin": "Trelleborg , Sweden",
@@ -3875,10 +3875,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.imminenceswe.com",
       "reference_url": "https://en.wikipedia.org/wiki/Imminence_%28band%29",
-      "reference_checked_at": "2026-10-15T19:18:30.690455+00:00",
+      "reference_checked_at": "2026-10-22T23:23:47.056786+00:00",
       "tour_attempted_at": "2026-10-20T22:31:18.993372+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T19:18:30.690550+00:00"
+      "reference_attempted_at": "2026-10-22T23:23:47.056849+00:00"
     },
     "jethro-tull": {
       "origin": "Blackpool , Lancashire, England",
@@ -3909,14 +3909,14 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://jethrotull.com",
       "reference_url": "https://en.wikipedia.org/wiki/Jethro_Tull_%28band%29",
-      "reference_checked_at": "2026-10-15T19:18:30.872512+00:00",
+      "reference_checked_at": "2026-10-22T23:23:47.167797+00:00",
       "tour_attempted_at": "2026-10-20T22:31:19.229858+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T19:18:30.872626+00:00"
+      "reference_attempted_at": "2026-10-22T23:23:47.167885+00:00"
     },
     "mastodon": {
       "origin": "Atlanta, Georgia , U.S.",
-      "genres": "Progressive metal sludge metal stoner metal alternative metal",
+      "genres": "Progressive metal sludge metal stoner metal alternative metal metalcore (early)",
       "years_active": "2000–present",
       "members": [
         {
@@ -3943,10 +3943,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://mastodonrocks.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mastodon_%28band%29",
-      "reference_checked_at": "2026-10-15T19:18:31.105251+00:00",
+      "reference_checked_at": "2026-10-22T23:23:47.307587+00:00",
       "tour_attempted_at": "2026-10-20T22:31:19.991394+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T19:18:31.105421+00:00"
+      "reference_attempted_at": "2026-10-22T23:23:47.307684+00:00"
     },
     "obituary": {
       "origin": "Tampa, Florida , U.S.",
