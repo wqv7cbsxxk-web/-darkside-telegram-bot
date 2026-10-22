@@ -8095,7 +8095,7 @@
     "deicide": {
       "name": "Deicide",
       "musicbrainz_url": "https://musicbrainz.org/artist/0bd96fa4-9835-49b0-a1f2-7421e6a79dfa",
-      "reference_checked_at": "2026-10-06T02:25:58.538980+00:00",
+      "reference_checked_at": "2026-10-22T06:11:11.296521+00:00",
       "genres": "death metal",
       "bandcamp_url": "https://deicide.bandcamp.com/",
       "members": [
@@ -8359,7 +8359,7 @@
     "descape": {
       "name": "Descape",
       "musicbrainz_url": "https://musicbrainz.org/artist/a177dde7-ae06-4f8c-bcd1-15e029c93e48",
-      "reference_checked_at": "2026-10-06T02:26:02.680445+00:00",
+      "reference_checked_at": "2026-10-22T06:11:15.406801+00:00",
       "genres": "",
       "members": [],
       "members_source": "https://musicbrainz.org/artist/a177dde7-ae06-4f8c-bcd1-15e029c93e48",
@@ -8381,6 +8381,12 @@
           "date": "2022-02-25",
           "kind": "ep",
           "source_url": "https://musicbrainz.org/release-group/35fe4ee7-58eb-4f2b-ac27-d599daf17f24"
+        },
+        {
+          "name": "Endless Night",
+          "date": "2024-06-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3c4665e6-126e-4669-bd03-a2073b461674"
         },
         {
           "name": "Searching For Answers",
@@ -8411,6 +8417,12 @@
           "date": "2022-05-20",
           "kind": "ep",
           "source_url": "https://musicbrainz.org/release-group/d3c6663b-b0b6-4055-b057-89d2db54d985"
+        },
+        {
+          "name": "True Colors",
+          "date": "2026-10-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/de18f914-6472-4bf7-a2a1-f0fd50faf6a6"
         },
         {
           "name": "Living A Lie",
@@ -30798,8 +30810,8 @@
     "deep-purple": "2026-10-21T22:49:03.227748+00:00",
     "def-leppard": "2026-10-22T01:03:05.735994+00:00",
     "deftones": "2026-10-22T01:03:10.835862+00:00",
-    "deicide": "2026-10-06T02:25:58.539103+00:00",
-    "descape": "2026-10-06T02:26:02.680542+00:00",
+    "deicide": "2026-10-22T06:11:11.296626+00:00",
+    "descape": "2026-10-22T06:11:15.406844+00:00",
     "destruction": "2026-10-06T09:10:13.564209+00:00",
     "devin-townsend": "2026-10-06T09:10:17.793606+00:00",
     "dio": "2026-10-06T15:59:04.395089+00:00",

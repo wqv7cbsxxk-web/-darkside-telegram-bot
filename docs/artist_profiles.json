@@ -308,7 +308,7 @@
       "website": "http://www.betweentheburiedandme.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Between_The_Buried_And_Me",
       "reference_checked_at": "2026-10-19T17:06:55.755750+00:00",
-      "tour_attempted_at": "2026-10-17T17:33:08.009261+00:00",
+      "tour_attempted_at": "2026-10-22T06:11:00.608800+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-19T17:06:55.755773+00:00"
     },
@@ -342,7 +342,7 @@
       "website": "https://www.blindchannelofficial.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blind_Channel",
       "reference_checked_at": "2026-10-19T17:06:55.955998+00:00",
-      "tour_attempted_at": "2026-10-17T17:33:08.252638+00:00",
+      "tour_attempted_at": "2026-10-22T06:11:00.962263+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-19T17:06:55.956019+00:00"
     },
@@ -355,7 +355,7 @@
       "website": "http://brucespringsteen.net",
       "reference_url": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
       "reference_checked_at": "2026-10-19T17:06:56.584470+00:00",
-      "tour_attempted_at": "2026-10-17T17:33:08.433832+00:00",
+      "tour_attempted_at": "2026-10-22T06:11:01.156786+00:00",
       "instruments": "Vocals guitar harmonica",
       "reference_attempted_at": "2026-10-19T17:06:56.584658+00:00"
     },
@@ -389,7 +389,7 @@
       "website": "http://www.blueoystercult.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blue_Oyster_Cult",
       "reference_checked_at": "2026-10-19T21:31:32.640439+00:00",
-      "tour_attempted_at": "2026-10-17T17:33:08.759424+00:00",
+      "tour_attempted_at": "2026-10-22T06:11:01.570369+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-19T21:31:32.640558+00:00"
     },
@@ -2806,7 +2806,7 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://terrorizergrindcore.net",
       "reference_url": "https://en.wikipedia.org/wiki/Terrorizer",
-      "reference_checked_at": "2026-10-15T00:58:24.733579+00:00",
+      "reference_checked_at": "2026-10-22T06:10:59.097606+00:00",
       "reviewed": {
         "members": [
           {
@@ -2829,7 +2829,7 @@
       },
       "tour_attempted_at": "2026-10-19T21:31:34.777506+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T00:58:24.733653+00:00"
+      "reference_attempted_at": "2026-10-22T06:10:59.097667+00:00"
     },
     "thin-lizzy": {
       "origin": "Dublin , Ireland",
@@ -2864,10 +2864,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://thinlizzyofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Thin_Lizzy",
-      "reference_checked_at": "2026-10-15T00:58:24.936761+00:00",
+      "reference_checked_at": "2026-10-22T06:10:59.228835+00:00",
       "tour_attempted_at": "2026-10-20T00:38:32.076544+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T00:58:24.936931+00:00"
+      "reference_attempted_at": "2026-10-22T06:10:59.228956+00:00"
     },
     "the-rolling-stones": {
       "origin": "London , England",
@@ -2890,10 +2890,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rollingstones.com",
       "reference_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
-      "reference_checked_at": "2026-10-15T00:58:25.553700+00:00",
+      "reference_checked_at": "2026-10-22T06:10:59.550289+00:00",
       "tour_attempted_at": "2026-10-20T00:38:32.257413+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T00:58:25.553940+00:00"
+      "reference_attempted_at": "2026-10-22T06:10:59.550870+00:00"
     },
     "the-pretty-reckless": {
       "origin": "New York City , U.S.",
@@ -2920,10 +2920,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://theprettyreckless.com",
       "reference_url": "https://en.wikipedia.org/wiki/The_Pretty_Reckless",
-      "reference_checked_at": "2026-10-15T00:58:25.733101+00:00",
+      "reference_checked_at": "2026-10-22T06:10:59.791645+00:00",
       "tour_attempted_at": "2026-10-20T00:38:32.457446+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T00:58:25.733123+00:00"
+      "reference_attempted_at": "2026-10-22T06:10:59.791658+00:00"
     },
     "thrice": {
       "origin": "Irvine, California , U.S.",
@@ -2950,10 +2950,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://thrice.net",
       "reference_url": "https://en.wikipedia.org/wiki/Thrice",
-      "reference_checked_at": "2026-10-15T00:58:26.000619+00:00",
+      "reference_checked_at": "2026-10-22T06:10:59.946439+00:00",
       "tour_attempted_at": "2026-10-20T00:38:32.778102+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T00:58:26.000642+00:00"
+      "reference_attempted_at": "2026-10-22T06:10:59.946461+00:00"
     },
     "tom-morello": {
       "origin": "Libertyville, Illinois , U.S.",
@@ -2963,9 +2963,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Tom_Morello",
-      "reference_checked_at": "2026-10-15T00:58:26.229730+00:00",
+      "reference_checked_at": "2026-10-22T06:11:00.070373+00:00",
       "instruments": "Guitar vocals",
-      "reference_attempted_at": "2026-10-15T00:58:26.229752+00:00"
+      "reference_attempted_at": "2026-10-22T06:11:00.070389+00:00"
     },
     "twisted-sister": {
       "origin": "Ho-Ho-Kus, New Jersey , U.S.",
