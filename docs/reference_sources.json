@@ -8435,7 +8435,7 @@
     "devin-townsend": {
       "name": "Devin Townsend",
       "musicbrainz_url": "https://musicbrainz.org/artist/93e8c41e-8e4f-4d08-bbf5-bc1a903b2423",
-      "reference_checked_at": "2026-10-06T09:10:17.793456+00:00",
+      "reference_checked_at": "2026-10-22T11:50:13.096772+00:00",
       "genres": "ambient, metal, progressive, progressive metal, progressive rock",
       "bandcamp_url": "https://devintownsendofficial.bandcamp.com/",
       "website": "https://hevydevy.com/",
@@ -8825,6 +8825,12 @@
           "date": "2014-10-24",
           "kind": "studio",
           "source_url": "https://musicbrainz.org/release-group/df95b547-7548-4091-8e77-28bdb4ffc4cf"
+        },
+        {
+          "name": "War Beyond Words (The War - live)",
+          "date": "2026-10-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e366b730-4980-4b1e-947d-e9956fe7f156"
         },
         {
           "name": "The Moth",
@@ -30783,6 +30789,519 @@
           "source_url": "https://musicbrainz.org/release-group/fc4535fe-27b3-47ac-8c43-6f653b18b24f"
         }
       ]
+    },
+    "destruction": {
+      "name": "Destruction",
+      "musicbrainz_url": "https://musicbrainz.org/artist/371f152d-1643-4b54-b32b-dd13d4c23442",
+      "reference_checked_at": "2026-10-22T11:50:08.735778+00:00",
+      "genres": "metal, thrash metal",
+      "bandcamp_url": "https://destruction.bandcamp.com/",
+      "website": "http://www.destruction.de/",
+      "members": [
+        {
+          "name": "Schmier",
+          "role": "electric bass guitar, lead vocals",
+          "begin": "1999"
+        },
+        {
+          "name": "Randy Black",
+          "role": "drums (drum set)",
+          "begin": "2018"
+        },
+        {
+          "name": "Damir Eskic",
+          "role": "electric guitar",
+          "begin": "2019"
+        },
+        {
+          "name": "Martín Furia",
+          "role": "electric guitar",
+          "begin": "2021"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/371f152d-1643-4b54-b32b-dd13d4c23442",
+      "albums": [
+        {
+          "name": "Diabolical",
+          "date": "2021-12-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/009091d1-6f7b-48f4-a58d-b3f3c9737bb0"
+        },
+        {
+          "name": "Live Attack",
+          "date": "2021-08-13",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/032f360b-c463-4383-9b28-aca0a9c415da"
+        },
+        {
+          "name": "Alive Devastation",
+          "date": "2002-03-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/07d4b68a-d032-3517-8d78-b8ac87642b52"
+        },
+        {
+          "name": "No Faith in Humanity",
+          "date": "2022-02-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0b8500b7-e2d2-4b31-99fe-4d1784d2e6cd"
+        },
+        {
+          "name": "Release From Agony",
+          "date": "1987-12-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0d9bed39-5166-3f7e-a4c4-82f5091d66c7"
+        },
+        {
+          "name": "All Hell Breaks Loose",
+          "date": "2000-05-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0ec29bba-7764-3269-ac5d-cd7533c5a6a5"
+        },
+        {
+          "name": "Day of Reckoning",
+          "date": "2011-02-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0ef1b4fe-35b8-42d1-9b3d-0ba435b6d338"
+        },
+        {
+          "name": "Nuclear Blast Festivals 2000",
+          "date": "2001-05-21",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/12803327-a070-422e-af56-3147a5e8fa66"
+        },
+        {
+          "name": "Destruction",
+          "date": "1994-02-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/12e3ce1f-350d-3fa7-8227-b7a2e4003674"
+        },
+        {
+          "name": "Live Discharge: 20 Years of Total Destruction",
+          "date": "2004-03-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1b87bee1-301f-4685-adbc-241c1ec47d75"
+        },
+        {
+          "name": "Inventor of Evil",
+          "date": "2005-08-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1ccf8071-cca2-3925-9838-59e2e2ad53ce"
+        },
+        {
+          "name": "Mad Butcher / Sentence of Death",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1d120ebf-7caa-326a-a001-cdd2c3c6225b"
+        },
+        {
+          "name": "All Hell Breaks Loose / The Antichrist",
+          "date": "2007-09-14",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1d467bd6-1014-37e0-9374-102ecbe20031"
+        },
+        {
+          "name": "The Big Teutonic 4 – Part II",
+          "date": "2015-02-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1e6e78c0-56bd-4732-8ed7-d3b185be3c1d"
+        },
+        {
+          "name": "Under Attack",
+          "date": "2016-05-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/27a00260-609f-4d67-92d5-a60acd7e9c22"
+        },
+        {
+          "name": "Eternal Devastation",
+          "date": "1986-07-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2fbd72b3-1dc5-3c84-8e59-1f899768b64f"
+        },
+        {
+          "name": "Bestial Invasion / The Ritual",
+          "date": "2021-12-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/30615e1a-6097-4ee7-8551-0df0d3926304"
+        },
+        {
+          "name": "Release From Agony / Eternal Devastation",
+          "date": "1989-09-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/31be79c8-cce3-4500-bbcd-970e24cbe689"
+        },
+        {
+          "name": "Best of Destruction",
+          "date": "1990-09-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/32e3caaa-2d8c-3320-9529-a94498ad7572"
+        },
+        {
+          "name": "Inventor of Evil",
+          "date": "2004",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3558d443-a165-4639-8234-f5c086ae658f"
+        },
+        {
+          "name": "Repent You Sins",
+          "date": "2022-04-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3c9f032d-b51d-4ed1-bc85-42b0f5d74886"
+        },
+        {
+          "name": "Curse the Gods / United by Hatred",
+          "date": "2021-12-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/41542fe5-4e67-4966-a601-c4b0c8474767"
+        },
+        {
+          "name": "Sentence of Death / Infernal Overkill",
+          "date": "1988-06-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/459719ef-62e4-4248-b45c-7dd196ac8726"
+        },
+        {
+          "name": "Wildstyle - Immortality / Fooled by Your Guts",
+          "date": "2014-06-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4c5f6b10-56a4-4924-b26d-83596391a9ab"
+        },
+        {
+          "name": "Infernal Overkill",
+          "date": "1985-05-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4f8d655b-92ad-3977-a89d-349f2d267880"
+        },
+        {
+          "name": "Death Comes… 9",
+          "date": "2001-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/55cdc5c3-cbab-4bce-94a7-e3206c4113d9"
+        },
+        {
+          "name": "A Savage Symphony - The History Of Annihilation",
+          "date": "2010-01-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5761d5e5-f74d-4605-b2df-a33c42315c99"
+        },
+        {
+          "name": "Invincible Invasion",
+          "date": "1986",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5f3af13a-16c3-48f2-9ea8-38063b297820"
+        },
+        {
+          "name": "Born to Perish",
+          "date": "2019-05-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/64f25522-e0a6-4538-9135-37a83167ff98"
+        },
+        {
+          "name": "The Butcher Strikes Back",
+          "date": "2022-11-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/68f7f93a-34e4-4bda-98d7-bce9b68be0fb"
+        },
+        {
+          "name": "Mad Butcher",
+          "date": "1986",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6be5a01c-545e-3cfd-9dff-3ca6c3913207"
+        },
+        {
+          "name": "Thrash United 2014",
+          "date": "2014",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6cff41b4-5698-44c9-b150-c99438084ebf"
+        },
+        {
+          "name": "Mad Butcher / Eternal Devastation",
+          "date": "1987-10-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6fe9cfa0-9f6f-4f58-8023-4e116a169463"
+        },
+        {
+          "name": "Spiritual Genocide",
+          "date": "2012-11-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/71c9d7ec-b959-4398-9bf6-5b1af7b7d406"
+        },
+        {
+          "name": "D.E.V.O.L.U.T.I.O.N.",
+          "date": "2008-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/73531f4a-8942-38a5-816e-9537dba0d04a"
+        },
+        {
+          "name": "Born to Perish",
+          "date": "2019-08-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/74df9d41-440f-4313-abf4-1238546bb47a"
+        },
+        {
+          "name": "Thrash Anthems II",
+          "date": "2017-07-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/762223d6-6f10-4c3e-91ce-a9ac15137870"
+        },
+        {
+          "name": "Bestial Invasion of Hell / End of the World",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/81333a2c-f9db-479b-ade5-1344b82bfcd7"
+        },
+        {
+          "name": "The Least Successful Human Cannonball",
+          "date": "1998",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/87c30eb2-7b1e-37d0-9df4-5585191acb77"
+        },
+        {
+          "name": "The Devil Strikes Again / Second to None",
+          "date": "2016-04-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/984a7cb8-5236-405a-991e-f0f01920879b"
+        },
+        {
+          "name": "2 Originals of Destruction",
+          "date": "2000-05-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9c612b15-3726-40f6-9439-a849247960d5"
+        },
+        {
+          "name": "Destruction",
+          "date": "2024-11-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a1cec979-5ddb-4f95-b8ff-6cbbdb7b60e4"
+        },
+        {
+          "name": "Mad Butcher / Reject Emotions",
+          "date": "2022-01-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a896b8e7-8396-45e6-979d-ed5813c46ee8"
+        },
+        {
+          "name": "Rehearsal Demo",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a9d6c222-f242-419e-b9bc-c9a2a061ec6f"
+        },
+        {
+          "name": "Trapped in Lunatic Possession",
+          "date": "2023-01-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/af4b5f1d-536d-4ff8-97cf-305e7f9c6fb5"
+        },
+        {
+          "name": "The Curse of the Antichrist – Live in Agony",
+          "date": "2009-09-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b244c6a8-2433-437f-9107-bea535b196fa"
+        },
+        {
+          "name": "A Black Metal Night",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b51001c4-60e0-4b08-b5b4-0d2d0af51986"
+        },
+        {
+          "name": "Live – Without Sense",
+          "date": "1989",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b5cb94f2-cb90-3546-8169-a0423961cc64"
+        },
+        {
+          "name": "Live - Without Sense / Mad Butcher",
+          "date": "1993-06-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b863be5c-9823-4487-bae0-c97b2e495927"
+        },
+        {
+          "name": "The Butcher Strikes Back",
+          "date": "1999-07-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b961a05d-bb95-41b8-a4dc-5f7ba6a1a61f"
+        },
+        {
+          "name": "Them Not Me",
+          "date": "1995-06-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ba67f7c2-c030-33df-b545-4d6238b3abfc"
+        },
+        {
+          "name": "Cracked Brain",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bb667b67-ec88-4f19-867a-af79a3e98df1"
+        },
+        {
+          "name": "Whiplash",
+          "date": "2001-07-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bc1e9cda-b151-4214-b94e-61f40ceb928c"
+        },
+        {
+          "name": "Scumbag Human Race",
+          "date": "2025-02-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bd910fc7-cf0b-4d30-b2a9-f7b8f0a508a8"
+        },
+        {
+          "name": "Bestial Invasion of Hell",
+          "date": "1984",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/be13757c-e19c-42d3-b2b7-733aabd5233a"
+        },
+        {
+          "name": "Thrash Anthems",
+          "date": "2006",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c192c30a-18c7-3b8c-87d4-ba4f9648ff21"
+        },
+        {
+          "name": "Tales of Morbid Brains",
+          "date": "2021-07-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c34ddff5-b117-4549-adf0-cb14e4765289"
+        },
+        {
+          "name": "Birth of Malice",
+          "date": "2025-03-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c3d573b0-d5ee-46ce-913a-a562c339dd68"
+        },
+        {
+          "name": "The Big Teutonic 4",
+          "date": "2012-12-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c4fd6721-61b1-4ff2-8a98-f7279edc8094"
+        },
+        {
+          "name": "Antichrist / Tormentor",
+          "date": "2021-12-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c648636c-1cc2-4658-b5db-cfaa1701bfbc"
+        },
+        {
+          "name": "No Kings - No Masters",
+          "date": "2024-06-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c8dbad40-598e-449f-80e1-aa8a20a02288"
+        },
+        {
+          "name": "Total Desaster/ Satan‘s Vengeance",
+          "date": "2021-12-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ce61f910-b4ac-4d64-b77c-0b9d36361ce4"
+        },
+        {
+          "name": "The Antichrist",
+          "date": "2001-08-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d770c86d-f803-3321-b47a-dac44f5b55fc"
+        },
+        {
+          "name": "Black Death",
+          "date": "2017-07-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dcea67d4-dea7-47bb-bcef-f6cd618a53e5"
+        },
+        {
+          "name": "Cracked Brain",
+          "date": "1990-06-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dd062db1-1c2d-388c-9432-80c4bc58c4b2"
+        },
+        {
+          "name": "Diabolical",
+          "date": "2022-04-08",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dfad4ea6-3be8-4bda-991d-13a5f5491b39"
+        },
+        {
+          "name": "State of Apathy",
+          "date": "2021-08-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e2ffd448-2b1a-4df9-a21b-6dee77358278"
+        },
+        {
+          "name": "United by Hatred",
+          "date": "2017-10-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e3001dd0-37fe-4c09-a739-f5370c2d2c46"
+        },
+        {
+          "name": "Fast as a Shark",
+          "date": "2024-07-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e3cc8aef-d7ae-4a43-8492-1f7997772ad8"
+        },
+        {
+          "name": "The Nuclear Blast Recordings",
+          "date": "2018-11-16",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e43de084-9163-4501-bc64-d34ce9c58c7d"
+        },
+        {
+          "name": "Live at World War III",
+          "date": "2010",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e6a28c71-87b9-4759-9602-74f9acf8b395"
+        },
+        {
+          "name": "Sentence of Death",
+          "date": "1984-09-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ef137689-0529-3954-ac4d-469f59f72f13"
+        },
+        {
+          "name": "A.N.G.S.T",
+          "date": "2025-01-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f12ffab5-7907-4869-a604-b284dd742fd9"
+        },
+        {
+          "name": "Metal Discharge",
+          "date": "2003-09-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f4364d99-764f-3689-bf5e-4585d541750c"
+        },
+        {
+          "name": "Betrayal",
+          "date": "2019-07-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f9d6c9f7-4c83-4b6e-a8d0-322a87a09b2f"
+        },
+        {
+          "name": "Born to Thrash (Live in Germany)",
+          "date": "2020-05-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fa4216c1-98e1-4e13-89bc-0d1cc9f62697"
+        },
+        {
+          "name": "Diabolical",
+          "date": "2023-05-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fabd62a5-14b3-47c7-bea8-defd931f3adf"
+        },
+        {
+          "name": "Diabolical - EP",
+          "date": "2021-12-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fc8c5974-7985-4b3a-9616-d1241377614d"
+        },
+        {
+          "name": "The Art of Dying / Tempo of the Damned",
+          "date": "2004",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fdc2e6e3-1f64-4a71-a691-fe1900d27b35"
+        },
+        {
+          "name": "Birth of Malice EP",
+          "date": "2024-12-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fe76e3c8-b114-40be-b1ad-43bfaa4bc06a"
+        }
+      ]
     }
   },
   "checked": {
@@ -30812,8 +31331,8 @@
     "deftones": "2026-10-22T01:03:10.835862+00:00",
     "deicide": "2026-10-22T06:11:11.296626+00:00",
     "descape": "2026-10-22T06:11:15.406844+00:00",
-    "destruction": "2026-10-06T09:10:13.564209+00:00",
-    "devin-townsend": "2026-10-06T09:10:17.793606+00:00",
+    "destruction": "2026-10-22T11:50:08.735928+00:00",
+    "devin-townsend": "2026-10-22T11:50:13.096980+00:00",
     "dio": "2026-10-06T15:59:04.395089+00:00",
     "dismember": "2026-10-06T15:59:05.690788+00:00",
     "dokken": "2026-10-06T20:47:33.912726+00:00",
