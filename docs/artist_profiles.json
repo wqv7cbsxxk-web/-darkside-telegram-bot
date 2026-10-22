@@ -584,7 +584,7 @@
       "website": "http://defleppard.com",
       "reference_url": "https://en.wikipedia.org/wiki/Def_Leppard",
       "reference_checked_at": "2026-10-20T05:29:37.222279+00:00",
-      "tour_attempted_at": "2026-10-17T21:47:41.649368+00:00",
+      "tour_attempted_at": "2026-10-22T16:08:51.481389+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T05:29:37.222551+00:00"
     },
@@ -873,7 +873,7 @@
       "website": "http://hevydevy.com",
       "reference_url": "https://en.wikipedia.org/wiki/Devin_Townsend",
       "reference_checked_at": "2026-10-20T05:29:37.871218+00:00",
-      "tour_attempted_at": "2026-10-17T21:47:42.293394+00:00",
+      "tour_attempted_at": "2026-10-22T16:08:51.890303+00:00",
       "instruments": "Vocals guitar keyboards",
       "reference_attempted_at": "2026-10-20T05:29:37.871238+00:00"
     },
@@ -891,7 +891,7 @@
       "website": "http://www.ronniejamesdio.com",
       "reference_url": "https://en.wikipedia.org/wiki/Dio_%28band%29",
       "reference_checked_at": "2026-10-20T05:29:37.976374+00:00",
-      "tour_attempted_at": "2026-10-17T21:47:44.502872+00:00",
+      "tour_attempted_at": "2026-10-22T16:08:53.919560+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T05:29:37.976388+00:00"
     },
@@ -917,7 +917,7 @@
       "website": "http://dokken.net",
       "reference_url": "https://en.wikipedia.org/wiki/Dokken",
       "reference_checked_at": "2026-10-20T05:29:38.102499+00:00",
-      "tour_attempted_at": "2026-10-17T21:47:45.031045+00:00",
+      "tour_attempted_at": "2026-10-22T16:08:54.560758+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T05:29:38.102520+00:00"
     },
@@ -3300,7 +3300,7 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://wittr.com",
       "reference_url": "https://en.wikipedia.org/wiki/Wolves_In_The_Throne_Room",
-      "reference_checked_at": "2026-10-15T10:24:59.605388+00:00",
+      "reference_checked_at": "2026-10-22T16:08:50.489754+00:00",
       "tour_attempted_at": "2026-10-21T19:40:09.558452+00:00",
       "tour_calendar_year": 2026,
       "events": [
@@ -3443,7 +3443,7 @@
       "qid": "Q763887",
       "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T10:24:59.605444+00:00"
+      "reference_attempted_at": "2026-10-22T16:08:50.489841+00:00"
     },
     "carcass": {
       "origin": "Liverpool , England",
@@ -3470,9 +3470,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Carcass_%28band%29",
-      "reference_checked_at": "2026-10-15T10:24:59.814609+00:00",
+      "reference_checked_at": "2026-10-22T16:08:50.641754+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T10:24:59.814691+00:00"
+      "reference_attempted_at": "2026-10-22T16:08:50.641878+00:00"
     },
     "camel": {
       "origin": "Guildford , Surrey , England",
@@ -3499,10 +3499,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://camelproductions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Camel_%28band%29",
-      "reference_checked_at": "2026-10-15T10:24:59.944724+00:00",
+      "reference_checked_at": "2026-10-22T16:08:50.745116+00:00",
       "tour_attempted_at": "2026-10-20T10:22:22.520681+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T10:24:59.944736+00:00"
+      "reference_attempted_at": "2026-10-22T16:08:50.745138+00:00"
     },
     "anthrax": {
       "origin": "Queens , New York City, U.S.",
@@ -3533,10 +3533,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://anthrax.com",
       "reference_url": "https://en.wikipedia.org/wiki/Anthrax_%28American_band%29",
-      "reference_checked_at": "2026-10-15T10:25:00.218438+00:00",
+      "reference_checked_at": "2026-10-22T16:08:50.956450+00:00",
       "tour_attempted_at": "2026-10-20T10:22:23.008529+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T10:25:00.218553+00:00"
+      "reference_attempted_at": "2026-10-22T16:08:50.956606+00:00"
     },
     "behemoth": {
       "origin": "Gdańsk , Poland",
@@ -3563,10 +3563,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.behemoth.pl",
       "reference_url": "https://en.wikipedia.org/wiki/Behemoth_%28band%29",
-      "reference_checked_at": "2026-10-15T10:25:00.370797+00:00",
+      "reference_checked_at": "2026-10-22T16:08:51.081337+00:00",
       "tour_attempted_at": "2026-10-20T15:19:48.417952+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T10:25:00.370815+00:00"
+      "reference_attempted_at": "2026-10-22T16:08:51.081361+00:00"
     },
     "deicide": {
       "origin": "Tampa, Florida , U.S.",
@@ -3593,10 +3593,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://deicideofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deicide_%28band%29",
-      "reference_checked_at": "2026-10-15T10:25:00.544394+00:00",
+      "reference_checked_at": "2026-10-22T16:08:51.246421+00:00",
       "tour_attempted_at": "2026-10-20T15:19:49.508270+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-15T10:25:00.544414+00:00"
+      "reference_attempted_at": "2026-10-22T16:08:51.246443+00:00"
     },
     "dismember": {
       "origin": "Stockholm , Sweden",
