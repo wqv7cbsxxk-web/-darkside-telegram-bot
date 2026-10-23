@@ -981,49 +981,17 @@
     "bff551bcb648d75176aa4ab4919b5477c50fc87b",
     "1a5382dc77c847a5e5d89a051331628e3c4b5446",
     "5adccfbca82b8ac2ff156d986337340f70df515f",
-    "77d0b937d49cddad51205e75caa127c87baf6ea7"
+    "77d0b937d49cddad51205e75caa127c87baf6ea7",
+    "11ae4696aac4636f223e3dcac451a41f7af739e8",
+    "2125d8377023645bd3699efacb5064fa032bc045",
+    "cb2ae14af824e883608bc710edf3edafe5eeb087",
+    "a5f784452b543bbb1624c606ef459d425c069c1b",
+    "cfdf3b8c520adf751891b2bfa00b1982b33625e7",
+    "f85508b23fdf928943c4d8ab6a0ad748639da858",
+    "ebb9dca224a96562ead058dd5c675870b870e893",
+    "506dc95164383efd7b3d4ecf7572fbfc79c1ae3c"
   ],
   "recent_titles": [
-    {
-      "title": "BLACK ROYAL: “EXTREMOPHILES” (A NEW SONG, A NEW VIDEO, AND AN INTERVIEW)",
-      "source": "No Clean Singing",
-      "ts": 1792491709
-    },
-    {
-      "title": "War From A Harlots Mouth Release Newly Remastered Version Of “Voyeur”",
-      "source": "ThePRP",
-      "ts": 1792491715
-    },
-    {
-      "title": "Лидер MEGADETH хочет нырнуть поглубже",
-      "source": "Darkside",
-      "ts": 1792491719
-    },
-    {
-      "title": "Starset’s “T r a n s f u s 1 0 n” Music Video Is Now Streaming",
-      "source": "ThePRP",
-      "ts": 1792491725
-    },
-    {
-      "title": "Drug Church Schedule November Mini-Tour",
-      "source": "ThePRP",
-      "ts": 1792491729
-    },
-    {
-      "title": "“He pours about three-fourths whiskey and tops it off with a little Coke. And then he stirs it with his finger”: Foo Fighters’ Dave Grohl remembers recording with Motörhead legend Lemmy Kilmister",
-      "source": "Louder",
-      "ts": 1792509248
-    },
-    {
-      "title": "AN NCS PREMIERE: SACCAGE — “BÉTON ARMÉ”",
-      "source": "No Clean Singing",
-      "ts": 1792509266
-    },
-    {
-      "title": "Blast Worship: Void Bringer",
-      "source": "Decibel",
-      "ts": 1792509282
-    },
     {
       "title": "TOGETHER TO THE STARS: “IRIDESCENCE”",
       "source": "No Clean Singing",
@@ -1783,6 +1751,46 @@
       "title": "Metallica Share Official “Lux Æterna” Live Video From Their Residency At The Sphere",
       "source": "ThePRP",
       "ts": 1792787381
+    },
+    {
+      "title": "How Mastodon coped with the grief of two deaths and made their most cathartic album",
+      "source": "Louder",
+      "ts": 1792798005
+    },
+    {
+      "title": "Following Recent Sleep Token Controversy, Mystery Band Arcus Drop “Rebirth” Music Video",
+      "source": "ThePRP",
+      "ts": 1792798012
+    },
+    {
+      "title": "Surgeon (Ex-Reflections) Announce New Album “Aphantasia”",
+      "source": "ThePRP",
+      "ts": 1792798017
+    },
+    {
+      "title": "Meshuggah, Testament, Crowbar, YOB, Etc. Booked For 2027 ‘Milwaukee Metal Fest’",
+      "source": "ThePRP",
+      "ts": 1792798030
+    },
+    {
+      "title": "Official Live Footage Of 200 Stab Wounds’ 2026 ‘Welcome To Rockville’ Set Released",
+      "source": "ThePRP",
+      "ts": 1792798033
+    },
+    {
+      "title": "New Live Video Of Scott Weiland Covering “Vasoline” In Anaheim Released",
+      "source": "ThePRP",
+      "ts": 1792798037
+    },
+    {
+      "title": "Wisdom In Chains Join Up With Street Dogs & More On New Tribute To Lou Koller",
+      "source": "ThePRP",
+      "ts": 1792798047
+    },
+    {
+      "title": "Bad Wolves Release New Version Of Their Cover Of “Jolene” Featuring Previously Recorded Vocals From Dolly Parton",
+      "source": "ThePRP",
+      "ts": 1792798093
     }
   ],
   "initialized_sources": [
@@ -4189,7 +4197,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:55:16+00:00",
       "id": "7d881e61f623240cc1a09686017df479d5eac784",
-      "retry_after": 1792787559
+      "retry_after": 1792798347
     },
     {
       "source": "Metal Injection",
@@ -4201,7 +4209,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:30:17+00:00",
       "id": "1b72fc34cfd5e4c5f25ddefe449014d65c177d0b",
-      "retry_after": 1792787567
+      "retry_after": 1792798347
     },
     {
       "source": "Metal Injection",
@@ -4213,7 +4221,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:10:55+00:00",
       "id": "b49077d63d1f09118e8b3c91e974e85121310022",
-      "retry_after": 1792787572
+      "retry_after": 1792798348
     },
     {
       "source": "Metal Injection",
@@ -4225,7 +4233,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T18:29:44+00:00",
       "id": "6ec9524110f6d2da6e4dedf2c81e2c66166fc545",
-      "retry_after": 1792787582
+      "retry_after": 1792798348
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4237,7 +4245,7 @@
       "category": "Хард-рок",
       "published": "2026-10-23T18:23:52+00:00",
       "id": "c3d12fd5e417d95a835cc5facc90c3adb4d45dd8",
-      "retry_after": 1792787618
+      "retry_after": 1792798370
     },
     {
       "source": "Metal Injection",
@@ -4249,19 +4257,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T17:36:14+00:00",
       "id": "4257d4108cd1a43a74f434c1af0c35cb5d52d5ce",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Bad Wolves Release New Version Of Their Cover Of “Jolene” Featuring Previously Recorded Vocals From Dolly Parton",
-      "link": "https://www.theprp.com/2026/10/23/news/bad-wolves-release-new-version-of-their-cover-of-jolene-featuring-previously-recorded-vocals-from-dolly-parton/",
-      "rss_body": "The group had the support of Parton's estate for this latest version.",
-      "tags": "News Bad Wolves Dolly Parton",
-      "category": "Хэви-метал",
-      "published": "2026-10-23T17:32:21+00:00",
-      "id": "506dc95164383efd7b3d4ecf7572fbfc79c1ae3c",
-      "retry_after": 0
+      "retry_after": 1792798370
     },
     {
       "source": "No Clean Singing",
