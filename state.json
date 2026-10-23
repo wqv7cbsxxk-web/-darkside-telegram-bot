@@ -973,49 +973,17 @@
     "a055a9ac2c30c6b3453d78b978d1f46aaa2bd627",
     "745b3fd3a4dbfb63ad4840206ba2ce86a4a07d3f",
     "f6caad3e9149ce184f78a316afcc487f2e99ea7b",
-    "1b908c062488b6b2048e5be14308fb53c1ece01c"
+    "1b908c062488b6b2048e5be14308fb53c1ece01c",
+    "cb57b12855e103738c868fb8e3468406087e6518",
+    "3ac7d3c53616ef3e28016c5d804a3fbbabce5872",
+    "95959f350b1f9d13ba856311a6908c2b707f3956",
+    "a0198314f11ae36e6911640dfd5c3f705fa48b51",
+    "bff551bcb648d75176aa4ab4919b5477c50fc87b",
+    "1a5382dc77c847a5e5d89a051331628e3c4b5446",
+    "5adccfbca82b8ac2ff156d986337340f70df515f",
+    "77d0b937d49cddad51205e75caa127c87baf6ea7"
   ],
   "recent_titles": [
-    {
-      "title": "Watch: Bring Me The Horizon’s Oli Sykes & Spiritbox’s Courtney LaPlante Perform “If The Sun Burns Out Tonight” At Valorant Champions Grand Finals Opening Ceremony",
-      "source": "ThePRP",
-      "ts": 1792473940
-    },
-    {
-      "title": "Gates To Hell Drop Off Despised Icon, Carnifex & Suffocation European/UK Tour, Replacements Announced",
-      "source": "ThePRP",
-      "ts": 1792473947
-    },
-    {
-      "title": "BLACK MASK – VESTIGE OF MERCY",
-      "source": "No Clean Singing",
-      "ts": 1792473963
-    },
-    {
-      "title": "Robert Plant says the death of his son changed his relationship with Led Zeppelin",
-      "source": "Louder",
-      "ts": 1792473975
-    },
-    {
-      "title": "BITTER LOSS: “THE FUTILE DREAM OF BEING”",
-      "source": "No Clean Singing",
-      "ts": 1792474009
-    },
-    {
-      "title": "Def Leppard Announce Massive 2027 North American Tour",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792491592
-    },
-    {
-      "title": "GODFLESH: “DECAY”",
-      "source": "No Clean Singing",
-      "ts": 1792491643
-    },
-    {
-      "title": "AN NCS PREMIERE: ELITIST — “TO UNSEE, TO UNTETHER”",
-      "source": "No Clean Singing",
-      "ts": 1792491658
-    },
     {
       "title": "BLACK ROYAL: “EXTREMOPHILES” (A NEW SONG, A NEW VIDEO, AND AN INTERVIEW)",
       "source": "No Clean Singing",
@@ -1775,6 +1743,46 @@
       "title": "HEART OF WINTER FESTIVAL 2027 PREVIEW",
       "source": "No Clean Singing",
       "ts": 1792775437
+    },
+    {
+      "title": "Slaughter To Prevail's Alex Terrible shares new views on masculinity, hopes to inspire others to face fears",
+      "source": "Louder",
+      "ts": 1792787258
+    },
+    {
+      "title": "Oceans Ate Alaska’s New Album “Purge” Due In January, “Bring You Back” Music Video Launched",
+      "source": "ThePRP",
+      "ts": 1792787266
+    },
+    {
+      "title": "System Of A Down Announce Third Rose Bowl Stadium Show, Gojira To Open",
+      "source": "ThePRP",
+      "ts": 1792787271
+    },
+    {
+      "title": "Colepitz Release “Knock” Video Alongside Their First New Album In 16 Years",
+      "source": "ThePRP",
+      "ts": 1792787281
+    },
+    {
+      "title": "Skrapegoat (Ex-Skrape, Etc.) Announce Their First-Ever Live Show",
+      "source": "ThePRP",
+      "ts": 1792787318
+    },
+    {
+      "title": "Top 30 '70s Kiss Songs",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792787373
+    },
+    {
+      "title": "System Of A Down Announce Second Rose Bowl Stadium Show With Pierce The Veil",
+      "source": "ThePRP",
+      "ts": 1792787377
+    },
+    {
+      "title": "Metallica Share Official “Lux Æterna” Live Video From Their Residency At The Sphere",
+      "source": "ThePRP",
+      "ts": 1792787381
     }
   ],
   "initialized_sources": [
@@ -3778,7 +3786,7 @@
     {
       "source": "Metal Injection",
       "priority": 92,
-      "title": "Iron Maiden Drummer Nicko McBrain Says Trump and His “Bunch of Cronies” Should Be Put in Jail",
+      "title": "Former Iron Maiden Drummer Nicko McBrain Says Trump and His “Bunch of Cronies” Should Be Put in Jail",
       "link": "https://metalinjection.net/news/iron-maiden-drummer-nicko-mcbrain-says-trump-and-his-bunch-of-cronies-should-be-put-in-jail",
       "rss_body": "Nicko McBrain reveals he turned down a round of golf with Donald Trump, and says the president and his “bunch of cronies” should be put in jail.",
       "tags": "Latest News Iron Maiden nicko mcbrain featured1",
@@ -4169,6 +4177,114 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T12:00:00+00:00",
       "id": "444a4612017f0f8f2a3f285432e9214cb2f8ba22",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "System of a Down Expands Rose Bowl Run to Three Nights; Gojira to Open New Date",
+      "link": "https://metalinjection.net/tour-dates/system-of-a-down-expands-rose-bowl-run-to-three-nights-gojira-to-open-new-date",
+      "rss_body": "Californians are getting absolutely spoiled by System of a Down lately.",
+      "tags": "Tour Dates Gojira System Of A Down Pierce The Veil",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T19:55:16+00:00",
+      "id": "7d881e61f623240cc1a09686017df479d5eac784",
+      "retry_after": 1792787559
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Bad Wolves Finally Got Dolly Parton's Vocals On Their \"Jolene\" Cover",
+      "link": "https://metalinjection.net/new-music/bad-wolves-finally-got-dolly-partons-vocals-on-their-jolene-cover",
+      "rss_body": "Its video features students from Nashville's School Of Rock.",
+      "tags": "New Music Bad Wolves DOLLY PARTON",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T19:30:17+00:00",
+      "id": "1b72fc34cfd5e4c5f25ddefe449014d65c177d0b",
+      "retry_after": 1792787567
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Machine Head, Suicide Silence, Tony Iommi & More Added to Metal Injection's Top Tracks of The Week",
+      "link": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/machine-head-suicide-silence-tony-iommi-more-added-to-metal-injections-top-tracks-of-the-week",
+      "rss_body": "You're simply not ready for the tsunami of new tunes hitting the net today.",
+      "tags": "Top Tracks Of The Week Suicide Silence Machine Head tony iommi POLYPHIA Entheos sink gun ghaol",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T19:10:55+00:00",
+      "id": "b49077d63d1f09118e8b3c91e974e85121310022",
+      "retry_after": 1792787572
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Billy Corgan Stands by Marilyn Manson: \"I Don’t Want the World to Tell Me Who My Friends Are\"",
+      "link": "https://metalinjection.net/news/billy-corgan-stands-by-marilyn-manson-i-dont-want-the-world-to-tell-me-who-my-friends-are",
+      "rss_body": "In a recent interview with The New York Times, Corgan spoke about his continued friendship with Manson despite recent controversies.",
+      "tags": "Latest News Marilyn Manson billy corgan featured",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T18:29:44+00:00",
+      "id": "6ec9524110f6d2da6e4dedf2c81e2c66166fc545",
+      "retry_after": 1792787582
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "How Aerosmith Became Like ‘Family’ to Guns N’ Roses",
+      "link": "https://ultimateclassicrock.com/slash-aerosmith-guns-n-roses-interview-2026/",
+      "rss_body": "Slash looks back at the long history between the two groups in a new interview with UCR.",
+      "tags": "Exclusive Interviews News Aerosmith Guns N' Roses Slash UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-23T18:23:52+00:00",
+      "id": "c3d12fd5e417d95a835cc5facc90c3adb4d45dd8",
+      "retry_after": 1792787618
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Photos: Cradle of Filth, Black Satellite, Black Braid & Worm in New York City",
+      "link": "https://metalinjection.net/photos/photos-cradle-of-filth-black-satellite-black-braid-worm-in-new-york-city",
+      "rss_body": "Photographer P. Neton is making sure you don't miss any of the action.",
+      "tags": "Photos cradle of filth Black Satellite Worm Blackbraid",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T17:36:14+00:00",
+      "id": "4257d4108cd1a43a74f434c1af0c35cb5d52d5ce",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Bad Wolves Release New Version Of Their Cover Of “Jolene” Featuring Previously Recorded Vocals From Dolly Parton",
+      "link": "https://www.theprp.com/2026/10/23/news/bad-wolves-release-new-version-of-their-cover-of-jolene-featuring-previously-recorded-vocals-from-dolly-parton/",
+      "rss_body": "The group had the support of Parton's estate for this latest version.",
+      "tags": "News Bad Wolves Dolly Parton",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T17:32:21+00:00",
+      "id": "506dc95164383efd7b3d4ecf7572fbfc79c1ae3c",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "SEEN AND HEARD: BEYOND GRACE, MISERY INDEX, ARTIFICIAL BRAIN, OPHIS",
+      "link": "https://www.nocleansinging.com/2026/10/23/seen-and-heard-beyond-grace-misery-index-artificial-brain-ophis/",
+      "rss_body": "(written by Islander) What are the odds? For the second week in a row one of our Friday premieres fell through at the 11th hour, leaving a hole in our schedule and free time I didn’t expect to have. As usual when these things happen, I have pivoted to pull together a roundup of new\n\n[...]",
+      "tags": "Album Reviews RANDOM FUCKING MUSIC SHORT BUT SWEET Artificial Brain Beyond Grace Misery Index Ophis",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T17:18:05+00:00",
+      "id": "2bb7d1483ce02019f604123f43877ed46d8def82",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Machine Head, Floor Jansen and Delain are among the best new metal songs this week",
+      "link": "https://www.loudersound.com/music/tracks-singles/best-new-metal-songs-floor-jansen-machine-head-delain",
+      "rss_body": "Thank god for the weekend! It's feeling like winter is rapidly approaching this week, but we're not quite at the end of year yet with plenty of brilliant new albums to sink our teeth into as we hit the penultimate week of October.\n\nThat in mind, here's the results of\n\nlast week's vote\n\n! Blackgold brought glory to the nu metal revival with\n\nKillaz\n\nlanding a top three position (and if you like that, check out the last two tracks this week!), while Aussie newcomers Nika landed at number two. But ultimately, the crown could only go to the original symphonic metal queen as Tarja teamed up with Apocalyptica for something truly epic in\n\nTango\n\n.\n\nWe've got a diverse bag for you again this week with new singles from Floor Jansen and Delain, plus a surprise drop from Machine Head. There's also a healthy showing from emergent and underground bands, so don't forget to cast your vote in the poll below - and have an excellent weekend!\n\nFloor Jansen - Everything Is Moving On\n\nIt probably would've been a bit on-the-nose for this to have come out with last week's shock announcement that Floor Jansen had left Nightwish, but\n\nEverything Is Moving On\n\nfeels like a perfect summation of the confident way the singer is approaching the future. More a pounding, triumphant old school metal track than the usual symphonic grandeur, it's a great showcase of her powerful voice and shows how she's expanding her repertoire on upcoming solo album\n\nHytress,\n\ndue January 15.\n\nDelain - We Are Fire\n\nTalk about a rough month for\n\nsymphonic metal\n\nfans. Diana Leah has announced her departure from Delain after 2023's\n\nDark Waters\n\nintroduced her as the new singer of the group. Rather than recruit a direct replacement, Delain have announced plans for a star-studded new album that will feature figures including Marko Hietala and Sharon Den Adel. First single\n\nWe Are Fire\n\nsees bandleader Martijn Westerholt recruit Eluveitie's Fabienne Erni, Italian singer Paolo Ribaldini and Noa Gruman of Sabaton's Legendary Orchestra for a typically bombastic and grandiose song.\n\nEvil Invaders - D.S.S. (Death Strikes Suddenly)\n\nGet some thrash in you! Kicking off with a delightful Araya howl, Belgians Evil Invaders are leaning hard on 80s speed with new single\n\nD.S.S. (Death Strikes Suddenly).\n\nIf you're reeling from the recent death of Cronos, this might tackle the evil itch nicely, new album\n\nWeaponized Chaos\n\nset for a February 19 release, with the band touring the UK with Heathen the following month.\n\nVindicta - Idol(l)s\n\nIt's been a year since the line-up of Dogma fractured, and a little under that since former members of the demonic nun group formed Vindicta. Now they've announced they're signed to Napalm Records and put out new single\n\nIdol(l)s,\n\na track that adds a spikier edge to the music they were making in their previous incarnation, seemingly poking fun at the situation its members found themselves in.\n\nMachine Head - Sutures\n\nRobb Flynn's barely let the dust settle on the\n\nUnatoned\n\nera and is already teasing new music.\n\nSutures\n\nis a surprise new single from\n\nMachine Head\n\n, and feels like an especially feral and vicious release from the group, its hardest edges only slightly blunted by some big, chest-beating melodic passages.\n\nZilqy - Misfit Toys\n\nZilqy continue to be one of Japan's most difficult to pin down metal groups. On new single\n\nMisfit Toys\n\nthe band mix hyperactive beats and heavy breakdowns with joyous, typically Japanese melodic choruses to great effect. Taken from the band's debut\n\nBirth Of Riot\n\n- which came out earlier this month - it shows they're another bright new voice to emerge from the island nation.\n\nThe Yagas - Runaway\n\nIt's been almost exactly 18 months since The Yagas released their debut album\n\nMidnight Minuet,\n\na gloriously dark alt. metal album that saw actress Vera Farmiga embrace her inner goth. Now the group are back with a new single in\n\nRunaway\n\n, going full 80s with heavy synth and beats that feel like they should've been threaded into the DNA of movies like\n\nLost Boys\n\nor\n\nNear Dark\n\n.\n\nShooting Daggers - T.R.L.T.\n\nA short, sharp blast of 80s style hardcore punk, London's Shooting Daggers don't really need to reinvent any wheels when they make music this viscerally satisfying. Belligerent in the very best way, it's a great demonstration of this band's infectious energy.\n\nDefences - Death Of A Dream\n\nDefences are going big on old school nu metal vibes on\n\nDeath Of A Dream.\n\nChunky, downtuned guitars that make you want to bound around a pit, little record scratches and even electronic effects on Cherry Duesbury's vocals, it feels like a single that easily could've come right as the new millennium hit, but also doesn't feel dated for the fact.\n\nDead Signal - Follow The Signal\n\nSticking in the realms of nu metal inspiration, Italy's Dead Signal are combining the genre with explosive metalcore to great effect. Sounding like a collision of debut-era Slipknot and\n\nImpossibility Of Reasion\n\n-era Chimaira,\n\nFollow The Signal\n\nis the band's debut single and has us excited to see where they go next.",
+      "tags": "Tracks & Singles Music",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T17:08:59+00:00",
+      "id": "90d5770dc7ea3aa3078fa31969d73edc04fc5bff",
       "retry_after": 0
     }
   ]
