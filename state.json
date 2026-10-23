@@ -941,49 +941,17 @@
     "4a44cd3f184fe23d8929570913fa8603ea434eb1",
     "ffd196e2e58ac2223dd4ec6bb487aedfd1dfe3ec",
     "a574a334757997b222fe1ba92ec51f3fb4eb2fc9",
-    "11404f300b3e72e939497bb8190fd991e05e6744"
+    "11404f300b3e72e939497bb8190fd991e05e6744",
+    "30604f3ff5522a12a6b6f0c06415b6e49d3e1f01",
+    "cf220523de4a5ae7e7824546a96c27f335672724",
+    "e8c3f38b57b3eb775148ce686723b5ea8a3b7114",
+    "07e028e37c641449be58565045573e9fa4724793",
+    "c03ecea64d377c7ed075537ae24687f32d276f48",
+    "e00d0c3ded8988d8a409a4c29c9c711a3f98d4f4",
+    "34c1af0295a3aad9248f5b647d59d2dc120c0d1b",
+    "9255a55ce37c1b5aa696acb9d5265f7519e6bcb0"
   ],
   "recent_titles": [
-    {
-      "title": "Judas Priest Bassist Ian Hill Announces His Retirement",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792405358
-    },
-    {
-      "title": "Guns N' Roses Join Aerosmith's Hollywood Bowl Comeback",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792405376
-    },
-    {
-      "title": "Video Premiere: Narcotic Wasteland – “Fentanyl Zombie Apocalypse”",
-      "source": "Decibel",
-      "ts": 1792405390
-    },
-    {
-      "title": "AN NCS PREMIERE: RITUAAL — “SOULLESS MACHINE”",
-      "source": "No Clean Singing",
-      "ts": 1792405407
-    },
-    {
-      "title": "AN NCS PREMIERE: PENNY COFFIN — “BIOLOGICAL SENTIENT HORROR”",
-      "source": "No Clean Singing",
-      "ts": 1792405423
-    },
-    {
-      "title": "WEREWOLVES: “YOU’RE WEAK AND YOU KNOW YOU’RE WEAK”",
-      "source": "No Clean Singing",
-      "ts": 1792405448
-    },
-    {
-      "title": "“It pulled the whole album together”: How Pink Floyd made High Hopes",
-      "source": "Louder",
-      "ts": 1792429524
-    },
-    {
-      "title": "Meshuggah, Testament, Sylosis, Etc. Booked For 2027 ‘Sonic Temple Art + Music Festival’",
-      "source": "ThePRP",
-      "ts": 1792429530
-    },
     {
       "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): FVNERAL FVKK — “INDECENT IDOLS”",
       "source": "No Clean Singing",
@@ -1743,6 +1711,46 @@
       "title": "HALF ME Launch Music Video Combining Three Tracks From Their New Album “Dogma”",
       "source": "ThePRP",
       "ts": 1792711421
+    },
+    {
+      "title": "\"I thought of me hitting the car's windscreen.\" Deep Purple launch performance video for Splat!",
+      "source": "Louder",
+      "ts": 1792719903
+    },
+    {
+      "title": "Bullet For My Valentine, Black Veil Brides, Loathe & Chad Gray Set For 2027 ‘Welcome To Rockville’",
+      "source": "ThePRP",
+      "ts": 1792719908
+    },
+    {
+      "title": "SIFYN (Ex-Veil Of Maya) Debut “LEXICON”",
+      "source": "ThePRP",
+      "ts": 1792719914
+    },
+    {
+      "title": "Official Footage Of Agriculture’s 2026 ‘Roadburn’ Set Released",
+      "source": "ThePRP",
+      "ts": 1792719917
+    },
+    {
+      "title": "Lifesick’s New Album “When Brutality Becomes The Language” Due In January, “All Eyes On Me” Music Video Debuts",
+      "source": "ThePRP",
+      "ts": 1792719928
+    },
+    {
+      "title": "Viral Drummer El Estepario Siberiano Took On Nine Inch Nails “The Hand That Feeds” From Drumeo’s ‘For The First Time’ Challenge",
+      "source": "ThePRP",
+      "ts": 1792719934
+    },
+    {
+      "title": "Suicide Silence Premiere New Single “Reminders Of Hell”, Drop Drum Playthrough Video",
+      "source": "ThePRP",
+      "ts": 1792719940
+    },
+    {
+      "title": "10 Reunions Every Classic Rock Fan Wants to See",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792720152
     }
   ],
   "initialized_sources": [
@@ -3909,7 +3917,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T15:32:56+00:00",
       "id": "ac8dc65c6820c6b9f770690ddf8f3e86bdd19687",
-      "retry_after": 1792685444
+      "retry_after": 1792720333
     },
     {
       "source": "Metal Injection",
@@ -3921,7 +3929,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T14:42:23+00:00",
       "id": "d05633f54cb8907cf7137d4e100a73ae615d1e91",
-      "retry_after": 1792685535
+      "retry_after": 1792720333
     },
     {
       "source": "Metal Injection",
@@ -3933,7 +3941,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T13:47:38+00:00",
       "id": "21e8a741425459590d3fec44e3909b2175342bc4",
-      "retry_after": 0
+      "retry_after": 1792720333
     },
     {
       "source": "Louder",
@@ -3945,19 +3953,7 @@
       "category": "Прогрессив",
       "published": "2026-10-22T13:34:53+00:00",
       "id": "6eeb08c1c473addc4773d647dfa1505b37547d57",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "10 Reunions Every Classic Rock Fan Wants to See",
-      "link": "https://ultimateclassicrock.com/reunions-classic-rock-fans-want/",
-      "rss_body": "Theo Wargo/Jim Dyson/Jamie McCarthy, Getty Images",
-      "tags": "Lists Original Features Fleetwood Mac Journey Led Zeppelin Motley Crue Pink Floyd Rage Against the Machine Sex Pistols Talking Heads The Police The Smiths UCR",
-      "category": "Хард-рок",
-      "published": "2026-10-22T12:24:33+00:00",
-      "id": "9255a55ce37c1b5aa696acb9d5265f7519e6bcb0",
-      "retry_after": 0
+      "retry_after": 1792720365
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3972,30 +3968,6 @@
       "retry_after": 0
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Lifesick’s New Album “When Brutality Becomes The Language” Due In January, “All Eyes On Me” Music Video Debuts",
-      "link": "https://www.theprp.com/2026/10/22/news/lifesicks-new-album-when-brutality-becomes-the-language-due-in-january-all-eyes-on-me-music-video-debuts/",
-      "rss_body": "*Not Tupac-related.",
-      "tags": "News Lifesick",
-      "category": "Прогрессив",
-      "published": "2026-10-22T17:52:46+00:00",
-      "id": "c03ecea64d377c7ed075537ae24687f32d276f48",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Viral Drummer El Estepario Siberiano Took On Nine Inch Nails “The Hand That Feeds” From Drumeo’s ‘For The First Time’ Challenge",
-      "link": "https://www.theprp.com/2026/10/22/news/viral-drummer-el-estepario-siberiano-took-on-nine-inch-nails-the-hand-that-feeds-from-drumeos-for-the-first-time-challenge/",
-      "rss_body": "He correctly guessed tracks from Pearl Jam, Sum 41, Marilyn Manson and more prior.",
-      "tags": "News El Estepario Siberiano nine inch nails",
-      "category": "Хэви-метал",
-      "published": "2026-10-22T17:15:18+00:00",
-      "id": "e00d0c3ded8988d8a409a4c29c9c711a3f98d4f4",
-      "retry_after": 0
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "Nile’s Karl Sanders Recovering From Multilevel Spinal Fusion Surgery In Neck",
@@ -4005,19 +3977,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T17:13:50+00:00",
       "id": "d5fdd946abcf47a1d6773b84159a6e3fd322a98e",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Suicide Silence Premiere New Single “Reminders Of Hell”, Drop Drum Playthrough Video",
-      "link": "https://www.theprp.com/2026/10/22/news/suicide-silence-premiere-new-single-reminders-of-hell-drop-drum-playthrough-video/",
-      "rss_body": "The third single from their upcoming album \"Graceless\".",
-      "tags": "News Suicide Silence",
-      "category": "Хэви-метал",
-      "published": "2026-10-22T17:02:08+00:00",
-      "id": "34c1af0295a3aad9248f5b647d59d2dc120c0d1b",
-      "retry_after": 0
+      "retry_after": 1792720235
     },
     {
       "source": "Louder",
@@ -4029,7 +3989,7 @@
       "category": "Прогрессив",
       "published": "2026-10-22T17:00:00+00:00",
       "id": "410167cbfc4aa31f9862759d07e770425ab6d270",
-      "retry_after": 0
+      "retry_after": 1792720282
     },
     {
       "source": "No Clean Singing",
@@ -4041,7 +4001,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T16:38:18+00:00",
       "id": "36bc18157eb99265a2b60193acfc9bd98fca81b3",
-      "retry_after": 0
+      "retry_after": 1792720320
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4053,7 +4013,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T16:06:59+00:00",
       "id": "ecf6b753709a47908ac93761781b53c37560f5e4",
-      "retry_after": 0
+      "retry_after": 1792720333
     },
     {
       "source": "Metal Injection",
@@ -4065,43 +4025,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T15:56:25+00:00",
       "id": "06b14815517432a5ae4144cc30568c5f2d4c7ac2",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Bullet For My Valentine, Black Veil Brides, Loathe & Chad Gray Set For 2027 ‘Welcome To Rockville’",
-      "link": "https://www.theprp.com/2026/10/22/news/bullet-for-my-valentine-black-veil-brides-loathe-chad-gray-set-for-2027-welcome-to-rockville/",
-      "rss_body": "One drip-feed reveal ends, another begins.",
-      "tags": "News Bullet For My Valentine Chad Gray Loathe Welcome To Rockville",
-      "category": "Хэви-метал",
-      "published": "2026-10-22T20:27:41+00:00",
-      "id": "cf220523de4a5ae7e7824546a96c27f335672724",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "SIFYN (Ex-Veil Of Maya) Debut “LEXICON”",
-      "link": "https://www.theprp.com/2026/10/22/news/sifyn-ex-veil-of-maya-debut-lexicon/",
-      "rss_body": "The first song the group wrote for their upcoming new EP.",
-      "tags": "News Lukas Magyar SIFYN Veil Of Maya",
-      "category": "Хэви-метал",
-      "published": "2026-10-22T20:19:16+00:00",
-      "id": "e8c3f38b57b3eb775148ce686723b5ea8a3b7114",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Official Footage Of Agriculture’s 2026 ‘Roadburn’ Set Released",
-      "link": "https://www.theprp.com/2026/10/22/news/official-footage-of-agricultures-2026-roadburn-set-released/",
-      "rss_body": "Filmed this past April.",
-      "tags": "News Agriculture",
-      "category": "Хэви-метал",
-      "published": "2026-10-22T20:12:18+00:00",
-      "id": "07e028e37c641449be58565045573e9fa4724793",
-      "retry_after": 0
+      "retry_after": 1792720333
     },
     {
       "source": "Metal Injection",
@@ -4113,7 +4037,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-22T17:58:32+00:00",
       "id": "6afd173a56372c449701cfb9e33acc02aecd6f54",
-      "retry_after": 0
+      "retry_after": 1792720218
     }
   ]
 }
