@@ -1570,7 +1570,7 @@
       "website": "http://dgmlive.com",
       "reference_url": "https://en.wikipedia.org/wiki/King_Crimson",
       "reference_checked_at": "2026-10-20T22:31:15.956674+00:00",
-      "tour_attempted_at": "2026-10-18T15:00:56.524611+00:00",
+      "tour_attempted_at": "2026-10-23T12:14:18.155904+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T22:31:15.956846+00:00"
     },
@@ -1604,7 +1604,7 @@
       "website": "http://judaspriest.com",
       "reference_url": "https://en.wikipedia.org/wiki/Judas_Priest",
       "reference_checked_at": "2026-10-20T22:31:16.238683+00:00",
-      "tour_attempted_at": "2026-10-18T15:00:56.729929+00:00",
+      "tour_attempted_at": "2026-10-23T12:14:18.367800+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-20T22:31:16.238708+00:00"
     },
@@ -1658,7 +1658,7 @@
       "website": "http://kissonline.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kiss_%28band%29",
       "reference_checked_at": "2026-10-21T00:58:13.179880+00:00",
-      "tour_attempted_at": "2026-10-18T15:00:57.506514+00:00",
+      "tour_attempted_at": "2026-10-23T12:14:19.270859+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-21T00:58:13.180051+00:00"
     },
@@ -1688,7 +1688,7 @@
       "website": "http://kreator-terrorzone.de",
       "reference_url": "https://en.wikipedia.org/wiki/Kreator",
       "reference_checked_at": "2026-10-21T00:58:13.436881+00:00",
-      "tour_attempted_at": "2026-10-18T15:00:57.947066+00:00",
+      "tour_attempted_at": "2026-10-23T12:14:19.903626+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-21T00:58:13.436902+00:00"
     },
@@ -4399,8 +4399,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://sodomized.info",
       "reference_url": "https://en.wikipedia.org/wiki/Sodom_%28band%29",
-      "reference_checked_at": "2026-10-16T05:13:32.110063+00:00",
-      "reference_attempted_at": "2026-10-16T05:13:32.110155+00:00",
+      "reference_checked_at": "2026-10-23T12:14:16.549477+00:00",
+      "reference_attempted_at": "2026-10-23T12:14:16.549556+00:00",
       "tour_attempted_at": "2026-10-21T10:43:36.197506+00:00"
     },
     "suffocation": {
@@ -4433,8 +4433,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://suffocationofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Suffocation_%28band%29",
-      "reference_checked_at": "2026-10-16T05:13:32.504478+00:00",
-      "reference_attempted_at": "2026-10-16T05:13:32.504572+00:00",
+      "reference_checked_at": "2026-10-23T12:14:16.667158+00:00",
+      "reference_attempted_at": "2026-10-23T12:14:16.667247+00:00",
       "tour_attempted_at": "2026-10-21T10:43:36.714860+00:00"
     },
     "tesla": {
@@ -4467,8 +4467,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://teslatheband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Tesla_%28band%29",
-      "reference_checked_at": "2026-10-16T05:13:32.617581+00:00",
-      "reference_attempted_at": "2026-10-16T05:13:32.617602+00:00",
+      "reference_checked_at": "2026-10-23T12:14:16.743662+00:00",
+      "reference_attempted_at": "2026-10-23T12:14:16.743681+00:00",
       "tour_attempted_at": "2026-10-21T10:43:37.123961+00:00"
     },
     "testament": {
@@ -4501,8 +4501,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.testamentlegions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Testament_%28band%29",
-      "reference_checked_at": "2026-10-16T05:13:32.924034+00:00",
-      "reference_attempted_at": "2026-10-16T05:13:32.924205+00:00",
+      "reference_checked_at": "2026-10-23T12:14:16.944817+00:00",
+      "reference_attempted_at": "2026-10-23T12:14:16.944929+00:00",
       "tour_attempted_at": "2026-10-21T15:45:38.692184+00:00"
     },
     "uriah-heep": {
@@ -4535,8 +4535,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://uriah-heep.com",
       "reference_url": "https://en.wikipedia.org/wiki/Uriah_Heep_%28band%29",
-      "reference_checked_at": "2026-10-16T05:13:33.092628+00:00",
-      "reference_attempted_at": "2026-10-16T05:13:33.092650+00:00",
+      "reference_checked_at": "2026-10-23T12:14:17.056135+00:00",
+      "reference_attempted_at": "2026-10-23T12:14:17.056158+00:00",
       "tour_attempted_at": "2026-10-21T15:45:38.860833+00:00"
     },
     "venom": {
@@ -4601,8 +4601,8 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://venomslegions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Venom_%28band%29",
-      "reference_checked_at": "2026-10-16T05:13:33.255534+00:00",
-      "reference_attempted_at": "2026-10-16T05:13:33.255554+00:00",
+      "reference_checked_at": "2026-10-23T12:14:17.175624+00:00",
+      "reference_attempted_at": "2026-10-23T12:14:17.175645+00:00",
       "tour_attempted_at": "2026-10-21T15:45:39.654580+00:00"
     },
     "w-a-s-p": {

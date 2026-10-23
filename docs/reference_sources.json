@@ -10944,10 +10944,10 @@
     "fates-warning": {
       "name": "Fates Warning",
       "musicbrainz_url": "https://musicbrainz.org/artist/17fbada3-6dac-42f3-8a6c-8c1c1484f730",
-      "reference_checked_at": "2026-10-12T21:28:28.228771+00:00",
+      "reference_checked_at": "2026-10-23T12:14:27.612531+00:00",
       "genres": "heavy metal, metal, power metal, progressive metal, progressive rock",
       "bandcamp_url": "https://fateswarning.bandcamp.com/",
-      "website": "http://www.fateswarning.com/",
+      "website": "https://www.fateswarning.com/",
       "members": [
         {
           "name": "Jim Matheos",
@@ -11169,7 +11169,7 @@
     "foo-fighters": {
       "name": "Foo Fighters",
       "musicbrainz_url": "https://musicbrainz.org/artist/67f66c07-6e61-4026-ade5-7e782fad3a5d",
-      "reference_checked_at": "2026-10-12T21:28:37.468316+00:00",
+      "reference_checked_at": "2026-10-23T12:14:31.766437+00:00",
       "genres": "alternative rock, grunge, hard rock, post-grunge, rock",
       "bandcamp_url": "https://foofighters.bandcamp.com/",
       "website": "https://www.foofighters.com/",
@@ -31350,8 +31350,8 @@
     "enter-shikari": "2026-10-23T01:49:31.013494+00:00",
     "entombed": "2026-10-23T06:45:42.702897+00:00",
     "exodus": "2026-10-23T06:45:43.988312+00:00",
-    "fates-warning": "2026-10-12T21:28:28.228891+00:00",
-    "foo-fighters": "2026-10-12T21:28:37.469364+00:00",
+    "fates-warning": "2026-10-23T12:14:27.612659+00:00",
+    "foo-fighters": "2026-10-23T12:14:31.767741+00:00",
     "genesis": "2026-10-13T02:45:10.532590+00:00",
     "gentle-giant": "2026-10-13T02:45:15.594304+00:00",
     "ghost": "2026-10-13T09:47:35.546830+00:00",
