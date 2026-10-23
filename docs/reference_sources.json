@@ -9983,7 +9983,7 @@
     "enter-shikari": {
       "name": "Enter Shikari",
       "musicbrainz_url": "https://musicbrainz.org/artist/329f95db-f02e-40bf-a5f7-0dea11529ce3",
-      "reference_checked_at": "2026-10-12T09:21:49.719395+00:00",
+      "reference_checked_at": "2026-10-23T01:49:31.013309+00:00",
       "genres": "alternative rock, electronic, electronicore, experimental, metalcore, nintendocore, post-hardcore, rave, rock, screamo",
       "website": "https://www.entershikari.com/",
       "members": [
@@ -10610,7 +10610,8 @@
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/feae7342-c57d-4639-bea2-dfaf29df1019"
         }
-      ]
+      ],
+      "bandcamp_url": "https://entershikari.bandcamp.com/"
     },
     "entombed": {
       "name": "Entombed",
@@ -31345,8 +31346,8 @@
     "dream-theater": "2026-10-22T20:09:05.915846+00:00",
     "eminem": "2026-10-22T23:23:53.521957+00:00",
     "emperor": "2026-10-22T23:23:54.774002+00:00",
-    "enslaved": "2026-10-12T09:21:45.528509+00:00",
-    "enter-shikari": "2026-10-12T09:21:49.719557+00:00",
+    "enslaved": "2026-10-23T01:49:26.729607+00:00",
+    "enter-shikari": "2026-10-23T01:49:31.013494+00:00",
     "entombed": "2026-10-12T12:49:09.909768+00:00",
     "exodus": "2026-10-12T12:49:11.161861+00:00",
     "fates-warning": "2026-10-12T21:28:28.228891+00:00",
