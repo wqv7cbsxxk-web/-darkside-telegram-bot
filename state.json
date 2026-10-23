@@ -964,49 +964,18 @@
     "92de61c57285954866e473fdb0d2b707ea9400cb",
     "e5666f0661733069b07b44e03216255c621b9bc0",
     "33ff5dd2ed8bcc26cc7549939a85d7bdfc9dbc1a",
-    "f633dc2202050713fb3d1ba6e97c5737d9d7f001"
+    "f633dc2202050713fb3d1ba6e97c5737d9d7f001",
+    "dc1b915ea17b22e1d3ac500150553f8b9ac677f2",
+    "762edc6daefce6f1d8f55f2f78a643b4f0781191",
+    "7283d55fafb21d1259a197ae09e5062bee4e7ceb",
+    "03b5576353619ead5babc831129a23e24706d060",
+    "c4adbfbb7ff1d2ef3c5f15b07a47850ebc12bfcc",
+    "a055a9ac2c30c6b3453d78b978d1f46aaa2bd627",
+    "745b3fd3a4dbfb63ad4840206ba2ce86a4a07d3f",
+    "f6caad3e9149ce184f78a316afcc487f2e99ea7b",
+    "1b908c062488b6b2048e5be14308fb53c1ece01c"
   ],
   "recent_titles": [
-    {
-      "title": "Mark Hunter Reflects On Chimaira Playing Farmclub, Weighs In On The Possibility Of New Music And Lengthier Touring",
-      "source": "ThePRP",
-      "ts": 1792456652
-    },
-    {
-      "title": "The Pretty Reckless release video for About You with Foo Fighters' Dave Grohl and Pat Smear",
-      "source": "Louder",
-      "ts": 1792456664
-    },
-    {
-      "title": "Gradience Debut “Vermin” Music Video, Announce Their First-Ever UK Tour With Survivalist",
-      "source": "ThePRP",
-      "ts": 1792456673
-    },
-    {
-      "title": "Exist Immortal’s “Fall To Find” Music Video Debuts",
-      "source": "ThePRP",
-      "ts": 1792456676
-    },
-    {
-      "title": "First 10 Minutes Of ‘Neil Peart: No One’s Disciple’ Documentary Released On YouTube, Tool, Red Hot Chili Peppers, Etc. Members Featured",
-      "source": "ThePRP",
-      "ts": 1792456686
-    },
-    {
-      "title": "Track Premiere: Electric Valley – “Gata”",
-      "source": "Decibel",
-      "ts": 1792456697
-    },
-    {
-      "title": "Sleep Token Distance Themselves From New Mystery Band Arcus",
-      "source": "ThePRP",
-      "ts": 1792456704
-    },
-    {
-      "title": "When Stewart Copeland, Adrian Belew and Mark King created prog punk group Gizmodrome",
-      "source": "Louder",
-      "ts": 1792473730
-    },
     {
       "title": "Watch: Bring Me The Horizon’s Oli Sykes & Spiritbox’s Courtney LaPlante Perform “If The Sun Burns Out Tonight” At Valorant Champions Grand Finals Opening Ceremony",
       "source": "ThePRP",
@@ -1766,6 +1735,46 @@
       "title": "Turnstile, King Gizzard & The Lizard Wizard, Angine De Poitrine, Converge, Etc. Booked For 2027 ‘Priamvera Sound’ Festival",
       "source": "ThePRP",
       "ts": 1792757648
+    },
+    {
+      "title": "Single Print Index (Code Orange, Etc.) Release Their Debut EP “CONFESSIONS”",
+      "source": "ThePRP",
+      "ts": 1792775277
+    },
+    {
+      "title": "\"We were invisible and insignificant. When nobody pays any attention to you, you realise how mortal you are. That’s why teenagers that are troubled are drawn to death.\" The story behind My Chemical Romance's world-conquering masterpiece The Black Parade",
+      "source": "Louder",
+      "ts": 1792775325
+    },
+    {
+      "title": "Rammstein Share “Deutschland” Performance From Their Upcoming ‘Rammstein – Live In Mexico City’ Film",
+      "source": "ThePRP",
+      "ts": 1792775330
+    },
+    {
+      "title": "A Place To Kill (Filter, Etc.) Unveil “Ugly World” Music Video",
+      "source": "ThePRP",
+      "ts": 1792775335
+    },
+    {
+      "title": "Top 35 Hard Rock Albums From the '70s",
+      "source": "Ultimate Classic Rock",
+      "ts": 1792775344
+    },
+    {
+      "title": "Coal Chamber’s Mikey “Bug” Cox, Suffers Broken Femur, Band Tap DevilDriver Drummer For Immediate Shows",
+      "source": "ThePRP",
+      "ts": 1792775358
+    },
+    {
+      "title": "Kalandra: “I wasn’t a fan of the Beatles, but going into that audition, I said, ‘This has been my dream forever!’”",
+      "source": "Louder",
+      "ts": 1792775407
+    },
+    {
+      "title": "HEART OF WINTER FESTIVAL 2027 PREVIEW",
+      "source": "No Clean Singing",
+      "ts": 1792775437
     }
   ],
   "initialized_sources": [
@@ -3856,7 +3865,7 @@
       "title": "Reece Scruggs Exits Machine Head: “A Badge of Honor I Will Carry With Me Forever”",
       "link": "https://metalinjection.net/news/reece-scruggs-exits-machine-head-a-badge-of-honor-i-will-carry-with-me-forever",
       "rss_body": "\"I had Robb's support and understanding before I could get the words out.\"",
-      "tags": "Latest News Machine Head",
+      "tags": "Latest News Machine Head featured",
       "category": "Хэви-метал",
       "published": "2026-10-22T15:32:56+00:00",
       "id": "ac8dc65c6820c6b9f770690ddf8f3e86bdd19687",
@@ -3880,7 +3889,7 @@
       "title": "Sonic Temple Announces 2027 Lineup Featuring Falling In Reverse, Iron Maiden, Korn + More",
       "link": "https://metalinjection.net/tour-dates/festivals/sonic-temple-announces-2027-lineup-featuring-falling-in-reverse-iron-maiden-korn-more",
       "rss_body": "Your favorite band is probably playing.",
-      "tags": "Festivals korn Iron Maiden Falling In Reverse Sonic Temple Festival featured1",
+      "tags": "Festivals korn Iron Maiden Falling In Reverse Sonic Temple Festival",
       "category": "Хэви-метал",
       "published": "2026-10-22T13:47:38+00:00",
       "id": "21e8a741425459590d3fec44e3909b2175342bc4",
@@ -3973,10 +3982,10 @@
     {
       "source": "Metal Injection",
       "priority": 92,
-      "title": "Darkest Hour DARKEST HOUR Talks Surviving Three Decades of Changes, Scene Youth, & More [Exclusive]",
+      "title": "Darkest Hour Talks Surviving Three Decades of Changes, Scene Youth, & More [Exclusive]",
       "link": "https://metalinjection.net/video/darkest-hour-darkest-hour-talks-surviving-three-decades-of-changes-scene-youth-more-exclusive",
       "rss_body": "Guitarist Mike Schleibaum sat down with Frank Godla of Metal Injection for an exclusive interview about the past 30 years of melodic death metal Darkest Hour. Starting with discussions of […]",
-      "tags": "Darkest Hour",
+      "tags": "Darkest Hour featured2",
       "category": "Экстремальный метал",
       "published": "2026-10-22T17:58:32+00:00",
       "id": "6afd173a56372c449701cfb9e33acc02aecd6f54",
@@ -4005,6 +4014,162 @@
       "published": "2026-10-23T11:28:43+00:00",
       "id": "3ea0ea91b9671c207ece5696472cd90bf149810b",
       "retry_after": 1792757677
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Looks Like Meshuggah Is Teasing Something Big For Their 40th Anniversary",
+      "link": "https://metalinjection.net/news/looks-like-meshuggah-is-teasing-something-big-for-their-40th-anniversary",
+      "rss_body": "Anyone have any guesses?",
+      "tags": "Latest News Meshuggah",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T16:38:38+00:00",
+      "id": "3e78c65a2d0eb71211d29eeb21f1e38f855682cc",
+      "retry_after": 1792775645
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: A Place to Kill Show Us It's An \"Ugly World\" In New Video",
+      "link": "https://metalinjection.net/news/watch-a-place-to-kill-show-us-its-an-ugly-world-in-new-video",
+      "rss_body": "Industrial music at its most aggressive to take you swinging into the weekend.",
+      "tags": "Latest News a place to kill",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T16:21:55+00:00",
+      "id": "95a69669eee05c2add55a20cd5cab6a50d5ddd9a",
+      "retry_after": 1792775658
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Five For Friday: October 23, 2026",
+      "link": "https://www.decibelmagazine.com/2026/10/23/five-for-friday-october-23-2026/",
+      "rss_body": "Greetings,\n\nDecibel\n\nreaders!\n\nThe season of the witch is indeed upon us, and fittingly we have a series of dark and mysterious records to create your soundtrack for October. Death metal, funeral doom, classic speed and thrash, and the latest from a USBM giant all united in one place!\n\n—\n\nCasket Dweller –\n\nRiver of Slumber\n\nHigh-quality Swedish-style death metal from a set of talented Greek practitioners. With such a well-established style, it takes a special level of dedication to craft effective songs and find your own voice. But\n\nCasket Dweller\n\n‘s voice emanates straight from the grave and pulls you down with them.\n\nRiver of Slumber by CASKET DWELLER\n\n—\n\nDET and Critical Defiance –\n\nBloodsurge\n\nFinnish and Chilean forces unite! A thrilling split album worth of the Dying Victims imprint.\n\nDET\n\nhas a decidedly more black-thrash feel while\n\nCritical Defiance\n\nfeels like straightforward 80s speed/thrash. No complaints here!\n\nStream:\n\nApple Music\n\nBloodsurge by DET / Critical Defiance\n\n—\n\nGrief Cathedral –\n\nThe Graves We Hold Inside\n\nEerie, haunting funeral doom. I particularly like the blending of different vocal styles, as the band does a great job of using each one to emphasize foreboding, terror, and suffering at just the right moments.\n\nThe Graves We Hold Inside by Grief Cathedral\n\n—\n\nLast Agony –\n\nDeath Wave\n\nBlackened d-beat ferocity that leaps from the speakers with the power of distorted vocals, crushing guitar chords, and relentless snare hits. It’s actually not quite right to reduce the band to only a few labels, as they’ve made a genuine attempt to smash so many styles together and still satisfy a recognizable need among extreme metal fanatics (this is the way). Expertly controlled but totally unhinged.\n\nStream:\n\nApple Music\n\nDeath Wave by LAST AGONY\n\n—\n\nWolves in the Throne Room –\n\nEstuary\n\nDecibel\n\nare longtime fans and supporters of\n\nWolves in the Throne Room\n\n, so it was a welcome surprise when I saw them pop up on a list of upcoming releases. The bands many loyal acolytes should be satisfied with what they hear here. The trademark flowing riffs and haunting growls are all here, and the veterans have taken pains to add extra aggression and power to this record — one that focuses deeply on the theme of what the earth will be like when humanity disappears.\n\nStream:\n\nApple Music\n\nEstuary (North America Edition) by WOLVES IN THE THRONE ROOM",
+      "tags": "Five for Friday Casket Dweller Death Wave DET/Critical Defiance five for friday Grief Cathedral New Releases Wolves In The Throne Room",
+      "category": "Прогрессив",
+      "published": "2026-10-23T16:00:43+00:00",
+      "id": "55fc0aa90c411713309847f91aee93eaecae8d43",
+      "retry_after": 1792775675
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Entheos Release 'Empty on the Inside,' Grab Exclusive Vinyl From Metal Injection",
+      "link": "https://metalinjection.net/video/entheos-release-empty-on-the-inside-grab-exclusive-vinyl-from-metal-injection",
+      "rss_body": "Their newest effort hits airwaves today.",
+      "tags": "Entheos featured2",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T16:00:21+00:00",
+      "id": "78bac4d3a7125605c47f13c3619496395c83e7d9",
+      "retry_after": 1792775675
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Haywire Announces Another Massive Tour For 2027",
+      "link": "https://metalinjection.net/tour-dates/haywire-announces-another-massive-tour-for-2027",
+      "rss_body": "Well, they are some busy bees.",
+      "tags": "Tour Dates haywire",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T15:17:50+00:00",
+      "id": "4fc1c2762b0136e02e4e0f9d6543c9c58f990b54",
+      "retry_after": 1792775675
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Former Slipknot Member Chris Fehn Says His Own Mask Is “Too Nice” to Have Been Worn Live on ‘Pawn Stars’",
+      "link": "https://metalinjection.net/news/former-slipknot-member-chris-fehn-says-his-own-mask-is-too-nice-to-have-been-worn-live-on-pawn-stars",
+      "rss_body": "Chris Fehn examined the memorabilia himself.",
+      "tags": "Latest News Slipknot featured",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T14:35:09+00:00",
+      "id": "d1460778e306aefcf3279a2542d26af7855e3914",
+      "retry_after": 1792775708
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Tony Iommi Releases New \"Over the Violent Sun\" Video to Celebrate New Record 'From the Dark'",
+      "link": "https://metalinjection.net/new-music/watch-tony-iommi-releases-new-over-the-violent-sun-video-to-celebrate-new-record-from-the-dark",
+      "rss_body": "The Lord has spoken!",
+      "tags": "New Music Black Sabbath tony iommi featured",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T13:49:34+00:00",
+      "id": "938f5d498fe8fb4d7bfc6af2cfded925cef468ed",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "MOTHER OF GRAVES to Release Exclusive New Song, “A Terrible Famine of Words,” via the Decibel Flexi Series!",
+      "link": "https://www.decibelmagazine.com/2026/10/23/mother-of-graves-to-release-exclusive-new-song-a-terrible-famine-of-words-via-the-decibel-flexi-series/",
+      "rss_body": "The somber spirit of the ’90s is alive and well in Indianapolis—but if you’re a\n\nDecibel\n\nsubscriber, you already knew that. Doom-death darlings\n\nMother of Graves\n\nhave been a favorite since their\n\nIn Somber Dreams\n\nEP, but this year’s full-length offering\n\nThe Light That Keeps Us\n\ntakes their sound to a whole new level. Even this bright spot in their discography, however, doesn’t tell the complete story. As always, the Decibel Flexi Series has scored exclusive track “A Terrible Famine of Words” that is only available to our readership. Hungry for more?\n\nBe sure to sign up for a deluxe\n\nDecibel\n\nsubscription before 11:59 PM on Halloween night (Saturday, October 31)\n\nto ensure your copy of this death-doom masterpiece. Act fast or see your record collection starve!",
+      "tags": "Breaking News Exclusive News Special Offer Vinyl Doom Metal doom-death Flexi Disc home featured Mother Of Graves Profound Lore rare vinyl the decibel fl",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T13:23:06+00:00",
+      "id": "7ea4156157dc444f91ffda437f4cefadb05c3ee9",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The Weekly Injection: New Releases From Tony Iommi, Entheos, and More Out This Week – 10.23",
+      "link": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-tony-iommi-entheos-and-more-out-this-week-10-23",
+      "rss_body": "Plus releases from Boss Keloid, Forbidden, Polyphia, and Wolves In The Throne Room.",
+      "tags": "Weekly Injection wolves in the throne room tony iommi FORBIDDEN POLYPHIA Entheos Boss Keloid featured1 godzilla in the kitchen",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T13:00:26+00:00",
+      "id": "72ecc2c64f39f8ad8ed6d0bc15ee26d25bfd2154",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Haywire Announce North American, European & UK Touring For 2027",
+      "link": "https://www.theprp.com/2026/10/23/news/haywire-announce-north-american-european-uk-touring-for-2027/",
+      "rss_body": "Some 80 shows have been lined up.",
+      "tags": "News Haywire",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T13:00:00+00:00",
+      "id": "d4ff3405a8fba1fb1a7d9110aff32aa4fdc7a65f",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Billy Corgan cites his Christianity as a reason for maintaining his friendship with Marilyn Manson",
+      "link": "https://www.loudersound.com/bands-artists/smashing-pumpkins-billy-corgan-cites-his-christianity-as-a-reason-for-maintaining-his-friendship-with-marilyn-manson",
+      "rss_body": "Smashing Pumpkins\n\nfrontman Billy Corgan has spoken about his friendship with\n\nMarilyn Manson\n\n, and explained why he has stood behind Manson in the face of the on-going sexual assault lawsuits which the singer faces.\n\nIn 2021, more than a dozen woman accused Manson of sexual abuse/sexual assault, in the wake of allegations made by actress Evan Rachel Wood, who shared revelations of her “horrific”time with her former partner in the HBO documentary\n\nPhoenix Rising\n\n.\n\nManson made out-of-court settlements with Game Of Thrones actress Esmé Bianco, and another woman, known only as 'Jane Doe' who had accused him of rape. Another lawsuit filed by Ashley Morgan Smithline was withdrawn and recanted.\n\nManson is set to face a jury trial on November 15, 2027 to\n\nanswer charges brought by his former personal assistant\n\n, Ashley Walters. Another case filed by actress Bianca Allaine Kyne is still pending. In a statement made to Rolling Stone in 2024, Kyne said, “For years, I lived under his shadow, paralyzed by fear. But that fear no longer controls me. It has been replaced by an unwavering pursuit of justice. I stand tall, unafraid. This is not just about my personal story. This is about exposing an industry that prioritizes profit over the safety of vulnerable young women.”\n\nThe LADA’s Sex Crimes Division investigated other claims made against Manson, but\n\nelected not to press charges\n\n, referencing issues with the statute of limitations.\n\nManson, real name Brian Warner, has denied all accusations against him.\n\nIn a new episode of the\n\nNew York Times\n\n' podcast\n\nPopcast\n\n, Billy Corgan discusses his friendship with Manson, which has endured regardless of the allegations made against the singer, when asked \"How do you make determinations of the degree to which they should be in your life and you should be in their lives?\"\n\n\"That's a valid question,\" Corgan replies. \"I think that ultimately, as a Christian person - how can I put it? - you have to stand by your friends. But that doesn’t mean you don’t have an opinion, and that doesn’t mean you’re not critical. In his case - and I’m not here to adjudicate it - but the DA looked at the case for five years. In some cases, I knew personal things behind the scenes that are not in the public sphere. I personally didn’t feel that he was guilty of the things he was being charged with, and ultimately, the fact that the DA didn’t pursue it.\n\n\"Basically, the person that I knew, and the way it all kind of went down, even though it was an elongated process, was commensurate with the person that I knew,\"Corgan continues. \"It all kind of lined up. But, I wasn’t there. I can’t be there for everything. But I guess it’s one of those things where I don’t, I don’t want the world to tell me who my friends are and who I should associate with. That’s politically, socially, and in Brian’s case, we have a relationship that goes back close to 30 years.\"\n\nCorgan goes on to point out that Manson's wife Lindsay Usich has a twin sister [Ashley Usich-Iha] who is married to Smashing Pumpkins guitarist James Iha, adding,\"there’s a deeper set of relationships there.\"\n\n\"I think anybody in that situation struggles with the accusations,\" he continues, \"the seriousness of the accusations, but again, I also knew the inside baseball of the case. I knew certain people who are involved, and so you make those evaluations. At the end of the day, I feel I made the right determination, but if things had come out… Like, people would ask me privately, ‘Well, what happens if…’ and I’d say, If he’s guilty, or anybody in that situation is guilty, they should go to jail.\"\n\n\"I’m not saying I have any moral supremacy here,\" Corgan concludes. \"I’m saying it’s a case-by-case basis. But I don’t like the idea of… this kind of witch mob thing bothers me.\"\n\nIn the wake of the allegations against Manson, the star was dropped by his management and record label. He has since been signed by Nuclear Blast, released two albums, toured with Five Finger Death Punch and more.\n\nThe singer\n\nis set to support Slipknot\n\nat Wembley Stadium in July 2027.\n\nWatch the full Popcast podcast below.",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T13:00:00+00:00",
+      "id": "bf6574339f596f7c9d022b27699dbe54edb36549",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Body Horror Films: The Essential List",
+      "link": "https://ultimateclassicrock.com/body-horror-films/",
+      "rss_body": "From a woman injecting herself with a younger clone to a man slowly turning into metal, body horror keeps finding new ways to disturb us.",
+      "tags": "Lists Movies Movies and Culture Original Features Pop Culture Lists Pop Culture Movies Pop Culture UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T12:17:26+00:00",
+      "id": "fa6cf96d96e7d791751ac1d4d9421fcee8b26744",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "John Carpenter picks the records that changed his life",
+      "link": "https://www.loudersound.com/bands-artists/interviews/john-carpenter-picks-the-10-records-that-changed-his-life",
+      "rss_body": "John Carpenter is a true master of horror. From genre-defining classics like Halloween and The Thing, to thrillers like Assault On Precinct 13 and Escape From New York, all the way to the fantasy-comedy of Big Trouble In Little China, Carpenter has created some of cinema's most enduring movies.\n\nAlthough he hasn't directed a movie since 2010's The Ward, that hasn't stopped him working. Since 1979's Halloween soundtrack, Carpenter has been releasing his own records and his latest, 2026's Cathedral ties directly to the graphic novel of the same name he created. Hammer caught up with Carpenter to talk about his influences and the songs that have inspired him.\n\n“My scores have been influenced by rock’n’roll because I’m influenced by it. This newest one [the album\n\nCathedral\n\n] is definitely towards heavy metal. The new graphic novel [it soundtracks] is based on a dream I had, which became a story. The story told us what the music was gonna be, and if you listen to the album when you read it, you’ll get the full experience.\n\nI grew up in the 50s with science fiction and horror comic books and movies. Those things sparked my imagination and I’m still doing it, so I guess I was drawn to the darkness of someone like\n\nBlue Oyster Cult\n\n.\n\n(Don’t Fear) The Reaper\n\nis the scariest song ever written – Stephen King said that too. It’s basically, don’t fear suicide. What?! It’s an incredible song, an anthem for dark rock’n’roll. It’s the kind of thing you don’t want troubled young kids hearing, but it’s brilliant.\n\nMy dad looked down on this rock’n’roll stuff, but it paid him very well\n\nJohn Carpenter\n\n\"I’ve always loved rock’n’roll; every time I hear\n\nThe Beatles\n\n, it reminds me of being 16 or 17 years old. I especially like\n\nYou Won’t See Me\n\n– it brings back memories of the past. The Beatles weren’t my first rock’n’roll band or anything – I remember Elvis on The Ed Sullivan Show – but they were definitely the biggest. I remember The Big Bopper too, and Bill Haley And His Comets. I was born in the 40s, don’t forget! All ancient history by now. But The Beatles came along at the right time in my life and I love them.\n\n“My dad played violin on\n\nI’m Hurtin\n\n’ by Roy Orbison. He was a session musician in Nashville; he played for many, many people. I actually saw Roy in a recording session one day and it was amazing. I can hear my father in the string part and I always think of him when I hear it. He was actually a classical musician, so he looked down on this [rock’n’roll] stuff, but it paid him very well. My dad was a very happy capitalist – and so am I!\n\n“I loved The Supremes at their height, before they kind of went off.\n\nStop! In The Name Of Love\n\nis great. I loved watching them and what else can I say? I saw the Four Tops and The Supremes because [TV personality and radio host] Dick Clark had his cavalcade of stars that travelled around and they went through Bowling Green [Kentucky]. It was the most fun of all time dancing to songs like It’s\n\nThe Same Old Song\n\n. I wanted to sing like Levi Stubbs of the Tops, but I just don’t have a Black man’s voice – I have a silly white man’s voice!\n\n“That said, some are great. Just listen to\n\nWhat A Fool Believes\n\nby THE DOOBIE BROTHERS, it’s unbelievable. Come on, man! I can’t believe he [singer Michael McDonald] gets that high with his voice.\n\n“Speaking of harmonies,\n\nThe Beach Boys\n\n’\n\nCalifornia Girls\n\nis so sweet, nice and wonderful. The Beach Boys were great and I loved them, even after [singer and band co-founder] Brian Wilson left. I’m a loyal fan. Those songs were just inescapable;\n\nBarbara Ann\n\n,\n\nI Get Around…\n\nit’s all tremendous.\n\n“I fell in love with\n\nMetallica\n\nthanks to my kids, and in particular the song\n\nEnter Sandman\n\n. We all loved it when it came out. That album – The Black Album – is just fantastic. And they are, right? But then they went and cut their hair, made\n\nLoad\n\nand\n\nReload\n\n… They were just this huge band, but I loved that [self-titled] album for introducing me to them. I’ve never actually seen them live. I’d totally direct a music video for Metallica if they asked, though.\n\n“Procol Harum are one of my all-time favourite bands. This list has been pretty American, but they are most definitely British. I love the song\n\nBringing Home The Bacon\n\n, and I love Gary Brooker’s voice… my god, was he talented. It’s too bad that we lost him [Gary passed away from cancer, aged 76, in February 2022].\n\n“Derek & The Dominos’\n\nLayla\n\n–\n\ncome on\n\n, don’t pretend like you’ve not heard this a thousand times. He [Eric Clapton] is actually singing to George Harrison’s wife [Pattie Boyd, who divorced George in 1977 and married Eric in 1979]. I guess Eric fell in love with her, then all those years later married her, so he got with Layla in the end. It’s got one of the greatest guitar riffs of all time, there’s nothing better.\n\nOn a desert island, these songs are what I would listen to. If I was in outer space, these songs are what I’d want to listen to. But I love electronic music too, you know? I remember going to see Vangelis play and he’s got this set-up with all these pedals, jerry-rigged to create this incredible sound. And there was Tangerine Dream, too.\n\n“Rock’n’roll’s kind of given way to rap these days, which I’m not really a fan of. But it’s still alive and still here – like me! Maybe a bit less transcendent and popular than it was, but it still speaks to people like it spoke to me all those years ago. Music as an art form is probably the greatest thing that humanity ever created. It transcends language, going from country to country, across the world. Someone in Bangladesh can hear an American song and still love it.”",
+      "tags": "Interviews Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-23T12:00:00+00:00",
+      "id": "444a4612017f0f8f2a3f285432e9214cb2f8ba22",
+      "retry_after": 0
     }
   ]
 }
