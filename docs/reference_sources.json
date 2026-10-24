@@ -14327,7 +14327,7 @@
     "in-flames": {
       "name": "In Flames",
       "musicbrainz_url": "https://musicbrainz.org/artist/31745282-b1ea-4d62-939f-226b14d68e7c",
-      "reference_checked_at": "2026-10-14T15:35:24.740644+00:00",
+      "reference_checked_at": "2026-10-24T18:40:52.099916+00:00",
       "genres": "melodic death metal, metal",
       "bandcamp_url": "https://inflamesoffical.bandcamp.com/",
       "website": "http://inflames.com/",
@@ -14387,6 +14387,12 @@
           "date": "",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/043f4287-0192-3f51-8d70-929fea5efe0c"
+        },
+        {
+          "name": "1993 - 2011",
+          "date": "2016-12-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/04b8245c-9db6-426f-acbd-f0c5c3023872"
         },
         {
           "name": "Clayman",
@@ -31366,8 +31372,8 @@
     "imminence": "2026-10-24T12:13:24.193672+00:00",
     "immolation": "2026-10-24T16:00:22.945703+00:00",
     "immortal": "2026-10-24T16:00:24.232807+00:00",
-    "in-flames": "2026-10-14T15:35:24.740814+00:00",
-    "iron-maiden": "2026-10-14T15:35:25.995674+00:00",
+    "in-flames": "2026-10-24T18:40:52.100114+00:00",
+    "iron-maiden": "2026-10-24T18:40:53.384676+00:00",
     "jethro-tull": "2026-10-14T19:42:16.826598+00:00",
     "judas-priest": "2026-10-14T19:42:23.727574+00:00",
     "kid-rock": "2026-10-14T22:43:55.410714+00:00",
