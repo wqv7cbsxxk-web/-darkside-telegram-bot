@@ -5687,8 +5687,7 @@
         "live"
       ],
       "media_checked_at": 1792807157,
-      "translation_last_attempt": 1792944036,
-      "translation_pending": true
+      "translation_last_attempt": 1792964380
     },
     {
       "id": "fa6cf96d96e7d791751ac1d4d9421fcee8b26744",
@@ -8123,8 +8122,7 @@
         "live"
       ],
       "media_checked_at": 1792685326,
-      "translation_last_attempt": 1792944036,
-      "translation_pending": true
+      "translation_last_attempt": 1792964381
     },
     {
       "id": "49fd163e5c938c97d62613275cf2cd9366d79374",
@@ -9744,7 +9742,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792630967
+      "media_checked_at": 1792964877
     },
     {
       "id": "1c119cf83cb64ab65583c40ad272649836d2274f",
@@ -9782,7 +9780,7 @@
       "artists": [],
       "original_title": "Doomriders, Whores, Waxed, Etc. Announced For 2026 ‘Saddest Day’ Pre-Show",
       "topics": [],
-      "media_checked_at": 1792630967
+      "media_checked_at": 1792964877
     },
     {
       "id": "b0953378c53d95984898f98a6a32b160031dcb40",
@@ -9822,13 +9820,18 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/gDDzQozhibp7Z7d9baKpV6.jpg",
-          "caption": "Nicko McBrain in 2026 and Ozzy Osbourne in 2003"
+          "url": "https://cdn.mos.cms.futurecdn.net/UCAnygU4vuEhT4AE9r6tch.jpg",
+          "caption": "Nicko McBrain posing for a photograph"
         },
         {
           "type": "image",
           "url": "https://cdn.mos.cms.futurecdn.net/eqnzuEZR5KiCUdpBZwPfRP.png",
           "caption": "Bruce Dickinson of Iron Maiden performs at Scotiabank Arena on August 29, 2026 in Toronto, Ontario. "
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/gDDzQozhibp7Z7d9baKpV6.jpg",
+          "caption": "Nicko McBrain in 2026 and Ozzy Osbourne in 2003"
         },
         {
           "type": "image",
@@ -9842,43 +9845,48 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/FN96M5JhTFchQsFGrJKwyW.jpg",
-          "caption": "Separate pictures of Serj Tankian, John Dolmayan and Donald Trump"
+          "url": "https://cdn.mos.cms.futurecdn.net/PD2f8B5NcXoA45CkgHnfaR.png",
+          "caption": "Tony Iommi of Black Sabbath, with an inset of Shaun the Sheep."
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/tBTQFk3ngoswrKiAKjqwwC.jpg",
-          "caption": "Angine de Poitrine in costume, dancing on a concrete globe"
+          "url": "https://cdn.mos.cms.futurecdn.net/NkWjcdfd3MztvVrkLLBRAF.jpg",
+          "caption": "My Chemical Romance "
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/DPPvcNSJDpxJUQ2ia6Fi9h.jpg",
-          "caption": "Burn Eternal"
+          "url": "https://cdn.mos.cms.futurecdn.net/4koyXKDLKNWcTzjvgAZtfP.jpg",
+          "caption": "Tony Iommi performing onstage in 2016"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU.jpg",
-          "caption": "Black Sabbath"
+          "url": "https://cdn.mos.cms.futurecdn.net/ddiqmFcZbFhTScQmEkg5ig.png",
+          "caption": "Alex Terrible in his mask posing on stage"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/6KhgWk44SwuRoUM5bwRXZY.png",
-          "caption": "Jean-Michel Jarre 2026 press shot by François Rousseau"
+          "url": "https://cdn.mos.cms.futurecdn.net/5A9vHwoypy6huVCoo2iCY3.jpg",
+          "caption": "Billy Corgan and Marilyn Manson"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/faJSuc6W8fpLWWrkyLLvX9.jpg",
-          "caption": "Floor Jansen onstage with Nightwish in 2022"
+          "url": "https://cdn.mos.cms.futurecdn.net/msGYJ4tKJ8XtnuFBSXba7N.jpg",
+          "caption": "Phil Collins, Steve Hackett, Mike Rutherford, Tony Banks and Peter Gabriel of Genesis in 1975 (Photo by Chris Walter/WireImage)"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/U4roTpjc4fMYZCsBndQ7wP.jpg",
-          "caption": "Angine de Poitrine London Troxy"
+          "url": "https://cdn.mos.cms.futurecdn.net/JKFgRD2RRCp4PkiAygwH3X.jpg",
+          "caption": "Steven Wilson bundle 174 Prog image"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/iCaWtRqGZ5VkLfeVwKGpPC.jpg",
-          "caption": "Aerosmith group portrait"
+          "url": "https://cdn.mos.cms.futurecdn.net/Trx2TE9YfqY7f2hnWa9r8A.jpg",
+          "caption": "Robin Davey studio portrait"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/aVkCqknDa2tmQKgBRbrCh8.jpg",
+          "caption": "Deep Purple"
         },
         {
           "type": "link",
@@ -9916,7 +9924,7 @@
       ],
       "original_title": "Iron Maiden drummer Nicko McBrain says he turned down the opportunity to play golf with Donald Trump",
       "topics": [],
-      "media_checked_at": 1792630967
+      "media_checked_at": 1792964877
     },
     {
       "id": "cb2e0ccae64d8a48755ed95d173dbeecdacda742",
@@ -9951,7 +9959,7 @@
         "live",
         "releases"
       ],
-      "media_checked_at": 1792630968
+      "media_checked_at": 1792964878
     },
     {
       "id": "f110a6be066cc1c0ce5cee4256428f9800251dbf",
@@ -9992,7 +10000,7 @@
       ],
       "original_title": "Newly Remastered Reissues Of Obituary’s “Xecutioner’s Return” & “Darkest Day” Due In December",
       "topics": [],
-      "media_checked_at": 1792630968
+      "media_checked_at": 1792964878
     },
     {
       "id": "0de01c1b36e93c527a6348d571ffe265aafac692",
@@ -10934,7 +10942,8 @@
         "live"
       ],
       "media_checked_at": 1792955111,
-      "translation_last_attempt": 1792954623
+      "translation_last_attempt": 1792954623,
+      "translation_pending": true
     },
     {
       "id": "7b225d29c3076c515da0da1758060274a2bab200",
@@ -11032,13 +11041,13 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/8DD3HAfwhdpQE2qwAKfbHc.jpg",
-          "caption": "Desmond Child publicity photo"
+          "url": "https://cdn.mos.cms.futurecdn.net/qGbZwtRV7QMv34XrEJeQa5.jpg",
+          "caption": "The Cult posing for a photograph in 1985"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/oq7MVAoPwKEJizEynD4jdB.jpg",
-          "caption": "Dolly Parton headshot with a rhinestone patch over one eye"
+          "url": "https://cdn.mos.cms.futurecdn.net/aGqnxtTn9uwoUDYyxzXoAB.jpg",
+          "caption": "Tom Cruise performing as Stacee Jaxx in Rock Of Ages"
         },
         {
           "type": "image",
@@ -11047,48 +11056,48 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/DPPvcNSJDpxJUQ2ia6Fi9h.jpg",
-          "caption": "Burn Eternal"
+          "url": "https://cdn.mos.cms.futurecdn.net/NkWjcdfd3MztvVrkLLBRAF.jpg",
+          "caption": "My Chemical Romance "
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU.jpg",
-          "caption": "Black Sabbath"
+          "url": "https://cdn.mos.cms.futurecdn.net/4koyXKDLKNWcTzjvgAZtfP.jpg",
+          "caption": "Tony Iommi performing onstage in 2016"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/6KhgWk44SwuRoUM5bwRXZY.png",
-          "caption": "Jean-Michel Jarre 2026 press shot by François Rousseau"
+          "url": "https://cdn.mos.cms.futurecdn.net/ddiqmFcZbFhTScQmEkg5ig.png",
+          "caption": "Alex Terrible in his mask posing on stage"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/faJSuc6W8fpLWWrkyLLvX9.jpg",
-          "caption": "Floor Jansen onstage with Nightwish in 2022"
+          "url": "https://cdn.mos.cms.futurecdn.net/5A9vHwoypy6huVCoo2iCY3.jpg",
+          "caption": "Billy Corgan and Marilyn Manson"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/U4roTpjc4fMYZCsBndQ7wP.jpg",
-          "caption": "Angine de Poitrine London Troxy"
+          "url": "https://cdn.mos.cms.futurecdn.net/msGYJ4tKJ8XtnuFBSXba7N.jpg",
+          "caption": "Phil Collins, Steve Hackett, Mike Rutherford, Tony Banks and Peter Gabriel of Genesis in 1975 (Photo by Chris Walter/WireImage)"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/iCaWtRqGZ5VkLfeVwKGpPC.jpg",
-          "caption": "Aerosmith group portrait"
+          "url": "https://cdn.mos.cms.futurecdn.net/Trx2TE9YfqY7f2hnWa9r8A.jpg",
+          "caption": "Robin Davey studio portrait"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/w6JqeR3sA6WDaRvsk9KXS3.jpg",
-          "caption": "Detail of Julian Cope’s Fried album cover"
+          "url": "https://cdn.mos.cms.futurecdn.net/6FjmJRFbP8o5pSaKoTXDCK.jpg",
+          "caption": "Protest The Hero in 2026"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/kdinc2GWoNssQnK62kRHRF.jpg",
-          "caption": "Detail of The Human League&#039;s Dare cover"
+          "url": "https://cdn.mos.cms.futurecdn.net/hQasEmYNAG6RHcE8RxpitK.png",
+          "caption": "Floor Jansen tracks of the week"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/ejGJbftyJFU6w3RqujVTEa.jpg",
-          "caption": "Ozric Tentacles in 2026"
+          "url": "https://cdn.mos.cms.futurecdn.net/PrUZqdUP6wGFjK3Gc2faYX.jpg",
+          "caption": "John Carpenter Press 2026"
         }
       ],
       "original_paragraphs": [
@@ -11140,7 +11149,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792630968
+      "media_checked_at": 1792964878
     },
     {
       "id": "37ed19528eceeca962fa227312de46e0a00abcb1",
@@ -11276,7 +11285,7 @@
       "topics": [
         "releases"
       ],
-      "media_checked_at": 1792630968
+      "media_checked_at": 1792964878
     },
     {
       "id": "fe613c15e05ab5998c7639a6bc2fe6e73b7056f3",
@@ -11342,38 +11351,43 @@
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/7dL9TgSCVMdVoNW7D5q9dU.jpg",
-          "caption": "Black Sabbath"
+          "url": "https://cdn.mos.cms.futurecdn.net/NkWjcdfd3MztvVrkLLBRAF.jpg",
+          "caption": "My Chemical Romance "
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/6KhgWk44SwuRoUM5bwRXZY.png",
-          "caption": "Jean-Michel Jarre 2026 press shot by François Rousseau"
+          "url": "https://cdn.mos.cms.futurecdn.net/ddiqmFcZbFhTScQmEkg5ig.png",
+          "caption": "Alex Terrible in his mask posing on stage"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/faJSuc6W8fpLWWrkyLLvX9.jpg",
-          "caption": "Floor Jansen onstage with Nightwish in 2022"
+          "url": "https://cdn.mos.cms.futurecdn.net/5A9vHwoypy6huVCoo2iCY3.jpg",
+          "caption": "Billy Corgan and Marilyn Manson"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/U4roTpjc4fMYZCsBndQ7wP.jpg",
-          "caption": "Angine de Poitrine London Troxy"
+          "url": "https://cdn.mos.cms.futurecdn.net/msGYJ4tKJ8XtnuFBSXba7N.jpg",
+          "caption": "Phil Collins, Steve Hackett, Mike Rutherford, Tony Banks and Peter Gabriel of Genesis in 1975 (Photo by Chris Walter/WireImage)"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/iCaWtRqGZ5VkLfeVwKGpPC.jpg",
-          "caption": "Aerosmith group portrait"
+          "url": "https://cdn.mos.cms.futurecdn.net/Trx2TE9YfqY7f2hnWa9r8A.jpg",
+          "caption": "Robin Davey studio portrait"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/NSYThFk8y4KsG7rpMi7yAW.jpg",
-          "caption": "Ryan Hamilton in a hospital bed"
+          "url": "https://cdn.mos.cms.futurecdn.net/aVkCqknDa2tmQKgBRbrCh8.jpg",
+          "caption": "Deep Purple"
         },
         {
           "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/reFUbfnWbaduLQYPjVJt7W.jpg",
-          "caption": "The Rolling Stones in the back seat of a car"
+          "url": "https://cdn.mos.cms.futurecdn.net/JKFgRD2RRCp4PkiAygwH3X.jpg",
+          "caption": "Steven Wilson bundle 174 Prog image"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn.mos.cms.futurecdn.net/4NWR7ukYJwdEsqvCBKfNhH.jpg",
+          "caption": "Fleetwood Mac studio portrait"
         },
         {
           "type": "link",
@@ -11421,7 +11435,7 @@
       ],
       "original_title": "Former Killswitch Engage bandmates Howard Jones and Adam D detail new project Burn Eternal, sign to Metal Blade Records",
       "topics": [],
-      "media_checked_at": 1792630969
+      "media_checked_at": 1792964878
     },
     {
       "id": "88a3eabd8952414a2db7c27756430d555ce17d58",
