@@ -17992,8 +17992,8 @@
     "linkin-park": {
       "name": "Linkin Park",
       "musicbrainz_url": "https://musicbrainz.org/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419",
-      "reference_checked_at": "2026-10-15T10:25:26.492164+00:00",
-      "genres": "alternative metal, alternative rock, metal, nu metal, rap metal, rap rock, rapcore, rock",
+      "reference_checked_at": "2026-10-25T12:05:14.114371+00:00",
+      "genres": "alternative metal, alternative rock, electronic rock, electropop, hard rock, heavy metal, hip hop, metal, nu metal, pop, pop rock, post-grunge, rap metal, rap rock, rapcore, rock",
       "website": "https://www.linkinpark.com/",
       "members": [
         {
@@ -18669,7 +18669,7 @@
     "manowar": {
       "name": "Manowar",
       "musicbrainz_url": "https://musicbrainz.org/artist/00eeed6b-5897-4359-8347-b8cd28375331",
-      "reference_checked_at": "2026-10-15T10:25:31.153017+00:00",
+      "reference_checked_at": "2026-10-25T12:05:32.075194+00:00",
       "genres": "hard rock, heavy metal, metal, power metal, us power metal",
       "website": "http://manowar.com/",
       "members": [
@@ -31382,8 +31382,8 @@
     "kreator": "2026-10-25T01:27:58.970579+00:00",
     "led-zeppelin": "2026-10-25T06:32:14.365033+00:00",
     "leprous": "2026-10-25T06:32:18.340715+00:00",
-    "linkin-park": "2026-10-15T10:25:26.492411+00:00",
-    "manowar": "2026-10-15T10:25:31.153182+00:00",
+    "linkin-park": "2026-10-25T12:05:14.114611+00:00",
+    "manowar": "2026-10-25T12:05:32.075393+00:00",
     "marillion": "2026-10-15T15:21:39.708405+00:00",
     "mastodon": "2026-10-15T15:21:41.046451+00:00",
     "mayhem": "2026-10-15T19:18:39.018359+00:00",
