@@ -31315,6 +31315,639 @@
           "source_url": "https://musicbrainz.org/release-group/fe76e3c8-b114-40be-b1ad-43bfaa4bc06a"
         }
       ]
+    },
+    "megadeth": {
+      "name": "Megadeth",
+      "musicbrainz_url": "https://musicbrainz.org/artist/a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
+      "reference_checked_at": "2026-10-25T19:05:26.100932+00:00",
+      "genres": "hard rock, heavy metal, metal, rock, speed metal, thrash metal",
+      "bandcamp_url": "https://officialmegadeth.bandcamp.com/",
+      "website": "https://www.megadeth.com/",
+      "members": [
+        {
+          "name": "Dave Mustaine",
+          "role": "electric guitar, lead vocals, original",
+          "begin": "1983"
+        },
+        {
+          "name": "Dirk Verbeuren",
+          "role": "drums (drum set)",
+          "begin": "2016"
+        },
+        {
+          "name": "James LoMenzo",
+          "role": "electric bass guitar",
+          "begin": "2022-05-31"
+        },
+        {
+          "name": "Teemu Mäntysaari",
+          "role": "electric guitar",
+          "begin": "2023"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
+      "albums": [
+        {
+          "name": "Countdown to Extinction",
+          "date": "1992-07-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/04785b90-87cb-3d5d-a9a9-7f465e327bb4"
+        },
+        {
+          "name": "Skin o’ My Teeth",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/05426664-6d70-3542-9fdc-95f8d2981611"
+        },
+        {
+          "name": "Let There Be Shred",
+          "date": "2025-12-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/069e920f-dcaa-4c66-aa6d-933acc1ba2ae"
+        },
+        {
+          "name": "For Fans Only",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0a9cf94d-9e44-3e42-890b-5d19128660b4"
+        },
+        {
+          "name": "Fatal Illusion",
+          "date": "2015-10-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0ab99ed6-afae-4243-a026-e2e9af65ca17"
+        },
+        {
+          "name": "The Big 4: Live From Sofia, Bulgaria",
+          "date": "2010-10-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0ad18f14-c0bc-4046-92fd-1e94e97c0ac1"
+        },
+        {
+          "name": "1992-09-30: Basic Dreams: Hammersmith Odeon, London, UK",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0bceaf82-c418-3f25-ba6e-4e05e8bd5549"
+        },
+        {
+          "name": "No More Mr. Nice Guy",
+          "date": "1989",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0d9b4010-be3f-45d3-b4ca-c31dd6ebf92f"
+        },
+        {
+          "name": "So Far, So Good… So What!",
+          "date": "1988-01-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0e4f3e50-73c5-3a57-871a-5264bc210989"
+        },
+        {
+          "name": "Live U.S.A.",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0fd4b90c-bc2d-49f6-b2dc-93a6e82f4cc6"
+        },
+        {
+          "name": "All My Best Friends Are Metalheads / The Disintegrators",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/11db9f60-6a35-4241-94ab-189d8c6c5917"
+        },
+        {
+          "name": "Europe 1993",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/16b23e25-4b49-495b-98f5-f7b92ba31089"
+        },
+        {
+          "name": "Foreclosure of a Dream",
+          "date": "1992-10-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/175675f0-656e-3382-98ef-74f68c7d41a5"
+        },
+        {
+          "name": "Rust in Peace",
+          "date": "1990-09-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/19e7c9f3-7c4c-3a56-ba50-4156b39f76ca"
+        },
+        {
+          "name": "Dystopia",
+          "date": "2016-01-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2116a2d5-15b5-4478-8ef1-64db14a1ecbb"
+        },
+        {
+          "name": "Hell Wasn't Built in a Day",
+          "date": "2004",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/22912394-8a5d-337b-9099-0b70b559c0fe"
+        },
+        {
+          "name": "Megabox: Single Collection",
+          "date": "1993-02-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/23069843-7321-3a58-a4e6-abf962490146"
+        },
+        {
+          "name": "The Right to Go Insane",
+          "date": "2010-04-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2ae72717-14c7-4d0e-9053-a51d8d7565d8"
+        },
+        {
+          "name": "Unplugged in Philly",
+          "date": "2004",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2b1ff1ae-eea8-3a26-b53a-26a4c21796ff"
+        },
+        {
+          "name": "Arsenal of Megadeth",
+          "date": "2006-03-21",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2b54c49b-efd7-48bd-a503-28d9d6e3e508"
+        },
+        {
+          "name": "Mary Jane",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2d32adc5-d229-4c79-b8bc-fd1f6bc4f8f3"
+        },
+        {
+          "name": "Countdown to Extinction / Rust in Peace",
+          "date": "2014",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/319d8124-1060-4488-8062-ea9a2ce91ba2"
+        },
+        {
+          "name": "Black Shadows",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/34047606-72e8-4990-93f4-cbed1ad6b349"
+        },
+        {
+          "name": "Wake Up Dead",
+          "date": "1986-12-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/34bd72a6-b2e6-43c8-8226-67d5828d1b80"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/355ae61a-cfeb-427a-8fd8-d877b90d3db5"
+        },
+        {
+          "name": "Countdown to Extinction: Live",
+          "date": "2013-09-24",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3873384f-7072-4f95-b179-041d4e074a84"
+        },
+        {
+          "name": "Th1rt3en",
+          "date": "2011-10-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/41acf292-76c0-4c00-bd69-c3c5ebb7c593"
+        },
+        {
+          "name": "Live Trax II",
+          "date": "1998-03-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4799321e-b1aa-41ba-9fad-24d419351a83"
+        },
+        {
+          "name": "Risk",
+          "date": "1999-08-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/49e5d092-0e76-3d60-a994-160a50bd2b7e"
+        },
+        {
+          "name": "The Story of Megadeth",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4b9bbbc5-c109-4a2a-8f3d-5c9a6c5246a2"
+        },
+        {
+          "name": "Peace Sells… but Who’s Buying?",
+          "date": "1986-07-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4eea6bcc-3226-3c0d-a71d-af682a0a1dd8"
+        },
+        {
+          "name": "1984-02-19: San Francisco, CA, USA",
+          "date": "1984",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/50973c8c-2a8b-445d-ae86-697fe58119fe"
+        },
+        {
+          "name": "Sharpening the Axe",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/50b5a7b4-da9d-4f8c-af5d-a04751b4304a"
+        },
+        {
+          "name": "Symphony of Destruction",
+          "date": "1992-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5259339e-079e-3251-96e7-8b38fca57185"
+        },
+        {
+          "name": "Killing Is My Business… and Business Is Good!",
+          "date": "1985-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5410e871-d248-384b-ad73-0cb23a543cef"
+        },
+        {
+          "name": "Warchest",
+          "date": "2007-10-02",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/544c5cc2-dc28-3668-97e3-816348b0f5ec"
+        },
+        {
+          "name": "United Abominations",
+          "date": "2007-05-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5462e170-d7a8-30d9-97a0-04bdf84e8811"
+        },
+        {
+          "name": "Greatest Hits: Back to the Start",
+          "date": "2005-06-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/558809fd-84f8-343e-a7eb-8ef3c558abd4"
+        },
+        {
+          "name": "Live Trax",
+          "date": "1997-11-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/566aff87-eb72-3ae7-b07a-799f8b782c54"
+        },
+        {
+          "name": "Head Crusher",
+          "date": "2009-07-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5675c08d-f66c-4457-8137-29a742b83b52"
+        },
+        {
+          "name": "Super Collider",
+          "date": "2013-04-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/58a71e58-dc3e-49e0-a433-c3cb92837cdb"
+        },
+        {
+          "name": "Hidden Treasures",
+          "date": "1995-03-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/5f2ab117-2648-314f-88a4-0543b728abc7"
+        },
+        {
+          "name": "The Scorpion",
+          "date": "2005",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/64974ecc-42b3-4327-80a3-47fa61480e03"
+        },
+        {
+          "name": "Too Cruel to Die...",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/65185794-851d-385a-a892-07590b190a62"
+        },
+        {
+          "name": "Maximum Megadeth",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/65267a90-5d26-3d0e-b6a6-b11bacd6c778"
+        },
+        {
+          "name": "Rude Awakening",
+          "date": "2002-03-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/69b3f8aa-5bee-393c-9c49-ec2dcfbe1316"
+        },
+        {
+          "name": "Soldier On! / Night Stalkers / We’ll Be Back",
+          "date": "2022-08-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/69d9e910-2003-4e49-94ac-9d036b9588d7"
+        },
+        {
+          "name": "Dystopia",
+          "date": "2016-01-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6a5de5f5-b26a-4cf5-a497-b8238d0f6f40"
+        },
+        {
+          "name": "Breadline / Crush ’Em",
+          "date": "2000",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6ae5412f-e282-4041-ada1-b7b8f7c0bf40"
+        },
+        {
+          "name": "Holy Wars… The Punishment Due",
+          "date": "1990-09-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6b5f006f-ea53-3053-8796-9f564b943c99"
+        },
+        {
+          "name": "The Sick, the Dying… and the Dead!",
+          "date": "2022-09-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/70b5b83b-8817-4cf3-8248-ec9ced2213e2"
+        },
+        {
+          "name": "Anthology: Set the World Afire",
+          "date": "2008-09-30",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/721bb65c-c838-3ee6-a70d-b96166dfa7f3"
+        },
+        {
+          "name": "Breadline",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/79db66f2-1dda-3c1c-a06d-dfd7b7a5e217"
+        },
+        {
+          "name": "Punishment Is Due",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7a08ae51-dd75-42ec-ac6e-b37b859c8629"
+        },
+        {
+          "name": "À tout le monde",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/810afe1f-a27e-4337-bf3a-3840991ff499"
+        },
+        {
+          "name": "Sweating Bullets",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81bea5a5-cb61-3317-895f-5e8dbad88679"
+        },
+        {
+          "name": "The Rockview Interviews",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/851e1139-17c7-3272-8b5b-458adcb1e6a5"
+        },
+        {
+          "name": "Extended Versions",
+          "date": "2007-03-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/89261071-f21d-44c4-bc8c-e5d9b1281f3e"
+        },
+        {
+          "name": "Cryptic Writings",
+          "date": "1997-05-28",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8f37e58c-0ab8-3393-88c0-fdb41488f233"
+        },
+        {
+          "name": "The World Needs a Hero",
+          "date": "2000",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8f58b16b-049c-3fce-bf44-256015ea3b5b"
+        },
+        {
+          "name": "Icon",
+          "date": "2014-03-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8fbe57ec-7d86-4d31-b9cd-e8a146f788e0"
+        },
+        {
+          "name": "Unplugged in Boston",
+          "date": "2006",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9609494a-effd-4236-9e5e-036351270f05"
+        },
+        {
+          "name": "Megabest",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/97713ae0-602b-4b30-8268-b9965cd11189"
+        },
+        {
+          "name": "The System Has Failed",
+          "date": "2004-09-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/97ae834d-8b50-3068-bf38-807d94f32dd5"
+        },
+        {
+          "name": "1988-04-18: Concert Hall, Toronto, ON, Canada",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/997b9916-e57d-3c4c-a840-969c6de06624"
+        },
+        {
+          "name": "Tipping Point",
+          "date": "2025-10-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9b33abd7-c7b1-4d4b-819f-7293562151ed"
+        },
+        {
+          "name": "Suicide Solution",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9cc497fb-39f3-407f-a261-f62ba8c99b82"
+        },
+        {
+          "name": "That One Night: Live in Buenos Aires",
+          "date": "2007-03-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9cf24e5b-e50f-37f6-b017-c35b8dd3bd56"
+        },
+        {
+          "name": "1992-10-16: Like a Tornado: Genk, Limburg, Belgium",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a60d4358-15d3-3c88-a5c6-791300524298"
+        },
+        {
+          "name": "Warheads on Foreheads",
+          "date": "2019-03-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a6e8a6cb-c0da-4679-b690-8958adc5a9b0"
+        },
+        {
+          "name": "Still, Alive… and Well?",
+          "date": "2002-09-10",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ab2732e2-2763-34e6-a368-59e9931633fd"
+        },
+        {
+          "name": "The Originals",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/acd4bedd-19b1-4930-9149-fa2f848ecc7d"
+        },
+        {
+          "name": "Puppet Parade",
+          "date": "2026-01-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b3820c26-7190-41f7-a0f2-9c8ba3bf03a5"
+        },
+        {
+          "name": "I Don’t Care",
+          "date": "2025-11-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b52f7132-72ad-4ff3-ab03-f71f47e21c13"
+        },
+        {
+          "name": "Public Enemy No. 1",
+          "date": "2011-09-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b540346b-3375-4880-88ce-c9a43ca7c377"
+        },
+        {
+          "name": "Capitol Punishment: The Megadeth Years",
+          "date": "2000-10-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b606d22e-57cb-4f25-8867-efcc63251747"
+        },
+        {
+          "name": "All Treasures: The Non‐Album Tracks & Bonus Tracks",
+          "date": "1995",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/b6c17ad8-ff87-4214-8c24-ef42c31c9112"
+        },
+        {
+          "name": "Cryptic Sounds: No Voices in Your Head",
+          "date": "1998-11-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b9a91707-87d5-30ae-882b-3cb96a839210"
+        },
+        {
+          "name": "Sudden Death",
+          "date": "2010-09-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bacfd8a8-7189-4a15-8835-922263f6e28d"
+        },
+        {
+          "name": "Train of Consequences",
+          "date": "1994-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/be596609-4cec-39cd-82e6-f981088b2a18"
+        },
+        {
+          "name": "Limited Edition! Megadeth Live",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c83f4d15-71ed-3c39-8758-dae955bcff77"
+        },
+        {
+          "name": "Delivering the Goods",
+          "date": "2022-11-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c8538180-fdc7-4676-b5cd-866d4955e5c6"
+        },
+        {
+          "name": "Unplugged + Live Traxx",
+          "date": "1997-12-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c97484d2-b291-4456-b55a-ddc0d628c388"
+        },
+        {
+          "name": "A Secret Place",
+          "date": "1997",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c9e2659c-768b-4762-a634-52877a05b4f0"
+        },
+        {
+          "name": "Youthanasia",
+          "date": "1994-10-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cd20894a-10eb-3f69-8550-a9b93446c2a8"
+        },
+        {
+          "name": "Megadeth",
+          "date": "2026-01-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cd6f4a73-a18f-405e-8067-0f3bcdf6cac2"
+        },
+        {
+          "name": "Last Rites",
+          "date": "1984-03-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ce9817b1-deeb-469d-9810-eaf3d22629a4"
+        },
+        {
+          "name": "Losing Game",
+          "date": "2025-04-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d0cf9367-69eb-4f5d-bbb7-cbae7b6d87f8"
+        },
+        {
+          "name": "Night Stalkers / We’ll Be Back",
+          "date": "2022-07-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d7cc5b16-a09d-4f77-aaa7-e643d78f35bb"
+        },
+        {
+          "name": "Hangar 18",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d8e538e3-1179-3690-92bd-452134084e82"
+        },
+        {
+          "name": "1993-06-12: Megadeth Live in Rotterdam, Holland, 1993: De Kuip, Rotterdam, The Netherlands",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d9efdf8f-4aa9-3e01-89da-1a672c0a2682"
+        },
+        {
+          "name": "Endgame",
+          "date": "2009-09-09",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e165f024-3fab-4002-aad9-18da9c515d2a"
+        },
+        {
+          "name": "The Threat Is Real",
+          "date": "2015-11-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e69465cd-da80-4521-8e15-8a884e4c1e5c"
+        },
+        {
+          "name": "Super Collider",
+          "date": "2013-05-31",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e809dca1-6575-4f11-961b-a9d5c73ede67"
+        },
+        {
+          "name": "Rust in Peace: Live",
+          "date": "2010-09-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/eb790d8a-a206-4c42-a8aa-77e052ca4ad7"
+        },
+        {
+          "name": "We’ll Be Back",
+          "date": "2022-06-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ecba60e5-91d5-4f5c-ba48-a26f584c56ab"
+        },
+        {
+          "name": "Anarchy in the U.K.",
+          "date": "1988",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f1614dad-01b2-3c4b-a9ca-ce1308024d6d"
+        },
+        {
+          "name": "Trust",
+          "date": "1997-06-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f26564e6-4bb0-3a54-a21d-4e7069773762"
+        },
+        {
+          "name": "Old Testaments",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f6e6aab4-c36c-4ec7-bd7d-6212924b702e"
+        },
+        {
+          "name": "Smegma Breath",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f7995c66-802a-3dbd-aab7-fa1c30fb61d3"
+        }
+      ]
     }
   },
   "checked": {
@@ -31386,8 +32019,8 @@
     "manowar": "2026-10-25T12:05:32.075393+00:00",
     "marillion": "2026-10-25T16:08:56.958983+00:00",
     "mastodon": "2026-10-25T16:09:00.687603+00:00",
-    "mayhem": "2026-10-15T19:18:39.018359+00:00",
-    "megadeth": "2026-10-15T19:18:40.219875+00:00",
+    "mayhem": "2026-10-25T19:05:21.595057+00:00",
+    "megadeth": "2026-10-25T19:05:26.101121+00:00",
     "meshuggah": "2026-10-15T22:31:31.682655+00:00",
     "metallica": "2026-10-15T22:31:35.909537+00:00",
     "morbid-angel": "2026-10-16T00:42:50.829202+00:00",
