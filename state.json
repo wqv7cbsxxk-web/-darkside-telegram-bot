@@ -1058,49 +1058,17 @@
     "9a136ba8da9948d16689d2f9265f4af2d488b00e",
     "4db08409dc767bc7830a2da0ca594afdbcf73442",
     "2b81dcf9e507563dec80b0a815c6ca13f5c6f9ea",
-    "dcc9865ce154f7727fdfc75d3aba39c6782b0230"
+    "dcc9865ce154f7727fdfc75d3aba39c6782b0230",
+    "270ee8e323eb81caea0398ac577174501ddf70ca",
+    "944a84c6e66940ec15a445afacd42555705d6bbe",
+    "a14a9d738408efb41fa896131ca2d4eec07413f1",
+    "9c90e2c37bbcf01637e26613c205657ed8858c1b",
+    "0f2921b38f093199d7a014130da4ff3828903991",
+    "8068d51124b54f144bef00288d16325a2530947d",
+    "122298da4d1799a8d39a961c040b3662f5986d2d",
+    "eafcaec81cc64695c8ce470485c64875d4978243"
   ],
   "recent_titles": [
-    {
-      "title": "2027 ‘Welcome To Rockville’ Lineup Set To Be Revealed Next Week, Poppy Officially Confirmed",
-      "source": "ThePRP",
-      "ts": 1792622920
-    },
-    {
-      "title": "Skinless Finish Writing Their First Album Since 2018",
-      "source": "ThePRP",
-      "ts": 1792630862
-    },
-    {
-      "title": "Doomriders, Whores, Waxed, Etc. Announced For 2026 ‘Saddest Day’ Pre-Show",
-      "source": "ThePRP",
-      "ts": 1792630874
-    },
-    {
-      "title": "Iron Maiden drummer Nicko McBrain says he turned down the opportunity to play golf with Donald Trump",
-      "source": "Louder",
-      "ts": 1792630887
-    },
-    {
-      "title": "Pierce The Veil Launch ‘Hot Topic Live’ Series With Three-Song Session",
-      "source": "ThePRP",
-      "ts": 1792630892
-    },
-    {
-      "title": "Newly Remastered Reissues Of Obituary’s “Xecutioner’s Return” & “Darkest Day” Due In December",
-      "source": "ThePRP",
-      "ts": 1792630898
-    },
-    {
-      "title": "\"It's like Heathcliff digging up Cathy's corpse and dancing with it in the cold moonlight.\" The strange tale of the outrageous \"erotic\" 80s power ballad that Broadway legend Andrew Lloyd Webber called \"the greatest love song ever written\"",
-      "source": "Louder",
-      "ts": 1792630929
-    },
-    {
-      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): BEATEN TO DEATH — “VNTRVE”",
-      "source": "No Clean Singing",
-      "ts": 1792630955
-    },
     {
       "title": "Former Killswitch Engage bandmates Howard Jones and Adam D detail new project Burn Eternal, sign to Metal Blade Records",
       "source": "Louder",
@@ -1860,6 +1828,46 @@
       "title": "Meshuggah’s North American 40th Anniversary Tour To Feature Testament & Blood Incantation",
       "source": "ThePRP",
       "ts": 1793044964
+    },
+    {
+      "title": "Crowbar Planning To Work On New Album In 2027",
+      "source": "ThePRP",
+      "ts": 1793058533
+    },
+    {
+      "title": "Chelsea Wolfe Joined By Nine Inch Nails, Spiritbox & Garbage Members At Los Angeles Show",
+      "source": "ThePRP",
+      "ts": 1793058541
+    },
+    {
+      "title": "Haken Announce Spring 2027 North American Tour With Thank You Scientist & Einar Solberg",
+      "source": "ThePRP",
+      "ts": 1793058675
+    },
+    {
+      "title": "Goose Announce First 2027 Tour Dates",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793058697
+    },
+    {
+      "title": "NEW WORLD MAN – I AM THE MACHINE",
+      "source": "No Clean Singing",
+      "ts": 1793058725
+    },
+    {
+      "title": "Red Hot Chili Peppers laid bare in revealing new book from top British photographer",
+      "source": "Louder",
+      "ts": 1793058742
+    },
+    {
+      "title": "AN NCS PREMIERE: HAXPROCESS — “CONDEMNATION OF ETERNAL MISERY”",
+      "source": "No Clean Singing",
+      "ts": 1793058763
+    },
+    {
+      "title": "Musical comedown? Movie template? Untoppable creative peak? The Who’s Quadrophenia is a prog classic",
+      "source": "Louder",
+      "ts": 1793058782
     }
   ],
   "initialized_sources": [
@@ -4178,7 +4186,7 @@
       "title": "10 Metal Albums That Are Actually Scary-Sounding",
       "link": "https://metalinjection.net/lists/10-metal-albums-that-are-actually-scary-sounding",
       "rss_body": "From haunted-mansion storytelling to suffocating drone doom, these ten albums frighten with sound alone",
-      "tags": "Lists metal featured1 Scary",
+      "tags": "Lists metal featured2 Scary",
       "category": "Хэви-метал",
       "published": "2026-10-25T13:53:58+00:00",
       "id": "02c6d1c29f4c63ea2776a540e288f9ca9b516537",
@@ -4257,19 +4265,7 @@
       "duplicate_ids": [
         "80187068073490a3ac9d0884860a9121e097b48c"
       ],
-      "retry_after": 1793024539
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Musical comedown? Movie template? Untoppable creative peak? The Who’s Quadrophenia is a prog classic",
-      "link": "https://www.loudersound.com/music/albums/who-quadrophenia-prog",
-      "rss_body": "In 2012\n\nProg\n\nstated the case for The Who’s\n\nQuadrophenia\n\nto be seen as a prog concept classic alongside the genre’s other great releases of 1973.\n\nThe Who\n\n’s sixth album is many things to many people. To some it’s the musical comedown that followed the R&B-infused mod scene of the early 60s. To others it’s the template for the subsequent film, which was more of a late 70s period piece. Then there are those who consider it to be The Who hitting a creative peak that would never be topped.\n\nOne thing is certain: for all its nostalgia for a previous decade,\n\nQuadrophenia\n\nis a product of the early 70s prog scene, influenced in scope and structure by emerging bands who helped make 1973 arguably the genre’s most vintage year.\n\nELP\n\n,\n\nGenesis\n\n,\n\nCaravan\n\n,\n\nYes\n\n,\n\nRick Wakeman\n\nand\n\nGong\n\nall put out key albums within weeks either side of\n\nQuadrophenia\n\n, while earlier that year saw the release of\n\nPink Floyd\n\n’s\n\nThe Dark Side Of The Moon\n\n– beside which The Who’s opus sits comfortably as a progressive, occasionally pastoral, often challenging and quintessentially English work.\n\nConceived by\n\nPete Townshend\n\nas “hard and grandiose music,” it tells the story of young Jimmy, a restless, working-class “mountain of paranoia” struggling against a backdrop of unemployment, parental pressures and excessive amphetamine use.\n\nMod culture and trips to Brighton provide an identity before the real Jimmy pushes out from behind the armour of his fashionable accoutrements into a total mental breakdown.\n\nSo far, so standard teen rebellion story – on paper, at least. But this is a musical concept, where separate pieces join to form a cohesive narrative in which opera meets prog and things get weird.\n\nAnother prog conceit: the album takes us on two journeys, external (from the city to the sea) and internal (from youthful arrogance to despondency and despair), which coalesce into a dramatic musical conclusion.\n\nDrunk and high, Jimmy steals a boat and ends up rain-soaked and marooned on a rock in the English channel, as described in the instrumental\n\nThe Rock\n\nand the final plea for help of\n\nLove Reign O’er Me\n\n.\n\nMusically, the album is certainly complex enough to be part of the wider prog world. Excursions into ethereal, psych-folk melodies on\n\nThe Punk And The Godfather\n\nrub up against thunderous rock bombast; where the fantastical soloing and strident synths of the title track lead into snippets of seaside sounds or a snatch of Sousa’s late 19th-century military march\n\nThe Thunderer\n\n(on\n\nThe Dirty Jobs\n\n).\n\nQuadrophenia\n\nis as its name suggests: a multi-faceted creature whose title refers to both the then-emerging quadraphonic sound technology and the alleged four personalities of a certain member of The Who. It’s a prog-related conceptual classic.",
-      "tags": "Albums Music",
-      "category": "Прогрессив",
-      "published": "2026-10-26T10:00:00+00:00",
-      "id": "eafcaec81cc64695c8ce470485c64875d4978243",
-      "retry_after": 0
+      "retry_after": 1793059064
     },
     {
       "source": "Metal Injection",
@@ -4281,7 +4277,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T18:32:59+00:00",
       "id": "f6005c1d6e8c5b1ff7788ea507274ac9c86aca0e",
-      "retry_after": 1793045238
+      "retry_after": 1793058842
     },
     {
       "source": "ThePRP",
@@ -4293,7 +4289,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T17:57:59+00:00",
       "id": "b9e8ca69f5cc9a98730181e67a834e90cb11e5e3",
-      "retry_after": 1793045254
+      "retry_after": 1793058844
     },
     {
       "source": "Decibel",
@@ -4305,19 +4301,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T17:10:26+00:00",
       "id": "a62eeab7cc49c798e3719ea14dd7e06231e5abe5",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Haken Announce Spring 2027 North American Tour With Thank You Scientist & Einar Solberg",
-      "link": "https://www.theprp.com/2026/10/26/news/haken-announce-spring-2027-north-american-tour-with-thank-you-scientist-einar-solberg/",
-      "rss_body": "They've still got the fever.",
-      "tags": "News Einar Solberg Haken Thank You Scientist",
-      "category": "Прогрессив",
-      "published": "2026-10-26T17:02:08+00:00",
-      "id": "a14a9d738408efb41fa896131ca2d4eec07413f1",
-      "retry_after": 0
+      "retry_after": 1793058972
     },
     {
       "source": "Metal Injection",
@@ -4329,43 +4313,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T16:18:53+00:00",
       "id": "d0b528392cc25ae3d7361204b6388afc2fcb1473",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Goose Announce First 2027 Tour Dates",
-      "link": "https://ultimateclassicrock.com/goose-first-tour-dates-2027/",
-      "rss_body": "The popular jam band is all set for another year of concerts. See where they'll be playing.",
-      "tags": "Concerts News Goose UCR Ultimate Classic Rock Radio",
-      "category": "Хард-рок",
-      "published": "2026-10-26T16:13:02+00:00",
-      "id": "9c90e2c37bbcf01637e26613c205657ed8858c1b",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "NEW WORLD MAN – I AM THE MACHINE",
-      "link": "https://www.nocleansinging.com/2026/10/26/new-world-man-i-am-the-machine/",
-      "rss_body": "(Andy Synn presents his thoughts on one of the best debut albums of 2026) A couple of months back I took a quick jaunt back up to my old stomping grounds to catch Metallic Hardcore legends Merauder play a killer show at The Bread Shed in Manchester. What made the show even better was the fact that,\n\n[...]",
-      "tags": "Album Reviews Andy Synn New World Man",
-      "category": "Хэви-метал",
-      "published": "2026-10-26T16:01:56+00:00",
-      "id": "0f2921b38f093199d7a014130da4ff3828903991",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Red Hot Chili Peppers laid bare in revealing new book from top British photographer",
-      "link": "https://www.loudersound.com/bands-artists/red-hot-chili-peppers-laid-bare-in-revealing-new-book-from-top-british-photographer",
-      "rss_body": "Red Hot Chili Peppers\n\nare the subject of a revealing new book from leading British photographer Tony Woolliscroft, who has been given unparalleled behind-the-scenes access to the band for over 25 years.\n\nPublished by Cassell, R\n\ned Hot Chili Peppers: 25 Years Unseen on Tour\n\ncollates more than 200 images of the band from Woolliscroft's archive, the majority of which have never previously been published.\n\nMore than just stunning photography, it's a collection of personal stories, candid moments, and never-before-heard anecdotes that reveal the band not only through Tony's lens but through his eyes.\n\nIn this exclusive extract, Woolliscroft recalls being backstage - and onstage - with the Los Angeles band at the troubled Woodstock '99 music festival.\n\n\"The Chili Peppers arrived at the festival site mid-afternoon,\" Woolliscroft remembers, \"and were immediately whisked away to do various interviews set up for them with magazines and MTV.\n\n\"Afterwards, they retired to their dressing room, where [frontman] Anthony [Kiedis] began working out their set list for the evening show, and [bassist] Flea decided to have a quick nap.\n\n\"In the early evening, Flea had a visitor. Jimi Hendrix’s sister popped into the dressing room to ask a special favour. She asked if the band could finish their set that evening with the Hendrix song Fire, after the band said that a hologram of Hendrix would be shown on stage playing a song to round off the weekend.\"\n\nFlea with Janie Hendrix, backstage at Woodstock '99\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\n\"The Chili Peppers had regularly performed\n\nFire\n\nin their live sets of the 1980s and had recorded it twice - as a B-side in 1987, and again for\n\nMother's Milk\n\nin 1989. But as of 1999, they had not performed it for nearly eight years. So a quick meeting was called and after three quick rehearsals of the song in the practice room,\n\nFire\n\nwas duly added to the end of that night’s set.\"\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\n\"The band then went through their rituals of some yoga stretches and vocal exercises before they took to the stage under a glorious red sky sunset. Flea made the decision to play the whole show completely naked, which considering it was being televised live on a pay-per-view channel was quite a risk, and could have led to his arrest.\n\n\"Towards the end of their set you could see from the stage that some disturbances were starting to break out at the back of the crowd. During the last song - with unfortunate irony, the cover of Hendrix's Fire - various catering and vending carts been had set alight by some crowd members who were protesting against the organizers' overpricing of basic food and water.\"\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\nJohn Frusciante onstage at Woodstock '99\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\n\"The band finished their set and were whisked away to beat the traffic and get to New York. Meanwhile, the crew and I witnessed a full-scale riot in progress at the festival, and we were unable to leave until well into the early hours of the morning when order was restored.\n\n\"Of course, the next day's newspapers claimed that the Chili Peppers played Fire as the crowd rioted. Nothing could have been further from the truth, and most of the press were unaware why the band had really decided to perform the song.\"\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\nYou can see more exclusive images from Red Hot Chili Peppers: 25 Years Unseen on Tour in the next issue of\n\nClassic Rock\n\nmagazine.\n\nThe book can be purchased\n\nhere.\n\nThe current issue of Classic Rock is onsale now\n\n.\n\n(Image credit: Cassell)",
-      "tags": "Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-10-26T16:00:00+00:00",
-      "id": "8068d51124b54f144bef00288d16325a2530947d",
-      "retry_after": 0
+      "retry_after": 1793058976
     },
     {
       "source": "Metal Injection",
@@ -4377,19 +4325,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T15:24:33+00:00",
       "id": "3b3fd7e76694c6e5265ca1e00d071e95fbf42bc4",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AN NCS PREMIERE: HAXPROCESS — “CONDEMNATION OF ETERNAL MISERY”",
-      "link": "https://www.nocleansinging.com/2026/10/26/an-ncs-premiere-haxprocess-condemnation-of-eternal-misery/",
-      "rss_body": "(written by Islander) Last year Transcending Obscurity Records released the second album created by the Floridian death metal band Haxprocess, Beyond What Eyes Can See. In advance of its release we wrote: “The album is enormously and exuberantly creative, and an enormously ambitious undertaking, and we can understand why T.O. labels it ‘epic’, not merely\n\n[...]",
-      "tags": "Premieres Haxprocess",
-      "category": "Прогрессив",
-      "published": "2026-10-26T15:03:32+00:00",
-      "id": "122298da4d1799a8d39a961c040b3662f5986d2d",
-      "retry_after": 0
+      "retry_after": 1793059043
     },
     {
       "source": "Metal Injection",
@@ -4397,11 +4333,23 @@
       "title": "Tony Iommi Praises William Shatner’s Turn as Metal Musician: “It’s Really Good What He’s Doing”",
       "link": "https://metalinjection.net/news/tony-iommi-praises-william-shatners-turn-as-metal-musician-its-really-good-what-hes-doing",
       "rss_body": "The old Geezers are joining forces.",
-      "tags": "Latest News tony iommi william shatner",
+      "tags": "Latest News tony iommi william shatner featured",
       "category": "Хэви-метал",
       "published": "2026-10-26T15:00:10+00:00",
       "id": "ffbdd5372b83f7d5789a2861c15bbcef42107d3f",
-      "retry_after": 0
+      "retry_after": 1793059064
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Five Finger Death Punch Backs Team USA With $200,000 Donation For Prospective 2028 Olympic And Paralympic Athletes",
+      "link": "https://metalinjection.net/news/five-finger-death-punch-backs-team-usa-with-200000-donation-for-prospective-2028-olympic-and-paralympic-athletes",
+      "rss_body": "Five Finger Death Punch have wrapped up the North American leg of their huge 20th anniversary world tour in an equally huge way—by donating $200,000 to support the Team USA […]",
+      "tags": "Latest News Five Finger Death Punch",
+      "category": "Хэви-метал",
+      "published": "2026-10-26T20:10:37+00:00",
+      "id": "13cc37845a1820e4da930f63752fccb23ae3186e",
+      "retry_after": 1793058841
     }
   ]
 }
