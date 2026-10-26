@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-25T01:28:07.706552+00:00"
+      "bandcamp_checked_at": "2026-10-26T01:51:04.183769+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -20134,7 +20134,7 @@
     "motorhead": {
       "name": "Motörhead",
       "musicbrainz_url": "https://musicbrainz.org/artist/57961a97-3796-4bf7-9f02-a985a8979ae9",
-      "reference_checked_at": "2026-10-16T05:13:50.234068+00:00",
+      "reference_checked_at": "2026-10-26T01:50:47.563724+00:00",
       "genres": "hard rock, heavy metal, metal, nwobhm, rock, speed metal",
       "bandcamp_url": "https://cleopatrarecordsmotrhead.bandcamp.com/",
       "website": "https://www.pirate-punk.net/groupe-musique-punk/?band=Motorhead",
@@ -20746,7 +20746,7 @@
     "napalm-death": {
       "name": "Napalm Death",
       "musicbrainz_url": "https://musicbrainz.org/artist/ce7bba8b-026b-4aa6-bddb-f98ed6d595e4",
-      "reference_checked_at": "2026-10-16T05:14:00.036503+00:00",
+      "reference_checked_at": "2026-10-26T01:50:55.385395+00:00",
       "genres": "crust punk, death metal, deathgrind, grindcore, industrial metal, metal",
       "bandcamp_url": "https://napalmdeath.bandcamp.com/",
       "website": "https://www.napalmdeath.org/",
@@ -32025,8 +32025,8 @@
     "metallica": "2026-10-25T21:48:12.075020+00:00",
     "morbid-angel": "2026-10-25T23:42:47.063602+00:00",
     "motley-crue": "2026-10-25T23:42:48.314620+00:00",
-    "motorhead": "2026-10-16T05:13:50.234269+00:00",
-    "napalm-death": "2026-10-16T05:14:00.037552+00:00",
+    "motorhead": "2026-10-26T01:50:47.563881+00:00",
+    "napalm-death": "2026-10-26T01:50:55.386525+00:00",
     "nightwish": "2026-10-16T09:50:43.161721+00:00",
     "obituary": "2026-10-16T09:50:44.425481+00:00",
     "of-mice-men": "2026-10-16T14:28:20.721521+00:00",
