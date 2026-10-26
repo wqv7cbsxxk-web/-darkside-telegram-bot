@@ -1050,49 +1050,17 @@
     "03872021503268344aca1b83c63d82018bfeee9f",
     "41abc23c0481789de007be83cc2560de3eabd7a9",
     "8567a51381d0aba12aec1f2a3f9ab8735b3dc089",
-    "b2429d7cdb4f3b06940fa949ad3557e6843adca9"
+    "b2429d7cdb4f3b06940fa949ad3557e6843adca9",
+    "8458212029214bea9b696c78e0e62ad31d40f8a8",
+    "fb4a844b7babf8740b4a613a3b6627fb0c58bd92",
+    "9b9b1e52cdfdbe87c6559009b856b291a7fec72a",
+    "5ef814f786d6c8677bc8dae500053d1cdec26626",
+    "9a136ba8da9948d16689d2f9265f4af2d488b00e",
+    "4db08409dc767bc7830a2da0ca594afdbcf73442",
+    "2b81dcf9e507563dec80b0a815c6ca13f5c6f9ea",
+    "dcc9865ce154f7727fdfc75d3aba39c6782b0230"
   ],
   "recent_titles": [
-    {
-      "title": "Bleed From Within Announce UK/European Headlining Shows With VEXED & More",
-      "source": "ThePRP",
-      "ts": 1792611602
-    },
-    {
-      "title": "Microtonal sensations Angine de Poitrine announce mammoth 2027 Concerts de Musique tour",
-      "source": "Louder",
-      "ts": 1792622857
-    },
-    {
-      "title": "Ho99o9 Team With Slay Squad On New Single “War Bait”",
-      "source": "ThePRP",
-      "ts": 1792622860
-    },
-    {
-      "title": "Conjurer Announce U.S. Headlining Shows With Armed For Apocalypse",
-      "source": "ThePRP",
-      "ts": 1792622864
-    },
-    {
-      "title": "Downswing’s New In-Studio Set For Audiotree Released",
-      "source": "ThePRP",
-      "ts": 1792622867
-    },
-    {
-      "title": "Sharon Osbourne kept Black Sabbath in the dark about doctors' warnings that their Back To The Beginning farewell show could kill Ozzy",
-      "source": "Louder",
-      "ts": 1792622881
-    },
-    {
-      "title": "Former Nightwish singer Floor Jansen doesn’t mind her old band After Forever coming back – just don’t call it a reunion",
-      "source": "Louder",
-      "ts": 1792622895
-    },
-    {
-      "title": "Pro-Shot Footage Of Nevermore’s 2026 ‘Motocultor Festival’ Set Available",
-      "source": "ThePRP",
-      "ts": 1792622917
-    },
     {
       "title": "2027 ‘Welcome To Rockville’ Lineup Set To Be Revealed Next Week, Poppy Officially Confirmed",
       "source": "ThePRP",
@@ -1852,6 +1820,46 @@
       "title": "2027's Biggest Music Festivals and Cruises",
       "source": "Ultimate Classic Rock",
       "ts": 1793024300
+    },
+    {
+      "title": "Greysight Premiere “DON’T LOOK AT ME” Video",
+      "source": "ThePRP",
+      "ts": 1793044911
+    },
+    {
+      "title": "Work Is Underway On Storm Corrosion’s (Opeth, Porcupine Tree) Sophomore Album",
+      "source": "ThePRP",
+      "ts": 1793044921
+    },
+    {
+      "title": "Kublai Khan TX, Sleep Theory, Etc. Added To 2027 ‘Welcome To Rockville’ As Full Lineup Reveal Date Announced",
+      "source": "ThePRP",
+      "ts": 1793044925
+    },
+    {
+      "title": "Tool’s Danny Carey & The Cult’s John Tempesta Jammed With A Drumline At Last Night’s Seakhawks Vs. Chiefs Game",
+      "source": "ThePRP",
+      "ts": 1793044931
+    },
+    {
+      "title": "Metallica Share Pro-Shot Live Footage Of “Fade To Black” From Their Residency At The Sphere",
+      "source": "ThePRP",
+      "ts": 1793044937
+    },
+    {
+      "title": "BRAT’s “Spit On His Grave” Music Video Premieres",
+      "source": "ThePRP",
+      "ts": 1793044943
+    },
+    {
+      "title": "Mammoth To Film Their Upcoming London, England Show, Announce New U.S. Dates",
+      "source": "ThePRP",
+      "ts": 1793044959
+    },
+    {
+      "title": "Meshuggah’s North American 40th Anniversary Tour To Feature Testament & Blood Incantation",
+      "source": "ThePRP",
+      "ts": 1793044964
     }
   ],
   "initialized_sources": [
@@ -4261,6 +4269,138 @@
       "category": "Прогрессив",
       "published": "2026-10-26T10:00:00+00:00",
       "id": "eafcaec81cc64695c8ce470485c64875d4978243",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Tool’s Danny Carey and The Cult’s John Tempesta Lead Seahawks Drumline Before 20-3 Win Over Chiefs",
+      "link": "https://metalinjection.net/news/tools-danny-carey-and-the-cults-john-tempesta-lead-seahawks-drumline-before-20-3-win-over-chiefs",
+      "rss_body": "Those drums definitely helped.",
+      "tags": "Latest News danny carey John Tempesta",
+      "category": "Прогрессив",
+      "published": "2026-10-26T18:32:59+00:00",
+      "id": "f6005c1d6e8c5b1ff7788ea507274ac9c86aca0e",
+      "retry_after": 1793045238
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Agriculture Reveal New Openers For Fall Tour Following Uniform’s Exit",
+      "link": "https://www.theprp.com/2026/10/26/news/agriculture-reveal-new-openers-for-fall-tour-following-uniforms-exit/",
+      "rss_body": "Boss-de-Nage, Genital Shame, Dry Socket, Purest Form & more will be playing select shows.",
+      "tags": "News Agriculture Uniform",
+      "category": "Хэви-метал",
+      "published": "2026-10-26T17:57:59+00:00",
+      "id": "b9e8ca69f5cc9a98730181e67a834e90cb11e5e3",
+      "retry_after": 1793045254
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Q&A: Chuck Billy on His New memoir, ‘Holding My Breath: The Two Testaments of Chuck Billy’",
+      "link": "https://www.decibelmagazine.com/2026/10/26/qa-chuck-billy-on-his-new-memoir-holding-my-breath-the-two-testaments-of-chuck-billy/",
+      "rss_body": "Metal fans may think they know Chuck Billy, the larger-than-life frontman of thrash metal titans\n\nTestament\n\n. But do they know the man behind the band?\n\nCo-written with Dave Erickson, with a foreword by Judas Priest legend Rob Halford and an afterword from Lamb of God’s Randy Blythe, Billy is set to release his debut memoir,\n\nHolding My Breath: The Two Testaments of Chuck Billy.\n\nAnd while the unflinching look at the soon-to-be sixty-five-year-old frontman outlines his rise to become one of thrash metal’s most beloved figures, this is in no way a Testament book or standard rock ‘n’ roll tell-all.\n\nHolding My Breath\n\nis broken into what Billy calls his “Two Testaments,” the first following his upbringing in a resilient Native American and Mexican-American family and his introduction to the exploding Bay Area scene. The second walks with Billy through his battle with a rare form of cancer, germ cell seminoma, at 38 years old and the remarkable comeback story that followed.\n\nAhead of the book’s release, Billy sat down with\n\nDecibel\n\nfor a candid Q&A, reflecting on his career, his decision to venture into the literary world, his spiritual awakening and thoughts on new material and the road ahead.\n\nChuck, how’s everything? How was your summer? I know you had a busy touring schedule there for a bit.\n\nChuck:\n\nSummer was great. We’ve never gone back to Europe twice in a summer during festival season. We did this year, and it went really well. It was a long trip, but I like how we broke it up. Great shows. We got to hook up with our friends on the off shows with Armored Saint, Metal Church and Death Angel. So it was cool that we got to spend some time with some friends. It’s been good. We’ve been home. Eric and Chris have been diving into new music. They’ve got enough to start going and make another record. Hopefully, we plan to get in the studio next July. So we’ve got another record ready to go already.\n\nIn terms of the new music, I’ve heard you say loads of times you always want to keep pushing yourselves, try new things, experiment. Particularly in this early stage now, well before you get in the studio, how do you see the germ of, okay, here’s what we want a new Testament record to be?\n\nChuck:\n\nWell, we don’t ever do that. We don’t say this is what we want it to be because it’s never the same. Our records never are coming off the last one ever. So it’s about whatever feels good. And again, and I think I share in the book towards the end how, you know, in the early years, me holding my breath, as you will, being a little stubborn in the songwriting and what I sing over, it maybe threw a wrench in the process. The songs came out great, but maybe I just stalled it up a little bit, just going against the grain for a minute, thinking I know, but I don’t know. But I think when I started loosening up, like on the\n\nTitans\n\nrecord, and especially this last record, just taking the music, listening to the shit out of it, and coming up with the best I can without changing anything. And it ended up making it more challenging for me vocally. Made me in an uncomfortable place, which I thought made for more creativity, but also made me a little nervous and scared too because Eric and Chris are writing some really aggressive modern Testament than we have. So again, it’s another thing for me to go, okay, holy shit, I gotta kind of keep up. So I find now that it’s definitely where we’re at; it’s definitely a different band, for sure.\n\nYeah, and you mentioned trying to fit into the mould of what these guys are bringing you. “For the Love of Pain” in particular on the new record is a song that just whops you over the fucking head. And you have to meet that too, because the guys are coming at 5,000 miles an hour, and you’re needing to bring it. It’s modern, it’s really heavy, but it’s not a throwback song to what someone might expect when they hear Testament. How does a track like that, where you really challenge yourself, present live?\n\nChuck:\n\nWell, I was just about to say, in the live situation, we’ve opened with it. We put it right up at the top of the set in the first couple of songs, because it hits pretty good. And I think on the last tour, we really wanted to introduce three of the new songs. We played three new ones back to back, like I think it was three, four, and five or something in the show. So we jumped right in, right away, a couple of old-school, and then hit them hard with three new ones.\n\nYeah, that’s the cool thing at this point, too, where you can kind of tailor the set list, and you have enough of a discography now that you can play the hits, play some oddities, some B-sides, and then we can hit them with some new stuff. It’s a nice place to be.\n\nChuck:\n\nAnd it’s good for us because you put out records; you can’t sing and play all your records ever for any band. So I think the times of making records, you aren’t looking to get an hour of music. We’ve got to have 10 songs. I think that tension span isn’t that long. And you could probably still get away with 45 minutes and eight songs or so, eight solid five-minute killers. Times are changing. I think that’s why now we’re like, we don’t need to go write 15 songs and put together a record. Let’s focus on getting 10, and maybe we’ll have eight on the record. You know, it depends on how long they are, but I think right now we’re at about song 13, maybe 14 songs that we’ve got.\n\nBefore we get into the book, I know you’re going back to Europe next year to support Megadeth. Obviously, they’re guys you know quite well who are kind of wrapping things up to a degree. Just your thoughts on Megadeth, what they’ve meant to thrash, and what they meant to you as friends and tourmates.\n\nChuck:\n\nWell, we got a lot of history. We supported each other in the early years. Dave emceed a lot of our shows in LA in the 87/88 years, somewhere around there. They took us on tour. Over the years, we became good friends and worked closely with management companies together. Just a lot. I mean, we have a lot of history, and we have some ups and downs, but I don’t think it’s bad enough ups and downs to stop us from touring together and working together, you know? But I think Megadeth, what they added and what Dave brought to it, is very important because he was a key part of that early Metallica stuff. And for him to lose that and go off in his own and really make a claim to who he is as a songwriter and riff writer and hooks and all that, he’s right there in the class of Metallica. So for him to prosper and make his own name for himself and career, fuck yeah, hell yeah. I think that’s great. And for what they do as far as style of metal, they’ve written some great stuff and are still writing great stuff. So again, Dave, he’s a staple of what we’re doing here, and for him to maybe draw a line in the sand and say, okay, this is going to be it sometime. Yeah, that’s it. Pretty cool, big of them. And I don’t know what the underscore of that is and the reasoning, but I think we’ve all got to find that comes eventually.\n\nMoving to the book. You’ve mentioned it before that you’re a pretty private guy when it comes down to it. Was this a bit of a reach for you to think, “Are people gonna wanna hear what I have to say” type thing? Because you’re a humble guy, you’re a private guy from everything I know of you. Was it a lot to take on to be like, okay, where do I start? Take me through that.\n\nChuck:\n\nPretty much. I mean, when I was first approached a while back, I put it on the back burner because I was kind of like busy; I don’t know if I have a year to commit, and it sounds like a pain in the ass, all the above. And it was brought to me, and so I kind of just put it on the back burner, and as time went by, it got brought up, and the timing just happened to be that, okay, the record came out last year, we’re touring on it. You know, I’ve got a break now, and we’re writing, but still have a break. If I’m going to commit now is the only window I really have right after the record comes out, and we’re done with a little bit of touring. So I committed. Next thing you know, I had a literary agent, and I was off and running. I mean, it happens so fast in this business compared to the business where you take your time till it’s ready and write. This was like, ready, set, go. And everything was just like, okay, we need this, we need that. And I mean, fast. I was like, wow, I haven’t even had time to think. And so when we first did it, it was like, okay, you guys got to write a manuscript; I’ll shop it around, then we’ll start writing once we get the deal; you’ll probably take a year for this. And the next thing, a week later, it’s like shit; I got offers already. You know, let’s look at these. I picked one and said, okay, let’s go with this company. It’s going to be a good company. Here are some writers; meet these guys, pick David. And then it was just like, okay, here we go. First phone call, “Hey David, how you doing?” You know, and that was kind of odd. Like, okay, “Well, I’ve never done this. You’ve got a couple of bestsellers. Where do we want to start? How do we wanna start? I don’t know, have a title for this, or I don’t know what I want, but what I do want to get across, first of all, this is not a Testament book. I want to make sure that, you know, it’s not a testament book.” What I enjoy when I read autobiographies or other memoirs from people, I like to know who they are before the celebrity, or who they are before what we all know them as. And I enjoy that part of books when I read that. So I wanted to convey that. And I thought, maybe because of the part of holding my breath and my story, everything that happened, looking back and talking through it, that’s when it kind of all came together as the title, holding my breath. Let’s start back at eight months old. Wow. And then to talk through your life and to see how that holding-your-breath phrase and being stubborn, getting your way and what that meant throughout life. And as I did the book, kind of looking at it and reflecting and thinking, well, maybe that stubborn kid holding his breath was getting ready to hold his breath when he had to fight cancer because I was supposed to die at 38. And maybe something in the universe shifted, and I got through it, whatever way I did, but I found my way through it. And on the other side was this whole new life and Chuck and view of the world and the band. And so we kind of found our story and how we were going to work it and put it together and come up with the title as we worked. So it was a really weird thing. It’s definitely therapeutic. I was getting to enjoy it after a while. It really wasn’t a pain in the ass, and we really knocked it out. I got with him three or four days a week, so we weren’t farting around. I guess maybe they thought a year was cause we didn’t have time, but we talked a lot and got it done.\n\nAnd you really hit on it there, getting in sync with your writing partner, like that’s no easy thing at all, finding the rhythm and direction. And then you have that dividing line of, we know where we’re going with the two testaments, before and after the illness to a degree. How did you land on the two-testament idea?\n\nChuck:\n\nI came up with the picture idea of half a live shot, half the native shot because I knew the native healing was a part of the story. So when I saw the picture and showed it to the writer, he kind of came up with, “Whoa, the Two Testaments of Chuck.” There are two Chucks. And then we’re like, whoa. Okay, the Two Testaments. We like that because it’s nice to fit the name Testament in the title somewhere in there. Okay, well, then that makes sense. Let’s go with that. I like that. And it’s two stories. So now we’ve got our outline. The two Chucks before and after, the two testaments before and after, and then really dive into the crossroads in the middle of the cancer and the benefit show and all that stuff and what happened because of that and surviving, not going at 38. Again, the universe had a different plan because if Pamela Spivey never knocked on my door that day and brought a buyer to my house, I would have never sold my house. I never would have gone and seen the doctor. My tumour probably would have erupted. And I would have died at 38, just like the plan was supposed to happen, but something else in the universe happened. And I guess that’s when I really kind of looked back; now it’s been 25 years. Man, I made some good records. I’ve been very lucky with the band, and where we’re at today, shit, you know, maybe it is time to tell the story and document it.\n\nYeah, and from what I’ve seen since then, you’ve become a very spiritual person, and not so much a “religious” person, but spirituality. Talk me through that and how the last 25 years have been in terms of your journey and discovering who you are.\n\nChuck:\n\nWell, yeah, I mean, I was raised a Catholic. My mom’s very religious. So I was raised with all those stories and beliefs, but then getting the opportunity to travel the world, meet a bunch of different people and cultures and understand other beliefs and other powers out there. It opened my eyes to, like, wow, maybe there’s not just one God. Maybe there are multiple gods or multiple beliefs or multiple higher powers, whatever you want to call it, in different religions in different parts of the world. And I was even open to the aliens creating mankind, writing records about that, you know? So I’m way out there. It’s just a trip, the way it all worked out religiously. Cause after I did the native healing and went through some very unbelievable that after telling, you almost people aren’t gonna believe this, but it was what happened, it made me think that I’m more spiritual. I want to call myself spiritual, not a religious person. Yeah, I was raised Catholic, but if someone goes, “What are you?” I’d say I’m spiritual; I’m not gonna go “I’m a catholic.”\n\nIs there anything from this so far that people, whoever’s had a chance to see it, are surprised to read or learn about you? Whether it’s post-cancer or young Chuck? Is there something you think fans, readers, will be surprised by in particular?\n\nChuck:\n\nWell, no, but I just think the story of the kid holding his breath, how he was raised. And I mean, I think the other big flip side of this whole story too is my parents. My four brothers and I are like miracle children. Two of them survived tuberculosis and then started a family late in life. First of all, that right there, and then for them to have another chance at life and have a family. Man, they’d do anything for us kids, you know? So that’s why I think my father protected us, raised us, taught us, and so maybe all those lessons going through that were preparing me for that battle.\n\nIt’s wild to think back on some of the coincidences and some of, if you didn’t go this way, what would have happened this way? It kind of blows your mind sometimes.\n\nChuck:\n\nAnd that’s the interesting thing about doing a book or doing the memoir is it’s never easy talking about yourself for three or four months. That’s never easy, and I had to bring in my wife, bandmates, friends, old band members to talk with my writer and me because we would share stories and all of a sudden be like, “Oh, did you tell them this story?” Oh yeah, I forgot about that, and next we’re off in a story, so it helped that, and there are so many more stories. That book could have been a thousand pages if we really wanted to keep going crazy, but I really just wanted to convey that young kid holding his breath and who he is. That no matter what, at the end of the day, 10 years, 20 years down the road, someone reads this book that knew who that kid was, that was the lead singer of Testament. You know, it’s all right there.\n\nAbsolutely. I don’t think I’ve ever asked you this, but were there some definitive artists, musicians, albums that really broke you into rock music and heavy music? Everyone has those gateway bands, right? I know for me, in the beginning it was KISS, and that opened the floodgates. What was it for you?\n\nChuck:\n\nWell, it was definitely KISS, but KISS was more of an introduction to big shows, big theatrics, but I loved the music, so seeing it was awesome. But I think for a darker side and heavier side, I started paying attention to more guitar; it would have to be Black Sabbath. I mean, that Black Sabbath,\n\nWe Sold Our Soul for Rock ‘n’ Roll\n\n. The album vinyl cover, to me, was the scariest, heaviest thing lying in your room, just staring at that open gatefold, hearing the rain and the bells tolling and the album starting, like, wow, holy shit, what is this? I mean, those were, like, to me, this is scary. And I guess that’s what they were shooting for.\n\nIt’s funny now because you hear Sabbath on classic rock radio or rock radio, or whatever. I can’t imagine what it must have been like at the time. People hearing and seeing Sabbath for the first time. It must have just shattered people’s minds.\n\nChuck:\n\nIt blew minds. I mean, just how dark it was. Just a fucking black album with the title. That’s it. You open it up, the lady lying in a coffin, you know, like holy shit. Okay. This is going to be good.\n\nMoving forward, obviously you mentioned this was a very cathartic process for you. We talked about Megadeth kind of winding things down. It feels like you guys are still firing on a cylinder, still excited about where you’re heading towards another record. What keeps you motivated? What keeps you going? And how do you see the next 10 years going in a perfect world?\n\nChuck:\n\nWell, I think at this point, what keeps us motivated is that we’re 40 years into it. I know we’ve got a couple of records left under Nuclear Blast, so we know that’s going to take some time. I don’t know, really, cause we’ll be ready to do another record, and I’m sure we’ll have enough for the next. So we’ll deliver those two records pretty quickly. We’ll see what happens if we sign some more records with them. Who knows. But again, I think we’re all in a really good spot health-wise, headspace-wise. There’s no reason yet to think about that day. We have talked to our agents and said, let’s just put a time window, the best of or worst-case scenarios. Let’s talk about the next six, seven years. And we’ve done that this summer with our agents in Europe and in America just said, let’s see what that looks like. And if we do deliver records, what’s that gonna look like for us? And how old are we gonna be then? You know what I mean? It’s six years. I’m gonna be 70 years old. That’s gonna go by pretty quick. You know, at 70, shit, how’s my body gonna be reacting at that age? Right now, today, I could say I feel great. Six years from now? Now I feel awesome, but we’ll see what happens in that time window. So in a perfect world, I could drag it out for 20 years, but we don’t have that. So that’s why I think we’re motivated, and let’s just keep making music. We’re inspired. We’re putting out some good tunes and records. We got people still coming to the shows, buying records. The label wants us. Let’s just keep going till we can’t, I guess.\n\nHolding My Breath: The Two Testaments of Chuck Billy\n\nis available for pre-order now at\n\nchuckbillybook.com",
+      "tags": "Books Interview News chuck billy Holding My Breath Testament",
+      "category": "Прогрессив",
+      "published": "2026-10-26T17:10:26+00:00",
+      "id": "a62eeab7cc49c798e3719ea14dd7e06231e5abe5",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Haken Announce Spring 2027 North American Tour With Thank You Scientist & Einar Solberg",
+      "link": "https://www.theprp.com/2026/10/26/news/haken-announce-spring-2027-north-american-tour-with-thank-you-scientist-einar-solberg/",
+      "rss_body": "They've still got the fever.",
+      "tags": "News Einar Solberg Haken Thank You Scientist",
+      "category": "Прогрессив",
+      "published": "2026-10-26T17:02:08+00:00",
+      "id": "a14a9d738408efb41fa896131ca2d4eec07413f1",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Chelsea Wolfe Brings Out Courtney LaPlante, Robin Finck, Shirley Manson + More For Tour Closer",
+      "link": "https://metalinjection.net/news/chelsea-wolfe-brings-out-courtney-laplante-robin-finck-shirley-manson-more-for-tour-closer",
+      "rss_body": "The Nine Inch Nails guitarist joined Wolfe for four different songs.",
+      "tags": "Latest News Nine Inch Nails Chelsea Wolfe Spiritbox Garbage",
+      "category": "Хэви-метал",
+      "published": "2026-10-26T16:18:53+00:00",
+      "id": "d0b528392cc25ae3d7361204b6388afc2fcb1473",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Goose Announce First 2027 Tour Dates",
+      "link": "https://ultimateclassicrock.com/goose-first-tour-dates-2027/",
+      "rss_body": "The popular jam band is all set for another year of concerts. See where they'll be playing.",
+      "tags": "Concerts News Goose UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-26T16:13:02+00:00",
+      "id": "9c90e2c37bbcf01637e26613c205657ed8858c1b",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "NEW WORLD MAN – I AM THE MACHINE",
+      "link": "https://www.nocleansinging.com/2026/10/26/new-world-man-i-am-the-machine/",
+      "rss_body": "(Andy Synn presents his thoughts on one of the best debut albums of 2026) A couple of months back I took a quick jaunt back up to my old stomping grounds to catch Metallic Hardcore legends Merauder play a killer show at The Bread Shed in Manchester. What made the show even better was the fact that,\n\n[...]",
+      "tags": "Album Reviews Andy Synn New World Man",
+      "category": "Хэви-метал",
+      "published": "2026-10-26T16:01:56+00:00",
+      "id": "0f2921b38f093199d7a014130da4ff3828903991",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Red Hot Chili Peppers laid bare in revealing new book from top British photographer",
+      "link": "https://www.loudersound.com/bands-artists/red-hot-chili-peppers-laid-bare-in-revealing-new-book-from-top-british-photographer",
+      "rss_body": "Red Hot Chili Peppers\n\nare the subject of a revealing new book from leading British photographer Tony Woolliscroft, who has been given unparalleled behind-the-scenes access to the band for over 25 years.\n\nPublished by Cassell, R\n\ned Hot Chili Peppers: 25 Years Unseen on Tour\n\ncollates more than 200 images of the band from Woolliscroft's archive, the majority of which have never previously been published.\n\nMore than just stunning photography, it's a collection of personal stories, candid moments, and never-before-heard anecdotes that reveal the band not only through Tony's lens but through his eyes.\n\nIn this exclusive extract, Woolliscroft recalls being backstage - and onstage - with the Los Angeles band at the troubled Woodstock '99 music festival.\n\n\"The Chili Peppers arrived at the festival site mid-afternoon,\" Woolliscroft remembers, \"and were immediately whisked away to do various interviews set up for them with magazines and MTV.\n\n\"Afterwards, they retired to their dressing room, where [frontman] Anthony [Kiedis] began working out their set list for the evening show, and [bassist] Flea decided to have a quick nap.\n\n\"In the early evening, Flea had a visitor. Jimi Hendrix’s sister popped into the dressing room to ask a special favour. She asked if the band could finish their set that evening with the Hendrix song Fire, after the band said that a hologram of Hendrix would be shown on stage playing a song to round off the weekend.\"\n\nFlea with Janie Hendrix, backstage at Woodstock '99\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\n\"The Chili Peppers had regularly performed\n\nFire\n\nin their live sets of the 1980s and had recorded it twice - as a B-side in 1987, and again for\n\nMother's Milk\n\nin 1989. But as of 1999, they had not performed it for nearly eight years. So a quick meeting was called and after three quick rehearsals of the song in the practice room,\n\nFire\n\nwas duly added to the end of that night’s set.\"\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\n\"The band then went through their rituals of some yoga stretches and vocal exercises before they took to the stage under a glorious red sky sunset. Flea made the decision to play the whole show completely naked, which considering it was being televised live on a pay-per-view channel was quite a risk, and could have led to his arrest.\n\n\"Towards the end of their set you could see from the stage that some disturbances were starting to break out at the back of the crowd. During the last song - with unfortunate irony, the cover of Hendrix's Fire - various catering and vending carts been had set alight by some crowd members who were protesting against the organizers' overpricing of basic food and water.\"\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\nJohn Frusciante onstage at Woodstock '99\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\n\"The band finished their set and were whisked away to beat the traffic and get to New York. Meanwhile, the crew and I witnessed a full-scale riot in progress at the festival, and we were unable to leave until well into the early hours of the morning when order was restored.\n\n\"Of course, the next day's newspapers claimed that the Chili Peppers played Fire as the crowd rioted. Nothing could have been further from the truth, and most of the press were unaware why the band had really decided to perform the song.\"\n\n(Image credit: Tony Woolliscroft / Red Hot Chili Peppers: 25 Years Unseen on Tour)\n\nYou can see more exclusive images from Red Hot Chili Peppers: 25 Years Unseen on Tour in the next issue of\n\nClassic Rock\n\nmagazine.\n\nThe book can be purchased\n\nhere.\n\nThe current issue of Classic Rock is onsale now\n\n.\n\n(Image credit: Cassell)",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-26T16:00:00+00:00",
+      "id": "8068d51124b54f144bef00288d16325a2530947d",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Band That Claimed Links to Sleep Token Is Way Worse Than Sleep Token",
+      "link": "https://metalinjection.net/editorials/heavy-takes/band-that-claimed-links-to-sleep-token-is-way-worse-than-sleep-token",
+      "rss_body": "That band that claimed to be \"from the co-creator of Sleep Token\" has music out now. And uhhhhhh yeah.",
+      "tags": "Latest News Heavy Takes Sleep Token featured1",
+      "category": "Хэви-метал",
+      "published": "2026-10-26T15:24:33+00:00",
+      "id": "3b3fd7e76694c6e5265ca1e00d071e95fbf42bc4",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: HAXPROCESS — “CONDEMNATION OF ETERNAL MISERY”",
+      "link": "https://www.nocleansinging.com/2026/10/26/an-ncs-premiere-haxprocess-condemnation-of-eternal-misery/",
+      "rss_body": "(written by Islander) Last year Transcending Obscurity Records released the second album created by the Floridian death metal band Haxprocess, Beyond What Eyes Can See. In advance of its release we wrote: “The album is enormously and exuberantly creative, and an enormously ambitious undertaking, and we can understand why T.O. labels it ‘epic’, not merely\n\n[...]",
+      "tags": "Premieres Haxprocess",
+      "category": "Прогрессив",
+      "published": "2026-10-26T15:03:32+00:00",
+      "id": "122298da4d1799a8d39a961c040b3662f5986d2d",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Tony Iommi Praises William Shatner’s Turn as Metal Musician: “It’s Really Good What He’s Doing”",
+      "link": "https://metalinjection.net/news/tony-iommi-praises-william-shatners-turn-as-metal-musician-its-really-good-what-hes-doing",
+      "rss_body": "The old Geezers are joining forces.",
+      "tags": "Latest News tony iommi william shatner",
+      "category": "Хэви-метал",
+      "published": "2026-10-26T15:00:10+00:00",
+      "id": "ffbdd5372b83f7d5789a2861c15bbcef42107d3f",
       "retry_after": 0
     }
   ]
