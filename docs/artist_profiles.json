@@ -308,7 +308,7 @@
       "website": "http://www.betweentheburiedandme.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Between_The_Buried_And_Me",
       "reference_checked_at": "2026-10-26T20:02:52.329239+00:00",
-      "tour_attempted_at": "2026-10-22T06:11:00.608800+00:00",
+      "tour_attempted_at": "2026-10-26T23:53:21.787157+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-26T20:02:52.329264+00:00"
     },
@@ -342,7 +342,7 @@
       "website": "https://www.blindchannelofficial.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blind_Channel",
       "reference_checked_at": "2026-10-26T20:02:52.497700+00:00",
-      "tour_attempted_at": "2026-10-22T06:11:00.962263+00:00",
+      "tour_attempted_at": "2026-10-26T23:53:22.052729+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-26T20:02:52.497724+00:00"
     },
@@ -355,7 +355,7 @@
       "website": "http://brucespringsteen.net",
       "reference_url": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
       "reference_checked_at": "2026-10-26T20:02:53.020433+00:00",
-      "tour_attempted_at": "2026-10-22T06:11:01.156786+00:00",
+      "tour_attempted_at": "2026-10-26T23:53:22.222620+00:00",
       "instruments": "Vocals guitar harmonica",
       "reference_attempted_at": "2026-10-26T20:02:53.020544+00:00"
     },
@@ -388,10 +388,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.blueoystercult.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blue_Oyster_Cult",
-      "reference_checked_at": "2026-10-19T21:31:32.640439+00:00",
-      "tour_attempted_at": "2026-10-22T06:11:01.570369+00:00",
+      "reference_checked_at": "2026-10-26T23:53:20.467085+00:00",
+      "tour_attempted_at": "2026-10-26T23:53:22.581664+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-19T21:31:32.640558+00:00"
+      "reference_attempted_at": "2026-10-26T23:53:20.467231+00:00"
     },
     "cannibal-corpse": {
       "origin": "Buffalo, New York , U.S.",
@@ -422,10 +422,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://cannibalcorpse.net",
       "reference_url": "https://en.wikipedia.org/wiki/Cannibal_Corpse",
-      "reference_checked_at": "2026-10-19T21:31:32.956915+00:00",
+      "reference_checked_at": "2026-10-26T23:53:20.718726+00:00",
       "tour_attempted_at": "2026-10-22T11:49:58.257721+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-19T21:31:32.957083+00:00"
+      "reference_attempted_at": "2026-10-26T23:53:20.718886+00:00"
     },
     "dark-tranquillity": {
       "origin": "Billdal , Gothenburg , Sweden",
@@ -460,10 +460,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://darktranquillity.com",
       "reference_url": "https://en.wikipedia.org/wiki/Dark_Tranquillity",
-      "reference_checked_at": "2026-10-19T21:31:33.043758+00:00",
+      "reference_checked_at": "2026-10-26T23:53:20.806861+00:00",
       "tour_attempted_at": "2026-10-22T11:49:59.070698+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-19T21:31:33.043780+00:00"
+      "reference_attempted_at": "2026-10-26T23:53:20.806882+00:00"
     },
     "darkthrone": {
       "origin": "Kolbotn , Akershus , Norway",
@@ -482,9 +482,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Darkthrone",
-      "reference_checked_at": "2026-10-19T21:31:33.144810+00:00",
+      "reference_checked_at": "2026-10-26T23:53:20.909573+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-19T21:31:33.144830+00:00"
+      "reference_attempted_at": "2026-10-26T23:53:20.909595+00:00"
     },
     "deftones": {
       "origin": "Sacramento, California , U.S.",
@@ -511,10 +511,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://deftones.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deftones",
-      "reference_checked_at": "2026-10-19T21:31:33.463567+00:00",
+      "reference_checked_at": "2026-10-26T23:53:21.219853+00:00",
       "tour_attempted_at": "2026-10-22T11:49:59.854982+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-19T21:31:33.463753+00:00"
+      "reference_attempted_at": "2026-10-26T23:53:21.220053+00:00"
     },
     "death": {
       "origin": "Altamonte Springs, Florida , U.S.",
@@ -549,10 +549,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://emptywords.org",
       "reference_url": "https://en.wikipedia.org/wiki/Death_%28metal_band%29",
-      "reference_checked_at": "2026-10-19T21:31:33.585072+00:00",
+      "reference_checked_at": "2026-10-26T23:53:21.341970+00:00",
       "tour_attempted_at": "2026-10-22T11:50:01.267560+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-19T21:31:33.585092+00:00"
+      "reference_attempted_at": "2026-10-26T23:53:21.341994+00:00"
     },
     "def-leppard": {
       "origin": "Sheffield , England",
