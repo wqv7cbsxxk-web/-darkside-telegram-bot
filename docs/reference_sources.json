@@ -21379,7 +21379,7 @@
     "nightwish": {
       "name": "Nightwish",
       "musicbrainz_url": "https://musicbrainz.org/artist/00a9f935-ba93-4fc8-a33a-993abe9c936b",
-      "reference_checked_at": "2026-10-16T09:50:43.161538+00:00",
+      "reference_checked_at": "2026-10-26T07:16:33.449810+00:00",
       "genres": "metal, power metal, symphonic metal",
       "bandcamp_url": "https://nightwish.bandcamp.com/",
       "website": "https://www.nightwish.com/",
@@ -21732,7 +21732,7 @@
         },
         {
           "name": "Once",
-          "date": "2004-06-06",
+          "date": "2004-06-07",
           "kind": "studio",
           "source_url": "https://musicbrainz.org/release-group/84d8f181-8307-360f-bd50-8b6ce1309751"
         },
@@ -21852,7 +21852,7 @@
         },
         {
           "name": "Wishmaster",
-          "date": "2000-05-02",
+          "date": "2000-05-19",
           "kind": "studio",
           "source_url": "https://musicbrainz.org/release-group/c32724fe-9b96-3e3a-b687-fc76b1bcbe25"
         },
@@ -32027,8 +32027,8 @@
     "motley-crue": "2026-10-25T23:42:48.314620+00:00",
     "motorhead": "2026-10-26T01:50:47.563881+00:00",
     "napalm-death": "2026-10-26T01:50:55.386525+00:00",
-    "nightwish": "2026-10-16T09:50:43.161721+00:00",
-    "obituary": "2026-10-16T09:50:44.425481+00:00",
+    "nightwish": "2026-10-26T07:16:33.450002+00:00",
+    "obituary": "2026-10-26T07:16:34.672733+00:00",
     "of-mice-men": "2026-10-16T14:28:20.721521+00:00",
     "opeth": "2026-10-16T14:28:24.774902+00:00",
     "overkill": "2026-10-16T18:17:31.135494+00:00",
