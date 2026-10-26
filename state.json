@@ -1042,49 +1042,17 @@
     "8cd97b5b940aa269e663b969f3ac06d64e96a6dd",
     "d376df022e158d4df6ee3f1114b2709a24fa0242",
     "dba4e1abe474f0e8dab3cff01a515fce6d70629d",
-    "308056a6fe88682953a64d860776a4a7b06eb354"
+    "308056a6fe88682953a64d860776a4a7b06eb354",
+    "6852c9782cf68cc67a4d03ec1057856498690a6e",
+    "e2e4bca38542f8a861e30ef18c4062f973da3107",
+    "c06068fda7e270d092dc1c87e554311dada3d1d5",
+    "33246e112166f74705af6fbdb82fa0bfb06da071",
+    "03872021503268344aca1b83c63d82018bfeee9f",
+    "41abc23c0481789de007be83cc2560de3eabd7a9",
+    "8567a51381d0aba12aec1f2a3f9ab8735b3dc089",
+    "b2429d7cdb4f3b06940fa949ad3557e6843adca9"
   ],
   "recent_titles": [
-    {
-      "title": "“Greg Lake said, ‘I can’t believe they played Schizoid Man like this”: Italian proggers’ trick got them a record deal",
-      "source": "Louder",
-      "ts": 1792597530
-    },
-    {
-      "title": "BORE Hit The Studio For Their Sophomore Album",
-      "source": "ThePRP",
-      "ts": 1792611549
-    },
-    {
-      "title": "The Tony Danza Tapdance Extravaganza Tease New Single “Nothing Can Stop What Is Coming”",
-      "source": "ThePRP",
-      "ts": 1792611569
-    },
-    {
-      "title": "Track Premiere: Adversor – “Totem of Doom”",
-      "source": "Decibel",
-      "ts": 1792611574
-    },
-    {
-      "title": "Metallica Release Official “Welcome Home (Sanitarium)” Live Video From The Sphere",
-      "source": "ThePRP",
-      "ts": 1792611578
-    },
-    {
-      "title": "Devin Townsend Launches Orchestral Live Video For “War Beyond Words”",
-      "source": "ThePRP",
-      "ts": 1792611582
-    },
-    {
-      "title": "Ignea Joined By Britta Görtz of Hiraes For “Harmony Manufactured” Music Video",
-      "source": "ThePRP",
-      "ts": 1792611590
-    },
-    {
-      "title": "Lacuna Coil Celebrate 20 Years Of “Karmacode” With New Version Of “Fragile”",
-      "source": "ThePRP",
-      "ts": 1792611598
-    },
     {
       "title": "Bleed From Within Announce UK/European Headlining Shows With VEXED & More",
       "source": "ThePRP",
@@ -1844,6 +1812,46 @@
       "title": "Classic Rock Tracks Of The Week: October 26, 2026",
       "source": "Louder",
       "ts": 1792998574
+    },
+    {
+      "title": "Video Premiere: Gates of Ishtar – “Ghosts”",
+      "source": "Decibel",
+      "ts": 1793024217
+    },
+    {
+      "title": "TORN WIDE OPEN: NEUROSIS RETURNS TO THE BAY AREA",
+      "source": "No Clean Singing",
+      "ts": 1793024238
+    },
+    {
+      "title": "“My hope is that we start thinking of ourselves as global citizens.\" Peter Gabriel shares latest single, Who Are We Talking To?",
+      "source": "Louder",
+      "ts": 1793024251
+    },
+    {
+      "title": "Jack Osbourne Accepts Blame for Ozzy Avatar Backlash",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793024260
+    },
+    {
+      "title": "Phoebe Bridgers announced as first headline artist for All Points East festival 2027",
+      "source": "Louder",
+      "ts": 1793024266
+    },
+    {
+      "title": "Steven Wilson announces Requiem For A Village event with Al Murray and shares new video for A Basket Of Bees",
+      "source": "Louder",
+      "ts": 1793024275
+    },
+    {
+      "title": "Yes and Rick Wakeman Set for Back to Back 2027 Tours",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793024292
+    },
+    {
+      "title": "2027's Biggest Music Festivals and Cruises",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793024300
     }
   ],
   "initialized_sources": [
@@ -3994,7 +4002,7 @@
       "title": "System of a Down Expands Rose Bowl Run to Three Nights; Gojira to Open New Date",
       "link": "https://metalinjection.net/tour-dates/system-of-a-down-expands-rose-bowl-run-to-three-nights-gojira-to-open-new-date",
       "rss_body": "Californians are getting absolutely spoiled by System of a Down lately.",
-      "tags": "Tour Dates Gojira System Of A Down Pierce The Veil",
+      "tags": "Tour Dates Gojira System Of A Down Pierce The Veil featured",
       "category": "Хэви-метал",
       "published": "2026-10-23T19:55:16+00:00",
       "id": "7d881e61f623240cc1a09686017df479d5eac784",
@@ -4126,7 +4134,7 @@
       "title": "Single Print Index’s ‘Confessions’ Is What You Wanted From Code Orange, and Then Some",
       "link": "https://metalinjection.net/news/single-print-indexs-confessions-is-what-you-wanted-from-code-orange-and-then-some",
       "rss_body": "Featuring Code Orange's Jami Morgan and Dominic Landolina delivering the heaviest music of their careers.",
-      "tags": "Latest News Code Orange",
+      "tags": "Latest News Code Orange featured",
       "category": "Хэви-метал",
       "published": "2026-10-24T14:29:24+00:00",
       "id": "b04279f81b570c2b8e1b64e4479fee5c7dbf4ab9",
@@ -4186,7 +4194,7 @@
       "title": "My Chemical Romance Is Being Taken to Court By the Dallas Cowboys Cheerleaders",
       "link": "https://metalinjection.net/news/my-chemical-romance-is-being-sued-by-the-dallas-cowboys-cheerleaders",
       "rss_body": "The fictional dictatorship that emo legends My Chemical Romance have built around The Black Parade is turning into a very real legal problem. Pro Silver Star Ltd., the owner of […]",
-      "tags": "Latest News In the News my chemical romance",
+      "tags": "Latest News In the News my chemical romance featured",
       "category": "Хэви-метал",
       "published": "2026-10-25T16:18:45+00:00",
       "id": "2da0707be78d3cf23da7ccba7dd1e6ba0a7a5bac",
@@ -4227,6 +4235,33 @@
       "published": "2026-10-26T02:03:55+00:00",
       "id": "1574be14996216443e3b8fae273a98063799384e",
       "retry_after": 1792998904
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Jack Osbourne: Digital Ozzy Won’t Be “Selling Cell Phones”",
+      "link": "https://metalinjection.net/news/jack-osbourne-digital-ozzy-wont-be-selling-cell-phones",
+      "rss_body": "\"The backlash, it was my own fault.\"",
+      "tags": "Latest News Ozzy Osbourne jack osbourne",
+      "category": "Хэви-метал",
+      "published": "2026-10-26T13:57:56+00:00",
+      "id": "2fde3a7e257e8b00e2a67367fd3065fcd0987c5a",
+      "duplicate_ids": [
+        "80187068073490a3ac9d0884860a9121e097b48c"
+      ],
+      "retry_after": 1793024539
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Musical comedown? Movie template? Untoppable creative peak? The Who’s Quadrophenia is a prog classic",
+      "link": "https://www.loudersound.com/music/albums/who-quadrophenia-prog",
+      "rss_body": "In 2012\n\nProg\n\nstated the case for The Who’s\n\nQuadrophenia\n\nto be seen as a prog concept classic alongside the genre’s other great releases of 1973.\n\nThe Who\n\n’s sixth album is many things to many people. To some it’s the musical comedown that followed the R&B-infused mod scene of the early 60s. To others it’s the template for the subsequent film, which was more of a late 70s period piece. Then there are those who consider it to be The Who hitting a creative peak that would never be topped.\n\nOne thing is certain: for all its nostalgia for a previous decade,\n\nQuadrophenia\n\nis a product of the early 70s prog scene, influenced in scope and structure by emerging bands who helped make 1973 arguably the genre’s most vintage year.\n\nELP\n\n,\n\nGenesis\n\n,\n\nCaravan\n\n,\n\nYes\n\n,\n\nRick Wakeman\n\nand\n\nGong\n\nall put out key albums within weeks either side of\n\nQuadrophenia\n\n, while earlier that year saw the release of\n\nPink Floyd\n\n’s\n\nThe Dark Side Of The Moon\n\n– beside which The Who’s opus sits comfortably as a progressive, occasionally pastoral, often challenging and quintessentially English work.\n\nConceived by\n\nPete Townshend\n\nas “hard and grandiose music,” it tells the story of young Jimmy, a restless, working-class “mountain of paranoia” struggling against a backdrop of unemployment, parental pressures and excessive amphetamine use.\n\nMod culture and trips to Brighton provide an identity before the real Jimmy pushes out from behind the armour of his fashionable accoutrements into a total mental breakdown.\n\nSo far, so standard teen rebellion story – on paper, at least. But this is a musical concept, where separate pieces join to form a cohesive narrative in which opera meets prog and things get weird.\n\nAnother prog conceit: the album takes us on two journeys, external (from the city to the sea) and internal (from youthful arrogance to despondency and despair), which coalesce into a dramatic musical conclusion.\n\nDrunk and high, Jimmy steals a boat and ends up rain-soaked and marooned on a rock in the English channel, as described in the instrumental\n\nThe Rock\n\nand the final plea for help of\n\nLove Reign O’er Me\n\n.\n\nMusically, the album is certainly complex enough to be part of the wider prog world. Excursions into ethereal, psych-folk melodies on\n\nThe Punk And The Godfather\n\nrub up against thunderous rock bombast; where the fantastical soloing and strident synths of the title track lead into snippets of seaside sounds or a snatch of Sousa’s late 19th-century military march\n\nThe Thunderer\n\n(on\n\nThe Dirty Jobs\n\n).\n\nQuadrophenia\n\nis as its name suggests: a multi-faceted creature whose title refers to both the then-emerging quadraphonic sound technology and the alleged four personalities of a certain member of The Who. It’s a prog-related conceptual classic.",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-10-26T10:00:00+00:00",
+      "id": "eafcaec81cc64695c8ce470485c64875d4978243",
+      "retry_after": 0
     }
   ]
 }
