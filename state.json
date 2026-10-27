@@ -1080,49 +1080,18 @@
     "ff3cd87b1f8fcb64b88100647c0bde9074afad5a",
     "ee20861d2010c0d4a4a7d4a03812a24475b49e8d",
     "775383a1bbf73c9132b49b9970c50453e07593f4",
-    "a660c61702a8c11bc08484f0ba0b7720d0d54b2c"
+    "a660c61702a8c11bc08484f0ba0b7720d0d54b2c",
+    "fb7b2b556713c25bb69b78f00e252f938ab3f393",
+    "f30598e38881fe5533fd0e5580ae19720d7d3be8",
+    "266a601e93a04f5227c2827194db8789be71b3e3",
+    "cc4196ef6ac6a22f102be266ed4e16459c1533a9",
+    "c1c206994b73c464c87adc0e2f74c14c9dc8b933",
+    "9e046356ae61b40c5f5222f45100d456d4c5ffc4",
+    "34a3feb57c841355252fc26005d0b35632f88f68",
+    "a81118c06002f759cae28eaa48a1aad91fd360ad",
+    "914ce0b1e5ef8df25583d52bdc3af88711a57837"
   ],
   "recent_titles": [
-    {
-      "title": "ANETTE OLZON исполнила песни NIGHTWISH с оркестром",
-      "source": "Darkside",
-      "ts": 1792669720
-    },
-    {
-      "title": "The tangled story of Led Zeppelin's Whole Lotta Love",
-      "source": "Louder",
-      "ts": 1792669786
-    },
-    {
-      "title": "Track Premiere: Titans of Mars – “Leviathan”",
-      "source": "Decibel",
-      "ts": 1792685119
-    },
-    {
-      "title": "Queens Of The Stone Age Perform On ‘The Tonight Show’, Announce U.S. Tour With Pixies & Wheelchair Sports Camp",
-      "source": "ThePRP",
-      "ts": 1792685127
-    },
-    {
-      "title": "Reece Scruggs Speaks On His Exit From Machine Head, Launches New Band Burning Hammer",
-      "source": "ThePRP",
-      "ts": 1792685144
-    },
-    {
-      "title": "Iron Maiden, Korn, Falling In Reverse, Blink-182, Faith No More, Etc. Booked For 2027 ‘Sonic Temple’ Festival",
-      "source": "ThePRP",
-      "ts": 1792685161
-    },
-    {
-      "title": "50 Years Ago: A Led Zeppelin Soundtrack Captures '70s Spectacle",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792685189
-    },
-    {
-      "title": "Cliff Burton’s ex-bandmate remembers the late Metallica bassist’s prodigious talent",
-      "source": "Louder",
-      "ts": 1792685212
-    },
     {
       "title": "AN NCS VIDEO PREMIERE: KALT VINDUR — “IN SILENCE”",
       "source": "No Clean Singing",
@@ -1882,6 +1851,46 @@
       "title": "Eddie Vedder and Stephen Wilson Jr. release stunning version of Temple Of The Dog's Hunger Strike",
       "source": "Louder",
       "ts": 1793112499
+    },
+    {
+      "title": "Parkway Drive Set North American, Etc. Premiere Dates For Their New Concert Film ‘Parkway Drive: Home’",
+      "source": "ThePRP",
+      "ts": 1793130215
+    },
+    {
+      "title": "Watch: Queens Of The Stone Age Gave A Live Debut To Two “Perfecth” Tracks During Their Recent Iceland Concert",
+      "source": "ThePRP",
+      "ts": 1793130228
+    },
+    {
+      "title": "Gaerea Begin “Shallow” Remix Series With Paranormal Attack Collaboration",
+      "source": "ThePRP",
+      "ts": 1793130232
+    },
+    {
+      "title": "Void Sector Zero (Revocation, Ex-Obscura, Etc.) Premiere “Extraterrestrial Disassembly” Music Video",
+      "source": "ThePRP",
+      "ts": 1793130239
+    },
+    {
+      "title": "Hum Announce 2027 U.S. Tour With Pelican, Spotlights & The Life And Times",
+      "source": "ThePRP",
+      "ts": 1793130244
+    },
+    {
+      "title": "After The Burial Scrap Their 2026 Australian & Japan Tour, Plan New Album For Next Year",
+      "source": "ThePRP",
+      "ts": 1793130249
+    },
+    {
+      "title": "Shinedown Set Dates For 2027 ‘Lunatic Ball’ Festival",
+      "source": "ThePRP",
+      "ts": 1793130272
+    },
+    {
+      "title": "Kiss announce End Of The Road documentary",
+      "source": "Louder",
+      "ts": 1793130285
     }
   ],
   "initialized_sources": [
@@ -4276,9 +4285,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T13:57:56+00:00",
       "id": "2fde3a7e257e8b00e2a67367fd3065fcd0987c5a",
-      "duplicate_ids": [
-        "80187068073490a3ac9d0884860a9121e097b48c"
-      ],
       "retry_after": 1793112806
     },
     {
@@ -4323,7 +4329,7 @@
       "title": "Band That Claimed Links to Sleep Token Is Way Worse Than Sleep Token",
       "link": "https://metalinjection.net/editorials/heavy-takes/band-that-claimed-links-to-sleep-token-is-way-worse-than-sleep-token",
       "rss_body": "That band that claimed to be \"from the co-creator of Sleep Token\" has music out now. And uhhhhhh yeah.",
-      "tags": "Latest News Heavy Takes Sleep Token featured1",
+      "tags": "Latest News Heavy Takes Sleep Token featured",
       "category": "Хэви-метал",
       "published": "2026-10-26T15:24:33+00:00",
       "id": "3b3fd7e76694c6e5265ca1e00d071e95fbf42bc4",
@@ -4335,7 +4341,7 @@
       "title": "Tony Iommi Praises William Shatner’s Turn as Metal Musician: “It’s Really Good What He’s Doing”",
       "link": "https://metalinjection.net/news/tony-iommi-praises-william-shatners-turn-as-metal-musician-its-really-good-what-hes-doing",
       "rss_body": "The old Geezers are joining forces.",
-      "tags": "Latest News tony iommi william shatner featured",
+      "tags": "Latest News tony iommi william shatner",
       "category": "Хэви-метал",
       "published": "2026-10-26T15:00:10+00:00",
       "id": "ffbdd5372b83f7d5789a2861c15bbcef42107d3f",
@@ -4347,7 +4353,7 @@
       "title": "Five Finger Death Punch Backs Team USA With $200,000 Donation For Prospective 2028 Olympic And Paralympic Athletes",
       "link": "https://metalinjection.net/news/five-finger-death-punch-backs-team-usa-with-200000-donation-for-prospective-2028-olympic-and-paralympic-athletes",
       "rss_body": "Five Finger Death Punch have wrapped up the North American leg of their huge 20th anniversary world tour in an equally huge way—by donating $200,000 to support the Team USA […]",
-      "tags": "Latest News Five Finger Death Punch",
+      "tags": "Latest News Five Finger Death Punch featured",
       "category": "Хэви-метал",
       "published": "2026-10-26T20:10:37+00:00",
       "id": "13cc37845a1820e4da930f63752fccb23ae3186e",
@@ -4380,18 +4386,6 @@
     {
       "source": "Ultimate Classic Rock",
       "priority": 80,
-      "title": "Kiss Announces 'End of the Road' Documentary",
-      "link": "https://ultimateclassicrock.com/kiss-end-of-the-road-documentary/",
-      "rss_body": "The movie will offer a behind-the-scenes look at the band's four-year farewell tour.",
-      "tags": "News Kiss UCR",
-      "category": "Хард-рок",
-      "published": "2026-10-27T13:28:31+00:00",
-      "id": "914ce0b1e5ef8df25583d52bdc3af88711a57837",
-      "retry_after": 1793112684
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
       "title": "How Jimmy Buffett Managed His Growing Success",
       "link": "https://ultimateclassicrock.com/jimmy-buffett-occupational-hazard-interview/",
       "rss_body": "As a new documentary arrives, original Coral Reefer Band guitarist Roger Bartlett tells UCR about the early days.",
@@ -4415,6 +4409,222 @@
         "a068ce5842844b3a43c20290b482b9cf67c27a01"
       ],
       "retry_after": 1793112758
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "System of a Down's Daron Malakian: \"Red Or Blue, Your Government Doesn't Give a **** About You\"",
+      "link": "https://metalinjection.net/news/system-of-a-downs-daron-malakian-red-or-blue-your-government-doesnt-give-a-about-you",
+      "rss_body": "\"To be political... to not be political...\"",
+      "tags": "Latest News Daron Malakian System Of A Down",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T19:24:18+00:00",
+      "id": "4f1e7d75ac2ed83c167d1139bb2b0bfd1db36064",
+      "retry_after": 1793130511
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Listen: Venomous Echoes Explore the Dark Side of Death Metal on Violator of Mater",
+      "link": "https://www.decibelmagazine.com/2026/10/27/listen-venomous-echoes-explore-the-dark-side-of-death-metal-on-violator-of-mater/",
+      "rss_body": "Successfully making four records in as many years is an impressive feat no matter how you slice it but Ohio black/death metal outfit\n\nVenomous Echoes\n\n, the product of one Ben Vanweelden, take it a step beyond. Initially forming in 2020, Venomous Echoes began releasing full-length albums in 2023, with the most recent being\n\nŊvęŧş-Violator of Mater\n\n, released earlier this year by I, Voidhanger.\n\nArriving in September,\n\nŊvęŧş-Violator of Mater\n\nbuilds on the framework laid on previous albums but pushes it further. Opener “Dysmor Opens” sets the tone with spacey synthesizers, which can be heard layered throughout the album. From there, Venomous Echoes are off to the races, ripping through a collection of songs that plumb the darker, more twisted side of death metal. Produced by Stephen Knapp, who also programmed drums throughout the album,\n\nŊvęŧş-Violator of Mater\n\nis twisting and, at times, overwhelming. The guitars and spastic drum programming create a thick vortex, with the only light coming from the previously mentioned synth parts, as heard on “Æhɔɲ” and “Çịrẹ.” Even the acoustic respite on “Monolith of Purity” is distorted and modified, like a dread-inducing rug pull.\n\nLike previous albums, Vanweelden uses Venomous Echoes as an outlet to explore real-life trauma and mental health issues. Even if the words he screams, howls and growls aren’t intelligible, the pain and anger in those words is palpable.\n\nViolator of Mater\n\nis out now on I, Voidhanger. If you’re willing to dive into the darkness, it’s one of the year’s most interesting death metal releases.\n\nŊvęŧş-Violator of Mater by Venomous Echoes",
+      "tags": "Streaming black/death metal death metal I Voidhanger Venomous Echoes",
+      "category": "Экстремальный метал",
+      "published": "2026-10-27T19:00:55+00:00",
+      "id": "ecfe805f5ae5710a4731f4966a988500e473f818",
+      "retry_after": 1793130525
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "UK Hardcore Upstarts Crowquill Go Straight for the Vein with “Cannula”",
+      "link": "https://metalinjection.net/new-music/uk-hardcore-upstarts-crowquill-go-straight-for-the-vein-with-cannula",
+      "rss_body": "Their debut full-length 'Slept With Cannula' comes out November 20 on DAZE/Hardlore.",
+      "tags": "New Music crowquill",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T18:56:09+00:00",
+      "id": "59d3f5040e3a874dfe99d6c74c35b93a19b8a2e2",
+      "retry_after": 1793130525
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Entheos' Chaney Crabb Explains the Art Behind 'Empty on the Inside'",
+      "link": "https://metalinjection.net/video/entheos-chaney-crabb-explains-the-art-behind-empty-on-the-inside",
+      "rss_body": "Another exclusive for our Entheos-heads.",
+      "tags": "Entheos",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T17:48:25+00:00",
+      "id": "d6517cafbebf0e03e49d254a7da34b322452e120",
+      "retry_after": 1793130550
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "The String Cheese Incident Reveal First 2027 Tour Dates",
+      "link": "https://ultimateclassicrock.com/the-string-cheese-incident-tour-dates-2027/",
+      "rss_body": "The jam band is celebrating more than three decades together as they plot their initial concerts for the new year.",
+      "tags": "Concerts News The String Cheese Incident UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-27T17:42:10+00:00",
+      "id": "8dd2503e75c281623dad651414348bedb9a5a287",
+      "retry_after": 1793130567
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Billy Corgan on Marrying a Woman 25 Years Younger: Women of His Generation Were Too “Broken”",
+      "link": "https://metalinjection.net/news/billy-corgan-on-marrying-a-woman-25-years-younger-women-of-his-generation-were-too-broken",
+      "rss_body": "He found his wife's youth \"an advantage because she hadn’t been wounded like so many people are.\"",
+      "tags": "Latest News billy corgan",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T17:28:44+00:00",
+      "id": "075efe72f3487733113eba3236b951f856851093",
+      "retry_after": 1793130567
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Final Gasp Stream “New Day Symptoms” B-Side Track “Aftermath”",
+      "link": "https://www.theprp.com/2026/10/27/news/final-gasp-stream-new-day-symptoms-b-side-track-aftermath/",
+      "rss_body": "It's also available via Decibel's flexi disc series.",
+      "tags": "News Final Gasp",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T17:25:53+00:00",
+      "id": "33b3139e3d65220749a3ad44bf10f8e0fe61309d",
+      "retry_after": 1793130570
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "King Gizzard & The Lizard Wizard Lay Out The Dates For Their June 2027 European Tour",
+      "link": "https://www.theprp.com/2026/10/27/news/king-gizzard-the-lizard-wizard-lay-out-the-dates-for-their-june-2027-european-tour/",
+      "rss_body": "Hitting festivals and headlining shows.",
+      "tags": "News King Gizzard & The Lizard Wizard",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T17:05:21+00:00",
+      "id": "9c629c580e994924e77004376d746aedc96c41cc",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "‘Neil Peart: No One’s Disciple’ Documentary Released In Full For Free",
+      "link": "https://www.theprp.com/2026/10/27/news/neil-peart-no-ones-disciple-documentary-released-in-full-for-free/",
+      "rss_body": "Members of Tool, Red Hot Chili Peppers, The Police & more guest.",
+      "tags": "News Neil Peart Rush",
+      "category": "Прогрессив",
+      "published": "2026-10-27T16:48:14+00:00",
+      "id": "6e67e9917b7884778dcd72d7ee2e33f9407f0f32",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Get in the Halloween spirit by having Kirk Hammett read you Edgar Allen Poe, soundtracked by a Metallica song",
+      "link": "https://www.loudersound.com/news/metallica-kirk-hammett-reads-edgar-allen-poe-the-raven-2026",
+      "rss_body": "Metallica\n\n’s Kirk Hammett has helped usher in Halloween by reading\n\nThe Raven\n\nby Edgar Allen Poe.\n\nOn Tuesday (October 27), San Francisco’s thrash metal giants got their lead guitarist and resident horror hound to chill fans with the 1845 poem, long a staple of Gothic literature, soundtracked by the song\n\nInamorata\n\nfrom their 2023 album\n\n72 Seasons\n\n. Watch below.\n\nHammett has made no secret of his lifelong love for horror. He has an array of ESP KH-2 guitars decorated to feature iconic scary film figures, with respective models depicting Boris Karloff as Frankenstein’s monster, Bela Lugosi as Count Dracula and Elsa Lanchester as The Bride in\n\nBride Of Frankenstein\n\n.\n\nAnother model is designed to resemble a Ouija board: a fixture of horror films since one was used to inadvertently summon the demon Pazuzu in the 1973 classic\n\nThe Exorcist\n\n.\n\nIn addition, Hammett, 63, hosted the horror convention Kirk Von Hammett’s Fear FestEvil from 2014 to 2015. The events featured live performances, signings and panels all rooted in the guitarist’s passion for the spooky.\n\nDuring a 2022 interview with Gibson Guitars, Hammett spoke about how 1974’s\n\nThe Texas Chain Saw Massacre\n\n“truly” frightened him growing up.\n\n“There was a buzz on the street and everyone was talking about it,” he said. “I remember going to see it and truly being frightened because there hadn’t been a film like that up to that point that was so graphic and violent in its brutality. There wasn’t anything like that. I remember me and my friends leaving the theatre shaking our heads going, ‘Wow’, and looking at each other wondering, ‘Did we just see that?!’ It was a real experience.”\n\nHe also spoke about\n\nThe Exorcist\n\n, explaining how it affected him as a Catholic kid: “I thought the perpetrators of that film were coming after me next,” he said. “It was an honest fear when we were kids. For the next four months I slept with the lights on every single night.”\n\nHammett joined Metallica in 1983, shortly before the recording of their 1983 debut album\n\nKill ’Em All\n\n, and has been with the band ever since. One of the biggest acts in heavy metal, they’ve sold more than 150 million albums worldwide and won 10 Grammy Awards.\n\nThe four-piece are currently putting on a residency at Las Vegas multimedia venue the Sphere, scheduled to continue on Thursday (October 29), then on Halloween night itself on Saturday. Whether Hammett will dress up to mark the occasion remains to be seen.",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T16:27:44+00:00",
+      "id": "3ebc181b36c6e9a9ea557fea41185416aa0122a9",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "SHADES OF BLACK: PAN-AMERIKAN NATIVE FRONT, GALVÄO",
+      "link": "https://www.nocleansinging.com/2026/10/27/shades-of-black-pan-amerikan-native-front-galvao/",
+      "rss_body": "(written by Islander) In last Sunday’s edition of this column I only wrote about one album (by Glorior Belli). It deserved the exclusive attention, but I had planned to write about more releases until some life events got in the way. With today’s album premiere being handled by Daniel Barkasi, I decided to use my\n\n[...]",
+      "tags": "Album Reviews SHADES OF BLACK Galväo Pan-Amerikan Native Front",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T16:27:25+00:00",
+      "id": "d710527235e39a5196bc3abcf71ec1bbfcc5d828",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Robert Plant Announces First Concerts for 2027",
+      "link": "https://ultimateclassicrock.com/robert-plant-first-concerts-2027/",
+      "rss_body": "See where the Led Zeppelin legend will be playing.",
+      "tags": "News Robert Plant UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-27T16:12:04+00:00",
+      "id": "778c0cfb019a02aa955acccbc1ce914d2691beab",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Video Premiere: Cavernous Maw – “The Yeti Approaches the Wall”",
+      "link": "https://www.decibelmagazine.com/2026/10/27/video-premiere-cavernous-maw-the-yeti-approaches-the-wall/",
+      "rss_body": "Minneapolis duo\n\nCavernous Maw\n\nexpand their vision with the release of its brand-new single and video,\n\n“The Yeti Approaches the Wall,”\n\nthe first offering from the forthcoming album\n\nAncestral Lands Beyond the Antarctic Ice Wall\n\n,\n\nslated for release at a later date.\n\n​\n\nBlending relentless death metal intensity with emotional weight, memorable melodies, and unexpected influences drawn from black metal,\n\ntechnical death metal\n\n, and classic extreme metal,\n\n“The Yeti Approaches the Wall”\n\nmarks the next evolutionary step for the two-piece act.\n\nComprised of longtime friends and collaborators Niilo Smith (vocals/guitar) and Ben Fagerness (drums),\n\nCavernous Maw\n\nwere born from a desire to strip away complications and focus purely on creating music. After years of playing together in various projects, the pair embraced the simplicity and creative freedom of a two-member lineup, forging a sound that is equal parts brutal, dynamic, and unmistakably their own.\n\n​\n\nThe new single showcases a more mature and refined version of the vision first introduced on their debut EP,\n\nPrimitive.\n\n​\n\n​\n\n​\n\n“;The Yeti Approaches the Wall’ was the first song we wrote for our first full-length. It started as nearly all of our songs do: the two of us jamming in the practice space, locking onto a riff and expanding it. The arrangement and drum parts were carefully crafted to keep the energy flowing from beginning to end. Lyrically, the song is about exactly what the title suggests: a yeti approaching a wall. Whether that wall is physical or mental is up to the listener,” says\n\nFagerness.\n\n​\n\nServing as the opening chapter of a larger concept, the track introduces listeners to a mysterious protagonist embarking on a journey beyond the boundaries of his known world. Throughout\n\nAncestral Lands Beyond the Antarctic Ice Wall,\n\nthe album follows the yeti’s path of discovery, curiosity, growth, understanding, and ultimately, humanity’s downfall.\n\n​\n\nFollow the band here.",
+      "tags": "Exclusive Streaming Videos Ancestral Lands Beyond the Antarctic Ice Wall black metal Cavernous Maw death metal minneapolis Minnesota Technical Death Metal The Yeti Approaches the Wall",
+      "category": "Экстремальный метал",
+      "published": "2026-10-27T16:00:45+00:00",
+      "id": "1ee3d04d18d14555e357d664c0150bfcb96647b7",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Korn just played their first UK show since headlining Download last year – see the setlist and watch videos here",
+      "link": "https://www.loudersound.com/news/what-korn-played-uk-ireland-tour-kickoff-2026",
+      "rss_body": "Korn\n\nhave returned to the British Isles for the first time since headlining Download festival in June 2025.\n\nThe Bakersfield nu metal pioneers put on their first of six shows in England and the Republic Of Ireland on Monday (October 26), where they played an 18-song set including such 90s hits as\n\nBlind\n\n,\n\nFreak On A Leash\n\nand\n\nFalling Away From Me\n\nat First Direct Bank Arena in Leeds.\n\nThey also dusted off 1996 rarity\n\nChi\n\n, which before this tour hadn’t played since 2013, and\n\nKill You\n\n, unplayed since 2007. See the full setlist and watch videos below.\n\nKorn are still touring to promote their 2022 album\n\nRequiem\n\n, though they haven’t played any songs from the record on this run. However, they have been performing\n\nReward The Scars\n\n, the single they put out in April\n\nin collaboration with role-playing videogame\n\nDiablo IV\n\n.\n\nWhether the song will make the tracklisting of the band’s next record, their 15th overall, remains to be seen. Last month, Ray Luzier’s technician revealed that the drummer\n\nhas recorded his parts for the release\n\n.\n\nKorn’s 15th album will be their first without co-founding bassist Reginald “Fieldy” Arvizu, who parted ways with the band shortly after completing his work on\n\nRequiem\n\n. Roberto “Ra” Díaz has been filling in live since late 2021. This year, Fieldy explained why and his former bandmates parted ways, revealing that it came down to his refusal to get the COVID-19 vaccine, and his resultant inability to tour internationally.\n\n“COVID happened,” he told the\n\nShady Characters\n\npodcast. “That’s it. I’m like, ‘I’m not going out there.’ That’s what happened, ’cause it was new. Now. I didn’t get vaccinated or anything – but when you reflect on it, that’s what happened. They’re like, ‘We’re going to Florida,’ and I’m like, ‘I’m not going to get vaccinated. I’m not going.’ I go, ‘People, this is weird right now.’”\n\nKorn’s UK/Ireland tour continues on Thursday (October 28) at Utilita Arena in Birmingham, then will proceed through Manchester and Dublin before concluding at London’s O2 Arena on November 4. They’ll return to mainland Europe on November 8, when they play the Ziggo Dome in Amsterdam. The tour will wrap up at Unipol Forum in Assago, Italy on November 21.\n\nKorn setlist: First Bank Direct Arena, Leeds – October 26, 2026\n\nIt’s On!\n\nHere To Stay\n\nReward The Scars\n\nGot The Life\n\nRotting In Vain\n\nTwist\n\nChi\n\nKill You\n\nA.D.I.D.A.S.\n\nShoots And Ladders\n\nComing Undone\n\nDid My Time\n\nMake Me Bad\n\nY’All Want A Single\n\nFalling Away From Me\n\nBlind\n\nTwisted Transistor\n\nFreak On A Leash",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T16:00:00+00:00",
+      "id": "d86ec46c9a919dad0b1fbb6a97935d8466b7ddc0",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "NØ MAN – BETWEEN THE SWORD AND THE NECK",
+      "link": "https://www.nocleansinging.com/2026/10/27/no-man-between-the-sword-and-the-neck/",
+      "rss_body": "(Andy Synn stands up to be counted alongside Washington D.C. Hardcore crew NØ MAN) People sometimes (and by “sometimes” I mean “frequently”) get very mad at the assertion that all music is, in some way, political. And I get why, to an extent. After all, for a lot of people the use of the term “political”\n\n[...]",
+      "tags": "Album Reviews Andy Synn NØ MAN",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T15:42:17+00:00",
+      "id": "a5fab999beddbe8fd61cd8186f44254f4cade8c7",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The 5 Rising Metal Bands From New Zealand You Need To Know",
+      "link": "https://metalinjection.net/lists/the-5-rising-metal-bands-from-new-zealand-you-need-to-know",
+      "rss_body": "Some prog metalcore, raunchy nu metal, and death metal for your perusal.",
+      "tags": "Lists featured2 Crooked Royals Banks Arcade Clæmus Xile Depths",
+      "category": "Прогрессив",
+      "published": "2026-10-27T15:39:07+00:00",
+      "id": "a3445fa239822a4b6f6d1e80a5012ab3e0ae970b",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Live Review: DYING FETUS and SANGUISUGABOGG at Emo’s (Austin, TX – 10/15/26)",
+      "link": "https://www.decibelmagazine.com/2026/10/27/live-review-dying-fetus-and-sanguisugabogg-emos-austin-tx-10-15-26/",
+      "rss_body": "review by Gerard Cosloy\n\nphotos by Angela Betancourt\n\nFor starters, I would like sincerely apologize to\n\nDeterioration, Left To Suffer\n\nand the venerable\n\nCrowbar\n\nfor missing their sets ; I’d been on the phone all evening with Kalshi customer support—it seems someone ran up several thousand dollars of charges to my credit card making trades last weekend on whether or not James Hetfield would use his Sphere platform to make a political statement. The bad news is, my dog’s college fund was cleaned out. On the bright side, I had exactly enough cash left over for\n\nSanguisugabogg\n\n’s BLUEY ON A STABBING SPREE shirt, so it’s not a total disaster.\n\nEmo’s, for those who’ve not been, is a charmless, character-free aircraft hanger on our city’s southeastern side and aside from the brand name, cannot be confused with the deeply beloved punk dump that operated downtown for ages. Were Columbus’ Sanguisugabogg capable of teleporting themselves back to those halcyon days, they’d undoubtedly be right at home in said squalid, chaotic environment. Semi-plagued with a FOH mix I will charitably describe as boomy-as-fook, the band managed, regardless to trundle their way thru a smattering of career highlights showcasing their considerable range (songs about tearing someone’s face off, killing people, killing people and turning them into furniture, etc.)  While this was my first time seeing them since the recent exit of Cedrik Davis and Cody Davidson’s transition from drums to guitar, this was not appreciably different than their last headline appearance in Austin some 11 months ago (OK, there was at least one more fight and I would like that officially noted at setlist.fm).  There’s no denying they bring the brutality with wit and panache, I just wish it was twice as loud (and perhaps it is just that on other occasions—also, I cannot hear for shit)\n\nSuperficial similarities aside,\n\nDying Fetus’\n\npresentation was a study in contrasts and deft execution—the level of technical proficiency is off the charts (assuming there’s a chart for such things) and IN SPITE OF THIS they’re as deliberately bludgeoning as any rival you care to cite. Guitarist/vocalist John Gallagher—the lone remaining founding member—is all business (singing about unmitigated carnage is his business and business is growing at steady clip, as the saying goes). The cliché “foundational band” gets tossed around for ensembles working atop paper mache far too often but in this case, it couldn’t be more true. We’re beyond lucky to be living and breathing in a world where Dying Fetus cast such an immense creative shadow, which is slightly ironic given the subject matter extols the virtues of well, stuff that’s the opposite of living and breathing.\n\nSanguisugabogg and Dying Fetus galleries by\n\nAngela Betancourt",
+      "tags": "Exclusive News Dying Fetus Live review Sanguisugabogg",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T15:16:02+00:00",
+      "id": "b1826c73d395d7824c8b7dac46ad0b844fe72f4f",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The Plot In You Announce 2027 North American Headlining Tour",
+      "link": "https://metalinjection.net/tour-dates/the-plot-in-you-announce-2027-north-american-headlining-tour",
+      "rss_body": "You get a tour, and you get a tour–everyone gets a tour!",
+      "tags": "Tour Dates The Plot In You",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T14:58:12+00:00",
+      "id": "e787e662143885d1e3f20ebadba82a5b26e8a518",
+      "retry_after": 0
     }
   ]
 }
