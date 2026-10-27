@@ -1089,49 +1089,18 @@
     "9e046356ae61b40c5f5222f45100d456d4c5ffc4",
     "34a3feb57c841355252fc26005d0b35632f88f68",
     "a81118c06002f759cae28eaa48a1aad91fd360ad",
-    "914ce0b1e5ef8df25583d52bdc3af88711a57837"
+    "914ce0b1e5ef8df25583d52bdc3af88711a57837",
+    "fa8e540688a8ab4ee2a3baa437b20bb452ab2d6b",
+    "22dfde8ba8f8a164b41d5a9482ba272323c6c315",
+    "45afde6e7645bde9b987b0bf5bede47fa58ef874",
+    "f65a7fb9dfdf4164deaf1102a7342138eaf8131f",
+    "d3fe551a03df4eb4a717bb531970559b43cbb917",
+    "5749220b1fbf7a1b8fdf7bcc3d72f5e5615d7d0c",
+    "287d5b7fea65f2f2b43a9f565286d6e171eae912",
+    "3df8fbbab6e8f6975c823302b1599ca0d55bc4e2",
+    "9c629c580e994924e77004376d746aedc96c41cc"
   ],
   "recent_titles": [
-    {
-      "title": "AN NCS VIDEO PREMIERE: KALT VINDUR — “IN SILENCE”",
-      "source": "No Clean Singing",
-      "ts": 1792685234
-    },
-    {
-      "title": "AN NCS INTERVIEW: FVNERAL FVKK",
-      "source": "No Clean Singing",
-      "ts": 1792685324
-    },
-    {
-      "title": "“We’d been waiting for it to happen. We said yes immediately”: Transatlantic’s unexpected return with The Whirlwind",
-      "source": "Louder",
-      "ts": 1792699672
-    },
-    {
-      "title": "Dayseeker Announce Deluxe Edition Of “Creature In The Black Night”, Go ‘Metalwave’ With New Remix Of “Shapeshift”",
-      "source": "ThePRP",
-      "ts": 1792699683
-    },
-    {
-      "title": "Cage Fight Release Live In-Studio Performance Of “Deathstalker”",
-      "source": "ThePRP",
-      "ts": 1792699686
-    },
-    {
-      "title": "Vision Of Disorder Have Begun Writing New Material In The Studio",
-      "source": "ThePRP",
-      "ts": 1792699690
-    },
-    {
-      "title": "Get The Shot’s New Single “Prying Eyes” Now Streaming",
-      "source": "ThePRP",
-      "ts": 1792699692
-    },
-    {
-      "title": "Temple Of Void Debut “Godless Cynic” Video, Release Split With Outer Heaven",
-      "source": "ThePRP",
-      "ts": 1792699697
-    },
     {
       "title": "VindictA Sign With Napalm Records, Debut “IDOL(L)S” Music Video",
       "source": "ThePRP",
@@ -1891,6 +1860,46 @@
       "title": "Kiss announce End Of The Road documentary",
       "source": "Louder",
       "ts": 1793130285
+    },
+    {
+      "title": "Kingdom Of Sorrow’s Two Albums Get New Vinyl Release",
+      "source": "ThePRP",
+      "ts": 1793142964
+    },
+    {
+      "title": "My Chemical Romance Have Reportedly Scrapped Their Dallas Cowboys Cheerleaders-Styled Costumes To Resolve An Infringement Injunction",
+      "source": "ThePRP",
+      "ts": 1793142969
+    },
+    {
+      "title": "Chad Gray (Mudvayne/HELLYEAH) Debuts Music Video For His Cover Of Christina Aguilera’s “Beautiful”",
+      "source": "ThePRP",
+      "ts": 1793142979
+    },
+    {
+      "title": "BAT (Municipal Waste, Etc.) Release Their 2015 Cover Of Venom’s “Live Like An Angel (Die Like A Devil)”",
+      "source": "ThePRP",
+      "ts": 1793143017
+    },
+    {
+      "title": "Metallica’s Kirk Hammett Provides A New Reading Of Edgar Allan Poe’s ‘The Raven’",
+      "source": "ThePRP",
+      "ts": 1793143024
+    },
+    {
+      "title": "‘Desert Age: A Rock And Roll Scene History’ 10th Anniversary Due In November, Kyuss Clip Released",
+      "source": "ThePRP",
+      "ts": 1793143032
+    },
+    {
+      "title": "Rammstein’s Till Lindemann Announces 2027 European/UK Tour",
+      "source": "ThePRP",
+      "ts": 1793143035
+    },
+    {
+      "title": "King Gizzard & The Lizard Wizard Lay Out The Dates For Their June 2027 European Tour",
+      "source": "ThePRP",
+      "ts": 1793143089
     }
   ],
   "initialized_sources": [
@@ -4420,7 +4429,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T19:24:18+00:00",
       "id": "4f1e7d75ac2ed83c167d1139bb2b0bfd1db36064",
-      "retry_after": 1793130511
+      "retry_after": 1793143375
     },
     {
       "source": "Decibel",
@@ -4432,7 +4441,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-27T19:00:55+00:00",
       "id": "ecfe805f5ae5710a4731f4966a988500e473f818",
-      "retry_after": 1793130525
+      "retry_after": 1793143376
     },
     {
       "source": "Metal Injection",
@@ -4444,7 +4453,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T18:56:09+00:00",
       "id": "59d3f5040e3a874dfe99d6c74c35b93a19b8a2e2",
-      "retry_after": 1793130525
+      "retry_after": 1793143376
     },
     {
       "source": "Metal Injection",
@@ -4456,7 +4465,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T17:48:25+00:00",
       "id": "d6517cafbebf0e03e49d254a7da34b322452e120",
-      "retry_after": 1793130550
+      "retry_after": 1793143376
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4468,7 +4477,7 @@
       "category": "Хард-рок",
       "published": "2026-10-27T17:42:10+00:00",
       "id": "8dd2503e75c281623dad651414348bedb9a5a287",
-      "retry_after": 1793130567
+      "retry_after": 1793143383
     },
     {
       "source": "Metal Injection",
@@ -4480,7 +4489,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T17:28:44+00:00",
       "id": "075efe72f3487733113eba3236b951f856851093",
-      "retry_after": 1793130567
+      "retry_after": 1793143383
     },
     {
       "source": "ThePRP",
@@ -4492,19 +4501,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T17:25:53+00:00",
       "id": "33b3139e3d65220749a3ad44bf10f8e0fe61309d",
-      "retry_after": 1793130570
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "King Gizzard & The Lizard Wizard Lay Out The Dates For Their June 2027 European Tour",
-      "link": "https://www.theprp.com/2026/10/27/news/king-gizzard-the-lizard-wizard-lay-out-the-dates-for-their-june-2027-european-tour/",
-      "rss_body": "Hitting festivals and headlining shows.",
-      "tags": "News King Gizzard & The Lizard Wizard",
-      "category": "Хэви-метал",
-      "published": "2026-10-27T17:05:21+00:00",
-      "id": "9c629c580e994924e77004376d746aedc96c41cc",
-      "retry_after": 0
+      "retry_after": 1793143385
     },
     {
       "source": "ThePRP",
@@ -4625,6 +4622,42 @@
       "published": "2026-10-27T14:58:12+00:00",
       "id": "e787e662143885d1e3f20ebadba82a5b26e8a518",
       "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Newly Fired Malevolent Creation Members Cite Toxic Work Environment, Phil Fasciana Claims They Couldn’t Play The Band’s Songs Live",
+      "link": "https://www.theprp.com/2026/10/27/news/newly-fired-malevolent-creation-members-cite-toxic-work-environment-phil-fasciana-claims-they-couldnt-play-the-bands-songs-live/",
+      "rss_body": "Phil Fasciana has since issued a $1,000 challenge to guitarist Chris Cannella to play one of the band's songs without a mistake.",
+      "tags": "News Malevolent Creation Phil Fasciana",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T21:32:31+00:00",
+      "id": "0cab6f949a16f5e42452077c587de18c35a028a9",
+      "retry_after": 1793143306
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch Metallica’s Kirk Hammett Read Edgar Allan Poe’s ‘The Raven,’ Because Why Not?",
+      "link": "https://metalinjection.net/news/watch-metallicas-kirk-hammett-read-edgar-allan-poes-the-raven-because-why-not",
+      "rss_body": "A whole four minutes of haunting fun.",
+      "tags": "Latest News kirk hammett",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T20:02:36+00:00",
+      "id": "dccf4df79e8165e050861c527152d14693487785",
+      "retry_after": 1793143333
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Slash on the ‘Instant Spark’ He Found With His Band",
+      "link": "https://ultimateclassicrock.com/slash-myles-kennedy-conspirators-interview-2026/",
+      "rss_body": "The guitar legend tells UCR about the chemistry they have, \"You don't know until you hear it, but I heard it.\"",
+      "tags": "Exclusive Interviews News Slash UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-27T19:46:05+00:00",
+      "id": "a752049b7f9a7873514c00b14ffcc2f63e25b4e5",
+      "retry_after": 1793143375
     }
   ]
 }
