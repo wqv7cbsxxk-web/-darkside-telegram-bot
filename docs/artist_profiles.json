@@ -932,7 +932,7 @@
       "reference_checked_at": "2026-10-27T08:28:41.272904+00:00",
       "qid": "Q162586",
       "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
-      "tour_attempted_at": "2026-10-22T20:08:34.014198+00:00",
+      "tour_attempted_at": "2026-10-27T14:53:50.395925+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-27T08:28:41.272927+00:00"
     },
@@ -961,10 +961,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://entershikari.com",
       "reference_url": "https://en.wikipedia.org/wiki/Enter_Shikari",
-      "reference_checked_at": "2026-10-20T10:22:18.660024+00:00",
-      "tour_attempted_at": "2026-10-22T20:08:35.873846+00:00",
+      "reference_checked_at": "2026-10-27T14:53:48.931134+00:00",
+      "tour_attempted_at": "2026-10-27T14:53:52.999147+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T10:22:18.660146+00:00"
+      "reference_attempted_at": "2026-10-27T14:53:48.931239+00:00"
     },
     "eminem": {
       "origin": "Detroit , Michigan, U.S.",
@@ -974,10 +974,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://eminem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Eminem",
-      "reference_checked_at": "2026-10-20T10:22:19.388648+00:00",
-      "tour_attempted_at": "2026-10-22T20:08:37.499052+00:00",
+      "reference_checked_at": "2026-10-27T14:53:49.298095+00:00",
+      "tour_attempted_at": "2026-10-27T14:53:54.803912+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T10:22:19.388823+00:00"
+      "reference_attempted_at": "2026-10-27T14:53:49.298617+00:00"
     },
     "fates-warning": {
       "origin": "Hartford, Connecticut , U.S.",
@@ -1004,10 +1004,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.fateswarning.com",
       "reference_url": "https://en.wikipedia.org/wiki/Fates_Warning",
-      "reference_checked_at": "2026-10-20T10:22:19.507548+00:00",
-      "tour_attempted_at": "2026-10-22T20:08:39.191613+00:00",
+      "reference_checked_at": "2026-10-27T14:53:49.497101+00:00",
+      "tour_attempted_at": "2026-10-27T14:53:56.396161+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T10:22:19.507568+00:00"
+      "reference_attempted_at": "2026-10-27T14:53:49.497115+00:00"
     },
     "foo-fighters": {
       "origin": "Seattle , Washington , U.S.",
@@ -1042,10 +1042,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://foofighters.com",
       "reference_url": "https://en.wikipedia.org/wiki/Foo_Fighters",
-      "reference_checked_at": "2026-10-20T10:22:19.799147+00:00",
+      "reference_checked_at": "2026-10-27T14:53:49.640688+00:00",
       "tour_attempted_at": "2026-10-22T23:23:47.572267+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T10:22:19.799170+00:00"
+      "reference_attempted_at": "2026-10-27T14:53:49.640707+00:00"
     },
     "gentle-giant": {
       "origin": "Portsmouth , England",
@@ -1084,10 +1084,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://gentlegiantband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gentle_Giant",
-      "reference_checked_at": "2026-10-20T10:22:20.009105+00:00",
+      "reference_checked_at": "2026-10-27T14:53:49.874946+00:00",
       "tour_attempted_at": "2026-10-22T23:23:48.181870+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T10:22:20.009127+00:00"
+      "reference_attempted_at": "2026-10-27T14:53:49.874968+00:00"
     },
     "genesis": {
       "origin": "Godalming , Surrey , England",
@@ -1142,10 +1142,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://genesis-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Genesis_%28band%29",
-      "reference_checked_at": "2026-10-20T10:22:20.363762+00:00",
+      "reference_checked_at": "2026-10-27T14:53:50.232871+00:00",
       "tour_attempted_at": "2026-10-22T23:23:48.575149+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T10:22:20.363783+00:00"
+      "reference_attempted_at": "2026-10-27T14:53:50.232892+00:00"
     },
     "ghost": {
       "origin": "Linköping , Östergötland , Sweden",
