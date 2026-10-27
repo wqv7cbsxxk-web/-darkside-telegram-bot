@@ -583,10 +583,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://defleppard.com",
       "reference_url": "https://en.wikipedia.org/wiki/Def_Leppard",
-      "reference_checked_at": "2026-10-20T05:29:37.222279+00:00",
-      "tour_attempted_at": "2026-10-22T16:08:51.481389+00:00",
+      "reference_checked_at": "2026-10-27T08:28:40.022929+00:00",
+      "tour_attempted_at": "2026-10-27T08:28:41.875934+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T05:29:37.222551+00:00"
+      "reference_attempted_at": "2026-10-27T08:28:40.023055+00:00"
     },
     "deep-purple": {
       "origin": "London, England",
@@ -617,7 +617,7 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://deep-purple.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Deep_Purple",
-      "reference_checked_at": "2026-10-20T05:29:37.567403+00:00",
+      "reference_checked_at": "2026-10-27T08:28:40.401361+00:00",
       "reviewed": {
         "members": [
           {
@@ -836,7 +836,7 @@
       "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
       "tour_attempted_at": "2026-10-26T20:02:55.054707+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T05:29:37.567426+00:00"
+      "reference_attempted_at": "2026-10-27T08:28:40.401388+00:00"
     },
     "devin-townsend": {
       "origin": "",
@@ -851,10 +851,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://hevydevy.com",
       "reference_url": "https://en.wikipedia.org/wiki/Devin_Townsend",
-      "reference_checked_at": "2026-10-20T05:29:37.871218+00:00",
-      "tour_attempted_at": "2026-10-22T16:08:51.890303+00:00",
+      "reference_checked_at": "2026-10-27T08:28:40.712295+00:00",
+      "tour_attempted_at": "2026-10-27T08:28:42.241943+00:00",
       "instruments": "Vocals guitar keyboards",
-      "reference_attempted_at": "2026-10-20T05:29:37.871238+00:00"
+      "reference_attempted_at": "2026-10-27T08:28:40.712317+00:00"
     },
     "dio": {
       "origin": "Cortland, New York , U.S.",
@@ -869,10 +869,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://www.ronniejamesdio.com",
       "reference_url": "https://en.wikipedia.org/wiki/Dio_%28band%29",
-      "reference_checked_at": "2026-10-20T05:29:37.976374+00:00",
-      "tour_attempted_at": "2026-10-22T16:08:53.919560+00:00",
+      "reference_checked_at": "2026-10-27T08:28:40.831251+00:00",
+      "tour_attempted_at": "2026-10-27T08:28:44.326823+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T05:29:37.976388+00:00"
+      "reference_attempted_at": "2026-10-27T08:28:40.831274+00:00"
     },
     "dokken": {
       "origin": "Los Angeles , California, U.S.",
@@ -895,10 +895,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://dokken.net",
       "reference_url": "https://en.wikipedia.org/wiki/Dokken",
-      "reference_checked_at": "2026-10-20T05:29:38.102499+00:00",
-      "tour_attempted_at": "2026-10-22T16:08:54.560758+00:00",
+      "reference_checked_at": "2026-10-27T08:28:40.972920+00:00",
+      "tour_attempted_at": "2026-10-27T08:28:44.850984+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T05:29:38.102520+00:00"
+      "reference_attempted_at": "2026-10-27T08:28:40.972944+00:00"
     },
     "dream-theater": {
       "origin": "Boston , Massachusetts , U.S.",
@@ -929,12 +929,12 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://dreamtheater.net",
       "reference_url": "https://en.wikipedia.org/wiki/Dream_Theater",
-      "reference_checked_at": "2026-10-20T05:29:38.382224+00:00",
+      "reference_checked_at": "2026-10-27T08:28:41.272904+00:00",
       "qid": "Q162586",
       "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
       "tour_attempted_at": "2026-10-22T20:08:34.014198+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-20T05:29:38.382245+00:00"
+      "reference_attempted_at": "2026-10-27T08:28:41.272927+00:00"
     },
     "enter-shikari": {
       "origin": "St Albans , Hertfordshire , England",
