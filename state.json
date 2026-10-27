@@ -1066,24 +1066,12 @@
     "0f2921b38f093199d7a014130da4ff3828903991",
     "8068d51124b54f144bef00288d16325a2530947d",
     "122298da4d1799a8d39a961c040b3662f5986d2d",
-    "eafcaec81cc64695c8ce470485c64875d4978243"
+    "eafcaec81cc64695c8ce470485c64875d4978243",
+    "a87b91042c123fa0eebd52289c3371878b99a866",
+    "177bddab4a5d01c0285344423ec71578833a61f3",
+    "b9e8ca69f5cc9a98730181e67a834e90cb11e5e3"
   ],
   "recent_titles": [
-    {
-      "title": "Former Killswitch Engage bandmates Howard Jones and Adam D detail new project Burn Eternal, sign to Metal Blade Records",
-      "source": "Louder",
-      "ts": 1792630965
-    },
-    {
-      "title": "Tony Iommi keeps the Black Sabbath flame burining on From The Dark",
-      "source": "Louder",
-      "ts": 1792648974
-    },
-    {
-      "title": "“I don’t know what people were complaining about. They nailed it”: Dragonforce’s Herman Li on Dream Theater",
-      "source": "Louder",
-      "ts": 1792648988
-    },
     {
       "title": "Meat Loaf’s Long Road to ‘Bat Out of Hell'",
       "source": "Ultimate Classic Rock",
@@ -1868,6 +1856,21 @@
       "title": "Musical comedown? Movie template? Untoppable creative peak? The Who’s Quadrophenia is a prog classic",
       "source": "Louder",
       "ts": 1793058782
+    },
+    {
+      "title": "System Of A Down Announce Fourth And Final Rose Bowl Show, Gojira Booked To Open",
+      "source": "ThePRP",
+      "ts": 1793068187
+    },
+    {
+      "title": "Anika Nilles reveals how she had to change her technique as she learned Neil Peart's drum parts",
+      "source": "Louder",
+      "ts": 1793068215
+    },
+    {
+      "title": "Agriculture Reveal New Openers For Fall Tour Following Uniform’s Exit",
+      "source": "ThePRP",
+      "ts": 1793068233
     }
   ],
   "initialized_sources": [
@@ -2432,7 +2435,7 @@
       "category": "Прогрессив",
       "published": "2026-10-12T05:46:24+00:00",
       "id": "808238b24b152164b8b599f858b62cde56b5f9ea",
-      "retry_after": 1792999093
+      "retry_after": 1793068940
     },
     {
       "source": "Metal Injection",
@@ -2444,7 +2447,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T21:01:02+00:00",
       "id": "969d97253905597168fabf415fea9390493b098b",
-      "retry_after": 1792999094
+      "retry_after": 1793068940
     },
     {
       "source": "ThePRP",
@@ -2456,7 +2459,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T18:55:10+00:00",
       "id": "abf275665418aa54bf92e60afa2be9cd2561da58",
-      "retry_after": 1792999103
+      "retry_after": 1793068951
     },
     {
       "source": "Metal Injection",
@@ -2468,7 +2471,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-11T15:56:11+00:00",
       "id": "c4c0033e8848c44c4d3e94d73c71a07b84069639",
-      "retry_after": 1792999104
+      "retry_after": 1793068951
     },
     {
       "source": "Louder",
@@ -2480,7 +2483,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T15:00:00+00:00",
       "id": "0102c2be91b458ba311ab0d9ae5838eacdb32ff3",
-      "retry_after": 1792999106
+      "retry_after": 1793068954
     },
     {
       "source": "Metal Injection",
@@ -2492,7 +2495,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T14:52:46+00:00",
       "id": "d57214e6be19d7d0b00b9b89de84ca16bb058b74",
-      "retry_after": 1792999106
+      "retry_after": 1793068954
     },
     {
       "source": "Metal Injection",
@@ -2504,7 +2507,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-11T14:14:41+00:00",
       "id": "0e3227631c52c966ee2999135322b92ed5bb912e",
-      "retry_after": 1792999106
+      "retry_after": 1793068955
     },
     {
       "source": "Louder",
@@ -2516,7 +2519,7 @@
       "category": "Прогрессив",
       "published": "2026-10-11T12:00:00+00:00",
       "id": "546ea24ced5734c9f8ea4173c952d9d00f5779b9",
-      "retry_after": 1792999108
+      "retry_after": 1793068957
     },
     {
       "source": "Louder",
@@ -2528,7 +2531,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T22:48:09+00:00",
       "id": "cb1f7bb841035730a61630ef1a793c58a3020393",
-      "retry_after": 1792999111
+      "retry_after": 1793068961
     },
     {
       "source": "Metal Injection",
@@ -2540,7 +2543,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T16:11:17+00:00",
       "id": "8ae89ebe3bea2b95425db3413adfb09f7e9e7703",
-      "retry_after": 1792999111
+      "retry_after": 1793068961
     },
     {
       "source": "Metal Injection",
@@ -2552,7 +2555,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-10T15:40:59+00:00",
       "id": "071f28d3e5f796e65e81254814af7268b0e82fe8",
-      "retry_after": 1792999111
+      "retry_after": 1793068961
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2564,7 +2567,7 @@
       "category": "Хард-рок",
       "published": "2026-10-10T13:52:21+00:00",
       "id": "75481e168aec5f932156782b1bb4c73389f4fd27",
-      "retry_after": 1792999112
+      "retry_after": 1793068962
     },
     {
       "source": "Metal Injection",
@@ -2576,7 +2579,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-09T18:50:14+00:00",
       "id": "1c587fa403b1041e5f9d9c1065173375f3a7c03c",
-      "retry_after": 1792999112
+      "retry_after": 1793068962
     },
     {
       "source": "Metal Injection",
@@ -2588,7 +2591,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-09T18:04:55+00:00",
       "id": "42dbcbd16ecd5b4d6283b60761b823ba2822fc29",
-      "retry_after": 1792999112
+      "retry_after": 1793068963
     },
     {
       "source": "Metal Injection",
@@ -2600,7 +2603,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-09T16:59:25+00:00",
       "id": "9cbfe026aa21183f787df958cb7ab0b0ceb29c90",
-      "retry_after": 1792999112
+      "retry_after": 1793068963
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2612,7 +2615,7 @@
       "category": "Хард-рок",
       "published": "2026-10-09T15:09:42+00:00",
       "id": "8be1747cd4d988990d3693ad080bbacf7c407e8a",
-      "retry_after": 1792999114
+      "retry_after": 1793068965
     },
     {
       "source": "Metal Injection",
@@ -2804,7 +2807,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-12T16:19:23+00:00",
       "id": "ed145ac3739dc539d4672f04dfcb4c894a3132aa",
-      "retry_after": 1792999086
+      "retry_after": 1793068931
     },
     {
       "source": "Metal Injection",
@@ -2816,7 +2819,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-12T15:06:30+00:00",
       "id": "7118f5120f6c201ef8842f480354d910b7da50e5",
-      "retry_after": 1792999086
+      "retry_after": 1793068931
     },
     {
       "source": "Metal Injection",
@@ -2828,7 +2831,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-12T14:34:45+00:00",
       "id": "0161762704b9d659d48fa0cba42aa5307bd27da7",
-      "retry_after": 1792999086
+      "retry_after": 1793068931
     },
     {
       "source": "No Clean Singing",
@@ -2840,7 +2843,7 @@
       "category": "Прогрессив",
       "published": "2026-10-12T13:53:17+00:00",
       "id": "3d4534b4f7365e30c932054eaa86440b8bbcad0d",
-      "retry_after": 1792999089
+      "retry_after": 1793068934
     },
     {
       "source": "ThePRP",
@@ -2852,7 +2855,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T16:21:04+00:00",
       "id": "6fa9e66a27bc3bb4d1d6d699ea1d0cf9eb170e41",
-      "retry_after": 1792999081
+      "retry_after": 1793068925
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2864,7 +2867,7 @@
       "category": "Хард-рок",
       "published": "2026-10-13T16:08:03+00:00",
       "id": "b3483a2937a66c5ce60b948a1df4c2641bc669a5",
-      "retry_after": 1792999083
+      "retry_after": 1793068927
     },
     {
       "source": "Metal Injection",
@@ -2876,7 +2879,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T15:39:10+00:00",
       "id": "d084dcb5b9cf81ee155f4415cc6f2e255a918dbf",
-      "retry_after": 1792999083
+      "retry_after": 1793068927
     },
     {
       "source": "Metal Injection",
@@ -2888,7 +2891,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T13:43:21+00:00",
       "id": "0550fbdbf700f9c123f830e31daa90002a226aa9",
-      "retry_after": 1792999083
+      "retry_after": 1793068927
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2900,7 +2903,7 @@
       "category": "Хард-рок",
       "published": "2026-10-13T11:54:39+00:00",
       "id": "083084d358ed43495ce32f26fe1d6f749f3aa7d3",
-      "retry_after": 1792999086
+      "retry_after": 1793068931
     },
     {
       "source": "Metal Injection",
@@ -2912,7 +2915,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T18:54:54+00:00",
       "id": "0bc34f73ce3a3bd4aab3f2118e879131426eafce",
-      "retry_after": 1792999078
+      "retry_after": 1793068920
     },
     {
       "source": "Metal Injection",
@@ -2924,7 +2927,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-13T17:17:37+00:00",
       "id": "6e57911a7743ad43cbb0c228a83d313ae826bb57",
-      "retry_after": 1792999078
+      "retry_after": 1793068920
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2936,7 +2939,7 @@
       "category": "Прогрессив",
       "published": "2026-10-13T17:03:04+00:00",
       "id": "19ed93ba39ae6d8df8b72eef8ab84fed711e541c",
-      "retry_after": 1792999080
+      "retry_after": 1793068923
     },
     {
       "source": "Metal Injection",
@@ -2948,7 +2951,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T14:29:26+00:00",
       "id": "763e15189ce9457ccfc94db35b8bf0ab36b0b73c",
-      "retry_after": 1792999077
+      "retry_after": 1793068917
     },
     {
       "source": "No Clean Singing",
@@ -2960,7 +2963,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-14T13:50:53+00:00",
       "id": "ec5d5018bd5a2da6a26d2be63d29fc90708fbe85",
-      "retry_after": 1792999078
+      "retry_after": 1793068920
     },
     {
       "source": "Metal Injection",
@@ -2972,7 +2975,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T19:10:15+00:00",
       "id": "876f0e380ed29bab07d20ff6f276f4eb5127cf8d",
-      "retry_after": 1792999075
+      "retry_after": 1793068915
     },
     {
       "source": "Metal Injection",
@@ -2984,7 +2987,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T18:29:41+00:00",
       "id": "1834789368e897d2953ea559c83ebc82f22da77e",
-      "retry_after": 1792999075
+      "retry_after": 1793068915
     },
     {
       "source": "Ultimate Classic Rock",
@@ -2996,7 +2999,7 @@
       "category": "Хард-рок",
       "published": "2026-10-14T18:20:40+00:00",
       "id": "ff16b61cfefd0d8d20a1469a1d16616fb4fe7420",
-      "retry_after": 1792999077
+      "retry_after": 1793068917
     },
     {
       "source": "Metal Injection",
@@ -3008,7 +3011,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-14T16:23:37+00:00",
       "id": "55523d2252c09131aa39f7d0fe81c81e5cac2c33",
-      "retry_after": 1792999077
+      "retry_after": 1793068917
     },
     {
       "source": "Louder",
@@ -3020,7 +3023,7 @@
       "category": "Прогрессив",
       "published": "2026-10-15T15:09:41+00:00",
       "id": "b8627ce094e15f871bb133333c9bfc54fbccab43",
-      "retry_after": 1792999075
+      "retry_after": 1793068915
     },
     {
       "source": "Metal Injection",
@@ -3032,7 +3035,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T14:27:45+00:00",
       "id": "b8813643295210f92ea2a5445221cc8716d1da1a",
-      "retry_after": 1792999075
+      "retry_after": 1793068915
     },
     {
       "source": "Metal Injection",
@@ -3044,7 +3047,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T13:38:42+00:00",
       "id": "85748d127186f72494688a79d3cef331539f30f2",
-      "retry_after": 1792999075
+      "retry_after": 1793068915
     },
     {
       "source": "Metal Injection",
@@ -3056,7 +3059,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T12:33:17+00:00",
       "id": "4da71dd62974056053bdf4743d7dc2a8927284cb",
-      "retry_after": 1792999075
+      "retry_after": 1793068915
     },
     {
       "source": "Metal Injection",
@@ -3068,7 +3071,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:00:00+00:00",
       "id": "83abdf4034c836d3c141014f1d8b9d34ba568936",
-      "retry_after": 1792999071
+      "retry_after": 1793068908
     },
     {
       "source": "Metal Injection",
@@ -3080,7 +3083,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T17:10:18+00:00",
       "id": "4d9f2be08e5b1d74c24967411ca765a3963a5141",
-      "retry_after": 1792999071
+      "retry_after": 1793068908
     },
     {
       "source": "Metal Injection",
@@ -3092,7 +3095,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T15:23:41+00:00",
       "id": "14906496ce8d34abc3e4c5bd74c18eff90dc1185",
-      "retry_after": 1792999071
+      "retry_after": 1793068908
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3104,7 +3107,7 @@
       "category": "Хард-рок",
       "published": "2026-10-15T20:49:09+00:00",
       "id": "0444b0ff8f1e54cf77f5bd81fc1f92b245ee9613",
-      "retry_after": 1792999071
+      "retry_after": 1793068908
     },
     {
       "source": "Metal Injection",
@@ -3116,7 +3119,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-15T18:25:10+00:00",
       "id": "77b1588e20715ae846658427185c711f41edfa37",
-      "retry_after": 1792999071
+      "retry_after": 1793068908
     },
     {
       "source": "Louder",
@@ -3128,7 +3131,7 @@
       "category": "Прогрессив",
       "published": "2026-10-16T02:29:27+00:00",
       "id": "2461b11113e5f24015235e81dcb1a5f55531c89a",
-      "retry_after": 1792999069
+      "retry_after": 1793068905
     },
     {
       "source": "Louder",
@@ -3143,7 +3146,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792999066
+      "retry_after": 1793068901
     },
     {
       "source": "Metal Injection",
@@ -3155,7 +3158,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:42:44+00:00",
       "id": "5c062236e87714cbd151d5c10d5ea2189aacbcf3",
-      "retry_after": 1792999066
+      "retry_after": 1793068901
     },
     {
       "source": "Metal Injection",
@@ -3167,7 +3170,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T13:07:43+00:00",
       "id": "c02f751cc2e741b6f5ba1ccdfff05b0831cdc1ad",
-      "retry_after": 1792999066
+      "retry_after": 1793068901
     },
     {
       "source": "Metal Injection",
@@ -3182,7 +3185,7 @@
       "duplicate_ids": [
         "73ecf77997afc50510be4de8d18c56581c68c2f2"
       ],
-      "retry_after": 1792999066
+      "retry_after": 1793068901
     },
     {
       "source": "Metal Injection",
@@ -3194,7 +3197,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T15:46:09+00:00",
       "id": "4f133114f27ce7a259542531f508befe1d215815",
-      "retry_after": 1792999063
+      "retry_after": 1793068897
     },
     {
       "source": "Metal Injection",
@@ -3206,7 +3209,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T14:44:42+00:00",
       "id": "5093661a749ed655d4a88368c96cf1186a7a3a67",
-      "retry_after": 1792999063
+      "retry_after": 1793068897
     },
     {
       "source": "Metal Injection",
@@ -3218,7 +3221,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T18:18:22+00:00",
       "id": "b49caf32c7d355ba3091ea7d8eda097c57c32621",
-      "retry_after": 1792999062
+      "retry_after": 1793068897
     },
     {
       "source": "Metal Injection",
@@ -3230,7 +3233,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-16T23:25:15+00:00",
       "id": "be1b8f6f0da4b20bb695787ffe3e547ce2aee889",
-      "retry_after": 1792999062
+      "retry_after": 1793068897
     },
     {
       "source": "Louder",
@@ -3242,7 +3245,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T00:00:00+00:00",
       "id": "11a348017a96b128623b4b05b495605cbc69e516",
-      "retry_after": 1792999062
+      "retry_after": 1793068897
     },
     {
       "source": "Louder",
@@ -3254,7 +3257,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T10:00:00+00:00",
       "id": "c1ea453807d8fcbdf823e5a66dd8b50643c15a98",
-      "retry_after": 1792999059
+      "retry_after": 1793068894
     },
     {
       "source": "Metal Injection",
@@ -3266,7 +3269,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-17T14:23:28+00:00",
       "id": "1c5cfbe84a92e91546a4f726ca221c8ac38f37ae",
-      "retry_after": 1792999055
+      "retry_after": 1793068889
     },
     {
       "source": "Metal Injection",
@@ -3278,7 +3281,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T15:46:43+00:00",
       "id": "17fb72fb196f9cfc779369925273ef76e14f814e",
-      "retry_after": 1792999055
+      "retry_after": 1793068889
     },
     {
       "source": "Metal Injection",
@@ -3290,7 +3293,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T14:56:10+00:00",
       "id": "75aefeb86fd73e4c90547f178d35ec6916166b04",
-      "retry_after": 1792999055
+      "retry_after": 1793068889
     },
     {
       "source": "Metal Injection",
@@ -3302,7 +3305,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-17T18:20:57+00:00",
       "id": "dfaa87e155fc4630bcaf24b6f82ebeb9dbeb28ea",
-      "retry_after": 1792999055
+      "retry_after": 1793068889
     },
     {
       "source": "Metal Injection",
@@ -3314,7 +3317,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-18T13:48:23+00:00",
       "id": "e60ce886de7ed29dbe56084a288ebd2a75bf0094",
-      "retry_after": 1792999055
+      "retry_after": 1793068889
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3326,7 +3329,7 @@
       "category": "Хард-рок",
       "published": "2026-10-18T16:23:43+00:00",
       "id": "04a02e037aa53946d8b4e9212a2922257434dfdf",
-      "retry_after": 1792999055
+      "retry_after": 1793068889
     },
     {
       "source": "ThePRP",
@@ -3338,7 +3341,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-18T19:17:26+00:00",
       "id": "503147e0f372c017ebf4b19f9b07f11881cbb32e",
-      "retry_after": 1792999049
+      "retry_after": 1793068879
     },
     {
       "source": "No Clean Singing",
@@ -3350,7 +3353,7 @@
       "category": "Прогрессив",
       "published": "2026-10-18T18:58:51+00:00",
       "id": "5bb6507f6ee95ee118e62ae890e5c8534bbf884b",
-      "retry_after": 1792999052
+      "retry_after": 1793068885
     },
     {
       "source": "Metal Injection",
@@ -3362,7 +3365,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-18T17:12:50+00:00",
       "id": "b02678d0ddcd01b28134a4b7a183953fe2f40ca5",
-      "retry_after": 1792999052
+      "retry_after": 1793068885
     },
     {
       "source": "Metal Injection",
@@ -3374,7 +3377,7 @@
       "category": "Хард-рок",
       "published": "2026-10-18T16:38:08+00:00",
       "id": "871c216a743cfb918ed9f1c13570e5899626ad1b",
-      "retry_after": 1792999052
+      "retry_after": 1793068885
     },
     {
       "source": "Metal Injection",
@@ -3386,7 +3389,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T14:13:37+00:00",
       "id": "be1139c09e1ee624d67752284d3e006095c725f3",
-      "retry_after": 1792999039
+      "retry_after": 1793068865
     },
     {
       "source": "Louder",
@@ -3398,7 +3401,7 @@
       "category": "Хард-рок",
       "published": "2026-10-19T13:05:00+00:00",
       "id": "fd69b0ebe2bd4ff9c14b98c65d99254962b24c38",
-      "retry_after": 1792999042
+      "retry_after": 1793068871
     },
     {
       "source": "Metal Injection",
@@ -3410,7 +3413,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T20:46:28+00:00",
       "id": "89599497293a46a23cf1bbd976b46cee48fb6f92",
-      "retry_after": 1792999039
+      "retry_after": 1793068865
     },
     {
       "source": "Metal Injection",
@@ -3422,7 +3425,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T20:15:49+00:00",
       "id": "4e7d490c705992631896877d4b6801c02d85dece",
-      "retry_after": 1792999039
+      "retry_after": 1793068865
     },
     {
       "source": "Metal Injection",
@@ -3434,7 +3437,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T16:43:30+00:00",
       "id": "215f3c05f1717ab4472d1bb78dd3e2e825dbfc54",
-      "retry_after": 1792999039
+      "retry_after": 1793068865
     },
     {
       "source": "Metal Injection",
@@ -3446,7 +3449,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T15:34:21+00:00",
       "id": "5f78597e52e1e77b5cd6fb67a9b926366f28da59",
-      "retry_after": 1792999039
+      "retry_after": 1793068865
     },
     {
       "source": "Louder",
@@ -3458,7 +3461,7 @@
       "category": "Прогрессив",
       "published": "2026-10-20T03:05:00+00:00",
       "id": "910b04df30a9352ee34e74f8dbff5100c711e746",
-      "retry_after": 1792999036
+      "retry_after": 1793068724
     },
     {
       "source": "Louder",
@@ -3470,7 +3473,7 @@
       "category": "Прогрессив",
       "published": "2026-10-20T01:09:38+00:00",
       "id": "d5b13cbbed3ae788755cf283cc938f9eb3dba36f",
-      "retry_after": 1792999039
+      "retry_after": 1793068865
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3482,7 +3485,7 @@
       "category": "Хард-рок",
       "published": "2026-10-20T14:47:23+00:00",
       "id": "5e8402e65a90a9db4cc3da522ba87cc80c7bae5a",
-      "retry_after": 1792999032
+      "retry_after": 1793068695
     },
     {
       "source": "Metal Injection",
@@ -3494,7 +3497,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T14:26:19+00:00",
       "id": "2d0e3d559d6fffa0c5743c8833d4077e77571dd8",
-      "retry_after": 1792999032
+      "retry_after": 1793068696
     },
     {
       "source": "Metal Injection",
@@ -3506,7 +3509,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T13:14:40+00:00",
       "id": "2e8df00fe1d468b2b0b57e36fbb14a139853e8a4",
-      "retry_after": 1792999032
+      "retry_after": 1793068696
     },
     {
       "source": "Metal Injection",
@@ -3518,7 +3521,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T18:33:13+00:00",
       "id": "33e13b0eec3f3dd9fcb9c8e28ab5a68a01b90f85",
-      "retry_after": 1792999023
+      "retry_after": 1793068684
     },
     {
       "source": "ThePRP",
@@ -3530,7 +3533,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T18:13:02+00:00",
       "id": "6a9172fc4bab7ca5aeb402cf428750c24298e880",
-      "retry_after": 1792999030
+      "retry_after": 1793068692
     },
     {
       "source": "Metal Injection",
@@ -3542,7 +3545,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T17:22:26+00:00",
       "id": "70ea150b32b0a3584cd536c87e4e78ff4ed3f8b0",
-      "retry_after": 1792999030
+      "retry_after": 1793068692
     },
     {
       "source": "Metal Injection",
@@ -3554,7 +3557,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T16:44:25+00:00",
       "id": "3dbbede0b0cfb9e887f50da6aa77691e5f1085cb",
-      "retry_after": 1792999030
+      "retry_after": 1793068692
     },
     {
       "source": "Metal Injection",
@@ -3566,7 +3569,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T16:09:18+00:00",
       "id": "448e220074bf5c6ec63d71c9def7319becfa0c36",
-      "retry_after": 1792999030
+      "retry_after": 1793068692
     },
     {
       "source": "Metal Injection",
@@ -3578,7 +3581,7 @@
       "category": "Прогрессив",
       "published": "2026-10-20T15:02:24+00:00",
       "id": "57154af41f8981b22ba1ee430c4cf719368045d9",
-      "retry_after": 1792999030
+      "retry_after": 1793068692
     },
     {
       "source": "ThePRP",
@@ -3590,7 +3593,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-20T20:22:01+00:00",
       "id": "5f4aef02aba41525f00be9728bc1e635bb9cd6d6",
-      "retry_after": 1792999021
+      "retry_after": 1793068682
     },
     {
       "source": "Metal Injection",
@@ -3602,7 +3605,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T20:14:35+00:00",
       "id": "b38e69e533f7c2dcc065219ae8b13ef3884c719a",
-      "retry_after": 1792999021
+      "retry_after": 1793068682
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3614,7 +3617,7 @@
       "category": "Хард-рок",
       "published": "2026-10-20T20:10:44+00:00",
       "id": "2a43a85a58d77af7ac04c31d1d15d8fc835c46d8",
-      "retry_after": 1792999023
+      "retry_after": 1793068684
     },
     {
       "source": "Metal Injection",
@@ -3626,7 +3629,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T15:10:06+00:00",
       "id": "30830af5458b317f2bde65f41084320ee5cdad31",
-      "retry_after": 1792999019
+      "retry_after": 1793068679
     },
     {
       "source": "Metal Injection",
@@ -3638,7 +3641,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T14:29:46+00:00",
       "id": "239a721986c0cbdf4af722bbb7a531c325f6a6b1",
-      "retry_after": 1792999019
+      "retry_after": 1793068679
     },
     {
       "source": "Metal Injection",
@@ -3650,7 +3653,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T14:13:43+00:00",
       "id": "26e0abee154a12ad19dad3bff8a236c6c7b8fa95",
-      "retry_after": 1792999019
+      "retry_after": 1793068679
     },
     {
       "source": "Metal Injection",
@@ -3662,7 +3665,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T19:34:37+00:00",
       "id": "d1ee1b0931d0bcde88bcf084d8cd82f7f281c362",
-      "retry_after": 1792999011
+      "retry_after": 1793068669
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3674,7 +3677,7 @@
       "category": "Хард-рок",
       "published": "2026-10-21T19:19:34+00:00",
       "id": "c58de7178017ef2df6887f7db7daf138c145c110",
-      "retry_after": 1792999015
+      "retry_after": 1793068675
     },
     {
       "source": "Metal Injection",
@@ -3686,7 +3689,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T18:42:14+00:00",
       "id": "e76072366a79a333e118741eaa4e074024ecc6b0",
-      "retry_after": 1792999015
+      "retry_after": 1793068675
     },
     {
       "source": "Metal Injection",
@@ -3698,7 +3701,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T18:05:25+00:00",
       "id": "8333faf6d1c99f96d382aea496b54b5251133172",
-      "retry_after": 1792999016
+      "retry_after": 1793068675
     },
     {
       "source": "Metal Injection",
@@ -3710,7 +3713,7 @@
       "category": "Прогрессив",
       "published": "2026-10-21T17:19:37+00:00",
       "id": "c000d0b65b27adeb4dfddcace6311217f8a11e78",
-      "retry_after": 1792999016
+      "retry_after": 1793068676
     },
     {
       "source": "Decibel",
@@ -3722,7 +3725,7 @@
       "category": "Прогрессив",
       "published": "2026-10-21T16:00:46+00:00",
       "id": "135a467714a6e41a67f7991d12878b75db4fa0d5",
-      "retry_after": 1792999019
+      "retry_after": 1793068679
     },
     {
       "source": "Metal Injection",
@@ -3734,7 +3737,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T15:26:10+00:00",
       "id": "d4380dfdf8d80ff81edf42cbe0781406df9fcc2c",
-      "retry_after": 1792999019
+      "retry_after": 1793068679
     },
     {
       "source": "Metal Injection",
@@ -3746,7 +3749,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T21:01:51+00:00",
       "id": "e33886430e8631d7bc8766db7250f00352799395",
-      "retry_after": 1792999011
+      "retry_after": 1793068669
     },
     {
       "source": "ThePRP",
@@ -3758,7 +3761,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T00:26:27+00:00",
       "id": "e37d3424cecd4b467ab1c22ad5814f30c4513ea9",
-      "retry_after": 1792999006
+      "retry_after": 1793068665
     },
     {
       "source": "ThePRP",
@@ -3770,7 +3773,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T23:50:16+00:00",
       "id": "cf82ba1fd8519adf766294c270a4c36d37cbb2f1",
-      "retry_after": 1792999011
+      "retry_after": 1793068669
     },
     {
       "source": "Metal Injection",
@@ -3782,7 +3785,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T15:32:56+00:00",
       "id": "ac8dc65c6820c6b9f770690ddf8f3e86bdd19687",
-      "retry_after": 1792998977
+      "retry_after": 1793068633
     },
     {
       "source": "Metal Injection",
@@ -3794,7 +3797,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T14:42:23+00:00",
       "id": "d05633f54cb8907cf7137d4e100a73ae615d1e91",
-      "retry_after": 1792998977
+      "retry_after": 1793068633
     },
     {
       "source": "Metal Injection",
@@ -3806,7 +3809,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T13:47:38+00:00",
       "id": "21e8a741425459590d3fec44e3909b2175342bc4",
-      "retry_after": 1792998977
+      "retry_after": 1793068633
     },
     {
       "source": "Louder",
@@ -3818,7 +3821,7 @@
       "category": "Прогрессив",
       "published": "2026-10-22T13:34:53+00:00",
       "id": "6eeb08c1c473addc4773d647dfa1505b37547d57",
-      "retry_after": 1792998997
+      "retry_after": 1793068653
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3830,7 +3833,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T11:51:54+00:00",
       "id": "509d2bee17abebafaa81efc222aaf9ae45411074",
-      "retry_after": 1792999004
+      "retry_after": 1793068661
     },
     {
       "source": "Metal Injection",
@@ -3842,7 +3845,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T17:13:50+00:00",
       "id": "d5fdd946abcf47a1d6773b84159a6e3fd322a98e",
-      "retry_after": 1792998963
+      "retry_after": 1793068624
     },
     {
       "source": "Louder",
@@ -3854,7 +3857,7 @@
       "category": "Прогрессив",
       "published": "2026-10-22T17:00:00+00:00",
       "id": "410167cbfc4aa31f9862759d07e770425ab6d270",
-      "retry_after": 1792998965
+      "retry_after": 1793068626
     },
     {
       "source": "No Clean Singing",
@@ -3866,7 +3869,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T16:38:18+00:00",
       "id": "36bc18157eb99265a2b60193acfc9bd98fca81b3",
-      "retry_after": 1792998967
+      "retry_after": 1793068628
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3878,7 +3881,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T16:06:59+00:00",
       "id": "ecf6b753709a47908ac93761781b53c37560f5e4",
-      "retry_after": 1792998977
+      "retry_after": 1793068633
     },
     {
       "source": "Metal Injection",
@@ -3890,7 +3893,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T15:56:25+00:00",
       "id": "06b14815517432a5ae4144cc30568c5f2d4c7ac2",
-      "retry_after": 1792998977
+      "retry_after": 1793068633
     },
     {
       "source": "Metal Injection",
@@ -3902,7 +3905,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-22T17:58:32+00:00",
       "id": "6afd173a56372c449701cfb9e33acc02aecd6f54",
-      "retry_after": 1792998963
+      "retry_after": 1793068624
     },
     {
       "source": "Louder",
@@ -3914,7 +3917,7 @@
       "category": "Хард-рок",
       "published": "2026-10-23T03:55:58+00:00",
       "id": "70471321e554ec9357dcfda592841cb5eac441b1",
-      "retry_after": 1792998963
+      "retry_after": 1793068624
     },
     {
       "source": "Louder",
@@ -3926,7 +3929,7 @@
       "category": "Прогрессив",
       "published": "2026-10-23T11:28:43+00:00",
       "id": "3ea0ea91b9671c207ece5696472cd90bf149810b",
-      "retry_after": 1792998960
+      "retry_after": 1793068621
     },
     {
       "source": "Metal Injection",
@@ -3938,7 +3941,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T16:38:38+00:00",
       "id": "3e78c65a2d0eb71211d29eeb21f1e38f855682cc",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Metal Injection",
@@ -3950,7 +3953,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T16:21:55+00:00",
       "id": "95a69669eee05c2add55a20cd5cab6a50d5ddd9a",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Metal Injection",
@@ -3962,7 +3965,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T16:00:21+00:00",
       "id": "78bac4d3a7125605c47f13c3619496395c83e7d9",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Metal Injection",
@@ -3974,7 +3977,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T15:17:50+00:00",
       "id": "4fc1c2762b0136e02e4e0f9d6543c9c58f990b54",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Metal Injection",
@@ -3986,7 +3989,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T14:35:09+00:00",
       "id": "d1460778e306aefcf3279a2542d26af7855e3914",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Metal Injection",
@@ -3998,7 +4001,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T13:49:34+00:00",
       "id": "938f5d498fe8fb4d7bfc6af2cfded925cef468ed",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Metal Injection",
@@ -4010,7 +4013,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T13:00:26+00:00",
       "id": "72ecc2c64f39f8ad8ed6d0bc15ee26d25bfd2154",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Metal Injection",
@@ -4022,7 +4025,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:55:16+00:00",
       "id": "7d881e61f623240cc1a09686017df479d5eac784",
-      "retry_after": 1792998933
+      "retry_after": 1793068595
     },
     {
       "source": "Metal Injection",
@@ -4034,7 +4037,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:30:17+00:00",
       "id": "1b72fc34cfd5e4c5f25ddefe449014d65c177d0b",
-      "retry_after": 1792998933
+      "retry_after": 1793068596
     },
     {
       "source": "Metal Injection",
@@ -4046,7 +4049,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:10:55+00:00",
       "id": "b49077d63d1f09118e8b3c91e974e85121310022",
-      "retry_after": 1792998933
+      "retry_after": 1793068596
     },
     {
       "source": "Metal Injection",
@@ -4058,7 +4061,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T18:29:44+00:00",
       "id": "6ec9524110f6d2da6e4dedf2c81e2c66166fc545",
-      "retry_after": 1792998933
+      "retry_after": 1793068596
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4070,7 +4073,7 @@
       "category": "Хард-рок",
       "published": "2026-10-23T18:23:52+00:00",
       "id": "c3d12fd5e417d95a835cc5facc90c3adb4d45dd8",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Metal Injection",
@@ -4082,7 +4085,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T17:36:14+00:00",
       "id": "4257d4108cd1a43a74f434c1af0c35cb5d52d5ce",
-      "retry_after": 1792998953
+      "retry_after": 1793068614
     },
     {
       "source": "Louder",
@@ -4094,7 +4097,7 @@
       "category": "Прогрессив",
       "published": "2026-10-24T04:00:00+00:00",
       "id": "9970eea881a571ac35f2abbbc7e6be844c1b66cd",
-      "retry_after": 1792998933
+      "retry_after": 1793068595
     },
     {
       "source": "Metal Injection",
@@ -4106,7 +4109,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-24T14:03:44+00:00",
       "id": "ec5b376ef1cc41649f45a91c18d45e1e9f2d0e79",
-      "retry_after": 1792998925
+      "retry_after": 1793068587
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4118,7 +4121,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-24T13:04:33+00:00",
       "id": "ee2675fb45585adf09c6f2fd4dda841fc334d087",
-      "retry_after": 1792998926
+      "retry_after": 1793068589
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4130,7 +4133,7 @@
       "category": "Прогрессив",
       "published": "2026-10-24T12:36:34+00:00",
       "id": "78d673edf715f59e52489c1988f490ef29f788a0",
-      "retry_after": 1792998930
+      "retry_after": 1793068592
     },
     {
       "source": "Metal Injection",
@@ -4142,7 +4145,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-24T15:29:04+00:00",
       "id": "478c19029f2697e176a94297c1f5cbaed0612012",
-      "retry_after": 1792998925
+      "retry_after": 1793068587
     },
     {
       "source": "Metal Injection",
@@ -4154,7 +4157,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-24T14:29:24+00:00",
       "id": "b04279f81b570c2b8e1b64e4479fee5c7dbf4ab9",
-      "retry_after": 1792998925
+      "retry_after": 1793068587
     },
     {
       "source": "Louder",
@@ -4166,7 +4169,7 @@
       "category": "Прогрессив",
       "published": "2026-10-24T20:00:00+00:00",
       "id": "d9e1a79f5f56d13b74a6ba3d1269c7078f7b7e81",
-      "retry_after": 1792998925
+      "retry_after": 1793068587
     },
     {
       "source": "Metal Injection",
@@ -4178,7 +4181,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T15:40:19+00:00",
       "id": "3559cf0d5f3297f31d5deb6deb9472abbe0914c5",
-      "retry_after": 1792998922
+      "retry_after": 1793068583
     },
     {
       "source": "Metal Injection",
@@ -4190,7 +4193,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T13:53:58+00:00",
       "id": "02c6d1c29f4c63ea2776a540e288f9ca9b516537",
-      "retry_after": 1792998922
+      "retry_after": 1793068584
     },
     {
       "source": "ThePRP",
@@ -4202,7 +4205,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T18:53:18+00:00",
       "id": "0dede64c07d1765cf8103db975d693489f355d70",
-      "retry_after": 1792998921
+      "retry_after": 1793068583
     },
     {
       "source": "Metal Injection",
@@ -4214,7 +4217,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T16:18:45+00:00",
       "id": "2da0707be78d3cf23da7ccba7dd1e6ba0a7a5bac",
-      "retry_after": 1792998921
+      "retry_after": 1793068583
     },
     {
       "source": "Louder",
@@ -4226,7 +4229,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T21:00:00+00:00",
       "id": "80187068073490a3ac9d0884860a9121e097b48c",
-      "retry_after": 1792998912
+      "retry_after": 1793068568
     },
     {
       "source": "Louder",
@@ -4238,7 +4241,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T05:52:17+00:00",
       "id": "9d604486d70afe1a3dc680a74b9c8c4971951125",
-      "retry_after": 1792998854
+      "retry_after": 1793068541
     },
     {
       "source": "Louder",
@@ -4250,7 +4253,7 @@
       "category": "Хард-рок",
       "published": "2026-10-26T02:03:55+00:00",
       "id": "1574be14996216443e3b8fae273a98063799384e",
-      "retry_after": 1792998904
+      "retry_after": 1793068562
     },
     {
       "source": "Metal Injection",
@@ -4265,7 +4268,7 @@
       "duplicate_ids": [
         "80187068073490a3ac9d0884860a9121e097b48c"
       ],
-      "retry_after": 1793059064
+      "retry_after": 1793068537
     },
     {
       "source": "Metal Injection",
@@ -4277,19 +4280,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T18:32:59+00:00",
       "id": "f6005c1d6e8c5b1ff7788ea507274ac9c86aca0e",
-      "retry_after": 1793058842
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Agriculture Reveal New Openers For Fall Tour Following Uniform’s Exit",
-      "link": "https://www.theprp.com/2026/10/26/news/agriculture-reveal-new-openers-for-fall-tour-following-uniforms-exit/",
-      "rss_body": "Boss-de-Nage, Genital Shame, Dry Socket, Purest Form & more will be playing select shows.",
-      "tags": "News Agriculture Uniform",
-      "category": "Хэви-метал",
-      "published": "2026-10-26T17:57:59+00:00",
-      "id": "b9e8ca69f5cc9a98730181e67a834e90cb11e5e3",
-      "retry_after": 1793058844
+      "retry_after": 1793068531
     },
     {
       "source": "Decibel",
@@ -4301,7 +4292,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T17:10:26+00:00",
       "id": "a62eeab7cc49c798e3719ea14dd7e06231e5abe5",
-      "retry_after": 1793058972
+      "retry_after": 1793068537
     },
     {
       "source": "Metal Injection",
@@ -4313,7 +4304,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T16:18:53+00:00",
       "id": "d0b528392cc25ae3d7361204b6388afc2fcb1473",
-      "retry_after": 1793058976
+      "retry_after": 1793068537
     },
     {
       "source": "Metal Injection",
@@ -4325,7 +4316,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T15:24:33+00:00",
       "id": "3b3fd7e76694c6e5265ca1e00d071e95fbf42bc4",
-      "retry_after": 1793059043
+      "retry_after": 1793068537
     },
     {
       "source": "Metal Injection",
@@ -4337,7 +4328,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T15:00:10+00:00",
       "id": "ffbdd5372b83f7d5789a2861c15bbcef42107d3f",
-      "retry_after": 1793059064
+      "retry_after": 1793068537
     },
     {
       "source": "Metal Injection",
@@ -4349,7 +4340,19 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T20:10:37+00:00",
       "id": "13cc37845a1820e4da930f63752fccb23ae3186e",
-      "retry_after": 1793058841
+      "retry_after": 1793068531
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "God, werewolves, Pink Floyd and Syd Barrett: The Flaming Lips announce first album in six years",
+      "link": "https://www.loudersound.com/bands-artists/flaming-lips-announce-first-album-in-six-years",
+      "rss_body": "Psychedelic Oklahomans\n\nThe Flaming Lips\n\nhave announced\n\nThe Teardrop Throbs\n\n, their 17th studio album and their first since 2020's\n\nAmerican Head\n\n. The album will be released via Third Man Records on January 22, and is the band's first since the departure of longtime members Michael Ivins in 2021 and Steven Drozd three years later.\n\nThe Teardrop Throbs\n\nwas produced by the band with Taylor Johnson, Dave Fridmann and Scott Booker, with additional production from Jon Fridmann and Mike Fridmann. The band have also released the first single from the new album, the typically transcendent\n\nGod Will Control The Werewolves.\n\n\"\n\nControl The Werewolves\n\nstarted as a little story about my two boys (Bloom and Rex) and me playing hide and seek at the park as it was getting dark outside,\" says Lips frontman Kevin Coyne. \"We had all become very aware of the moon cycles when we stayed at an ocean view Airbnb about a month previously.\n\n\"The full moon had sucked all the water out of this ocean cove area, and we walked a quarter mile out on the seabed, seeing strange ocean creatures attached to the rocks. But yes... because of the moon, we had this amazing adventure, so it was fresh in our minds, and on this evening of hide-and-seek, it was luckily another full moon.\n\n\"Bloom asked me if, while he and Rex were hiding, the werewolves would get them (they had also watched a few werewolf movies and knew that the full moon was the time when the werewolves were out and about), and I told him God would control the werewolves for a little bit while we played hide-and-seek.\n\n\"The way I heard the song sounding (in my head) was kind of\n\nPink Floyd\n\n's\n\nThe Dark Side Of The Moon,\n\nbut Syd Barrett is still in the band. Ha!\"\n\nThe Flaming Lips will celebrate the release of\n\nThe Teardrop Throbs\n\nwith a run of UK and US dates in January, February and April, performing pairs of unique shows in five different cities: Nashville, New York, Los Angeles, Chicago and London. Full dates below.\n\nThe Teardrop Throbs\n\nis available to pre-order now\n\n.\n\nThe Flaming Lips: The Teardrop Throbs tracklist\n\nThrob\n\nGod Will Control The Werewolves\n\nTitan\n\nEvery Teardrop Cried\n\nHooray\n\nInstructions On How To Draw An Eyeball or How To Deal With A Loved One Who Is Addicted To Drugs\n\nYou See You In Me\n\nYou’ve Got Brain Damage\n\nAt The End Of The Day\n\nThe Trees Are Getting Their Leaves / Ceasefire In The City Of Singing Flame\n\nEgo Tripping At The Gates Of Hell Part Two\n\nA Sunset Far Away\n\nNow I Understand\n\n(Image credit: Third Man Records)\n\nThe Flaming Lips: 2027 tour dates\n\nJan 22: Nashville Brooklyn Bowl, TN\n\nJan 23: Nashville rooklyn Bowl, TN\n\nJan 26: New York Irving Plaza, NY\n\nJan 27: New York Irving Plaza, NY\n\nFeb 23: Los Angeles The Bellwether, CA\n\nFeb 24: Los Angeles The Bellwether, CA\n\nFeb 27: Chicago Metro, IL\n\nFeb 28: Chicago Metro, IL\n\nApr 02: London O2 Shepherd’s Bush, UK\n\nApr 03: London O2 Shepherd’s Bush, UK\n\nFind Flaming Lips tickets\n\n.\n\n(Image credit: The Flaming Lips)",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-26T23:56:20+00:00",
+      "id": "1b59b2800d048a8c42a2e6b4666c5605030127f6",
+      "retry_after": 1793068531
     }
   ]
 }
