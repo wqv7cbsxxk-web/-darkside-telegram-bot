@@ -1113,49 +1113,17 @@
     "f15b36ce9fa7d8e45890cdf7c600c87872dc4711",
     "dc9df27cd3d635491f8424d6f43a8b2205d8c509",
     "5e8402e65a90a9db4cc3da522ba87cc80c7bae5a",
-    "503147e0f372c017ebf4b19f9b07f11881cbb32e"
+    "503147e0f372c017ebf4b19f9b07f11881cbb32e",
+    "c61c0e6d43a2c02a1e789da3ba9d9cec8da04d0a",
+    "66522fce5a14d9669d4011a05d01e38b06fb91a4",
+    "5cf22d805739b889bc6a40371f525cecfaf48d0c",
+    "e6ce1cf3f3a6c965ba959a51718eb487445667d6",
+    "934066fe8c7e2005a64525714a950894ffc858b2",
+    "5307351c26a5dff9802f6cfecc57b90684326eb0",
+    "c082fdd1f69582fa51f7d146dcf44cef8e7c8367",
+    "1eaf640563d3fdb20fe68597f6c458aebf8d490d"
   ],
   "recent_titles": [
-    {
-      "title": "Viral Drummer El Estepario Siberiano Took On Nine Inch Nails “The Hand That Feeds” From Drumeo’s ‘For The First Time’ Challenge",
-      "source": "ThePRP",
-      "ts": 1792719934
-    },
-    {
-      "title": "Suicide Silence Premiere New Single “Reminders Of Hell”, Drop Drum Playthrough Video",
-      "source": "ThePRP",
-      "ts": 1792719940
-    },
-    {
-      "title": "10 Reunions Every Classic Rock Fan Wants to See",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792720152
-    },
-    {
-      "title": "Billy Corgan Speaks On Remaining Friends With Marilyn Manson: “I Personally Didn’t Feel That He Was Guilty Of The Things He Was Being Charged With”",
-      "source": "ThePRP",
-      "ts": 1792737470
-    },
-    {
-      "title": "Frontierer Premiere “Ions & Oxygen Rockets” Music Video Alongside Their Brand New Album “Ultraviolet Parasite”",
-      "source": "ThePRP",
-      "ts": 1792737475
-    },
-    {
-      "title": "Slaughter To Prevail’s Alex Terrible Explains His Evolving Views On Masculinity: “I Want To Be Strong In Spirit”",
-      "source": "ThePRP",
-      "ts": 1792737492
-    },
-    {
-      "title": "Kaosis Enlist Carla Harvey & Mike Hrubovcak For New ‘Deathgasm 2: Goremageddon’ Track, Video Debuts",
-      "source": "ThePRP",
-      "ts": 1792737500
-    },
-    {
-      "title": "Polyphia’s “CAN YOU FEEL IT” Music Video Debuts Online Alongside Their New Album “BE NOT AFRAID”",
-      "source": "ThePRP",
-      "ts": 1792737504
-    },
     {
       "title": "What Lies Below Sign With Solid State Records, Premiere “Return To Nothing” Video",
       "source": "ThePRP",
@@ -1915,6 +1883,46 @@
       "title": "Here’s This Week’s Top Ten Stories On Theprp.com (October 18th, 2026)",
       "source": "ThePRP",
       "ts": 1793203282
+    },
+    {
+      "title": "Tom Morello’s “Everyone Gets Everything They Want” Music Video Premieres",
+      "source": "ThePRP",
+      "ts": 1793221066
+    },
+    {
+      "title": "Queens Of The Stone Age Debut “Run Away From The Mob” Lyric Video",
+      "source": "ThePRP",
+      "ts": 1793221071
+    },
+    {
+      "title": "Enter Shikari Surprise Release “Lightyears”, Announce New U.S. Shows",
+      "source": "ThePRP",
+      "ts": 1793221085
+    },
+    {
+      "title": "Watch: Foo Fighters Performed “This Is A Call” On ‘Jimmy Kimmel Live!’ Last Night",
+      "source": "ThePRP",
+      "ts": 1793221090
+    },
+    {
+      "title": "Ingested Tease New Member Reveal, Announce 20th Anniversary European/UK Tour With Psycroptic, Netherwalker & Tracheotomy",
+      "source": "ThePRP",
+      "ts": 1793221099
+    },
+    {
+      "title": "Full EP Stream: Ocean of Illusions –Nexus",
+      "source": "Decibel",
+      "ts": 1793221111
+    },
+    {
+      "title": "Malevolence, Guilt Trip & Bodyweb Booked For Early 2027 UK/Ireland Tour",
+      "source": "ThePRP",
+      "ts": 1793221115
+    },
+    {
+      "title": "Sol Invicto (Deftones, Cypress Hill, Etc.) Celebrate 16 Years Of Deftones’ “You’ve Seen The Butcher” With A Remix",
+      "source": "ThePRP",
+      "ts": 1793221122
     }
   ],
   "initialized_sources": [
@@ -4581,7 +4589,7 @@
     {
       "source": "Metal Injection",
       "priority": 92,
-      "title": "Every Heavy Metal Song on Rolling Stone's '200 Best Songs of the 21st Century' Ranking",
+      "title": "Every Heavy Metal Song on Rolling Stone's '200 Best Rock Songs of the 21st Century' Ranking",
       "link": "https://metalinjection.net/news/every-heavy-metal-song-on-rolling-stones-200-best-songs-of-the-21st-century-ranking",
       "rss_body": "Let's all get super mad that our favorite song didn't make the cut!",
       "tags": "Latest News",
@@ -4613,6 +4621,150 @@
       "published": "2026-10-28T12:15:08+00:00",
       "id": "b267b4da6b5bc73cfedc3c97dd3f7de31c5adc59",
       "retry_after": 1793203355
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Metallica Launch “Leper Messiah” Live Video From Their Residency At The Sphere",
+      "link": "https://www.theprp.com/2026/10/28/news/metallica-launch-leper-messiah-live-video-from-their-residency-at-the-sphere/",
+      "rss_body": "Filmed on October 10th.",
+      "tags": "News Metallica",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T18:05:10+00:00",
+      "id": "fde7efddcc5ab4da87822e055d1806349b87ae75",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Elder’s Latest Album “Through Zero” Gets New Dolby Atmos & 5.1 Surround Mixes",
+      "link": "https://www.theprp.com/2026/10/28/news/elders-latest-album-through-zero-gets-new-dolby-atmos-5-1-surround-mixes/",
+      "rss_body": "Instrumental versions in these upgraded audio formats are also now available.",
+      "tags": "News Elder",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T17:57:57+00:00",
+      "id": "b43a708b12ef412bbd1cee4449e2f1d549f1cf0c",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Marilyn Manson Sets Dates For His First Australian Tour In Over A Decade",
+      "link": "https://www.theprp.com/2026/10/28/news/marilyn-manson-sets-dates-for-his-first-australian-tour-in-over-a-decade/",
+      "rss_body": "A four-date run has been scheduled for February.",
+      "tags": "News Marilyn Manson",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T17:44:44+00:00",
+      "id": "a699236225b1222c9d0fa266379b9ad85a9d2ffa",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Photos: Periphery Live in Toronto on October 26",
+      "link": "https://metalinjection.net/photos/photos-periphery-live-in-toronto",
+      "rss_body": "Check out all the action right here.",
+      "tags": "Photos Periphery",
+      "category": "Прогрессив",
+      "published": "2026-10-28T17:13:58+00:00",
+      "id": "9e902a011ede93b84045988d1b955057ca9c0096",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Motley Crue Announce First Summer 2027 Festival Appearances",
+      "link": "https://ultimateclassicrock.com/motley-crue-summer-festival-tour-dates-2027/",
+      "rss_body": "The '80s hard rock legends also share what fans can expect to see and hear at their next Las Vegas residency.",
+      "tags": "Concerts News Motley Crue UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-10-28T17:08:05+00:00",
+      "id": "44fc4ae729d478dfd8ac24830326c1d12fe30952",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "The Who's Pete Townshend on the birth of heavy metal, Black Sabbath, Hendrix, AC/DC and Led Zeppelin",
+      "link": "https://www.loudersound.com/bands-artists/the-who-pete-townshend-on-the-birth-of-heavy-metal-black-sabbath-jimi-hendrix-ac-dc-led-zeppelin",
+      "rss_body": "Pete Townshend\n\nhas shared his thoughts as to whether\n\nThe Who\n\nshould be acknowledged as one of the godfathers of heavy metal.\n\nThe question arose during Townshend's appearance on the\n\nClassic Album Review\n\npodcast, when host Barry Robinson referenced the evolution of heavy metal and noted that \"everyone cites\n\nBlack Sabbath\n\nas being the band that started it, but The Who were bludgeoningly heavy and loud at that time.\" Robinson then asked Townshend directly, \"Do you think you have a place to play in that narrative?\"\n\n\"In a way,\" Townshend replies, \"but I do think the difference really was that bands like Black Sabbath and all of the other big heavy metal bands - until Led Zeppelin came along who combined heavy metal with some softer songwriting and ballads and so on - heavy metal was a almost a religious philosophy. It was rooted in a sense of darkness, and often ironically.\n\n\"Also the musicianship is extraordinary in heavy metal,\" he continues. \"A lot of heavy metal players cited the\n\nLive At Leeds\n\nalbum as giving them permission in a sense to go nuts, to stretch out, and to jam.\n\n\"But, no, I don't necessarily think so. I think\n\nLive at Leeds\n\nis probably as explosive as it got [for The Who], but, we were still doing... like for example at Woodstock, we played a good chunk of\n\nTommy\n\nand then we played some heavy stuff as well. We did both.\n\n\"The only heavy metal I really listened to was\n\nAC/DC\n\n,\" the legendary guitarist continues. \"I never really got into\n\nLed Zeppelin\n\n, which is strange because I've recently been trying to to get Jimmy Page to have lunch with me. I sent him a note recently just saying, I've been listening to all of the Zeppelin albums again, and there's some fucking great stuff there.\n\n\"It's just that, at the time, I didn't like it that they were in a sense trying to pinch our audience,\" Townshend adds with a laugh. \"I'd been through it before with Jimi Hendrix coming over, with his big amplifiers and his distortion, and his wah-wah pedal and everything else and, having to admit, Wow, here is a guitar genius.\"\n\n\"I was kind of surprised, really, when I started to listen to Led Zeppelin at the the variations.\" Townshend concedes, adding that he knew Jimmy Page could be a 'shredder'. \"I don't know about bands like Black Sabbath and so on because I really didn't listen to them despite the fact that they were great fun. I love the parts of the music business where people don't take themselves too seriously.\"\n\nWatch the interview in full below.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-10-28T17:00:00+00:00",
+      "id": "57bb5f5cbb62bf960c3ce582511ec2bff8a55f78",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): SSMMÜT — “A BLIGHT ON THE PERFECT ORGANISM OF DEATH”",
+      "link": "https://www.nocleansinging.com/2026/10/28/an-ncs-album-premiere-and-a-review-ssmmut-a-blight-on-the-perfect-organism-of-death/",
+      "rss_body": "(written by Islander) SSMMÜTT (please pay careful attention to the umlaut as you sound out the name) is the experimental musical project of Irish producer and illustrator Robert Mirolo, accompanied by a changing cast of supporting characters. The music has rightly been called “shape-shifting”, further described by the label that’s releasing their new album (Cursed\n\n[...]",
+      "tags": "Album Reviews Premieres SSMMÜTT",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T16:51:55+00:00",
+      "id": "981c5a8bac49b73d09cca7641614cf55ed76e3b7",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Review: Ozzy Osbourne and Black Sabbath reign supreme in Back To The Beginning movie",
+      "link": "https://www.loudersound.com/culture/films-tv-shows/ozzy-osbourne-back-to-the-beginning-movie-review",
+      "rss_body": "It's no overstatement to say that\n\nBack To The Beginning\n\nwas the biggest metal gig of all time. From 21st Century stars (Mastodon, Gojira, Halestorm) to best-selling metal giants (Metallica, Guns N' Roses, Slayer, Anthrax), it was a huge celebration of heavy metal over the past half century, all topped off by the final performances from\n\nOzzy Osbourne\n\nand all four original members of\n\nBlack Sabbath\n\n.\n\nWith the show getting a livestream - handy as all 44,000 tickets for Villa Park sold out in minutes - it was never a question that the day would eventually be transported to the big screen, but what form it would take. Now we have an answer.\n\nAcross two and a half hours, we're treated to performances by every band and musician who played that historic gig. And, with this being a celebration of Ozzy and Black Sabbath, naturally the song choices all err towards the covers each band contributed on the day.\n\nBut here's the thing. Whether you watched it at home or managed to bag tickets to be there in person, nothing can prepare you for the emotional tsunami this movie provokes. Exultation, excitement, bittersweetness... It's a full emotional gauntlet across the two and a half hour run-time, knowing as we do that Ozzy would pass away just 17 days after making his final performance.\n\nBut it can't overshadow the triumph of the day. Presented in non-linear order, we hit the ground running with victorious image of Ozzy Osbourne rising from beneath the stage in his throne as footage from Ozzy's history plays out and we see fans visibly weeping before he's sung a note of\n\nI Don't Know\n\n.\n\nThe \"documentary\" footage is kept fairly light throughout, focusing largely on the importance of the gig and how it came together rather than Ozzy's struggles leading up to the big day (which have already been covered in documentaries like\n\nNo Escape From Now\n\nand\n\nSharon And Ozzy Osbourne: Coming Home\n\n). Performances are, as you'd expect, stellar. Mastodon prove an early highlight with a thumping cover of\n\nSupernaut\n\n, complete with an extended drum solo featuring Gojira's Mario Duplantier, Tool's Danny Carey and Slipknot's Eloy Casagrande, while Randy Blythe can't resist dropping some guttural snarls into Lamb Of God's take on\n\nChildren Of The Grave\n\nand Lzzy Hale gives an almighty howl on\n\nPerry Mason\n\n.\n\nIt's those moments that really sell just how momentous this show was, the musicians involved unable to resist getting swept up in the excitement of it all. Every time it cuts to the crowd, we're shown scenes of emotional overload, joyous howling giving way to folks weeping openly during any of the sections where Ozzy or Sabbath are performing.\n\n\"I fucking love you all!\"\n\nThe main man himself feels larger than life even in his final performance. Confined to his throne though he may be, Ozzy repeatedly jumps in the seat and can't stop shouting out to the crowd as the set unfolds, communicating just how much music - and the audience of millions who love him for his contributions to it - mean to him.\n\nAfter the sheer emotional climax of seeing Black Sabbath perform together for the final time, there could be no question on what the final song of the movie could be: 1991 ballad\n\nMama I'm Coming Home\n\nbringing everything to a bawl-your-eyes-out crescendo that'll honestly send chills up your spine as the shots of fireworks over Villa Park fade to a huge floral display for Ozzy in Birmingham city centre. But the movie's not quite over yet. A postscript shares about Ozzy's passing after the show, and we're treated to a clip of Ozzy with a very young Jack Osbourne after his \"final\" concert back in the 90s when he temporarily retired from music.\n\n\"You know, over the years I've made a lot of people happy. But I've sure made a lot of people's heads turn.\"\n\nThe metal world exists as a result. So, amen and God Bless Ozzy Osbourne.\n\nOzzy & Black Sabbath: Back To The Beginning is out in cinemas now. The movie is also being released on formats including 4K Ultra HD, Blu-ray, CD, and vinyl, as well as digitally on December 11th.\n\nRead our review of the full Back To The Beginning event\n\nThe full setlist from Back To The Beginning",
+      "tags": "Films & TV Shows Culture",
+      "category": "Прогрессив",
+      "published": "2026-10-28T16:30:00+00:00",
+      "id": "6d77de32c3c9fd3fceed1a5ee62ca2dc6f235109",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "“I’ve done Genesis, ELP, Yes and King Crimson. It’s cool”: Arjen Lucassen’s rules for his Ayreon album guest lists",
+      "link": "https://www.loudersound.com/music/albums/arjen-lucassen-ayreon-theory-of-everything",
+      "rss_body": "In 2013\n\nArjen Lucassen\n\n’s Ayreon released eighth album\n\nThe Theory Of Everything\n\n. As ever it was a star-studded studio project, this time featuring Keith Emerson, Rick Wakeman, Steve Hackett and John Wetton, among others. That year Lucassen demonstrated a little bit of the character that drove such productions.\n\nIn a competition to find the most guest appearances on one project,\n\nAyreon\n\nwould probably win. Conceptualised, composed, played and produced by Dutch polymath\n\nArjen Lucassen\n\n, 2008 album\n\n01011001\n\nboasted a whopping 16 guests, including\n\nMichael Romeo\n\nand\n\nAnneke van Giersbergen\n\n– and told such an intricate and mind-expanding story that even its creator had trouble following it up.\n\nEven when he was putting the finishing touches to his solo album\n\nLost In The New Real\n\nlast year, Lucassen made no suggestion that another Ayreon album was on the cards. And then, as if from some mysterious vortex that throws out albums without warning,\n\nThe Theory Of Everything\n\nlands in our laps, featuring a heart-stopping cast of suitably progressive magnitude:\n\nRick Wakeman\n\n,\n\nSteve Hackett\n\n,\n\nKeith Emerson\n\nand\n\nJohn Wetton\n\n– the pillars of all things that are indulgently and formidably esoteric – plus\n\nDream Theater\n\n’s\n\nJordan Rudess\n\n,\n\nLacuna Coil\n\n’s\n\nCristina Scabbia\n\nand\n\nNightwish\n\n’s\n\nMarco Hietala\n\n, among others.\n\n“Lori calls it Jedi mind tricks,” says Lucassen, talking about his manager-partner’s take on his high-profile acquisitions. “A lot of them I’ve been trying to get for years, like Keith Emerson and Rick Wakeman. I started with them 15 years ago. I even went to the US to record Keith and I got there and he couldn’t do it because he was doing a gig with other people! It was heartbreaking because those are my keyboard heroes of the 70s and I’ve always wanted to work with them. But now I’ve done\n\nGenesis\n\n,\n\nEmerson Lake & Palmer\n\n,\n\nYes\n\nand\n\nKing Crimson\n\n, and it’s very cool to be able to say that.”\n\nThe latest album, then, has an overtly prog flavour, carried away on a wave of multi-layered musicianship and brilliantly audacious, cinematic soundscapes that are part of the patchwork quilt of Lucassen’s discography. None of the typical epic stance is lost – each vocal part is belted out like a West End stage show, while the instruments, ranging from Uilleann pipes to Irish bouzouki, weave in and out of an opulent sonic tale.\n\nPart of the fun of any Ayreon release is playing Spot The Singer, which fans have been eagerly trying in response to audio clips. “I worked with singers that I’ve never worked with before,” Lucassen says. “People go, ‘I wanna hear\n\nFloor Jansen\n\nagain; I wanna hear\n\nDamian Wilson\n\nagain.’ No, not this time! The voice has to\n\ndo\n\nsomething for me.\n\n“Michael Mills – no one knows of his band Toehider yet; he’s an unknown guy from Australia. But I heard him do some acoustic thing on YouTube and I thought, ‘He’s going to be so good and I want to show the world.’ That guy has so much talent. Then there’s Sara Squadrani from a band called Ancient Bards. She’s so much better than all the others so I just want to give her that chance. The fans expect big names. On one side I want to fulfil people’s expectations, but on the other hand I don’t want to repeat myself – it’s boring for me, and I’m guessing it’s boring for the fans too.”\n\nThat’s why on this album you’ll hear some fresh voices that still fulfil the ‘big name’ brief. “\n\nMarco Hietala\n\ngets to sing these ballads, very low and very dramatic. It’s good for him to show people how good he actually is. He’s so emotional and he acts out the words. The same goes for\n\nCristina Scabbia\n\n–\n\nLacuna Coil\n\nhave a certain style and she’s known for that, but she can do so much more.”\n\nLucassen has a rule (Emerson aside) when it comes to singers on his albums: if they don’t come to him, they don’t get the gig. It’s imperative that he can record his vocalists in the comfort of his Netherlands home. It doesn’t always initially go down well with some of the artists. “Janne Christoffersson of\n\nGrand Magus\n\nsaid he wouldn’t do it because it’s out of his comfort zone. I was like, ‘Idiot! That’s the reason you should do it!’ I said: ‘Come here and I swear you’ll be happy you did it.’ And so he came over. He was actually pretty nervous.”\n\nLucassen doesn’t drink, hates socialising and never goes on tour. His studio is a converted garage with all the technology he needs to produce his albums to crystal clear quality, while Lori pops in to offer constructive criticism. For a self-confessed hermit, the lifestyle suits him perfectly. The luxury of focus pays dividends when it comes to the details of an album – concept, lyrics, artwork. The last seven Ayreon albums have been part of an epic tale about Planet Y and its alien race; but\n\nThe Theory Of Everything\n\nis a new story, exploring themes a little closer to home.\n\n“It’s about this scientist who’s working on a theory. He discovers that his autistic son, who’s really introverted, is actually a prodigy who could help solve the theory of everything. But the only way to get him to do it is make him take a dangerous drug that has side effects.” He explains: “I’ve always been interested in physics. Where did the universe come from? Is it endless? Are there multiple universes? Every time there’s something on TV like Stephen Hawking or Carl Sagan, I always watch it.”\n\nOn the other hand, he accepts the album concept is “idefinitely not about physics.” He explains: “It would be too complicated, and I’m not mathematical at all. You’d think all my stories are these cheesy sci-fis with all these aliens, dragons, kings, diamonds and rings, but at the end it’s always about human emotion in a sci-fi setting. This time it’s not even a sci‑fi setting – there’s no time travel like the last album. It could be now and it could be real.”\n\nI don’t want short catchy songs. I don’t want choruses to repeat over and over. If there are repeats, they’re 20 minutes apart\n\nLucassen is no stranger to working with Lori – they played together on Guilt Machine – but this is the first time they’ve collaborated on lyrics. Fortunately, it was a project Lori could really get her teeth into. “It was something we were both interested in so I felt I could come in and be a part of,” she explains. “But we’re a couple and we both work from home, so we’re around each other 24/7. That makes it hard if to get distance or be critical.”\n\nSpeaking of criticism, are they worried about getting any hate mail from the next Brian Cox? “I would love to get emails from real physicists saying: ‘Oh, you should have never even mentioned sparticles because that’s so 2010,” Lori jokes. “But I hope people don’t take it too seriously.”\n\nEver the perfectionist and no stranger to raising the bar, Lucassen is always ready to try new things; and for\n\nThe Theory Of Everything\n\n, he tried a completely new approach to songwriting.\n\n“I don’t want short catchy songs, I don’t want choruses to repeat over and over. If there are repeats on this album, they are 20 minutes apart. There are no choruses really, so it’s not a catchy album, and I’m sure when people hear it for the first time, they’ll be like, ‘Woah!’”\n\nOf course, there will be plenty of Facebooking with fans in the lead up to the big release, something Lucassen is very passionate about and takes seriously. But in the end, he knows it’s all worth it.\n\n“People tell me that I saved their lives,” he explains with raised eyebrows. “You can’t imagine that I do the same for people that\n\nPink Floyd\n\n,\n\nThe Beatles\n\nand\n\nLed Zeppelin\n\ndid for me. It’s incredible.”",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-10-28T16:00:00+00:00",
+      "id": "3c3596ee4e8c0a07168e235862c1a923df794a73",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Ozzy Osbourne and Black Sabbath’s ‘Back to the Beginning’ Concert Film Coming to Blu-ray and Vinyl In December",
+      "link": "https://metalinjection.net/news/ozzy-osbourne-and-black-sabbaths-back-to-the-beginning-concert-film-coming-to-blu-ray-and-vinyl-in-december",
+      "rss_body": "Tell Santa early.",
+      "tags": "Latest News Ozzy Osbourne Black Sabbath",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T15:57:11+00:00",
+      "id": "1bb14873037daa9138595d38e0f7330f8329c0b4",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Mudvayne’s Chad Gray Covers Christina Aguilera’s “Beautiful”",
+      "link": "https://metalinjection.net/new-music/listen-mudvaynes-chad-gray-covers-christina-aguileras-beautiful",
+      "rss_body": "No one had this on their bingo card.",
+      "tags": "New Music mudvayne chad gray",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T14:32:13+00:00",
+      "id": "9a40677e823afcd8478d2253ecf5adc11ade4806",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Video Premiere: Flesher – ‘Etched in Blood’",
+      "link": "https://www.decibelmagazine.com/2026/10/28/video-premiere-flesher-etched-in-blood/",
+      "rss_body": "Death metal and demonic possession go together like chainsaws and severed limbs. Indianapolis death dealers\n\nFlesher\n\nunderstand this better than most, and their new video for “Etched in Blood” takes a blood-drenched plunge into the twisted universe of\n\nThe Evil Dead\n\n.\n\nTaken from the band’s\n\nGore on Gore\n\nEP, released through Maggot Stomp, “Etched in Blood” delivers a suitably gruesome soundtrack of punishing riffs and old-school death metal brutality. For the accompanying video, Flesher enlisted director and special effects artist Deryk Wehrley to bring their own version of Sam Raimi’s demonic nightmare to life.\n\n“‘Etched In Blood’ was specifically written based on the\n\nEvil Dead\n\nmythos, so when it came time to start brainstorming ideas for the direction of the video, Deryk had a vision that we were instantly sold on,” explains drummer Dustin Boltjes. “We created our own\n\nEvil Dead\n\nuniverse, and we are so stoked on how it was executed. Relentless and brutal. Just like the song itself.”\n\nWehrley previously worked with Flesher on the werewolf-themed video for “Inciting Mutilation,” handling its practical effects. This time, however, he traded the FX department for the director’s chair.\n\n“From first listen, the track ‘Etched in Blood’ off the\n\nGore on Gore\n\nEP had always stood out as a favorite track and I knew that had to be the one,” Wehrley explains. “So I pitched the\n\nEvil Dead\n\nstyle video and they were immediately sold.”\n\nDrawing on his experience in independent horror filmmaking, including his work on\n\nDeathwoods\n\n, Wehrley recruited longtime collaborators Jaren and Corey to give the production a more cinematic, narrative-driven approach.\n\n“The biggest thing for me was just having the opportunity to finally combine my love of heavy metal and horror for this video,” he adds. “I know everyone involved shares that same love and I believe it really shows in the final product.”\n\nGroovy? Absolutely. Just keep that chainsaw handy.\n\nWatch the Decibel premiere of Flesher’s “Etched in Blood” below.\n\nGore on Gore\n\nis available now via Maggot Stomp.\n\nPick up a copy here.",
+      "tags": "Exclusive Streaming Videos death metal Etched in Blood Evil Dead Flesher",
+      "category": "Экстремальный метал",
+      "published": "2026-10-28T13:30:28+00:00",
+      "id": "bdae53d3519971a0f9c9dd84024fddee304b2fbe",
+      "retry_after": 0
     }
   ]
 }
