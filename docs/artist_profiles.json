@@ -1833,7 +1833,7 @@
       "website": "http://manowar.com",
       "reference_url": "https://en.wikipedia.org/wiki/Manowar",
       "reference_checked_at": "2026-10-28T09:04:37.616037+00:00",
-      "tour_attempted_at": "2026-10-23T20:29:47.573619+00:00",
+      "tour_attempted_at": "2026-10-28T20:58:51.456853+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T09:04:37.616151+00:00"
     },
@@ -1863,7 +1863,7 @@
       "website": "http://megadeth.com",
       "reference_url": "https://en.wikipedia.org/wiki/Megadeth",
       "reference_checked_at": "2026-10-28T09:04:38.317019+00:00",
-      "tour_attempted_at": "2026-10-23T20:29:48.500548+00:00",
+      "tour_attempted_at": "2026-10-28T20:58:52.204861+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T09:04:38.317141+00:00"
     },
@@ -1897,7 +1897,7 @@
       "website": "http://meshuggah.net",
       "reference_url": "https://en.wikipedia.org/wiki/Meshuggah",
       "reference_checked_at": "2026-10-28T09:04:38.803876+00:00",
-      "tour_attempted_at": "2026-10-23T20:29:52.844094+00:00",
+      "tour_attempted_at": "2026-10-28T20:58:54.724182+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T09:04:38.803899+00:00"
     },
@@ -1927,7 +1927,7 @@
       "website": "http://metallica.com",
       "reference_url": "https://en.wikipedia.org/wiki/Metallica",
       "reference_checked_at": "2026-10-28T09:04:39.438341+00:00",
-      "tour_attempted_at": "2026-10-23T20:29:53.621226+00:00",
+      "tour_attempted_at": "2026-10-28T20:58:55.442718+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T09:04:39.438523+00:00"
     },
@@ -2260,10 +2260,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://painofsalvation.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pain_Of_Salvation",
-      "reference_checked_at": "2026-10-21T15:45:36.878957+00:00",
+      "reference_checked_at": "2026-10-28T20:58:48.887620+00:00",
       "tour_attempted_at": "2026-10-24T01:59:21.747906+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T15:45:36.879025+00:00"
+      "reference_attempted_at": "2026-10-28T20:58:48.887725+00:00"
     },
     "ozzy-osbourne": {
       "origin": "Aston , Birmingham, England",
@@ -2273,10 +2273,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ozzy.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ozzy_Osbourne",
-      "reference_checked_at": "2026-10-21T15:45:37.199340+00:00",
+      "reference_checked_at": "2026-10-28T20:58:49.291410+00:00",
       "tour_attempted_at": "2026-10-24T01:59:22.152207+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T15:45:37.199515+00:00"
+      "reference_attempted_at": "2026-10-28T20:58:49.291691+00:00"
     },
     "powerman-5000": {
       "origin": "Boston, Massachusetts , U.S.",
@@ -2307,10 +2307,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://powerman5000.com",
       "reference_url": "https://en.wikipedia.org/wiki/Powerman_5000",
-      "reference_checked_at": "2026-10-21T15:45:37.286250+00:00",
+      "reference_checked_at": "2026-10-28T20:58:49.394765+00:00",
       "tour_attempted_at": "2026-10-24T07:20:24.512228+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T15:45:37.286270+00:00"
+      "reference_attempted_at": "2026-10-28T20:58:49.394787+00:00"
     },
     "pink-floyd": {
       "origin": "London, England",
@@ -2329,10 +2329,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://pinkfloyd.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pink_Floyd",
-      "reference_checked_at": "2026-10-21T15:45:37.633238+00:00",
+      "reference_checked_at": "2026-10-28T20:58:49.887510+00:00",
       "tour_attempted_at": "2026-10-24T07:20:24.835405+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T15:45:37.633367+00:00"
+      "reference_attempted_at": "2026-10-28T20:58:49.887798+00:00"
     },
     "porcupine-tree": {
       "origin": "Hemel Hempstead , Hertfordshire , England",
@@ -2355,10 +2355,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://porcupinetree.com",
       "reference_url": "https://en.wikipedia.org/wiki/Porcupine_Tree",
-      "reference_checked_at": "2026-10-21T15:45:37.885475+00:00",
+      "reference_checked_at": "2026-10-28T20:58:50.498111+00:00",
       "tour_attempted_at": "2026-10-24T07:20:24.972833+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T15:45:37.885493+00:00"
+      "reference_attempted_at": "2026-10-28T20:58:50.498132+00:00"
     },
     "queensryche": {
       "origin": "Bellevue, Washington , U.S.",
@@ -2389,10 +2389,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://queensrycheofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Queensr%C3%BFche",
-      "reference_checked_at": "2026-10-21T15:45:38.016544+00:00",
+      "reference_checked_at": "2026-10-28T20:58:50.675260+00:00",
       "tour_attempted_at": "2026-10-24T07:20:26.474903+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T15:45:38.016566+00:00"
+      "reference_attempted_at": "2026-10-28T20:58:50.675278+00:00"
     },
     "rammstein": {
       "origin": "Berlin , Germany",
