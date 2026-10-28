@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-27T02:38:19.086417+00:00"
+      "bandcamp_checked_at": "2026-10-28T09:05:11.087387+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -32205,6 +32205,691 @@
           "source_url": "https://musicbrainz.org/release-group/fed7262b-2f24-4dee-8f8e-b6b50f5706df"
         }
       ]
+    },
+    "sepultura": {
+      "name": "Sepultura",
+      "musicbrainz_url": "https://musicbrainz.org/artist/1d93c839-22e7-4f76-ad84-d27039efc048",
+      "reference_checked_at": "2026-10-28T09:04:56.029839+00:00",
+      "genres": "alternative metal, death metal, groove metal, heavy metal, metal, thrash metal",
+      "website": "https://www.sepultura.com.br/",
+      "members": [
+        {
+          "name": "Paulo Jr.",
+          "role": "electric bass guitar",
+          "begin": "1984"
+        },
+        {
+          "name": "Andreas Kisser",
+          "role": "electric guitar",
+          "begin": "1986"
+        },
+        {
+          "name": "Derrick Green",
+          "role": "lead vocals",
+          "begin": "1997"
+        },
+        {
+          "name": "Greyson Nekrutman",
+          "role": "drums (drum set)",
+          "begin": "2024-03"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/1d93c839-22e7-4f76-ad84-d27039efc048",
+      "albums": [
+        {
+          "name": "Revolusongs",
+          "date": "2002-11-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/01ec6280-d81c-3c77-94f0-ba9c2a17fd28"
+        },
+        {
+          "name": "Metal Veins: Alive at Rock in Rio",
+          "date": "2014-09-12",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/04c74599-f7c2-4a39-9932-0df58abe3c86"
+        },
+        {
+          "name": "Arise Alive",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/068b2bba-4874-4f69-bad9-393faab71025"
+        },
+        {
+          "name": "The Mediator Between Head and Hands Must Be the Heart",
+          "date": "2013-10-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/06c41147-e3ea-413d-95f4-ac1fc4ea5017"
+        },
+        {
+          "name": "Quadra",
+          "date": "2020-02-07",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0cbc9d22-1a97-4930-8a95-b936cdaaa751"
+        },
+        {
+          "name": "Attitude",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0de53070-3bf9-3847-8039-3fc90f1d1a54"
+        },
+        {
+          "name": "Under a Pale Grey Sky",
+          "date": "2002-09-28",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0f37d390-edd8-35e9-863e-ff4285e10678"
+        },
+        {
+          "name": "Morbid Visions / Bestial Devastation",
+          "date": "1991-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/10028b15-8270-46d6-b958-96f78b10314c"
+        },
+        {
+          "name": "Apes of God",
+          "date": "2021-07-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/13e25624-5be5-4576-b9eb-3f880f694c30"
+        },
+        {
+          "name": "1991-05-03: Teatro Castro Alves, Salvador, Brazil",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/17640c7a-258c-30aa-8af0-4d12f6a17183"
+        },
+        {
+          "name": "Against",
+          "date": "1998-10-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/19d97fc6-d551-3f3a-8194-962ec2901fa4"
+        },
+        {
+          "name": "Under Siege: Live in Barcelona",
+          "date": "1992-01-27",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1dba6837-17e3-381a-928a-43d9361cd828"
+        },
+        {
+          "name": "Machine Messiah",
+          "date": "2017-01-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1f0c2ccb-60ec-4a86-a5b0-3a5e6c15352e"
+        },
+        {
+          "name": "The Roadrunner Albums: 1985–1996",
+          "date": "2017-01-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2dcf09c8-72c3-40c5-ac81-b2ce55ac0ad5"
+        },
+        {
+          "name": "Morbid Visions",
+          "date": "1986-11-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2f3367ab-820f-3788-b7f3-d729b69efc83"
+        },
+        {
+          "name": "Last Time",
+          "date": "2019-12-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2fabb46f-9062-4bd3-9b33-4c5496a6bb34"
+        },
+        {
+          "name": "Innerself Life",
+          "date": "1993",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/31e921d0-2622-4352-b8f1-702cddb7c6d4"
+        },
+        {
+          "name": "Bestial Devastation",
+          "date": "1990",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3295a00e-761d-3d01-9c3f-7e1a817fd026"
+        },
+        {
+          "name": "Nation",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/34aa55f2-40a5-471c-af87-71742d2632b3"
+        },
+        {
+          "name": "Schizophrenia",
+          "date": "1987-10-30",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3531f7dd-5748-3f09-9549-47ae6f53b97c"
+        },
+        {
+          "name": "Coquinho",
+          "date": "2008-11-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/40218a13-2081-4318-be49-ef9b6d7b14c6"
+        },
+        {
+          "name": "Blood-Rooted",
+          "date": "1997-08-05",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/41488fff-cc1c-3cd3-bf45-eff26c49a5e2"
+        },
+        {
+          "name": "Roots Bloody Roots",
+          "date": "1996-02-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/491c6aa4-009e-34be-88d6-07dd36b127ba"
+        },
+        {
+          "name": "Territory",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4a016aca-7d69-46c8-a5f2-a35a7118c072"
+        },
+        {
+          "name": "Kairos (live at Wacken, 2018)",
+          "date": "2019-06-07",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4b281075-ca1b-4a7c-bb55-6c9be6dd250b"
+        },
+        {
+          "name": "Live at Rock in Rio",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4bc776ee-b65d-3a8d-8395-8e9a3c43af65"
+        },
+        {
+          "name": "American Devastation",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4ead8d78-b9dc-4e5b-8490-5f4df5c2ab65"
+        },
+        {
+          "name": "Século X.X. / Bestial Devastation",
+          "date": "1985-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4f0dabc1-98a5-40d5-9a11-b918103e5cfe"
+        },
+        {
+          "name": "The Place",
+          "date": "2026-02-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/567c884f-e96c-4f84-8963-3513d41c4d4c"
+        },
+        {
+          "name": "Slave New World",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5a4a79c6-b0dd-3282-9bf9-ac508168745e"
+        },
+        {
+          "name": "Sarcastic Existence: Live in Völklingen",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5aedaf5d-7ca8-3df0-8a64-d42dc7662f42"
+        },
+        {
+          "name": "Roots (live in Paris)",
+          "date": "1999",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/5dcd8208-5737-37df-a626-c3df7cee5eb9"
+        },
+        {
+          "name": "Arise",
+          "date": "1992-02-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5fc9ba9d-bc39-38fc-a479-eadbf0f3a933"
+        },
+        {
+          "name": "1996-08-28: Roskilde Festival, Denmark",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/63dcba5a-e096-3143-b49d-2b71df27dcc9"
+        },
+        {
+          "name": "Godly Beings",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/63df002f-d21d-4149-9f8f-d9006d1827d6"
+        },
+        {
+          "name": "Nation",
+          "date": "2001-03-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/65679f26-8680-3922-9b49-9365e27b1fd4"
+        },
+        {
+          "name": "Roorback",
+          "date": "2003-05-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6580cca2-e797-3fc0-b911-1695510aa2dd"
+        },
+        {
+          "name": "Mask",
+          "date": "2021-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6a22e908-cf8d-4482-ac61-0c3409cdde61"
+        },
+        {
+          "name": "Ratamahatta",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6c7443ef-cd9d-376a-aacc-183a732bead4"
+        },
+        {
+          "name": "Tainted Love",
+          "date": "2020-10-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6cac5168-aad2-4c82-8682-3b48845ac31e"
+        },
+        {
+          "name": "Beneath the Remains",
+          "date": "1989-11-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6d9c2a90-603d-34b5-b855-dd20e61971b7"
+        },
+        {
+          "name": "Arise",
+          "date": "1991-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/6d9ffabb-233a-3cc1-9ac3-d2a8e4c99cdd"
+        },
+        {
+          "name": "Isolation",
+          "date": "2019-11-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6f3190ba-e829-46a1-8de7-7af8b557da9b"
+        },
+        {
+          "name": "1990-06-04: Dynamo Festival, Eindhoven, Netherlands",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/72193fa9-dc04-3750-8093-3339b367bbe5"
+        },
+        {
+          "name": "Live Voltage",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7f11cd89-f697-3eef-84d1-95a11f37b9b5"
+        },
+        {
+          "name": "Dead Embryonic Cells / Get In Line",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/82031ce2-8ebd-4a31-9e91-1fda31282a98"
+        },
+        {
+          "name": "A Fist in Your Face",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/84d7cd80-6a14-4875-90ea-8f7fe53a935d"
+        },
+        {
+          "name": "Nation 2 Track Sampler",
+          "date": "2001",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/87ed309f-5a2d-431e-a208-d2cacb2038d6"
+        },
+        {
+          "name": "B-Sides",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8bcf0f6a-3cf2-335c-a06c-aa01accea034"
+        },
+        {
+          "name": "Tribus",
+          "date": "1999-06-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8f8ec547-6fd1-373d-87df-cb2126beccf3"
+        },
+        {
+          "name": "Dante XXI",
+          "date": "2006-03-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/926122c8-5a26-3d42-9dd8-2de1055125d8"
+        },
+        {
+          "name": "Natural Born Blasters",
+          "date": "1996",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/932b2f08-0839-3227-9bac-58a35498481d"
+        },
+        {
+          "name": "1994‐06‐04: Monsters of Rock, Donington Park, Castle Donington, UK",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/93c2847c-a025-3789-bbee-8dffb8ca9832"
+        },
+        {
+          "name": "Sepultura: The Complete Max Cavalera Collection 1987–1996",
+          "date": "2013",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/98d43ffe-6cb4-4f4f-b889-9245b1b6f68f"
+        },
+        {
+          "name": "Against / Nation",
+          "date": "2008-02-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/99d2ec69-9076-47bc-bf7c-ae7b20b16906"
+        },
+        {
+          "name": "Above the Remains (Official Bootleg: Live in Germany ’89)",
+          "date": "2018-10-16",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9acd95a2-0dbc-4b32-b64f-72638fe087f3"
+        },
+        {
+          "name": "The Cloud of Unknowing",
+          "date": "2026-04-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9bc275b9-d1d5-48c1-9d24-3eca079a34c5"
+        },
+        {
+          "name": "1990‐05‐28: Marquee Club, London, England, UK",
+          "date": "1990",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a041b716-8af7-3627-b740-b08dc6854047"
+        },
+        {
+          "name": "Procreation of the Wicked",
+          "date": "1997-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a34e0f7e-5fe1-4a5f-8ab7-afe253941238"
+        },
+        {
+          "name": "The Age of the Atheist",
+          "date": "2013-09-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a797fc63-618e-4296-8404-b22318691659"
+        },
+        {
+          "name": "Morbid Visions / Bestial Devastation",
+          "date": "1991-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a82a6e65-ba17-3e2d-8ae0-0326a78dbefe"
+        },
+        {
+          "name": "Territory",
+          "date": "1993",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a97eafaf-f692-3e68-919a-8494a9c43797"
+        },
+        {
+          "name": "Elder Gods",
+          "date": "2015-02-24",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/abca39ee-ddbb-4893-b08d-e7c1fa471a43"
+        },
+        {
+          "name": "Donington ’96",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ac3c1e95-e5b1-4624-a5e1-2c26c827718a"
+        },
+        {
+          "name": "Dead Embryonic Cells",
+          "date": "1991-06-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ac406e2e-ed09-370f-ab7d-1bf7d5789e8b"
+        },
+        {
+          "name": "Sepultura Under My Skin",
+          "date": "2015-06-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aca46d29-d788-4b21-b0ae-1cbb8832798e"
+        },
+        {
+          "name": "Black Steel in the Hour of Chaos",
+          "date": "2021-08-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/af6f382e-5944-40b0-9bf9-b4a867af2b9e"
+        },
+        {
+          "name": "Choke",
+          "date": "1998-11-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b25abbb6-be32-3f61-991f-1494f26d24a0"
+        },
+        {
+          "name": "DarkSide",
+          "date": "2015-10-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b4a3a59b-4485-4e82-979d-8320a8f728d5"
+        },
+        {
+          "name": "Live in São Paulo",
+          "date": "2005-11-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b51fc920-ddc8-3612-bd0d-474169263634"
+        },
+        {
+          "name": "Chaos A.D.",
+          "date": "1993-09-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b53fdd53-f70c-3580-ad92-04f7fe77b254"
+        },
+        {
+          "name": "live, 1996-02-22: Melkweg, Amsterdam, Netherlands",
+          "date": "1996",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b5ad4e0b-a5a4-4754-bf73-fe6e34ed4ee5"
+        },
+        {
+          "name": "Sonoria Festival Milan '94",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/bd0e8816-6f54-459e-a452-456178aec895"
+        },
+        {
+          "name": "destruição (live)",
+          "date": "2025-08-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c588a99a-abec-4299-809b-10d0bfecd566"
+        },
+        {
+          "name": "The Best of Sepultura",
+          "date": "2006",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c72b0396-5920-35a1-b96d-4faf0896c8db"
+        },
+        {
+          "name": "1993‐11‐16: PalaSesto, Sesto San Giovanni, Italy",
+          "date": "1994",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c7d69564-9fdf-3122-bf83-55297c35142a"
+        },
+        {
+          "name": "Under Siege (Regnum Irae)",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ce141cf7-9b0b-3e8d-92db-75d80e50a063"
+        },
+        {
+          "name": "A-Lex",
+          "date": "2009-01-23",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d0624e76-739f-37db-92f8-fa47257042ce"
+        },
+        {
+          "name": "1991‐06‐07: Noorderligt, Tilburg, Netherlands",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d0ca8c42-89a5-4836-8a77-7a87f433f0ca"
+        },
+        {
+          "name": "Beyond the Dream",
+          "date": "2026-03-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d495d69d-c78e-44be-8acb-6d0b47099e9f"
+        },
+        {
+          "name": "SepulQuarta",
+          "date": "2021-08-13",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d51d770d-3d1f-4206-97a9-a3f0e61448f9"
+        },
+        {
+          "name": "Kairos",
+          "date": "2011-06-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d5a2ca6d-9e7b-4d11-b44a-64d44eeb9394"
+        },
+        {
+          "name": "Cemetery Gates (Demon Knight edit)",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d732766e-97b0-3e12-bc9e-e90e06e603ae"
+        },
+        {
+          "name": "Apes of God (live)",
+          "date": "2022-05-05",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d7ced56d-74f3-4f74-8a40-d0ae761e7e0a"
+        },
+        {
+          "name": "Dupla identidade",
+          "date": "2014-10-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/dc0165da-3851-4158-b85f-bfafd843d381"
+        },
+        {
+          "name": "Morbid Visions / Cease to Exist",
+          "date": "1989",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/dd8241bd-d9d3-3947-be28-8ebe7f5bfe3e"
+        },
+        {
+          "name": "2009-03-02: 1Rock, Moscow, Russia",
+          "date": "2009",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e267a8c4-3e8a-4d23-a7e0-e7e3d41c5d6e"
+        },
+        {
+          "name": "Pain & Hate",
+          "date": "1997",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e4017193-cebb-4eb5-9d67-62b2956a904d"
+        },
+        {
+          "name": "Third World Posse",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e6db9803-dbb3-3061-9952-7cda9794f198"
+        },
+        {
+          "name": "We Are A Fuckin' Shit! (RDP + Sepultura 80's Jam Sessions)",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/edf2675a-0cd8-4c36-96c6-6fa02cfc2a5c"
+        },
+        {
+          "name": "The Best of Sepultura – Chaos in the Jungle",
+          "date": "1997",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ee059b9a-d01b-4082-a21b-bd630cb5cb4f"
+        },
+        {
+          "name": "Against",
+          "date": "1999",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ee3bbfa5-1afa-328d-80a9-69f05ba4fd39"
+        },
+        {
+          "name": "Sepulnation: The Studio Albums 1998–2009",
+          "date": "2021-10-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f271859c-276c-4ec2-a14f-20c18f4cc95f"
+        },
+        {
+          "name": "Live & Alive",
+          "date": "1995",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f3c5a566-6dd6-30d2-a485-ecf2cc966345"
+        },
+        {
+          "name": "Roots",
+          "date": "1996-02-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f625cd30-9427-360b-b63d-e294d23b1980"
+        },
+        {
+          "name": "Refuse/Resist",
+          "date": "1994",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f8974133-c420-343e-9322-10bf6c21244c"
+        },
+        {
+          "name": "1991‐05‐28: L’Aéronef, Lille, France",
+          "date": "1991",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fe2c4b00-0ee9-3060-9a99-121b9c22772d"
+        }
+      ]
+    },
+    "set-your-goals": {
+      "name": "Set Your Goals",
+      "musicbrainz_url": "https://musicbrainz.org/artist/03d8f83e-a647-4bde-968a-189c0f147783",
+      "reference_checked_at": "2026-10-28T09:05:01.718756+00:00",
+      "genres": "easycore, pop punk, post-hardcore",
+      "website": "http://setyourgoalsband.com/",
+      "members": [
+        {
+          "name": "Michael Ambrose",
+          "role": "",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/03d8f83e-a647-4bde-968a-189c0f147783",
+      "albums": [
+        {
+          "name": "Finished Promo Tracks",
+          "date": "2006-05-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/29634b37-fd0e-3e48-bbd0-87c7fa685a9e"
+        },
+        {
+          "name": "This Will Be the Death of Us",
+          "date": "2009-07-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/4017e968-cf90-4256-a8ec-ed66b0e620a6"
+        },
+        {
+          "name": "Burning at Both Ends",
+          "date": "2011-06-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5aad3ab2-4dc7-4336-b455-1379b33f0b23"
+        },
+        {
+          "name": "Certain",
+          "date": "2011-05-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7354a720-09bc-4b9c-b3c1-40d461b678bd"
+        },
+        {
+          "name": "Mutiny!",
+          "date": "2006-07-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/7e72ab03-8116-3d30-80fe-82b2d891087a"
+        },
+        {
+          "name": "The Reset Demo (10 Year Anniversary Edition)",
+          "date": "2014-04-19",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/83929b77-ccb6-451d-a782-a6e087a4a77c"
+        },
+        {
+          "name": "Steal Your Goals",
+          "date": "2006-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8c300bbe-bc01-3143-90a0-5e9175febaad"
+        },
+        {
+          "name": "Set Your Goals",
+          "date": "2005-04-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8f09d5f0-ef69-4d74-8903-44ab77eb20c0"
+        },
+        {
+          "name": "Only Right Now + I'll Walk It Off",
+          "date": "2012-04-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a23ca4b0-7a5b-4828-b1b0-039df11eb6ad"
+        }
+      ]
     }
   },
   "checked": {
@@ -32304,8 +32989,8 @@
     "rush": "2026-10-27T23:18:28.978520+00:00",
     "saxon": "2026-10-28T02:35:06.170273+00:00",
     "scorpions": "2026-10-28T02:35:07.371051+00:00",
-    "sepultura": "2026-10-17T19:45:05.362905+00:00",
-    "set-your-goals": "2026-10-17T19:45:06.617079+00:00",
+    "sepultura": "2026-10-28T09:04:56.030029+00:00",
+    "set-your-goals": "2026-10-28T09:05:01.718827+00:00",
     "shogun-mojo": "2026-10-17T21:47:49.725825+00:00",
     "skid-row": "2026-10-17T21:47:50.979525+00:00",
     "slayer": "2026-10-17T23:34:38.241631+00:00",
