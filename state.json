@@ -1105,19 +1105,11 @@
     "1ee3d04d18d14555e357d664c0150bfcb96647b7",
     "d86ec46c9a919dad0b1fbb6a97935d8466b7ddc0",
     "a5fab999beddbe8fd61cd8186f44254f4cade8c7",
-    "b1826c73d395d7824c8b7dac46ad0b844fe72f4f"
+    "b1826c73d395d7824c8b7dac46ad0b844fe72f4f",
+    "8dd2503e75c281623dad651414348bedb9a5a287",
+    "33b3139e3d65220749a3ad44bf10f8e0fe61309d"
   ],
   "recent_titles": [
-    {
-      "title": "Misery Index’s “Overthrow” Set For Newly Remastered 25th Anniversary Edition",
-      "source": "ThePRP",
-      "ts": 1792711415
-    },
-    {
-      "title": "Imminence Share “Crestfallen” Performance From Ystads Theater",
-      "source": "ThePRP",
-      "ts": 1792711418
-    },
     {
       "title": "HALF ME Launch Music Video Combining Three Tracks From Their New Album “Dogma”",
       "source": "ThePRP",
@@ -1907,6 +1899,16 @@
       "title": "Live Review: DYING FETUS and SANGUISUGABOGG at Emo’s (Austin, TX – 10/15/26)",
       "source": "Decibel",
       "ts": 1793154624
+    },
+    {
+      "title": "The String Cheese Incident Reveal First 2027 Tour Dates",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793177970
+    },
+    {
+      "title": "Final Gasp Stream “New Day Symptoms” B-Side Track “Aftermath”",
+      "source": "ThePRP",
+      "ts": 1793177973
     }
   ],
   "initialized_sources": [
@@ -3425,7 +3427,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T14:13:37+00:00",
       "id": "be1139c09e1ee624d67752284d3e006095c725f3",
-      "retry_after": 1793155155
+      "retry_after": 1793178565
     },
     {
       "source": "Louder",
@@ -3437,7 +3439,7 @@
       "category": "Хард-рок",
       "published": "2026-10-19T13:05:00+00:00",
       "id": "fd69b0ebe2bd4ff9c14b98c65d99254962b24c38",
-      "retry_after": 1793155158
+      "retry_after": 1793178571
     },
     {
       "source": "Metal Injection",
@@ -3449,7 +3451,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T20:46:28+00:00",
       "id": "89599497293a46a23cf1bbd976b46cee48fb6f92",
-      "retry_after": 1793155154
+      "retry_after": 1793178565
     },
     {
       "source": "Metal Injection",
@@ -3461,7 +3463,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T20:15:49+00:00",
       "id": "4e7d490c705992631896877d4b6801c02d85dece",
-      "retry_after": 1793155155
+      "retry_after": 1793178565
     },
     {
       "source": "Metal Injection",
@@ -3473,7 +3475,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T16:43:30+00:00",
       "id": "215f3c05f1717ab4472d1bb78dd3e2e825dbfc54",
-      "retry_after": 1793155155
+      "retry_after": 1793178565
     },
     {
       "source": "Metal Injection",
@@ -3485,7 +3487,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-19T15:34:21+00:00",
       "id": "5f78597e52e1e77b5cd6fb67a9b926366f28da59",
-      "retry_after": 1793155155
+      "retry_after": 1793178565
     },
     {
       "source": "Louder",
@@ -3497,7 +3499,7 @@
       "category": "Прогрессив",
       "published": "2026-10-20T03:05:00+00:00",
       "id": "910b04df30a9352ee34e74f8dbff5100c711e746",
-      "retry_after": 1793155152
+      "retry_after": 1793178560
     },
     {
       "source": "Louder",
@@ -3509,7 +3511,7 @@
       "category": "Прогрессив",
       "published": "2026-10-20T01:09:38+00:00",
       "id": "d5b13cbbed3ae788755cf283cc938f9eb3dba36f",
-      "retry_after": 1793155154
+      "retry_after": 1793178565
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3521,7 +3523,7 @@
       "category": "Хард-рок",
       "published": "2026-10-20T14:47:23+00:00",
       "id": "5e8402e65a90a9db4cc3da522ba87cc80c7bae5a",
-      "retry_after": 1793155147
+      "retry_after": 1793178549
     },
     {
       "source": "Metal Injection",
@@ -3533,7 +3535,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T14:26:19+00:00",
       "id": "2d0e3d559d6fffa0c5743c8833d4077e77571dd8",
-      "retry_after": 1793155147
+      "retry_after": 1793178550
     },
     {
       "source": "Metal Injection",
@@ -3545,7 +3547,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T13:14:40+00:00",
       "id": "2e8df00fe1d468b2b0b57e36fbb14a139853e8a4",
-      "retry_after": 1793155147
+      "retry_after": 1793178550
     },
     {
       "source": "Metal Injection",
@@ -3557,7 +3559,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T18:33:13+00:00",
       "id": "33e13b0eec3f3dd9fcb9c8e28ab5a68a01b90f85",
-      "retry_after": 1793155130
+      "retry_after": 1793178534
     },
     {
       "source": "ThePRP",
@@ -3569,7 +3571,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T18:13:02+00:00",
       "id": "6a9172fc4bab7ca5aeb402cf428750c24298e880",
-      "retry_after": 1793155143
+      "retry_after": 1793178544
     },
     {
       "source": "Metal Injection",
@@ -3581,7 +3583,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T17:22:26+00:00",
       "id": "70ea150b32b0a3584cd536c87e4e78ff4ed3f8b0",
-      "retry_after": 1793155143
+      "retry_after": 1793178544
     },
     {
       "source": "Metal Injection",
@@ -3593,7 +3595,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T16:44:25+00:00",
       "id": "3dbbede0b0cfb9e887f50da6aa77691e5f1085cb",
-      "retry_after": 1793155143
+      "retry_after": 1793178544
     },
     {
       "source": "Metal Injection",
@@ -3605,7 +3607,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T16:09:18+00:00",
       "id": "448e220074bf5c6ec63d71c9def7319becfa0c36",
-      "retry_after": 1793155143
+      "retry_after": 1793178544
     },
     {
       "source": "Metal Injection",
@@ -3617,7 +3619,7 @@
       "category": "Прогрессив",
       "published": "2026-10-20T15:02:24+00:00",
       "id": "57154af41f8981b22ba1ee430c4cf719368045d9",
-      "retry_after": 1793155143
+      "retry_after": 1793178544
     },
     {
       "source": "ThePRP",
@@ -3629,7 +3631,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-20T20:22:01+00:00",
       "id": "5f4aef02aba41525f00be9728bc1e635bb9cd6d6",
-      "retry_after": 1793155100
+      "retry_after": 1793178529
     },
     {
       "source": "Metal Injection",
@@ -3641,7 +3643,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-20T20:14:35+00:00",
       "id": "b38e69e533f7c2dcc065219ae8b13ef3884c719a",
-      "retry_after": 1793155100
+      "retry_after": 1793178529
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3653,7 +3655,7 @@
       "category": "Хард-рок",
       "published": "2026-10-20T20:10:44+00:00",
       "id": "2a43a85a58d77af7ac04c31d1d15d8fc835c46d8",
-      "retry_after": 1793155130
+      "retry_after": 1793178534
     },
     {
       "source": "Metal Injection",
@@ -3665,7 +3667,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T15:10:06+00:00",
       "id": "30830af5458b317f2bde65f41084320ee5cdad31",
-      "retry_after": 1793155094
+      "retry_after": 1793178524
     },
     {
       "source": "Metal Injection",
@@ -3677,7 +3679,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T14:29:46+00:00",
       "id": "239a721986c0cbdf4af722bbb7a531c325f6a6b1",
-      "retry_after": 1793155094
+      "retry_after": 1793178524
     },
     {
       "source": "Metal Injection",
@@ -3689,7 +3691,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T14:13:43+00:00",
       "id": "26e0abee154a12ad19dad3bff8a236c6c7b8fa95",
-      "retry_after": 1793155094
+      "retry_after": 1793178524
     },
     {
       "source": "Metal Injection",
@@ -3701,7 +3703,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T19:34:37+00:00",
       "id": "d1ee1b0931d0bcde88bcf084d8cd82f7f281c362",
-      "retry_after": 1793155085
+      "retry_after": 1793178510
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3713,7 +3715,7 @@
       "category": "Хард-рок",
       "published": "2026-10-21T19:19:34+00:00",
       "id": "c58de7178017ef2df6887f7db7daf138c145c110",
-      "retry_after": 1793155090
+      "retry_after": 1793178517
     },
     {
       "source": "Metal Injection",
@@ -3725,7 +3727,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T18:42:14+00:00",
       "id": "e76072366a79a333e118741eaa4e074024ecc6b0",
-      "retry_after": 1793155090
+      "retry_after": 1793178517
     },
     {
       "source": "Metal Injection",
@@ -3737,7 +3739,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T18:05:25+00:00",
       "id": "8333faf6d1c99f96d382aea496b54b5251133172",
-      "retry_after": 1793155091
+      "retry_after": 1793178517
     },
     {
       "source": "Metal Injection",
@@ -3749,7 +3751,7 @@
       "category": "Прогрессив",
       "published": "2026-10-21T17:19:37+00:00",
       "id": "c000d0b65b27adeb4dfddcace6311217f8a11e78",
-      "retry_after": 1793155091
+      "retry_after": 1793178517
     },
     {
       "source": "Decibel",
@@ -3761,7 +3763,7 @@
       "category": "Прогрессив",
       "published": "2026-10-21T16:00:46+00:00",
       "id": "135a467714a6e41a67f7991d12878b75db4fa0d5",
-      "retry_after": 1793155094
+      "retry_after": 1793178524
     },
     {
       "source": "Metal Injection",
@@ -3773,7 +3775,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T15:26:10+00:00",
       "id": "d4380dfdf8d80ff81edf42cbe0781406df9fcc2c",
-      "retry_after": 1793155094
+      "retry_after": 1793178524
     },
     {
       "source": "Metal Injection",
@@ -3785,7 +3787,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T21:01:51+00:00",
       "id": "e33886430e8631d7bc8766db7250f00352799395",
-      "retry_after": 1793155085
+      "retry_after": 1793178510
     },
     {
       "source": "ThePRP",
@@ -3797,7 +3799,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T00:26:27+00:00",
       "id": "e37d3424cecd4b467ab1c22ad5814f30c4513ea9",
-      "retry_after": 1793155080
+      "retry_after": 1793178504
     },
     {
       "source": "ThePRP",
@@ -3809,7 +3811,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-21T23:50:16+00:00",
       "id": "cf82ba1fd8519adf766294c270a4c36d37cbb2f1",
-      "retry_after": 1793155085
+      "retry_after": 1793178510
     },
     {
       "source": "Metal Injection",
@@ -3821,7 +3823,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T15:32:56+00:00",
       "id": "ac8dc65c6820c6b9f770690ddf8f3e86bdd19687",
-      "retry_after": 1793155046
+      "retry_after": 1793178464
     },
     {
       "source": "Metal Injection",
@@ -3833,7 +3835,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T14:42:23+00:00",
       "id": "d05633f54cb8907cf7137d4e100a73ae615d1e91",
-      "retry_after": 1793155046
+      "retry_after": 1793178464
     },
     {
       "source": "Metal Injection",
@@ -3845,7 +3847,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T13:47:38+00:00",
       "id": "21e8a741425459590d3fec44e3909b2175342bc4",
-      "retry_after": 1793155046
+      "retry_after": 1793178464
     },
     {
       "source": "Louder",
@@ -3857,7 +3859,7 @@
       "category": "Прогрессив",
       "published": "2026-10-22T13:34:53+00:00",
       "id": "6eeb08c1c473addc4773d647dfa1505b37547d57",
-      "retry_after": 1793155069
+      "retry_after": 1793178488
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3869,7 +3871,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T11:51:54+00:00",
       "id": "509d2bee17abebafaa81efc222aaf9ae45411074",
-      "retry_after": 1793155077
+      "retry_after": 1793178501
     },
     {
       "source": "Metal Injection",
@@ -3881,7 +3883,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T17:13:50+00:00",
       "id": "d5fdd946abcf47a1d6773b84159a6e3fd322a98e",
-      "retry_after": 1793155032
+      "retry_after": 1793178434
     },
     {
       "source": "Louder",
@@ -3893,7 +3895,7 @@
       "category": "Прогрессив",
       "published": "2026-10-22T17:00:00+00:00",
       "id": "410167cbfc4aa31f9862759d07e770425ab6d270",
-      "retry_after": 1793155035
+      "retry_after": 1793178442
     },
     {
       "source": "No Clean Singing",
@@ -3905,7 +3907,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T16:38:18+00:00",
       "id": "36bc18157eb99265a2b60193acfc9bd98fca81b3",
-      "retry_after": 1793155037
+      "retry_after": 1793178447
     },
     {
       "source": "Ultimate Classic Rock",
@@ -3917,7 +3919,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T16:06:59+00:00",
       "id": "ecf6b753709a47908ac93761781b53c37560f5e4",
-      "retry_after": 1793155045
+      "retry_after": 1793178463
     },
     {
       "source": "Metal Injection",
@@ -3929,7 +3931,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-22T15:56:25+00:00",
       "id": "06b14815517432a5ae4144cc30568c5f2d4c7ac2",
-      "retry_after": 1793155045
+      "retry_after": 1793178463
     },
     {
       "source": "Metal Injection",
@@ -3941,7 +3943,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-22T17:58:32+00:00",
       "id": "6afd173a56372c449701cfb9e33acc02aecd6f54",
-      "retry_after": 1793155032
+      "retry_after": 1793178434
     },
     {
       "source": "Louder",
@@ -3953,7 +3955,7 @@
       "category": "Хард-рок",
       "published": "2026-10-23T03:55:58+00:00",
       "id": "70471321e554ec9357dcfda592841cb5eac441b1",
-      "retry_after": 1793155032
+      "retry_after": 1793178434
     },
     {
       "source": "Louder",
@@ -3965,7 +3967,7 @@
       "category": "Прогрессив",
       "published": "2026-10-23T11:28:43+00:00",
       "id": "3ea0ea91b9671c207ece5696472cd90bf149810b",
-      "retry_after": 1793155029
+      "retry_after": 1793178425
     },
     {
       "source": "Metal Injection",
@@ -3977,7 +3979,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T16:38:38+00:00",
       "id": "3e78c65a2d0eb71211d29eeb21f1e38f855682cc",
-      "retry_after": 1793155021
+      "retry_after": 1793178406
     },
     {
       "source": "Metal Injection",
@@ -3989,7 +3991,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T16:21:55+00:00",
       "id": "95a69669eee05c2add55a20cd5cab6a50d5ddd9a",
-      "retry_after": 1793155021
+      "retry_after": 1793178406
     },
     {
       "source": "Metal Injection",
@@ -4001,7 +4003,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T16:00:21+00:00",
       "id": "78bac4d3a7125605c47f13c3619496395c83e7d9",
-      "retry_after": 1793155021
+      "retry_after": 1793178406
     },
     {
       "source": "Metal Injection",
@@ -4013,7 +4015,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T15:17:50+00:00",
       "id": "4fc1c2762b0136e02e4e0f9d6543c9c58f990b54",
-      "retry_after": 1793155021
+      "retry_after": 1793178406
     },
     {
       "source": "Metal Injection",
@@ -4025,7 +4027,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T14:35:09+00:00",
       "id": "d1460778e306aefcf3279a2542d26af7855e3914",
-      "retry_after": 1793155021
+      "retry_after": 1793178406
     },
     {
       "source": "Metal Injection",
@@ -4037,7 +4039,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T13:49:34+00:00",
       "id": "938f5d498fe8fb4d7bfc6af2cfded925cef468ed",
-      "retry_after": 1793155021
+      "retry_after": 1793178406
     },
     {
       "source": "Metal Injection",
@@ -4049,7 +4051,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T13:00:26+00:00",
       "id": "72ecc2c64f39f8ad8ed6d0bc15ee26d25bfd2154",
-      "retry_after": 1793155021
+      "retry_after": 1793178406
     },
     {
       "source": "Metal Injection",
@@ -4061,7 +4063,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:55:16+00:00",
       "id": "7d881e61f623240cc1a09686017df479d5eac784",
-      "retry_after": 1793154999
+      "retry_after": 1793178381
     },
     {
       "source": "Metal Injection",
@@ -4073,7 +4075,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:30:17+00:00",
       "id": "1b72fc34cfd5e4c5f25ddefe449014d65c177d0b",
-      "retry_after": 1793154999
+      "retry_after": 1793178381
     },
     {
       "source": "Metal Injection",
@@ -4085,7 +4087,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T19:10:55+00:00",
       "id": "b49077d63d1f09118e8b3c91e974e85121310022",
-      "retry_after": 1793154999
+      "retry_after": 1793178381
     },
     {
       "source": "Metal Injection",
@@ -4097,7 +4099,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T18:29:44+00:00",
       "id": "6ec9524110f6d2da6e4dedf2c81e2c66166fc545",
-      "retry_after": 1793154999
+      "retry_after": 1793178381
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4109,7 +4111,7 @@
       "category": "Хард-рок",
       "published": "2026-10-23T18:23:52+00:00",
       "id": "c3d12fd5e417d95a835cc5facc90c3adb4d45dd8",
-      "retry_after": 1793155020
+      "retry_after": 1793178406
     },
     {
       "source": "Metal Injection",
@@ -4121,7 +4123,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-23T17:36:14+00:00",
       "id": "4257d4108cd1a43a74f434c1af0c35cb5d52d5ce",
-      "retry_after": 1793155021
+      "retry_after": 1793178406
     },
     {
       "source": "Louder",
@@ -4133,7 +4135,7 @@
       "category": "Прогрессив",
       "published": "2026-10-24T04:00:00+00:00",
       "id": "9970eea881a571ac35f2abbbc7e6be844c1b66cd",
-      "retry_after": 1793154999
+      "retry_after": 1793178381
     },
     {
       "source": "Metal Injection",
@@ -4145,7 +4147,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-24T14:03:44+00:00",
       "id": "ec5b376ef1cc41649f45a91c18d45e1e9f2d0e79",
-      "retry_after": 1793154990
+      "retry_after": 1793178363
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4157,7 +4159,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-24T13:04:33+00:00",
       "id": "ee2675fb45585adf09c6f2fd4dda841fc334d087",
-      "retry_after": 1793154992
+      "retry_after": 1793178367
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4169,7 +4171,7 @@
       "category": "Прогрессив",
       "published": "2026-10-24T12:36:34+00:00",
       "id": "78d673edf715f59e52489c1988f490ef29f788a0",
-      "retry_after": 1793154995
+      "retry_after": 1793178373
     },
     {
       "source": "Metal Injection",
@@ -4181,7 +4183,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-24T15:29:04+00:00",
       "id": "478c19029f2697e176a94297c1f5cbaed0612012",
-      "retry_after": 1793154990
+      "retry_after": 1793178363
     },
     {
       "source": "Metal Injection",
@@ -4193,7 +4195,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-24T14:29:24+00:00",
       "id": "b04279f81b570c2b8e1b64e4479fee5c7dbf4ab9",
-      "retry_after": 1793154990
+      "retry_after": 1793178363
     },
     {
       "source": "Louder",
@@ -4205,7 +4207,7 @@
       "category": "Прогрессив",
       "published": "2026-10-24T20:00:00+00:00",
       "id": "d9e1a79f5f56d13b74a6ba3d1269c7078f7b7e81",
-      "retry_after": 1793154990
+      "retry_after": 1793178363
     },
     {
       "source": "Metal Injection",
@@ -4217,7 +4219,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T15:40:19+00:00",
       "id": "3559cf0d5f3297f31d5deb6deb9472abbe0914c5",
-      "retry_after": 1793154986
+      "retry_after": 1793178354
     },
     {
       "source": "Metal Injection",
@@ -4229,7 +4231,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T13:53:58+00:00",
       "id": "02c6d1c29f4c63ea2776a540e288f9ca9b516537",
-      "retry_after": 1793154986
+      "retry_after": 1793178355
     },
     {
       "source": "ThePRP",
@@ -4241,7 +4243,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T18:53:18+00:00",
       "id": "0dede64c07d1765cf8103db975d693489f355d70",
-      "retry_after": 1793154986
+      "retry_after": 1793178354
     },
     {
       "source": "Metal Injection",
@@ -4253,7 +4255,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T16:18:45+00:00",
       "id": "2da0707be78d3cf23da7ccba7dd1e6ba0a7a5bac",
-      "retry_after": 1793154986
+      "retry_after": 1793178354
     },
     {
       "source": "Louder",
@@ -4265,7 +4267,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-25T21:00:00+00:00",
       "id": "80187068073490a3ac9d0884860a9121e097b48c",
-      "retry_after": 1793154976
+      "retry_after": 1793178335
     },
     {
       "source": "Louder",
@@ -4277,7 +4279,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T05:52:17+00:00",
       "id": "9d604486d70afe1a3dc680a74b9c8c4971951125",
-      "retry_after": 1793154944
+      "retry_after": 1793178299
     },
     {
       "source": "Louder",
@@ -4289,7 +4291,7 @@
       "category": "Хард-рок",
       "published": "2026-10-26T02:03:55+00:00",
       "id": "1574be14996216443e3b8fae273a98063799384e",
-      "retry_after": 1793154971
+      "retry_after": 1793178321
     },
     {
       "source": "Metal Injection",
@@ -4301,7 +4303,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T13:57:56+00:00",
       "id": "2fde3a7e257e8b00e2a67367fd3065fcd0987c5a",
-      "retry_after": 1793154941
+      "retry_after": 1793178296
     },
     {
       "source": "Metal Injection",
@@ -4313,7 +4315,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T18:32:59+00:00",
       "id": "f6005c1d6e8c5b1ff7788ea507274ac9c86aca0e",
-      "retry_after": 1793154937
+      "retry_after": 1793178292
     },
     {
       "source": "Decibel",
@@ -4325,7 +4327,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T17:10:26+00:00",
       "id": "a62eeab7cc49c798e3719ea14dd7e06231e5abe5",
-      "retry_after": 1793154941
+      "retry_after": 1793178296
     },
     {
       "source": "Metal Injection",
@@ -4337,7 +4339,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T16:18:53+00:00",
       "id": "d0b528392cc25ae3d7361204b6388afc2fcb1473",
-      "retry_after": 1793154941
+      "retry_after": 1793178296
     },
     {
       "source": "Metal Injection",
@@ -4349,7 +4351,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T15:24:33+00:00",
       "id": "3b3fd7e76694c6e5265ca1e00d071e95fbf42bc4",
-      "retry_after": 1793154941
+      "retry_after": 1793178296
     },
     {
       "source": "Metal Injection",
@@ -4361,7 +4363,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T15:00:10+00:00",
       "id": "ffbdd5372b83f7d5789a2861c15bbcef42107d3f",
-      "retry_after": 1793154941
+      "retry_after": 1793178296
     },
     {
       "source": "Metal Injection",
@@ -4373,7 +4375,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-26T20:10:37+00:00",
       "id": "13cc37845a1820e4da930f63752fccb23ae3186e",
-      "retry_after": 1793154937
+      "retry_after": 1793178292
     },
     {
       "source": "Louder",
@@ -4385,7 +4387,7 @@
       "category": "Прогрессив",
       "published": "2026-10-26T23:56:20+00:00",
       "id": "1b59b2800d048a8c42a2e6b4666c5605030127f6",
-      "retry_after": 1793154937
+      "retry_after": 1793178292
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4397,7 +4399,7 @@
       "category": "Хард-рок",
       "published": "2026-10-27T14:13:20+00:00",
       "id": "470020f64307fd46c8861a1e3f58ae0fb39bf6e8",
-      "retry_after": 1793154927
+      "retry_after": 1793178282
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4409,7 +4411,7 @@
       "category": "Хард-рок",
       "published": "2026-10-27T13:09:00+00:00",
       "id": "cb62ccb96cfa1f440dee0d622b0cf537a92763c3",
-      "retry_after": 1793154931
+      "retry_after": 1793178286
     },
     {
       "source": "Louder",
@@ -4424,7 +4426,7 @@
       "duplicate_ids": [
         "a068ce5842844b3a43c20290b482b9cf67c27a01"
       ],
-      "retry_after": 1793154934
+      "retry_after": 1793178289
     },
     {
       "source": "Metal Injection",
@@ -4436,7 +4438,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T19:24:18+00:00",
       "id": "4f1e7d75ac2ed83c167d1139bb2b0bfd1db36064",
-      "retry_after": 1793154770
+      "retry_after": 1793178262
     },
     {
       "source": "Decibel",
@@ -4448,7 +4450,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-27T19:00:55+00:00",
       "id": "ecfe805f5ae5710a4731f4966a988500e473f818",
-      "retry_after": 1793154772
+      "retry_after": 1793178265
     },
     {
       "source": "Metal Injection",
@@ -4460,7 +4462,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T18:56:09+00:00",
       "id": "59d3f5040e3a874dfe99d6c74c35b93a19b8a2e2",
-      "retry_after": 1793154772
+      "retry_after": 1793178265
     },
     {
       "source": "Metal Injection",
@@ -4472,19 +4474,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T17:48:25+00:00",
       "id": "d6517cafbebf0e03e49d254a7da34b322452e120",
-      "retry_after": 1793154772
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "The String Cheese Incident Reveal First 2027 Tour Dates",
-      "link": "https://ultimateclassicrock.com/the-string-cheese-incident-tour-dates-2027/",
-      "rss_body": "The jam band is celebrating more than three decades together as they plot their initial concerts for the new year.",
-      "tags": "Concerts News The String Cheese Incident UCR Ultimate Classic Rock Radio",
-      "category": "Хард-рок",
-      "published": "2026-10-27T17:42:10+00:00",
-      "id": "8dd2503e75c281623dad651414348bedb9a5a287",
-      "retry_after": 1793154778
+      "retry_after": 1793178265
     },
     {
       "source": "Metal Injection",
@@ -4496,19 +4486,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T17:28:44+00:00",
       "id": "075efe72f3487733113eba3236b951f856851093",
-      "retry_after": 1793154779
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Final Gasp Stream “New Day Symptoms” B-Side Track “Aftermath”",
-      "link": "https://www.theprp.com/2026/10/27/news/final-gasp-stream-new-day-symptoms-b-side-track-aftermath/",
-      "rss_body": "It's also available via Decibel's flexi disc series.",
-      "tags": "News Final Gasp",
-      "category": "Хэви-метал",
-      "published": "2026-10-27T17:25:53+00:00",
-      "id": "33b3139e3d65220749a3ad44bf10f8e0fe61309d",
-      "retry_after": 1793154780
+      "retry_after": 1793178271
     },
     {
       "source": "No Clean Singing",
@@ -4520,7 +4498,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T16:27:25+00:00",
       "id": "d710527235e39a5196bc3abcf71ec1bbfcc5d828",
-      "retry_after": 1793154849
+      "retry_after": 1793178276
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4532,7 +4510,7 @@
       "category": "Хард-рок",
       "published": "2026-10-27T16:12:04+00:00",
       "id": "778c0cfb019a02aa955acccbc1ce914d2691beab",
-      "retry_after": 1793154859
+      "retry_after": 1793178279
     },
     {
       "source": "Metal Injection",
@@ -4544,7 +4522,7 @@
       "category": "Прогрессив",
       "published": "2026-10-27T15:39:07+00:00",
       "id": "a3445fa239822a4b6f6d1e80a5012ab3e0ae970b",
-      "retry_after": 1793154910
+      "retry_after": 1793178279
     },
     {
       "source": "Metal Injection",
@@ -4556,7 +4534,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T14:58:12+00:00",
       "id": "e787e662143885d1e3f20ebadba82a5b26e8a518",
-      "retry_after": 1793154925
+      "retry_after": 1793178279
     },
     {
       "source": "ThePRP",
@@ -4568,7 +4546,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T21:32:31+00:00",
       "id": "0cab6f949a16f5e42452077c587de18c35a028a9",
-      "retry_after": 1793154749
+      "retry_after": 1793178238
     },
     {
       "source": "Metal Injection",
@@ -4580,7 +4558,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T20:02:36+00:00",
       "id": "dccf4df79e8165e050861c527152d14693487785",
-      "retry_after": 1793154750
+      "retry_after": 1793178238
     },
     {
       "source": "Ultimate Classic Rock",
@@ -4592,7 +4570,19 @@
       "category": "Хард-рок",
       "published": "2026-10-27T19:46:05+00:00",
       "id": "a752049b7f9a7873514c00b14ffcc2f63e25b4e5",
-      "retry_after": 1793154770
+      "retry_after": 1793178262
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Tony Iommi looks back on Black Sabbath's stormy history and forward to his latest solo adventure",
+      "link": "https://www.loudersound.com/bands-artists/toni-iommi-from-the-dark-interview",
+      "rss_body": "It’s a glorious summer’s day in rural England, and there’s a party of Japanese tourists outside\n\nTony Iommi\n\n’s house. Instead of pointing their smartphone cameras at his place, they photograph the honey limestone walls and horse chestnut trees lining this picturesque village street, unaware that the godfather of heavy metal is nearby.\n\nAs a tour guide corrals the party back to their bus,\n\nBlack Sabbath\n\n’s guitarist appears, defying the glorious sunshine in his all-black garb, and offers a firm handshake and a cheery “Alright?” in his soft Brummie burr.\n\nThe tourists don’t bother Iommi. However, any overzealous fan rifling through his dustbins might be in for a surprise. The teenage Tony famously lost the tops of two fingers in an industrial accident, and fashioned their first replacements from a melted-down washing-up liquid bottle. These days he gets his bespoke ‘thimbles’ via his local hospital’s prosthetic department. God bless the NHS and all that.\n\n“But the thing is, they send me a whole rubber arm,” he says, cracking a smile. “I’ve asked them: ‘Why not just send a hand?’ But apparently they can’t do that. And they sometimes send me five arms at a time. So I chop the fingers off and throw the arms in the bin. The dustmen must be thinking: ‘What the bloody hell’s going on here? Has he bumped someone off?’”\n\nIommi overcame his damaged fingers to become one of the world’s greatest hard rock guitarists and songwriters, with Black Sabbath defining the genre’s sound and iconography.\n\nWar Pigs, Children Of The Grave, Heaven And Hell\n\n, the inverted crosses, the gothic script, those riffs – Iommi and Sabbath invented it all. Visitors are reminded of Iommi’s high standing when they enter his home studio.\n\nThe kitchenette is lined with awards and photographs – Tony and fellow guitar hero\n\nJeff Beck\n\n, Tony with Dracula actor Christopher Lee – and a poster advertising the 1963 horror movie\n\nBlack Sabbath\n\n. “This is the NIGHT of the NIGHTMARE!” it screams, and shows four terrified women gazing at a horseman carrying his own severed head. More dismembered body parts, then.\n\n(Image credit: American International Pictures )\n\nThe studio door eases open to reveal an Aladdin’s cave of guitars and more memorabilia, including figurines of the classic Sabbath but as a five-piece with an extra Tony (“That would have been better”). Even the Dark Lord has the occasional day off, though, and in one corner hangs a VIP laminate for the virtual pop show ABBA Voyage.\n\nThe studio console bears Iommi’s signature cross, and a similar image graces the artwork for his new album,\n\nFrom The Dark\n\n, his first studio release since\n\nBlack Sabbath’s\n\n13\n\nin 2013, and the follow-up to 2005’s\n\nFused\n\nsolo record.\n\nWhile full of Iommi’s trademark riffs,\n\nFrom The Dark\n\nalso sounds like a band album, due largely to Norwegian vocalist Jørn Lande, whose performance evokes good stuff like\n\nDie Young, Children Of The Sea\n\nand\n\nThe Sign Of The Southern Cross\n\nfrom the\n\nRonnie James Dio\n\nera of Black Sabbath.\n\nFrom The Dark\n\nwas made in this studio, but has unusual origins. In 2021, Iommi collaborated with the Italian perfume house Xerjoff to create his first signature fragrance, Tony Iommi Monkey Special (named after his 1964 ‘Monkey Special’ Gibson SG guitar), and recorded an instrumental,\n\nScent Of Dark\n\n, to advertise the product.\n\n“The owner of the company [Sergio Momo] was a fan,” Iommi explains. “He asked if I’d do a charity record with them, but I couldn’t at the time. But by then he’d sent over a box of perfumes, and I felt so guilty I phoned him up.”\n\nDuring their conversation, Momo asked if Iommi would consider launching his own aftershave range. “He knew I had this hobby of collecting perfumes when I was touring the world. I was surprised but agreed to do it, and he told me to write down a list of the smells I liked – coffee, roses, bergamot, leather…”\n\nSo well received was Monkey Special that Xerjoff launched\n\nTony Iommi Deified\n\nin 2024 (where “the warmth of saffron meets accents of spiced apple”, according to their website), which Iommi advertised with an instrumental of the same name.\n\n“So that was a starting point for the album,” he says. “I was considering making it an instrumental album, maybe with an orchestra. But for a while I didn’t know what to do. Should it be instrumental? Should I have guest vocalists?”\n\nThe pieces gradually fell into place. Iommi and his long-time collaborator, co-writer and co-producer Mike Exeter discovered the drummer who plays on the album, Karl Brazil, through an unlikely source: Robbie Williams.\n\n“I have a place in Sandbanks,” says Iommi, referring to the Dorset peninsula – nicknamed ‘Millionaires’ Row’ – where a number of famous names own property. “I was walking down the road and this chap came up to me and said: ‘How are you, Tony?’ I said: ‘Yeah?’ He said: ‘It’s Karl.’ I didn’t have any idea who he was, but he said he knew Mike Exeter and played with Robbie Williams.” In May 2025, Iommi added some oomph and a solo to\n\nWilliams’s single\n\nRocket\n\n. “I think Robbie wanted to go a bit heavier,” he suggests.\n\nIt’s these offbeat projects that led to\n\nFrom The Dark\n\n. With Black Sabbath laid to rest after 2025’s\n\nBack To The Beginning charity show\n\nand\n\nOzzy Osbourne\n\n’s death, there was no pressure to make an album at all: “I didn’t even have a deal when we started.” Instead it happened slowly and organically. And there’s a Birmingham connection too. Karl Brazil was born in Solihull, and the album’s bass guitarist Becky Baldwin lives in Sabbath’s home city.\n\n“I like the idea of it being a Birmingham project,” says Iommi, who considered having ex-Sabbath bassist Geezer Butler play on the record. “But I think Geezer was doing something else. Mike knew Becky and she’s got Geezer’s style of playing, and it’s been great having her involved.\"\n\n(Image credit: Leo Baron)\n\nIommi began working with Jørn Lande (who had previously worked with the operatic supergroup Avantasia, among others) in 2010. That summer, Lande sang in Iommi and Butler’s band Heaven And Hell at a tribute to their late singer, Ronnie James Dio, at London’s High Voltage Festival. But Lande had been on Iommi’s radar for years. “I considered having him sing on\n\nFused\n\n,” he says.\n\nMuch like Dio’s delivery, Lande sings everything on\n\nFrom The Dark\n\nlike he’s trying to raise the dead, and, like Geezer Butler’s lyrics for Sabbath have done, Lande’s address pollution, nuclear war and crooked politicians. “Fifty, sixty years later, and I’m looking at the world and thinking: ‘Oh fuck, we’re still dealing with the war pigs,’” says Iommi.\n\nRegardless of writing credits and contributions, it’s Iommi’s name on the cover, though. He once said that the main drawback with being a bandleader is that “you always become the arsehole”. Did that happen here?\n\n“No, because I always knew it was my album,” he says, grinning. “But it was a pleasure to work with musicians who’d do a take and then say: ‘I can do a better one’, rather than: ‘Oh god, do I have to do another?’ They wanted to make it better. But then I’m also very self-critical.”\n\nHave you always been like that?\n\n“Yes. Mike Exeter would give me a copy of what we’d done, I’d go home and come back the next morning and want to change it. You tend to think if it comes too easy it’s not good enough. But that’s not always the case. Look at\n\nParanoid\n\n, the throwaway song that became the hit.”\n\nLike a doomsday survivalist hoarding provisions for the approaching apocalypse, Iommi has been stockpiling riffs since the last century. “I’ve got CDs and cassettes full of them, thinking that if I ever get stuck I can go back and get one. But I rarely do. Though saying that, I’ll probably never come up with another riff.”\n\nDon’t jinx it.\n\n“No, don’t.”\n\n“The thing is, I don’t have to do this,” he stresses. “It’s not about the money, because we don’t need the money. But this…” He gestures towards the studio. “This is what I do. I just can’t get away from it. I have things I want to say.”\n\nTony Iommi’s journey from his first group, 1964’s The Rockin’ Chevrolets (who played Buddy Holly covers and wore red lamé suits) to Black Sabbath took just four years. In December 1965, the 17-year-old was about to quit his job as a sheet metal welder to become a professional musician when a machine sliced off the tips of two fingers. The story of how he discovered a new way to play guitar is well documented. And it illustrates the resourcefulness that has helped define Iommi’s career.\n\nWithin a year of the injury, he’d joined local group The Rest, whose other guitarist was also missing the top of one digit (“I thought: ‘Bloody hell! Both in the same band?”), and whose drummer Bill Ward was so skint he couldn’t afford new drumsticks and often played with broken ones.\n\nBy 1968, Iommi and Ward had moved to Carlisle, joined a band called Mythology, and the Buddy Holly covers had long been usurped by blues and progressive rock. Mythology broke up after being busted for dope, and Iommi and Ward skulked back to Birmingham to face their parents. “But Bill and I stuck together.”\n\nAmong the new members in the pair’s next adventure, the Polka Tulk Blues Band, were bassist Terence ‘Geezer’ Butler and vocalist John ‘Ozzy’ Osbourne. Iommi, Ward, Butler and Osbourne then became Earth, until December 1968 when Iommi left to join\n\nJethro Tull\n\n. But that didn’t last long.\n\nIt was certainly a life lesson. On his first day, Iommi sat down in the studio canteen to eat lunch with vocalist, flautist and band boss Ian Anderson, only to be told by his bandmates that he’d broken protocol and to sit with them instead.\n\nIommi stayed long enough to appear with Tull in the Rolling Stones’ Rock And Roll Circus\n\nmovie before leaving.\n\n“It just wasn’t for me,” he says. Although he learned a valuable lesson. “Ian had us rehearsing at nine in the morning, and god help us if we were late. I don’t think any of us in Earth were even awake at nine in the morning, but I realised that’s what we needed to do.”\n\nTony Iommi (right) with Jethro Tull at the Rolling Stones' Rock And Roll Circus\n\n(Image credit: Photoshot/Avalon)\n\nEarth’s four dysfunctional musketeers reunited, changed their name to Black Sabbath and started to rehearse more. “Tony was definitely the alpha male,” recalled Geezer Butler.\n\nToday, a 120-foot Sabbath mural and a mechanical bull named Ozzy greet visitors to Birmingham’s New Street Station, and a stainless steel bench on the city’s Broad Street bears stony-faced images of them all. The band were given the Freedom Of The City award in 2025, and Iommi the Lord Mayor’s award earlier this year. “Black Sabbath has become Birmingham,” he says.\n\nBack in 1969, however, the city didn’t want to know them. “We couldn’t get arrested,” recalls Iommi. “Well, we could… but not in the way we wanted. There was nowhere for us to play – maybe the occasional blues club. But what we were doing was so different to pop or soul or what you heard in clubs. So we ended up going to Europe and trying to get gigs there.”\n\nBlack Sabbath in 1970\n\n(Image credit: Neil Zlozower / Atlas Icons)\n\nIn August 1969, Black Sabbath began a residency at Hamburg’s Star Club, where\n\nThe Beatles\n\nhad served their apprenticeship. “The first time we played, there were half a dozen people in, but by the end of the run it was sold out,” Iommi remembers. “It was all word of mouth, and we built a reputation with pockets of people everywhere.”\n\nThe critics were rarely on side, though. “Cliché-ridden… a conglomerate of occult hype,” carped\n\nRolling Stone\n\n’s review of Sabbath’s self-titled 1970 debut album. “Oh god, we had everything against us,” Iommi sighs. “We got pounded by the press.”\n\nThis hostility fuelled Iommi’s determination and cast Black Sabbath as perennial outsiders. But there were enough “pockets of people” to put the album in the Top 10 in the UK and elsewhere in Europe.\n\nIommi’s guitar playing was the cornerstone of Black Sabbath, and is still the dominant force on\n\nFrom The Dark\n\n. He’s always used lighter-gauge strings as they were easier on his damaged fingers, but compensated by cranking up the distortion and volume. He also deployed the ‘devil’s interval’ tritone on some songs. Known historically as the ‘diabolus in musica’, it’s that tense, ominous interval that made songs such as the first album’s title track and\n\nN.I.B.\n\nsound positively evil.\n\nThe title track of Sabbath’s second album, 1970’s\n\nParanoid\n\n, propelled by one of the most famous riffs in popular music, gave them a UK No.6 hit. “It all took off after\n\nParanoid\n\n, and it didn’t matter that people knocked us,” says Iommi. “And then America stepped in.”\n\nBlack Sabbath were four twenty-somethings from post-war, working-class England eager to explore everything the so-called Land Of The Free had to offer. ‘\n\nSmoking and tripping is all that you do\n\n,’ Ozzy sang on\n\nFairies Wear Boots\n\n. But in the States, dope and LSD took a back seat to cocaine, the drug du jour in showbiz circles. “America changed us,” says Iommi.\n\nThe making of Sabbath’s fourth album, 1972’s\n\nVol. 4\n\n, supposedly racked up a £55,000 coke bill. The wheels started to come off soon after, when Iommi collapsed with exhaustion at the Hollywood Bowl. Doctors prescribed Valium and told him to go home. Sabbath returned to Birmingham like wounded soldiers: Bill Ward had contracted hepatitis, and Geezer Butler had been misdiagnosed with Vietnamese syphilis, which turned out to be kidney stones. Incredibly, Ozzy was unscathed.\n\nRegrettably, what happened in America didn’t stay in America. In November 1973, Iommi married his first wife, Susan.\n\nLed Zeppelin’s drummer John Bonham was his best man\n\n, and arranged a stag night so riotous the groom wondered if either of them would make it to the wedding. On the day, Susan’s mother asked Tony why his friends kept slipping out of the church every few minutes. “They were round the back sniffing and snorting,” he says, laughing.\n\nDrug habits, ruined marriages, incredible wealth and subsequent financial ruin all became part of Black Sabbath’s chaotic existence. Today, Iommi recounts these war stories with a knowing grin and a raise of the eyebrows. The good old bad old days are long behind him.\n\nTony Iommi and Brian May at the Classic Rock Roll Of Honour Awards, Park Lane Hotel, London, November 2, 2009\n\n(Image credit: Brian Rasic/Getty Images)\n\nIommi’s friend Sir Brian May recently visited Tony’s studio, and played on the new album’s\n\nDeath Watch\n\n. “I’d already done a solo, but I took mine off,” Iommi says. “Before then, I got the CDs out with the riffs on – five hundred, six hundred riffs. Brian couldn’t believe how many I had.”\n\nIt was a different story when Iommi experienced writer’s block making 1973’s\n\nSabbath Bloody Sabbath\n\n, though. He eventually found his inspiration, and Sabbath’s fifth LP included pianos, harpsichords, an orchestra, and Tony playing bagpipes. This catholic approach continued on 1975’s\n\nSabotage\n\n, which featured the English Chamber Choir. “There’s a bit of choir on this new album too, like on\n\nSabotage\n\n,” he says. “I’ve always liked to experiment.”\n\nHas he ever written anything and thought it was too experimental for a Sabbath or Tony Iommi album?\n\n“Probably, if it was a bit too lightweight. But then Sabbath used to get criticised for the acoustic stuff we did. I wrote a couple of acoustic things for this album, but we didn’t have room for them. It’s odd. I end up writing things like\n\nFluff\n\n[\n\nSabbath Bloody Sabbath\n\n’s piano and acoustic guitar interlude] all the time, but I don’t like playing acoustic. I find it too fiddly with my fingers.”\n\nOn cue, Iommi picks up a worn-looking Golden Virginia tobacco tin from the side of the studio console, and reveals his collection of thimbles. Some look brand new, others like he used them at the Hollywood Bowl in 1972. There’s a lot of history in that box.\n\n(Image credit: Ross Halfin)\n\nThere’s a song on From The Dark called\n\nStormwatcher\n\n, in which Jørn Lande sings: ‘\n\nMy ship is loaded with darkness, the years of our world in demise\n\n.’ It’s the sort of lyric one could imagine Ozzy’s Sabbath replacement, Ronnie James Dio, belting out on 1980’s\n\nHeaven And Hell\n\n. As successful as it was, Dio-era Sabbath lasted only three years, and Ozzy re-emerged as a solo star just as Sabbath’s star began to wane.\n\nIommi recalls\n\nKiss\n\n’s producer Bob Ezrin overseeing auditions for Dio’s replacement. “Otherwise, me and Geezer would have been sitting there like a couple of spare dinners.”\n\nApparently, future superstar balladeer Michael Bolton made it through the first round with sterling renditions of\n\nWar Pigs\n\nand\n\nNeon Knights\n\n, but went no further. “Now Michael denies he ever auditioned for Sabbath, but I still have the tape here somewhere.” Instead, Sabbath brought in ex-\n\nDeep Purple\n\nfrontman\n\nIan Gillan\n\nfor 1983’s\n\nBorn Again\n\n. “We had a lot of fun with Ian. But that line-up had a short shelf life.”\n\nThe rest of the 80s were not good for Sabbath. On 1986’s\n\nSeventh Star\n\n, even Butler was gone, leaving Iommi the last man standing. He’d wanted the album to be a solo project, but bowed to record company pressure, hired another member of the ‘Midlands mafia’, ex-Purple bassist/ vocalist\n\nGlenn Hughes\n\n, and called it Black Sabbath.\n\n“In hindsight we should have changed the name,” Iommi allows, “but the name had weight.”\n\nAfter that Iommi spent the next 10 years overseeing a dizzying number of line-up changes. “Geezer’s been in and out I don’t know how many times. [Drummer] Vinny Appice’s been in and out, [bassist] Neil Murray’s been in and out, and [vocalist] Tony Martin…” He pauses. “Oh, it’s been a right old game.”\n\nIn his autobiography,\n\nIron Man: My Journey Through Heaven And Hell With Black Sabbath\n\n, Iommi admitted to having little in common with some of his younger bandmates, and resenting them saying: “I’m in Black Sabbath” when they hadn’t done any of the groundwork. He was also sick of refereeing disputes between band members.\n\nGeezer Butler, Ian Gillan Tony Iommi\n\n(Image credit: Ross Halfin)\n\nWhen Dio returned for 1992’s\n\nDehumanizer\n\n, his former\n\nRainbow\n\nbandmate\n\nCozy Powell\n\nwas still Sabbath’s drummer.\n\n“Cozy and Ronnie did not see eye to eye,” Iommi says. “I used to drive to rehearsals with Cozy, and he’d be going: ‘If that little c**t says anything to me I’m going to smash him in the face.’ I’d think: ‘Oh god, don’t ruin it,’ and of course Ronnie would say something.”\n\nIt took summer 1997’s long-awaited reunion with Ozzy and Bill Ward for the good ship Black Sabbath to right itself. Times had changed, though. Ozzy’s solo success, later transition into a reality TV star, and his wife/manager Sharon’s iron grip shifted the balance of power within the group, while ill health and business disputes sidelined Ward. Still, the chemistry was there, and three quarters of the classic Sabbath was better than one quarter.\n\nIommi was also reminded of his legacy when Sabbath joined the Ozzfest touring charabanc, and he heard his riffs repurposed by younger acts on the bill. “I thought it was great, and those bands admit they were influenced by us. People like\n\nMetallica\n\nand\n\nDave Grohl\n\nhave always boosted us up.”\n\nIn 2000, Iommi invited Grohl, Ozzy and Billy Corgan, among others, to sing on his self-titled solo album. “I wanted\n\nChris Cornell\n\ntoo, but there was an issue with management,” he recalls. “It was also a bit embarrassing because Eminem was going to do a track, and I said: ‘Who’s Eminem?’” Iommi says, with another raise of the eyebrows. “Same with Kid Rock…”\n\nIommi has previous form, though, having had Madonna ejected from Black Sabbath’s Live Aid rehearsals. “I didn’t recognise her,” he protests. “It was a big room, it was dark and it was meant to be private. Afterwards, my guitar tech said: ‘You do know who that was?’ Oh, bloody hell…”\n\nIommi brought in Glenn Hughes to sing on 2005’s\n\nFused\n\n. But that had its challenges. “Glenn’s one of the few singers of his age that can still hit the notes,” he says. “But I’m amazed he can after what he put himself through.” Former addict Hughes has been sober for decades, but it only took a hit of caffeine to set him off.\n\n“It was like he’d done a line of coke,” Iommi says, laughing. “Glenn’s wife rang me and said: ‘You didn’t give him a cup of coffee did you?’ We didn’t know he wasn’t supposed to have coffee. We made that album at Rockfield [Studios, in Monmouth], and I ended up driving home to Birmingham every night, because once Glenn started talking he wouldn’t stop.”\n\nTony Iommi and Glenn Hughes\n\n(Image credit: John McMurtrie)\n\nIn December 2011, Iommi experienced another life-changing moment when he was diagnosed with lymphoma, a type of blood cancer. He was about to start work on 13.\n\n“It was a big shock,” he says softly. “I didn’t think I was going to make it through the album. I thought that was it.”\n\nSabbath’s tour dates were rearranged so he could return to the UK every few weeks for treatment. “I look at life differently now,” he adds. “It changes you.”\n\nIn 2016, with his cancer in remission, Black Sabbath bowed out with The End tour. In recent years Iommi has raised more than £50,000 for the University Hospitals Birmingham Charity by raffling guitars. “It’s good to give something back, trying to make the rooms nicer for cancer patients,” he says. “Because they’re sitting there for hours having chemotherapy and it’s boring.”\n\nAs far as Iommi was concerned, Black Sabbath ended with that farewell tour. Others disagreed. In the early 2020s, Andrew Watt, now\n\nPaul McCartney\n\nand\n\nthe Rolling Stones\n\n’ go-to producer, contacted him about making a Sabbath album with the original lineup (Rage Against The Machine’s drummer Brad Wilk played on\n\n13\n\nafter Ward objected to what he called “an un-signable contract”).\n\n\"I’d met Andrew Watt when he was producing Ozzy,” Iommi recalls. “He was very keen and a bit too excited. He also didn’t know what it was like working with the original Sabbath, working with Bill,” he adds drolly. “Also, we’d done\n\n13\n\n, and I didn’t like the idea of: ‘Now here’s another album.’”\n\nIommi was similarly dubious when Sabbath were asked to reunite for last year’s Back To The Beginning concert at Villa Park. Metallica,\n\nPantera\n\n,\n\nGuns N’ Roses\n\nand\n\nTool\n\nwere among those lining up to play a tribute to Black Sabbath, with proceeds going to several charities.\n\n“I said to Ozzy: ‘I don’t think we should do it.’ I said: ‘We should just let the other bands play our stuff, and us come out at the end and say thank you. But it was for a good charitable cause, and eventually we said okay.”\n\nIommi had last seen Ozzy when the two of them performed\n\nParanoid\n\nat the closing ceremony of the 2022 Commonwealth Games\n\n. The singer had already been diagnosed with Parkinson’s disease, and his condition had worsened.\n\n“I hadn’t seen Ozzy for a bit, and it was difficult seeing him like that,” Iommi remembers. “Fucking hell…” His voice tails off.\n\nIommi didn’t want Ozzy to play a solo set before Sabbath’s closing performance either. “Because I was concerned he was going to blow himself out, and by the time we came on he’d be struggling.”\n\nOzzy Osbourne and Toni Iommi during Commonwealth Games Closing Ceremony at the Alexander Stadium on August 08, 2022 in Birmingham\n\n(Image credit: Eddie Keogh/Getty Images)\n\nOzzy ignored misgivings, and even showed up when the other three were rehearsing. “We needed to rehearse with Bill, because it had been twenty years and he couldn’t remember how to play some of his stuff. We wanted to do the song Black Sabbath on the night but it was too difficult for him. But Ozzy would arrive with this gang of people carrying him up and down. We’d say: ‘Oz, you don’t have to be here today, go home.’ I was concerned about his voice. But he wanted to be there. There was no stopping him.”\n\nDid Sabbath fall back into their old ways as soon as the four of them were in a room together?\n\n“You mean moaning?” Iommi deadpans. “Oh yes. And taking the piss. Bill bore the brunt of it even after all these years.”\n\nOn the night, July 5, 2026, Ozzy performed a solo set and struggled to remain seated – for his own safety – on his customised throne. He then joined the rest of Black Sabbath for a victory lap of\n\nWar Pigs, N.I.B., Iron Man\n\nand\n\nParanoid\n\n. Still on the throne, like a heavy metal king at his coronation, he went out with a grin on his face and, ever the showman, still trying to stand up.\n\n“The adrenaline carried Ozzy through,” says Iommi. “And I’m so glad we did it. But of course we didn’t expect him to go so soon.”\n\nOzzy died 17 days after the show and, at the time of this interview, has been gone for a year. “Can you believe it? A year?” Iommi sighs. “But it was so good that we got to do that one last thing together – and for a good cause.\"\n\n(Image credit: Ross Halfin)\n\nFor all the doom and pestilence on his new album, Iommi seems at peace with the world. He’s been married to his fourth wife, Maria, since 2005, and credits her and his family for helping him “come through the other side”.\n\nEarlier this year the couple returned from holiday to find what Iommi presumed was a speeding ticket. “It looked official,” he says. In fact it was a letter from the government telling him he’d been\n\nawarded an MBE\n\n(Member Of The British Empire) for services to music. “I’ll be going up to Buckingham Palace at some point, but I don’t know when.”\n\nMBEs, Lord Mayor Awards, charity raffles, his own range of fragrances… Besides his new record, these are the accolades and offbeat projects Iommi enjoys. “I’ve just done a track with [veteran Star Trek actor turned singer] William Shatner,” he divulges, as we get up to leave.\n\nWhat, one wonders, would 78-year-old Tony Iommi say to his 17-year-old self about to embark on a musical career? “Break all the barriers and do what you believe in,” he replies firmly. “Everything is a test. Being told I wasn’t going to play guitar again was the first test; Sabbath being rejected was the next. Stick with it and keep on.”\n\nWith his words of empowerment ringing in our ears, we swap the studio’s darkness for blazing sunshine. By the studio door stands Tony Iommi’s bin. Disappointingly, there isn’t a dismembered arm poking out from under the lid.\n\nFrom The Dark is out now via BMG.",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-28T04:55:00+00:00",
+      "id": "ae85f28e49a969a8b157d7da1ff3494a267cdc42",
+      "retry_after": 1793178231
     }
   ]
 }
