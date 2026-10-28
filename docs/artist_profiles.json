@@ -1697,7 +1697,7 @@
       "website": "http://ledzeppelin.com",
       "reference_url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
       "reference_checked_at": "2026-10-28T02:34:56.726000+00:00",
-      "tour_attempted_at": "2026-10-23T17:10:44.565810+00:00",
+      "tour_attempted_at": "2026-10-28T16:05:08.054760+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T02:34:56.726233+00:00"
     },
@@ -1731,7 +1731,7 @@
       "website": "http://leprous.net",
       "reference_url": "https://en.wikipedia.org/wiki/Leprous",
       "reference_checked_at": "2026-10-28T02:34:56.892732+00:00",
-      "tour_attempted_at": "2026-10-23T17:10:44.830992+00:00",
+      "tour_attempted_at": "2026-10-28T16:05:08.271449+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T02:34:56.892756+00:00"
     },
@@ -1765,7 +1765,7 @@
       "website": "http://marillion.com",
       "reference_url": "https://en.wikipedia.org/wiki/Marillion",
       "reference_checked_at": "2026-10-28T02:34:57.130881+00:00",
-      "tour_attempted_at": "2026-10-23T17:10:45.133396+00:00",
+      "tour_attempted_at": "2026-10-28T16:05:08.560776+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T02:34:57.130909+00:00"
     },
@@ -1803,7 +1803,7 @@
       "website": "http://linkinpark.com",
       "reference_url": "https://en.wikipedia.org/wiki/Linkin_Park",
       "reference_checked_at": "2026-10-28T02:34:57.675447+00:00",
-      "tour_attempted_at": "2026-10-23T17:10:45.765536+00:00",
+      "tour_attempted_at": "2026-10-28T16:05:08.940797+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T02:34:57.675724+00:00"
     },
@@ -2040,10 +2040,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "https://imotorhead.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mot%C3%B6rhead",
-      "reference_checked_at": "2026-10-21T10:43:32.370199+00:00",
+      "reference_checked_at": "2026-10-28T16:05:06.200316+00:00",
       "tour_attempted_at": "2026-10-23T23:28:18.687351+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T10:43:32.370365+00:00"
+      "reference_attempted_at": "2026-10-28T16:05:06.200505+00:00"
     },
     "motley-crue": {
       "origin": "Hollywood, California , U.S.",
@@ -2070,10 +2070,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://motley.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Motley_Crue",
-      "reference_checked_at": "2026-10-21T10:43:32.895912+00:00",
+      "reference_checked_at": "2026-10-28T16:05:06.704789+00:00",
       "tour_attempted_at": "2026-10-23T23:28:19.169130+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T10:43:32.896094+00:00"
+      "reference_attempted_at": "2026-10-28T16:05:06.704993+00:00"
     },
     "opeth": {
       "origin": "Stockholm , Sweden",
@@ -2104,7 +2104,7 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://opeth.com",
       "reference_url": "https://en.wikipedia.org/wiki/Opeth",
-      "reference_checked_at": "2026-10-21T10:43:33.138731+00:00",
+      "reference_checked_at": "2026-10-28T16:05:06.871609+00:00",
       "reviewed": {
         "members": [
           {
@@ -2169,7 +2169,7 @@
       "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
       "tour_attempted_at": "2026-10-26T20:02:55.976331+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T10:43:33.138752+00:00"
+      "reference_attempted_at": "2026-10-28T16:05:06.871635+00:00"
     },
     "nightwish": {
       "origin": "Kitee , Finland",
@@ -2200,10 +2200,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://nightwish.com",
       "reference_url": "https://en.wikipedia.org/wiki/Nightwish",
-      "reference_checked_at": "2026-10-21T10:43:33.409164+00:00",
+      "reference_checked_at": "2026-10-28T16:05:07.015143+00:00",
       "tour_attempted_at": "2026-10-24T01:59:21.252117+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T10:43:33.409185+00:00"
+      "reference_attempted_at": "2026-10-28T16:05:07.015166+00:00"
     },
     "of-mice-men": {
       "origin": "",
@@ -2214,8 +2214,8 @@
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Of_Mice_%26_Men",
       "reference_checked_at": "2026-10-02T02:23:33.014549+00:00",
-      "reference_retry_after": 1792665813,
-      "reference_attempted_at": "2026-10-21T10:43:33.652082+00:00"
+      "reference_retry_after": 1793289907,
+      "reference_attempted_at": "2026-10-28T16:05:07.085362+00:00"
     },
     "pearl-jam": {
       "origin": "Seattle , Washington, U.S.",
@@ -2242,10 +2242,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://pearljam.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pearl_Jam",
-      "reference_checked_at": "2026-10-21T10:43:33.991247+00:00",
+      "reference_checked_at": "2026-10-28T16:05:07.280865+00:00",
       "tour_attempted_at": "2026-10-24T01:59:21.664407+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-21T10:43:33.991267+00:00"
+      "reference_attempted_at": "2026-10-28T16:05:07.280890+00:00"
     },
     "pain-of-salvation": {
       "origin": "Eskilstuna , Sweden",
