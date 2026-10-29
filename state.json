@@ -1129,49 +1129,17 @@
     "b43203abcc2477b7165c94b67669aea737ebd33c",
     "a3ce2e813452a89825a7ad7d3e8f2a75bf2faa95",
     "1ab84688646e98e87a48b8070d98afc743ce5c87",
-    "376d38a34b7400df86bf8fdca74e2a2546c01eff"
+    "376d38a34b7400df86bf8fdca74e2a2546c01eff",
+    "4ff14bb22d7d39a7c3164288a8e90886e39b881d",
+    "9668081d3c15e7e4ce59105fa92e93c2c60028c7",
+    "3c1edad8ed575f88a6ad4a8e216abaa2e164b8d6",
+    "6b46dc76895fea966b63b0eca100cdc150cf4e2c",
+    "838709e6c29152b086ffd1ec591aecdfa3839416",
+    "5ed897bf2a24fcae43b3d66bdd69c9a18bb10704",
+    "fde7efddcc5ab4da87822e055d1806349b87ae75",
+    "b43a708b12ef412bbd1cee4449e2f1d549f1cf0c"
   ],
   "recent_titles": [
-    {
-      "title": "FELIPE PLAZA KUTZBACH выступает с CANDLEMASS",
-      "source": "Darkside",
-      "ts": 1792757644
-    },
-    {
-      "title": "Turnstile, King Gizzard & The Lizard Wizard, Angine De Poitrine, Converge, Etc. Booked For 2027 ‘Priamvera Sound’ Festival",
-      "source": "ThePRP",
-      "ts": 1792757648
-    },
-    {
-      "title": "Single Print Index (Code Orange, Etc.) Release Their Debut EP “CONFESSIONS”",
-      "source": "ThePRP",
-      "ts": 1792775277
-    },
-    {
-      "title": "\"We were invisible and insignificant. When nobody pays any attention to you, you realise how mortal you are. That’s why teenagers that are troubled are drawn to death.\" The story behind My Chemical Romance's world-conquering masterpiece The Black Parade",
-      "source": "Louder",
-      "ts": 1792775325
-    },
-    {
-      "title": "Rammstein Share “Deutschland” Performance From Their Upcoming ‘Rammstein – Live In Mexico City’ Film",
-      "source": "ThePRP",
-      "ts": 1792775330
-    },
-    {
-      "title": "A Place To Kill (Filter, Etc.) Unveil “Ugly World” Music Video",
-      "source": "ThePRP",
-      "ts": 1792775335
-    },
-    {
-      "title": "Top 35 Hard Rock Albums From the '70s",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792775344
-    },
-    {
-      "title": "Coal Chamber’s Mikey “Bug” Cox, Suffers Broken Femur, Band Tap DevilDriver Drummer For Immediate Shows",
-      "source": "ThePRP",
-      "ts": 1792775358
-    },
     {
       "title": "Kalandra: “I wasn’t a fan of the Beatles, but going into that audition, I said, ‘This has been my dream forever!’”",
       "source": "Louder",
@@ -1931,6 +1899,46 @@
       "title": "Face Yourself To Record Their Debut Album In November",
       "source": "ThePRP",
       "ts": 1793234921
+    },
+    {
+      "title": "Dave Hill brings less noise on debut solo album Dirty Foot Lane",
+      "source": "Louder",
+      "ts": 1793255667
+    },
+    {
+      "title": "The Who By Numbers: Now expanded, still teetering on the edge",
+      "source": "Louder",
+      "ts": 1793255681
+    },
+    {
+      "title": "Everything Under The Sun finds Nickelback refusing to tread water",
+      "source": "Louder",
+      "ts": 1793255694
+    },
+    {
+      "title": "August Burns Red Issue “Behemoth” Live Video From May 2026 Philadelphia Show",
+      "source": "ThePRP",
+      "ts": 1793255702
+    },
+    {
+      "title": "Mirrors Release “Home” Music Video",
+      "source": "ThePRP",
+      "ts": 1793255706
+    },
+    {
+      "title": "U2 announce intimate BBC gig to take place in London: here's how you could get tickets",
+      "source": "Louder",
+      "ts": 1793255717
+    },
+    {
+      "title": "Metallica Launch “Leper Messiah” Live Video From Their Residency At The Sphere",
+      "source": "ThePRP",
+      "ts": 1793255721
+    },
+    {
+      "title": "Elder’s Latest Album “Through Zero” Gets New Dolby Atmos & 5.1 Surround Mixes",
+      "source": "ThePRP",
+      "ts": 1793255728
     }
   ],
   "initialized_sources": [
@@ -4633,30 +4641,6 @@
     {
       "source": "ThePRP",
       "priority": 88,
-      "title": "Metallica Launch “Leper Messiah” Live Video From Their Residency At The Sphere",
-      "link": "https://www.theprp.com/2026/10/28/news/metallica-launch-leper-messiah-live-video-from-their-residency-at-the-sphere/",
-      "rss_body": "Filmed on October 10th.",
-      "tags": "News Metallica",
-      "category": "Хэви-метал",
-      "published": "2026-10-28T18:05:10+00:00",
-      "id": "fde7efddcc5ab4da87822e055d1806349b87ae75",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Elder’s Latest Album “Through Zero” Gets New Dolby Atmos & 5.1 Surround Mixes",
-      "link": "https://www.theprp.com/2026/10/28/news/elders-latest-album-through-zero-gets-new-dolby-atmos-5-1-surround-mixes/",
-      "rss_body": "Instrumental versions in these upgraded audio formats are also now available.",
-      "tags": "News Elder",
-      "category": "Хэви-метал",
-      "published": "2026-10-28T17:57:57+00:00",
-      "id": "b43a708b12ef412bbd1cee4449e2f1d549f1cf0c",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
       "title": "Marilyn Manson Sets Dates For His First Australian Tour In Over A Decade",
       "link": "https://www.theprp.com/2026/10/28/news/marilyn-manson-sets-dates-for-his-first-australian-tour-in-over-a-decade/",
       "rss_body": "A four-date run has been scheduled for February.",
@@ -4775,42 +4759,6 @@
       "retry_after": 0
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "August Burns Red Issue “Behemoth” Live Video From May 2026 Philadelphia Show",
-      "link": "https://www.theprp.com/2026/10/28/news/august-burns-red-issue-behemoth-live-video-from-may-2026-philadelphia-show/",
-      "rss_body": "As they prepare for their annual seasonal show.",
-      "tags": "News August Burns Red",
-      "category": "Экстремальный метал",
-      "published": "2026-10-28T21:14:10+00:00",
-      "id": "6b46dc76895fea966b63b0eca100cdc150cf4e2c",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Mirrors Release “Home” Music Video",
-      "link": "https://www.theprp.com/2026/10/28/news/mirrors-release-home-music-video/",
-      "rss_body": "The Aussie melodic metalcore band recently signed with Greyscale Records.",
-      "tags": "News Mirrors",
-      "category": "Хэви-метал",
-      "published": "2026-10-28T21:00:08+00:00",
-      "id": "838709e6c29152b086ffd1ec591aecdfa3839416",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "U2 announce intimate BBC gig to take place in London: here's how you could get tickets",
-      "link": "https://www.loudersound.com/bands-artists/u2-announce-intimate-london-gig-and-you-too-could-be-there",
-      "rss_body": "U2\n\nwill perform an exclusive concert for BBC Music next month.\n\nThe performance, recorded at an indoor central London venue in front of a select audience of fans on November 3, will see the Irish band perform songs from across their extensive catalogue, alongside new tracks from their forthcoming album,\n\nCarnaval de Luz\n\n.\n\nA limited number of tickets are now available via a BBC Audiences ballot, which is open until midnight tomorrow, October 29. To register, go\n\nhere\n\n.\n\nThe performance will be broadcast as follows:\n\nOn BBC Two in late November, as part of a night of programming on the channel, dedicated to U2.\n\nBBC Radio 2 and BBC Sounds on November 30, 7-9pm, within Jo Whiley’s show, alongside a new interview with members of the band.\n\nThe programmes will also be available on BBC iPlayer and BBC Sounds after broadcast.\n\nU2 will also join Vernon Kay on his Radio 2 Show (weekdays, 9.30am-12pm) for Tracks of My Years, choosing ten songs that have soundtracked their lives and careers.\n\nThe episode will be available on BBC Sounds and BBC iPlayer from 6am on November 15.\n\nU2's new album will be released on November 15, and is\n\navailable to pre-order now\n\n.\n\nGuitarist The Edge describes\n\nCarnaval de Luz\n\nas “a messy, provocative, sacred collection of songs”, while frontman Bono promises listeners will enjoy “loud guitars, deep bass, some ecstatic rhythms.\"\n\nIn a recent interview conducted with the\n\nNew York Times\n\n, Bono and The Edge both stressed that they still have the desire to prove to themselves, and to the world at large, that U2 remain one of the world's great rock bands.\n\n“We genuinely think that we might just write the best song we’ve ever written next week,\" The Edge said, \"or do the best show we’ve ever done next tour... That's why I'm still in this band.\"\n\n\"I’m jealous when suddenly we’re left out of the pop charts,\" Bono admits. \"That’s a personality flaw, because, yeah, 66 and wants to storm the pop charts, somebody should throw some cold water over this fella.! But actually, deep down, it’s because I don’t want those ideas to be left out of the mainstream because my favourite artists stormed the mainstream.\"\n\n“We’re still creatively extremely inspired and active,\" The Edge adds. \"And there are lots of songs that have yet to be released and yet to be finished... So I can’t see that ending anytime soon.\"\n\nIn reference to the quartet's longevity as they gear up for another mammoth world tour, Bono predicts, \"I think if we kept playing live, till we drop, there’ll be people.\"",
-      "tags": "Bands & Artists",
-      "category": "Хэви-метал",
-      "published": "2026-10-28T21:00:00+00:00",
-      "id": "5ed897bf2a24fcae43b3d66bdd69c9a18bb10704",
-      "retry_after": 0
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "Watch: Entheos Release New Fiery Video for \"Hell Is A Part Of Me\"",
@@ -4820,7 +4768,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-28T19:26:43+00:00",
       "id": "8d382b5eb31fee787159bef37c1220a20faaf502",
-      "retry_after": 0
+      "retry_after": 1793256018
     }
   ]
 }
