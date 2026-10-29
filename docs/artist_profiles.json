@@ -2308,7 +2308,7 @@
       "website": "http://powerman5000.com",
       "reference_url": "https://en.wikipedia.org/wiki/Powerman_5000",
       "reference_checked_at": "2026-10-28T20:58:49.394765+00:00",
-      "tour_attempted_at": "2026-10-24T07:20:24.512228+00:00",
+      "tour_attempted_at": "2026-10-29T13:46:44.345329+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T20:58:49.394787+00:00"
     },
@@ -2330,7 +2330,7 @@
       "website": "http://pinkfloyd.com",
       "reference_url": "https://en.wikipedia.org/wiki/Pink_Floyd",
       "reference_checked_at": "2026-10-28T20:58:49.887510+00:00",
-      "tour_attempted_at": "2026-10-24T07:20:24.835405+00:00",
+      "tour_attempted_at": "2026-10-29T13:46:44.766645+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T20:58:49.887798+00:00"
     },
@@ -2356,7 +2356,7 @@
       "website": "http://porcupinetree.com",
       "reference_url": "https://en.wikipedia.org/wiki/Porcupine_Tree",
       "reference_checked_at": "2026-10-28T20:58:50.498111+00:00",
-      "tour_attempted_at": "2026-10-24T07:20:24.972833+00:00",
+      "tour_attempted_at": "2026-10-29T13:46:44.970188+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T20:58:50.498132+00:00"
     },
@@ -2390,7 +2390,7 @@
       "website": "http://queensrycheofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Queensr%C3%BFche",
       "reference_checked_at": "2026-10-28T20:58:50.675260+00:00",
-      "tour_attempted_at": "2026-10-24T07:20:26.474903+00:00",
+      "tour_attempted_at": "2026-10-29T13:46:46.122156+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T20:58:50.675278+00:00"
     },
@@ -2785,7 +2785,7 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://terrorizergrindcore.net",
       "reference_url": "https://en.wikipedia.org/wiki/Terrorizer",
-      "reference_checked_at": "2026-10-22T06:10:59.097606+00:00",
+      "reference_checked_at": "2026-10-29T13:46:42.864772+00:00",
       "reviewed": {
         "members": [
           {
@@ -2808,13 +2808,45 @@
       },
       "tour_attempted_at": "2026-10-24T18:40:43.226545+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T06:10:59.097667+00:00"
+      "reference_attempted_at": "2026-10-29T13:46:42.864861+00:00"
     },
     "thin-lizzy": {
       "origin": "Dublin , Ireland",
       "genres": "Hard rock blues rock heavy metal folk rock (early)",
       "years_active": "1969–1983 • 1994–2019",
       "members": [
+        {
+          "name": "Eric Bell",
+          "role": ""
+        },
+        {
+          "name": "Brian Downey",
+          "role": ""
+        },
+        {
+          "name": "Phil Lynott",
+          "role": ""
+        },
+        {
+          "name": "Eric Wrixon",
+          "role": ""
+        },
+        {
+          "name": "Gary Moore",
+          "role": ""
+        },
+        {
+          "name": "Brian Robertson",
+          "role": ""
+        },
+        {
+          "name": "Snowy White",
+          "role": ""
+        },
+        {
+          "name": "John Sykes",
+          "role": ""
+        },
         {
           "name": "Scott Gorham",
           "role": ""
@@ -2838,15 +2870,19 @@
         {
           "name": "Troy Sanders",
           "role": ""
+        },
+        {
+          "name": "list",
+          "role": ""
         }
       ],
-      "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
+      "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://thinlizzyofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Thin_Lizzy",
-      "reference_checked_at": "2026-10-22T06:10:59.228835+00:00",
+      "reference_checked_at": "2026-10-29T13:46:43.022631+00:00",
       "tour_attempted_at": "2026-10-24T21:11:37.596591+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T06:10:59.228956+00:00"
+      "reference_attempted_at": "2026-10-29T13:46:43.022743+00:00"
     },
     "the-rolling-stones": {
       "origin": "London , England",
@@ -2869,10 +2905,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rollingstones.com",
       "reference_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
-      "reference_checked_at": "2026-10-22T06:10:59.550289+00:00",
+      "reference_checked_at": "2026-10-29T13:46:43.410260+00:00",
       "tour_attempted_at": "2026-10-24T21:11:37.734819+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T06:10:59.550870+00:00"
+      "reference_attempted_at": "2026-10-29T13:46:43.410654+00:00"
     },
     "the-pretty-reckless": {
       "origin": "New York City , U.S.",
@@ -2899,10 +2935,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://theprettyreckless.com",
       "reference_url": "https://en.wikipedia.org/wiki/The_Pretty_Reckless",
-      "reference_checked_at": "2026-10-22T06:10:59.791645+00:00",
+      "reference_checked_at": "2026-10-29T13:46:43.527090+00:00",
       "tour_attempted_at": "2026-10-24T21:11:37.967192+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T06:10:59.791658+00:00"
+      "reference_attempted_at": "2026-10-29T13:46:43.527116+00:00"
     },
     "thrice": {
       "origin": "Irvine, California , U.S.",
@@ -2929,10 +2965,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://thrice.net",
       "reference_url": "https://en.wikipedia.org/wiki/Thrice",
-      "reference_checked_at": "2026-10-22T06:10:59.946439+00:00",
+      "reference_checked_at": "2026-10-29T13:46:43.730218+00:00",
       "tour_attempted_at": "2026-10-24T21:11:38.757054+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T06:10:59.946461+00:00"
+      "reference_attempted_at": "2026-10-29T13:46:43.730243+00:00"
     },
     "tom-morello": {
       "origin": "Libertyville, Illinois , U.S.",
@@ -2942,9 +2978,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Tom_Morello",
-      "reference_checked_at": "2026-10-22T06:11:00.070373+00:00",
+      "reference_checked_at": "2026-10-29T13:46:43.873476+00:00",
       "instruments": "Guitar vocals",
-      "reference_attempted_at": "2026-10-22T06:11:00.070389+00:00"
+      "reference_attempted_at": "2026-10-29T13:46:43.873499+00:00"
     },
     "twisted-sister": {
       "origin": "Ho-Ho-Kus, New Jersey , U.S.",
