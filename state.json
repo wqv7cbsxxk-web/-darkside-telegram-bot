@@ -1145,49 +1145,17 @@
     "5f7a78e43a190123105765f05676c883249ec43f",
     "7e2b0c9a55bdb545f9f52297cd1ba3378f76ad8d",
     "a699236225b1222c9d0fa266379b9ad85a9d2ffa",
-    "44fc4ae729d478dfd8ac24830326c1d12fe30952"
+    "44fc4ae729d478dfd8ac24830326c1d12fe30952",
+    "2f8dc49a95d3a22a03885337dc16bcbf2d83131d",
+    "7c2b6e643459589a1ea8aaaebb12f0531391eb30",
+    "1f423dbb74723adf4b983b5b6bbdc4c6392b8351",
+    "066cf0040ee2ea7af212fce3c293ad90448c0e8d",
+    "f810cc816c112d3c6dfb2fc93f8e90f1266893c6",
+    "a3366aa417b850a68ad718e4d143a6a8a2a4213f",
+    "a71f650ad4f0c9e726e29d5a9b84231dbc515839",
+    "f38b7e2f903e07ec8b6efb6a4dbe8be608911964"
   ],
   "recent_titles": [
-    {
-      "title": "System Of A Down Announce Second Rose Bowl Stadium Show With Pierce The Veil",
-      "source": "ThePRP",
-      "ts": 1792787377
-    },
-    {
-      "title": "Metallica Share Official “Lux Æterna” Live Video From Their Residency At The Sphere",
-      "source": "ThePRP",
-      "ts": 1792787381
-    },
-    {
-      "title": "How Mastodon coped with the grief of two deaths and made their most cathartic album",
-      "source": "Louder",
-      "ts": 1792798005
-    },
-    {
-      "title": "Following Recent Sleep Token Controversy, Mystery Band Arcus Drop “Rebirth” Music Video",
-      "source": "ThePRP",
-      "ts": 1792798012
-    },
-    {
-      "title": "Surgeon (Ex-Reflections) Announce New Album “Aphantasia”",
-      "source": "ThePRP",
-      "ts": 1792798017
-    },
-    {
-      "title": "Meshuggah, Testament, Crowbar, YOB, Etc. Booked For 2027 ‘Milwaukee Metal Fest’",
-      "source": "ThePRP",
-      "ts": 1792798030
-    },
-    {
-      "title": "Official Live Footage Of 200 Stab Wounds’ 2026 ‘Welcome To Rockville’ Set Released",
-      "source": "ThePRP",
-      "ts": 1792798033
-    },
-    {
-      "title": "New Live Video Of Scott Weiland Covering “Vasoline” In Anaheim Released",
-      "source": "ThePRP",
-      "ts": 1792798037
-    },
     {
       "title": "Wisdom In Chains Join Up With Street Dogs & More On New Tribute To Lou Koller",
       "source": "ThePRP",
@@ -1947,6 +1915,46 @@
       "title": "Motley Crue Announce First Summer 2027 Festival Appearances",
       "source": "Ultimate Classic Rock",
       "ts": 1793281597
+    },
+    {
+      "title": "Metallica Release “Until It Sleeps” Live Video From Their Residency At The Sphere",
+      "source": "ThePRP",
+      "ts": 1793301542
+    },
+    {
+      "title": "Video Premiere: Teardrinker’s “Hereditary”",
+      "source": "Decibel",
+      "ts": 1793301556
+    },
+    {
+      "title": "Mammoth Welcome Intervals Drummer Nathan Bulla Following The Departure Of Garrett Whitlock",
+      "source": "ThePRP",
+      "ts": 1793301562
+    },
+    {
+      "title": "Eidola’s “Niflheimr” Music Video Debuts",
+      "source": "ThePRP",
+      "ts": 1793301568
+    },
+    {
+      "title": "Sunborn Premiere Video For Their Heaviest Song Yet, “Silent Attraction”",
+      "source": "ThePRP",
+      "ts": 1793301573
+    },
+    {
+      "title": "How Warren Haynes Found a ‘Whole New Life’ With His Latest LP",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793301599
+    },
+    {
+      "title": "Death Angel, Exodus, Slayer, Testament, Etc. Members Set For Dennis Pepa Benefit Show",
+      "source": "ThePRP",
+      "ts": 1793301621
+    },
+    {
+      "title": "Watch: Foo Fighters Played “Your Favorite Toy” On Last Night’s ‘Jimmy Kimmel Live!’",
+      "source": "ThePRP",
+      "ts": 1793301625
     }
   ],
   "initialized_sources": [
@@ -4764,6 +4772,261 @@
       "category": "Хэви-метал",
       "published": "2026-10-27T11:50:34+00:00",
       "id": "a068ce5842844b3a43c20290b482b9cf67c27a01",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Avenged Sevenfold’s Zacky Vengeance Defends AI Art, Calls Majority of Designers He’s Worked With \"Lazy\"",
+      "link": "https://metalinjection.net/news/avenged-sevenfolds-zacky-vengeance-defends-ai-art-calls-majority-of-designers-hes-worked-with-lazy",
+      "rss_body": "\"Rejecting AI won’t stop progress.\"",
+      "tags": "Latest News Zacky Vengeance",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T19:16:30+00:00",
+      "id": "168b65720a0fd1e240999ff6bfd71713d09e1eb4",
+      "duplicate_ids": [
+        "d10260af6127029a7740bce0684390a75c5cdd46"
+      ],
+      "retry_after": 1793301839
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Album Premiere: Laser Dracul – ‘Hin Håle Blues’",
+      "link": "https://www.decibelmagazine.com/2026/10/29/album-premiere-laser-dracul-hin-hale-blues/",
+      "rss_body": "Laser Dracul\n\nare dropping their new album,\n\nHin Håle Blues,\n\non October 30 via Majestic Mountain Records. You can hear it with us first.\n\nHin Håle Blues by LASER DRACUL\n\nHailing from Borlänge in Sweden’s historic Dalarna region, Laser Dracul have been carving out their own corner of the heavy underground since 2015. Following their self-titled EP and 2020 debut album\n\nHagridden,\n\nwhich earned strong praise from the press, the band now return with a record that pushes their sound further into doom, heavy rock, blues, and dark psychedelia.\n\nTaking its name from an old Swedish term for the Devil,\n\nHin Håle Blues\n\ndraws inspiration from the folklore, superstition, and darker traditions surrounding the band’s homeland. Across the album, massive, monolithic riffs and blues-soaked grooves give way to psychedelic and more atmospheric passages, resulting in a record deeply rooted in classic Sabbath worship while still sounding unmistakably their own.\n\n“We think we made a really heavy album!” the band say. “\n\nHin Håle Blues\n\nhas that bluesy, slippery, swaggering feel in places, but there’s also plenty of ’80’s doom, along with more ambient and progressive moments. It moves around, but it still has the sound and spirit of the underground running through it. That was really important to us.”\n\nRecorded, mixed and mastered by Jonas Arnberg at Sellnoise Studio, the album was written entirely by Laser Dracul, with artwork created by Andreas “Punkarn” Bustad.\n\nPreorder the album here.",
+      "tags": "Exclusive Streaming Borlänge Dalarna Doom Hin Håle Blue Laser Dracul sweden",
+      "category": "Прогрессив",
+      "published": "2026-10-29T19:00:23+00:00",
+      "id": "60640e57e1a2f3da12dab9e8ccd15f8c7b7f11b9",
+      "retry_after": 1793301851
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Hardcore newcomers Haywire got shut down by the NYPD",
+      "link": "https://www.loudersound.com/bands-artists/live-performances/police-pull-plug-on-times-square-harcore-show",
+      "rss_body": "The\n\nnu metal\n\nrenaissance is in full swing, and it seems its not just the style and fashion that's made a comeback. Relative hardcore newcomers Haywire tried to film a guerilla gig at New York's Times Square, but soon found themselves bringing another tradition back: getting their stunt ended by the police. Well, if it's good enough for Rage Against The Machine, System of A Down and Alien Ant Farm...\n\nA post shared by Brian (@brianeckelphoto)\n\nA photo posted by\n\nFormed in Boston in 2023, Haywire - listed on Spotify as Haywire 617 - have taken to the genre's reputation for wild gigs like ducks to water. The band's most recent album\n\nI Don't Wanna Say Goodbye\n\nwas released on October 1 via Roadrunner, and the group celebrated with a series of shows across the US including Furnace Fest and Sick New World.\n\nThe band had also apparently planned to record a music video\n\nSleep Now In The Fire\n\nstyle at Times Square on October 28, but only managed to get through a song-and-a-half before police arrived to shut the event down. Footage captured for the show sees them draw a massive and excitable crowd who become dismayed when the band get the plug pulled, booing the police on-scene loudly.\n\nWatch footage below.\n\nA post shared by Drew Buhner(BOLTZ)⚡️ (@drewboltzzz)\n\nA photo posted by\n\nBut while their plans for a music video might've been scuppered, there's still plenty of Haywire activity in the pipeline.\n\nThey'll be hitting the UK for headline shows in January, before linking up with Comeback Kid in Europe. They've also lined up festival appearances including Copenhell and Rock Im Park/Rock Am Ring over the summer, plus more North American shows in between.\n\nSee the full list of UK dates below.\n\nHaywire I Don't Wanna Say Goodbye UK Tour 2027\n\nJan 2:\n\nGreyfriars, Nottingham\n\nJan 3:\n\nRebellion, Manchester\n\nJan 5:\n\nG2, Glasgow\n\nJan 6:\n\nThe Grove, Newcastle\n\nJan 7:\n\nBrudenell Social Club, Leeds\n\nJan 8:\n\nCastle & Falcon, Birmingham\n\nJan 9:\n\nThe Corn Exchange, Newport\n\nJan 10:\n\nThe Garage, London\n\nJan 12:\n\nDaltons, Brighton",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T18:00:00+00:00",
+      "id": "7ea6506b216e7f9af489077b64c97f34743418fd",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Voivod Announce The Passing Of Denis “Snake” Bélanger’s Significant Other Christine McDonald",
+      "link": "https://www.theprp.com/2026/10/29/news/voivod-announce-the-passing-of-denis-snake-belangers-significant-other-christine-mcdonald/",
+      "rss_body": "Bélanger had stepped away from the band this year to be by her side through her battle with stage four cancer.",
+      "tags": "News Voivod",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T17:57:41+00:00",
+      "id": "5ee8282edcb9e8bbd6a674476130964a63a345bb",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "200 Stab Wounds Tap Code Orange, Etc. Members To Oversee Their New “Sweet Suicide” Music Video",
+      "link": "https://www.theprp.com/2026/10/29/news/200-stab-wounds-tap-code-orange-etc-members-to-oversee-their-new-sweet-suicide-music-video/",
+      "rss_body": "The NOWHERE2RUN collective directed and produced this new visual offering.",
+      "tags": "News 200 Stab Wounds",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T17:47:45+00:00",
+      "id": "4acff78502b55f672d4f47a91a2dd8f0fa8f5f2c",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Imminence Premiere “Crestfallen” Music Video",
+      "link": "https://www.theprp.com/2026/10/29/news/imminence-premiere-crestfallen-music-video/",
+      "rss_body": "Their medieval saga continues.",
+      "tags": "News Imminence",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T17:41:07+00:00",
+      "id": "994f1b736d2b9cc7b733cad409dfbb0108324182",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: 200 Stab Wounds Debuts Grimey New Single, “Sweet Suicide”",
+      "link": "https://metalinjection.net/new-music/listen-200-stab-wounds-debuts-grimey-new-single-sweet-suicide",
+      "rss_body": "Their third LP, 'Lowest Form,' comes out February 29 on Metal Blade Records.",
+      "tags": "New Music 200 stab wounds",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T17:31:23+00:00",
+      "id": "62c84ec1794aee4ac0cb20b682700f235187199c",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Korn, Bad Omens, Pierce The Veil & Blink-182 To Headline 2027 ‘Welcome To Rockville’",
+      "link": "https://www.theprp.com/2026/10/29/news/korn-bad-omens-pierce-the-veil-blink-182-to-headline-2027-welcome-to-rockville/",
+      "rss_body": "The nearly complete roster is now available.",
+      "tags": "News Bad Omens Blink-182 Korn Pierce The Veil Welcome To Rockville",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T17:08:37+00:00",
+      "id": "1ab805ccb7e963ee1a6eb6054fbf0bf24580c64e",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: ABOVE & BELOW — “VOID_//EXE”",
+      "link": "https://www.nocleansinging.com/2026/10/29/an-ncs-premiere-above-below-void_-exe/",
+      "rss_body": "(written by Islander) We’re about to take you off of most (but not all) of our well-beaten musical paths through a track that deploys sonic ingredients we don’t often display but which shares a certain evil kinship with some of the more deranged expressions of extreme metal we focus on. This track, “VOID_//EXE“, is the\n\n[...]",
+      "tags": "Premieres Above & Below",
+      "category": "Экстремальный метал",
+      "published": "2026-10-29T17:06:15+00:00",
+      "id": "3039cdcfae684b31f21101f52ff7f4f55fa4ea92",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Welcome to Rockville Reveals 2027 Lineup Featuring Bad Omens, Korn, Pierce the Veil and More",
+      "link": "https://metalinjection.net/tour-dates/festivals/welcome-to-rockville-reveals-2027-korn-bad-omens-pierce-the-veil",
+      "rss_body": "It's gonna be a heavy time at the Daytona Speedway.",
+      "tags": "Festivals Welcome To Rockville featured1",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T16:37:22+00:00",
+      "id": "4c4c5eeaf2d257448adde8c8d6e6085b701b0494",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Blink-182, Korn, Alice In Chains, Judas Priest and more for Welcome To Rockville 2027",
+      "link": "https://www.loudersound.com/news/blink-182-korn-alice-in-chains-judas-priest-bad-omens-more-confirmed-welcome-to-rockville-2027",
+      "rss_body": "Korn\n\n, Blink-182,\n\nJudas Priest\n\n, Alice In Chains, Pierce The Veil and Bad Omens are among the more than 150 artists confirmed for Florida heavy metal festival Welcome To Rockville next year.\n\nThe four-day weekender will return to Daytona International Speedway from May 6 to 9, with Korn headlining the opening Thursday, Bad Omens topping the bill on Friday, Pierce The Veil headlining Saturday and Blink-182 closing proceedings on Sunday.\n\nJoining them across the five stages that weekend will be a reuniting Faith No More, Ice Nine Kills, Papa Roach, The Prodigy, Danzig, I Prevail, Cypress Hill and many, many more. See the full list of announced performers below.\n\nTickets\n\nare on sale now via the Welcome To Rockville website\n\n, including four-day, two-day, single-day and various VIP passes.\n\nThe event will mark Faith No More’s first North American show since they went on hiatus in 2016, and there will be multiple other special sets. Meshuggah will perform as part of their 40th-anniversary North American tour and Machine Head will be making a US-exclusive appearance.\n\nIn addition, glam legends Skid Row will be back onstage after three years away to celebrate their 40th anniversary. It will be their first gig with new vocalist Justin Sargent.\n\nWelcome To Rockville 2026 took place from May 7 to 10 and was headlined by Guns N’ Roses, Foo Fighters, Bring Me The Horizon and My Chemical Romance.\n\nWelcome To Rockville 2027 lineup:\n\nBlink-182\n\nKorn\n\nPierce The Veil\n\nBad Omens\n\n$uicideboy$\n\nFaith No More\n\nPapa Roach\n\nMGK\n\nThe Offspring\n\nAlice in Chains\n\nThe Prodigy\n\nGood Charlotte\n\nKnocked Loose\n\nMarilyn Manson\n\nKnocked Loose\n\nJudas Priest\n\nIce Nine Kills\n\nDanzig\n\nBilmuri\n\nCirca Survive\n\nI Prevail\n\nTill Lindemann\n\nCypress Hill\n\n311\n\nSeether\n\nStone Temple Pilots\n\nHot Mulligan\n\nThe Pretty Reckless\n\nPoppy\n\nLil Jon\n\nBullet For My Valentine\n\nShe Wants Revenge\n\nPresident\n\nWage War\n\nIn This Moment\n\nMeshuggah\n\nBoys Like Girls\n\nBlack Veil Brides\n\nDashboard Confessional\n\nKublai Khan TX\n\nJulia Wolf\n\nCobra Starship\n\nClutch\n\nRico Nasty\n\nMachine Head\n\nKerry King\n\nPendulum\n\nCoal Chamber\n\nSleep Theory\n\nSullivan King\n\nChad Gray\n\nLoathe\n\nSugar Ray\n\nEverlast\n\nTestament\n\nEscape The Fate\n\nSkid Row\n\nHanabie.\n\nWaka Flocka Flame\n\nSuperheaven\n\nP.O.D.\n\nImminence\n\nSteve-O\n\nThursday\n\nFrom Ashes To New\n\nKim Dracula\n\nForever The Sickest Kids\n\nThe Amity Affliction\n\nMagnolia Park\n\nB.o.B\n\nSaosin\n\nViolent Vira\n\nRelient K\n\nPeelingFlesh\n\nKittie\n\nHey Monday\n\nOf Mice & Men\n\nSteel Panther\n\nEve 6\n\nCarpenter Brut\n\nCrowbar\n\nHelmet\n\nCorrosion Of Conformity\n\nWind Rose\n\nCrown The Empire\n\nBoundaries\n\nA Heartwell Ending\n\nBlood Incantation\n\nQuiet Riot\n\nFit For An Autopsy\n\nAfter The Burial\n\nDiggy Graves\n\nStabbing Westward\n\nSoulfly\n\nThe Funeral Portrait\n\nPalisades\n\nFear Factory\n\nInvent Animate\n\nDirty Honey\n\nArmor For Sleep\n\nSlomosa\n\nDrowning Pool\n\nSilent Planet\n\nShadows Fall\n\nCute Is What We Aim For\n\nHellogoodbye\n\nLacuna Coil\n\nHer Last Sight\n\nI See Stars\n\nShowing Teeth\n\nAmerican Hi-Fi\n\nVana\n\nSouth Arcade\n\nMetal Church\n\nNailbomb\n\nKami Kehoe\n\nThe Fall of Troy\n\nEmarosa\n\nDeathbyRomy\n\nMac Sabbath\n\nPoint North\n\nPowerman 5000\n\nStatic Dress\n\nLower Definition\n\nLady Radiator\n\nOrgy\n\nNinth Key\n\nVarials\n\nMalevolence\n\nRev3rent\n\nAutumn Kings\n\nTX2\n\nDriveways\n\nKingdom Of Giants\n\nHo99o9\n\nXcomm\n\nArankai\n\nChained Saint\n\nDark Divine\n\nSylosis\n\nAsava\n\nDed\n\nPinknoise\n\nInfected Rain\n\nZahna\n\nDaniel Spriggs\n\nBødywash\n\nSilent Theory",
+      "tags": "Music Festivals Bands & Artists Live Performances",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T16:37:20+00:00",
+      "id": "72d2c082a763646d78ac0dd6ff073c5d8be3e52b",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Month-Long Massacre, Final Kill: 92 Vinyl Records, All $31 or Less",
+      "link": "https://metalinjection.net/announcements/month-long-massacre-final-kill-92-vinyl-records-all-31-or-less",
+      "rss_body": "Dearest reader, We've been on quite the journey over the last few weeks… wasn't it thrilling? All year, I kept my compulsions to myself. I made a list of grievances, […]",
+      "tags": "Announcements",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T16:31:23+00:00",
+      "id": "59d407b1583dafde7cf020817a490533d6d867a8",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Track Premiere: McGuyer – KHAST",
+      "link": "https://www.decibelmagazine.com/2026/10/29/track-premiere-mcguyer-khast/",
+      "rss_body": "Matt McGuyer\n\nsteps out on his own with\n\nSilver Linings\n\n, a towering and deeply intentional solo effort that gives power, curiosity, and humanity the spotlight. Today he is sharing the track “KHAST” ahead of the album drop on October 30.\n\nMcGuyer\n\n·\n\n12. KHAST\n\nSilver Linings\n\nis meticulous, heavy, and alive. Mixed and Mastered by Mario Quintero of\n\nSpotlights\n\n, the powerfully-human production allows space for each element to shine and breathe.\n\nMcGuyer understands restraint just as much as he understands impact, and that awareness elevates\n\nSilver Linings\n\nbeyond a collection of songs into a cohesive, immersive experience that deserves at least a couple full-listens.\n\nGet the album here.",
+      "tags": "Exclusive Streaming McGuyer",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T16:00:15+00:00",
+      "id": "1de9ee4250d8c3b6a835580199960237853f512e",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: EYES OF AGONY — “EYES OF AGONY”",
+      "link": "https://www.nocleansinging.com/2026/10/29/an-ncs-premiere-eyes-of-agony-eyes-of-agony/",
+      "rss_body": "(written by Islander) It’s highly likely that scrolling metal lovers will freeze in place when they see the painting up above. It’s a ghastly and frightening vision, and one that suits the name of the band whose debut album it adorns: Eyes of Agony. Yes, When They Return is a debut album, but it was\n\n[...]",
+      "tags": "Premieres Eyes of Agony",
+      "category": "Прогрессив",
+      "published": "2026-10-29T15:58:17+00:00",
+      "id": "1533b8ef40cfee532bc8c918706699e614df3428",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "EXTOL – AURA OF DECAY",
+      "link": "https://www.nocleansinging.com/2026/10/29/extol-aura-of-decay/",
+      "rss_body": "(Andy Synn, ahem, extols the virtues of the band’s new album, out next week) Let’s address the elephant in the room immediately, shall we? Yes, Extol‘s long-awaited sixth album – coming some thirteen years after their seminal (and almost equally long gestating) self-titled record – deserves much, much better artwork, as it’s become painfully clear that Hugh Syme (famous\n\n[...]",
+      "tags": "Album Reviews Andy Synn Extol",
+      "category": "Прогрессив",
+      "published": "2026-10-29T15:14:52+00:00",
+      "id": "3f488d39552ddfa79c7d9f8a59f7900c0580a8f1",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Skid Row Reveals New Singer, Drops Cover of The Who's \"Won't Get Fooled Again\"",
+      "link": "https://metalinjection.net/news/skid-row-reveals-new-singer-drops-cover-of-the-whos-wont-get-fooled-again",
+      "rss_body": "Fresh off Broadway!",
+      "tags": "Latest News skid row",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T15:06:34+00:00",
+      "id": "459a44a631ff34725709b43becbd9483b27223d5",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Full Album Stream: Hope Collapse – “Age of Heathens”",
+      "link": "https://www.decibelmagazine.com/2026/10/29/full-album-stream-hope-collapse-age-of-heathens/",
+      "rss_body": "If you have a desperate need for unhinged, blistering hardcore in the crust-infused late 80s and early 90s style, there’s hope for you in the new album from\n\nHope Collapse\n\n.\n\nAge of Heathens\n\nis the band’s debut album, and their first sonic output since 2005’s\n\nYear of the Leper\n\nEP. The band features guitarist Andrew Orlando, vocalist Carlos Ramirez, bassist Jeff Kaplan (Two Man Advantage, The Judas Iscariot) and drummer Anthony Corallo (Sheer Terror, Kill Your Idols). The band’s violent and bracing take on metallic hardcore definitely recalls classics from bands like Integrity, Rorschach, and Extreme Noise Terror while also containing subtle reminders of Citizen’s Arrest and some of Converge’s earliest work.\n\nDecibel\n\nis glad to offer you the chance to listen to the album in full.\n\nCarlos was generous in telling us about the album; here’s what he had to say about the music itself:\n\n“Andrew and I are both lifelong Voivod nerds, so even when we’re trying to write something straightforward, some weird riff or unexpected turn usually sneaks its way in. That said, the record leans into the grindcore and darker side of the ’90s hardcore spectrum we were part of before and during our Black Army Jacket days. I still think the record has a catchy element, especially on songs like ‘War Addiction’ and ‘Blade Walker.’ Yes, we appreciate the power of a strong chorus.”\n\nAnd they’re good at writing a strong chorus too! As for the lyrics:\n\n“\n\nAge of Heathens\n\nis probably the most direct record I’ve ever written. I avoided flowery language and got to the point. Much of it deals with how people are exploited, manipulated, and pushed around by those in positions of power. There are songs about PTSD, the realities of inner-city public schools, religious hypocrisy, and other fun subjects!”\n\nLove it.\n\nAge\n\nof Heathens\n\ncomes out tomorrow, and you can\n\npick up the vinyl\n\nvia Black Claw Records. Listen to the album below.\n\nAge of Heathens by Hope Collapse",
+      "tags": "Full Album Stream Streaming age of heathens Crust Hardcore Hope Collapse metallic hardcore premiere",
+      "category": "Прогрессив",
+      "published": "2026-10-29T15:00:25+00:00",
+      "id": "f3a9158637d1a587de1d4d31d7997fbc379a7e28",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: August Burns Red Unleash New Live Video for \"Behemoth\"",
+      "link": "https://metalinjection.net/news/watch-august-burns-red-unleash-new-live-video-for-behemoth",
+      "rss_body": "Featuring footage from their final stop on their co-headlining tour with The Amity Affliction earlier this year.",
+      "tags": "Latest News August Burns Red",
+      "category": "Экстремальный метал",
+      "published": "2026-10-29T14:55:39+00:00",
+      "id": "1a82f992b518778f655f49b3e9d341de639562b6",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Skid Row Announce New Lead Singer and 2027 Tour Dates",
+      "link": "https://ultimateclassicrock.com/skid-row-new-singer-2027-tour-dates/",
+      "rss_body": "After an exhaustive search, the group teams up with a New Jersey-based Broadway star.",
+      "tags": "Concerts Lineup Changes News Skid Row UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T14:52:18+00:00",
+      "id": "189e91f34c6456bc4bac9f40457ca72d7c185e02",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS VIDEO PREMIERE: DECIDUOUS FOREST — “CELESTIAL FORESTS”",
+      "link": "https://www.nocleansinging.com/2026/10/29/an-ncs-video-premiere-deciduous-forest-celestial-forests/",
+      "rss_body": "(written by Islander) Deciduous Forest is the solo project of Brisbane-based Snjór, guitarist with Graveir and live guitarist for Hebephrenique, Brimstone, and Bruxa. Deciduous Forest drew its inspirations from terrains of atmospheric black metal, neofolk, and blackgaze and announced itself last year with the debut album Fields Of Yore. Now a second album has been\n\n[...]",
+      "tags": "Premieres Deciduous Forest",
+      "category": "Экстремальный метал",
+      "published": "2026-10-29T14:06:55+00:00",
+      "id": "c5a07283d804d8fa6bc77407d68fd446cda72637",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: NYPD Breaks Up Haywire Show In Times Square",
+      "link": "https://metalinjection.net/news/watch-nypd-breaks-up-haywire-show-in-times-square",
+      "rss_body": "Well, hope it was fun while it lasted.",
+      "tags": "Latest News haywire",
+      "category": "Хэви-метал",
+      "published": "2026-10-29T14:06:18+00:00",
+      "id": "db9f86860fe4dd4b1d89714eaff31f5f697414c7",
       "retry_after": 0
     }
   ]
