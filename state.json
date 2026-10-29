@@ -1121,49 +1121,17 @@
     "934066fe8c7e2005a64525714a950894ffc858b2",
     "5307351c26a5dff9802f6cfecc57b90684326eb0",
     "c082fdd1f69582fa51f7d146dcf44cef8e7c8367",
-    "1eaf640563d3fdb20fe68597f6c458aebf8d490d"
+    "1eaf640563d3fdb20fe68597f6c458aebf8d490d",
+    "5f83911213c4b00aff24845ed224d858c2d6cf35",
+    "1031ce5f7747ed8f1082db352f09f196b0438aa2",
+    "73ed347acd5f1b7401f4e0b0c0291f93ff458f65",
+    "dabc8fbe9345737f0616c9e1b7e5073377e6e8bc",
+    "b43203abcc2477b7165c94b67669aea737ebd33c",
+    "a3ce2e813452a89825a7ad7d3e8f2a75bf2faa95",
+    "1ab84688646e98e87a48b8070d98afc743ce5c87",
+    "376d38a34b7400df86bf8fdca74e2a2546c01eff"
   ],
   "recent_titles": [
-    {
-      "title": "What Lies Below Sign With Solid State Records, Premiere “Return To Nothing” Video",
-      "source": "ThePRP",
-      "ts": 1792737510
-    },
-    {
-      "title": "How Genesis recruited Steve Hackett after nearly breaking up",
-      "source": "Louder",
-      "ts": 1792737544
-    },
-    {
-      "title": "Get Steven Wilson's Requiem For A Village in Dark Green vinyl with an exclusive art print. Pre-order yours now!",
-      "source": "Louder",
-      "ts": 1792757384
-    },
-    {
-      "title": "British bluesman Robin Davey launches new album with damning criticism of modern blues",
-      "source": "Louder",
-      "ts": 1792757400
-    },
-    {
-      "title": "Godsmack, Staind, Mötley Crüe, Carcass, King Gizzard & The Lizard Wizard, New Power Trip, Etc. Among 2026 Black Friday ‘Record Store Day’ Releases",
-      "source": "ThePRP",
-      "ts": 1792757607
-    },
-    {
-      "title": "CLEARING THE SLATE ISSUE FIVE",
-      "source": "No Clean Singing",
-      "ts": 1792757612
-    },
-    {
-      "title": "Roger Waters Presents Legacy: A Pink Floyd Show adds UK and Ireland dates",
-      "source": "Louder",
-      "ts": 1792757637
-    },
-    {
-      "title": "AEROSMITH намекают на возвращение",
-      "source": "Darkside",
-      "ts": 1792757642
-    },
     {
       "title": "FELIPE PLAZA KUTZBACH выступает с CANDLEMASS",
       "source": "Darkside",
@@ -1923,6 +1891,46 @@
       "title": "Sol Invicto (Deftones, Cypress Hill, Etc.) Celebrate 16 Years Of Deftones’ “You’ve Seen The Butcher” With A Remix",
       "source": "ThePRP",
       "ts": 1793221122
+    },
+    {
+      "title": "En route from the underworld, Queens Of The Stone Age show darkness and restraint on Perfecth",
+      "source": "Louder",
+      "ts": 1793234872
+    },
+    {
+      "title": "Poison The Well Announce January Shows With Rosasharin & xSERAPHx",
+      "source": "ThePRP",
+      "ts": 1793234875
+    },
+    {
+      "title": "Al Jourgensen Confirms The Venue And Date For Ministry’s Final Live Show",
+      "source": "ThePRP",
+      "ts": 1793234884
+    },
+    {
+      "title": "Crowquill’s Debut Album “Slept With Cannula” Due In November Via DAZE & HardLore",
+      "source": "ThePRP",
+      "ts": 1793234890
+    },
+    {
+      "title": "System Of A Down, Metallica, Deftones, Tool, Nine Inch Nails, Etc. Rank On Rolling Stone’s ‘The 200 Greatest Rock Songs Of The 21st Century So Far’",
+      "source": "ThePRP",
+      "ts": 1793234900
+    },
+    {
+      "title": "Madness announce reissues of first five studio albums",
+      "source": "Louder",
+      "ts": 1793234910
+    },
+    {
+      "title": "John Bush To Celebrate His Anthrax Era Live In Europe & The UK Next Year",
+      "source": "ThePRP",
+      "ts": 1793234916
+    },
+    {
+      "title": "Face Yourself To Record Their Debut Album In November",
+      "source": "ThePRP",
+      "ts": 1793234921
     }
   ],
   "initialized_sources": [
@@ -4424,7 +4432,7 @@
       "title": "System of a Down's Daron Malakian: \"Red Or Blue, Your Government Doesn't Give a **** About You\"",
       "link": "https://metalinjection.net/news/system-of-a-downs-daron-malakian-red-or-blue-your-government-doesnt-give-a-about-you",
       "rss_body": "\"To be political... to not be political...\"",
-      "tags": "Latest News Daron Malakian System Of A Down",
+      "tags": "Latest News System Of A Down Daron Malakian featured",
       "category": "Хэви-метал",
       "published": "2026-10-27T19:24:18+00:00",
       "id": "4f1e7d75ac2ed83c167d1139bb2b0bfd1db36064",
@@ -4592,7 +4600,7 @@
       "title": "Every Heavy Metal Song on Rolling Stone's '200 Best Rock Songs of the 21st Century' Ranking",
       "link": "https://metalinjection.net/news/every-heavy-metal-song-on-rolling-stones-200-best-songs-of-the-21st-century-ranking",
       "rss_body": "Let's all get super mad that our favorite song didn't make the cut!",
-      "tags": "Latest News",
+      "tags": "Latest News featured1",
       "category": "Хэви-метал",
       "published": "2026-10-28T14:00:21+00:00",
       "id": "d9cdf8d3e4799e95b890fe06ed35f2d5d87afc7b",
@@ -4736,7 +4744,7 @@
       "title": "Ozzy Osbourne and Black Sabbath’s ‘Back to the Beginning’ Concert Film Coming to Blu-ray and Vinyl In December",
       "link": "https://metalinjection.net/news/ozzy-osbourne-and-black-sabbaths-back-to-the-beginning-concert-film-coming-to-blu-ray-and-vinyl-in-december",
       "rss_body": "Tell Santa early.",
-      "tags": "Latest News Ozzy Osbourne Black Sabbath",
+      "tags": "Latest News Ozzy Osbourne Black Sabbath featured",
       "category": "Хэви-метал",
       "published": "2026-10-28T15:57:11+00:00",
       "id": "1bb14873037daa9138595d38e0f7330f8329c0b4",
@@ -4764,6 +4772,54 @@
       "category": "Экстремальный метал",
       "published": "2026-10-28T13:30:28+00:00",
       "id": "bdae53d3519971a0f9c9dd84024fddee304b2fbe",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "August Burns Red Issue “Behemoth” Live Video From May 2026 Philadelphia Show",
+      "link": "https://www.theprp.com/2026/10/28/news/august-burns-red-issue-behemoth-live-video-from-may-2026-philadelphia-show/",
+      "rss_body": "As they prepare for their annual seasonal show.",
+      "tags": "News August Burns Red",
+      "category": "Экстремальный метал",
+      "published": "2026-10-28T21:14:10+00:00",
+      "id": "6b46dc76895fea966b63b0eca100cdc150cf4e2c",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Mirrors Release “Home” Music Video",
+      "link": "https://www.theprp.com/2026/10/28/news/mirrors-release-home-music-video/",
+      "rss_body": "The Aussie melodic metalcore band recently signed with Greyscale Records.",
+      "tags": "News Mirrors",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T21:00:08+00:00",
+      "id": "838709e6c29152b086ffd1ec591aecdfa3839416",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "U2 announce intimate BBC gig to take place in London: here's how you could get tickets",
+      "link": "https://www.loudersound.com/bands-artists/u2-announce-intimate-london-gig-and-you-too-could-be-there",
+      "rss_body": "U2\n\nwill perform an exclusive concert for BBC Music next month.\n\nThe performance, recorded at an indoor central London venue in front of a select audience of fans on November 3, will see the Irish band perform songs from across their extensive catalogue, alongside new tracks from their forthcoming album,\n\nCarnaval de Luz\n\n.\n\nA limited number of tickets are now available via a BBC Audiences ballot, which is open until midnight tomorrow, October 29. To register, go\n\nhere\n\n.\n\nThe performance will be broadcast as follows:\n\nOn BBC Two in late November, as part of a night of programming on the channel, dedicated to U2.\n\nBBC Radio 2 and BBC Sounds on November 30, 7-9pm, within Jo Whiley’s show, alongside a new interview with members of the band.\n\nThe programmes will also be available on BBC iPlayer and BBC Sounds after broadcast.\n\nU2 will also join Vernon Kay on his Radio 2 Show (weekdays, 9.30am-12pm) for Tracks of My Years, choosing ten songs that have soundtracked their lives and careers.\n\nThe episode will be available on BBC Sounds and BBC iPlayer from 6am on November 15.\n\nU2's new album will be released on November 15, and is\n\navailable to pre-order now\n\n.\n\nGuitarist The Edge describes\n\nCarnaval de Luz\n\nas “a messy, provocative, sacred collection of songs”, while frontman Bono promises listeners will enjoy “loud guitars, deep bass, some ecstatic rhythms.\"\n\nIn a recent interview conducted with the\n\nNew York Times\n\n, Bono and The Edge both stressed that they still have the desire to prove to themselves, and to the world at large, that U2 remain one of the world's great rock bands.\n\n“We genuinely think that we might just write the best song we’ve ever written next week,\" The Edge said, \"or do the best show we’ve ever done next tour... That's why I'm still in this band.\"\n\n\"I’m jealous when suddenly we’re left out of the pop charts,\" Bono admits. \"That’s a personality flaw, because, yeah, 66 and wants to storm the pop charts, somebody should throw some cold water over this fella.! But actually, deep down, it’s because I don’t want those ideas to be left out of the mainstream because my favourite artists stormed the mainstream.\"\n\n“We’re still creatively extremely inspired and active,\" The Edge adds. \"And there are lots of songs that have yet to be released and yet to be finished... So I can’t see that ending anytime soon.\"\n\nIn reference to the quartet's longevity as they gear up for another mammoth world tour, Bono predicts, \"I think if we kept playing live, till we drop, there’ll be people.\"",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T21:00:00+00:00",
+      "id": "5ed897bf2a24fcae43b3d66bdd69c9a18bb10704",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Entheos Release New Fiery Video for \"Hell Is A Part Of Me\"",
+      "link": "https://metalinjection.net/new-music/watch-entheos-release-new-fiery-video-for-hell-is-a-part-of-me",
+      "rss_body": "Coming off 'Empty On The Inside,' out now on Metal Blade Records.",
+      "tags": "New Music Entheos featured",
+      "category": "Хэви-метал",
+      "published": "2026-10-28T19:26:43+00:00",
+      "id": "8d382b5eb31fee787159bef37c1220a20faaf502",
       "retry_after": 0
     }
   ]
