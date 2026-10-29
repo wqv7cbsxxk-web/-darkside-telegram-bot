@@ -1137,49 +1137,17 @@
     "838709e6c29152b086ffd1ec591aecdfa3839416",
     "5ed897bf2a24fcae43b3d66bdd69c9a18bb10704",
     "fde7efddcc5ab4da87822e055d1806349b87ae75",
-    "b43a708b12ef412bbd1cee4449e2f1d549f1cf0c"
+    "b43a708b12ef412bbd1cee4449e2f1d549f1cf0c",
+    "bef8a5442f3034662e8ff5e683cd497f230deba9",
+    "ff65dcf6c997e1816e6663e82a970c3242b154e5",
+    "ecd892b90a0a2f38fabf600f00941727ce9e3a59",
+    "74b9dc3b020da345340f450434055e2953e9b976",
+    "5f7a78e43a190123105765f05676c883249ec43f",
+    "7e2b0c9a55bdb545f9f52297cd1ba3378f76ad8d",
+    "a699236225b1222c9d0fa266379b9ad85a9d2ffa",
+    "44fc4ae729d478dfd8ac24830326c1d12fe30952"
   ],
   "recent_titles": [
-    {
-      "title": "Kalandra: “I wasn’t a fan of the Beatles, but going into that audition, I said, ‘This has been my dream forever!’”",
-      "source": "Louder",
-      "ts": 1792775407
-    },
-    {
-      "title": "HEART OF WINTER FESTIVAL 2027 PREVIEW",
-      "source": "No Clean Singing",
-      "ts": 1792775437
-    },
-    {
-      "title": "Slaughter To Prevail's Alex Terrible shares new views on masculinity, hopes to inspire others to face fears",
-      "source": "Louder",
-      "ts": 1792787258
-    },
-    {
-      "title": "Oceans Ate Alaska’s New Album “Purge” Due In January, “Bring You Back” Music Video Launched",
-      "source": "ThePRP",
-      "ts": 1792787266
-    },
-    {
-      "title": "System Of A Down Announce Third Rose Bowl Stadium Show, Gojira To Open",
-      "source": "ThePRP",
-      "ts": 1792787271
-    },
-    {
-      "title": "Colepitz Release “Knock” Video Alongside Their First New Album In 16 Years",
-      "source": "ThePRP",
-      "ts": 1792787281
-    },
-    {
-      "title": "Skrapegoat (Ex-Skrape, Etc.) Announce Their First-Ever Live Show",
-      "source": "ThePRP",
-      "ts": 1792787318
-    },
-    {
-      "title": "Top 30 '70s Kiss Songs",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792787373
-    },
     {
       "title": "System Of A Down Announce Second Rose Bowl Stadium Show With Pierce The Veil",
       "source": "ThePRP",
@@ -1939,6 +1907,46 @@
       "title": "Elder’s Latest Album “Through Zero” Gets New Dolby Atmos & 5.1 Surround Mixes",
       "source": "ThePRP",
       "ts": 1793255728
+    },
+    {
+      "title": "Full Album Stream: Italian Death Metal Crew Obbrobrius Offer Up Usurped",
+      "source": "Decibel",
+      "ts": 1793281496
+    },
+    {
+      "title": "U2 add UK and European dates to 2027 world tour, humbly entitled The Greatest Show On Earth",
+      "source": "Louder",
+      "ts": 1793281508
+    },
+    {
+      "title": "Eloy Casagrande has finished recording drums for Slipknot’s new album: “we have a lot of songs!”",
+      "source": "Louder",
+      "ts": 1793281525
+    },
+    {
+      "title": "Maynard James Keenan was dared to become the singer of Tool: “I was being critical about things. It was like, ‘If you think you can do better...’”",
+      "source": "Louder",
+      "ts": 1793281539
+    },
+    {
+      "title": "“Rod Stewart was pissed. I thought, ‘That’s something I could do!’” Fish and the making of Marillion",
+      "source": "Louder",
+      "ts": 1793281569
+    },
+    {
+      "title": "Haywire’s Guerilla Video Shoot In Times Square Quickly Ended By The NYPD",
+      "source": "ThePRP",
+      "ts": 1793281576
+    },
+    {
+      "title": "Marilyn Manson Sets Dates For His First Australian Tour In Over A Decade",
+      "source": "ThePRP",
+      "ts": 1793281578
+    },
+    {
+      "title": "Motley Crue Announce First Summer 2027 Festival Appearances",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793281597
     }
   ],
   "initialized_sources": [
@@ -4639,18 +4647,6 @@
       "retry_after": 1793203355
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Marilyn Manson Sets Dates For His First Australian Tour In Over A Decade",
-      "link": "https://www.theprp.com/2026/10/28/news/marilyn-manson-sets-dates-for-his-first-australian-tour-in-over-a-decade/",
-      "rss_body": "A four-date run has been scheduled for February.",
-      "tags": "News Marilyn Manson",
-      "category": "Хэви-метал",
-      "published": "2026-10-28T17:44:44+00:00",
-      "id": "a699236225b1222c9d0fa266379b9ad85a9d2ffa",
-      "retry_after": 0
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "Photos: Periphery Live in Toronto on October 26",
@@ -4660,19 +4656,7 @@
       "category": "Прогрессив",
       "published": "2026-10-28T17:13:58+00:00",
       "id": "9e902a011ede93b84045988d1b955057ca9c0096",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Motley Crue Announce First Summer 2027 Festival Appearances",
-      "link": "https://ultimateclassicrock.com/motley-crue-summer-festival-tour-dates-2027/",
-      "rss_body": "The '80s hard rock legends also share what fans can expect to see and hear at their next Las Vegas residency.",
-      "tags": "Concerts News Motley Crue UCR Ultimate Classic Rock Radio",
-      "category": "Хард-рок",
-      "published": "2026-10-28T17:08:05+00:00",
-      "id": "44fc4ae729d478dfd8ac24830326c1d12fe30952",
-      "retry_after": 0
+      "retry_after": 1793281879
     },
     {
       "source": "Louder",
@@ -4768,7 +4752,19 @@
       "category": "Хэви-метал",
       "published": "2026-10-28T19:26:43+00:00",
       "id": "8d382b5eb31fee787159bef37c1220a20faaf502",
-      "retry_after": 1793256018
+      "retry_after": 1793281876
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Iron Maiden's Bruce Dickinson Announces Massive 2027 Solo Tour",
+      "link": "https://ultimateclassicrock.com/bruce-dickinson-2027-tour/",
+      "rss_body": "The tour will include music from an as-yet announced new album that he promised would be 'heavy as s---.'",
+      "tags": "Concerts News Bruce Dickinson Iron Maiden UCR",
+      "category": "Хэви-метал",
+      "published": "2026-10-27T11:50:34+00:00",
+      "id": "a068ce5842844b3a43c20290b482b9cf67c27a01",
+      "retry_after": 0
     }
   ]
 }
