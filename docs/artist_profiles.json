@@ -2428,7 +2428,7 @@
       "website": "http://rammstein.de",
       "reference_url": "https://en.wikipedia.org/wiki/Rammstein",
       "reference_checked_at": "2026-10-29T00:48:46.724119+00:00",
-      "tour_attempted_at": "2026-10-24T12:13:10.961081+00:00",
+      "tour_attempted_at": "2026-10-29T19:20:32.774096+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T00:48:46.724227+00:00"
     },
@@ -2491,7 +2491,7 @@
       "website": "http://ratm.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rage_Against_The_Machine",
       "reference_checked_at": "2026-10-29T00:48:48.084804+00:00",
-      "tour_attempted_at": "2026-10-24T12:13:11.223749+00:00",
+      "tour_attempted_at": "2026-10-29T19:20:33.168745+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T00:48:48.084922+00:00"
     },
@@ -2513,7 +2513,7 @@
       "website": "http://rush.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rush_%28band%29",
       "reference_checked_at": "2026-10-29T00:48:48.442390+00:00",
-      "tour_attempted_at": "2026-10-24T12:13:11.551819+00:00",
+      "tour_attempted_at": "2026-10-29T19:20:33.829237+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T00:48:48.442528+00:00"
     },
@@ -2543,7 +2543,7 @@
       "website": "http://sepultura.com.br",
       "reference_url": "https://en.wikipedia.org/wiki/Sepultura",
       "reference_checked_at": "2026-10-29T00:48:48.672413+00:00",
-      "tour_attempted_at": "2026-10-24T12:13:12.395078+00:00",
+      "tour_attempted_at": "2026-10-29T19:20:37.164475+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T00:48:48.672433+00:00"
     },
@@ -3011,10 +3011,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://twistedsister.com",
       "reference_url": "https://en.wikipedia.org/wiki/Twisted_Sister",
-      "reference_checked_at": "2026-10-22T11:49:57.036476+00:00",
+      "reference_checked_at": "2026-10-29T19:20:30.754348+00:00",
       "tour_attempted_at": "2026-10-24T23:26:03.739495+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T11:49:57.036616+00:00"
+      "reference_attempted_at": "2026-10-29T19:20:30.754423+00:00"
     },
     "tool": {
       "origin": "Los Angeles , California, U.S.",
@@ -3041,10 +3041,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://toolband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Tool_%28band%29",
-      "reference_checked_at": "2026-10-22T11:49:57.232320+00:00",
+      "reference_checked_at": "2026-10-29T19:20:30.914909+00:00",
       "tour_attempted_at": "2026-10-24T23:26:04.180684+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T11:49:57.232488+00:00"
+      "reference_attempted_at": "2026-10-29T19:20:30.915048+00:00"
     },
     "ufo": {
       "origin": "London , England",
@@ -3163,10 +3163,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://ufo.tmstor.es",
       "reference_url": "https://en.wikipedia.org/wiki/UFO_%28band%29",
-      "reference_checked_at": "2026-10-22T11:49:57.306286+00:00",
+      "reference_checked_at": "2026-10-29T19:20:30.982285+00:00",
       "tour_attempted_at": "2026-10-24T23:26:04.464999+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T11:49:57.306311+00:00"
+      "reference_attempted_at": "2026-10-29T19:20:30.982295+00:00"
     },
     "van-halen": {
       "origin": "Pasadena, California , U.S.",
@@ -3209,10 +3209,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://van-halen.com",
       "reference_url": "https://en.wikipedia.org/wiki/Van_Halen",
-      "reference_checked_at": "2026-10-22T11:49:57.531868+00:00",
+      "reference_checked_at": "2026-10-29T19:20:31.113000+00:00",
       "tour_attempted_at": "2026-10-24T23:26:04.808263+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T11:49:57.531894+00:00"
+      "reference_attempted_at": "2026-10-29T19:20:31.113011+00:00"
     },
     "whitesnake": {
       "origin": "London, England",
@@ -3255,10 +3255,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://whitesnake.com",
       "reference_url": "https://en.wikipedia.org/wiki/Whitesnake",
-      "reference_checked_at": "2026-10-22T11:49:57.848692+00:00",
+      "reference_checked_at": "2026-10-29T19:20:31.341819+00:00",
       "tour_attempted_at": "2026-10-25T01:27:48.855369+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T11:49:57.848933+00:00"
+      "reference_attempted_at": "2026-10-29T19:20:31.342039+00:00"
     },
     "yes": {
       "origin": "London, England",
@@ -3289,10 +3289,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://yesworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Yes_%28band%29",
-      "reference_checked_at": "2026-10-22T11:49:58.080177+00:00",
+      "reference_checked_at": "2026-10-29T19:20:31.518259+00:00",
       "tour_attempted_at": "2026-10-25T01:27:52.479049+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T11:49:58.080204+00:00"
+      "reference_attempted_at": "2026-10-29T19:20:31.518277+00:00"
     },
     "wolves-in-the-throne-room": {
       "origin": "Olympia, Washington , U.S.",
