@@ -1179,49 +1179,17 @@
     "690aef8028189f069b04bc7edd6457127c2ac75e",
     "18a3cdbd15a6983305ab6d96d1c250417a89735c",
     "fd69722c0be9e1dfd1c18299e174c5a59bc914bb",
-    "fee9a4354237b0f92fa7dc9502c3ce2c3f95dc99"
+    "fee9a4354237b0f92fa7dc9502c3ce2c3f95dc99",
+    "a1c620388910a312400440dab5f23a99407ed073",
+    "68015247bb38e0e1e81d84072179d039ef2898ba",
+    "ae1b14c2682869962012009358cedbb1da819e5f",
+    "6c1f46ede4595bbd45086990df3659f69eba3856",
+    "ed01c4b28a11a8a9dc81b810bb551190d17a987c",
+    "2823b06aef2056eec1fed6df2d14b16a369b1781",
+    "19bbd23779e9457e129e1abf332ac2f4229abefa",
+    "0aaee58d380beb2efade308c51585c49cf0f7a14"
   ],
   "recent_titles": [
-    {
-      "title": "The Dillinger Escape Plan’s Self-Titled 1997 EP Set For Remastered Cassette/Digital Release",
-      "source": "ThePRP",
-      "ts": 1792876275
-    },
-    {
-      "title": "Three Days Grace Tap Fill-In Drummer As Neil Sanderson Suffers Ruptured Bicep",
-      "source": "ThePRP",
-      "ts": 1792876281
-    },
-    {
-      "title": "SOiL Set To Debut Their First New Single In Over A Decade This Month",
-      "source": "ThePRP",
-      "ts": 1792876285
-    },
-    {
-      "title": "Infant Annihilator Reveal The Title For Their New Comeback Album",
-      "source": "ThePRP",
-      "ts": 1792876288
-    },
-    {
-      "title": "SEEN AND HEARD ON A SATURDAY: GOLGOTHAN REMAINS, LENG TCH’E, MENTOR, DEMIURGO, VĀMĀCĀRA, VERET",
-      "source": "No Clean Singing",
-      "ts": 1792883940
-    },
-    {
-      "title": "My Chemical Romance Hit With Legal Action Over Recent Onstage Depictions Of Dallas Cowboys Cheerleaders",
-      "source": "ThePRP",
-      "ts": 1792883953
-    },
-    {
-      "title": "The chaos, controversy and beefs behind Slayer’s Reign In Blood",
-      "source": "Louder",
-      "ts": 1792891277
-    },
-    {
-      "title": "Переиздание THE SMASHING PUMPKINS выйдет зимой",
-      "source": "Darkside",
-      "ts": 1792891620
-    },
     {
       "title": "Glenn Hughes, Lee Aaron and more pay tribute to Sass Jordan, dead at 63",
       "source": "Louder",
@@ -1981,6 +1949,46 @@
       "title": "Гитарист THE WHO: «Мне никогда особо не нравились LED ZEPPELIN»",
       "source": "Darkside",
       "ts": 1793353066
+    },
+    {
+      "title": "Five For Friday: October 30, 2026",
+      "source": "Decibel",
+      "ts": 1793376960
+    },
+    {
+      "title": "Is This the End of the Road for Aerosmith?",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793377005
+    },
+    {
+      "title": "AN NCS VIDEO PREMIERE: ANCESTROS — “INCOGNITUM HACTENUS”",
+      "source": "No Clean Singing",
+      "ts": 1793377028
+    },
+    {
+      "title": "AN NCS INTERVIEW: REVEL IN FLESH",
+      "source": "No Clean Singing",
+      "ts": 1793377073
+    },
+    {
+      "title": "Watch Steven Wilson and Phil Collins in conversation about Face Value",
+      "source": "Louder",
+      "ts": 1793377079
+    },
+    {
+      "title": "Aerosmith's Comeback Concert: Full Set List and Video",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793377098
+    },
+    {
+      "title": "How Patrick Stewart went against type as Nazi punk gang leader in Green Room",
+      "source": "Louder",
+      "ts": 1793377111
+    },
+    {
+      "title": "Here Are the ‘Big 4’ of Halloween Rock Songs",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793377133
     }
   ],
   "initialized_sources": [
@@ -5072,8 +5080,8 @@
       "priority": 80,
       "title": "Aerosmith Makes Star-Studded Return at Hollywood Bowl",
       "link": "https://ultimateclassicrock.com/aerosmith-hollywood-bowl-concert-videos-set-list/",
-      "rss_body": "It had been three years since the band's last concert.",
-      "tags": "News Set List Aerosmith UCR",
+      "rss_body": "Photo Credit: Kevin Mazur / Getty Images for Live Nation Entertainment",
+      "tags": "News Set List Aerosmith Dave Grohl UCR",
       "category": "Хард-рок",
       "published": "2026-10-30T08:09:28+00:00",
       "id": "5371de912c5abfa8195ccb2a9a974a95e5de010d",
@@ -5233,6 +5241,102 @@
       "category": "Прогрессив",
       "published": "2026-10-30T04:00:00+00:00",
       "id": "a6f88e76313250dbfbfc6c6c041e5f80eafe0215",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "How Satyricon created black metal's answer to Back In Black",
+      "link": "https://www.loudersound.com/the-story-behind-satyricon-king",
+      "rss_body": "Oslo, 2011. The Nordic World Ski Championships. In the city’s University Square, a massive gramophone sits at the centre of a neon-lit stage. Dancers wrapped in fluorescent wiring contort at the back, and a stream of runway models strut across the front, clad in an array of alien-looking garments. In one of the most surreal sights in metal history, Norwegian\n\nblack metal\n\nband Satyricon douse this display in evil with the venomous sound of their diabolical hymn,\n\nK.I.N.G.\n\nHow the fuck did we get here?\n\n“It was bizarre!” frontman Satyr remembers today. “The production was done by NRK, which is Norway’s equivalent to the BBC, and if you do anything with NRK, they will do it exactly the way that they want to. They’re not gonna sit down with a band and go, ‘How do you want it, guys?’\n\nObviously in a winter country like Norway these events are deeply rooted in our sporting culture, and I guess they wanted to take it and combine it with something else that is uniquely Norwegian and show it to the world. I have no idea who came up with the idea to blend it with a fashion show!”\n\nTo understand the song that got them there, we have to back up a few years. For the first decade of their existence, the band consisting primarily of Satyr and drummer Frost had been one of the Norwegian scene’s great chameleonic innovators.\n\nUp until the Pantera tour, black metal was perceived as a crazy thing with churches burning and people getting killed… Eventually all of that would go away\n\nSatyr\n\nFrom the medieval Scandinavian folk influences of their 1993 debut album\n\nDark Medieval Times\n\nand the following year’s\n\nThe Shadowthrone\n\n, to the widescreen apocalyptic visions of 1996’s\n\nNemesis Divina\n\n, to the sudden stark shift into grinding industrialised grimness on 1999’s\n\nRebel Extravaganza\n\n, Satyricon had gained a reputation for the radical. Metal’s mainstream was starting to notice them.\n\n“The change for us was the Pantera tour in April/May 2000,” considers Satyr. “The way it felt to me was, up until that point, any black metal band was perceived as a crazy thing with churches burning and people getting killed… Eventually all of that would go away. When we appeared on the billing of that tour and we were playing Brixton Academy, not looking intimidated by the size of the stage, I felt that was the first time that the media started to see that bands from this scene were still here.”\n\nSatyricon grabbed this opportunity by the horns, in their own rebellious style. On 2002’s\n\nVolcano\n\nand particularly 2006’s\n\nNow, Diabolical\n\n, from which\n\nK.I.N.G.\n\nis taken, Satyricon hewed out a sound that would make them one of the biggest black metal bands of the era. While bands such as\n\nCradle Of Filth\n\nand Dimmu Borgir were achieving massive success by embracing symphonic bombast and studio gloss, Satyricon stripped everything back, relying on a rock-solid rhythmic backbone and production that’s remarkably dry.\n\nOften called ‘black’n’roll’ – although Satyr makes it clear that he despises that particular term, reasonably pointing out that the likes of Venom, Bathory and Celtic Frost in their earliest forms would be called that by today’s standards – this was a dramatic reconnection with the outlaw rock’n’roll roots from which black metal was initially spewed.\n\n“The late 90s were a difficult time, because keyboards in black metal stopped appearing as complementary and became very dominant,” Satyr explains. “For me, it felt like the wrong interpretation of this music. This type of music is riff-driven. I always said that there was an element of protest on\n\nRebel Extravaganza\n\nby making something more misanthropic and with aesthetics that were very different to the pompous theatrical imagery that was popular around then.\n\n“\n\nNow, Diabolical\n\nwas trusting more that a song could be more powerful if we strip it of unnecessary elements,” he continues. “When you think of\n\nIron Man\n\nby Black Sabbath or Let There Be Rock by AC/DC, you think of the signature riff, and when you have a riff that can carry a whole song on its shoulders, everything from this point onwards is about what complements that part.”\n\nK.I.N.G.\n\nis Satyricon’s ultimate exercise in this primordial mastery of fundamentals. Frost, one of black metal’s most capably infernal blasters lays down an immutably disciplined backbeat, while that riff that Satyr lovingly calls his “song-carrier” pounds with a greasy blackened AC/DC-like insistence. It is the rare genuine black metal floor-filler, a song as malevolent as it is easy to get down to (as those dancers at the fashion show would demonstrate). They even got longtime AC/DC engineer Mike Fraser to mix it.\n\n“He got us the rates to go to Bryan Adams’ Warehouse Studio in Vancouver with the best analogue gear, like nothing we’d seen before,” recalls Satyr fondly. “[Mike] knew very little about black metal, but I wanted someone who does that simplicity with really good sound, and he was doing all kinds of crazy shit. If you listen to\n\nNow, Diabolical\n\nin 2026 it sounds really good to this day.”\n\nSlithering atop this robust groove is Satyr’s own vocal, not budging an inch from a black metal growl but punchily hitting each bark on the beat with curt enunciation as he describes the physical characteristics of this great demonic monarch, feasibly making it black metal’s answer to\n\nBig Fish Little Fish\n\nCardboard Box\n\n.\n\nIf we’d had Slipknot’s budget we probably would have gone back to Roadrunner and said it was not the right video\n\nSatyr\n\nAlong with the proclamations across the album of burning pentagrams and the coming of the Dark Lord, the sense is of some great dark epoch being ushered in, Satyricon laying out the red carpet for this Satanic sovereign preparing to rule the Earth.\n\n“I was very drawn to and fascinated by secret societies and occult lodges, Freemasonry, and this esoteric world,” Satyr explains of his fixations during the making of the album. “Some of the photos we took for the album were in the old auditorium of the original University of Oslo, where that Ski Championships ceremony would actually end up taking place, because it has this grand hall, Masonic vibe.\n\nI was reading that almost all rulers of the Earth have been following some sort of religion or have been a member of some sort of cult or secret society, and that’s where the real power lies. That transcends national barriers, cultural barriers, and moments in time. That idea helped shape the lyrics and also the visual design of that record.”\n\nThese grand ideas of occult philosophy and covert power might not have translated so clearly to the music video for\n\nK.I.N.G.\n\n, however. Born during an unlikely sweet spot between black metal bands dealing with strictly underground resource pools in the 1990s, and music videos becoming a less financially supported art form in the 2010s and 20s, Satyricon racked up a stream of shockingly high-budget MTV clips for songs such as 2002’s\n\nFuel For Hatred\n\nand\n\nNow, Diabolical\n\n’s other single,\n\nThe Pentagram Burns\n\n.\n\nBut the K.I.N.G. video, where the band find themselves in the midst of some strange, demonic, drug-fuelled party surrounded by grasping revellers in carnivalistic dress is one Satyr feels less connected to today.\n\n“I felt it was a bit pretentious!” he laughs sheepishly. “Why on Earth are we having a scene here where someone is trying to push Frost down the stairs? What is that about? The director had very set ideas about how he wanted it to be, and it was difficult for us to fully understand how he saw it. We’d be doing scenes asking, ‘You’re sure about this?’\n\n\"\n\nThe Pentagram Burns\n\n[featuring fire and dancers] was completely different, and that was exactly the right representation of the album to me. With\n\nK.I.N.G.\n\n, if we’d had Slipknot’s budget we probably would have gone back to Roadrunner and said it was not the right video for the song. But we were not Slipknot, we were Satyricon.”\n\nRegardless of aesthetic mismatch, it’s a vivid time capsule of this moment where Satyricon, playing a dangerous and even sexy kind of extreme metal, were able to rub shoulders with the mainstream. A challenging but defining moment came two months after the album’s release, at 2006’s Download festival, where Satyricon found themselves opening the main stage on a day topped by the biggest metal band of all, Metallica.\n\n“We made it late to the stage, due to some incompetent crew I immediately fired after that show, but it showed the best parts of Satyricon, because for the few songs we now had time to play, we made sure to absolutely own that stage,” he recalls.\n\n“I remember walking out and looking at that sea of 80,000 people, and this enormous runway that was on the main stage. I thought to myself that the first thing I needed to do, to show that we were not just there to get the day started, was to walk on that runway. We’re not saying, ‘That catwalk is for Metallica later tonight!’ – we’re gonna go out and own it. I think that in Satyricon our greatest quality is when it’s something of particularly big importance, a particularly big occasion, that’s where we excel – so let’s go out there and show them.”\n\nSatyricon play Damnation Festival on Sunday November 8.",
+      "tags": "Tracks & Singles Music",
+      "category": "Экстремальный метал",
+      "published": "2026-10-30T16:00:00+00:00",
+      "id": "08ebb39b299f7b325241a7c9adbb7bc599ed2af1",
+      "retry_after": 1793377295
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Watch Heart Put Their Spin on Aerosmith's 'Janie's Got a Gun'",
+      "link": "https://ultimateclassicrock.com/heart-aerosmith-janies-got-a-gun/",
+      "rss_body": "The Wilson sisters offered a change of pace at Aerosmith’s ‘California Dream On’ concert.",
+      "tags": "News Aerosmith Heart UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-30T14:46:51+00:00",
+      "id": "100f3c00be8f109b9844834f758f168461ca164d",
+      "retry_after": 1793377337
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Happy Halloween: Watch Rob Zombie's New Video For \"Sir Lord Acid Wolfman\"",
+      "link": "https://metalinjection.net/news/happy-halloween-watch-rob-zombies-new-video-for-sir-acid-wolfman",
+      "rss_body": "Right in time for the Halloween weekend.",
+      "tags": "Latest News Rob Zombie",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T14:46:26+00:00",
+      "id": "e4ba7e2d91709b081675e310c39a8b5df3d5566d",
+      "retry_after": 1793377338
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Enslaved Release Visualizer For 'Mið' Standout Song \"I Am Ice\" Featuring Johan Sara Jr.",
+      "link": "https://metalinjection.net/new-music/watch-enslaved-release-visualizer-for-mid-standout-song-i-am-ice-featuring-johan-sara-jr",
+      "rss_body": "An icy cold track to start off your Halloween weekend right.",
+      "tags": "New Music Enslaved",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T14:25:50+00:00",
+      "id": "b5a0ae71fd6d647c6f4b3dace5cd569f8dbb19da",
+      "retry_after": 1793377338
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Rev3rent Drops New Album, Video For \"Eyes Wide Shut\"",
+      "link": "https://metalinjection.net/new-music/watch-rev3rent-drops-new-album-video-for-eyes-wide-shut",
+      "rss_body": "Replace this song with your morning cup of coffee and it'll feel like you had two.",
+      "tags": "New Music rev3rent",
+      "category": "Прогрессив",
+      "published": "2026-10-30T14:04:02+00:00",
+      "id": "4e124e1998c509a00d6dc2bbe72d0bdcd182729e",
+      "retry_after": 1793377338
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The Weekly Injection: New Releases From Ministry, Enslaved, and More Out This Week – 10.30",
+      "link": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-ministry-enslaved-and-more-out-this-week-10-30",
+      "rss_body": "Plus releases from Black Royal, Darkest Hour, Genital Shame, Korrupt, Master Boot Record, and Queens of the Stone Age.",
+      "tags": "Weekly Injection Darkest Hour queens of the stone age Enslaved Ministry KORRUPT Black Royal master boot record featured1 Genital Shame",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T13:10:11+00:00",
+      "id": "faa01d98d67aaeb6f9b350f0ddd449042d7782d0",
+      "retry_after": 1793377399
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Tom Morello pays tribute to late Star Trek star Sir Patrick Stewart",
+      "link": "https://www.loudersound.com/culture/films-tv-shows/tom-morello-sir-patrick-stewart-tribute-star-trek",
+      "rss_body": "Tom Morello\n\nhas paid tribute to late\n\nStar Trek\n\nactor Sir Patrick Stewart\n\nThe Rage Against The Machine guitarist and self-professed Star Trek “nerd” made an uncredited cameo in the 1998 movie\n\nStar Trek: Insurrection\n\n, appearing alongside Stewart in one brief scene.\n\n“God bless you and thank you for your brilliance and your humanity, Captain,” wrote Morello on Instagram.\n\nStewart, who died of Alzheimer's disease and Lewy body dementia at the age of 86, rose to international fame playing Captain Jean-Luc Picard in the TV series\n\nStar Trek: The Next Generation\n\n, which ran between 1987 and 1994, reprising the role in four feature films.\n\nMorello’s non-speaking, blink-and-you’ll-miss-it appearance in\n\nStar Trek: Insurrection\n\nsaw the guitarist play a Son’a officer, one of the movie’s bad guys, while sporting prosthetic alien make-up.\n\n“If you didn’t know I was in it, then you’d miss me. I was so heavily made up,” Morello told\n\nMetal Hammer\n\nin 2006.\n\nA post shared by Tom Morello (@tommorello)\n\nA photo posted by",
+      "tags": "Films & TV Shows Culture",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T11:10:56+00:00",
+      "id": "23347c26c2ebb828bd176dc12e491c7c2e2fd8c5",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "“I said, ‘I wrote that song in 10 minutes!’ He replied, ‘Imagine how good it would have been if you took 15!’” How Nine Inch Nails’ Trent Reznor snuck an obscure metal track into a Hollywood blockbuster",
+      "link": "https://www.loudersound.com/news/cult-of-luna-nine-inch-nails-trent-reznor-added-khoma-song-girl-with-the-dragon-tattoo-soundtrack-david-fincher-2026",
+      "rss_body": "Cult Of Luna\n\nleader Johannes Persson has explained how\n\nNine Inch Nails\n\nmainman Trent Reznor snuck a song by his old metal band Khoma into a blockbuster film.\n\nThe Swedish singer/guitarist, who works as a casting director when he isn’t walloping audiences with post-metal, was in charge of wrangling extras for 2011’s\n\nThe Girl With The Dragon Tattoo\n\n, which was directed by David Fincher (\n\nSeven\n\n,\n\nGone Girl\n\n,\n\nMindhunter\n\n) and starred ex-\n\nJames Bond\n\nDaniel Craig.\n\nThough the two never met, Persson and Reznor were colleagues on the project, as the alt-rock star was hired to compose the score. Talking exclusively to\n\nMetal Hammer\n\n, Persson reveals that during production, Fincher and his wife/producer Ceán Chaffin asked him to send over all of his music.\n\n“Three, four weeks later, I was standing by this mountain next to David,” Persson continues, “and he hit me in the ribs with his elbow. He said, ‘I love that song.’ What? ‘The song that Trent picked.’ Trent Reznor?!”\n\nFincher then explained that Reznor had chosen Khoma’s 2006 track\n\nThe Guillotine\n\nfor inclusion in the film. “The only thing I could say was, ‘I wrote that song in 10 minutes!’” Persson remembers. “His response was, ‘Imagine how good it would have been if you spent 15 on it!’ Ha ha! But it wouldn’t have been. Sometimes things just happen.”\n\nCult Of Luna members Persson and Fredrik Kihlberg (guitars) started Khoma with singer Jan Jämte in 2002. The band made four studio albums between 2004 and 2012 but have since descended into inactivity. Persson tells\n\nHammer\n\nthat the band “could have become really, really big”, yet their momentum was scuppered by the members having outside interests.\n\n“[Jämte] worked as a journalist and then he went back to university,” he says. “I think everybody thought, ‘When we get the tour offers, studying can wait.’ But that wasn’t so.”\n\nPersson co-founded Cult Of Luna in 1998, and Kihlberg joined the lineup in 2004. Along with Neurosis and Isis, they are considered one of the biggest and most influential bands in the post-metal scene. Their 2016 collaborative album with American vocalist Julie Christmas,\n\nMariner\n\n, charted in Sweden, Finland, Belgium and Switzerland.\n\nThe band will release their 10th album,\n\nIn The Shadow Of Your Shadow\n\n, on November 6. They have a string of European and UK tour dates confirmed for February and March. Tickets are available now.",
+      "tags": "Tracks & Singles Music",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T10:00:00+00:00",
+      "id": "537c6f958d6bf59f494707995c125a57c73b93ce",
       "retry_after": 0
     }
   ]
