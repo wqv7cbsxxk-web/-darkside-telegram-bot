@@ -2692,7 +2692,7 @@
       "website": "http://www.symphonyx.com",
       "reference_url": "https://en.wikipedia.org/wiki/Symphony_X",
       "reference_checked_at": "2026-10-29T06:35:34.968822+00:00",
-      "tour_attempted_at": "2026-10-24T18:40:42.086743+00:00",
+      "tour_attempted_at": "2026-10-30T02:54:25.399695+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T06:35:34.968844+00:00"
     },
@@ -2722,7 +2722,7 @@
       "website": "http://systemofadown.com",
       "reference_url": "https://en.wikipedia.org/wiki/System_Of_A_Down",
       "reference_checked_at": "2026-10-29T06:35:35.633715+00:00",
-      "tour_attempted_at": "2026-10-24T18:40:42.638041+00:00",
+      "tour_attempted_at": "2026-10-30T02:54:25.966691+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T06:35:35.633740+00:00"
     },
@@ -2760,7 +2760,7 @@
       "website": "https://www.thecontortionist.net/",
       "reference_url": "https://en.wikipedia.org/wiki/The_Contortionist",
       "reference_checked_at": "2026-10-29T06:35:35.720295+00:00",
-      "tour_attempted_at": "2026-10-24T18:40:43.016998+00:00",
+      "tour_attempted_at": "2026-10-30T02:54:26.340738+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T06:35:35.720318+00:00"
     },
@@ -2806,7 +2806,7 @@
         "members_checked_at": "2026-10-02T02:29:28.923484+00:00",
         "about": ""
       },
-      "tour_attempted_at": "2026-10-24T18:40:43.226545+00:00",
+      "tour_attempted_at": "2026-10-30T02:54:26.533249+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T13:46:42.864861+00:00"
     },
@@ -3634,10 +3634,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://dismember.se",
       "reference_url": "https://en.wikipedia.org/wiki/Dismember_%28band%29",
-      "reference_checked_at": "2026-10-22T20:08:32.940969+00:00",
+      "reference_checked_at": "2026-10-30T02:54:23.661352+00:00",
       "tour_attempted_at": "2026-10-25T06:32:08.618804+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T20:08:32.941021+00:00"
+      "reference_attempted_at": "2026-10-30T02:54:23.661454+00:00"
     },
     "destruction": {
       "origin": "Weil am Rhein , Germany",
@@ -3664,10 +3664,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://destruction.de",
       "reference_url": "https://en.wikipedia.org/wiki/Destruction_%28band%29",
-      "reference_checked_at": "2026-10-22T20:08:33.159499+00:00",
+      "reference_checked_at": "2026-10-30T02:54:23.851071+00:00",
       "tour_attempted_at": "2026-10-25T06:32:09.758988+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T20:08:33.159556+00:00"
+      "reference_attempted_at": "2026-10-30T02:54:23.851177+00:00"
     },
     "entombed": {
       "origin": "Stockholm , Sweden",
@@ -3694,9 +3694,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Entombed_%28band%29",
-      "reference_checked_at": "2026-10-22T20:08:33.262344+00:00",
+      "reference_checked_at": "2026-10-30T02:54:23.949414+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T20:08:33.262357+00:00"
+      "reference_attempted_at": "2026-10-30T02:54:23.949437+00:00"
     },
     "enslaved": {
       "origin": "Haugesund , Norway",
@@ -3719,9 +3719,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Enslaved_%28band%29",
-      "reference_checked_at": "2026-10-22T20:08:33.369734+00:00",
+      "reference_checked_at": "2026-10-30T02:54:24.129259+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T20:08:33.369744+00:00"
+      "reference_attempted_at": "2026-10-30T02:54:24.129284+00:00"
     },
     "gojira": {
       "origin": "Ondres , Landes, France",
@@ -3748,10 +3748,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://gojira-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gojira_%28band%29",
-      "reference_checked_at": "2026-10-22T20:08:33.688031+00:00",
+      "reference_checked_at": "2026-10-30T02:54:24.484807+00:00",
       "tour_attempted_at": "2026-10-25T12:04:59.478340+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T20:08:33.688372+00:00"
+      "reference_attempted_at": "2026-10-30T02:54:24.485122+00:00"
     },
     "exodus": {
       "origin": "Richmond, California , U.S.",
@@ -3782,10 +3782,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://exodusattack.com",
       "reference_url": "https://en.wikipedia.org/wiki/Exodus_%28American_band%29",
-      "reference_checked_at": "2026-10-22T20:08:33.814927+00:00",
+      "reference_checked_at": "2026-10-30T02:54:24.946819+00:00",
       "tour_attempted_at": "2026-10-25T12:04:59.923413+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-22T20:08:33.814950+00:00"
+      "reference_attempted_at": "2026-10-30T02:54:24.946844+00:00"
     },
     "haken": {
       "origin": "London , England",

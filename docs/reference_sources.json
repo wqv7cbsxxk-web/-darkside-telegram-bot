@@ -32890,6 +32890,324 @@
           "source_url": "https://musicbrainz.org/release-group/a23ca4b0-7a5b-4828-b1b0-039df11eb6ad"
         }
       ]
+    },
+    "the-l-i-f-e-project": {
+      "name": "The L.I.F.E. Project",
+      "musicbrainz_url": "https://musicbrainz.org/artist/d4a90e14-0a40-49fd-98c7-b83a69e5d77f",
+      "reference_checked_at": "2026-10-30T02:54:34.238973+00:00",
+      "genres": "",
+      "members": [
+        {
+          "name": "Casandra Carson",
+          "role": "",
+          "begin": null
+        },
+        {
+          "name": "Josh Rand",
+          "role": "",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/d4a90e14-0a40-49fd-98c7-b83a69e5d77f",
+      "albums": [
+        {
+          "name": "Big F.O.U.R.",
+          "date": "2022-03-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4b3727b6-2e24-4c0a-b0a2-b09c5cf1f1a9"
+        },
+        {
+          "name": "The L.I.F.E. Project",
+          "date": "2021-07-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b69835d8-1e53-4984-91a3-72895cdf6958"
+        }
+      ]
+    },
+    "the-pretty-reckless": {
+      "name": "The Pretty Reckless",
+      "musicbrainz_url": "https://musicbrainz.org/artist/54f8c12e-571c-4c5a-9f79-5336b39e84b0",
+      "reference_checked_at": "2026-10-30T02:54:38.587873+00:00",
+      "genres": "alternative metal, alternative rock, blues rock, grunge, hard rock, heavy metal, metal, metalcore, pop, pop rock, post-grunge, rock",
+      "bandcamp_url": "https://theprettyreckless.bandcamp.com/",
+      "website": "http://www.goingtohell.xxx/",
+      "members": [
+        {
+          "name": "Taylor Momsen",
+          "role": "electric guitar, lead vocals, original",
+          "begin": "2009"
+        },
+        {
+          "name": "Mark Damon",
+          "role": "bass guitar",
+          "begin": "2010"
+        },
+        {
+          "name": "Jamie Perkins",
+          "role": "drums (drum set)",
+          "begin": "2010"
+        },
+        {
+          "name": "Ben Phillips",
+          "role": "",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/54f8c12e-571c-4c5a-9f79-5336b39e84b0",
+      "albums": [
+        {
+          "name": "Kill Me",
+          "date": "2012-12-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/05f3d084-c008-4382-b5b0-fcc97f08ab47"
+        },
+        {
+          "name": "The Pretty Reckless EP",
+          "date": "2010-01-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0a2fb254-9019-4913-aab2-7f933f96c567"
+        },
+        {
+          "name": "Death by Rock and Roll",
+          "date": "2020-05-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/0b6d175e-3187-4078-929d-06db3982a2fe"
+        },
+        {
+          "name": "Harley Darling (Acoustic)",
+          "date": "2022-09-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/16939b6d-bc3d-41c9-aa31-b38573d49435"
+        },
+        {
+          "name": "Light Me Up",
+          "date": "2010-08-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1bce0538-dfed-4993-ac43-b075c1ee6b4c"
+        },
+        {
+          "name": "Christmas, Why Can’t I Find You?",
+          "date": "2025-10-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/211a7245-6e3a-4899-b5ca-c2e45a930ea7"
+        },
+        {
+          "name": "Make Me Wanna Die",
+          "date": "2010-01-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/240dae18-4e00-4568-9ee7-31e0c25de07d"
+        },
+        {
+          "name": "Dear God",
+          "date": "2026-06-26",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/267169f3-4070-4e88-b95b-eef32d44e30f"
+        },
+        {
+          "name": "25",
+          "date": "2020-11-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/35016116-f609-4ec3-ac9e-1128de6ef4bc"
+        },
+        {
+          "name": "Death By Rock and Roll",
+          "date": "2021-02-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3540d7c4-c3a6-4f2d-90d5-3fb197bb374a"
+        },
+        {
+          "name": "Oh My God",
+          "date": "2016-09-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/37c48c0e-92c3-45cd-90be-e6685e446f6a"
+        },
+        {
+          "name": "Follow Me Down",
+          "date": "2014",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3dc4678b-5873-4ab7-9104-58d866c18c1c"
+        },
+        {
+          "name": "Who You Selling For",
+          "date": "2016-10-21",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/48244f0f-f111-4430-99cc-b008c3567440"
+        },
+        {
+          "name": "And So It Went",
+          "date": "2021-01-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5144e518-8a57-445a-b758-be1672b43cce"
+        },
+        {
+          "name": "Taylor Momsen's Pretty Reckless Christmas",
+          "date": "2025-10-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/532cd542-fce5-4f50-96f3-82a361d1b4ba"
+        },
+        {
+          "name": "Heaven Knows",
+          "date": "2014-01-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/53e94ca5-4d8e-4a89-9a8e-5d16c280db1a"
+        },
+        {
+          "name": "Other Worlds",
+          "date": "2022-11-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/58040954-f6d1-40eb-ae3a-3c0bee8a4eea"
+        },
+        {
+          "name": "Just Tonight",
+          "date": "2010",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5db8f5f4-89c4-4f0a-ade7-6a753d2127c0"
+        },
+        {
+          "name": "Hit Me Like A Man EP",
+          "date": "2012-03-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/626a6855-3f95-46ad-bb4f-2f8d1f2af750"
+        },
+        {
+          "name": "For I Am Death",
+          "date": "2025-08-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7221a8d0-65b7-4f98-84bc-47245325f1c7"
+        },
+        {
+          "name": "Dear God",
+          "date": "2026-05-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/754091f0-93d3-4a11-ae57-a6bf218c7463"
+        },
+        {
+          "name": "Miss Nothing",
+          "date": "2010-01-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/841c6ebf-95be-4a67-bcb5-bb1d87155fcb"
+        },
+        {
+          "name": "When I Wake Up",
+          "date": "2026-03-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8a91d429-7e8e-44dd-babb-fbe772a1354a"
+        },
+        {
+          "name": "Back to the River",
+          "date": "2017",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/928bbb4e-c4ef-4732-9e11-b81d41268e2e"
+        },
+        {
+          "name": "Covers, Demos, and Live Acoustics",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/948c47e8-38d7-4ffe-a92f-8984ac98bee4"
+        },
+        {
+          "name": "The Pretty Reckless - Columbia Club, Berlin, Germany 2011.06.07",
+          "date": "2011",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9be5c242-1634-4abd-92ca-44afaeb2da59"
+        },
+        {
+          "name": "Only You",
+          "date": "2020-11-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9f410e15-27fe-454d-9757-e2f6511a1067"
+        },
+        {
+          "name": "About You (bonus version)",
+          "date": "2026-10-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a5c74415-0000-4b42-a2e0-314f32833c3d"
+        },
+        {
+          "name": "F****d Up World / Messed Up World",
+          "date": "2014-04-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b1d58b8f-ab2a-4e29-b5fd-5addce91698e"
+        },
+        {
+          "name": "Broomsticks",
+          "date": "2020-10-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b35a72ca-f622-420b-85ab-b5e3ebe7c1d8"
+        },
+        {
+          "name": "Going to Hell",
+          "date": "2013-10-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b6a81100-702c-4005-91d3-e5c7bacaf7e9"
+        },
+        {
+          "name": "Going to Hell",
+          "date": "2014-03-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b6c02ae3-bc37-47b8-88af-e4cf8e86342e"
+        },
+        {
+          "name": "Only Love Can Save Me Now (acoustic)",
+          "date": "2021-09-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c0183629-794d-4899-8284-81909409a0ac"
+        },
+        {
+          "name": "Sessions",
+          "date": "2026-09-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c841a026-33ca-409e-abaa-e7d7543ebdf8"
+        },
+        {
+          "name": "Got So High (Remix)",
+          "date": "2022-08-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d5e68e85-0978-4bbd-a406-1f81b8427a3d"
+        },
+        {
+          "name": "All Right Now",
+          "date": "2025-10-23",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e563eae7-a250-4106-a3a2-452f6dfb5ea5"
+        },
+        {
+          "name": "Where Are You Christmas?",
+          "date": "2025-10-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ec55002d-4d37-4919-a6e2-e0fcf1672e1d"
+        },
+        {
+          "name": "Take Me Down",
+          "date": "2016-07-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f0ca4457-e2e3-41de-a0bb-a48f62b97428"
+        },
+        {
+          "name": "Unreleased EP",
+          "date": "2010-09-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f4c8a2e0-e914-4f09-8105-338fbe3fb4df"
+        },
+        {
+          "name": "Love Me",
+          "date": "2026-04-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f525a68d-52dd-4fdc-bf79-cd560e2a44e1"
+        },
+        {
+          "name": "House On a Hill",
+          "date": "2014-09-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/facaa532-d1f6-428c-9398-60eee2e8b36c"
+        },
+        {
+          "name": "Demo & Live (2009 - 2012)",
+          "date": "2016-01-01",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ff594f87-237f-42d8-b6e1-d29c744e7056"
+        }
+      ]
     }
   },
   "checked": {
@@ -33005,8 +33323,8 @@
     "tesla": "2026-10-29T19:20:54.070488+00:00",
     "testament": "2026-10-29T23:28:27.968577+00:00",
     "the-contortionist": "2026-10-29T23:28:29.199144+00:00",
-    "the-l-i-f-e-project": "2026-10-18T19:45:22.915721+00:00",
-    "the-pretty-reckless": "2026-10-18T19:45:24.132999+00:00",
+    "the-l-i-f-e-project": "2026-10-30T02:54:34.239015+00:00",
+    "the-pretty-reckless": "2026-10-30T02:54:38.587986+00:00",
     "the-rolling-stones": "2026-10-18T22:01:05.817812+00:00",
     "thin-lizzy": "2026-10-18T22:01:07.057528+00:00",
     "thrice": "2026-10-19T00:15:09.194575+00:00",
