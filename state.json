@@ -1169,49 +1169,19 @@
     "67e6792d330eed81d3bf7529b9877efb44ba82a9",
     "fb2669e9e03653c370cf8d694fd4677364e74dba",
     "5ee8282edcb9e8bbd6a674476130964a63a345bb",
-    "4acff78502b55f672d4f47a91a2dd8f0fa8f5f2c"
+    "4acff78502b55f672d4f47a91a2dd8f0fa8f5f2c",
+    "750f0071cf80594030d27417d86c1db34839e377",
+    "d72151721f0792fcb359836580ead3d1af015725",
+    "ba4128e1e7414b41a10d0b5349ca9a65d82139bd",
+    "5e94edc5c18a6f5ab800b97e03c01114743dede9",
+    "7752d44fcced332fb277c644e041c7901f2b4a1a",
+    "fab5cea4a10cbf0a82f03cc31534e40493dd6eab",
+    "690aef8028189f069b04bc7edd6457127c2ac75e",
+    "18a3cdbd15a6983305ab6d96d1c250417a89735c",
+    "fd69722c0be9e1dfd1c18299e174c5a59bc914bb",
+    "fee9a4354237b0f92fa7dc9502c3ce2c3f95dc99"
   ],
   "recent_titles": [
-    {
-      "title": "AN NCS PREMIERE: NIGHT GAUNT — “THE DEER AND THE HUNTER”",
-      "source": "No Clean Singing",
-      "ts": 1792843825
-    },
-    {
-      "title": "Track Premiere: Comploratio – ‘I’",
-      "source": "Decibel",
-      "ts": 1792843831
-    },
-    {
-      "title": "The overlooked Deep Purple album that Ian Gillan loved and Ritchie Blackmore hated",
-      "source": "Louder",
-      "ts": 1792857192
-    },
-    {
-      "title": "“There’s no real excuse”: Protest The Hero can’t explain why it took six years to release Within",
-      "source": "Louder",
-      "ts": 1792866789
-    },
-    {
-      "title": "The Dutch art-prog band who believe more is more – including studio mistakes",
-      "source": "Louder",
-      "ts": 1792876242
-    },
-    {
-      "title": "The Tribbett Brothers’ New Band Dead Wyte (Mudvayne, Ex-Twisted Method, Etc.) Launch Their First Single “Mother Trucker”",
-      "source": "ThePRP",
-      "ts": 1792876246
-    },
-    {
-      "title": "Pro-Shot Footage Of Danzig’s Entire 1995 ‘Pinkpop’ Festival Set Newly Released",
-      "source": "ThePRP",
-      "ts": 1792876250
-    },
-    {
-      "title": "Testament, The Prodigy, The Amity Affliction, Etc. Added To 2027 ‘Welcome To Rockville’ Festival",
-      "source": "ThePRP",
-      "ts": 1792876269
-    },
     {
       "title": "The Dillinger Escape Plan’s Self-Titled 1997 EP Set For Remastered Cassette/Digital Release",
       "source": "ThePRP",
@@ -1971,6 +1941,46 @@
       "title": "200 Stab Wounds Tap Code Orange, Etc. Members To Oversee Their New “Sweet Suicide” Music Video",
       "source": "ThePRP",
       "ts": 1793328859
+    },
+    {
+      "title": "Новое видео ARCHERS",
+      "source": "Darkside",
+      "ts": 1793353014
+    },
+    {
+      "title": "Новое видео IMMINENCE",
+      "source": "Darkside",
+      "ts": 1793353016
+    },
+    {
+      "title": "STEVEN WILSON подтвердил, что второму STORM CORROSION быть!",
+      "source": "Darkside",
+      "ts": 1793353017
+    },
+    {
+      "title": "Профессиональное видео с выступления METALLICA из Сферы",
+      "source": "Darkside",
+      "ts": 1793353020
+    },
+    {
+      "title": "Sammy Hagar Brings Signature Swagger to Aerosmith Comeback Show",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793353032
+    },
+    {
+      "title": "Новая песня AZARATH",
+      "source": "Darkside",
+      "ts": 1793353034
+    },
+    {
+      "title": "Guns N' Roses Ignites the Hollywood Bowl at Aerosmith Event",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793353047
+    },
+    {
+      "title": "Гитарист THE WHO: «Мне никогда особо не нравились LED ZEPPELIN»",
+      "source": "Darkside",
+      "ts": 1793353066
     }
   ],
   "initialized_sources": [
@@ -5022,18 +5032,6 @@
       "retry_after": 0
     },
     {
-      "source": "Metal Injection",
-      "priority": 92,
-      "title": "Watch: Knights Battle For Victory In Imminence's New Music Video for “Crestfallen”",
-      "link": "https://metalinjection.net/news/watch-knights-battle-for-victory-in-imminences-new-music-video-for-crestfallen",
-      "rss_body": "'Axis Mundi' is out now.",
-      "tags": "Latest News Imminence",
-      "category": "Хэви-метал",
-      "published": "2026-10-29T21:06:25+00:00",
-      "id": "ba4128e1e7414b41a10d0b5349ca9a65d82139bd",
-      "retry_after": 1793329118
-    },
-    {
       "source": "ThePRP",
       "priority": 88,
       "title": "Malevolent Creation’s Phil Fasciana Gives His Side Of ‘Firing’ Chris Cannella & Jesse Jolly",
@@ -5068,6 +5066,174 @@
       "published": "2026-10-29T19:37:05+00:00",
       "id": "612fda54fd5c072d3227e4d4a4dd2dbbffb0224d",
       "retry_after": 1793329135
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Aerosmith Makes Star-Studded Return at Hollywood Bowl",
+      "link": "https://ultimateclassicrock.com/aerosmith-hollywood-bowl-concert-videos-set-list/",
+      "rss_body": "It had been three years since the band's last concert.",
+      "tags": "News Set List Aerosmith UCR",
+      "category": "Хард-рок",
+      "published": "2026-10-30T08:09:28+00:00",
+      "id": "5371de912c5abfa8195ccb2a9a974a95e5de010d",
+      "retry_after": 1793353364
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Rev3rent’s “Eyes Wide Shut” Music Video Premieres Alongside Their Debut Album",
+      "link": "https://www.theprp.com/2026/10/29/news/rev3rents-eyes-wide-shut-music-video-premieres-alongside-their-debut-album/",
+      "rss_body": "She Let The World Run Rampant is now running free.",
+      "tags": "News Rev3rent",
+      "category": "Прогрессив",
+      "published": "2026-10-30T06:20:17+00:00",
+      "id": "945ee95bc961149e307f26ba8afe38b7dc9b8f87",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Концертное видео KANONENFIEBER",
+      "link": "http://www.darkside.ru/news/184867/",
+      "rss_body": "Die Feuertaufe (Live at Kanonenfest 2026), новое видео KANONENFIEBER, доступно для просмотра ниже.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T06:16:05+00:00",
+      "id": "e0e6822c72991f278deb97be0c8e7f062d99f57d",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Outer Gloom (Shai Hulud, Etc.) Release Their Second EP “Higher Vessel”",
+      "link": "https://www.theprp.com/2026/10/29/news/outer-gloom-shai-hulud-etc-release-their-second-ep-higher-vessel/",
+      "rss_body": "Their second outing of the year.",
+      "tags": "News Outer Gloom Shai Hulud",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T06:06:13+00:00",
+      "id": "7fa99d47c72a19960df81e61c0b7fe55b12c976e",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "System Of A Down’s John Dolmayan Recently Spent $825,000 On A Rare Superman Comic Book",
+      "link": "https://www.theprp.com/2026/10/29/news/system-of-a-downs-john-dolmayan-recently-spent-825000-on-a-rare-superman-comic-book/",
+      "rss_body": "It's the second copy of Action Comics #1 he's purchased this year.",
+      "tags": "News John Dolmayan System Of A Down",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T05:46:59+00:00",
+      "id": "b6533917e0f97e8aaf7c0ee3135fa39a67dad267",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Aerosmith & Friends at the Hollywood Bowl – the full setlist from a historic night in Tinseltown",
+      "link": "https://www.loudersound.com/bands-artists/concerts-shows/aerosmith-california-dream-on-hollywood-bowl",
+      "rss_body": "It's been 1147 days since\n\nAerosmith\n\nlast stepped onto the stage together, and more than six years since drummer Joey Kramer was part of the package.\n\nSince abandoning the Peace Out... Farewell Tour after just three shows in 2023 – when frontman Steven Tyler suffered vocal cord injuries and a fractured larynx during a show in Elmont, NY – it's often seemed unlikely that the band would ever play again.\n\n\"I'm not sure I would want to go out and book another 40-city tour,\" said Joe Perry last year, explaining that Tyler was no longer interested in hitting the road. \"It's a long way to the top, and staying there takes it out of you, especially an Aerosmith tour.\"\n\nPerry also offered a glimmer of hope. \"I would bet that there's an Aerosmith show left,\" he said. \"There's been talk about doing a documentary, that might be part of it.\"\n\nWhile Perry toured with the\n\nHollywood Vampires\n\nand his own Joe Perry Project – joined by fellow Aerosmith guitarist Brad Whitford – bassist Tom Hamilton formed a new band, Close Enemies, whose debut album was released in March. Meanwhile, drummer Joey Kramer was working his way back to fitness after suffering a series of health problems: a shoulder injury, an ankle injury, and triple-bypass heart surgery.\n\n\"When you've got five knuckleheads that all think the same way that we do, anything can happen,\" Kramer said earlier this year. \"How did we all get put together to begin with, you know? It's sort of incomplete, the way that it ended – or tried to end.\"\n\nTyler was also on the mend. He returned to the stage in 2024 when he\n\nguested at a Black Crowes show in London\n\n, then at his\n\nJam For Janie\n\ncharity fundraiser, before appearing\n\nwith Perry\n\nfor the first time since 2023. The duo also appeared together at a\n\nJoe Perry Project show\n\n, and at MTV's annual Video Music Awards, where they\n\njoined Yungblood onstage\n\nto pay tribute to Ozzy Osbourne.\n\nEverything had fallen into place. Which gets us to where we are today: The Hollywood Bowl in Los Angeles and Aerosmith & Friends' California: Dream On, an all-star,\n\nBack To The Beginning\n\n-style celebration of the Bad Boys from Boston, hosted by Bill Burr. Would Joey Kramer perform? Are all five founding members of Aerosmith officially back in the saddle again?\n\nThe full setlist is below, with a core house band that includes Don Was, Nuno Bettencourt, Kenny Aronoff, Chad Smith, Andrew Watt, Mike Inez and others backing several guest musicians before the\n\nBlack Crowes\n\n,\n\nGuns N' Roses\n\nand Aerosmith arrive to complete the historic night.\n\nAerosmith and Friends: California Dream On setlist\n\nMake It (Sully Erna, Godsmack)\n\nLightning Strikes (Sully Erna, Godsmack)\n\nLord Of The Thighs (Warren Hayes)\n\nWalkin' The Dog (Warren Haynes)\n\nLivin' On The Edge (Billy Idol and Steve Stevens)\n\nDraw The Line (Sammy Hagar)\n\nHelter Skelter (Sammy Hagar)\n\nNever Loved A Man (Heart)\n\nJanie’s Got A Gun (Heart)\n\nRag Doll (Eric Church)\n\nI Don’t Want To Miss A Thing (Eric Church)\n\nLet The Music Do The Talking (Black Crowes)\n\nWrite Me A Letter (Black Crowes)\n\nCombination (Black Crowes)\n\nNo More No More (Black Crowes)\n\nChip Away The Stone (Black Crowes)\n\nNobody’s Fault (Guns N' Roses)\n\nLast Child (Guns N' Roses)\n\nSeasons Of Wither (Guns N' Roses)\n\nWelcome To The Jungle (Guns N' Roses)\n\nParadise City (Guns N' Roses)\n\nToys In The Attic (Aerosmith with Dave Grohl on drums)\n\nBack In The Saddle (Aerosmith with Dave Grohl)\n\nSweet Emotion (Aerosmith with Dave Grohl)\n\nDream On (Aerosmith with Dave Grohl)\n\nTrain Kept A Rollin' (Aerosmith with Dave Grohl, Johnny Depp on guitar)\n\nWalk This Way (Aerosmith with Joey Kramer and John Douglas on drums)",
+      "tags": "Concerts & Shows Bands & Artists Live Performances",
+      "category": "Прогрессив",
+      "published": "2026-10-30T05:41:19+00:00",
+      "id": "133988d316db7ed1d28bc7e466cb69ca887f529a",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео NEW LOW",
+      "link": "http://www.darkside.ru/news/184675/",
+      "rss_body": "\"False Crown\", новое видео группы NEW LOW, доступно для просмотра ниже.\n\nBailey: «В песне «False Crown» исследуется неумолимая хватка синдрома самозванца, рассказывая о человеке, оказавшемся в плену войны со своим собственным разумом. Несмотря на все достижения, его преследует убеждение, что он — самозванец, и он ждёт того момента, когда все поймут, что он никогда не заслуживал своего места. Песня колеблется между удушающими сомнениями в себе и взрывной яростью, передавая изнеможение от борьбы с врагом, который носит твое собственное лицо. Под сокрушительными риффами и сырой агрессией скрывается отчаянный поиск самоуважения, заканчивающийся осознанием того, что самые громкие обвинения часто исходят изнутри, а не из окружающего мира».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T05:17:01+00:00",
+      "id": "50bb3ea3b7aa772cd4f0367e2e8ca54575dd14ee",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Crown The Empire’s “Violet” Music Video Arrives Online",
+      "link": "https://www.theprp.com/2026/10/29/news/crown-the-empires-violet-music-video-arrives-online/",
+      "rss_body": "Their second new single of the year.",
+      "tags": "News Crown The Empire",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T05:06:34+00:00",
+      "id": "f284786c6ddd7d23d7c9ea3fb4d673a6adc69f2f",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "A Killer’s Confession Premiere “Meat Hook” Music Video",
+      "link": "https://www.theprp.com/2026/10/29/news/a-killers-confession-premiere-meat-hook-music-video/",
+      "rss_body": "Directed by Richard Thomas.",
+      "tags": "News A Killer's Confession Mushroomhead Waylon Reavis",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T05:00:19+00:00",
+      "id": "21c661def800c9eea19d623ae159448e2688ebdb",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Currents Sign With Rise Records, Debut “Retributioner” Video From Their Newly Announced Album",
+      "link": "https://www.theprp.com/2026/10/29/news/currents-sign-with-rise-records-debut-retributioner-video-from-their-newly-announced-album/",
+      "rss_body": "\"Our Fates Lie In Tandem\" is headed for a February release.",
+      "tags": "News Currents",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T04:50:05+00:00",
+      "id": "41eb96a631379cfffe811d6461e5cfc001f99091",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "SOiL Premiere “Enemy X”, Their First All-New Single In A Decade",
+      "link": "https://www.theprp.com/2026/10/29/news/soil-premiere-enemy-x-their-first-all-new-single-in-a-decade/",
+      "rss_body": "They've also newly signed with Better Noise Music.",
+      "tags": "News SOiL",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T04:35:44+00:00",
+      "id": "79f502dbc270fefdc4f668d19c3a9ffea466340d",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новая песня ANBERLIN",
+      "link": "http://www.darkside.ru/news/184661/",
+      "rss_body": "TRENCHES (feat. Switchfoot), новая песня группы ANBERLIN, доступна для прослушивания ниже. Этот трек взят из альбома \"Currency\", выход которого запланирован на 11 ноября на Equal Vision Records. Это будет первая пластинка для вокалиста Matty Mullins'a:\n\n1. NEVERAFTER\n\n2. GRAVITY\n\n3. HIGHSTAKES\n\n4. GHOST\n\n5. MEDICATE\n\n6. TRENCHES (feat. Switchfoot)\n\n7. AFTERMATH\n\n8. RELAPSE\n\n9. DISPLACE\n\n10. LIES\n\n11. ASHES",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T04:19:50+00:00",
+      "id": "26d7a70e7a3f02eb039d83cd327e05e1336a60b3",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Primal Scream hang red meat on their musical bones on The Bunker Trilogy",
+      "link": "https://www.loudersound.com/music/albums/primal-scream-the-bunker-trilogy",
+      "rss_body": "Although they’ll forever be associated with the hedonism of\n\nScreamadelica\n\n, the so-called\n\nBunker Trilogy\n\n– named after their then recording studio in London – was where Primal Scream flexed their muscles and hung red meat on their musical bones.\n\nDerided as ‘dance traitors’ in the wake of the Stones-cribbing\n\nGive Out But Don’t Give Up\n\n, 1997's\n\nVanishing Point\n\n(9/10) is less a recalibration and more a reaffirmation of where the band’s core values lay. Born of punk, liberated by dance and in thrall to the bottom end, their fifth album convincingly embraces funk and dub dynamics as well as the obligatory nod to rock’n’roll. And it’s with the addition of former Stone Roses bassist Mani to their line-up that Primal Scream move on up, with the dense and driving\n\nKowalski\n\nbecoming one of the most uncompromising singles to have gate-crashed the Top 10\n\nAugmented by\n\nMy Bloody Valentine\n\n's Kevin Shields, 2000’s\n\nXTRMTR\n\n(9/10) is the most politically charged and sonically aggressive of the three, its juddering electronics and industrial abrasion anticipating the fractured century to come. The relentless\n\nSwastika Eyes\n\nremains its calling card, while the driving white noise of\n\nShoot Speed Kill Light\n\nsounds like a machine at breaking point.\n\nYet for all its confrontational intent, the album occasionally comes unstuck when Bobby Gillespie’s weedy vocals are exposed, nowhere more so than on the laughable rapping on\n\nPills\n\n. Even so, its combination of righteous fury and aural extremism makes up for its shortcomings.\n\nEvil Heat\n\n(2002, 9/10) suffers by comparison simply because it doesn’t have the first mover advantage of its predecessor, yet in many ways it’s every bit its equal. With righteous anger and deeper electronic grooves, any fat is trimmed for a more streamlined experience. The pounding\n\nMiss Lucifer\n\nis short and sharp, while the krautrock-referencing\n\nAutobahn 66\n\nremains one of their most beautiful moments. Elsewhere, the reworking of rocker\n\nCity\n\nfrom David Holmes’s\n\nBow Down To The Exit Sign\n\ntightens the original, and\n\nRobert Plant\n\nadds spirited harmonica to\n\nThe Lord Is My Shotgun\n\n.\n\nTogether these three albums reveal a band unwilling to stand still, frequently mutating without ever abandoning their instinct for confrontation. Although more records followed, few captured the same sense of danger, invention and possibility.\n\nThe Bunker Trilogy bundle is available from the Primal Scream webstore\n\n.",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-10-30T04:05:00+00:00",
+      "id": "c62bad1fc3b2d510f4bcaf6dccbe0b62013d8c37",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Frank Zappa vs David Bowie – the bitch-by-bitch account: “That’s the music business,” says Adrian Belew",
+      "link": "https://www.loudersound.com/bands-artists/adrian-belew-frank-zappa-david-bowie",
+      "rss_body": "David Bowie\n\n’s bid to persuade guitarist\n\nAdrian Belew\n\nto leave\n\nFrank Zappa\n\n’s band in 1978 included a series of bitchy interactions between the big stars, as the future\n\nKing Crimson\n\nguitarist recalls.\n\nHe’d been with Zappa for around a year when\n\nBrian Eno\n\nheard him perform and tipped off Bowie, who was looking for a new guitarist. it led to a\n\nchange of direction for Belew\n\n, who admits he still feels uncomfortable about some elements of the situation.\n\nRecalling the trio’s uncomfortable dinner ahead of the move, Belew tells\n\nUltimate Guitar\n\n: “Well, we didn't stay very long. David asked Frank three questions. Frank answered all three of them with, ‘Fuck you, Captain Tom.’”\n\nBelew would later join Robert Fripp in King Crimson\n\n(Image credit: Getty Images)\n\nThe jibe about Bowie’s\n\nMajor Tom\n\ncharacter landed. “And so we said, ‘Well, okay then,’ and we got up and left the building,” Belew continues. “And then David said to me, ‘I thought that went rather well!’ And that is the true story.”\n\nHe adds: “There was a night when Frank had a little fun with me. There was a song called\n\nMaybe You Should Stay With Your Mama\n\nand he changed the lyric to ‘\n\nMaybe you should stay with your David\n\n!’ It was just fun.”\n\nBelew with Vai, Bozzio and Levin in Beat\n\n(Image credit: Getty Images)\n\nZappa’s current tour was coming to a close, with a three-month paid hiatus ahead for his band. Meanwhile, Bowie wanted Belew to join a tour that was scheduled to last four months.“My manager called me in Europe,” he recalls, “and said, ‘Well, this is for real – David Bowie’s people have offered you a tour, so you need to make a decision.”\n\nHe went to discuss the situation with Zappa at the back of their tour bus. “I said, ‘Well, here, Frank, I could just stay on your retainer for three months, or I could go play with David and come back. What do you think I should do?’\n\n“And he said, ‘You should go play with David,’ and he shook my hand. Everything that Frank did was a handshake, and that was that.”\n\nAs fate would have it, Zappa fired his entire band at the end of the tour, while Bowie’s road trip was extended over 18 months. “So, that's how I ended up not being in Frank’s band for more than a year,” Belew reflects. “I planned to stay there. I was really happy. I loved working with Frank. And of course, I loved working with David too.”\n\nHe emphasises that he never fell out with Zappa: “Any time I was in LA I would always go up and visit; we remained on very good terms. I’m sorry that it happened that way for Frank, having put so much effort into my career, and I will never forget him for what he's done for me. But that’s the music business.”\n\nBelew is currently\n\ntouring North America\n\nwith King Crimson offshoot\n\nBeat\n\n, featuring fellow Zappa exes\n\nSteve Vai\n\nand\n\nTerry Bozzio\n\n, plus Crimson’s\n\nTony Levin\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-10-30T04:00:00+00:00",
+      "id": "a6f88e76313250dbfbfc6c6c041e5f80eafe0215",
+      "retry_after": 0
     }
   ]
 }
