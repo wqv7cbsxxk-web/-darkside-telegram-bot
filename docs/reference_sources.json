@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-29T13:47:16.060004+00:00"
+      "bandcamp_checked_at": "2026-10-30T16:19:28.991608+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -33855,6 +33855,753 @@
           "source_url": "https://musicbrainz.org/release-group/fe48fbb7-8462-3ff2-b50d-bf3ea6d7c2b4"
         }
       ]
+    },
+    "thrice": {
+      "name": "Thrice",
+      "musicbrainz_url": "https://musicbrainz.org/artist/244afcb7-fa9a-49b1-9aa6-0149512d1c52",
+      "reference_checked_at": "2026-10-30T16:19:13.400522+00:00",
+      "genres": "alternative rock, emo, melodic hardcore, post-hardcore, rock",
+      "bandcamp_url": "https://officialthrice.bandcamp.com/",
+      "website": "http://www.thrice.net/",
+      "members": [
+        {
+          "name": "Eddie Breckenridge",
+          "role": "background vocals, bass guitar, original, synthesizer",
+          "begin": "1998"
+        },
+        {
+          "name": "Riley Breckenridge",
+          "role": "drums (drum set), original, percussion",
+          "begin": "1998"
+        },
+        {
+          "name": "Dustin Kensrue",
+          "role": "guitar, lead vocals, original",
+          "begin": "1998"
+        },
+        {
+          "name": "Teppei Teranishi",
+          "role": "background vocals, guitar, keyboard, original",
+          "begin": "1998"
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/244afcb7-fa9a-49b1-9aa6-0149512d1c52",
+      "albums": [
+        {
+          "name": "The Alchemy Index, Vols. III & IV: Air & Earth",
+          "date": "2008-04-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/012276ed-e448-3edb-8ea3-ffcff5da0485"
+        },
+        {
+          "name": "The Artist in the Ambulance – Revisited",
+          "date": "2023-02-01",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/044a8f02-908b-4844-9d38-308d2c401ba3"
+        },
+        {
+          "name": "Palms",
+          "date": "2018-09-14",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/06276e7a-5f0c-4f5d-9601-e4278e44fa6c"
+        },
+        {
+          "name": "Horizons/East",
+          "date": "2021-09-17",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/1051fd81-061f-481b-b462-16fb66e88be8"
+        },
+        {
+          "name": "Under a Killing Moon / For the Workforce, Drowning",
+          "date": "2003-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/11503559-a292-44f7-b945-f1b06c08a774"
+        },
+        {
+          "name": "If We Could Only See Us Now",
+          "date": "2005-03-29",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/1239ddea-6bfd-3c9e-a3c0-785b8602a977"
+        },
+        {
+          "name": "Deconstruction Tour - France - June 2003",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/1923242b-c3c4-31ff-9b16-deb869650149"
+        },
+        {
+          "name": "Scavengers",
+          "date": "2021-07-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/223d6a89-4819-4ba3-a2cc-11f5571b0f8a"
+        },
+        {
+          "name": "Sea Change",
+          "date": "2017-04-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/261a5747-7df3-40cc-b19b-13ea6d4b5426"
+        },
+        {
+          "name": "Vheissu",
+          "date": "2005-10-18",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/29c83ad5-5629-3b0e-a580-4407e9938675"
+        },
+        {
+          "name": "Daytrotter Session",
+          "date": "2010-01-04",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/2e2737ac-a0b4-4c6d-b469-c54e0525386f"
+        },
+        {
+          "name": "Horizons/West",
+          "date": "2025-10-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/2f1e8cac-0b6a-45b4-b96b-1a2e137edeb2"
+        },
+        {
+          "name": "Red Telephone",
+          "date": "2017-11-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3bbe9ce8-f057-4832-be2b-bb7853895085"
+        },
+        {
+          "name": "The Alchemy Index",
+          "date": "2008-08-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4674200a-2c81-4d9f-814c-db5ee2ee3625"
+        },
+        {
+          "name": "Live at the House of Blues",
+          "date": "2008-12-09",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/50e3c9c1-1111-3939-8cba-a8f473598be2"
+        },
+        {
+          "name": "Lofi",
+          "date": "2025-12-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5cce87d4-1023-4455-a604-5d9b409f968d"
+        },
+        {
+          "name": "Audiotree From Nothing",
+          "date": "2026-02-11",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/62c224e7-3ec7-4f14-8ce0-20f984d207b0"
+        },
+        {
+          "name": "Acoustic Live @ SiriusXM // Octane",
+          "date": "2016-07-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/670050d8-bb6d-4728-93bb-6dbeb3c35f6a"
+        },
+        {
+          "name": "Live From the Apple Store",
+          "date": "2003-01-01",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/68464c2d-9247-3809-94c9-65a87620321f"
+        },
+        {
+          "name": "The Artist In The Ambulance Sampler",
+          "date": "2004",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/68e4846f-414b-44df-8eaa-79b68a6a4dab"
+        },
+        {
+          "name": "Open Your Eyes and Dream",
+          "date": "2022-09-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/711e03e4-54b7-4f3b-8acd-12f6429b0505"
+        },
+        {
+          "name": "The Artist in the Ambulance Instrumentals",
+          "date": "2003",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/75c29a23-4ff7-4f23-8226-dd627d4caf70"
+        },
+        {
+          "name": "Gnash",
+          "date": "2025-07-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7737e31d-7d99-4288-bbda-dee2eb25d6f9"
+        },
+        {
+          "name": "All That’s Left",
+          "date": "2003-10-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/78b65e14-234d-3127-b0bf-dfa9ca87b8e7"
+        },
+        {
+          "name": "AOL Sessions",
+          "date": "2006",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/829da5a6-a9b5-4798-ab0b-6245966eae10"
+        },
+        {
+          "name": "The MySpace Transmissions",
+          "date": "2008-07-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/841797ab-aa5c-3a77-8e34-76ed4d42e9ed"
+        },
+        {
+          "name": "Palms (Acoustic Sessions for Octane)",
+          "date": "2021-01-15",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/862be968-049c-49d6-9593-7d69bb3ac59d"
+        },
+        {
+          "name": "Broken Lungs",
+          "date": "",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8b31f4e6-0f88-4da5-b0f7-432a0f4d4d8f"
+        },
+        {
+          "name": "Albatross",
+          "date": "2025-08-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8c38abd1-e7d5-4c8d-ac9f-5561bf13ab7c"
+        },
+        {
+          "name": "Hold Up a Light",
+          "date": "2019",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8e835968-7723-462b-91f2-c1cfc9485570"
+        },
+        {
+          "name": "The Grey",
+          "date": "2018-06-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/924a8ece-a5b6-41aa-af9e-a75bd6888cd0"
+        },
+        {
+          "name": "To Be Everywhere Is to Be Nowhere",
+          "date": "2016-05-27",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/98fde78f-2b3c-4472-93d4-f9b4224db57c"
+        },
+        {
+          "name": "Red Sky EP",
+          "date": "2006-04-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/995c422b-45e2-3305-b524-d781ba446304"
+        },
+        {
+          "name": "I Want You (She's So Heavy)",
+          "date": "2010",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9ae0f1e5-e667-4b11-b5a0-3a2b921a1412"
+        },
+        {
+          "name": "First Impressions",
+          "date": "1999-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9bc35ae8-d294-3334-b053-b8f98ae00e01"
+        },
+        {
+          "name": "Undertow (Luo remix)",
+          "date": "2026-03-31",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a1d4713d-4135-4e42-8113-77c1ff65cc56"
+        },
+        {
+          "name": "The Illusion of Safety",
+          "date": "2002-02-05",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/a54b2072-18ec-34d7-9374-12db72cb834a"
+        },
+        {
+          "name": "Identity Crisis",
+          "date": "2000-06-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/aa3989ce-0482-368e-adf2-87ee0cb0102a"
+        },
+        {
+          "name": "Robot Soft Exorcism (Amulets remix)",
+          "date": "2021-10-27",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aa8ab389-6ffb-4116-953e-be73173bff2d"
+        },
+        {
+          "name": "Thrice",
+          "date": "2006",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/aae63e4b-2f86-3a94-a40d-d63ac018d07e"
+        },
+        {
+          "name": "Christmas Songs",
+          "date": "2005",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/af69236d-4647-4029-b53e-6cde9164d059"
+        },
+        {
+          "name": "Summer Set Fire to the Rain (acoustic)",
+          "date": "2022-11-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b360df13-868b-4b7b-a547-8e2f0686c350"
+        },
+        {
+          "name": "The Alchemy Index, Vols. I & II: Fire & Water",
+          "date": "2007-10-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b473f1d0-13f7-384d-ac54-ec4a9642deda"
+        },
+        {
+          "name": "Anthology",
+          "date": "2012-10-30",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/b64bd5b1-88e6-49a9-b951-b85ee6e28511"
+        },
+        {
+          "name": "Beggars",
+          "date": "2009-08-11",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/b84eb441-d4e7-4a1e-acc6-7d7f2b555104"
+        },
+        {
+          "name": "Palms – Deeper Wells",
+          "date": "2019-06-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c251adfc-d819-490e-b410-454a75e40549"
+        },
+        {
+          "name": "Major/Minor",
+          "date": "2011-09-06",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/c38e3f81-2f62-4ed1-9acc-29cfc4a5d4d2"
+        },
+        {
+          "name": "In Exile",
+          "date": "2009",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d45de826-a790-418b-a551-31f04f4bdee9"
+        },
+        {
+          "name": "Dead Wake / Scavengers (acoustic)",
+          "date": "2022-05-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d5cdec92-00e4-427c-b665-329bfa8d3a74"
+        },
+        {
+          "name": "At Guitar Center",
+          "date": "2012-01-31",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d73fe0da-33d3-45c4-a381-929b1f64b223"
+        },
+        {
+          "name": "Manchester Orchestra/Thrice Split",
+          "date": "2013-01-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d87c0f73-604b-431d-a9b2-8e855382dc10"
+        },
+        {
+          "name": "Acoustic at OC Register",
+          "date": "2008",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/dad2eb11-0929-308d-a72e-5b5239aa0ac8"
+        },
+        {
+          "name": "Thrice",
+          "date": "2004",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dd8139b5-35f7-3cf2-acb6-b49fd78ab2d9"
+        },
+        {
+          "name": "Dustin - Acoustic Session - 5/22/02",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/ebd6487d-c11d-3836-8879-71b7d8bd9ed1"
+        },
+        {
+          "name": "The Artist in the Ambulance",
+          "date": "2003-07-22",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/ed252afa-a371-3f7e-af68-76ec850ca201"
+        },
+        {
+          "name": "Live Ska Parade Radio 1",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f16c9d7c-1a0c-335d-9832-2446b433aa0e"
+        },
+        {
+          "name": "Live on AOL Sessions",
+          "date": "2006",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f2e02a79-c426-32c0-a21f-0c0e203c71bf"
+        },
+        {
+          "name": "Red Sky",
+          "date": "2006-01-19",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f4065ccf-49d8-3d24-b328-aae04e6c3add"
+        },
+        {
+          "name": "Come All You Weary",
+          "date": "2008-03-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f4ff4628-0e68-3caa-b1cd-2d91884366f1"
+        },
+        {
+          "name": "2003-11-29: Detroit, MI, USA",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f71a9f80-b9d2-3bf6-b58b-84d99d3c923e"
+        },
+        {
+          "name": "Spinner.com Acoustic Set",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/f866161a-fa9a-387d-bac0-7be9038f4e8e"
+        },
+        {
+          "name": "Image of the Invisible",
+          "date": "2005-09-20",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/fae4eeb0-004e-4a75-8838-4385d8b0f80f"
+        },
+        {
+          "name": "Live in Detroit on MTV",
+          "date": "",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fe0a138b-3388-317b-83e2-d130540689e0"
+        }
+      ]
+    },
+    "tom-morello": {
+      "name": "Tom Morello",
+      "musicbrainz_url": "https://musicbrainz.org/artist/42a636a0-dbe4-4d0c-abe2-1590fad9531b",
+      "reference_checked_at": "2026-10-30T16:19:19.847354+00:00",
+      "genres": "alternative metal, rock",
+      "bandcamp_url": "https://tommorello.bandcamp.com/",
+      "website": "http://tommorello.com/",
+      "members": [],
+      "members_source": "https://musicbrainz.org/artist/42a636a0-dbe4-4d0c-abe2-1590fad9531b",
+      "albums": [
+        {
+          "name": "We Are the 99%",
+          "date": "2012-09-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/02c6940c-7c3b-45ea-81cc-bba8a8a4d733"
+        },
+        {
+          "name": "Natural’s Not in It",
+          "date": "2021-01-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/02ee2d25-3e55-4a7f-9e63-6ec9aaf5cb37"
+        },
+        {
+          "name": "メタり！！",
+          "date": "2023-08-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/10be504c-94e7-4d5f-b457-ac1bc828e0e8"
+        },
+        {
+          "name": "Battle Sirens (Ephwurd remix)",
+          "date": "2016-10-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/14b64566-fc53-4227-8ae2-97c0314783c0"
+        },
+        {
+          "name": "The War Inside",
+          "date": "2021-10-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/21c42d46-c415-4a84-a759-de74eae948c7"
+        },
+        {
+          "name": "Rise Up",
+          "date": "2010-02-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/25cda66c-af4f-4988-8c29-779a406f9081"
+        },
+        {
+          "name": "Gossip",
+          "date": "2023-01-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/28560623-08c9-4f6f-a2d9-26780d29ffc0"
+        },
+        {
+          "name": "Champion",
+          "date": "2019-07-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2d9121c8-ebbe-425f-8d08-91275e3cfd24"
+        },
+        {
+          "name": "Weather Strike",
+          "date": "2021-04-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/309a9f9d-3279-4c57-ba9b-7805cd031a5f"
+        },
+        {
+          "name": "Soldier in the Army of Love",
+          "date": "2024-06-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/33ff2108-b53d-48fe-a1c4-6f748073e0ff"
+        },
+        {
+          "name": "Save the Hammer for the Man (SongAid) (live)",
+          "date": "2020-05-29",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3a357fac-0651-48e4-a729-f28fcd09697c"
+        },
+        {
+          "name": "Adjourn It",
+          "date": "2026-05-29",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4021d986-e60f-495c-8b5a-4e988bb51250"
+        },
+        {
+          "name": "Must Be Undone",
+          "date": "2021-03-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4218583b-7917-4c28-b0e2-0f5b4d645d7b"
+        },
+        {
+          "name": "TGIF",
+          "date": "2021-05-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/43833372-ba6b-42fb-b0ac-585a42c98c16"
+        },
+        {
+          "name": "Comandante",
+          "date": "2020-10-30",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4b809cb3-05af-4fb5-bee3-3435b16983ff"
+        },
+        {
+          "name": "One Last Dance (From \"Venom: The Last Dance\")",
+          "date": "2024-10-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5050e2d7-f7ac-455d-a66f-cfa54f45bec8"
+        },
+        {
+          "name": "And So It Went",
+          "date": "2021-01-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/5144e518-8a57-445a-b758-be1672b43cce"
+        },
+        {
+          "name": "You Belong to Me",
+          "date": "2020-08-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/56cbccbb-5fc9-495f-a7f6-b1b5cf373c7c"
+        },
+        {
+          "name": "War",
+          "date": "1998",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/57f1f366-43b8-44b3-abd2-3cc14f1c67c4"
+        },
+        {
+          "name": "Highway to Hell",
+          "date": "2021-08-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/627b4010-94e5-48a7-a6d3-d143499351c0"
+        },
+        {
+          "name": "Multi‐Viral",
+          "date": "2013-11-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/683ed6e3-53c3-4735-adbb-3b8b219d7907"
+        },
+        {
+          "name": "Everyone Gets Everything They Want",
+          "date": "2026-09-25",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/744372c3-6396-4994-b09b-b24a4d7ea358"
+        },
+        {
+          "name": "Every Step That I Take",
+          "date": "2018-10-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/76d0c852-2a4f-4e74-a349-46523e702028"
+        },
+        {
+          "name": "Can’t Stop the Bleeding",
+          "date": "2019-04-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/77204a32-7e2a-4524-8cbe-358f6021e6df"
+        },
+        {
+          "name": "Rabbit’s Revenge",
+          "date": "2018-08-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7c0b6664-1ebf-4d3d-98e4-7fd9b1bfe8ea"
+        },
+        {
+          "name": "A Higher Frequency",
+          "date": "2019-07-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7f500860-d6d7-4053-b625-113d2fc92306"
+        },
+        {
+          "name": "Battle Sirens (RIOT remix)",
+          "date": "2016-11-21",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/7f801dfe-2bf6-4ec9-a3e3-707c558d0cc8"
+        },
+        {
+          "name": "Everything Burns",
+          "date": "2025-12-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/81405375-fa0c-435e-b5dc-ae15654f335c"
+        },
+        {
+          "name": "The Atlas Underground",
+          "date": "2018-10-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8dcb71a0-e27f-4071-868c-3137350cf19c"
+        },
+        {
+          "name": "The Atlas Underground (instrumentals)",
+          "date": "2019-03-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/8e75d55e-50b3-4a4c-b458-ecf56472a160"
+        },
+        {
+          "name": "Battle Sirens",
+          "date": "2016-09-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/953deb03-7c39-4e02-9360-51d85fa879fd"
+        },
+        {
+          "name": "We Don’t Need You",
+          "date": "2018-07-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/963d361b-5eab-41e3-8b27-4e7dd7837df2"
+        },
+        {
+          "name": "Driving to Texas",
+          "date": "2021-08-25",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/98677a92-ed87-452f-9cf0-df0b7d5cc19e"
+        },
+        {
+          "name": "Stand Up",
+          "date": "2020-07-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a0c4edb5-aff5-4026-a73d-baa51873c805"
+        },
+        {
+          "name": "Heavy Lifting",
+          "date": "2024-09-12",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a68fe33d-9dc0-43cb-adb8-c7cd6248587a"
+        },
+        {
+          "name": "Date Night",
+          "date": "2026-07-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a8d67f37-10fe-4330-b69c-48df92667a2b"
+        },
+        {
+          "name": "Radium Girls",
+          "date": "2021-06-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b0479791-a08f-4b8b-b6d0-9ac3a8b0903d"
+        },
+        {
+          "name": "Let’s Get the Party Started",
+          "date": "2021-09-22",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/b16c948d-2407-4470-958d-fad3c8e11e9a"
+        },
+        {
+          "name": "Marching on Ferguson",
+          "date": "2014-10-14",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/bac7b5c1-b588-4716-aba4-5b587a6b4b54"
+        },
+        {
+          "name": "The Maze",
+          "date": "2021-12-01",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c2e97ac8-fcd3-4a13-a3fc-8a8800eab446"
+        },
+        {
+          "name": "Dirty Deeds Done Dirt Cheap (triple j Like a Version)",
+          "date": "2008-01-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c6cd4867-47df-4b6c-99e1-23f584a9f4d2"
+        },
+        {
+          "name": "The Atlas Underground Flood",
+          "date": "2021-11-17",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c6ed2f34-294a-4c9c-b977-b83f24f72c44"
+        },
+        {
+          "name": "Divebomb",
+          "date": "2017-02-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cd185caf-1a7d-471e-a0c0-08c301562f3f"
+        },
+        {
+          "name": "The Atlas Underground Fire",
+          "date": "2021-10-15",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d05838ae-f38e-4b94-8a30-ec4089c520db"
+        },
+        {
+          "name": "Spotify Singles",
+          "date": "2022-03-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d278847f-ccf4-4a72-99f6-05f54903bc82"
+        },
+        {
+          "name": "Annabelle",
+          "date": "2021-12-26",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d400f42c-09bc-4930-b795-558df3b6ce72"
+        },
+        {
+          "name": "The Children Will Rise Up!",
+          "date": "2021-10-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d41eacae-f2dd-4005-823e-c54453c2b1a1"
+        },
+        {
+          "name": "The Catastrophists",
+          "date": "2021-06-18",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/dae92871-1b2c-422a-aa45-7c6e5bd873a1"
+        },
+        {
+          "name": "Lucky One",
+          "date": "2018-09-07",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/e4d8b127-99c4-424b-8615-6138274d2da2"
+        },
+        {
+          "name": "Battle Sirens (Brillz remix)",
+          "date": "2016-10-13",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f43ff82c-9bf4-4d10-b2c2-ae837cb5a68c"
+        },
+        {
+          "name": "The Atlas Underground Flood",
+          "date": "2021-12-03",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f4d0c969-dcd8-4971-90cb-4d55ce203253"
+        },
+        {
+          "name": "Pretend You Remember Me",
+          "date": "2025-07-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f5f3fb9e-a583-427a-b8f3-fe528f49d854"
+        },
+        {
+          "name": "Come Play (from the series Arcane League of Legends)",
+          "date": "2024-10-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f61af4e1-359a-4b6b-b277-58bec9ebfad0"
+        },
+        {
+          "name": "Goodbye - Gate 21",
+          "date": "2011-03",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/ff2ecf22-87b2-4533-8fe3-9585f3a98336"
+        }
+      ]
     }
   },
   "checked": {
@@ -33974,8 +34721,8 @@
     "the-pretty-reckless": "2026-10-30T02:54:38.587986+00:00",
     "the-rolling-stones": "2026-10-30T09:38:07.611906+00:00",
     "thin-lizzy": "2026-10-30T09:38:12.049524+00:00",
-    "thrice": "2026-10-19T00:15:09.194575+00:00",
-    "tom-morello": "2026-10-19T00:15:13.131425+00:00",
+    "thrice": "2026-10-30T16:19:13.400677+00:00",
+    "tom-morello": "2026-10-30T16:19:19.847481+00:00",
     "tool": "2026-10-19T04:47:10.099022+00:00",
     "twisted-sister": "2026-10-19T04:47:14.313313+00:00",
     "ufo": "2026-10-19T10:24:23.646603+00:00",
