@@ -33208,6 +33208,653 @@
           "source_url": "https://musicbrainz.org/release-group/ff594f87-237f-42d8-b6e1-d29c744e7056"
         }
       ]
+    },
+    "thin-lizzy": {
+      "name": "Thin Lizzy",
+      "musicbrainz_url": "https://musicbrainz.org/artist/6a726ac6-019e-455c-8bbb-571a77bed52e",
+      "reference_checked_at": "2026-10-30T09:38:12.049332+00:00",
+      "genres": "celtic rock, classic rock, hard rock, heavy metal, metal, pop rock, rock, soft rock",
+      "website": "http://www.thinlizzy.org/",
+      "members": [
+        {
+          "name": "Ricky Warwick",
+          "role": "guitar",
+          "begin": "2010"
+        },
+        {
+          "name": "Ricky Warwick",
+          "role": "lead vocals",
+          "begin": "2010"
+        },
+        {
+          "name": "Eric Bell",
+          "role": "",
+          "begin": null
+        },
+        {
+          "name": "Brian Downey",
+          "role": "drums (drum set)",
+          "begin": null
+        },
+        {
+          "name": "Gary Moore",
+          "role": "additional",
+          "begin": null
+        },
+        {
+          "name": "Midge Ure",
+          "role": "",
+          "begin": null
+        },
+        {
+          "name": "Snowy White",
+          "role": "additional",
+          "begin": null
+        }
+      ],
+      "members_source": "https://musicbrainz.org/artist/6a726ac6-019e-455c-8bbb-571a77bed52e",
+      "albums": [
+        {
+          "name": "Trouble Boys",
+          "date": "1981",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/00e380ef-9b2d-3428-a79b-44b2aa71cf67"
+        },
+        {
+          "name": "Nightlife / Fighting",
+          "date": "2025-09-19",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/06898043-4524-41c7-b4df-9ccfd6a58964"
+        },
+        {
+          "name": "Chinatown",
+          "date": "1980-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0765ba50-a1d4-3fa7-a663-07fe12ea405a"
+        },
+        {
+          "name": "Renegade",
+          "date": "1981-11-20",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/086cc7d5-455d-377f-8dfe-81360cee62ac"
+        },
+        {
+          "name": "Outlawed",
+          "date": "2006",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/0d00c519-0f45-4a9e-af3f-b48f841bf884"
+        },
+        {
+          "name": "Black Rose: A Rock Legend",
+          "date": "1979-04-13",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/0e50cfc6-0830-3e6b-a443-d39237b1d34c"
+        },
+        {
+          "name": "The Peel Sessions",
+          "date": "1994-10-06",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/11aa458e-e91a-3117-8a68-c7d44626ce3e"
+        },
+        {
+          "name": "Whiskey in the Jar",
+          "date": "2024-05-24",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/12903c83-8d0d-44e7-895f-760839b57d10"
+        },
+        {
+          "name": "Live 2012: 29.11.2012, O2 Academy, Bournemouth",
+          "date": "2013",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/187c6d46-e64a-42a6-81b8-f2d3b779a93b"
+        },
+        {
+          "name": "Dedication",
+          "date": "1991",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/18e3d0a6-2c5e-3fe2-8069-12e860069566"
+        },
+        {
+          "name": "Little Darling",
+          "date": "1974",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/26ec37ba-592a-42c2-b448-8f9c3403b820"
+        },
+        {
+          "name": "Rosalie (Cowgirls' Song)",
+          "date": "1978-04",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/28179d9b-3312-4239-a437-18a095ba6cb0"
+        },
+        {
+          "name": "The Continuing Saga of the Ageing Orphans",
+          "date": "1979-09",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/285b6b28-c37c-4820-ac56-3eff20cb9cb7"
+        },
+        {
+          "name": "Thin Lizzy / Shades of a Blue Orphanage",
+          "date": "2013",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2ce4dcb1-074f-4b7e-8500-f7049e852891"
+        },
+        {
+          "name": "Icon",
+          "date": "2011",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/2e3b209c-5be4-469b-bda2-bec03a0fc4c7"
+        },
+        {
+          "name": "Here I Go Again",
+          "date": "2024-05-06",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/2ef57762-1cd3-428d-bca2-3867bdf31e9e"
+        },
+        {
+          "name": "Colour Collection",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/32c5077c-9c81-4156-8e6b-bbc3b27a5c2d"
+        },
+        {
+          "name": "The Boys Are Back in Town (Live at the Sydney Opera House October 1978)",
+          "date": "2022-06-26",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/3a3922c6-7a86-4d2c-af8d-66e582a82d1b"
+        },
+        {
+          "name": "Rocker (1971-1974)",
+          "date": "1977",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3bcfc37b-0bb2-4233-83a2-a77da9c922dd"
+        },
+        {
+          "name": "The Acoustic Sessions",
+          "date": "2024-04-05",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/3d6bebef-9bc5-402b-a633-2a485ded35bf"
+        },
+        {
+          "name": "Nightlife",
+          "date": "1974",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/3e0381e9-56e2-36ea-8d7b-5b024be09594"
+        },
+        {
+          "name": "Dedication: The Very Best of Thin Lizzy",
+          "date": "1991",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/3e92b68a-8eb0-3eaa-8019-b49fe3263383"
+        },
+        {
+          "name": "1976",
+          "date": "2024-08-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/417c5a89-e0e4-477d-a519-cc25ec70cd8d"
+        },
+        {
+          "name": "Live in Japan (Live)",
+          "date": "2020-02-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4250eab0-07f0-43ae-bad0-1d62116ecc60"
+        },
+        {
+          "name": "Millennium Edition",
+          "date": "1999-12-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/426404b7-9eed-32d9-b93b-c666b396c8e5"
+        },
+        {
+          "name": "UK Tour 75",
+          "date": "2008-09-08",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/466befd5-59b5-3f97-9712-a9727ae8a8f2"
+        },
+        {
+          "name": "Rosalie",
+          "date": "1975",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/49209551-654d-4b29-bb6a-dc724e5ffd45"
+        },
+        {
+          "name": "One Night Only",
+          "date": "2000",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/4c706d70-d370-395b-b57d-fd6660dded10"
+        },
+        {
+          "name": "Waiting for an Alibi: The Collection",
+          "date": "2011-04-04",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/4cc00d15-50fc-4ea1-a052-cd920be009d0"
+        },
+        {
+          "name": "Whisky in the Jar",
+          "date": "1972",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/4ee7ddd9-e57d-44c3-a41f-4a49063a3b0c"
+        },
+        {
+          "name": "Rock Legends",
+          "date": "2020-10-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/558df089-921f-40ca-80a4-3c6981bde510"
+        },
+        {
+          "name": "Thin Lizzy",
+          "date": "1971-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5644f7d6-9c27-3740-829f-47d4167c84ac"
+        },
+        {
+          "name": "Breaking Out in Chicago",
+          "date": "2019-04-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/573758de-3ecc-4e18-9296-c552db71a165"
+        },
+        {
+          "name": "2 for 1: Jailbreak + Black Rose",
+          "date": "2010",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/582eb41a-ae68-456d-80b8-df43869dc80f"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2004-06-07",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/58cf0780-971e-3d54-a82d-5b4412a94395"
+        },
+        {
+          "name": "Bad Reputation",
+          "date": "1977-09-02",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/58d9e7fb-3186-3fd6-b7f3-32784179c855"
+        },
+        {
+          "name": "Vagabonds of the Western World",
+          "date": "1973",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/5ad79fbc-05c7-3e37-896b-23dfc553ef94"
+        },
+        {
+          "name": "Fighting",
+          "date": "1975-09-12",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/634a7c5f-b10b-3634-9261-eef34ad03eaf"
+        },
+        {
+          "name": "The Silver Collection",
+          "date": "2007",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/672aa0ff-7ab9-4dcf-aafa-5d613951c5b5"
+        },
+        {
+          "name": "Decca Era & Mercury Rarities",
+          "date": "2020-10-22",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6764f1b1-eb19-4333-95a8-b7ce102ea8d8"
+        },
+        {
+          "name": "Remembering, Part 1",
+          "date": "1976-08",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6a1c724d-355d-3a11-91a4-3c27e40ad8ad"
+        },
+        {
+          "name": "Still Dangerous: Live at Tower Theatre Philadelphia 1977",
+          "date": "2009-03-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/6e010cc9-e4bc-325d-9358-caa8f2e347b9"
+        },
+        {
+          "name": "Greatest Hits",
+          "date": "2020-10-23",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/6e7347a5-c8c2-417a-8e6d-4c3734e98cb9"
+        },
+        {
+          "name": "Do Anything You Want To",
+          "date": "1979-06-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/6f656c8f-40ac-427f-b4ba-7ebf029d647c"
+        },
+        {
+          "name": "New Collection",
+          "date": "2008",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/702c53c1-3969-44ac-a11b-289ded8613a6"
+        },
+        {
+          "name": "Thin Lizzy",
+          "date": "2026",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/72aaf1ae-2052-4597-a4d8-82d39d909027"
+        },
+        {
+          "name": "The Boys Are Back in Town",
+          "date": "1991-03-11",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/731825bc-4cbb-4070-970e-f811bfa7e335"
+        },
+        {
+          "name": "1976",
+          "date": "2024-09-27",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/780157a5-45a3-4981-8ca0-430847604f8e"
+        },
+        {
+          "name": "Life Live",
+          "date": "1983",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7ccd0bb0-76f0-39f2-a4ac-98d4ff2ca928"
+        },
+        {
+          "name": "Live 2012: O2 Shepherds Bush Empire London",
+          "date": "2013",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/7e5794f8-9ff9-4254-8c55-31a01c30e7fb"
+        },
+        {
+          "name": "Live and Dangerous at Hammersmith 14 Nov 1976",
+          "date": "2023-04-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/80560fdb-64e8-47dd-bbce-8775d4402b9f"
+        },
+        {
+          "name": "At the Beeb",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/83f93334-f008-4620-9113-4f1d5c7438e3"
+        },
+        {
+          "name": "The Best of - Soldier of Fortune",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/882febb4-9adb-48f7-b3de-29447d21f906"
+        },
+        {
+          "name": "Sarah",
+          "date": "1979",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/8841f236-cef5-4dfd-8003-16edcc82298f"
+        },
+        {
+          "name": "Extended Versions",
+          "date": "2001",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/889761ce-2622-4750-8671-e6dec9beb5ae"
+        },
+        {
+          "name": "Classic Album Selection",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/8ab0a2bf-06d1-41ff-b271-0537dd64cb18"
+        },
+        {
+          "name": "Are You Ready?: Live at Rockpalast",
+          "date": "2009-11-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/90607fb6-d47e-4c5a-80fe-2e3c2eb025db"
+        },
+        {
+          "name": "The Farmer",
+          "date": "1970",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/90b7869a-a999-44c7-b6ea-2335b1237efb"
+        },
+        {
+          "name": "The Boys Are Back In Town",
+          "date": "1997-10-22",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/94552932-dd6f-4dfd-aff8-a92030714a02"
+        },
+        {
+          "name": "Best Of: Soldier of Fortune",
+          "date": "1987",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/99ac180e-4a58-3219-bc44-3cb07dcb2b47"
+        },
+        {
+          "name": "The Hero and the Madman",
+          "date": "2002-08-12",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/9a144265-a463-459d-bdb7-d6abd37a71d6"
+        },
+        {
+          "name": "Randolph's Tango",
+          "date": "1973",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/9ac5d80d-f29c-456b-a81f-117c52c79e44"
+        },
+        {
+          "name": "Live in London 22.01.2011",
+          "date": "2011-09-19",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/9c1540a5-e1be-4ed0-b038-9271284a67b6"
+        },
+        {
+          "name": "Live in Cleveland 1976",
+          "date": "2026-04-18",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/a22199d0-7260-49aa-9617-c4d5f8476621"
+        },
+        {
+          "name": "Lizzy Killers",
+          "date": "1981",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a3c52f8d-7ed0-37e0-a9af-456311709185"
+        },
+        {
+          "name": "New Day",
+          "date": "1971",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/a5d8f456-08ed-3e39-bec7-e695eb0af423"
+        },
+        {
+          "name": "The Rocker",
+          "date": "2007-06-11",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a70db4ea-fd02-35f4-b9c2-7e75b649a10c"
+        },
+        {
+          "name": "Collected",
+          "date": "2012",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/a8e5500c-8cb8-4cf6-92e4-a8d925c1ca8a"
+        },
+        {
+          "name": "Whisky in the Jar",
+          "date": "1996",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/ba3ad3cc-bfd4-3303-972f-0ce176cf21f7"
+        },
+        {
+          "name": "Essential",
+          "date": "2020",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/bac6d335-75bd-4ac5-960c-674f485b50ce"
+        },
+        {
+          "name": "The Boys Are Back in Town / Jailbreak",
+          "date": "1976",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c29e58c3-8e2f-392d-914c-b06cd73cfedc"
+        },
+        {
+          "name": "According to Phil Lynott",
+          "date": "1992",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c4cac751-009b-4635-a408-17d13755f42c"
+        },
+        {
+          "name": "Live in London 2011: 23.01.2011 Indigo2",
+          "date": "2011-04-25",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/c5cfa12f-fec9-45e2-8167-ef6168391cab"
+        },
+        {
+          "name": "A Song For While I’m Away",
+          "date": "2024-03-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c7c02ed6-bccc-4b47-8f22-a314f4d97c52"
+        },
+        {
+          "name": "The Boys Are Back in Town - Swedish Collection",
+          "date": "2000",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c91b16f7-48e7-46f3-8a6a-7c9ab5dc9c9c"
+        },
+        {
+          "name": "The Collection",
+          "date": "1985",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/c91cca6a-f7d7-3460-9ce0-5f204b4b9e36"
+        },
+        {
+          "name": "Killer on the Loose",
+          "date": "1980-09",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/c9ba91b8-9627-4145-96e7-2811a7063ba5"
+        },
+        {
+          "name": "Live in London 2011: 22.01.2011 Hammersmith Apollo",
+          "date": "2011",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/cbf60a1b-659c-4a39-b15a-7946031c1330"
+        },
+        {
+          "name": "Thunder and Lightning",
+          "date": "1983",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/cd9a33be-0239-4821-9855-359be018f843"
+        },
+        {
+          "name": "Johnny the Fox",
+          "date": "1976-10-16",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/cdf7a087-0cd4-3eb3-aef9-4f8986325600"
+        },
+        {
+          "name": "Hammersmith Live 1980",
+          "date": "2020-10-23",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/d104d683-2e25-49a7-ba86-0baabcae00cc"
+        },
+        {
+          "name": "The Japanese Compilation Album",
+          "date": "1994",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/d1c2acb1-0b91-4fcc-a037-5e401cf24276"
+        },
+        {
+          "name": "Dancing in the Moonlight (It's Caught Me in It's Spotlight)",
+          "date": "1977-08",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d20a9c83-80a2-4ea3-b787-114f4d5675ee"
+        },
+        {
+          "name": "Jailbreak",
+          "date": "1976",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d55dae0d-835d-3756-8805-196e41bacc2f"
+        },
+        {
+          "name": "Shades of a Blue Orphanage",
+          "date": "1972-03-10",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/d563a202-d242-3906-80fe-31e66fb948ba"
+        },
+        {
+          "name": "Cold Sweat",
+          "date": "1983-02",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d5eb6e9f-8abb-4b51-84c1-cbe07cfb0781"
+        },
+        {
+          "name": "Wild One: The Very Best of Thin Lizzy",
+          "date": "1996-02-25",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/de6bf249-392a-3fca-bdc6-fcbcde3591ca"
+        },
+        {
+          "name": "The Definitive Collection",
+          "date": "2006-06-20",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/df888813-dba2-3662-b9e3-5fa19b221165"
+        },
+        {
+          "name": "BBC Radio 1: Live in Concert",
+          "date": "1992",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e5928a46-02aa-3b2b-bd24-1730a15c91f4"
+        },
+        {
+          "name": "The History of Rock, Volume Twenty One",
+          "date": "1984",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/e7b533c3-c396-4ef7-85a5-2ab69faa35f2"
+        },
+        {
+          "name": "Acoustic Sessions",
+          "date": "2025-01-24",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e8e7f844-a33a-43f7-a679-77a4c8865839"
+        },
+        {
+          "name": "Live and Dangerous",
+          "date": "1978-06-02",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/e9ae496e-c750-3433-a35c-adfc50f83858"
+        },
+        {
+          "name": "At the BBC",
+          "date": "2011",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/eccd3e52-719a-4a03-bc63-152843f0cb27"
+        },
+        {
+          "name": "Don’t Believe a Word",
+          "date": "1976",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f0a344b1-1c92-44e4-a91d-fccc54359648"
+        },
+        {
+          "name": "The Rocker",
+          "date": "1973",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/f232316c-d53e-3c3a-9cfd-18af2ca88cd2"
+        },
+        {
+          "name": "Rockers",
+          "date": "1993",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f5aec11f-6360-4f47-a032-15b5eaf76f07"
+        },
+        {
+          "name": "Jailbreak + Black Rose",
+          "date": "2010",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/f7a30d02-3c12-414e-9442-fe0aa7dea1ba"
+        },
+        {
+          "name": "Live in Glasgow (Live)",
+          "date": "2020-02-10",
+          "kind": "live",
+          "source_url": "https://musicbrainz.org/release-group/fb6e4fdb-5e93-45c0-acfa-170c224c22bb"
+        },
+        {
+          "name": "Vagabonds Kings Warriors Angels",
+          "date": "2001",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/fdfd3e6a-8448-3845-ba40-a42f63ddff56"
+        },
+        {
+          "name": "Thunder and Lightning",
+          "date": "1983-03-04",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/fe48fbb7-8462-3ff2-b50d-bf3ea6d7c2b4"
+        }
+      ]
     }
   },
   "checked": {
@@ -33325,8 +33972,8 @@
     "the-contortionist": "2026-10-29T23:28:29.199144+00:00",
     "the-l-i-f-e-project": "2026-10-30T02:54:34.239015+00:00",
     "the-pretty-reckless": "2026-10-30T02:54:38.587986+00:00",
-    "the-rolling-stones": "2026-10-18T22:01:05.817812+00:00",
-    "thin-lizzy": "2026-10-18T22:01:07.057528+00:00",
+    "the-rolling-stones": "2026-10-30T09:38:07.611906+00:00",
+    "thin-lizzy": "2026-10-30T09:38:12.049524+00:00",
     "thrice": "2026-10-19T00:15:09.194575+00:00",
     "tom-morello": "2026-10-19T00:15:13.131425+00:00",
     "tool": "2026-10-19T04:47:10.099022+00:00",
