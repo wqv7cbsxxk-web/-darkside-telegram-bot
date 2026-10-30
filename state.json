@@ -1161,49 +1161,17 @@
     "2da3d50bd50ce3efece64336751357aa50ff7e46",
     "b2abcb04438b5aa8ca631f0633f1f688499cdbc0",
     "b2eaf4b2a39431f37426b975196dcd34fb71ffb1",
-    "f44e7d810c328af1100ad97b97920863bf65339a"
+    "f44e7d810c328af1100ad97b97920863bf65339a",
+    "0e13b0f707f0b5cd36b85f2f4ee67a9a42dac037",
+    "03dc5121f4a5127a0eda94f0b964cc141704edb4",
+    "836d1a5447767f04411d1e21293d38a028347127",
+    "aae19b0df5e67f131d22896f2de35bd7e70bd424",
+    "67e6792d330eed81d3bf7529b9877efb44ba82a9",
+    "fb2669e9e03653c370cf8d694fd4677364e74dba",
+    "5ee8282edcb9e8bbd6a674476130964a63a345bb",
+    "4acff78502b55f672d4f47a91a2dd8f0fa8f5f2c"
   ],
   "recent_titles": [
-    {
-      "title": "Body Horror Films: The Essential List",
-      "source": "Ultimate Classic Rock",
-      "ts": 1792807124
-    },
-    {
-      "title": "John Carpenter picks the records that changed his life",
-      "source": "Louder",
-      "ts": 1792807155
-    },
-    {
-      "title": "Nicko McBrain opens up about using heroin – and how he kicked it",
-      "source": "Louder",
-      "ts": 1792825959
-    },
-    {
-      "title": "Metal Allegiance Tap Mastodon, Opeth, Etc. Members For Their Annual Californian Show",
-      "source": "ThePRP",
-      "ts": 1792826071
-    },
-    {
-      "title": "Testament’s Chuck Billy Announces In-Person Events For His Upcoming Memoir ‘Holding My Breath’",
-      "source": "ThePRP",
-      "ts": 1792826360
-    },
-    {
-      "title": "Chad Gray Scraps Immediate Californian Shows Amid Vocal Issues & Illness",
-      "source": "ThePRP",
-      "ts": 1792826371
-    },
-    {
-      "title": "How Steven Wilson got a former Doctor Who to appear on his new album",
-      "source": "Louder",
-      "ts": 1792843391
-    },
-    {
-      "title": "Halestorm's Lzzy Hale picks her five essential guitar albums",
-      "source": "Louder",
-      "ts": 1792843412
-    },
     {
       "title": "AN NCS PREMIERE: NIGHT GAUNT — “THE DEER AND THE HUNTER”",
       "source": "No Clean Singing",
@@ -1963,6 +1931,46 @@
       "title": "Sleep Theory Debut Their New Single “Giving In” And Its Accompanying Music Video",
       "source": "ThePRP",
       "ts": 1793316480
+    },
+    {
+      "title": "Foo Fighters release 29-year-old cover of Gerry Rafferty's classic Baker Street",
+      "source": "Louder",
+      "ts": 1793328802
+    },
+    {
+      "title": "Filth Is Eternal’s Touring Van Stolen, Fans Urged To Keep An Eye Out For It",
+      "source": "ThePRP",
+      "ts": 1793328805
+    },
+    {
+      "title": "Ruins Of Perception Channel The Folktale Of Bluebeard Into Their “The Crimson Key” Video",
+      "source": "ThePRP",
+      "ts": 1793328809
+    },
+    {
+      "title": "Unholy Altar Sign With BLKIIBLK",
+      "source": "ThePRP",
+      "ts": 1793328814
+    },
+    {
+      "title": "Bloodbath & NervoChaos Announce Australian Tour For Early 2027",
+      "source": "ThePRP",
+      "ts": 1793328817
+    },
+    {
+      "title": "Bloodlines’ New Single “Freefall” Arrives Online",
+      "source": "ThePRP",
+      "ts": 1793328837
+    },
+    {
+      "title": "Voivod Announce The Passing Of Denis “Snake” Bélanger’s Significant Other Christine McDonald",
+      "source": "ThePRP",
+      "ts": 1793328854
+    },
+    {
+      "title": "200 Stab Wounds Tap Code Orange, Etc. Members To Oversee Their New “Sweet Suicide” Music Video",
+      "source": "ThePRP",
+      "ts": 1793328859
     }
   ],
   "initialized_sources": [
@@ -4795,7 +4803,7 @@
       "duplicate_ids": [
         "d10260af6127029a7740bce0684390a75c5cdd46"
       ],
-      "retry_after": 1793301839
+      "retry_after": 1793329138
     },
     {
       "source": "Decibel",
@@ -4807,7 +4815,7 @@
       "category": "Прогрессив",
       "published": "2026-10-29T19:00:23+00:00",
       "id": "60640e57e1a2f3da12dab9e8ccd15f8c7b7f11b9",
-      "retry_after": 1793301851
+      "retry_after": 1793329140
     },
     {
       "source": "Louder",
@@ -4819,31 +4827,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-29T18:00:00+00:00",
       "id": "7ea6506b216e7f9af489077b64c97f34743418fd",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Voivod Announce The Passing Of Denis “Snake” Bélanger’s Significant Other Christine McDonald",
-      "link": "https://www.theprp.com/2026/10/29/news/voivod-announce-the-passing-of-denis-snake-belangers-significant-other-christine-mcdonald/",
-      "rss_body": "Bélanger had stepped away from the band this year to be by her side through her battle with stage four cancer.",
-      "tags": "News Voivod",
-      "category": "Хэви-метал",
-      "published": "2026-10-29T17:57:41+00:00",
-      "id": "5ee8282edcb9e8bbd6a674476130964a63a345bb",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "200 Stab Wounds Tap Code Orange, Etc. Members To Oversee Their New “Sweet Suicide” Music Video",
-      "link": "https://www.theprp.com/2026/10/29/news/200-stab-wounds-tap-code-orange-etc-members-to-oversee-their-new-sweet-suicide-music-video/",
-      "rss_body": "The NOWHERE2RUN collective directed and produced this new visual offering.",
-      "tags": "News 200 Stab Wounds",
-      "category": "Хэви-метал",
-      "published": "2026-10-29T17:47:45+00:00",
-      "id": "4acff78502b55f672d4f47a91a2dd8f0fa8f5f2c",
-      "retry_after": 0
+      "retry_after": 1793329149
     },
     {
       "source": "ThePRP",
@@ -5047,7 +5031,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-29T21:06:25+00:00",
       "id": "ba4128e1e7414b41a10d0b5349ca9a65d82139bd",
-      "retry_after": 1793316694
+      "retry_after": 1793329118
     },
     {
       "source": "ThePRP",
@@ -5059,7 +5043,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-29T20:49:23+00:00",
       "id": "52d88d29f442f74e0fc73011ca0427ae769b7ed2",
-      "retry_after": 1793316720
+      "retry_after": 1793329121
     },
     {
       "source": "Louder",
@@ -5071,7 +5055,7 @@
       "category": "Хард-рок",
       "published": "2026-10-29T20:09:33+00:00",
       "id": "0a1e1fd1da09ea22d0b02921f550ac6912a599b4",
-      "retry_after": 1793316737
+      "retry_after": 1793329127
     },
     {
       "source": "Ultimate Classic Rock",
@@ -5083,19 +5067,7 @@
       "category": "Хард-рок",
       "published": "2026-10-29T19:37:05+00:00",
       "id": "612fda54fd5c072d3227e4d4a4dd2dbbffb0224d",
-      "retry_after": 1793316777
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Bloodlines’ New Single “Freefall” Arrives Online",
-      "link": "https://www.theprp.com/2026/10/29/news/bloodlines-new-single-freefall-arrives-online/",
-      "rss_body": "The Christian metalcore band's new album \"To A Thousand Generations\" will be out in December.",
-      "tags": "News Bloodlines",
-      "category": "Хэви-метал",
-      "published": "2026-10-29T19:21:04+00:00",
-      "id": "fb2669e9e03653c370cf8d694fd4677364e74dba",
-      "retry_after": 0
+      "retry_after": 1793329135
     }
   ]
 }
