@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-10-30T16:19:28.991608+00:00"
+      "bandcamp_checked_at": "2026-10-31T17:44:43.477976+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -29641,10 +29641,10 @@
     "wolves-in-the-throne-room": {
       "name": "Wolves In The Throne Room",
       "musicbrainz_url": "https://musicbrainz.org/artist/e9452446-7702-4853-96ce-5dfe6748d3fb",
-      "reference_checked_at": "2026-10-20T00:38:40.094590+00:00",
+      "reference_checked_at": "2026-10-31T17:44:28.770378+00:00",
       "genres": "atmospheric black metal, black metal",
       "bandcamp_url": "https://wolvesinthethroneroomsl.bandcamp.com/",
-      "website": "http://www.wittr.com/",
+      "website": "https://wittr.com/",
       "members": [
         {
           "name": "Aaron Weaver",
@@ -29653,8 +29653,18 @@
         },
         {
           "name": "Nathan Weaver",
-          "role": "guitar family, lead vocals, original",
+          "role": "guitar, lead vocals, original",
           "begin": "2002"
+        },
+        {
+          "name": "Colin Keyworth",
+          "role": "background vocals",
+          "begin": "2017"
+        },
+        {
+          "name": "Colin Keyworth",
+          "role": "guitar",
+          "begin": "2017"
         }
       ],
       "members_source": "https://musicbrainz.org/artist/e9452446-7702-4853-96ce-5dfe6748d3fb",
@@ -29670,6 +29680,12 @@
           "date": "2013-10-17",
           "kind": "ep",
           "source_url": "https://musicbrainz.org/release-group/12de04d4-f3b8-406a-b553-3124b3c4b0ee"
+        },
+        {
+          "name": "Mountain Magick",
+          "date": "2021-06-10",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/1e1b22c6-c480-4d25-bb57-f6df1f211bb2"
         },
         {
           "name": "Born From the Serpent’s Eye",
@@ -29730,6 +29746,12 @@
           "date": "2026-10-23",
           "kind": "studio",
           "source_url": "https://musicbrainz.org/release-group/8164a0e2-61a9-481e-b5e0-d7045858a2be"
+        },
+        {
+          "name": "Twin Mouthed Spring",
+          "date": "2023-08-16",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/83438d07-8ec3-4eca-89ad-87f2cb7b38d3"
         },
         {
           "name": "Malevolent Grain",
@@ -29811,7 +29833,7 @@
         },
         {
           "name": "[Demo 2005]",
-          "date": "2005-05-26",
+          "date": "2005",
           "kind": "studio",
           "source_url": "https://musicbrainz.org/release-group/ff161092-48d9-3937-9c28-3c6c2cc01526"
         }
@@ -29820,7 +29842,7 @@
     "yes": {
       "name": "Yes",
       "musicbrainz_url": "https://musicbrainz.org/artist/c1d4f2ba-cf39-460c-9528-6b827d3417a1",
-      "reference_checked_at": "2026-10-20T00:38:44.456899+00:00",
+      "reference_checked_at": "2026-10-31T17:44:33.967969+00:00",
       "genres": "aor, art rock, classic rock, disco, electronic, garage rock, hard rock, pop rock, progressive, progressive pop, progressive rock, psychedelic rock, rock, symphonic prog, synth-pop",
       "website": "https://www.yesworld.com/",
       "members": [
@@ -30389,7 +30411,7 @@
         },
         {
           "name": "Songs From Tsongas: 35th Anniversary Concert",
-          "date": "2014-09-22",
+          "date": "2014-09-19",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/e202d61b-a62b-4bcf-a200-56e03be3b251"
         },
@@ -34731,7 +34753,7 @@
     "venom": "2026-10-31T06:25:05.626465+00:00",
     "w-a-s-p": "2026-10-31T12:55:56.783164+00:00",
     "whitesnake": "2026-10-31T12:56:00.993739+00:00",
-    "wolves-in-the-throne-room": "2026-10-20T00:38:40.094730+00:00",
-    "yes": "2026-10-20T00:38:44.457073+00:00"
+    "wolves-in-the-throne-room": "2026-10-31T17:44:28.770501+00:00",
+    "yes": "2026-10-31T17:44:33.968169+00:00"
   }
 }
