@@ -1242,49 +1242,17 @@
     "ee6765abd8c4c0d5a3231e9c44139755e5e61a81",
     "2fb194933bcbd2ce6da7fde1317c7153bd98ef54",
     "44c57de0d665c91af1e3c51ce953fc6fdbb0ef71",
-    "d69979056e72dcebd3992f7f1eeb1e9f828f7afd"
+    "d69979056e72dcebd3992f7f1eeb1e9f828f7afd",
+    "79dd266b9cea90c1f461617c725afedb64c2f8c8",
+    "0a852a155418964336d6b6985b24a96de9865a66",
+    "73721c050d1549ef215c0b55fd141de1fd559042",
+    "b8c9d789bd09266524169ef4973ba05e943bdb23",
+    "eb1809b128a7b8081a3511bc805e970dd498bc83",
+    "ad75ffb35dd1632a520039cd7c36350682999077",
+    "6d7b856d0bd5893921016b2f69b2d3d0021bb98b",
+    "18a08afb66c854b0f607f634cdee36a9109d8ed9"
   ],
   "recent_titles": [
-    {
-      "title": "Neil Young files $10m lawsuit against Donald Trump over use of Rockin' In The Free World at rally",
-      "source": "Louder",
-      "ts": 1793089263
-    },
-    {
-      "title": "Drummer Johanna Holt Kleive To Exit Witch Club Satan",
-      "source": "ThePRP",
-      "ts": 1793089276
-    },
-    {
-      "title": "Disturbed Announce “The Sickness” Australian, New Zealand And Asian Tours",
-      "source": "ThePRP",
-      "ts": 1793089282
-    },
-    {
-      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): SOMNENT — “HEIRLOOM”",
-      "source": "No Clean Singing",
-      "ts": 1793112375
-    },
-    {
-      "title": "Hollywood stars Jenna Ortega and Amy Adams debate the ethics of wearing band T-shirts",
-      "source": "Louder",
-      "ts": 1793112419
-    },
-    {
-      "title": "FINAL GASP Premiere Exclusive New Song, “Aftermath,” via the Decibel Flexi Series!",
-      "source": "Decibel",
-      "ts": 1793112424
-    },
-    {
-      "title": "Turnstile raise more than $200,000 for humanitarian causes following benefit concert at the Washington Monument",
-      "source": "Louder",
-      "ts": 1793112435
-    },
-    {
-      "title": "The dreamscapes and space trips behind the Flaming Lips’ American Head",
-      "source": "Louder",
-      "ts": 1793112493
-    },
     {
       "title": "Eddie Vedder and Stephen Wilson Jr. release stunning version of Temple Of The Dog's Hunger Strike",
       "source": "Louder",
@@ -2044,6 +2012,46 @@
       "title": "Repentance’s New Single “Among The Wolves” Debuts",
       "source": "ThePRP",
       "ts": 1793479300
+    },
+    {
+      "title": "Steve Hackett recalls messing with Genesis at their Rock Hall induction",
+      "source": "Louder",
+      "ts": 1793490485
+    },
+    {
+      "title": "Test your knowledge with this Slayer trivia quiz",
+      "source": "Louder",
+      "ts": 1793490489
+    },
+    {
+      "title": "Theftuous (Snot, Relative Ash, Etc.) Premiere “Ghost Town”",
+      "source": "ThePRP",
+      "ts": 1793490498
+    },
+    {
+      "title": "Новое видео SERPENT",
+      "source": "Darkside",
+      "ts": 1793490500
+    },
+    {
+      "title": "Night Ranger look back on 40 years of Floyd Rose flicking, big hits and avoiding retirement",
+      "source": "Louder",
+      "ts": 1793490562
+    },
+    {
+      "title": "In This Moment’s Live In-Studio Performance Of “I Want To Believe” At SiriusXM Arrives Online",
+      "source": "ThePRP",
+      "ts": 1793490566
+    },
+    {
+      "title": "My Chemical Romance Confirmed Their New Album Plans And Rolled Out Setlist Surprises With The Used Last Night",
+      "source": "ThePRP",
+      "ts": 1793490573
+    },
+    {
+      "title": "Новое видео CRITICAL FEAR",
+      "source": "Darkside",
+      "ts": 1793490575
     }
   ],
   "initialized_sources": [
@@ -5593,31 +5601,7 @@
       "category": "Хард-рок",
       "published": "2026-10-31T19:58:52+00:00",
       "id": "77530f8e113f3e24fbea53597f331d7bb84a4514",
-      "retry_after": 1793479593
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Theftuous (Snot, Relative Ash, Etc.) Premiere “Ghost Town”",
-      "link": "https://www.theprp.com/2026/10/31/news/theftuous-snot-relative-ash-etc-premiere-ghost-town/",
-      "rss_body": "Their first new track of the year.",
-      "tags": "News One Minute Silence Relative Ash Snot Theftuous",
-      "category": "Хэви-метал",
-      "published": "2026-10-31T18:37:46+00:00",
-      "id": "73721c050d1549ef215c0b55fd141de1fd559042",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео SERPENT",
-      "link": "http://www.darkside.ru/news/184897/",
-      "rss_body": "Season of the Witch, новое видео SERPENT, доступно для просмотра. Этот трек взят из нового альбома The Pit and the Pendulum, релиз которого намечен на тринадцатое ноября:\n\n1. Introitus ad Inferos\n\n2. Serpent Rising\n\n3. Necromancer\n\n4. The Pit and the Pendulum\n\n5. Der Hexenjäger\n\n6. Lightbringer\n\n7. Season of the Witch\n\n8. Salem 1692\n\n9. Magna Mortalitas",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-31T18:37:28+00:00",
-      "id": "b8c9d789bd09266524169ef4973ba05e943bdb23",
-      "retry_after": 0
+      "retry_after": 1793490794
     },
     {
       "source": "ThePRP",
@@ -5629,55 +5613,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-31T18:09:55+00:00",
       "id": "e40a08a638030069008ba635e772e2716efc03d4",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Night Ranger look back on 40 years of Floyd Rose flicking, big hits and avoiding retirement",
-      "link": "https://www.loudersound.com/bands-artists/night-ranger-look-back-on-40-years",
-      "rss_body": "In 1975, future\n\nNight Ranger\n\nfrontman/bassist Jack Blades quit his pre-med studies at San Diego State University and moved to San Francisco. The Bay Area’s vibrant club scene blew the then-20-year-old’s mind, and Blades was soon rubbing shoulders with the likes of Grace Slick,\n\nGrateful Dead\n\nand\n\nCarlos Santana\n\n. By 1977 he was in funk rockers Rubicon alongside former Sly & The Family Stone saxophonist Jerry Martini, who took Blades to Record Plant studio in Sausalito, where the controls were still hot from the recording of\n\nFleetwood Mac\n\n’s Rumours. Heady stuff, for sure. But did he ever meet Sly?\n\n“I did,” says Blades, still a ball of infectious energy at the age of 72. “In fact I auditioned for him at his house. But let’s not go there,” he adds, teasingly. “Otherwise I’ll take up this whole interview telling you about that insanity!”\n\nBlades is in Reno, Nevada, where Night Ranger are several dates into a US tour. They’re promoting\n\nBest Of\n\n, a new compilation that includes impressively retooled versions of such gargantuan 80s tunes as\n\nDon’t Tell Me You Love Me\n\nand\n\nSister Christian\n\nalongside deeper, more recent cuts. The band’s current line-up includes guitarist Kerri Kelli (Alice Cooper, Slash) and keyboard player Eric Levy, but\n\nClassic Rock\n\nis chatting to Blades and his fellow founding members Brad Gillis (guitar) and Kelly Keagy (drums, co-lead vocals).\n\nKeagy describes Night Ranger 2026 as “weekend warriors”. Their shows are more intermittent these days, less cumulatively exhausting. “At this stage it’s mostly about having fun and communicating that to the audience,” Blades enthuses. “Because there’s nothing worse than watching some asshole up there going through the motions, is there?”\n\nAs Gillis notes, it has also become increasingly important for him and the rest of the band to stay fit. “I just turned sixty-nine on Monday,” he says, “so I’m trying to keep my health at a hundred per cent so we can deliver a great show. I’ve already walked around Reno for an hour, swam and lifted some weights,” he adds, chatting just past breakfast time. This is why recent YouTube footage of Night Ranger’s May 2026 headline slot at the Frontiers Rock Festival in Lombardy, Italy, shows Gillis looking sculpted, not pensionable.\n\nBack in late-70s San Francisco, Gillis joined Rubicon the same day that Steve Perry joined\n\nJourney\n\n. Blades knows this because both bands were friends who used the same rehearsal rooms on Folsom Street. Gillis recalls being the last of “twenty-five to thirty” guitarists auditioning for Rubicon, a seven-piece with a Tower Of Power-like horn section and designs on being the next Sly & The Family Stone.\n\n“We wanted to bridge the gap between funk and rock’n’roll,” says the guitarist. “Straight away I was doing five sets a night, five nights a week. We recorded our debut album at American Recording Studios in Hollywood, which was pretty exciting for a nineteen-year-old.”\n\nThat album, 1978’s\n\nRubicon\n\n, yielded soft-rock minor hit\n\nI’m Gonna Take Care Of Everything\n\n, and prior to 1979 follow-up\n\nAmerican Dreams\n\nthe band played to 250,000 people at 1978’s Cal Jam II festival in Ontario, California. “Rubicon were supposed to open, but in the end they put us on late right after\n\nAerosmith\n\n,” recalls Gillis. “We saw a lot of people leaving, but it was still an incredible experience.”\n\nFuture Night Ranger member Kelly Keagy, meanwhile, joined Rubicon at the eleventh hour. “Greg Eckler had left and they wanted another singing drummer,” he says. “I was just this little local guy, but at the audition I played the funky shuffle to [Rubicon song]\n\nLove On The Run\n\nand sang it too, and they were like: “Holy shit! This guy fits right in!\n\n“I’d seen Ringo Starr sing\n\nBoys\n\nwith\n\nThe Beatles\n\nat the Hollywood Bowl. It blew me away, because up until then the concept of a singing drummer was unknown to me. Later on I was inspired by people like Pete Rivera, who was the drummer and singer in [Detroit rock/soul act]\n\nRare Earth\n\n.”\n\n(Image credit: Jim Shea/Michael Ochs Archives/Getty Image)\n\nKeagy toured with Rubicon, but soon the funk was parked, never to return. The band imploded through lack of gigs and, shrinking to a trio, Blades, Gillis and Keagy formed Stereo in 1980, embraced hard rock, then changed their name to Ranger after they’d been joined by former Montrose bassist-turned-keyboard player Alan Fitzgerald.\n\n“Fitz was producing a demo for Jeff Watson,” says Keagy, Watson being the estranged guitarist whom Night Ranger fired in 2007, and whose fretboard pyrotechnics were on a par with those of Gillis on Night Ranger’s first eight albums. “Fitz was like: ‘I know this other great guitar player kid. Maybe we could do a twin-lead thing, just explore it and see what happens?’”\n\nStill operating as Ranger, and now a supercharged quintet with the addition of Watson, they began work on 1982’s\n\nDawn Patrol\n\nat Allen Zentz Recording in Los Angeles with producer Pat Glasser. Slick, with big, radio-friendly choruses, synth pads and a side order of rampant shredding, their debut album had more Anglophile and Irish inspiration than was immediately apparent.\n\n“We were all big\n\nThin Lizzy\n\nfans,” explains Blades. “If you think about it, it’s the same – a singing bass player, and two guitarists doing harmonies, except we also had Fitz on keys. We could have gone in almost any direction, but we chose melodic hard rock. Brad could play funk or whip out a\n\nBlack Sabbath\n\nsolo; Kelly had played in a club band called Rags that played anything and everything.\n\n\"I could play slap bass like a motherfucker, but I’d grown up listening to\n\nDeep Purple\n\n,\n\nJudas Priest\n\nand\n\nLed Zeppelin\n\nand I’d soaked up that music like a sponge. We were also hip to that thing that [Motown records founder] Berry Gordy said about making sure your song started with a hook.\"\n\nFor wide-eyed 17-year-olds such as this writer, discovering Night Ranger via Tommy Vance’s famed UK radio slot\n\nThe Friday Rock Show\n\non Radio 1 was a buzz, Gillis and Watson’s dazzling lead guitar playing being a huge draw.\n\nDon’t Tell Me You Love Me\n\n’s guitar solos raised the bar, with Watson showcasing his eight-fingered hammer-on technique, and Gillis’s tremolo-arm mastery producing a distinctive, chirruping sound he still recalls stumbling across.\n\n“The third tremolo system that Floyd D Rose ever built in his garage in 1977 was on sale at Don Wehr’s Music City in San Francisco,” Gillis recalls. “I just had to have it. So I traded in my white 1975 Les Paul Custom. Later on I was throwing shapes in the mirror at home, trying to get my look together for the stage, when I banged my guitar and heard this fast, trilling sound that I realised you could recreate by flicking the end of the Floyd Rose. That’s the sound you hear at the end of my solo on\n\nDon’t Tell Me You Love Me\n\n.”\n\nTwo things slowed\n\nDawn Patrol\n\n’s passage to the album charts. After some 10,000 promo copies had been serviced to radio, it transpired that another band called Ranger already existed. So, keen to distance themselves from the Californian country-act namesake, Ranger became Night Ranger, as per the title of\n\nDawn Patrol\n\n’s closing track. Unfortunately, the name change necessitated recalling existing copies of the record and a redesign of the band’s logo and album artwork, all of which took time.\n\nMuch more far-reaching was the death of\n\nRandy Rhoads\n\n, whose tragic death on March 19, 1982 while touring in\n\nOzzy Osbourne\n\n’s band led to Gillis joining Ozzy’s ongoing US tour briefly as Rhoads’s stand-in. In limbo because of the delay to\n\nDawn Patrol\n\n’s release, Gillis took over in Ozzy’s band from Gillan guitarist Berne Tormé, whose playing style had been adjudged to not suit the Blizzard Of Ozz and Black Sabbath material, valiant though his brief time at Ozzy’s side was.\n\nBrad Gillis with Ozzy Osbourne on the Diary Of A Madman tour, having stepped in after the death of Randy Rhoads\n\n(Image credit: Scott Weiner/Mediapunch/Alamy)\n\nGillis joined Ozzy’s band in New York on April 5, 1982, in at the deep end and then some.\n\n“I sat in my room all day with a cassette player and a little practice amp, desperately trying to learn the stuff,” he remembers. “But I’d only played seven of the eighteen songs in the set with the band before the first sold-out show to six thousand people in Binghamton. I was a scared little boy, I can tell you.”\n\nInevitably, the wheels came off, Gillis losing his place in some of the arrangements. “On the second night, Sharon [Osbourne] said: ‘Bradley, you’re doing great, but tonight don’t fuck up,’” he recalls. Gillis quickly found his feet with Ozzy, but he knew it was time to return to Night Ranger. There was huge potential there; a future playing his own music.\n\nMeanwhile, the Ozzy gig was on his CV, kudos gained, and the experience continued to resonate.\n\nThat November, when\n\nDawn Patrol\n\nfinally gained release, it was in the same week as\n\nSpeak Of The Devil\n\n, an Ozzy live album comprised of only the Sabbath, not Blizzard Of Ozz, material Gillis had played alongside bassist Rudy Sarzo and drummer Tommy Aldridge. “So suddenly I was on two LP’s that made the Billboard chart”.\n\nNight Ranger toured\n\nDawn Patrol\n\nhard. Two hundred-plus shows a year. Support slots with\n\nSammy Hagar\n\nand\n\nKiss\n\n.\n\nRolling Stone\n\npanned their “sub-Broadway” ballads, but kids raised on\n\nBoston\n\nand\n\nVan Halen\n\nloved them, as did music television. The band’s railway-track set promo video for\n\nDon’t Tell Me You Love Me\n\nwas shown on MTV “literally twenty times a day”, by Gillis’s estimation. “They had space to fill twenty-four-seven, and they didn’t have enough videos to do that, so it worked out well for us.”\n\nSing Me Away\n\n, the band’s second single, sung by Kelly Keagy, a man with the perfect voice for drive-time radio, somehow made less of a splash. The album was selling well, though, so there was nothing to fret about. Or was there?\n\n“We barely had a moment to think,” recalls Blades. “Everything’s going great, and then suddenly we learn our record company Boardwalk has gone bankrupt. We’re calling them, but nobody seems to be home. So management immediately pulls us off the road and puts us into the studio to record the second album. We didn’t call it\n\nMidnight Madness\n\nfor nothing.”\n\nBack at Image Recordings in Hollywood, previously known as Allen Zentz Recording, Night Ranger were by now party-hearty celebs at famed Sunset Boulevard haunts the Rainbow and the Whisky a Go Go.\n\n“There was crazy, out-of-control drinking back at the studio, too,” says Blades. “Wild parties with our buddies\n\nMötley Crüe\n\nand all the other friends we could find.\n\nGlenn Hughes\n\nwas staying at the Oakland Apartments [near Universal Studios in Hollywood] and so were we. Glenn was bit down in the dumps after making that incredible Hughes/Thrall LP that didn’t do much, so we got him to sing backing vocals on\n\nYou Can Still Rock In America\n\n. That’s him doing all that really high, Deep Purple\n\nBurn\n\n-type stuff on the choruses.”\n\nBack in the ascendant, Night Ranger were soon signed to MCA. Their next single,\n\nSister Christian\n\n, a classic power-ballad written and sung by Kelly Keagy, reached No.5 in the US. Amid all the success, excess and excitement, it was easy to forget that the musical climate was changing. Or so the mainstream music press claimed.\n\n“Suddenly all the features were about new wave bands like A Flock Of Seagulls or Haircut One Hundred,” says Blades. “All the headlines were like ‘Rock Is Dead’. I thought: ‘What the fuck! Rock is very much alive and fucking kicking for the tens of thousands of people we’re playing to every night!’ I wrote\n\nYou Can Still Rock In America\n\nin a hotel room in Springfield, Illinois in response to that bullshit.”\n\nSeven Wishes\n\n(1985) packed another huge power ballad, in the shape of Blades’s Journey-like\n\nSentimental Street\n\n, which reached No.8 in the US. By 1987’s\n\nBig Life\n\n, though, pickings were slimmer. Then in 1989 Blades quit. “Too much craziness, drugs and alcohol,” he says. “Everybody was pulling in different directions.”\n\nPrior to forming Damn Yankees with Tommy Shaw of\n\nStyx\n\nand Ted Nugent, Blades called his old buddy Vince Neil, told him he’d quit Night Ranger, and flew to Vancouver to hang with a newly sober Mötley Crüe while they made\n\nDr. Feelgood\n\n. “Vince was great,” says Blades.\n\n“We sat up till two a.m. every night, just talking everything through.\n\nAerosmith\n\nwere recording\n\nPump\n\nnext door, and one night me, Steven Tyler and\n\nBryan Adams\n\ngot around the same mic to sing backing vocals on Same Ol’ Situation (S.O.S). You couldn’t make it up.”\n\nBlades credits his Vancouver escape with Mötley Crüe and subsequent major successes with Damn Yankees albums\n\nDamn Yankees\n\n(1990) and\n\nDon’t Tread\n\n(1992) as the period that enabled him to “get real. That was when I started to write about what was in my heart and soul,” he adds, noting that when he got back with Night Ranger from 1997’s\n\nNeverland\n\nonwards he was “writing from a different place”.\n\nAll through\n\nClassic Rock\n\n’s separate interviews with Blades, Gillis and Keagy, there’s an elephant in the room: why, exactly, was aforementioned guitarist and co-founding member Jeff Watson sacked by his bandmates after 2007’s\n\nHole In The Sun\n\n? Whatever went down, it was messy and doesn’t seem to be a matter of public record.\n\n“It was almost biblical how it affected me,” Watson told website Ultimate Classic Rock in a rare interview in 2015, alluding to his firing and the subsequent legal battle. “I really don’t want to jump into the details.”\n\nWhen the question is asked, it lands bumpily. “We’re not going there,” Gillis says flatly, drawing a veil. “Please don’t ask about that.\"\n\nNight Ranger at the Embassy Ballroom in Chicago, 1984: (l-r) Jeff Watson, Brad Gillis, Jack Blades.\n\n(Image credit: Paul Natkin/Getty Images)\n\nSo instead we talk about pastures new. Gillis says he’s working on an as-yet-untitled solo record which includes covers of\n\nThe Cure\n\n’s\n\nAlone\n\nand\n\nNine Inch Nails\n\n’\n\nHurt\n\n. “I’m singing about half of it,” he explains. “The other half has vocals from Gary Moon, who joined Night Ranger in the early nineties when Jack went off to do Damn Yankees.”\n\nBlades, too, has extracurricular activities planned, including an October tour of Japan with Japanese guitarist Tak Matsumoto, whose Tak Matsumoto Group also features Eric Martin of Mr. Big on vocals and former\n\nGuns N’ Roses\n\ndrummer Matt Sorum.\n\nNight Ranger, meanwhile, play a huge show in Fukuoka, Japan in August with old pals Journey. Blades says they’d love to play in the UK again too, should there be enough interest.\n\n“I’m a big Anglophile, and I always felt envious of bands like\n\nBon Jovi\n\n, because their manager had them over there with you all the time.” What chance, though, of a follow-up to 2021’s\n\nATBPO\n\n(\n\nAnd The Band Played On\n\n)? If the Stones can muster a new studio album at this late stage in the game, surely Night Ranger can?\n\n“Brad and I were actually discussing that very thing over lunch yesterday,” says Blades, “so watch this space.\n\nATBPO\n\nwas great, but it was done remotely because of the pandemic. We’d love to do another LP face to face and shoulder to shoulder.”\n\nNight Ranger’s album Best Of is out now via Frontiers Music Srl\n\n.",
-      "tags": "Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-10-31T18:05:00+00:00",
-      "id": "eb1809b128a7b8081a3511bc805e970dd498bc83",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "In This Moment’s Live In-Studio Performance Of “I Want To Believe” At SiriusXM Arrives Online",
-      "link": "https://www.theprp.com/2026/10/31/news/in-this-moments-live-in-studio-performance-of-i-want-to-believe-at-siriusxm-arrives-online/",
-      "rss_body": "Must be the season of the witch.",
-      "tags": "News In This Moment",
-      "category": "Хэви-метал",
-      "published": "2026-10-31T17:58:03+00:00",
-      "id": "ad75ffb35dd1632a520039cd7c36350682999077",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "My Chemical Romance Confirmed Their New Album Plans And Rolled Out Setlist Surprises With The Used Last Night",
-      "link": "https://www.theprp.com/2026/10/31/news/my-chemical-romance-confirmed-their-new-album-plans-and-rolled-out-setlist-surprises-with-the-used-last-night/",
-      "rss_body": "A live debut and a pair of collaborative live performances for the first time since 2005.",
-      "tags": "News Bert McCracken Gerard Way My Chemical Romance The Used",
-      "category": "Хэви-метал",
-      "published": "2026-10-31T17:47:15+00:00",
-      "id": "6d7b856d0bd5893921016b2f69b2d3d0021bb98b",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео CRITICAL FEAR",
-      "link": "http://www.darkside.ru/news/184898/",
-      "rss_body": "Return To The Time Of The Sword, новое видео CRITICAL FEAR, доступно для просмотра. Этот трек взят из нового альбома Dark Fate, релиз которого намечен на одиннадцатое декабря:\n\n1. Age of Darkness\n\n2. Return to Time of the Sword\n\n3. Dark Fate\n\n4. True Force of Hate\n\n5. Legions\n\n6. Wings of Torment\n\n7. Poserphobia\n\n8. Echoes of the Past\n\n9. Throw Fire",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-31T17:31:22+00:00",
-      "id": "18a08afb66c854b0f607f634cdee36a9109d8ed9",
-      "retry_after": 0
+      "retry_after": 1793490805
     },
     {
       "source": "Darkside",
