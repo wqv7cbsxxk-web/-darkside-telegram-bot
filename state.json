@@ -1215,49 +1215,19 @@
     "f8fdd2b773c65df9b450b87cee2b805cf7721e37",
     "1bb3fcb58ad30e0195b3a1e46e55a0f698edbd93",
     "3ea5025cdf5f21e8b8774e7a87fbc60715a7e022",
-    "a4e534d9a39bcf477e11a8c4692917b8280e48d1"
+    "a4e534d9a39bcf477e11a8c4692917b8280e48d1",
+    "135d6c429ee282b3e1c276bff7af463d479af150",
+    "a2197b15b0945d2e5ed9a5115dfbf392885d36f2",
+    "843e46342a53b2d5c71b9f1ad01d02a57de18e95",
+    "9d861a6671010f9f472d8ba3a67a98c187a3c3cc",
+    "717721f9be354de411dc45a11b275a555e64a8b8",
+    "3476adf3ef5d83e21684b2109860c117b6cca521",
+    "b5a284f285d1d93b113095b936578d728241d4ea",
+    "f8654a087f9e9e1d334bd2ec7c25d6d674a8d891",
+    "e4ba7e2d91709b081675e310c39a8b5df3d5566d",
+    "40597e89e7eb779ac60a99a3a61ac9d88dd8d5f7"
   ],
   "recent_titles": [
-    {
-      "title": "Jack Osbourne Accepts Blame for Ozzy Avatar Backlash",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793024260
-    },
-    {
-      "title": "Phoebe Bridgers announced as first headline artist for All Points East festival 2027",
-      "source": "Louder",
-      "ts": 1793024266
-    },
-    {
-      "title": "Steven Wilson announces Requiem For A Village event with Al Murray and shares new video for A Basket Of Bees",
-      "source": "Louder",
-      "ts": 1793024275
-    },
-    {
-      "title": "Yes and Rick Wakeman Set for Back to Back 2027 Tours",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793024292
-    },
-    {
-      "title": "2027's Biggest Music Festivals and Cruises",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793024300
-    },
-    {
-      "title": "Greysight Premiere “DON’T LOOK AT ME” Video",
-      "source": "ThePRP",
-      "ts": 1793044911
-    },
-    {
-      "title": "Work Is Underway On Storm Corrosion’s (Opeth, Porcupine Tree) Sophomore Album",
-      "source": "ThePRP",
-      "ts": 1793044921
-    },
-    {
-      "title": "Kublai Khan TX, Sleep Theory, Etc. Added To 2027 ‘Welcome To Rockville’ As Full Lineup Reveal Date Announced",
-      "source": "ThePRP",
-      "ts": 1793044925
-    },
     {
       "title": "Tool’s Danny Carey & The Cult’s John Tempesta Jammed With A Drumline At Last Night’s Seakhawks Vs. Chiefs Game",
       "source": "ThePRP",
@@ -2017,6 +1987,46 @@
       "title": "Новое видео STITCHED UP HEART",
       "source": "Darkside",
       "ts": 1793427884
+    },
+    {
+      "title": "Новая песня HAWTHORNE HEIGHTS",
+      "source": "Darkside",
+      "ts": 1793451250
+    },
+    {
+      "title": "Новое видео CURRENTS",
+      "source": "Darkside",
+      "ts": 1793451252
+    },
+    {
+      "title": "Новое видео A KILLER'S CONFESSION",
+      "source": "Darkside",
+      "ts": 1793451253
+    },
+    {
+      "title": "Новый альбом XENTRIX доступен для прослушивания",
+      "source": "Darkside",
+      "ts": 1793451255
+    },
+    {
+      "title": "Новое видео METAL CHURCH",
+      "source": "Darkside",
+      "ts": 1793451256
+    },
+    {
+      "title": "How an actor's Boris Karloff impression turned into the biggest Halloween hit of all time",
+      "source": "Louder",
+      "ts": 1793451292
+    },
+    {
+      "title": "Новое видео ROB ZOMBIE",
+      "source": "Darkside",
+      "ts": 1793451294
+    },
+    {
+      "title": "The Pretty Reckless, Chelsea Wolfe, Green Lung and more made us a Halloween playlist",
+      "source": "Louder",
+      "ts": 1793451333
     }
   ],
   "initialized_sources": [
@@ -4893,7 +4903,7 @@
       "title": "Listen: 200 Stab Wounds Debuts Grimey New Single, “Sweet Suicide”",
       "link": "https://metalinjection.net/new-music/listen-200-stab-wounds-debuts-grimey-new-single-sweet-suicide",
       "rss_body": "Their third LP, 'Lowest Form,' comes out February 29 on Metal Blade Records.",
-      "tags": "New Music 200 stab wounds",
+      "tags": "New Music featured 200 Stab Wounds",
       "category": "Хэви-метал",
       "published": "2026-10-29T17:31:23+00:00",
       "id": "62c84ec1794aee4ac0cb20b682700f235187199c",
@@ -5298,18 +5308,6 @@
     {
       "source": "Metal Injection",
       "priority": 92,
-      "title": "Happy Halloween: Watch Rob Zombie's New Video For \"Sir Lord Acid Wolfman\"",
-      "link": "https://metalinjection.net/news/happy-halloween-watch-rob-zombies-new-video-for-sir-acid-wolfman",
-      "rss_body": "Right in time for the Halloween weekend.",
-      "tags": "Latest News Rob Zombie featured",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T14:46:26+00:00",
-      "id": "e4ba7e2d91709b081675e310c39a8b5df3d5566d",
-      "retry_after": 1793377338
-    },
-    {
-      "source": "Metal Injection",
-      "priority": 92,
       "title": "Watch: Enslaved Release Visualizer For 'Mið' Standout Song \"I Am Ice\" Featuring Johan Sara Jr.",
       "link": "https://metalinjection.net/new-music/watch-enslaved-release-visualizer-for-mid-standout-song-i-am-ice-featuring-johan-sara-jr",
       "rss_body": "An icy cold track to start off your Halloween weekend right.",
@@ -5366,18 +5364,6 @@
       "published": "2026-10-30T20:00:00+00:00",
       "id": "6eccad5f48d74e06d55e8d37a3c52747f5445033",
       "retry_after": 1793428171
-    },
-    {
-      "source": "Metal Injection",
-      "priority": 92,
-      "title": "Currents Drop \"Retributioner,\" Announce New Record 'Our Fates Lie In Tandem'",
-      "link": "https://metalinjection.net/new-music/currents-drop-retributioner-announce-new-record-our-fates-lie-in-tandem",
-      "rss_body": "'Our Fates Lie in Tandem' comes out February 12 on Rise Records.",
-      "tags": "New Music Currents",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T18:41:31+00:00",
-      "id": "843e46342a53b2d5c71b9f1ad01d02a57de18e95",
-      "retry_after": 1793428184
     },
     {
       "source": "ThePRP",
@@ -5579,6 +5565,18 @@
       "published": "2026-10-31T01:00:00+00:00",
       "id": "fe070e3439762e5c1b87a50b90f5892d832aa078",
       "retry_after": 1793428158
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week",
+      "link": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week",
+      "rss_body": "As well as picks from Native James, Enslaved, Gaera, and more.",
+      "tags": "Top Tracks Of The Week Darkest Hour Enslaved Fit For A King Eidola Currents 200 Stab Wounds Native James rev3rent Genital Shame Gaera",
+      "category": "Хэви-метал",
+      "published": "2026-10-30T16:15:42+00:00",
+      "id": "c877c429cfbfb1b21f5e2c77b5459a023ad6f037",
+      "retry_after": 0
     }
   ]
 }
