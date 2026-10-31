@@ -1205,49 +1205,19 @@
     "018baef65a4f9c1ecdfa15ad212de8e8f187180c",
     "7448961896d449b2f9f551f34bd91da738a13b8f",
     "616651fed86d5647cf9abaae33ef28a2bcf0453d",
-    "26f5a3e5383129b406b05a543d39532862034286"
+    "26f5a3e5383129b406b05a543d39532862034286",
+    "81090fe21ce7330a74d74560603b5d4321a0474a",
+    "ad96b9da2bf99708d2c4ffe42f4ce71b2fc83276",
+    "695be059eba9624a56e8911d1211771d16e470de",
+    "4c0ed3528f18cf5367418f0334fac3aceb08af4c",
+    "69edc6c784b26e07b9b48ffa27fc3f109129c4da",
+    "071ceb780c473183cdf4557e2ac972e109a6c8b5",
+    "f8fdd2b773c65df9b450b87cee2b805cf7721e37",
+    "1bb3fcb58ad30e0195b3a1e46e55a0f698edbd93",
+    "3ea5025cdf5f21e8b8774e7a87fbc60715a7e022",
+    "a4e534d9a39bcf477e11a8c4692917b8280e48d1"
   ],
   "recent_titles": [
-    {
-      "title": "SHADES OF BLACK: GLORIOR BELLI",
-      "source": "No Clean Singing",
-      "ts": 1792954757
-    },
-    {
-      "title": "U2 reveal the unbroken promise that they made to one another as schoolboys in Ireland 50 years ago",
-      "source": "Louder",
-      "ts": 1792954768
-    },
-    {
-      "title": "How Cancer Bats are surviving the music industry on their own terms",
-      "source": "Louder",
-      "ts": 1792971363
-    },
-    {
-      "title": "Toyah Willcox and Robert Fripp launch their most terrifying Sunday Lunch video yet",
-      "source": "Louder",
-      "ts": 1792979110
-    },
-    {
-      "title": "Classic Rock Tracks Of The Week: October 26, 2026",
-      "source": "Louder",
-      "ts": 1792998574
-    },
-    {
-      "title": "Video Premiere: Gates of Ishtar – “Ghosts”",
-      "source": "Decibel",
-      "ts": 1793024217
-    },
-    {
-      "title": "TORN WIDE OPEN: NEUROSIS RETURNS TO THE BAY AREA",
-      "source": "No Clean Singing",
-      "ts": 1793024238
-    },
-    {
-      "title": "“My hope is that we start thinking of ourselves as global citizens.\" Peter Gabriel shares latest single, Who Are We Talking To?",
-      "source": "Louder",
-      "ts": 1793024251
-    },
     {
       "title": "Jack Osbourne Accepts Blame for Ozzy Avatar Backlash",
       "source": "Ultimate Classic Rock",
@@ -2007,6 +1977,46 @@
       "title": "TEETH Seek Fans For Their Upcoming Music Video Shoot In Hamilton, ON",
       "source": "ThePRP",
       "ts": 1793407360
+    },
+    {
+      "title": "Steven Wilson is working on a new Storm Corrosion album",
+      "source": "Louder",
+      "ts": 1793427697
+    },
+    {
+      "title": "Hollow Front’s New Track “Death To My Name” Debuts Online",
+      "source": "ThePRP",
+      "ts": 1793427861
+    },
+    {
+      "title": "Новое видео JADED HEART",
+      "source": "Darkside",
+      "ts": 1793427863
+    },
+    {
+      "title": "Новая песня SOIL",
+      "source": "Darkside",
+      "ts": 1793427872
+    },
+    {
+      "title": "Новое видео ENEMY INSIDE",
+      "source": "Darkside",
+      "ts": 1793427873
+    },
+    {
+      "title": "Russian Circles’ New In-Studio Session For KEXP Released",
+      "source": "ThePRP",
+      "ts": 1793427877
+    },
+    {
+      "title": "Native James’ “DUMB BRUDDAH” Music Video Sports A Nod To Korn’s “Freak On A Leash”",
+      "source": "ThePRP",
+      "ts": 1793427883
+    },
+    {
+      "title": "Новое видео STITCHED UP HEART",
+      "source": "Darkside",
+      "ts": 1793427884
     }
   ],
   "initialized_sources": [
@@ -5355,43 +5365,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T20:00:00+00:00",
       "id": "6eccad5f48d74e06d55e8d37a3c52747f5445033",
-      "retry_after": 1793394084
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео ENEMY INSIDE",
-      "link": "http://www.darkside.ru/news/184905/",
-      "rss_body": "Rag Doll feat. As Everything Unfolds & Lake Malice, новое видео группы ENEMY INSIDE, доступно для просмотра. Это трек взят из нового альбома \"R.I.P.\", релиз которого намечен на 15 января:\n\n1. Welcome To The Anarchy\n\n2. Bad Karma\n\n3. Monster\n\n4. R.I.P.\n\n5. Changes\n\n6. Dopamine\n\n7. Rag Doll (feat. As Everything Unfolds & Lake Malice)\n\n8. Claws\n\n9. Devil's Work\n\n10. Plastic Heart\n\n11. Into The Dark",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T19:06:05+00:00",
-      "id": "f8fdd2b773c65df9b450b87cee2b805cf7721e37",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Russian Circles’ New In-Studio Session For KEXP Released",
-      "link": "https://www.theprp.com/2026/10/30/news/russian-circles-new-in-studio-session-for-kexp-released/",
-      "rss_body": "You can watch them perform a four-song set that was filmed this past August.",
-      "tags": "News Russian Circles",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T18:51:53+00:00",
-      "id": "1bb3fcb58ad30e0195b3a1e46e55a0f698edbd93",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Native James’ “DUMB BRUDDAH” Music Video Sports A Nod To Korn’s “Freak On A Leash”",
-      "link": "https://www.theprp.com/2026/10/30/news/native-james-dumb-bruddah-music-video-sports-a-nod-to-korns-freak-on-a-leash/",
-      "rss_body": "The British rap metaller's latest single is full of nü-metal hallmarks.",
-      "tags": "News Native James",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T18:43:01+00:00",
-      "id": "3ea5025cdf5f21e8b8774e7a87fbc60715a7e022",
-      "retry_after": 0
+      "retry_after": 1793428171
     },
     {
       "source": "Metal Injection",
@@ -5403,19 +5377,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T18:41:31+00:00",
       "id": "843e46342a53b2d5c71b9f1ad01d02a57de18e95",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео STITCHED UP HEART",
-      "link": "http://www.darkside.ru/news/184899/",
-      "rss_body": "CANNIBAL (feat. Butcher Babies) [Official 3D Music Video], новое видео STITCHED UP HEART, доступно для просмотра ниже. Этот трек взят из нового альбома \"Medusa\", релиз которого состоялся 12 июня на Judge & Jury Records:\n\n01. Love & Death\n\n02. Sick Sick Sick\n\n03. Glitch Bitch\n\n04. Cannibal\n\n05. Meet Me After Life\n\n06. Medusa\n\n07. Beast\n\n08. Dead To Me\n\n09. Devilicious\n\n10. Ex-Termination",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T18:31:48+00:00",
-      "id": "a4e534d9a39bcf477e11a8c4692917b8280e48d1",
-      "retry_after": 0
+      "retry_after": 1793428184
     },
     {
       "source": "ThePRP",
@@ -5607,55 +5569,16 @@
       "retry_after": 0
     },
     {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео SLEEP THEORY",
-      "link": "http://www.darkside.ru/news/184871/",
-      "rss_body": "\"Giving In\", новое видео SLEEP THEORY, доступно для просмотра. Режиссером клипа выступил Шах Рух (Shah Rukh). В настоящий момент коллектив активно работает над новым альбомом.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T21:02:32+00:00",
-      "id": "ad96b9da2bf99708d2c4ffe42f4ce71b2fc83276",
-      "duplicate_ids": [
-        "695be059eba9624a56e8911d1211771d16e470de"
-      ],
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Hollow Front’s New Track “Death To My Name” Debuts Online",
-      "link": "https://www.theprp.com/2026/10/30/news/hollow-fronts-new-track-death-to-my-name-debuts-online/",
-      "rss_body": "The third single from \"No Love Without Despair\".",
-      "tags": "News Hollow Front",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T21:02:19+00:00",
-      "id": "4c0ed3528f18cf5367418f0334fac3aceb08af4c",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео JADED HEART",
-      "link": "http://www.darkside.ru/news/184877/",
-      "rss_body": "\"We Come Alive\", новое видео с текстом от JADED HEART, доступно для просмотра. Этот трек взят из нового альбома Toxic, релиз которого намечен на 15 января:\n\n1. We Come Alive\n\n2. One By One\n\n3. Helldriver\n\n4. Toxic\n\n5. Black Angel\n\n6. Dogs Of War\n\n7. Shadows Awaken\n\n8. Remembering (Acoustic)\n\n9. Face The Day\n\n10. Broken Glass Sunrise\n\n#Jaded_Heart #JadedHeart #HardRock #Hard_Rock #Hard 'n' Heavy #_Hard 'n' Heavy #RockHard 'n' Heavy #Rock_Hard 'n' Heavy",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T20:24:57+00:00",
-      "id": "69edc6c784b26e07b9b48ffa27fc3f109129c4da",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новая песня SOIL",
-      "link": "http://www.darkside.ru/news/184902/",
-      "rss_body": "\"Enemy X\", новая песня группы SOIL, доступна для прослушивания ниже. Этот трек выпущен по случаю заключения контракта с Better Noise Music\n\nTim King: «Группа SOIL безмерно рада подписанию контракта с Better Noise Music. Что тут сказать — они ЛУЧШИЕ в своём деле, как в музыкальном бизнесе, так и за его пределами. Работа с Allen Kovac и его первоклассной командой профессионалов — это сбывшаяся мечта. Мы с нетерпением ждём возможности вместе с ними представить миру новый материал SOIL».\n\nЗа почти три десятилетия SOIL выпустили семь полноформатных студийных альбомов, при этом постоянно гастролируя по международному хард-рок-туру и продав более двух миллионов альбомов по всему миру.\n\n«SOIL — настоящие легенды рок-жанра с впечатляющим каталогом и ещё более впечатляющей коллекцией нового материала. Для нас большая честь приветствовать их в составе Better Noise», — заявляет Lexie Viklund, директор по A&R в Better Noise.\n\n«“Enemy X” — это песня, которая отражает всё, что происходит в современном мире», — объясняет King. «Смута, конфликты, взаимные обвинения, негатив. Столько людей сосредоточены на драме и негативных сторонах жизни, что теряют из виду важные вещи. Это приводит к гневу, растерянности и, в конечном итоге, к ненависти. В конце концов, как говорится в тексте «Enemy X»: «Ты хоть знаешь, с кем ты здесь сражаешься? Ты хоть знаешь, на чьей ты стороне?» Мы хотим, чтобы люди задумались о себе — миру это сейчас очень нужно».",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T19:42:25+00:00",
-      "id": "071ceb780c473183cdf4557e2ac972e109a6c8b5",
-      "retry_after": 0
+      "source": "Louder",
+      "priority": 84,
+      "title": "Queen were nearly derailed by a serious illness. It turned out to be the making of one of the greatest albums",
+      "link": "https://www.loudersound.com/music/albums/queen-sheer-heart-attack-story-behind-the-album",
+      "rss_body": "“Darling, he’s far too busy in the studio. That’s what happens when you get sick in\n\nQueen\n\n– you have to make the time up.”\n\nIn the South London offices of his band’s PR company, a characteristically flamboyant\n\nFreddie Mercury\n\nis entertaining the press. It’s the autumn of 1974, and Queen have almost completed their third album,\n\nSheer Heart Attack\n\n. Almost. For Mercury’s bandmate\n\nBrian May\n\nthere’s still work to do. It’s just a few months since the guitarist was felled by a virulent bout of hepatitis mid-way through their debut US tour, and subsequently hospitalised for a second time with a stomach ulcer, forcing him to miss initial sessions for the album. May is currently holed up in the studio, finishing off his guitar parts, hence his absence today.\n\nIt’s typical of Queen’s ferocious drive that they haven’t let a pair of potentially fatal medical conditions get in the way of the job in hand. Their first two albums – 1973’s\n\nQueen\n\nand follow-up\n\nQueen II\n\n, released earlier in 1974 – set them up as a unique proposition: one part Zeppelin-esque rockers, one part glam dandies, one part fantastical Aubrey Beardsley illustration made flesh. Their music, along with their billowing silk blouses and Mercury’s outrageous, 1,000-watt personality, has earned them as much scorn as admiration. Both responses have only fuelled their ambitions.\n\nBut now those ambitions are coming into sharp focus. Like its predecessors,\n\nSheer Heart Attack\n\nis the product of an intense work ethic that stems from a desire to be bigger, bolder and better than everyone else. It’s a watershed for the band: this album will lay the groundwork for future success.\n\nQueen in 1974: (from left) Brian May, Roger Taylor, John Deacon, Freddie Mercury\n\n(Image credit: Chris Walter/WireImage)\n\nThere are solid economic factors, too. The album needs to be a success to boost their ever-decreasing finances. Their management, Trident Productions, have put them on a wage that barely pays the bills, while seeking a return on their hefty investments in recording and studio costs. Combined with May’s illness, it’s fair to say, there’s a lot riding on it.\n\n“The whole group aimed for the top slot,” says Mercury. “We’re not going to be content with anything less. That’s what we’re striving for. It’s got to be there. I definitely know we’ve got it in the music, we’re original enough… and, now we’re proving it.”\n\n“I first met Queen in November 1973, when\n\nMott The Hoople\n\nwere rehearsing for their tour,” recalls\n\nPeter Hince\n\n, then a 19-year-old Mott roadie (and later one of the key members of Queen’s crew). “We were in Manticore Studios in Fulham, a converted cinema. It was freezing cold, everyone in scarves and coats. Then Queen came in in their dresses, their silks and satin. Even then, Fred was doing the whole thing, running up and down and doing his poses. My first thought was basically, ‘What a prat.’”\n\nIt wasn’t an uncommon reaction. Formed from the ashes of May and drummer\n\nRoger Taylor\n\n’s old band Smile in late 1970, Queen initially struggled to make a name for themselves. When eventually they did, they found themselves polarising opinion. While they had their admirers, they had also inadvertently become whipping boys for some sections of the British music press.\n\nQueen on Dutch TV in 1974\n\n(Image credit: Gijsbert Hanekroot/Getty Images )\n\n“We were just totally ignored for so long, and then completely slagged off by everyone,” Brian May acknowledged. “In a way, that was a very good start for us. There’s no kind of abuse that wasn’t thrown at us. It was only around the time of\n\nSheer\n\nHeart Attack\n\nthat it began to change. But we still got slagged off a fair bit even then.”\n\nThe opprobrium heaped on them may have hurt them individually, but it only strengthened their collective resolve. Where their first album owed a debt to\n\nLed Zeppelin\n\n, the follow-up raised the bar immeasurably. Divided between ‘Side White’ and ‘Side Black’ to reflect what Mercury called “the battle between good and evil”, it brought both operatic bombast and ballet-pumped daintiness to their heavy rock thunder – often in the same song.\n\n“They planned everything in their heads,” says Gary Langan, then an assistant engineer at Sarm Studios in East London, who worked on two\n\nSheer\n\nHeart Attack\n\ntracks. “Nothing was left to chance. That’s what separated them from other bands. You had to earn Freddie’s respect to get close to him. He used to scare the pants off me. The aura around that guy was astonishing.”\n\nMercury was born Farrokh Bulsara, to Indian Parsi parents, on the island of Zanzibar, just off the eastern coast of mainland Africa. His formative years were spent at boarding school near Bombay, where he learned to play music and formed his first band, the Hectics. In 1964, when he was 17, civil war broke out in Zanzibar and the Bulsara family fled the island to settle in the altogether less dangerous environs of Feltham, Middlesex.\n\nFreddie Mercury in 1974\n\n(Image credit: Michael Putland/Getty Images))\n\nIt was here, in the chrysalis of suburbia, that Farrokh Bulsara would ultimately transform himself into Freddie Mercury. The latter was an entirely self-created character, as camp and outrageous in public as he was shy and driven in private. By the time of\n\nQueen II\n\n, Farrokh Bulsara was a ghost known only to his family and closest friends; to everyone else he was Freddie Mercury.\n\nNot that the rest of the band were content to exist in Mercury’s shadow. Three very distinct personalities, they each brought a different aspect to the band: May the studios intellectual, Taylor the louche rock’n’roller, Deacon the quiet man whose musical contribution would often be overlooked. It was a frequently combustible combination, albeit one with a shared vision.\n\n“Do we row?” said Mercury in ’74. “Oh, my dear, we’re the bitchiest band on earth. We’re at each other’s throats. But if we didn’t disagree we’d just be ‘yes men’. And we do get the cream in the end.”\n\nFittingly, it would be Mott The Hoople who taught Queen how to be a rock’n’roll band. In October 1973, the foursome embarked on a 24-date UK tour with Ian Hunter’s survivors. Queen had released their debut album the previous July; the follow-up was already recorded, although it wouldn’t be released for another four months (a source of growing tension between band and management).\n\nThe two bands couldn’t have been more different. Mott were veterans of the rock’n’roll wars: they’d had their ups and downs, and had even split up before\n\nDavid Bowie\n\nthrew them a lifeline in the shape of\n\nAll The Young Dudes\n\n. They’d been there, done that, and rolled their eyes in wry resignation at the thought of it all. By contrast, Queen were young, hungry and at least striving for something approaching glamour. The rocks thrown their way hadn’t dented their drive for success in the slightest.\n\nIt quickly became apparent that Queen weren’t the usual makeweight support band. “They were quite pushy from day one,” says Peter Hince. “They demanded more space on stage, they were quite arrogant. They’d got this very clear idea of what they were going to do: ‘We’re gonna go for it.’ But you could see that they were already very good.”\n\nFor Queen, the tour was an invaluable lesson. They studiously watched the headliners. One of the songs in their own set was a prototype version of\n\nStone Cold Crazy\n\n, a song that would later appear on\n\nSheer Heart Attack\n\n.\n\n“On tour as support to Mott, I was conscious that we were in the presence of something great,” said Brian May. “Something highly evolved, close to the centre of the spirit of rock’n’roll, something to breathe in and learn from.”\n\nTypically, Freddie Mercury found playing second fiddle harder to swallow. “Being support is one of the most traumatic experiences of my life,” he would later pout.\n\nThe Mott tour finished with two shows at Hammersmith Odeon on December 13 and 14, but there was no rest for Queen. The next day they kicked off their own short tour at Leicester University. Shortly afterwards they flew to Australia to play their first show outside Europe; less happily, it ended with the band getting booed off by the roughneck audience.\n\n(Image credit: Michael Putland/Getty Images)\n\nBy the time\n\nQueen II\n\nwas released in March 1974, the band were finally matching their own self-belief. With a following wind behind them from the Top 10 success of\n\nSeven Seas Of Rhye\n\n, they kicked off their first proper UK headlining tour, starting in Blackpool, taking in such glamorous rock’n’roll destinations as Paignton, Canvey Island and Cromer, and peaking with a prestigious gig at London’s famed Rainbow Theatre.\n\nThere was a riot at a show in Stirling, when 500 audience members refused to leave the venue after the final encore, forcing the band to barricade themselves in the dressing room (the next night’s show in Birmingham was cancelled when the band were detained for questioning by the disgruntled Stirling police force).\n\nFor Freddie Mercury it was proof that Queen’s destiny was in their own hands. “You have to have confidence in this business,” said the singer. “It’s useless saying you don’t need it. If you start saying to yourself: ‘Maybe I’m not good enough. Maybe I’d better settle for second place,’ it’s no good. If you like the icing on the top, you’ve got to have confidence.”\n\nWhile Queen’s star was rising in the UK, America was another matter. Barely known beyond a few Anglophile hipsters, they would need to start from scratch to build up anything resembling a Stateside following. Handily, their friends in Mott The Hoople were there to help them out again.\n\n“We went out on tour with them. They were very nice people,” says Mott’s Ian Hunter. “Very intelligent. So we said, ‘Okay, do you want to come to America as well?’”\n\nOn April 16, Queen played their first US show, in Denver, Colorado as support to Mott. Remarkably, despite the band’s name and Mercury’s stagecraft, the more macho sections of the American audiences didn’t take against them.\n\n“They were more like a normal group,” Hunter recalls. “They were playing rock songs, but with their own slant on it. They did say that they picked up a lot of their stagecraft from Mott, you know? You’ve got to pick it up from somewhere.”\n\nThis big-brother-little-brother dynamic was evident off stage, as was the support band’s desire to be successful. At one point the two bands found themselves staying in a set of apartments owned by\n\nSpartacus\n\nstar Kirk Douglas.\n\nQueen’s Brian May onstage in 1974\n\n(Image credit: Ian Dickson/Redferns)\n\n“There was a bit of a do in my room,” says Ian Hunter, “and Fred’s marching up and down saying: ‘When are these silly bastards going to figure it out?’ Meaning the Americans. I said to him: ‘It’s a big country, you’ve got to go around three or four times before it happens. It’s not like England, where you can conquer it in a day!’ He was very, very impatient. It was hilarious.”\n\nThe lavish offstage behaviour that became synonymous with Queen were a few years away, but there were still some memorable moments. Not least when the tour crossed paths with Bette Midler, then a brassy singer who’d made her name on New York’s gay bath-house circuit.\n\n“She was doing a theatre in the same town as us,” Hunter remembers. “She latched onto Luther (Grovesnor, aka Mott guitarist Ariel Bender). And then we had Bette’s mob come back to the hotel with us. There was us, Queen, Bette and these seven-foot guys in feather head-dresses and what have you. Ha ha! It was so much fun.”\n\nOn May 7, Mott and Queen began a six-night residency at New York’s Uris Theater. But disaster struck the morning after the final show, when Brian May fell ill. The guitarist was diagnosed with hepatitis, possibly picked up from a dirty needle when they were inoculated before that ill-fated Australian show. Distraught, the band were forced to pull out of the tour, and May, against doctor’s orders, was flown home. Their plan to conquer America had been derailed. At least for the time being.\n\nQueen‘s Roger Taylor performing onstage in 1974\n\n(Image credit: Ian Dickson/Redferns)\n\n“To us it was out of the blue,” says Ian Hunter. “They were on the tour and then they’re not. Next thing we knew, they had the album out and it was doing extremely well.”\n\n“I felt really bad at having let the group down at such an important place,” Brian May said in 1974. “But there was nothing to do about it. It was hepatitis, which you get sometimes when you’re emotionally run-down.”\n\nLaid up in hospital after returning from America, May was feeling guilty and frustrated at inadvertently curtailing his band’s American ambitions. Understandably keen to rejoin his bandmates who had started work on their next album without him, he’d already begun writing while convalescing. One of the songs he was working on,\n\nNow I’m Here\n\n, reflected the disconnect between touring the US with Mott The Hoople and his living in a pokey bedsit in West London with his girlfriend. “It came out quite easily,” said the guitarist. “Where I’d been wrestling with it before without getting anywhere.”\n\nIt was a six weeks before May recovered from his bout of hepatitis. After being discharged he immediately rejoined the others in the studio. But something was wrong. May was constantly being sick, and he couldn’t eat anything. He was taken back to hospital, where doctors discovered that he had an undiagnosed stomach ulcer, which had been aggravated by the hepatitis.\n\n“I was stuck in hospital for a few weeks, and they did some stuff to me which was like a miracle,” said May. “I thought I was dead. Being ill like that may even have been a good thing at the time, because although it was pretty hellish going through it, I felt glad to be alive and I became able to hold things in perspective more and not get so wound up and worried about them to make myself ill.”\n\nBy the time May returned to the sessions for the second time, work was properly under way on the new album. It was a strange experience for the guitarist, although not a negative one.\n\n“It was very weird, because I was able to see the group from the outside, and was pretty excited by what I saw,” he later said. “We’d done a few things before I was ill, but when I came back they’d done a load more, including a couple of backing tracks of songs by Freddie which I hadn’t heard, like\n\nFlick\n\nOf The\n\nWrist\n\n, which excited me and gave me a lot of inspiration to get back in there and do what I wanted to do.”\n\nSheer Heart Attack\n\nwas recorded between July and October 1974. As with its two predecessors, the album was produced by Roy Thomas Baker, a larger-than-life character who could more than match Mercury in the charisma stakes.\n\n“Every one of our musical and production frustrations came out on\n\nQueen II\n\n,” said Baker. “The idea for the third album was to get together and do some ‘simpler’ songs for a change; real little, short songs. And it was very successful on that level.”\n\nUnlike\n\nQueen\n\nand\n\nQueen II\n\n,\n\nSheer Heart Attack\n\nwas conceived in the studio, albeit through necessity rather than by design. “Nobody knew we were going to be told we had two weeks to write\n\nSheer\n\nHeart Attack\n\n,” said Mercury. “And we had to – it was the only thing we could do. Brian was in hospital.”\n\n(Image credit: Mark Hayward Archive/Redferns)\n\nDespite the setback of the cancelled US tour, there was no doubt among the band that\n\nSheer\n\nHeart Attack\n\nwould take them to the next level. The black-and-white approach of\n\nQueen II\n\nhad been reigned in, replaced by a kaleidoscopic range of sounds and styles. Leading this new approach was\n\nKiller Queen\n\n, an outrageously camp ditty that was closer to Noël Coward than to Robert Plant.\n\n“That was the one song which was really out of the format that I usually write in,” said Mercury. “Usually the music comes first, but the words, and the sophisticated style that I wanted to put across in the song, came first.”\n\nMany have claimed to be the inspiration behind\n\nKiller Queen\n\n, most notably Eric ‘Monster! Monster!’ Hall, the future football agent who then worked as Queen’s radio plugger. According to Mercury, the title chartacter was pure fantasy.\n\n“No, I’d never really met a woman like that,” he explained after the album’s release. “I can dream up all kinds of things. That’s the kind of world I live in. It’s very flamboyant.”\n\nIf\n\nKiller Queen\n\nwas the best-known song, it was hardly representative of the album, largely because the band didn’t chain themselves to one style. No band other than The Beatles had dared throw as many different styles into the mix with as much confidence. That state of affairs in Queen was helped by the fact that all four members pitched in with the writing.\n\n(Image credit: Michael Putland/Getty Images)\n\nA convalescing May delivered the rockers, including\n\nNow I’m Here\n\nand opener\n\nBrighton Rock\n\n(working titles:\n\nBognor\n\nBallad\n\n,\n\nSouthend Sea Scout\n\nand\n\nHappy Little Fuck\n\n). Bookended by a picaresque tale of two seaside lovers sung in high and low registers by Mercury, it was a showcase for an extended May guitar solo dating back to\n\nBlag\n\n, a song by his old band Smile.\n\nBy contrast, Mercury threw in everything from waspish glam rock (\n\nFlick Of The Wrist\n\n, a reflection of their increasingly strained relationship with their management) to old-fashioned vaudeville (\n\nBring Back\n\nLeroy Brown\n\n, complete with ukelele solo from May). Most prescient was\n\nIn The Lap Of The Gods\n\n, a two-part, near-operatic epic that laid the groundwork for\n\nBohemian Rhapsody\n\nthe following year.\n\nIn this creative environment, the rhythm section also rocked up with material. Taylor, who had written a song for each of their previous albums, contributed\n\nTenement Funster\n\n, a lachrymose salute to the rock’n’roll lifestyle, and an overlooked Queen gem. John Deacon chipped in with the slight but perfectly formed\n\nMisfire\n\n. The furious\n\nStone\n\nCold Crazy\n\n– an influence on the future members of Metallica, and hence a cornerstone of the thrash metal movement – was credited to all four members, even though it dated from Mercury’s pre-Queen band Wreckage.\n\nFor a band who were frequently mocked for being shallow, there were plenty of hidden depths, not least on Mercury’s delicate\n\nLily Of The Valley\n\n. The singer’s sexuality was the subject of much debate in the press; apparent double-bluffs such as his famous proclamation that “I’m as gay as a daffodil, dear” deliberately clouded the issue. But while Mercury was still living with girlfriend Mary Austin, he reputedly told his closest friends that he was gay.\n\n“Freddie’s stuff was so heavily cloaked, lyrically,” Brian May said in 1999. “But you could find out, just from little insights, that a lot of his private thoughts were in there, although a lot of the more meaningful stuff was not very accessible.\n\nLily Of The\n\nValley\n\nwas utterly heartfelt. It’s about looking at his girlfriend and realising that his body needed to be somewhere else.”\n\nAll such personal distractions were kept out of the studio. “They worked 15 hour days,” says Gary Langan, who worked as tape operator on\n\nNow I’m\n\nHere\n\nand\n\nBrighton Rock\n\n. “When we finished work at Sarm, we’d meet them at a club called the Valbonne in Soho. That’s when they let their hair down.”\n\nThis drive for perfection ensured there was no fat on Sheer Heart Attack. Just two songs failed to make the final album. One was May’s imperious reworking of the national anthem,\n\nGod Save The\n\nQueen\n\n, later resurrected for 1975’s\n\nA Night At The Opera\n\n. The other was the song that gave the album its title, the frantic, Taylor-penned\n\nSheer\n\nHeart Attack\n\n. Little more than the bare bones of a song when they started, the drummer failed to finish it in time. They finally got around to recording it for 1977’s\n\nNews Of The World\n\nalbum, underpinned with the sneering key lyric:\n\n‘I feel so inar.. inar… inar inar…inarticulate’\n\n. The band in the next studio at the time? The Sex Pistols.\n\nQueen performing Now I’m Here On Top Of The Pops in 1974\n\n(Image credit: David Redfern/Redferns)\n\nBy the time\n\nSheer Heart Attack\n\nwas released on November 1, 1974,\n\nKiller Queen\n\nhad already given Queen their first Top 3 hit.\n\nNow I’m Here\n\nfollowed a couple of months later, complete with touching nod to unofficial mentors Mott The Hoople (“It was nice,” recalls Ian Hunter, “but there was no money attached to it”). Between the two, Queen embarked on their first proper world tour, headlining. This time there were no illnesses or riots, though they were greeted by scenes approaching Beatlemania when they arrived in Japan in April 1975. The effort that went into\n\nSheer Heart Attack\n\nhad paid off.\n\nForty years on it stands as Queen’s most pivotal album. They had greater success later, but none of it would have be possible without the groundwork laid down here. “That was the album that showed the world what they were capable of,” says Gary Langan. “If that album hadn’t been as successful as it was, then something like\n\nA Night At The\n\nOpera\n\nprobably wouldn’t have been accepted.”\n\nFreddie Mercury put it more succinctly. “We were in a prolific stage and so much was happening with us, dear,” he said afterwards. “We felt the need for a change of sorts and, as ever, we felt able to go to extremes. As usual, we put ourselves under pressure. That’s just us.”\n\nOriginally published in Classic Rock 159 (July 2011)",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-10-31T01:00:00+00:00",
+      "id": "fe070e3439762e5c1b87a50b90f5892d832aa078",
+      "retry_after": 1793428158
     }
   ]
 }
