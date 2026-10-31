@@ -27366,7 +27366,7 @@
     "uriah-heep": {
       "name": "Uriah Heep",
       "musicbrainz_url": "https://musicbrainz.org/artist/f1548c5b-329e-4036-921c-02213a04b525",
-      "reference_checked_at": "2026-10-19T10:24:27.501552+00:00",
+      "reference_checked_at": "2026-10-31T00:43:03.237579+00:00",
       "genres": "acoustic rock, classic rock, hard rock, heavy metal, progressive rock, rock",
       "website": "http://www.uriah-heep.com/",
       "members": [
@@ -27637,6 +27637,12 @@
           "date": "1975-11",
           "kind": "compilation",
           "source_url": "https://musicbrainz.org/release-group/6c291b8f-201e-3c25-8871-377b648b9ce3"
+        },
+        {
+          "name": "Empty the Vaults: The Rarities",
+          "date": "2001-06",
+          "kind": "compilation",
+          "source_url": "https://musicbrainz.org/release-group/71249660-c7dd-3a3f-b174-0639e79d6ad4"
         },
         {
           "name": "Wake the Sleeper",
@@ -27991,12 +27997,6 @@
           "date": "1989",
           "kind": "compilation",
           "source_url": "https://musicbrainz.org/release-group/f86ab418-b68f-3110-8d81-8983786c6f0f"
-        },
-        {
-          "name": "David Byron Hits",
-          "date": "2017",
-          "kind": "studio",
-          "source_url": "https://musicbrainz.org/release-group/fd384dbe-e118-4620-a28e-7098025f43a1"
         }
       ]
     },
@@ -34725,8 +34725,8 @@
     "tom-morello": "2026-10-30T16:19:19.847481+00:00",
     "tool": "2026-10-30T20:57:11.951697+00:00",
     "twisted-sister": "2026-10-30T20:57:16.080415+00:00",
-    "ufo": "2026-10-19T10:24:23.646603+00:00",
-    "uriah-heep": "2026-10-19T10:24:27.501706+00:00",
+    "ufo": "2026-10-31T00:42:59.282340+00:00",
+    "uriah-heep": "2026-10-31T00:43:03.237773+00:00",
     "van-halen": "2026-10-19T17:07:16.848393+00:00",
     "venom": "2026-10-19T17:07:18.078343+00:00",
     "w-a-s-p": "2026-10-19T21:31:42.203200+00:00",
