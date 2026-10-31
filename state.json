@@ -1225,49 +1225,18 @@
     "b5a284f285d1d93b113095b936578d728241d4ea",
     "f8654a087f9e9e1d334bd2ec7c25d6d674a8d891",
     "e4ba7e2d91709b081675e310c39a8b5df3d5566d",
-    "40597e89e7eb779ac60a99a3a61ac9d88dd8d5f7"
+    "40597e89e7eb779ac60a99a3a61ac9d88dd8d5f7",
+    "c46cbccad3e49c59e3d87c3cb91bde5b74b6f8ee",
+    "a48e15266446967a633141b6cfdd8d11bc2813a9",
+    "8d1d7aca693f6656437f4058537f5f377b54d776",
+    "edd93db29dc6ffb34f8d489d1ad057687d51b188",
+    "20eb8527cb3350fad26a73a22661fa61f95840b2",
+    "e27e699279ec3c9821d61a29033a70d421e8227d",
+    "ee9533151e4c18ed2f2be6fdd4b4585abd348b8a",
+    "e4b59390d4358f5a333b98c3d1776a522b4336b4",
+    "b94fb7afbb7d4a883f1f56a3fae83ffef4825a49"
   ],
   "recent_titles": [
-    {
-      "title": "Tool’s Danny Carey & The Cult’s John Tempesta Jammed With A Drumline At Last Night’s Seakhawks Vs. Chiefs Game",
-      "source": "ThePRP",
-      "ts": 1793044931
-    },
-    {
-      "title": "Metallica Share Pro-Shot Live Footage Of “Fade To Black” From Their Residency At The Sphere",
-      "source": "ThePRP",
-      "ts": 1793044937
-    },
-    {
-      "title": "BRAT’s “Spit On His Grave” Music Video Premieres",
-      "source": "ThePRP",
-      "ts": 1793044943
-    },
-    {
-      "title": "Mammoth To Film Their Upcoming London, England Show, Announce New U.S. Dates",
-      "source": "ThePRP",
-      "ts": 1793044959
-    },
-    {
-      "title": "Meshuggah’s North American 40th Anniversary Tour To Feature Testament & Blood Incantation",
-      "source": "ThePRP",
-      "ts": 1793044964
-    },
-    {
-      "title": "Crowbar Planning To Work On New Album In 2027",
-      "source": "ThePRP",
-      "ts": 1793058533
-    },
-    {
-      "title": "Chelsea Wolfe Joined By Nine Inch Nails, Spiritbox & Garbage Members At Los Angeles Show",
-      "source": "ThePRP",
-      "ts": 1793058541
-    },
-    {
-      "title": "Haken Announce Spring 2027 North American Tour With Thank You Scientist & Einar Solberg",
-      "source": "ThePRP",
-      "ts": 1793058675
-    },
     {
       "title": "Goose Announce First 2027 Tour Dates",
       "source": "Ultimate Classic Rock",
@@ -2027,6 +1996,46 @@
       "title": "The Pretty Reckless, Chelsea Wolfe, Green Lung and more made us a Halloween playlist",
       "source": "Louder",
       "ts": 1793451333
+    },
+    {
+      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): HAINTGROVE — “HAINTGROVE”",
+      "source": "No Clean Singing",
+      "ts": 1793468378
+    },
+    {
+      "title": "'Medical Emergency' Forces Deep Purple to Postpone Shows",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793468437
+    },
+    {
+      "title": "The 'Big 4' of Rock's Studio Triple Albums",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793468461
+    },
+    {
+      "title": "Foo Fighters Closed Out Their ‘Jimmy Kimmel Live!’ Residency With Their Cover Of “Baker Street”",
+      "source": "ThePRP",
+      "ts": 1793468481
+    },
+    {
+      "title": "Zardonic Debuts “Godhead Interface” Featuring Fear Factory’s Dino Cazares & More",
+      "source": "ThePRP",
+      "ts": 1793468511
+    },
+    {
+      "title": "Was Meddle the last Pink Floyd album that combined all their powers?",
+      "source": "Louder",
+      "ts": 1793468620
+    },
+    {
+      "title": "Steve Hackett Reflects on Genesis’ Rock Hall Induction",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793468648
+    },
+    {
+      "title": "NICKO MCBRAIN: IRON MAIDEN будут продолжать пока еще кто-то не уйдет",
+      "source": "Darkside",
+      "ts": 1793468651
     }
   ],
   "initialized_sources": [
@@ -4856,9 +4865,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-29T19:16:30+00:00",
       "id": "168b65720a0fd1e240999ff6bfd71713d09e1eb4",
-      "duplicate_ids": [
-        "d10260af6127029a7740bce0684390a75c5cdd46"
-      ],
       "retry_after": 1793329138
     },
     {
@@ -5363,67 +5369,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T20:00:00+00:00",
       "id": "6eccad5f48d74e06d55e8d37a3c52747f5445033",
-      "retry_after": 1793428171
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Foo Fighters Closed Out Their ‘Jimmy Kimmel Live!’ Residency With Their Cover Of “Baker Street”",
-      "link": "https://www.theprp.com/2026/10/30/news/foo-fighters-closed-out-their-jimmy-kimmel-live-residency-with-their-cover-of-baker-street/",
-      "rss_body": "Their mid 90s cover of that track has also newly returned to streaming services.",
-      "tags": "News Foo Fighters",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T18:31:05+00:00",
-      "id": "20eb8527cb3350fad26a73a22661fa61f95840b2",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Zardonic Debuts “Godhead Interface” Featuring Fear Factory’s Dino Cazares & More",
-      "link": "https://www.theprp.com/2026/10/30/news/zardonic-debuts-godhead-interface-featuring-fear-factorys-dino-cazares-more/",
-      "rss_body": "Members of Mayhem also guest on Zardonic's newly announced album \"DIGICIDE\".",
-      "tags": "News Dino Cazares Fear Factory Mayhem Zardonic",
-      "category": "Экстремальный метал",
-      "published": "2026-10-30T18:13:26+00:00",
-      "id": "e27e699279ec3c9821d61a29033a70d421e8227d",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Was Meddle the last Pink Floyd album that combined all their powers?",
-      "link": "https://www.loudersound.com/music/albums/pink-floyd-meddle",
-      "rss_body": "Terrace chants,\n\nSteve Marriott\n\n’s dog and\n\nHendrix\n\n’s guitar pedal… the lesser undulations in\n\nPink Floyd\n\n’s 1971 textural opus\n\nMeddle\n\nbuilt a cultural tsunami. In 2011\n\nProg\n\nrevisited the unsung masterpiece that changed the band – and its genre – for ever.\n\nPing.\n\nThat sound, like a sonar signal.\n\nPing\n\n. Or a radio signal from deep space.\n\nPing\n\n. Or a heart monitor, measuring out a life.\n\nPing\n\n. Incrementally.\n\nThe ’ping’ on the opening and close of\n\nEchoes\n\nwas, as we all know, produced by\n\nRichard Wright\n\nplaying a single note on a concert grand piano and feeding the signal through a Leslie rotating speaker. It’s a perfect opening – as iconic in its way as\n\nElvis Presley\n\nbelting out ‘\n\nWell since my baby left me...\n\n’ at the start of\n\nHeartbreak Hotel\n\n, or death knocking at the door at the start of Beethoven’s Fifth.\n\nEchoes\n\nis the centrepiece of\n\nMeddle\n\n, an album now widely regarded as the one where Pink Floyd got everything just right. In\n\nMeddle\n\nyou can almost hear\n\nThe Dark Side Of The Moon\n\nand\n\nWish You Were Here\n\n– and even\n\nThe Wall\n\n.\n\nYou couldn’t necessarily say the same about\n\nAtom Heart Mother\n\nor\n\nUmmagumma\n\n. Those albums, brilliant as they are in their way, are still the sound of the Floyd finding their way, trying to escape from the shadow of their brilliant erratic insufferable genius ex-front-man\n\nSyd Barrett\n\n.\n\nThey had come a long way from the hallucinogenic whimsy of\n\nPiper At The Gates Of Dawn\n\nand its less satisfactory follow-up\n\nA Saucerful Of Secrets\n\n. The psychedelic chaos was left behind and a new Pink Floyd emerged. They were still adventurous and experimental, but they were also more structured and stable.\n\nBy the end of the 60s they had developed into a formidable live touring band.\n\nMeddle\n\n, an album that revelled in its use of the recording studio, was also the first album to capture some of the potency and excitement of the live experience. After its release nobody called them ’the’ Pink Floyd. The kids who bought it in 1971 didn’t ask, ‘Where’s Syd?’ – they increasingly asked, ‘\n\nWho’s\n\nSyd?’\n\nIt’s now generally agreed that\n\nMeddle\n\nwas the point where Pink Floyd as we know them really began. There’s the fizzing energetic opener\n\nOne Of These Days\n\nwhich is the blueprint for half of the songs on\n\nDark Side\n\n. The soundtrack music they’d recorded was there to serve a function: it was atmospheric. But they weren’t great songs.\n\nOne Of These Days\n\nis Pink Floyd 2.0.\n\nWhile in their early incarnation they were a pop band as well as a psychedelic free-form freakout band –\n\nArnold Layne\n\nand\n\nSee Emily Play\n\nboth being hits – the subsequent years saw them completely lose interest in the singles chart. In that way they were going with the flow of their contemporaries, becoming an albums focussed band. But\n\nOne Of These Days\n\n, a great song (despite not having words other than a spoken phrase) proved they were still able to turn out something approachable when they felt like it. It remains one of the best Floyd songs ever recorded. According to\n\nDavid Gilmour\n\nin a recent interview, it’s one of the songs where their work was at its most collaborative.\n\n“We’d done the individual solo tracks and decided that we worked better together,” says\n\nNick Mason\n\n. “There wasn’t any great plan when we did\n\nMeddle\n\nother than it would be a group effort. We weren’t under any pressure from EMI to release anything. There was no concept. I don’t think we had anything already written when we went into the studio. After\n\nUmmagumma\n\nand\n\nAtom Heart Mother\n\n, we thought, I suppose, that we should maybe make a group album, something that was maybe a reflection of where we were going live.”\n\n“It’s got that sound, hasn’t it?” says\n\nSteven Wilson\n\n, a long-time champion of\n\nMeddle\n\n. “That 1971 sound. It’s so warm and organic and so golden; and there’s something about that. Things were just coming out of psychedelic music and the influence was still there, not completely gone.”\n\nIt’s an album that they started without any overarching ideas as to what it was going to be. Although\n\nEchoes\n\nis the centrepiece, there are other songs like\n\nOne Of These Days\n\nand\n\nFearless\n\nthat are just as important.\n\nWe signed a contract that gave us a slightly reduced royalty in return for unlimited studio time. Only The Beatles had a similar deal\n\nNick Mason\n\n“They were just back from the US,” recalls engineer John Leckie, first recruited as a tape operator but eventually credited as engineer. “I remember\n\nDave Gilmour\n\nhad just got the same wah-wah peddle that\n\nJimi Hendrix\n\nused. The seagull sound you hear on\n\nEchoes\n\nis that, the Cry Baby. Hendrix died in the middle of recording, which I think affected them a bit.”\n\nThey had also worked in Italy on the soundtrack for Michelangelo Antonioni’s counter-culture film\n\nZabriskie Point\n\n. The band arrived tired and jet-lagged and were booked in the studio from midnight until six. It was to prove a frustrating experience as the Italian director rejected a lot of the music they’d recorded.\n\n“I don’t think he exactly\n\nhated\n\nit,” says Nick Mason, “but it’s difficult when someone else has the music in mind for a particular sequence of film. Antonioni wanted total control, and the only way he could have control of the music was to be able to select from lots of different versions.\n\n(Image credit: Image credit: Koh Hasebe/Shinko Music - Getty)\n\n\"Whereas when we’d worked with Barbet Schroeder [director of\n\nMore\n\nand\n\nLa Vallée\n\n, both films with Floyd soundtracks] he would give us the brief, we’d go off and do it; generally he said, ’Yes, fine’ and we moved on.\n\nZabriskie Point\n\nwas a bloody hard slog.”\n\nMuch of\n\nMeddle\n\n’s success is down to the fact that their label, not really having much of a clue about Pink Floyd other than that they sold lots of records, pretty much left them to their own devices. “We’d just signed a new contract that gave us a slightly reduced royalty in return for unlimited studio time, ” Mason says. “I think only\n\nThe Beatles\n\nhad a similar deal at the time.”\n\nPink Floyd were one of the first bands to be allowed to produce their own albums. Peter Brown – who’d worked with them on\n\nAtom Heart Mother –\n\nand Leckie recorded and engineered the bulk of the recording work at London’s Abbey Road studio. “They were left alone,” recalls Leckie. “Colin Miles, the only person at EMI who could ’relate,’ used to turn up occasionally with a couple of bottles of wine. Maybe some spliff. They worked hard, though; it wasn’t a party.”\n\nEchoes, for me, is the quintessential, ultimate epic … It just has a perfect shape\n\nSteven Wilson\n\nFloyd weren’t at the stage where they could afford a garage full of sports cars, but they were making a fairly good living from touring and recording. They were starting to experience success in the US and had just returned from there when they started work on\n\nMeddle\n\n. Leckie remembers the atmosphere in the studio was good: “They weren’t really different to any other band. It was quite energetic; everyone had a say. Nick came up with a lot of the crazier ideas. It’s his voice through a ring modulator that you hear on\n\nOne Of These Days\n\nsaying ’\n\nOne of these days I’m going to cut you into little pieces.\n\n’\n\nRick\n\ncontributed a lot.\n\nRoger\n\nand Dave were running the show but everybody was contributing..\n\nAs the band recorded at Abbey Road, sometimes bringing in ideas they’d worked on at home, they continued to gig, setting up the gear in the studio then going off at night to play headline shows at colleges and polytechnics. “We were trying out a lot of stuff live at that time,” says Mason.\n\nEchoes\n\n, at that time a series of unconnected parts labelled\n\nNothing\n\n(there was\n\nNothing Part One\n\nthrough to\n\nPart 36)\n\neventually took shape when they debuted it at a gig in Norwich in April, listed under its working title\n\nReturn of the Son Of Nothing\n\n.\n\nThe band were now pushing the possibilities of the studio. Mason remembers: “Abbey Road had just invested in an eight-track, but were ready to go 16-track. So we went to Air studios, which was great. A very different atmosphere – EMI was very established, had the big canteen... there was already a lot of change, though. The Beatles did that a few years before. But Air was state of the art.”\n\nIt was the possibilities offered by 16 tracks that changed everything. “Yes, by definition, though unfortunately it made the process of recording slower,” says Mason. “There were almost too many options. Mixing took a hell of a lot longer.”\n\nThey also recorded at a third studio, Morgan in Willesden. “Morgan was one of the first British studios to go 24-track, though not at that time,” says Leckie. “What’s interesting is that years later I recorded some of the first Stone Roses tracks there, when it was called Battery.”\n\nAlthough they had worked on longform pieces before,\n\nEchoes\n\nwas a bit of a departure. Songs like\n\nInterstellar Overdrive\n\nand\n\nA Saucerful Of Secrets\n\ncame from the Syd era when the band were more improvisational. These were essentially extended jams.\n\nAtom Heart Mother\n\nwas conceived as a sort of quasi-classical piece.\n\nRoy Harper could do a song differently every time. He’d record with a band but the acoustic version would be just as good. And he never used them\n\nNick Mason\n\nEchoes\n\nincorporated several ideas, different passages and moods, but it was a structured and planned song. Its creation involved trial and error. A lot was thrown out. But it was a song with a final, almost definitive form. The version you hear in the film\n\nLive At Pompeii\n\nor the BBC sessions isn’t markedly different to the version on\n\nMeddle\n\n.\n\nInterstellar Overdrive\n\n, particularly in the Syd era, was never the same twice.\n\n“\n\nEchoe\n\ns, for me, is the quintessential, ultimate epic,” says Wilson. ”It just has a perfect shape. They hadn’t tried to cram too many ideas into it, so it still has a lot of room for building up and breaking down and improvisation, and it has that lovely song sequence that bookends the piece.”\n\n“I’m sure one of the reasons they did\n\nEchoes\n\nwas\n\nRoy Harper\n\n,” says Leckie. “They shared management with Roy and he was a big mate of the band. He was always around and he was working on\n\nStormcock\n\n. I’d worked with Roy; I think played a big part in my being hired for\n\nMeddle\n\n.”\n\nStormcock,\n\na groundbreaking 1971 album, includes four epic acoustic songs, all between seven and 13 minutes long. “I don’t think it was any kind of one-upmanship with Roy,” says Mason. “He was extraordinary. I loved the fact that he could do a song differently every time. He’d record with a band but the acoustic version would be just as good. And he never used them. God knows where those recordings are.” Harper, of course, would later join the band on\n\nWish You Were Here\n\nto sing\n\nHave A Cigar\n\n.\n\nMason reflects: “We quickly worked out that doing a song like\n\nEchoes\n\nwas comparatively easy because of the repetition. Listening to it now, it sounds a bit overlong – it could be chopped, which would make a better piece.” Ah, and maybe Leonardo Da Vinci thought in later life that the\n\nMona Lisa\n\nwould have been improved by wiping the smile off of her face.\n\nThe album also includes three absolutely perfect short songs:\n\nOne Of These Days\n\n,\n\nPillow Of Winds\n\nand\n\nFearless\n\n.\n\nFearless\n\nincludes the Kop Choir singing\n\nYou’ll Never Walk Alone\n\n. Naturally\n\nJohn Peel\n\nflogged it to death on the radio. “\n\nFearless\n\nis still the one that everyone in Liverpool plays,” says Leckie. “Not just for the football chant, but those churning acoustic guitars. That’s the one The La’s and all those bands tell you is the classic Pink Floyd track.”\n\nSteve Marriott would always be around the studio. They noticed that his dog would start barking in tune with the music\n\nJohn Leckie\n\nWaters (a lifelong Arsenal supporter) played the acoustic parts using an open tuning, which gives the song its ringing quality. It’s a sound that does indeed surface in the work of bands like\n\nEcho & The Bunnymen\n\nand\n\nThe Teardrop Explodes\n\n. It’s been covered by a wide range of artists, from ex-\n\nMarillion\n\nfrontman\n\nFish\n\nto\n\nThe Black Crowes\n\nby way of Midwestern indie ’slowcore’ band Low.\n\nA Pillow Of Winds –\n\ninspired, according to Nick, by the game of mahjong that he, Gilmour and their respective partners used to play while on holiday together – is a fairly straight love song. It’s one of the pastoral pieces they’d toyed with before in songs like\n\nJulia Dream\n\nand\n\nGrantchester Meadows\n\n. “There’s a couple of songs at the end of side one that maybe you could say are filler,” Wilson allows, ”but certainly\n\nOne Of These Days\n\n,\n\nA Pillow Of Wind\n\ns and\n\nFearless\n\nare as good as anything they recorded. I think\n\nFearless\n\ndoes always get overshadowed because of the pieces they played a lot live.”\n\nSan Tropez\n\nwas not composed collaboratively; it was written by Waters and was brought to the studio in a completed form. The notorious\n\nSeamus\n\n– a great sense of humour test – was named after ex-Small Faces then-\n\nHumble Pie\n\nfrontman\n\nSteve Marriott\n\n’s dog. “Steve would always be around the studio,” says Leckie. “They noticed that it would start barking in tune with the music.”\n\nFloyd and director Adrian Maben during the filming of Live at Pompeii in Paris, December 1971\n\n(Image credit: Getty Images)\n\nThe dog that appears in the film version in\n\nLive At Pompei\n\ni is in fact another one, a female Russian Wolfhound named Nobs. Owned by Madonna Bouglione, daughter of circus director Joseph Bouglione, the pet took a bit more coaxing for her performance than Seamus did.\n\nLive At Pompeii\n\n, a good snapshot of where the band were in 1971, was one of the first films of this kind. It prefigures the rock video by filming a performance in an exotic location without an audience. “Steve O’Rourke [Floyd’s then manager] said, ‘This French-based documentary maker wants to do a film,‘” Mason recalls. “The deal we did turned out to be very hard work and we never saw any money from it for a long time. On the other hand it turned out to be a very useful, and I think a very good, film.\n\n“Pompeii was a controlled environment as there was no audience, so we could cut, stop and reshoot. But the open air and the dust and everything else made it feel like a real live show. There was a bit of grit to it.” Although some reels were lost: “It was Dave and Roger from\n\nOne Of These Days\n\n, which is why it’s mostly me,” the drummer says.\n\nYou feel that Floyd were still were playing live, experimenting… by Dark Side Of The Moon that had gone\n\nSteven Wilson\n\nMeddle\n\nwas released in October 1971 in the US and November in the UK. It was packaged in a sleeve that\n\nHipgnosis\n\npartner\n\nStorm Thorgerson\n\nrevealed was his least favourite Floyd sleeve: “I think\n\nMeddle\n\nis a much better album than its cover,” he said. It was supposed to have been a close-up picture of a baboon’s bum. The band told him they wanted something to do with water, maybe an ear underwater. It certainly matched the mood of the album in a way that somehow you don’t feel that an ape’s anus would have done.\n\nRegardless of its packaging, it reached No.3 on the UK album charts –\n\nAtom Heart Mother\n\nhad been No.1 – while it bombed in the US. “If in doubt, blame the label,” says Mason. “We felt at the time that Capitol [Floyd’s North American label] was really an old fashioned company; it was the label of Frank Sinatra and Dean Martin and the executives were all old. I don’t think they really approved of us. They didn’t understand it. Consequently, they never worked the records.\n\n“EMI, on the other hand, saw the potential particularly from European sales. And they decided to make it a hit. That’s the thing – the success of\n\nDark Side Of The Moon\n\nhad nothing to do with the loveable moptops who made it. It was all the record company.” The band lost patience with Capitol in the US and secretly signed with Clive Davies to Colombia.\n\nObscured By Clouds\n\n, the soundtrack to\n\nLa Vallée\n\n, was recorded in a matter of weeks later that year. Then they started work on\n\nDark Side\n\n. They had an appetite for work – yet they would never record at this pace again. “No, because we got spoiled,” says Mason. “After\n\nDark Side\n\nwe were a number-one band. And also, the pressure was on. You couldn’t just go in and knock another album off. You had to think about it; not repeat yourself.”\n\nWilson notes: “You feel that Floyd were still a band that were playing live, going out there and experimenting, and I think by\n\nDark Side\n\nthat had gone. They’d become great sonic architects – but a lot of the danger and a lot of the hangover from that period of experimentation had been gradually refined out of their sound.”\n\nIt’s a sobering lesson to read the contemporary reviews of an album now considered an undisputed classic. Some writers seemed to miss the point: one compared\n\nMeddle\n\nunfavourably with\n\nMore\n\nand\n\nUmmagumma\n\n. Arguments as to whether it belonged in the same file as\n\nFragile\n\n,\n\nTarkus\n\nor\n\nNursery Cryme\n\nnow seem fatuous. Floyd, like\n\nYes\n\n,\n\nELP\n\nand\n\nGenesis\n\n, were just slightly ahead of the technology that was available – 24-track bands in an eight-track era.\n\nAfter\n\nMeddle\n\nand\n\nDark Side\n\n, something was lost; the ambition became to create and sometimes meticulously over-egg the pudding in the studio. It culminated with\n\nThe Wall\n\nand was probably what ultimately tore the band apart.\n\nThis article first appeared in Prog issue 19\n\n(Image credit: Future)\n\nWorking on\n\nMeddle\n\ngave Mason the confidence to start producing himself. Later that year he worked on\n\nThe Asmoto Running Band\n\n, the second album by whimsy-prog oddballs Principal Edwards Magic Theatre. He later produced\n\nRobert Wyatt\n\n’s classic\n\nRock Bottom\n\nand\n\nThe Damned\n\n’s second album\n\nMusic For Pleasure\n\n(though apparently he got the gig because they couldn’t get Barrett).\n\nAfter the one-off solo album\n\nNick Mason’s Fictitious Sports\n\nin 1981, he worked with Rick Fenn and then jazzer Mike Mantler. But being rich as Croesus, he’s under no pressure to get in the van and go gigging. “I’ve been thinking about\n\ndoing something\n\nfor a while,” he muses. He won’t be pushed on details.\n\nAnd what about another Pink Floyd reunion? Mason only recently appeared on stage with Waters and Gilmour,\n\nperforming\n\nOutside The Wall\n\nat one of Waters’ massive O2 shows\n\n. He says touring or playing with one of the pair is a possibility. \"I’d love to do something like\n\nLive8\n\nagain,” he says. Then he adds, perhaps enigmatically: “If it was to be arranged.\"\n\nWas that a hint? Or was it what we want to hear – that the journey that really got underway 40 on\n\nMeddle\n\nhasn’t quite come to its end?",
-      "tags": "Albums Music",
-      "category": "Прогрессив",
-      "published": "2026-10-30T18:00:00+00:00",
-      "id": "ee9533151e4c18ed2f2be6fdd4b4585abd348b8a",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Steve Hackett Reflects on Genesis’ Rock Hall Induction",
-      "link": "https://ultimateclassicrock.com/steve-hackett-genesis-rock-hall-induction/",
-      "rss_body": "The former guitarist for the prog rock legends tells UCR how he caused \"a bit of a stir\" that night.",
-      "tags": "Exclusive Interviews News Genesis Steve Hackett UCR Ultimate Classic Rock Radio",
-      "category": "Прогрессив",
-      "published": "2026-10-30T17:55:37+00:00",
-      "id": "e4b59390d4358f5a333b98c3d1776a522b4336b4",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "NICKO MCBRAIN: IRON MAIDEN будут продолжать пока еще кто-то не уйдет",
-      "link": "http://www.darkside.ru/news/184859/",
-      "rss_body": "В новом интервью подкасту NICKO MCBRAIN снова рассказал о своём решении завершить гастрольную деятельность в составе коллектива. 74-летний британский музыкант, настоящее имя которого Michael Henry McBrain, объявил об уходе на пенсию 7 декабря 2024 года в заявлении на официальном сайте и в соцсетях MAIDEN. Он также сообщил, что концерт в тот вечер на Allianz Parque в Сан-Паулу (Бразилия) станет его последним шоу с легендарной рок-командой. С тех пор McBRAIN'а заменил Simon Dawson, бывший сессионный барабанщик и давний соратник основателя MAIDEN, басиста Steve'а Harris'а, по BRITISH LION.\n\nПосле того как один из интервьюеров отметил, что коллеги по MAIDEN очень поддержали его решение перестать гастролировать, NICKO согласился.\n\n«Да, абсолютно. Думаю, это просто подводит итог тому товариществу, которое царит в [MAIDEN]… Но то, что все мои братья поддержали меня и [дали] мне два тура, это были первая и вторая части тура „The Future Past“ в 2023 и 2024 годах, то, что они встали за меня и сказали: „Да, ладно, давайте просто сделаем это“.\n\nНо я не играл так хорошо, как мог бы или должен был, потому что не мог исполнять некоторые партии, например, вступление „The Trooper“ и середину „Somewhere In Time“ и тому подобное, эти чудесные барабанные проходы, которые я играл 42 года. Я не играю эти чудесные проходы по томам и всё такое. Но ребята полностью меня поддержали, а [менеджеры MAIDEN] Rod и Andy, и Shacky, и все ребята в офисе были на сто процентов за меня. И такие отношения с коллективом и товарищами на протяжении столь долгого времени многое говорят об энергии и любви, которые они ко мне питали».\n\nNICKO продолжил: «Это было непростое решение. На самом деле не такое уж непростое… Лично для меня было трудно сказать: „Я ухожу“, ведь в следующем году мы будем праздновать 50 лет. Это было тяжело принять».\n\nНа вопрос, будет ли он записываться с IRON MAIDEN в будущем, NICKO ответил:\n\n«Ну, я бы хотел сыграть пару песен, да. То есть весь альбом я делать не стал бы. Не думаю, что смог бы [сыграть песни так, как их нужно играть]. Потому что посмотрите, какие песни пишут Steve, Bruce [Dickinson, вокалист MAIDEN], Adrian [Smith, гитарист MAIDEN] и Janick [Gers, гитарист MAIDEN]. В „Dance Of Death“ [есть] многие чудесные игривые штуки. И я хотел бы сыграть две-три песни. К тому же [дело в том, что] теперь играет Simon. Он занял мой барабанный трон. Так что я ожидаю, что альбом запишет он, а я хотел бы поучаствовать в двух-трёх песнях в качестве гостя. Это было бы прекрасно».\n\nРассуждая о том, как долго, по его мнению, MAIDEN смогут продолжать, NICKO сказал:\n\n«Ну, тут дело в том, что всем ребятам уже за середину шестого десятка. Даже самому младшему в коллективе в этом году, кажется, 67. ‘Arry [Steve Harris] следующий после меня по возрасту. Вроде они только что объявили североамериканский тур на следующий год, пару месяцев в США, и, посмотрев, как они справляются, думаю, что потом, позже, может найтись время и для новой пластинки, если они решат её делать. Лично я думаю, что они будут продолжать, пока кто-то из команды не скажет: „Я больше не могу“. И я не вижу, чтобы это реально происходило сейчас, потому что они всё ещё…\n\nДолжен признать, что некоторые темпы песен [на недавних концертах MAIDEN] ближе к тем, какими они были при записи много лет назад. Но я не говорю, что они сбавляют обороты, они просто стараются обеспечить себе долголетие. В конце концов, все они уже не молоды».",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T17:38:02+00:00",
-      "id": "b94fb7afbb7d4a883f1f56a3fae83ffef4825a49",
-      "retry_after": 0
+      "retry_after": 1793468777
     },
     {
       "source": "Metal Injection",
@@ -5564,7 +5510,7 @@
       "category": "Прогрессив",
       "published": "2026-10-31T01:00:00+00:00",
       "id": "fe070e3439762e5c1b87a50b90f5892d832aa078",
-      "retry_after": 1793428158
+      "retry_after": 1793468768
     },
     {
       "source": "Metal Injection",
@@ -5577,6 +5523,54 @@
       "published": "2026-10-30T16:15:42+00:00",
       "id": "c877c429cfbfb1b21f5e2c77b5459a023ad6f037",
       "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "James Hetfield: Turnstile Turned Down Touring With Metallica",
+      "link": "https://metalinjection.net/news/james-hetfield-turnstile-turned-down-touring-with-metallica",
+      "rss_body": "There's a lot of bands that would probably kill to play with heavy metal legends Metallica. Turnstile apparently isn't one of them. Recently, Metallica frontman James Hetfield talked about his […]",
+      "tags": "Latest News Turnstile Metallica",
+      "category": "Хэви-метал",
+      "published": "2026-10-31T16:13:07+00:00",
+      "id": "1e3c5d4af4a1c8b0a3d39d4e547d53b51b256b00",
+      "retry_after": 1793468679
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "The real-life tragedy behind The Crow, the ultimate goth comic book movie",
+      "link": "https://www.loudersound.com/culture/films-tv-shows/the-crow-brandon-lee-story-behind-comic-book-movie",
+      "rss_body": "When comic book creator James O’Barr licensed\n\nThe Crow\n\nto a movie studio for $1,500, he never expected it to get made, let alone become an enduring gothic touchstone.\n\nWritten gradually over nine years, starting in 1980, the original comic book story follows a young man named Eric Draven who returns from the dead to avenge the murder of his fiancée at the hands of a gang. The black-and-white panels drip with anguish, as Eric, face painted in a sinister scowl, stalks the rainy streets of a retro-noir city.\n\nThe film version, released in 1994, took this vision to the masses and became a cult classic. Under the eye of Australian director Alex Proyas, and starring Brandon Lee – son of 70s Kung Fu legend Bruce Lee – as bloodthirsty antihero Eric, it plugged into the zeitgeist, riding on the coattails of the emerging wave of industrial bands and playing a part in a 90s goth revival.\n\nBut\n\nThe Crow\n\nalso became infamous for a tragic event: Brandon Lee was killed during filming, due to an improperly loaded stunt gun, two weeks before he was due to get married.\n\nBrandon Lee as Eric Draven in The Crow\n\n(Image credit: Alamy)\n\nThe Crow\n\nwas born out of tragedy. James O’Barr wrote it to help him get to grips with his own grief; his fiancée was killed by a drunk driver while they were still in high school.\n\n“She was the polar opposite of me. I was dark and moody and sullen and hostile, and she was pure sunshine and happiness,” he recalls today. “My life was changed irrevocably, in one instant, for no good reason. All those negative traits in me were amplified after that.”\n\nFollowing the loss of his fiancée, O’Barr enlisted in the Marines and was posted to Berlin. It was 1978, the height of the Cold War. He yearned for a routine to block out his misery, yet the isolation of military life only drove him further into his own head.\n\n“I became big and strong and physically imposing, but the desired effect was not reached,” he remembers. “In fact, it was probably amplified a little more because I internalised it rather than speak out about it. Luckily, I had art as therapy.”\n\n(Image credit: Alamy)\n\nHe began creating\n\nThe Crow\n\nin 1980, at the same time as he discovered the downbeat post-punk and goth bands coming out of England – Joy Division, The Cure, The Comsat Angels and Bauhaus. He drew Eric Draven as the latter band’s singer, Peter Murphy, with a touch of Iggy Pop. The dank streets of Berlin also fed into his work.\n\n“The populace was either angry about the outcome of World War II, or they were ashamed,” he says. “It was on everyone’s face, but it was not spoken of. I don’t have any recollections of the sun ever shining. It was a good visual analogy to the post-punk and darkwave stuff that I was listening to.”\n\nAfter six years in Berlin’s darkness, O’Barr’s dad passed away, and he was reassigned to Michigan in 1984 to take care of his mother. Three years later, he got a job at the Ford dealership in Detroit, working on cars by day and drawing until two in the morning.\n\nThe Crow\n\nwas picked up by a local publisher and enjoyed a small run.\n\nThe Crow\n\ncomic book came out in 1989 and became a cult success, though not enough for O’Barr to give up his day job. He was still working at Ford in 1992 when Hollywood showed interest in turning it into a film. He thought the violence and intense romance would put people off adapting it, but Tim Burton’s\n\nBatman\n\nhad found worldwide success, and studios were hoping to cash in with similar films.\n\nBrandon Lee was a rising star in Hollywood. Good-looking and charismatic, he appeared in 1992 action film\n\nRapid Fire\n\n, but was keen to step out of his father’s shadow and prove he could do more than fight scenes. At 28 years old, he had a bright future in front of him, and he was due to be married a few weeks after filming.\n\nThe cameras began rolling in early 1993. O’Barr had initially been sceptical of Brandon as Eric, thinking the actor “too sweet” to play the vengeful role, but was won over when he saw him in the distinctive make-up and leather pants. O’Barr, who was on set most of the time, was struck by Lee’s humility.\n\n“The whole film was shot at night in miserable conditions, in freezing rain,” he says. “Between takes, everyone would go huddle around a 50-gallon oil drum filled with wood, and start a fire to get warm, like vagrants do. A lot of the crew had brought their kids with them, and instead of going back to his trailer, Brandon would go over and spend time with them. He was personable, charming and genuine.”\n\nOn March 31, 1993, tragedy struck. Lee was filming a scene where Draven is shot and killed in his apartment, but when the take ended, the actor didn’t get up. The tip of a dummy .44 slug had become jammed in the barrel of the gun, and the force of the blank had sent it into his abdomen. He was rushed to hospital, but surgery could not save him from the injuries.\n\nAlex Proyas, traumatised, flew home to Australia for a month. James O’Barr was on a promo trip in Detroit when he heard the news. He couldn’t bring himself to return.\n\n(Image credit: Alamy)\n\n“It felt amazing to be on the set and seeing the things I had drawn come to life,” he recalls. “But with Brandon’s death, it was like I fell back into that place I was when I initially began it. It’s a love story, but it’s couched in pain.”\n\nRumours began to fly; Lee had been killed on the lot, in mysterious circumstances, echoing his father’s passing. Bruce Lee had died of a brain swelling shortly before the release of his own breakthrough film, 1973 martial arts classic\n\nEnter The Dragon\n\n. Although the coroner had declared it as ‘death by misadventure’, unfounded theories circulated that he was the victim of the mob or a demonic curse.\n\nWith permission from Brandon’s fiancée and family, the crew returned to work two months later and finished the film in his memory. Aside from some script changes, they leaned on effects company Dream Quest to bring their vision to life, adding $8million to the $15million budget. Dream Quest used then-cutting-edge techniques to create seven new scenes, comprising 52 shots. In two cases, they digitally superimposed Lee’s face onto a body double. The footage of Lee’s death was destroyed.\n\n(Image credit: A poster for the 1994 movie The Crow)\n\nWhen\n\nThe Crow\n\nwas released in May 1994, it was a surprise hit, becoming the Number One film at the box office on its week of release, and grossing more than $50 million domestically. Critics praised its dark visuals, although some felt it borrowed too heavily from existing films and wouldn’t have amounted to anything if it weren’t for fate’s cruel hand. ‘Were it not for Brandon Lee’s death… the movie itself would be little more than your basic heavy-metal occult revenge thriller, complete with rain-swept futuristic dreamscapes right out of\n\nBlade Runner\n\nand\n\nBatman\n\n,’ read one review in\n\nEntertainment Weekly\n\n.\n\nDespite the ghoulish intrigue surrounding its production (there had been a string of minor accidents on set even before Brandon’s death), much of its success was down to timing – alternative culture was on the rise, and it exploded with the movie, which was accompanied by a zeitgeist-capturing soundtrack featuring The Cure, Nine Inch Nails and Stone Temple Pilots.\n\n“It hit the American market just at the right time, where people were discovering post-punk – or what was called industrial in America,” says O’Barr. “Things were happening with the music and the dark fashion, and then\n\nThe Crow\n\ncame out and pushed it into the mainstream. So now you were cool to be wearing eyeliner, whereas you were a freak two years earlier.”\n\n“Eric was my hero,” says former Him vocalist turned solo star Ville Valo. “The film happened right after grunge broke and was really grungy in a cool way. There were a few darker films, but I don’t think there was anything considered ‘gothic’ coming out of Hollywood at the time, and it had a bit of rock’n’roll. Eric was carrying a crow and a guitar.”\n\nThe Crow\n\nspawned a series of forgettable sequels, and a poorly received reboot in 2024 starring Bill Skarsgård in the title role. Yet nothing has dented the enduring appeal of the original.\n\nThe Crow\n\n, like Eric Draven himself, proves there is life after death.",
+      "tags": "Films & TV Shows Culture",
+      "category": "Прогрессив",
+      "published": "2026-10-31T16:00:00+00:00",
+      "id": "d44c1871502e8c2aa53ef42c1402595ff6e91c42",
+      "retry_after": 1793468725
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "When Ozzy Osbourne Played an Anti-Heavy Metal Preacher in 'Trick or Treat'",
+      "link": "https://metalinjection.net/news/when-ozzy-osbourne-played-an-anti-heavy-metal-preacher-in-trick-or-treat",
+      "rss_body": "\"These evil people have just got to be stopped!\"",
+      "tags": "Latest News Ozzy Osbourne featured1",
+      "category": "Хэви-метал",
+      "published": "2026-10-31T15:11:39+00:00",
+      "id": "6e9238f921a755bc9a3df85bdd5964b2435ae4b9",
+      "retry_after": 1793468737
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Meshuggah Announce 40th Anniversary Tour, Band Claiming Sleep Token Ties Drops Debut Song + More Top Stories of the Week",
+      "link": "https://metalinjection.net/injection-reflection/meshuggah-announce-40th-anniversary-tour-band-claiming-sleep-token-ties-drops-debut-song-more-top-stories-of-the-week",
+      "rss_body": "Meshuggah announce their 40th anniversary tour! That band that said they were related to Sleep Token sucks really bad! And more! Happy Halloween. No spooky news this week, all treats. […]",
+      "tags": "Injection Reflection Meshuggah Sleep Token featured2",
+      "category": "Хэви-метал",
+      "published": "2026-10-31T13:39:19+00:00",
+      "id": "88eda410f9e34cd0b2067fd757b52cca7fb91985",
+      "retry_after": 1793468737
     }
   ]
 }
