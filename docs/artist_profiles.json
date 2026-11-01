@@ -260,7 +260,7 @@
       "website": "http://blacksabbath.com",
       "reference_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
       "reference_checked_at": "2026-10-26T20:02:51.857493+00:00",
-      "tour_attempted_at": "2026-10-26T20:02:56.351862+00:00",
+      "tour_attempted_at": "2026-11-01T20:48:33.262568+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-26T20:02:51.857518+00:00"
     },
@@ -278,7 +278,7 @@
       "website": "http://ayreon.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ayreon",
       "reference_checked_at": "2026-10-26T20:02:52.080728+00:00",
-      "tour_attempted_at": "2026-10-26T20:02:57.779395+00:00",
+      "tour_attempted_at": "2026-11-01T20:48:34.881057+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-26T20:02:52.080754+00:00"
     },
@@ -648,41 +648,6 @@
       },
       "events": [
         {
-          "date": "2026-10-26",
-          "city": "Stockholm",
-          "country": "Sweden",
-          "venue": "Avicii Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-28",
-          "city": "Oslo",
-          "country": "Norway",
-          "venue": "Spektrum Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-29",
-          "city": "Gothenburg",
-          "country": "Sweden",
-          "venue": "Scandinavium",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-10-31",
-          "city": "Leipzig",
-          "country": "Germany",
-          "venue": "QI Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-01",
-          "city": "Hamburg",
-          "country": "Germany",
-          "venue": "Sporthalle",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
           "date": "2026-11-03",
           "city": "Dortmund",
           "country": "Germany",
@@ -828,13 +793,20 @@
           "country": "Mexico",
           "venue": "Estadio Fray Nano",
           "source_url": "https://deep-purple.com/tour-dates-2/"
+        },
+        {
+          "date": "2027-06-16",
+          "city": "Gliwice",
+          "country": "Poland",
+          "venue": "Prezero Arena",
+          "source_url": "https://deep-purple.com/tour-dates-2/"
         }
       ],
       "tour_source": "https://deep-purple.com/tour-dates-2/",
-      "tour_checked_at": "2026-10-26T20:02:55.054690+00:00",
+      "tour_checked_at": "2026-11-01T20:48:31.568653+00:00",
       "qid": "Q101505",
       "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
-      "tour_attempted_at": "2026-10-26T20:02:55.054707+00:00",
+      "tour_attempted_at": "2026-11-01T20:48:31.568667+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-27T08:28:40.401388+00:00"
     },
@@ -2167,7 +2139,7 @@
       "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
       "qid": "Q18557",
       "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
-      "tour_attempted_at": "2026-10-26T20:02:55.976331+00:00",
+      "tour_attempted_at": "2026-11-01T20:48:32.679713+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T16:05:06.871635+00:00"
     },
