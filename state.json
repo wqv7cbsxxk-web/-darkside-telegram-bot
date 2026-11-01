@@ -1267,49 +1267,19 @@
     "a555038d59352887763b9913980c53e7117158c4",
     "86d10f9e9961fdac17a993147ce3c3bb4c864bdc",
     "da8271a535672cfef92e2bcf824fa243dde5a051",
-    "23347c26c2ebb828bd176dc12e491c7c2e2fd8c5"
+    "23347c26c2ebb828bd176dc12e491c7c2e2fd8c5",
+    "cbd7bdfa2a9ca9853da6eb030472dede7e3b8347",
+    "75cbd4ec533cce4f46ccae2b2e55509e6033c580",
+    "0b7ace31677fe4f42ca603ddb79d80eedfb65d86",
+    "a9af0a643c8db158d7cefe6e88d7db1ea16bc3dc",
+    "d3745268534ea20389e7d001509df0870ca06212",
+    "31e54da188156ecfbf5a92beabd3a60f5f002e8f",
+    "1e3c5d4af4a1c8b0a3d39d4e547d53b51b256b00",
+    "df9854774902f55e89121f830d2a97467d202c14",
+    "537c6f958d6bf59f494707995c125a57c73b93ce",
+    "945ee95bc961149e307f26ba8afe38b7dc9b8f87"
   ],
   "recent_titles": [
-    {
-      "title": "Kiss announce End Of The Road documentary",
-      "source": "Louder",
-      "ts": 1793130285
-    },
-    {
-      "title": "Kingdom Of Sorrow’s Two Albums Get New Vinyl Release",
-      "source": "ThePRP",
-      "ts": 1793142964
-    },
-    {
-      "title": "My Chemical Romance Have Reportedly Scrapped Their Dallas Cowboys Cheerleaders-Styled Costumes To Resolve An Infringement Injunction",
-      "source": "ThePRP",
-      "ts": 1793142969
-    },
-    {
-      "title": "Chad Gray (Mudvayne/HELLYEAH) Debuts Music Video For His Cover Of Christina Aguilera’s “Beautiful”",
-      "source": "ThePRP",
-      "ts": 1793142979
-    },
-    {
-      "title": "BAT (Municipal Waste, Etc.) Release Their 2015 Cover Of Venom’s “Live Like An Angel (Die Like A Devil)”",
-      "source": "ThePRP",
-      "ts": 1793143017
-    },
-    {
-      "title": "Metallica’s Kirk Hammett Provides A New Reading Of Edgar Allan Poe’s ‘The Raven’",
-      "source": "ThePRP",
-      "ts": 1793143024
-    },
-    {
-      "title": "‘Desert Age: A Rock And Roll Scene History’ 10th Anniversary Due In November, Kyuss Clip Released",
-      "source": "ThePRP",
-      "ts": 1793143032
-    },
-    {
-      "title": "Rammstein’s Till Lindemann Announces 2027 European/UK Tour",
-      "source": "ThePRP",
-      "ts": 1793143035
-    },
     {
       "title": "King Gizzard & The Lizard Wizard Lay Out The Dates For Their June 2027 European Tour",
       "source": "ThePRP",
@@ -2069,6 +2039,46 @@
       "title": "Tom Morello pays tribute to late Star Trek star Sir Patrick Stewart",
       "source": "Louder",
       "ts": 1793501217
+    },
+    {
+      "title": "Новая песня WRAITH",
+      "source": "Darkside",
+      "ts": 1793526446
+    },
+    {
+      "title": "Новое видео KING BUFFALO",
+      "source": "Darkside",
+      "ts": 1793526447
+    },
+    {
+      "title": "Новый альбом THROWN выйдет осенью",
+      "source": "Darkside",
+      "ts": 1793526449
+    },
+    {
+      "title": "Here’s What Heavy Metal & Hard Rock Artists Wore For Halloween 2027",
+      "source": "ThePRP",
+      "ts": 1793526459
+    },
+    {
+      "title": "YNGWIE MALMSTEEN об ИИ: «Люди не пойдут на стадионы смотреть на роботов»",
+      "source": "Darkside",
+      "ts": 1793526460
+    },
+    {
+      "title": "James Hetfield Reveals Turnstile Said No To Touring With Metallica",
+      "source": "ThePRP",
+      "ts": 1793526485
+    },
+    {
+      "title": "How Nine Inch Nails’ Trent Reznor sneaked an obscure metal track into a Hollywood blockbuster",
+      "source": "Louder",
+      "ts": 1793526570
+    },
+    {
+      "title": "Rev3rent’s “Eyes Wide Shut” Music Video Premieres Alongside Their Debut Album",
+      "source": "ThePRP",
+      "ts": 1793526574
     }
   ],
   "initialized_sources": [
@@ -5141,18 +5151,6 @@
       "retry_after": 1793329135
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Rev3rent’s “Eyes Wide Shut” Music Video Premieres Alongside Their Debut Album",
-      "link": "https://www.theprp.com/2026/10/29/news/rev3rents-eyes-wide-shut-music-video-premieres-alongside-their-debut-album/",
-      "rss_body": "She Let The World Run Rampant is now running free.",
-      "tags": "News Rev3rent",
-      "category": "Прогрессив",
-      "published": "2026-10-30T06:20:17+00:00",
-      "id": "945ee95bc961149e307f26ba8afe38b7dc9b8f87",
-      "retry_after": 0
-    },
-    {
       "source": "Darkside",
       "priority": 95,
       "title": "Концертное видео KANONENFIEBER",
@@ -5294,7 +5292,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-30T16:00:00+00:00",
       "id": "08ebb39b299f7b325241a7c9adbb7bc599ed2af1",
-      "retry_after": 1793501503
+      "retry_after": 1793526859
     },
     {
       "source": "Metal Injection",
@@ -5306,7 +5304,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T14:25:50+00:00",
       "id": "b5a0ae71fd6d647c6f4b3dace5cd569f8dbb19da",
-      "retry_after": 1793501507
+      "retry_after": 1793526859
     },
     {
       "source": "Metal Injection",
@@ -5318,19 +5316,7 @@
       "category": "Прогрессив",
       "published": "2026-10-30T14:04:02+00:00",
       "id": "4e124e1998c509a00d6dc2bbe72d0bdcd182729e",
-      "retry_after": 1793501509
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "How Nine Inch Nails’ Trent Reznor sneaked an obscure metal track into a Hollywood blockbuster",
-      "link": "https://www.loudersound.com/news/cult-of-luna-nine-inch-nails-trent-reznor-added-khoma-song-girl-with-the-dragon-tattoo-soundtrack-david-fincher-2026",
-      "rss_body": "Cult Of Luna\n\nleader Johannes Persson has explained how\n\nNine Inch Nails\n\nmainman Trent Reznor snuck a song by his old metal band Khoma into a blockbuster film.\n\nThe Swedish singer/guitarist, who works as a casting director when he isn’t walloping audiences with post-metal, was in charge of wrangling extras for 2011’s\n\nThe Girl With The Dragon Tattoo\n\n, which was directed by David Fincher (\n\nSeven\n\n,\n\nGone Girl\n\n,\n\nMindhunter\n\n) and starred ex-\n\nJames Bond\n\nDaniel Craig.\n\nThough the two never met, Persson and Reznor were colleagues on the project, as the alt-rock star was hired to compose the score. Talking exclusively to\n\nMetal Hammer\n\n, Persson reveals that during production, Fincher and his wife/producer Ceán Chaffin asked him to send over all of his music.\n\n“Three, four weeks later, I was standing by this mountain next to David,” Persson continues, “and he hit me in the ribs with his elbow. He said, ‘I love that song.’ What? ‘The song that Trent picked.’ Trent Reznor?!”\n\nFincher then explained that Reznor had chosen Khoma’s 2006 track\n\nThe Guillotine\n\nfor inclusion in the film. “The only thing I could say was, ‘I wrote that song in 10 minutes!’” Persson remembers. “His response was, ‘Imagine how good it would have been if you spent 15 on it!’ Ha ha! But it wouldn’t have been. Sometimes things just happen.”\n\nCult Of Luna members Persson and Fredrik Kihlberg (guitars) started Khoma with singer Jan Jämte in 2002. The band made four studio albums between 2004 and 2012 but have since descended into inactivity. Persson tells\n\nHammer\n\nthat the band “could have become really, really big”, yet their momentum was scuppered by the members having outside interests.\n\n“[Jämte] worked as a journalist and then he went back to university,” he says. “I think everybody thought, ‘When we get the tour offers, studying can wait.’ But that wasn’t so.”\n\nPersson co-founded Cult Of Luna in 1998, and Kihlberg joined the lineup in 2004. Along with Neurosis and Isis, they are considered one of the biggest and most influential bands in the post-metal scene. Their 2016 collaborative album with American vocalist Julie Christmas,\n\nMariner\n\n, charted in Sweden, Finland, Belgium and Switzerland.\n\nThe band will release their 10th album,\n\nIn The Shadow Of Your Shadow\n\n, on November 6. They have a string of European and UK tour dates confirmed for February and March. Tickets are available now.",
-      "tags": "Tracks & Singles Music",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T10:00:00+00:00",
-      "id": "537c6f958d6bf59f494707995c125a57c73b93ce",
-      "retry_after": 0
+      "retry_after": 1793526859
     },
     {
       "source": "Louder",
@@ -5342,7 +5328,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T20:00:00+00:00",
       "id": "6eccad5f48d74e06d55e8d37a3c52747f5445033",
-      "retry_after": 1793501279
+      "retry_after": 1793526800
     },
     {
       "source": "Metal Injection",
@@ -5354,7 +5340,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T17:07:35+00:00",
       "id": "82391e12200ccab8ceae230ce880e59149f3d7b3",
-      "retry_after": 1793501279
+      "retry_after": 1793526800
     },
     {
       "source": "Louder",
@@ -5366,7 +5352,7 @@
       "category": "Прогрессив",
       "published": "2026-10-30T17:00:59+00:00",
       "id": "bc5d9548c4fdb1d54f86eb0814f68696e3a1a5f1",
-      "retry_after": 1793501470
+      "retry_after": 1793526854
     },
     {
       "source": "Louder",
@@ -5378,22 +5364,7 @@
       "category": "Прогрессив",
       "published": "2026-10-31T01:00:00+00:00",
       "id": "fe070e3439762e5c1b87a50b90f5892d832aa078",
-      "retry_after": 1793501271
-    },
-    {
-      "source": "Metal Injection",
-      "priority": 92,
-      "title": "James Hetfield: Turnstile Turned Down Touring With Metallica",
-      "link": "https://metalinjection.net/news/james-hetfield-turnstile-turned-down-touring-with-metallica",
-      "rss_body": "There's a lot of bands that would probably kill to play with heavy metal legends Metallica. Turnstile apparently isn't one of them. Recently, Metallica frontman James Hetfield talked about his […]",
-      "tags": "Latest News Turnstile Metallica",
-      "category": "Хэви-метал",
-      "published": "2026-10-31T16:13:07+00:00",
-      "id": "1e3c5d4af4a1c8b0a3d39d4e547d53b51b256b00",
-      "duplicate_ids": [
-        "31e54da188156ecfbf5a92beabd3a60f5f002e8f"
-      ],
-      "retry_after": 1793501260
+      "retry_after": 1793526793
     },
     {
       "source": "Louder",
@@ -5405,7 +5376,7 @@
       "category": "Прогрессив",
       "published": "2026-10-31T16:00:00+00:00",
       "id": "d44c1871502e8c2aa53ef42c1402595ff6e91c42",
-      "retry_after": 1793501266
+      "retry_after": 1793526789
     },
     {
       "source": "Metal Injection",
@@ -5417,7 +5388,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-31T15:11:39+00:00",
       "id": "6e9238f921a755bc9a3df85bdd5964b2435ae4b9",
-      "retry_after": 1793501266
+      "retry_after": 1793526789
     },
     {
       "source": "Metal Injection",
@@ -5429,7 +5400,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-31T13:39:19+00:00",
       "id": "88eda410f9e34cd0b2067fd757b52cca7fb91985",
-      "retry_after": 1793501266
+      "retry_after": 1793526789
     },
     {
       "source": "Louder",
@@ -5441,7 +5412,19 @@
       "category": "Хард-рок",
       "published": "2026-10-31T19:58:52+00:00",
       "id": "77530f8e113f3e24fbea53597f331d7bb84a4514",
-      "retry_after": 1793501255
+      "retry_after": 1793526778
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Brace yourselves, haters. Nickelback are going nowhere",
+      "link": "https://www.loudersound.com/bands-artists/i-believe-one-of-the-leading-causes-of-death-is-retirement-brace-yourselves-haters-nickelback-are-going-nowhere",
+      "rss_body": "Nickelback\n\nbassist Mike Kroeger says the band have no plans to retire – although he doubts whether they'll live long enough to match the longevity of the likes of the\n\nRolling Stones\n\n.\n\nAs the Canadian rock giants bask in the glory of the positive reviews for their new album\n\nEverything Under The Sun\n\n, Kroeger insists that their desire remains strong, even 30 years after the release of their debut album\n\nCurb\n\n.\n\nHe tells\n\nTrunk Nation With Eddie Trunk\n\n: \"We started this about 30 years ago, and I don't know why we would stop. This is too much fun. And we've had the conversations.\n\n\"It may be inconvenient or whatever to leave home for six, eight months at a stretch, but what else are you gonna do? Are you gonna sit around and watch your stock portfolio or what? You gotta do something in this life.\n\n\"I believe one of the leading causes of death is retirement. I really do believe that creating things, learning new things, finding new challenges, I think it keeps you young.\"\n\nAs well as music, martial arts is another obsession of the Alberta native. And he applies some of the principles of combat sports to how he approaches his day job.\n\n\"I'm deeply into martial arts,\" he says. \"And there's a concept in martial arts called the white-belt mentality, which is you go into every class as a beginner.\n\n\"No matter how long you've been doing it, no matter how much you know, you go into every class with an open mind and the assurance that you're gonna learn something you don't know. I think it's good for you.\"\n\nHowever long they may remain active, Kroeger doubts they'll be around as long as the seemingly immortal Stones.\n\nHe says: We're gonna go on, and I don't know if it's gonna be like the Rolling Stones because I don't know if we're gonna live that long. Those guys are awesome. They just keep going.\"\n\nNickelback recently announced an\n\nextensive world tour\n\nin support of the new album.",
+      "tags": "Bands & Artists",
+      "category": "Экстремальный метал",
+      "published": "2026-11-01T04:00:00+00:00",
+      "id": "43b32f99d49cca98b2c1643f006e531a352a9e8e",
+      "retry_after": 1793526775
     }
   ]
 }
