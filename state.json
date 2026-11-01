@@ -1287,49 +1287,18 @@
     "7b2619617ae995a39bbc6eac9508c6717e6a5392",
     "7abaedb963912cea7909732fe60f958eccd9adf4",
     "44318eec27526052423e11f6676d36660c56410c",
-    "83e33b3834cf0fc6457d44e78130d351eca01ede"
+    "83e33b3834cf0fc6457d44e78130d351eca01ede",
+    "324d7b326d725ad234631d8eaf87b52923ae324a",
+    "de89b86b5e7256b0b8dd318bf6935d9f4be2448c",
+    "47864e2dc6c72ab75ecf7f5f7624f384bd92ac32",
+    "5a9a4e3a438edf5f9b8cb4638dd3e3665e2c55f6",
+    "1429ff971dc67f2959730f30d413e04522c05e22",
+    "a31d74accaeaad9671aa034ce91baaa2ab65e874",
+    "cb6a209bc8e3af2a5bcd39d5f3b34028e3efd0c4",
+    "495f7ed00dfd2b505db421615f4e99b8b097d2bb",
+    "0eb6f2173232f289ffce94a6a79c471925b01823"
   ],
   "recent_titles": [
-    {
-      "title": "The String Cheese Incident Reveal First 2027 Tour Dates",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793177970
-    },
-    {
-      "title": "Final Gasp Stream “New Day Symptoms” B-Side Track “Aftermath”",
-      "source": "ThePRP",
-      "ts": 1793177973
-    },
-    {
-      "title": "Ozzy Osbourne’s final show Back To The Beginning to be immortalised as live album, CD and Blu-ray in December",
-      "source": "Louder",
-      "ts": 1793202943
-    },
-    {
-      "title": "AN NCS INTERVIEW: CANDACE BUCKINGHAM (WALLS OF JERICHO)",
-      "source": "No Clean Singing",
-      "ts": 1793203001
-    },
-    {
-      "title": "Have dinner with Yes and Asia's Geoff Downes",
-      "source": "Louder",
-      "ts": 1793203063
-    },
-    {
-      "title": "“My wife can send me to get milk and I’ll come back with a handbag! My brain is just too full”: Adam Wakeman on working with his dad Rick, playing Black Sabbath jazz style, War Of The Worlds, and loads of bands",
-      "source": "Louder",
-      "ts": 1793203083
-    },
-    {
-      "title": "Vote for Rock's Spookiest Album Cover: Only Eight Artists Remain",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793203268
-    },
-    {
-      "title": "Here’s This Week’s Top Ten Stories On Theprp.com (October 18th, 2026)",
-      "source": "ThePRP",
-      "ts": 1793203282
-    },
     {
       "title": "Tom Morello’s “Everyone Gets Everything They Want” Music Video Premieres",
       "source": "ThePRP",
@@ -2089,6 +2058,46 @@
       "title": "Новое видео THE DARK.FM",
       "source": "Darkside",
       "ts": 1793550638
+    },
+    {
+      "title": "Suicide Silence’s Mark Heylmun Shares Tribute To Mitch Lucker On The 14th Anniversary Of His Death",
+      "source": "ThePRP",
+      "ts": 1793566073
+    },
+    {
+      "title": "In This Moment’s In-Studio Performance Of “Whore” For SiriusXM Released",
+      "source": "ThePRP",
+      "ts": 1793566076
+    },
+    {
+      "title": "Paleface Swiss Covered Three Slipknot Songs While Dressed As Them At Last Night’s Halloween Show",
+      "source": "ThePRP",
+      "ts": 1793566079
+    },
+    {
+      "title": "Test your Rush knowledge with this incredibly tough quiz",
+      "source": "Louder",
+      "ts": 1793566082
+    },
+    {
+      "title": "“We looked the the hippies they wanted to kill!”: How Opeth survived their early days in a scene they didn’t quite fit",
+      "source": "Louder",
+      "ts": 1793566091
+    },
+    {
+      "title": "Кавер-версия хита ALICE IN CHAINS от BRASS AGAINST",
+      "source": "Darkside",
+      "ts": 1793566093
+    },
+    {
+      "title": "Новое видео THE HAUNT",
+      "source": "Darkside",
+      "ts": 1793566095
+    },
+    {
+      "title": "Watch Paleface Swiss blast through three Slipknot songs while dressed as Slipknot at their Halloween gig",
+      "source": "Louder",
+      "ts": 1793566102
     }
   ],
   "initialized_sources": [
@@ -5446,19 +5455,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-01T14:58:34+00:00",
       "id": "13488dcdfd301041f6849e1cc10828b1da51b177",
-      "retry_after": 1793550937
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Кавер-версия хита ALICE IN CHAINS от BRASS AGAINST",
-      "link": "http://www.darkside.ru/news/184893/",
-      "rss_body": "BRASS AGAINST представили видео собственного прочтения хита ALICE IN CHAINS “Them Bones”.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-01T14:10:50+00:00",
-      "id": "cb6a209bc8e3af2a5bcd39d5f3b34028e3efd0c4",
-      "retry_after": 0
+      "retry_after": 1793566392
     },
     {
       "source": "Metal Injection",
@@ -5470,31 +5467,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-01T14:00:46+00:00",
       "id": "f81facf1836d01f2608c51fca7933dab3979bd89",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео THE HAUNT",
-      "link": "http://www.darkside.ru/news/184894/",
-      "rss_body": "Cocaine, новое видео THE HAUNT, доступно для просмотра.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-01T13:20:47+00:00",
-      "id": "495f7ed00dfd2b505db421615f4e99b8b097d2bb",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Watch Paleface Swiss blast through three Slipknot songs while dressed as Slipknot at their Halloween gig",
-      "link": "https://www.loudersound.com/bands-artists/paleface-swiss-perform-as-slipknot-at-halloween-gig",
-      "rss_body": "Swiss deathcore sensations\n\nPaleface Swiss\n\ndropped a massive Halloween surprise by opening their Halloween show by playing three\n\nSlipknot\n\ncovers – while dressed as Slipknot.\n\nThe band, who were headlining Core Fest at the EWS Arena in Göppingen, teased the crowd by using the Iowa band’s\n\n742617000027\n\nas their intro music, before the curtain dropped and the band appeared clad in red boiler suits and OG Slipknot masks. The five-piece then launched into the ’Knot’s 1999 classic\n\n[sic]\n\n, followed by\n\nPeople = Shit\n\nand\n\nPsychosocial\n\n.\n\nThe performance saw frontman Marc ‘Zelli’ Zellweger wearing Corey Taylor’s original mask, complete with dreadlocks, while guitarist Yannick Lehmann wore Mick Thomson steel-plate mask, bassist Tommy Lee sported late Slipknot four-stringer Paul Grey’s famous pig mask, and drummer Luigi Paraventi was dressed as the much-missed Joey Jordison.\n\nIt’s not the first time Paleface Swiss have covered\n\nPeople = Shit\n\n, playing it at gigs in Mexico City and Dallas earlier in October.\n\nSpeaking to Metal Hammer in 2025, Zelli credited Slipknot with helping him channel and calm his teenage angst. “I'm not good at talking about emotions,” he admits. “I was walking through the streets of Switzerland listening to this really aggressive music, and I felt better. I’m not as angry as I could be because of the music. It took away all the anger that I had.”\n\nHe added that he had fanboyed out when Paleface Swiss appeared at the same festival as Slipknot in 2025\n\n“I was right next to Clown’s green room, and he was like, ‘Excuse me, can I enter my room?’” said Zelli. “I would never be brave enough to say, ‘What’s up?’”\n\nWatch footage of Paleface Swiss covering Slipknot at their Halloween gig below.\n\nA post shared by Viper. 🐍 (@destructiveviper)\n\nA photo posted by\n\nA post shared by Viper. 🐍 (@destructiveviper)\n\nA photo posted by\n\nA post shared by eLe | Concert & Festival Content Creator (@ele_inthepit)\n\nA photo posted by",
-      "tags": "Bands & Artists",
-      "category": "Экстремальный метал",
-      "published": "2026-11-01T11:20:50+00:00",
-      "id": "0eb6f2173232f289ffce94a6a79c471925b01823",
-      "retry_after": 0
+      "retry_after": 1793566394
     },
     {
       "source": "ThePRP",
@@ -5531,6 +5504,18 @@
       "published": "2026-11-01T07:43:30+00:00",
       "id": "edac1a177138614f409634e08b95b3e2c1f0594f",
       "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Here’s This Week’s Top Ten Stories On Theprp.com (November 01st, 2026)",
+      "link": "https://www.theprp.com/2026/11/01/news/heres-this-weeks-top-ten-stories-on-theprp-com-november-01st-2026/",
+      "rss_body": "Covers, anniversary tours, comics and more.",
+      "tags": "News This Week's Top Ten",
+      "category": "Хэви-метал",
+      "published": "2026-11-01T19:24:11+00:00",
+      "id": "81468641524bbc154552d96c79d8a08b66faff07",
+      "retry_after": 1793566365
     }
   ]
 }
