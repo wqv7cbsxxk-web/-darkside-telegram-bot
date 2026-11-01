@@ -1250,49 +1250,26 @@
     "eb1809b128a7b8081a3511bc805e970dd498bc83",
     "ad75ffb35dd1632a520039cd7c36350682999077",
     "6d7b856d0bd5893921016b2f69b2d3d0021bb98b",
-    "18a08afb66c854b0f607f634cdee36a9109d8ed9"
+    "18a08afb66c854b0f607f634cdee36a9109d8ed9",
+    "f7f2293e2a4fccd17e38e212d3069609e9726885",
+    "e40a08a638030069008ba635e772e2716efc03d4",
+    "826faf2de2cec7b253d034403346743102792736",
+    "76dc85da2583fcd440571115c6025729a7c12e96",
+    "c877c429cfbfb1b21f5e2c77b5459a023ad6f037",
+    "62c84ec1794aee4ac0cb20b682700f235187199c",
+    "144002f1ed4bd72325e0e28fb39d6408f231d0de",
+    "100f3c00be8f109b9844834f758f168461ca164d",
+    "5371de912c5abfa8195ccb2a9a974a95e5de010d",
+    "133988d316db7ed1d28bc7e466cb69ca887f529a",
+    "30e3ebf037950cc9d429f7dd79a68a69c1366c5f",
+    "55da2de946797d580143cb64b07f1f26d0616fb2",
+    "61cf27eea13e94efa16f17d48381835708830ca2",
+    "a555038d59352887763b9913980c53e7117158c4",
+    "86d10f9e9961fdac17a993147ce3c3bb4c864bdc",
+    "da8271a535672cfef92e2bcf824fa243dde5a051",
+    "23347c26c2ebb828bd176dc12e491c7c2e2fd8c5"
   ],
   "recent_titles": [
-    {
-      "title": "Eddie Vedder and Stephen Wilson Jr. release stunning version of Temple Of The Dog's Hunger Strike",
-      "source": "Louder",
-      "ts": 1793112499
-    },
-    {
-      "title": "Parkway Drive Set North American, Etc. Premiere Dates For Their New Concert Film ‘Parkway Drive: Home’",
-      "source": "ThePRP",
-      "ts": 1793130215
-    },
-    {
-      "title": "Watch: Queens Of The Stone Age Gave A Live Debut To Two “Perfecth” Tracks During Their Recent Iceland Concert",
-      "source": "ThePRP",
-      "ts": 1793130228
-    },
-    {
-      "title": "Gaerea Begin “Shallow” Remix Series With Paranormal Attack Collaboration",
-      "source": "ThePRP",
-      "ts": 1793130232
-    },
-    {
-      "title": "Void Sector Zero (Revocation, Ex-Obscura, Etc.) Premiere “Extraterrestrial Disassembly” Music Video",
-      "source": "ThePRP",
-      "ts": 1793130239
-    },
-    {
-      "title": "Hum Announce 2027 U.S. Tour With Pelican, Spotlights & The Life And Times",
-      "source": "ThePRP",
-      "ts": 1793130244
-    },
-    {
-      "title": "After The Burial Scrap Their 2026 Australian & Japan Tour, Plan New Album For Next Year",
-      "source": "ThePRP",
-      "ts": 1793130249
-    },
-    {
-      "title": "Shinedown Set Dates For 2027 ‘Lunatic Ball’ Festival",
-      "source": "ThePRP",
-      "ts": 1793130272
-    },
     {
       "title": "Kiss announce End Of The Road documentary",
       "source": "Louder",
@@ -2052,6 +2029,46 @@
       "title": "Новое видео CRITICAL FEAR",
       "source": "Darkside",
       "ts": 1793490575
+    },
+    {
+      "title": "How Venom made their unholy masterpiece Black Metal and changed the course of metal",
+      "source": "Louder",
+      "ts": 1793500947
+    },
+    {
+      "title": "Inaugural European/UK Edition Lamb Of God’s ‘Headbangers Boat’ Cruise Set For 2027",
+      "source": "ThePRP",
+      "ts": 1793500959
+    },
+    {
+      "title": "DAVID ELLEFSON нашел сходство между песнями METALLICA и MEGADETH",
+      "source": "Darkside",
+      "ts": 1793500962
+    },
+    {
+      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): COMPLORATIO — “COMPLORATIO”",
+      "source": "No Clean Singing",
+      "ts": 1793501198
+    },
+    {
+      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ THY ART IS MURDER",
+      "source": "Darkside",
+      "ts": 1793501205
+    },
+    {
+      "title": "пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ KISS? пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ GENE SIMMONS",
+      "source": "Darkside",
+      "ts": 1793501208
+    },
+    {
+      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ FUTURE STATIC",
+      "source": "Darkside",
+      "ts": 1793501210
+    },
+    {
+      "title": "Tom Morello pays tribute to late Star Trek star Sir Patrick Stewart",
+      "source": "Louder",
+      "ts": 1793501217
     }
   ],
   "initialized_sources": [
@@ -4920,18 +4937,6 @@
       "retry_after": 0
     },
     {
-      "source": "Metal Injection",
-      "priority": 92,
-      "title": "Listen: 200 Stab Wounds Debuts Grimey New Single, “Sweet Suicide”",
-      "link": "https://metalinjection.net/new-music/listen-200-stab-wounds-debuts-grimey-new-single-sweet-suicide",
-      "rss_body": "Their third LP, 'Lowest Form,' comes out February 29 on Metal Blade Records.",
-      "tags": "New Music featured 200 Stab Wounds",
-      "category": "Хэви-метал",
-      "published": "2026-10-29T17:31:23+00:00",
-      "id": "62c84ec1794aee4ac0cb20b682700f235187199c",
-      "retry_after": 0
-    },
-    {
       "source": "ThePRP",
       "priority": 88,
       "title": "Korn, Bad Omens, Pierce The Veil & Blink-182 To Headline 2027 ‘Welcome To Rockville’",
@@ -5136,18 +5141,6 @@
       "retry_after": 1793329135
     },
     {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Aerosmith Makes Star-Studded Return at Hollywood Bowl",
-      "link": "https://ultimateclassicrock.com/aerosmith-hollywood-bowl-concert-videos-set-list/",
-      "rss_body": "Photo Credit: Kevin Mazur / Getty Images for Live Nation Entertainment",
-      "tags": "News Set List Aerosmith Dave Grohl UCR",
-      "category": "Хард-рок",
-      "published": "2026-10-30T08:09:28+00:00",
-      "id": "5371de912c5abfa8195ccb2a9a974a95e5de010d",
-      "retry_after": 1793353364
-    },
-    {
       "source": "ThePRP",
       "priority": 88,
       "title": "Rev3rent’s “Eyes Wide Shut” Music Video Premieres Alongside Their Debut Album",
@@ -5193,18 +5186,6 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T05:46:59+00:00",
       "id": "b6533917e0f97e8aaf7c0ee3135fa39a67dad267",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Aerosmith & Friends at the Hollywood Bowl – the full setlist from a historic night in Tinseltown",
-      "link": "https://www.loudersound.com/bands-artists/concerts-shows/aerosmith-california-dream-on-hollywood-bowl",
-      "rss_body": "It's been 1147 days since\n\nAerosmith\n\nlast stepped onto the stage together, and more than six years since drummer Joey Kramer was part of the package.\n\nSince abandoning the Peace Out... Farewell Tour after just three shows in 2023 – when frontman Steven Tyler suffered vocal cord injuries and a fractured larynx during a show in Elmont, NY – it's often seemed unlikely that the band would ever play again.\n\n\"I'm not sure I would want to go out and book another 40-city tour,\" said Joe Perry last year, explaining that Tyler was no longer interested in hitting the road. \"It's a long way to the top, and staying there takes it out of you, especially an Aerosmith tour.\"\n\nPerry also offered a glimmer of hope. \"I would bet that there's an Aerosmith show left,\" he said. \"There's been talk about doing a documentary, that might be part of it.\"\n\nWhile Perry toured with the\n\nHollywood Vampires\n\nand his own Joe Perry Project – joined by fellow Aerosmith guitarist Brad Whitford – bassist Tom Hamilton formed a new band, Close Enemies, whose debut album was released in March. Meanwhile, drummer Joey Kramer was working his way back to fitness after suffering a series of health problems: a shoulder injury, an ankle injury, and triple-bypass heart surgery.\n\n\"When you've got five knuckleheads that all think the same way that we do, anything can happen,\" Kramer said earlier this year. \"How did we all get put together to begin with, you know? It's sort of incomplete, the way that it ended – or tried to end.\"\n\nTyler was also on the mend. He returned to the stage in 2024 when he\n\nguested at a Black Crowes show in London\n\n, then at his\n\nJam For Janie\n\ncharity fundraiser, before appearing\n\nwith Perry\n\nfor the first time since 2023. The duo also appeared together at a\n\nJoe Perry Project show\n\n, and at MTV's annual Video Music Awards, where they\n\njoined Yungblood onstage\n\nto pay tribute to Ozzy Osbourne.\n\nEverything had fallen into place. Which gets us to where we are today: The Hollywood Bowl in Los Angeles and Aerosmith & Friends' California: Dream On, an all-star,\n\nBack To The Beginning\n\n-style celebration of the Bad Boys from Boston, hosted by Bill Burr. Would Joey Kramer perform? Are all five founding members of Aerosmith officially back in the saddle again?\n\nThe full setlist is below, with a core house band that includes Don Was, Nuno Bettencourt, Kenny Aronoff, Chad Smith, Andrew Watt, Mike Inez and others backing several guest musicians before the\n\nBlack Crowes\n\n,\n\nGuns N' Roses\n\nand Aerosmith arrive to complete the historic night.\n\nAerosmith and Friends: California Dream On setlist\n\nMake It (Sully Erna, Godsmack)\n\nLightning Strikes (Sully Erna, Godsmack)\n\nLord Of The Thighs (Warren Hayes)\n\nWalkin' The Dog (Warren Haynes)\n\nLivin' On The Edge (Billy Idol and Steve Stevens)\n\nDraw The Line (Sammy Hagar)\n\nHelter Skelter (Sammy Hagar)\n\nNever Loved A Man (Heart)\n\nJanie’s Got A Gun (Heart)\n\nRag Doll (Eric Church)\n\nI Don’t Want To Miss A Thing (Eric Church)\n\nLet The Music Do The Talking (Black Crowes)\n\nWrite Me A Letter (Black Crowes)\n\nCombination (Black Crowes)\n\nNo More No More (Black Crowes)\n\nChip Away The Stone (Black Crowes)\n\nNobody’s Fault (Guns N' Roses)\n\nLast Child (Guns N' Roses)\n\nSeasons Of Wither (Guns N' Roses)\n\nWelcome To The Jungle (Guns N' Roses)\n\nParadise City (Guns N' Roses)\n\nToys In The Attic (Aerosmith with Dave Grohl on drums)\n\nBack In The Saddle (Aerosmith with Dave Grohl)\n\nSweet Emotion (Aerosmith with Dave Grohl)\n\nDream On (Aerosmith with Dave Grohl)\n\nTrain Kept A Rollin' (Aerosmith with Dave Grohl, Johnny Depp on guitar)\n\nWalk This Way (Aerosmith with Joey Kramer and John Douglas on drums)",
-      "tags": "Concerts & Shows Bands & Artists Live Performances",
-      "category": "Прогрессив",
-      "published": "2026-10-30T05:41:19+00:00",
-      "id": "133988d316db7ed1d28bc7e466cb69ca887f529a",
       "retry_after": 0
     },
     {
@@ -5313,19 +5294,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-30T16:00:00+00:00",
       "id": "08ebb39b299f7b325241a7c9adbb7bc599ed2af1",
-      "retry_after": 1793377295
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "Watch Heart Put Their Spin on Aerosmith's 'Janie's Got a Gun'",
-      "link": "https://ultimateclassicrock.com/heart-aerosmith-janies-got-a-gun/",
-      "rss_body": "The Wilson sisters offered a change of pace at Aerosmith’s ‘California Dream On’ concert.",
-      "tags": "News Aerosmith Heart UCR",
-      "category": "Хард-рок",
-      "published": "2026-10-30T14:46:51+00:00",
-      "id": "100f3c00be8f109b9844834f758f168461ca164d",
-      "retry_after": 1793377337
+      "retry_after": 1793501503
     },
     {
       "source": "Metal Injection",
@@ -5337,7 +5306,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T14:25:50+00:00",
       "id": "b5a0ae71fd6d647c6f4b3dace5cd569f8dbb19da",
-      "retry_after": 1793377338
+      "retry_after": 1793501507
     },
     {
       "source": "Metal Injection",
@@ -5349,19 +5318,7 @@
       "category": "Прогрессив",
       "published": "2026-10-30T14:04:02+00:00",
       "id": "4e124e1998c509a00d6dc2bbe72d0bdcd182729e",
-      "retry_after": 1793377338
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Tom Morello pays tribute to late Star Trek star Sir Patrick Stewart",
-      "link": "https://www.loudersound.com/culture/films-tv-shows/tom-morello-sir-patrick-stewart-tribute-star-trek",
-      "rss_body": "Tom Morello\n\nhas paid tribute to late\n\nStar Trek\n\nactor Sir Patrick Stewart\n\nThe Rage Against The Machine guitarist and self-professed Star Trek “nerd” made an uncredited cameo in the 1998 movie\n\nStar Trek: Insurrection\n\n, appearing alongside Stewart in one brief scene.\n\n“God bless you and thank you for your brilliance and your humanity, Captain,” wrote Morello on Instagram.\n\nStewart, who died of Alzheimer's disease and Lewy body dementia at the age of 86, rose to international fame playing Captain Jean-Luc Picard in the TV series\n\nStar Trek: The Next Generation\n\n, which ran between 1987 and 1994, reprising the role in four feature films.\n\nMorello’s non-speaking, blink-and-you’ll-miss-it appearance in\n\nStar Trek: Insurrection\n\nsaw the guitarist play a Son’a officer, one of the movie’s bad guys, while sporting prosthetic alien make-up.\n\n“If you didn’t know I was in it, then you’d miss me. I was so heavily made up,” Morello told\n\nMetal Hammer\n\nin 2006.\n\nA post shared by Tom Morello (@tommorello)\n\nA photo posted by",
-      "tags": "Films & TV Shows Culture",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T11:10:56+00:00",
-      "id": "23347c26c2ebb828bd176dc12e491c7c2e2fd8c5",
-      "retry_after": 0
+      "retry_after": 1793501509
     },
     {
       "source": "Louder",
@@ -5385,7 +5342,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T20:00:00+00:00",
       "id": "6eccad5f48d74e06d55e8d37a3c52747f5445033",
-      "retry_after": 1793468777
+      "retry_after": 1793501279
     },
     {
       "source": "Metal Injection",
@@ -5397,23 +5354,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T17:07:35+00:00",
       "id": "82391e12200ccab8ceae230ce880e59149f3d7b3",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео 200 STAB WOUNDS",
-      "link": "http://www.darkside.ru/news/184876/",
-      "rss_body": "\"Sweet Suicide\", новое видео группы 200 STAB WOUNDS, доступно для просмотра ниже. Эта песня взята из альбома \"Lowest Form\", выходящего 19 февраля на Metal Blade Records. За оформление отвечал James Bousema (MUNICIPAL WASTE, FROZEN SOUL), а продюсирование, сведение и мастеринг проводил Arthur Rizk (POWER TRIP, CAVALERA)\n\nТрек-лист:\n\n01. Pangs Of Conscience\n\n02. Wicked Butchery\n\n03. Sweet Suicide\n\n04. Methodically Slaughtered\n\n05. Symbolic In Glory\n\n06. Psychopomp\n\n07. Taste Of Betrayal…The Ultimate Consequence\n\n08. Punishment Eternal\n\n«Мы очень рады, что наконец-то можем представить миру альбом „Lowest Form“. Мы работали над этим альбомом усерднее, чем над чем-либо другим в нашей жизни. Мы очень гордимся этой пластинкой и надеемся, что вам она понравится так же, как и нам. Увидимся где-нибудь в мире. За новую главу!»",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T17:06:04+00:00",
-      "id": "76dc85da2583fcd440571115c6025729a7c12e96",
-      "duplicate_ids": [
-        "c877c429cfbfb1b21f5e2c77b5459a023ad6f037",
-        "62c84ec1794aee4ac0cb20b682700f235187199c"
-      ],
-      "retry_after": 0
+      "retry_after": 1793501279
     },
     {
       "source": "Louder",
@@ -5425,96 +5366,7 @@
       "category": "Прогрессив",
       "published": "2026-10-30T17:00:59+00:00",
       "id": "bc5d9548c4fdb1d54f86eb0814f68696e3a1a5f1",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "AEROSMITH пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
-      "link": "http://www.darkside.ru/news/184903/",
-      "rss_body": "AEROSMITH пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 29 пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Hollywood Bowl. Joey Kramer пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2020 пїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ Steven Tyler пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ:\n\nпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Joe, Tom, Brad пїЅ Joey. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅ пїЅпїЅ пїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ.\n\nпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ \"California Dream On: Aerosmith & Friends\":\n\n01. Make It (Sully Erna of Godsmack)\n\n02. Lightning Strikes (Sully Erna of Godsmack)\n\n03. Lord Of The Thighs (Warren Hayes)\n\n04. Walkin' The Dog (Warren Haynes)\n\n05. Livin' On The Edge (Billy Idol and Steve Stevens)\n\n06. Draw The Line (Sammy Hagar)\n\n07. Helter Skelter (Sammy Hagar)\n\n08. Never Loved A Man (HEART)\n\n09. JanieпїЅs Got A Gun (HEART)\n\n10. Rag Doll (Eric Church)\n\n11. I DonпїЅt Want To Miss A Thing (Eric Church)\n\n12. Let The Music Do The Talking (THE BLACK CROWES)\n\n13. Write Me A Letter (THE BLACK CROWES)\n\n14. Combination (THE BLACK CROWES)\n\n15. No More No More (THE BLACK CROWES)\n\n16. Chip Away The Stone (THE BLACK CROWES)\n\n17. Nobody's Fault (GUNS N' ROSES)\n\n18. Last Child (GUNS N' ROSES)\n\n19. Seasons Of Wither (GUNS N' ROSES)\n\n20. Welcome To The Jungle (GUNS N' ROSES)\n\n21. Paradise City (GUNS N' ROSES)\n\n22. Toys In The Attic (AEROSMITH with Dave Grohl on drums)\n\n23. Back In The Saddle (AEROSMITH with Dave Grohl on drums)\n\n24. Sweet Emotion (AEROSMITH with Dave Grohl on drums)\n\n25. Dream On (AEROSMITH with Dave Grohl on drums)\n\n26. The Train Kept A-Rollin' (AEROSMITH with Dave Grohl on drums, Johnny Depp on guitar)\n\n27. Walk This Way (AEROSMITH with Joey Kramer and John Douglas on drums)",
-      "tags": "",
-      "category": "Прогрессив",
-      "published": "2026-10-30T16:37:44+00:00",
-      "id": "144002f1ed4bd72325e0e28fb39d6408f231d0de",
-      "duplicate_ids": [
-        "100f3c00be8f109b9844834f758f168461ca164d",
-        "5371de912c5abfa8195ccb2a9a974a95e5de010d",
-        "133988d316db7ed1d28bc7e466cb69ca887f529a"
-      ],
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): COMPLORATIO — “COMPLORATIO”",
-      "link": "https://www.nocleansinging.com/2026/10/30/an-ncs-album-premiere-and-a-review-comploratio-comploratio/",
-      "rss_body": "(written by Islander) Today we help introduce the world to Comploratio, or at least the miniscule fraction of the global populus who find catharsis or solace in abject funeral doom. Comploratio is a different kind of venture for its sole creator Jon Rosenthal, whose extensive musical resume includes such bands as Bergtagen (mentioned first because\n\n[...]",
-      "tags": "Album Reviews Premieres Comploratio",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T16:16:21+00:00",
-      "id": "30e3ebf037950cc9d429f7dd79a68a69c1366c5f",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ GREEN LUNG",
-      "link": "http://www.darkside.ru/news/184878/",
-      "rss_body": "Ozymandias, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ GREEN LUNG, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ Necropolitan, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 11 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Nuclear Blast Records:\n\n1. Open the Hellmouth 01:49\n\n2. Dance to the Grave 05:17\n\n3. Black Magick Radio 05:01\n\n4. Necropolitan Line 03:54\n\n5. Evil in This House 04:21\n\n6. Together in Death 04:31\n\n7. Ozymandias 05:35\n\n8. Alostrael (Be My Babalon) 04:28\n\n9. To the Gallows Born 05:58",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T15:51:50+00:00",
-      "id": "55da2de946797d580143cb64b07f1f26d0616fb2",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ THY ART IS MURDER",
-      "link": "http://www.darkside.ru/news/184880/",
-      "rss_body": "Bermuda, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ THY ART IS MURDER, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. \"Bermuda\" пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅGodlikeпїЅ. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ Human Warfare 22 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:\n\n1. Destroyer Of Dreams\n\n2. Blood Throne\n\n3. Join Me In Armageddon\n\n4. Keres\n\n5. Everything Unwanted\n\n6. Lesson In Pain\n\n7. Godlike\n\n8. Corrosion\n\n9. Anathema\n\n10. Bermuda",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T15:14:43+00:00",
-      "id": "61cf27eea13e94efa16f17d48381835708830ca2",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ KISS? пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ GENE SIMMONS",
-      "link": "http://www.darkside.ru/news/184864/",
-      "rss_body": "пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ KISS GENE SIMMONS пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅKiss: End Of The RoadпїЅ. пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Pophouse пїЅ Mercury Studios, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ-пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ (пїЅTerror In The WoodsпїЅ), пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Big Dreams Entertainment пїЅ Elemeno Productions. пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 19 пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅ Kiswe, пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.\n\nпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅKiss: End Of The RoadпїЅ, GENE пїЅпїЅпїЅпїЅпїЅпїЅпїЅ:\n\nпїЅпїЅпїЅ, KISS пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ: пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ.\n\nпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ-пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ: пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ. ЧёпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, KISS пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ.\n\nпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ KISS пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ.\n\nпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ KISS пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, GENE пїЅпїЅпїЅпїЅпїЅпїЅ:\n\nпїЅпїЅпїЅ, пїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Pophouse, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ KISS.\n\nпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ KISS пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ. пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ.\n\nпїЅпїЅпїЅпїЅпїЅпїЅ 70 пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅ пїЅ 50пїЅ60 пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ 77, пїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅ Pophouse пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.\n\nпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ KISS, пїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ, пїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ. пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ KISS. пїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ.\n\nпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ KISS пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ $14,99. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅKISS Kruise: Land-Locked In VegasпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 13пїЅ15 пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ Virgin Hotels Las Vegas.\n\nKISS пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2023 пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Madison Square Garden. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2 пїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2023 пїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ pay-per-view.\n\n#Kiss #Rock #_Rock #GrungeRock #Grunge_Rock #HardRock #Hard_Rock #SymphonicRock #Symphonic_Rock #AcousticRock #Acoustic_Rock #GlamMetal #Glam_Metal #Hard 'n' Heavy #_Hard 'n' Heavy #RockHard 'n' Heavy #Rock_Hard 'n' Heavy #GlamHard 'n' Heavy #Glam_Hard 'n' Heavy",
-      "tags": "",
-      "category": "Хард-рок",
-      "published": "2026-10-30T14:13:39+00:00",
-      "id": "a555038d59352887763b9913980c53e7117158c4",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ BLIND CHANNEL",
-      "link": "http://www.darkside.ru/news/184875/",
-      "rss_body": "Messiah, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ BLIND CHANNEL, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ \"Painstream\", пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ:\n\n01. Messiah\n\n02. Youthanasia\n\n03. Stars We See\n\n04. Into The Void (feat. Aaron Pauley of OF MICE & MEN)\n\n05. Types Of Killing\n\n06. Revolution: Now\n\n07. Me Versus Me\n\n08. Scapegoat\n\n09. Villain In Your Story\n\n10. Diana\n\n11. No Encores In A Swan Song\n\n12. Ache",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T13:37:37+00:00",
-      "id": "86d10f9e9961fdac17a993147ce3c3bb4c864bdc",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ FUTURE STATIC",
-      "link": "http://www.darkside.ru/news/184658/",
-      "rss_body": "\"Waterworks\", пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ FUTURE STATIC, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ Ornaments & Memories, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Wild Thing Records:\n\nEphemeral\n\nThereпїЅs Nowhere Else To Go\n\nSwing\n\nDream Suite\n\nThe Picture In You\n\nOff The Map\n\nCloser Than You Think\n\nOrnaments & Memories\n\nState Of Mind\n\nOdyssey\n\nWaterworks\n\nSubcritical Flow\n\nLux\n\nAmariah Cook: пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ: пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ. пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅWaterworksпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅ, пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ, пїЅ пїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ?пїЅ",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T12:54:10+00:00",
-      "id": "da8271a535672cfef92e2bcf824fa243dde5a051",
-      "retry_after": 0
+      "retry_after": 1793501470
     },
     {
       "source": "Louder",
@@ -5526,19 +5378,7 @@
       "category": "Прогрессив",
       "published": "2026-10-31T01:00:00+00:00",
       "id": "fe070e3439762e5c1b87a50b90f5892d832aa078",
-      "retry_after": 1793468768
-    },
-    {
-      "source": "Metal Injection",
-      "priority": 92,
-      "title": "200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week",
-      "link": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week",
-      "rss_body": "As well as picks from Native James, Enslaved, Gaera, and more.",
-      "tags": "Top Tracks Of The Week Darkest Hour Enslaved Fit For A King Eidola Currents 200 Stab Wounds Native James rev3rent Genital Shame Gaera",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T16:15:42+00:00",
-      "id": "c877c429cfbfb1b21f5e2c77b5459a023ad6f037",
-      "retry_after": 0
+      "retry_after": 1793501271
     },
     {
       "source": "Metal Injection",
@@ -5553,7 +5393,7 @@
       "duplicate_ids": [
         "31e54da188156ecfbf5a92beabd3a60f5f002e8f"
       ],
-      "retry_after": 1793468679
+      "retry_after": 1793501260
     },
     {
       "source": "Louder",
@@ -5565,7 +5405,7 @@
       "category": "Прогрессив",
       "published": "2026-10-31T16:00:00+00:00",
       "id": "d44c1871502e8c2aa53ef42c1402595ff6e91c42",
-      "retry_after": 1793468725
+      "retry_after": 1793501266
     },
     {
       "source": "Metal Injection",
@@ -5577,7 +5417,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-31T15:11:39+00:00",
       "id": "6e9238f921a755bc9a3df85bdd5964b2435ae4b9",
-      "retry_after": 1793468737
+      "retry_after": 1793501266
     },
     {
       "source": "Metal Injection",
@@ -5589,7 +5429,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-31T13:39:19+00:00",
       "id": "88eda410f9e34cd0b2067fd757b52cca7fb91985",
-      "retry_after": 1793468737
+      "retry_after": 1793501266
     },
     {
       "source": "Louder",
@@ -5601,31 +5441,7 @@
       "category": "Хард-рок",
       "published": "2026-10-31T19:58:52+00:00",
       "id": "77530f8e113f3e24fbea53597f331d7bb84a4514",
-      "retry_after": 1793490794
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Inaugural European/UK Edition Lamb Of God’s ‘Headbangers Boat’ Cruise Set For 2027",
-      "link": "https://www.theprp.com/2026/10/31/news/inaugural-european-uk-edition-lamb-of-gods-headbangers-boat-cruise-set-for-2027/",
-      "rss_body": "Featuring Lamb Of God, Paleface Swiss, Bleed From Within, Kublai Khan TX and more.",
-      "tags": "News Bleed From Within Headbangers Boat Heriot Kublai Khan TX Lamb Of God Paleface Swiss Shadows Fall",
-      "category": "Хэви-метал",
-      "published": "2026-10-31T18:09:55+00:00",
-      "id": "e40a08a638030069008ba635e772e2716efc03d4",
-      "retry_after": 1793490805
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "DAVID ELLEFSON нашел сходство между песнями METALLICA и MEGADETH",
-      "link": "http://www.darkside.ru/news/184890/",
-      "rss_body": "DAVID ELLEFSON вспомнил, как впервые услышал песню METALLICA «Enter Sandman» и понял, что в ней звучит та же самая молитва, которую Megadeth использовали в композиции «Go To Hell».\n\nВ разговоре с eonmusic David рассказал, что услышал песню METALLICA, когда ехал по шоссе 405 в Лос-Анджелесе. Это совпадение сразу привлекло его внимание, ведь в «Go To Hell» тоже звучит традиционная детская молитва «Now I Lay Me Down To Sleep»:\n\n«Помню, я ехал по шоссе 405, и по радио KNAC играла \"Enter Sandman\". Я услышал в ней эту молитву и подумал: \"Погодите-ка, это же та самая молитва, которую мы использовали в \"Go To Hell\"».\n\nОбе песни вышли в 1991 году, поэтому сходство было особенно поразительным. «Go To Hell» группы Megadeth вошла в саундтрек к фильму «Новые приключения Билла и Теда», а «Enter Sandman» группы METALLICA стала одной из самых ярких композиций из одноимённого альбома группы.\n\nПо словам David'а, это совпадение было чистой случайностью. Услышав эти две песни подряд, он задумался о том, насколько вероятна была эта связь:\n\n«Это был один из тех случаев, когда думаешь: \"Какова вероятность подобного совпадения?\"»\n\nDavid также рассказал о взаимоотношениях двух групп в то время. METALLICA зарекомендовала себя как одна из ведущих групп зарождающегося трэш-металл-движения, а MEGADETH, SLAYER и ANTHRAX развивались параллельно с ней.\n\n«Это как генеалогическое древо металла», — объяснил David, отметив, что METALLICA проложила путь для целого поколения последовавших за ней групп.\n\n#David_Ellefson #DavidEllefson #Hard 'n' Heavy #_Hard 'n' Heavy",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-31T16:11:16+00:00",
-      "id": "826faf2de2cec7b253d034403346743102792736",
-      "retry_after": 0
+      "retry_after": 1793501255
     }
   ]
 }
