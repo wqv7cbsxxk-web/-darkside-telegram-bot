@@ -1277,49 +1277,19 @@
     "1e3c5d4af4a1c8b0a3d39d4e547d53b51b256b00",
     "df9854774902f55e89121f830d2a97467d202c14",
     "537c6f958d6bf59f494707995c125a57c73b93ce",
-    "945ee95bc961149e307f26ba8afe38b7dc9b8f87"
+    "945ee95bc961149e307f26ba8afe38b7dc9b8f87",
+    "ab74a41a3fda2da78246d9b04e1b6bb6382723d5",
+    "f25320c200d866ab88582aabb8ff35196177c634",
+    "71da8dc6b1e298f99c4cc2aed578170c2358eefb",
+    "844c3fc762bf06398515517c52c98ff287efafd2",
+    "d6525fdfbf6daf017f656b57d83f882614d8d2f7",
+    "d1927bec4a0f899f1fa84fca332b90b137703923",
+    "7b2619617ae995a39bbc6eac9508c6717e6a5392",
+    "7abaedb963912cea7909732fe60f958eccd9adf4",
+    "44318eec27526052423e11f6676d36660c56410c",
+    "83e33b3834cf0fc6457d44e78130d351eca01ede"
   ],
   "recent_titles": [
-    {
-      "title": "King Gizzard & The Lizard Wizard Lay Out The Dates For Their June 2027 European Tour",
-      "source": "ThePRP",
-      "ts": 1793143089
-    },
-    {
-      "title": "Every song on Never Mind The Bollocks ranked from worst to best",
-      "source": "Louder",
-      "ts": 1793154444
-    },
-    {
-      "title": "‘Neil Peart: No One’s Disciple’ Documentary Released In Full For Free",
-      "source": "ThePRP",
-      "ts": 1793154485
-    },
-    {
-      "title": "Get in the Halloween spirit by having Kirk Hammett read you Edgar Allen Poe, soundtracked by a Metallica song",
-      "source": "Louder",
-      "ts": 1793154500
-    },
-    {
-      "title": "Video Premiere: Cavernous Maw – “The Yeti Approaches the Wall”",
-      "source": "Decibel",
-      "ts": 1793154568
-    },
-    {
-      "title": "Korn just played their first UK show since headlining Download last year – see the setlist and watch videos here",
-      "source": "Louder",
-      "ts": 1793154582
-    },
-    {
-      "title": "NØ MAN – BETWEEN THE SWORD AND THE NECK",
-      "source": "No Clean Singing",
-      "ts": 1793154609
-    },
-    {
-      "title": "Live Review: DYING FETUS and SANGUISUGABOGG at Emo’s (Austin, TX – 10/15/26)",
-      "source": "Decibel",
-      "ts": 1793154624
-    },
     {
       "title": "The String Cheese Incident Reveal First 2027 Tour Dates",
       "source": "Ultimate Classic Rock",
@@ -2079,6 +2049,46 @@
       "title": "Rev3rent’s “Eyes Wide Shut” Music Video Premieres Alongside Their Debut Album",
       "source": "ThePRP",
       "ts": 1793526574
+    },
+    {
+      "title": "Новое видео CRYSTAL EYES",
+      "source": "Darkside",
+      "ts": 1793550558
+    },
+    {
+      "title": "CHEAP TRICK: «Нам нужно немного отдохнуть»",
+      "source": "Darkside",
+      "ts": 1793550559
+    },
+    {
+      "title": "Видео полного выступления SLAYER",
+      "source": "Darkside",
+      "ts": 1793550561
+    },
+    {
+      "title": "Новое видео NORMANDIE",
+      "source": "Darkside",
+      "ts": 1793550563
+    },
+    {
+      "title": "How Saint Agnes overcame tragedy and industry interference",
+      "source": "Louder",
+      "ts": 1793550587
+    },
+    {
+      "title": "Новое видео UNZUCHT",
+      "source": "Darkside",
+      "ts": 1793550589
+    },
+    {
+      "title": "THE SYNN REPORT (PART 200): IAPETUS",
+      "source": "No Clean Singing",
+      "ts": 1793550636
+    },
+    {
+      "title": "Новое видео THE DARK.FM",
+      "source": "Darkside",
+      "ts": 1793550638
     }
   ],
   "initialized_sources": [
@@ -5425,6 +5435,102 @@
       "published": "2026-11-01T04:00:00+00:00",
       "id": "43b32f99d49cca98b2c1643f006e531a352a9e8e",
       "retry_after": 1793526775
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Nene Royal Covers Slipknot's \"Psychosocial\" For Halloween",
+      "link": "https://metalinjection.net/news/watch-nene-royal-covers-slipknots-psychosocial-for-halloween",
+      "rss_body": "She's gearing up for a generational run.",
+      "tags": "Latest News Nene Royal",
+      "category": "Хэви-метал",
+      "published": "2026-11-01T14:58:34+00:00",
+      "id": "13488dcdfd301041f6849e1cc10828b1da51b177",
+      "retry_after": 1793550937
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Кавер-версия хита ALICE IN CHAINS от BRASS AGAINST",
+      "link": "http://www.darkside.ru/news/184893/",
+      "rss_body": "BRASS AGAINST представили видео собственного прочтения хита ALICE IN CHAINS “Them Bones”.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-01T14:10:50+00:00",
+      "id": "cb6a209bc8e3af2a5bcd39d5f3b34028e3efd0c4",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The 10 Metal Drummers That Are Almost Impossible To Replicate",
+      "link": "https://metalinjection.net/news/the-10-metal-drummers-that-are-almost-impossible-to-replicate",
+      "rss_body": "Jazz swing, thrash-speed double bass, tribal rhythms, polyrhythm and shifting time signatures: ten drummers who changed what a metal kit can do",
+      "tags": "Latest News Meshuggah Gojira featured1",
+      "category": "Хэви-метал",
+      "published": "2026-11-01T14:00:46+00:00",
+      "id": "f81facf1836d01f2608c51fca7933dab3979bd89",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео THE HAUNT",
+      "link": "http://www.darkside.ru/news/184894/",
+      "rss_body": "Cocaine, новое видео THE HAUNT, доступно для просмотра.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-01T13:20:47+00:00",
+      "id": "495f7ed00dfd2b505db421615f4e99b8b097d2bb",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Watch Paleface Swiss blast through three Slipknot songs while dressed as Slipknot at their Halloween gig",
+      "link": "https://www.loudersound.com/bands-artists/paleface-swiss-perform-as-slipknot-at-halloween-gig",
+      "rss_body": "Swiss deathcore sensations\n\nPaleface Swiss\n\ndropped a massive Halloween surprise by opening their Halloween show by playing three\n\nSlipknot\n\ncovers – while dressed as Slipknot.\n\nThe band, who were headlining Core Fest at the EWS Arena in Göppingen, teased the crowd by using the Iowa band’s\n\n742617000027\n\nas their intro music, before the curtain dropped and the band appeared clad in red boiler suits and OG Slipknot masks. The five-piece then launched into the ’Knot’s 1999 classic\n\n[sic]\n\n, followed by\n\nPeople = Shit\n\nand\n\nPsychosocial\n\n.\n\nThe performance saw frontman Marc ‘Zelli’ Zellweger wearing Corey Taylor’s original mask, complete with dreadlocks, while guitarist Yannick Lehmann wore Mick Thomson steel-plate mask, bassist Tommy Lee sported late Slipknot four-stringer Paul Grey’s famous pig mask, and drummer Luigi Paraventi was dressed as the much-missed Joey Jordison.\n\nIt’s not the first time Paleface Swiss have covered\n\nPeople = Shit\n\n, playing it at gigs in Mexico City and Dallas earlier in October.\n\nSpeaking to Metal Hammer in 2025, Zelli credited Slipknot with helping him channel and calm his teenage angst. “I'm not good at talking about emotions,” he admits. “I was walking through the streets of Switzerland listening to this really aggressive music, and I felt better. I’m not as angry as I could be because of the music. It took away all the anger that I had.”\n\nHe added that he had fanboyed out when Paleface Swiss appeared at the same festival as Slipknot in 2025\n\n“I was right next to Clown’s green room, and he was like, ‘Excuse me, can I enter my room?’” said Zelli. “I would never be brave enough to say, ‘What’s up?’”\n\nWatch footage of Paleface Swiss covering Slipknot at their Halloween gig below.\n\nA post shared by Viper. 🐍 (@destructiveviper)\n\nA photo posted by\n\nA post shared by Viper. 🐍 (@destructiveviper)\n\nA photo posted by\n\nA post shared by eLe | Concert & Festival Content Creator (@ele_inthepit)\n\nA photo posted by",
+      "tags": "Bands & Artists",
+      "category": "Экстремальный метал",
+      "published": "2026-11-01T11:20:50+00:00",
+      "id": "0eb6f2173232f289ffce94a6a79c471925b01823",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Silly Goose Are Set To Play At A Denny’s Location After Recently Crashing The Diner Chain’s Corporate Conference",
+      "link": "https://www.theprp.com/2026/11/01/news/silly-goose-are-set-to-play-at-a-dennys-location-after-recently-crashing-the-diner-chains-corporate-conference/",
+      "rss_body": "Prepare for the Goose Slam.",
+      "tags": "News Silly Goose",
+      "category": "Экстремальный метал",
+      "published": "2026-11-01T10:16:38+00:00",
+      "id": "58b94a77061957d9794b7028521d3b1e509eee5b",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Metallica’s Halloween Show At The Sphere Saw A “Black Album” Deep Cut Newly Added To The Setlist",
+      "link": "https://www.theprp.com/2026/11/01/news/metallicas-halloween-show-at-the-sphere-saw-a-black-album-deep-cut-newly-added-to-the-setlist/",
+      "rss_body": "And some limited Halloween antics.",
+      "tags": "News Metallica",
+      "category": "Хэви-метал",
+      "published": "2026-11-01T09:59:24+00:00",
+      "id": "a7ecdcb9fbffe67c7d549493f9d09e3b53a11502",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "The 'Big 4' of Rock Collaborations",
+      "link": "https://ultimateclassicrock.com/big-4-rock-collaborations/",
+      "rss_body": "George Rose/Los Angeles Times/Robin PlatzerRichard E. Aaron/Redferns, Getty Images",
+      "tags": "News Original Features Aerosmith Big 4 David Bowie Kate Bush Peter Gabriel Queen Run-DMC Stevie Nicks Tom Petty UCR",
+      "category": "Хард-рок",
+      "published": "2026-11-01T07:43:30+00:00",
+      "id": "edac1a177138614f409634e08b95b3e2c1f0594f",
+      "retry_after": 0
     }
   ]
 }
