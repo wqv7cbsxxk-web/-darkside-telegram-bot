@@ -1296,49 +1296,17 @@
     "a31d74accaeaad9671aa034ce91baaa2ab65e874",
     "cb6a209bc8e3af2a5bcd39d5f3b34028e3efd0c4",
     "495f7ed00dfd2b505db421615f4e99b8b097d2bb",
-    "0eb6f2173232f289ffce94a6a79c471925b01823"
+    "0eb6f2173232f289ffce94a6a79c471925b01823",
+    "cbb698c35ad2536d22f588cbddf7c7aa68fc22b9",
+    "4e6fecdb94566e0f5a4a3b7b9ca4559e880f96b6",
+    "f2a0de0331c8e0aa06fb1b69303200fe30a67807",
+    "58b94a77061957d9794b7028521d3b1e509eee5b",
+    "a7ecdcb9fbffe67c7d549493f9d09e3b53a11502",
+    "edac1a177138614f409634e08b95b3e2c1f0594f",
+    "e0e6822c72991f278deb97be0c8e7f062d99f57d",
+    "7fa99d47c72a19960df81e61c0b7fe55b12c976e"
   ],
   "recent_titles": [
-    {
-      "title": "Tom Morello’s “Everyone Gets Everything They Want” Music Video Premieres",
-      "source": "ThePRP",
-      "ts": 1793221066
-    },
-    {
-      "title": "Queens Of The Stone Age Debut “Run Away From The Mob” Lyric Video",
-      "source": "ThePRP",
-      "ts": 1793221071
-    },
-    {
-      "title": "Enter Shikari Surprise Release “Lightyears”, Announce New U.S. Shows",
-      "source": "ThePRP",
-      "ts": 1793221085
-    },
-    {
-      "title": "Watch: Foo Fighters Performed “This Is A Call” On ‘Jimmy Kimmel Live!’ Last Night",
-      "source": "ThePRP",
-      "ts": 1793221090
-    },
-    {
-      "title": "Ingested Tease New Member Reveal, Announce 20th Anniversary European/UK Tour With Psycroptic, Netherwalker & Tracheotomy",
-      "source": "ThePRP",
-      "ts": 1793221099
-    },
-    {
-      "title": "Full EP Stream: Ocean of Illusions –Nexus",
-      "source": "Decibel",
-      "ts": 1793221111
-    },
-    {
-      "title": "Malevolence, Guilt Trip & Bodyweb Booked For Early 2027 UK/Ireland Tour",
-      "source": "ThePRP",
-      "ts": 1793221115
-    },
-    {
-      "title": "Sol Invicto (Deftones, Cypress Hill, Etc.) Celebrate 16 Years Of Deftones’ “You’ve Seen The Butcher” With A Remix",
-      "source": "ThePRP",
-      "ts": 1793221122
-    },
     {
       "title": "En route from the underworld, Queens Of The Stone Age show darkness and restraint on Perfecth",
       "source": "Louder",
@@ -2098,6 +2066,46 @@
       "title": "Watch Paleface Swiss blast through three Slipknot songs while dressed as Slipknot at their Halloween gig",
       "source": "Louder",
       "ts": 1793566102
+    },
+    {
+      "title": "Classic Rock Tracks Of The Week: November 2, 2026",
+      "source": "Louder",
+      "ts": 1793577563
+    },
+    {
+      "title": "Гитарист IRON MAIDEN: «Мы сейчас кайфуем на сцене так, как, возможно, никогда не кайфовали в жизни!»",
+      "source": "Darkside",
+      "ts": 1793577567
+    },
+    {
+      "title": "ALICE COOPER: «По воскресеньям я хожу в церковь. И Библии учу»",
+      "source": "Darkside",
+      "ts": 1793577569
+    },
+    {
+      "title": "Silly Goose Are Set To Play At A Denny’s Location After Recently Crashing The Diner Chain’s Corporate Conference",
+      "source": "ThePRP",
+      "ts": 1793577589
+    },
+    {
+      "title": "Metallica’s Halloween Show At The Sphere Saw A “Black Album” Deep Cut Newly Added To The Setlist",
+      "source": "ThePRP",
+      "ts": 1793577597
+    },
+    {
+      "title": "The 'Big 4' of Rock Collaborations",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793577650
+    },
+    {
+      "title": "Концертное видео KANONENFIEBER",
+      "source": "Darkside",
+      "ts": 1793577749
+    },
+    {
+      "title": "Outer Gloom (Shai Hulud, Etc.) Release Their Second EP “Higher Vessel”",
+      "source": "ThePRP",
+      "ts": 1793577757
     }
   ],
   "initialized_sources": [
@@ -5170,30 +5178,6 @@
       "retry_after": 1793329135
     },
     {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Концертное видео KANONENFIEBER",
-      "link": "http://www.darkside.ru/news/184867/",
-      "rss_body": "Die Feuertaufe (Live at Kanonenfest 2026), новое видео KANONENFIEBER, доступно для просмотра ниже.",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T06:16:05+00:00",
-      "id": "e0e6822c72991f278deb97be0c8e7f062d99f57d",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Outer Gloom (Shai Hulud, Etc.) Release Their Second EP “Higher Vessel”",
-      "link": "https://www.theprp.com/2026/10/29/news/outer-gloom-shai-hulud-etc-release-their-second-ep-higher-vessel/",
-      "rss_body": "Their second outing of the year.",
-      "tags": "News Outer Gloom Shai Hulud",
-      "category": "Хэви-метал",
-      "published": "2026-10-30T06:06:13+00:00",
-      "id": "7fa99d47c72a19960df81e61c0b7fe55b12c976e",
-      "retry_after": 0
-    },
-    {
       "source": "ThePRP",
       "priority": 88,
       "title": "System Of A Down’s John Dolmayan Recently Spent $825,000 On A Rare Superman Comic Book",
@@ -5311,7 +5295,7 @@
       "category": "Экстремальный метал",
       "published": "2026-10-30T16:00:00+00:00",
       "id": "08ebb39b299f7b325241a7c9adbb7bc599ed2af1",
-      "retry_after": 1793526859
+      "retry_after": 1793578048
     },
     {
       "source": "Metal Injection",
@@ -5323,7 +5307,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T14:25:50+00:00",
       "id": "b5a0ae71fd6d647c6f4b3dace5cd569f8dbb19da",
-      "retry_after": 1793526859
+      "retry_after": 1793578048
     },
     {
       "source": "Metal Injection",
@@ -5335,7 +5319,7 @@
       "category": "Прогрессив",
       "published": "2026-10-30T14:04:02+00:00",
       "id": "4e124e1998c509a00d6dc2bbe72d0bdcd182729e",
-      "retry_after": 1793526859
+      "retry_after": 1793578048
     },
     {
       "source": "Louder",
@@ -5347,7 +5331,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T20:00:00+00:00",
       "id": "6eccad5f48d74e06d55e8d37a3c52747f5445033",
-      "retry_after": 1793526800
+      "retry_after": 1793577978
     },
     {
       "source": "Metal Injection",
@@ -5359,7 +5343,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-30T17:07:35+00:00",
       "id": "82391e12200ccab8ceae230ce880e59149f3d7b3",
-      "retry_after": 1793526800
+      "retry_after": 1793577978
     },
     {
       "source": "Louder",
@@ -5371,7 +5355,7 @@
       "category": "Прогрессив",
       "published": "2026-10-30T17:00:59+00:00",
       "id": "bc5d9548c4fdb1d54f86eb0814f68696e3a1a5f1",
-      "retry_after": 1793526854
+      "retry_after": 1793578043
     },
     {
       "source": "Louder",
@@ -5383,7 +5367,7 @@
       "category": "Прогрессив",
       "published": "2026-10-31T01:00:00+00:00",
       "id": "fe070e3439762e5c1b87a50b90f5892d832aa078",
-      "retry_after": 1793526793
+      "retry_after": 1793577969
     },
     {
       "source": "Louder",
@@ -5395,7 +5379,7 @@
       "category": "Прогрессив",
       "published": "2026-10-31T16:00:00+00:00",
       "id": "d44c1871502e8c2aa53ef42c1402595ff6e91c42",
-      "retry_after": 1793526789
+      "retry_after": 1793577964
     },
     {
       "source": "Metal Injection",
@@ -5407,7 +5391,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-31T15:11:39+00:00",
       "id": "6e9238f921a755bc9a3df85bdd5964b2435ae4b9",
-      "retry_after": 1793526789
+      "retry_after": 1793577964
     },
     {
       "source": "Metal Injection",
@@ -5419,7 +5403,7 @@
       "category": "Хэви-метал",
       "published": "2026-10-31T13:39:19+00:00",
       "id": "88eda410f9e34cd0b2067fd757b52cca7fb91985",
-      "retry_after": 1793526789
+      "retry_after": 1793577964
     },
     {
       "source": "Louder",
@@ -5431,7 +5415,7 @@
       "category": "Хард-рок",
       "published": "2026-10-31T19:58:52+00:00",
       "id": "77530f8e113f3e24fbea53597f331d7bb84a4514",
-      "retry_after": 1793526778
+      "retry_after": 1793577961
     },
     {
       "source": "Louder",
@@ -5443,7 +5427,7 @@
       "category": "Экстремальный метал",
       "published": "2026-11-01T04:00:00+00:00",
       "id": "43b32f99d49cca98b2c1643f006e531a352a9e8e",
-      "retry_after": 1793526775
+      "retry_after": 1793577957
     },
     {
       "source": "Metal Injection",
@@ -5455,7 +5439,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-01T14:58:34+00:00",
       "id": "13488dcdfd301041f6849e1cc10828b1da51b177",
-      "retry_after": 1793566392
+      "retry_after": 1793577882
     },
     {
       "source": "Metal Injection",
@@ -5467,43 +5451,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-01T14:00:46+00:00",
       "id": "f81facf1836d01f2608c51fca7933dab3979bd89",
-      "retry_after": 1793566394
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Silly Goose Are Set To Play At A Denny’s Location After Recently Crashing The Diner Chain’s Corporate Conference",
-      "link": "https://www.theprp.com/2026/11/01/news/silly-goose-are-set-to-play-at-a-dennys-location-after-recently-crashing-the-diner-chains-corporate-conference/",
-      "rss_body": "Prepare for the Goose Slam.",
-      "tags": "News Silly Goose",
-      "category": "Экстремальный метал",
-      "published": "2026-11-01T10:16:38+00:00",
-      "id": "58b94a77061957d9794b7028521d3b1e509eee5b",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Metallica’s Halloween Show At The Sphere Saw A “Black Album” Deep Cut Newly Added To The Setlist",
-      "link": "https://www.theprp.com/2026/11/01/news/metallicas-halloween-show-at-the-sphere-saw-a-black-album-deep-cut-newly-added-to-the-setlist/",
-      "rss_body": "And some limited Halloween antics.",
-      "tags": "News Metallica",
-      "category": "Хэви-метал",
-      "published": "2026-11-01T09:59:24+00:00",
-      "id": "a7ecdcb9fbffe67c7d549493f9d09e3b53a11502",
-      "retry_after": 0
-    },
-    {
-      "source": "Ultimate Classic Rock",
-      "priority": 80,
-      "title": "The 'Big 4' of Rock Collaborations",
-      "link": "https://ultimateclassicrock.com/big-4-rock-collaborations/",
-      "rss_body": "George Rose/Los Angeles Times/Robin PlatzerRichard E. Aaron/Redferns, Getty Images",
-      "tags": "News Original Features Aerosmith Big 4 David Bowie Kate Bush Peter Gabriel Queen Run-DMC Stevie Nicks Tom Petty UCR",
-      "category": "Хард-рок",
-      "published": "2026-11-01T07:43:30+00:00",
-      "id": "edac1a177138614f409634e08b95b3e2c1f0594f",
-      "retry_after": 0
+      "retry_after": 1793577882
     },
     {
       "source": "ThePRP",
@@ -5515,7 +5463,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-01T19:24:11+00:00",
       "id": "81468641524bbc154552d96c79d8a08b66faff07",
-      "retry_after": 1793566365
+      "retry_after": 1793577882
     }
   ]
 }
