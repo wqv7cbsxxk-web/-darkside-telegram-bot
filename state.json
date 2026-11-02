@@ -1315,49 +1315,17 @@
     "c62bad1fc3b2d510f4bcaf6dccbe0b62013d8c37",
     "a6f88e76313250dbfbfc6c6c041e5f80eafe0215",
     "0a1e1fd1da09ea22d0b02921f550ac6912a599b4",
-    "612fda54fd5c072d3227e4d4a4dd2dbbffb0224d"
+    "612fda54fd5c072d3227e4d4a4dd2dbbffb0224d",
+    "de01206c8fc34e4a5714728927719db5e9711e7d",
+    "460c6480c10a732572debb91602a5c45e6ab0efe",
+    "df0ba09b28409caa42e97d44d434ca18f3d70396",
+    "32e9907fd0f043785fe7b415e2fb824e8e973cb2",
+    "a7414b97f2eaa66631a05753eec2c89315293b46",
+    "e21fe5e0976aa74b7e640290e91c30358c4e6941",
+    "e541577f89d81a20c6652ea2aad8476cc828cd12",
+    "e3499222fc5c2e094ee8e06beac59fa68c5c37a8"
   ],
   "recent_titles": [
-    {
-      "title": "Dave Hill brings less noise on debut solo album Dirty Foot Lane",
-      "source": "Louder",
-      "ts": 1793255667
-    },
-    {
-      "title": "The Who By Numbers: Now expanded, still teetering on the edge",
-      "source": "Louder",
-      "ts": 1793255681
-    },
-    {
-      "title": "Everything Under The Sun finds Nickelback refusing to tread water",
-      "source": "Louder",
-      "ts": 1793255694
-    },
-    {
-      "title": "August Burns Red Issue “Behemoth” Live Video From May 2026 Philadelphia Show",
-      "source": "ThePRP",
-      "ts": 1793255702
-    },
-    {
-      "title": "Mirrors Release “Home” Music Video",
-      "source": "ThePRP",
-      "ts": 1793255706
-    },
-    {
-      "title": "U2 announce intimate BBC gig to take place in London: here's how you could get tickets",
-      "source": "Louder",
-      "ts": 1793255717
-    },
-    {
-      "title": "Metallica Launch “Leper Messiah” Live Video From Their Residency At The Sphere",
-      "source": "ThePRP",
-      "ts": 1793255721
-    },
-    {
-      "title": "Elder’s Latest Album “Through Zero” Gets New Dolby Atmos & 5.1 Surround Mixes",
-      "source": "ThePRP",
-      "ts": 1793255728
-    },
     {
       "title": "Full Album Stream: Italian Death Metal Crew Obbrobrius Offer Up Usurped",
       "source": "Decibel",
@@ -2117,6 +2085,46 @@
       "title": "Cheap Trick Statement Explains Upcoming Tour Break",
       "source": "Ultimate Classic Rock",
       "ts": 1793598856
+    },
+    {
+      "title": "Вокалист ZEBRA: «Президенство Трампа — это настоящий кошмар!»",
+      "source": "Darkside",
+      "ts": 1793627931
+    },
+    {
+      "title": "Новая песня STORMWARNING",
+      "source": "Darkside",
+      "ts": 1793627933
+    },
+    {
+      "title": "DAVE LOMBARDO: «Критики не особо приняли \"Reign In Blood\"»",
+      "source": "Darkside",
+      "ts": 1793627948
+    },
+    {
+      "title": "Steven Tyler Pushes Back Against Rumors of Aerosmith's Retirement",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793627955
+    },
+    {
+      "title": "Everclear Is Going Deep on Their Current Tour",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793627979
+    },
+    {
+      "title": "BRIAN MAY: «С чего мы вообще решили, что лучше других животных?»",
+      "source": "Darkside",
+      "ts": 1793627981
+    },
+    {
+      "title": "My Chemical Romance confirm they'll begin work on new album in 2027",
+      "source": "Louder",
+      "ts": 1793627988
+    },
+    {
+      "title": "TODD LA TORRE исполняет IRON MAIDEN",
+      "source": "Darkside",
+      "ts": 1793627990
     }
   ],
   "initialized_sources": [
@@ -5355,6 +5363,150 @@
       "published": "2026-11-02T02:38:11+00:00",
       "id": "a0d62a1402c75cc29610f22b5df0ab6417722edb",
       "retry_after": 1793598965
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Scorpions Announce New 2027 Tour Dates",
+      "link": "https://ultimateclassicrock.com/scorpions-tour-dates-2027/",
+      "rss_body": "The German hard rockers have shared details regarding their upcoming 'Love, Peace, & Rock ’N’ Roll' outing.",
+      "tags": "Concerts News Scorpions UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-11-02T13:44:23+00:00",
+      "id": "80c25567a69283c2dc58be2b3a46fccfd9b906c1",
+      "retry_after": 1793628246
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Вокалист BIOHAZARD планирует выпустить сингл уже в этом году",
+      "link": "http://www.darkside.ru/news/184935/",
+      "rss_body": "В недавнем интервью с вокалистом/басистом BIOHAZARD Evan'ом Seinfeld'ом тот рассказал о ближайших планах относительно сольного проекта:\n\n«Я готовлюсь к выпуску первого сингла, надеюсь, ещё в этом году. Рассчитываю примерно на декабрь. В том, над чем я сейчас работаю, есть элементы, которые я бы назвал „трэп-метал“.\n\nЯ очень бережно отношусь к музыке… Потому что для артиста это своего рода чувствительность. Это я, но в то же время и не я. Это просто то, что я создаю. Это история, к которой я привязан, и мне не стоит беспокоиться о том, что люди думают о моей гребаной музыке. Я выпускаю её, чтобы выразить себя. Кто любит — тот любит. Кто ненавидит — тот ненавидит. Я делаю это только для себя, и в этом и заключается подлинность».\n\nРассказывая о состоянии дел со своей новой сольной музыкой, Evan сказал:\n\n«Итак, мой новый проект называется SHED MY SKIN, и я пока ничего не выпустил. Он выйдет в ближайшее время. У меня записано много музыки, и я просто пытаюсь понять, как лучше всего рассказать эту историю, и какую песню выпустить первой, чтобы люди могли составить представление о том, о чём это».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T11:26:26+00:00",
+      "id": "528c03791d3968c0864cc8f937cc6c6dd234c994",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "“I wanted a new band to take it to another level”: Keith Emerson’s road to Emerson, Lake and Palmer",
+      "link": "https://www.loudersound.com/bands-artists/biographies/how-keith-emerson-began",
+      "rss_body": "In 2016, marking\n\nKeith Emerson’s death\n\nat the age of 71,\n\nProg\n\nlooked back on the composer’s early years leading up to the formation of\n\nEmerson, Lake and Palmer\n\n.\n\nKeith Emerson once admitted that he began to play piano while at school as a means of survival. “I was very studious and I kept in the background,” he said. “I used to walk around with Beethoven sonatas under my arm. However, I was very good at avoiding being beaten up by the bullies – I could play\n\nJerry Lee Lewis\n\nand\n\nLittle Richard\n\nsongs, so they thought I was kind of cool and left me alone.”\n\nHis love of music was wide-ranging, and he was particularly influenced by the jazz great Dave Brubeck in his formative years, which can be heard on 2015’s\n\nKeith Emerson Trio album\n\n. Recorded in his parents’ living room in 1963, this very early example of his style takes influence from boogie woogie and classical music.\n\nBy 1965 he’d had moved from Sussex to London, and joined Gary Farr And The T-Bones. He started to merge his influences, ranging from Brubeck and Fats Waller to Bach, Aaron Copland, Oscar Peterson and Shostakovich. He was also becoming increasingly adept on the Hammond organ, with which he’d become so closely associated.\n\nWhen The T-Bones started to fall apart, Emerson briefly joined British R&B band The VIPs. During a gig with the group in France, he began to develop a more flamboyant approach – when a fight broke out in the crowd, he was told to keep playing, coaxing some unusual sounds from his Hammond by rocking it back and forth and climbing on top of it. It stopped the fight, and he was encouraged to carry on playing in this manner at subsequent shows.\n\nEmerson (centre) with Gary Farr And The T-Bones, 1966.\n\n(Image credit: Getty)\n\nIn early 1967 he was invited to form a band to back American soul singer\n\nPP Arnold\n\n. He agreed, as long as the band in question could also play their own set; and so\n\nThe Nice\n\nwere born. In August that year they landed a major break when they appeared at the National Jazz & Blues Festival in Windsor. Their performance attracted significant attention, and when Arnold decided to return to America, her manager\n\nAndrew Loog Oldham\n\ntook them on.\n\nOver the next couple of years – first as a four-piece and then, after guitarist\n\nDavy O’List\n\nleft, in their more readily recognisable form as a trio – The Nice became of one the most celebrated bands in the burgeoning progressive movement, releasing four albums, as well as achieving a hit single with their version of Leonard Bernstein’s\n\nAmerica\n\n.\n\nTheir performance of the piece at the Royal Albert Hall in 1968 created huge controversy. “It was a charity event,” said Emerson, “and I decided to burn the Stars And Stripes when we did the song. It didn’t go down well, and we were banned for life from the venue.”\n\nAround that time he started to stick knives into the Hammond. “You got a great sustain from sticking knives between the keys,” he explained. “At first, I used ordinary kitchen knives. But\n\nLemmy\n\n– who was a roadie for us – said that if I was gonna do that then I should use proper knives. He gave me some of his collection of World War II German knives, which were much bigger.”\n\nEmerson also began to use the Moog synthesiser, with became another mainstay of his career. “I heard\n\nSwitched On Bach\n\nby Wendy Carlos and I was fascinated by the strange sounds. So I bought a Moog and I was the first rock musician to tour with one. It was a bloody nightmare, but Robert Moog, who invented it, helped me enormously.”\n\n(Image credit: Barry Plummer)\n\nIn 1970 he Emerson decided to move on and The Nice split up. “I felt there was nothing left for us to achieve,” he explained. “I wanted to put together a new band to take what The Nice had done to another level.” He chose to work with former\n\nKing Crimson\n\nbassist/vocalist\n\nGreg Lake\n\nand child prodigy drummer\n\nCarl Palmer\n\n, who’d previously been with\n\nAtomic Rooster\n\n. And so\n\nEmerson, Lake and Palmer\n\nwere born.\n\nELP helped shaped progressive music in the 70s, and they were also one of the biggest rock names of the era. Emerson became a unique showman who upstaged the guitar heroes of his generation. Whether rocking his keyboards back and forth, leaping across the Hammond or playing from a prone position with the instrument on top of him, he transfixed audiences.\n\nHe even played a grand piano that levitated and spun above the stage on ELP’s 1973-’74 American tour. “We used it for the first time at Madison Square Garden,” he recalled. “People in the audience were so astounded. In 1974 the\n\nCalifornia Jam\n\ncame up, and we had to do it there – when the piano went up it was literally over the heads of the audience.”\n\nWith ELP, Emerson was responsible for introducing a new generation of fans to the music of great classical composers such as Copland, Mussorgsky and Bartok. He also displayed great diversity as a composer himself. Despite the onstage theatrics, Emerson wanted to be recognised more for his artistry than as an entertainer.\n\n“First and foremost, I am a composer. When I think of entertainers in music, I think of people like\n\nDavid Bowie\n\n, who created characters onstage. I was nothing like that. If I had to choose between artistry and entertainment, I’d have to say that I’m more of the former. But I’d like to be known as a composer before anything else.”\n\nThe sage: Emerson and Moog, his final live performance, London’s Barbican, July 2015.\n\n(Image credit: Kevin Nixon)",
+      "tags": "Biographies Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-11-02T11:00:00+00:00",
+      "id": "ffc8ca2e29daf217876fb406966d9cbea4c52019",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "CRO-MAGS практически закончили с новым альбомом",
+      "link": "http://www.darkside.ru/news/184936/",
+      "rss_body": "В рамках недавнего интервью вокалист CRO-MAGS Harley Flanagan рассказал о том, как идут дела с новым материалом:\n\n«А мы почти уже закончили. Так что у нас есть чем порадовать слушателей. И я бы сказал, что все будет в начале года. Когда конкретно не скажу, не знаю. Но у нас девять песен уже есть и еще шесть песен мы сделаем за пару недель... И я всегда предпочитаю делать с запасом, так что шесть, скорее всего, превратятся в восемь».\n\nОтносительно направления нового материала, он сказал:\n\n«Это всё, на чём я вырос. Я постоянно развиваюсь, но в основе остаются те же самые компоненты. То есть, тут есть и MOTÖRHEAD, и BAD BRAINS, и DISCHARGE — всё это смешано воедино, плюс немного [BLACK] SABBATH. Всё то тяжелое, что я слушал в детстве, всегда находило способ проникнуть в мою музыку. Вот как-то так».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T10:36:19+00:00",
+      "id": "c79151ee1e65642bd9eb24f2632dfd6f41742561",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Robert Plant and Saving Grace announce Summer 2027 dates",
+      "link": "https://www.loudersound.com/bands-artists/concerts-shows/robert-plant-saving-grace-summer-2027-dates",
+      "rss_body": "Robert Plant\n\nand Saving Grace have announced a tour of England and Ireland for next year.\n\nThe former\n\nLed Zeppelin\n\nman – accompanied by vocalist Suzi Dian, drummer Oli Jefferson, guitarist Tony Kelsey, banjo and string player Matt Worley, and cellist Barney Morse-Brow – will play five shows next June.\n\nThe short run of dates will kick off at the Hampton Court Palace Festival in London on June 19, and wrap up in Dublin at the Trinity College Summer Series on June 29. In between, they'll perform at Lincoln Castle on June 24, Scarborough Open Air Theatre on June 26 and at The Piece Hall, Halifax on June 27 supported by Kate Rusby and Seth Lakeman.\n\n\"I’ve been with Obama,\"\n\nPlant told us last year\n\n. \"I’ve been with Prince Charles. I’ve spent countless nights out with Ahmet Ertegun, Phil Spector, you name it. I know my way around all that shit. But the idea of going to these great towns and the place is heaving and you come on and they go: What the fuck are you doing here?’ It’s great.\"\n\nThe new dates are in addition to next month's London shows at the Royal Albert Hall, which are sold out. Tickets for the new shows will go on general sale\n\nvia Ticketmaster\n\nthis Friday at 10am, with presales kicking off tomorrow. Full dates below.\n\nRobert Plant and Saving Grace released the\n\nSaving Grace: All That Glitters\n\nEP last month, which featured covers of the traditional tunes\n\nThe Blackest Crow\n\nand\n\nTwo Coats\n\n, plus Gillian Welch’s\n\nOrphan Girl\n\n, and Bert Jansch’s\n\nPoison\n\n. The band's debut album,\n\nSaving Grace\n\n, was released last year.\n\nRobert Plant and Saving Grace tour dates\n\nDec 02: London Royal Albert Hall, UK\n\nDec 03: London Royal Albert Hall, UK\n\nJun 19: London Hampton Court Palace, UK\n\nJun 24: Lincoln Castle, UK\n\nJun 26: Halifax The Piece Hall, UK\n\nJun 27: Scarborough Open Air Theatre, UK\n\nJun 29: Dublin Trinity College, Ireland\n\nJul 10: Ghent Gent Jazz, Belgium\n\nJul 13: Uppsala Parksnäckan, Sweden\n\nJul 17: Sigulda Castle, Latvia",
+      "tags": "Concerts & Shows Bands & Artists Live Performances",
+      "category": "Хард-рок",
+      "published": "2026-11-02T10:30:01+00:00",
+      "id": "182f2e248eb503e5a3fffd312ae0bf88d94ee209",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Queens Of The Stone Age announce European leg of Perfecth world tour",
+      "link": "https://www.loudersound.com/bands-artists/live-performances/queens-of-the-stone-age-announce-european-leg-of-perfecth-world-tour",
+      "rss_body": "Queens Of The Stone Age\n\nhave announced a run of European dates for next June. The band, whose new album\n\nPerfecth\n\nwas released on Friday, will begin the tour in Hanover, Germany, on June 13, and wrap things up at the end of the month in Pula, Croatia.\n\nNo UK dates have been confirmed, but there are Download- and Glastonbury-shaped gaps in the schedule, so perhaps the desert rock veterans will pitch up at one (or both) of those. Support comes from Dutch multi-instrumentalist Zep, and tickets will go on sale this Friday, November 6, at 10am local time.\n\nLast month,\n\nQOSTA announced a run of US shows\n\nwith\n\nPixies\n\nfor next year. They end 2026 with dates in Japan, Singapore, Hong Kong, Australia and New Zealand. Full dates below.\n\nQueens Of The Stone Age: Perfecth World Tour\n\nNov 16: Los Angeles The Wiltern, CA *\n\nNov 25: Tokyo Zepp Haneda, Japan\n\nNov 26: Nagoya Zepp Nagoya, Japan\n\nNov 28: Osaka Zepp Namba, Japan\n\nDec 02: Singapore Star Theatre, Singapore\n\nDec 05: Hong Kong Clockenflap, Hong Kong\n\nDec 08: Adelaide The Drive, Australia ^\n\nDec 11: Hobart MyState Bank Arena, Australia ^\n\nDec 13: Melbourne Rod Laver Arena, Australia ^\n\nDec 15: Sydney Afterpay Arena, Australia ^\n\nDec 16: Newcastle Entertainment Centre, Australia ^\n\nDec 18: Brisbane Entertainment Centre, Australia ^\n\nDec 20: Auckland Spark Arena, New Zealand ^\n\nMar 06: Mexico City Estadio Ciudad de los Deportes, Mexico\n\nMar 12-14: Buenos Aires Lollapalooza, Argentina\n\nMar 12-14: Santiago Lollapalooza, Chile\n\nMar 19-21: São Paulo Lollapalooza, Brazil\n\nMay 01: San Diego Viejas Arena, CA\n\nMay 02: Inglewood Kia Forum, CA\n\nMay 04: Oakland Oakland Arena, CA\n\nMay 05: Sacramento Golden 1 Center, CA\n\nMay 07: Seattle Climate Pledge Arena, WA\n\nMay 09: Portland Moda Center, OR\n\nMay 11: Salt Lake City Delta Center, UT\n\nMay 12: Morrison Red Rocks, CO\n\nMay 14: Saint Paul Grand Casino Arena, MN\n\nMay 15: Milwaukee American Family Insurance Amphitheater, WI\n\nMay 16: Rosemont Allstate Arena, IL\n\nMay 8: Indianapolis Gainbridge Fieldhouse Arena, IN\n\nMay 19: ColumbusNationwide Arena, OH\n\nMay 21: Pittsburgh Petersen Events Center\n\nMay 22: Detroit Little Caesars Arena\n\nMay 24: Boston TD Garden\n\nJun 13: Hannover Gilde Parkbühne, Germany\n\nJun 15: Bordeaux Arkéa Arena, France\n\nJun 16: Bilbao Arena, Spain\n\nJun 20: Sevilla Icónica Sevilla, Spain\n\nJun 21: Valencia Roig Arena, Spain\n\nJun 23: Nimes Festival de Nîmes, France\n\nJun 27: Pordenone Parco San Valentino, Italy\n\nJun 28: Munich Tollwood, Germany\n\nJun 30: Pula Arena, Croatia\n\n* CORE / Sweet Stuff Foundation benefit show\n\n^ with Primus and Tropical Fuck Storm\n\nFind Queens Of The Stone Age tickets\n\n.\n\n(Image credit: Queens Of The Stone Age)",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T10:01:07+00:00",
+      "id": "6e749d30476bdd226092ed07cb988b60d3501048",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "FIVE FINGER DEATH PUNCH пожертвовали $200,000 на подготовку сборных США к олимпийским и паралимпийским играм",
+      "link": "http://www.darkside.ru/news/184813/",
+      "rss_body": "FIVE FINGER DEATH PUNCH, отметила завершение североамериканского отрезка масштабного «20th Anniversary World Tour» пожертвованием в $200 000 в поддержку спортсменов сборной США, готовящихся к Олимпийским и Паралимпийским играм 2028 года в Лос-Анджелесе.\n\nНа протяжении тура коллектив направлял часть средств с каждого проданного билета на эту инициативу, объединившись с поклонниками, чтобы поддержать спортсменов, представляющих программы USA Judo и USA Cycling BMX Racing + BMX Freestyle.\n\nВ отличие от многих других стран, США не выделяют прямого федерального финансирования своим олимпийским и паралимпийским командам, из-за чего частные пожертвования необходимы для поддержки американских спортсменов, которые тренируются и выступают на мировой арене.\n\n23 октября, в последний вечер тура на Jiffy Lube Live в Бристоу, Виргиния, FIVE FINGER DEATH PUNCH отметили инициативу, вручив $200 000 организациям USA Judo и USA Cycling.\n\nГитарист-основатель FIVE FINGER DEATH PUNCH Zoltan Bathory: «Мы болеем за наших спортсменов, когда они выходят на мировую арену, представляя нашу страну, но мы также хотим стоять за ними в те годы работы, которые требуются, чтобы туда попасть.\n\nЯ начал заниматься дзюдо в девять лет и до сих пор выступаю. Я знаю, что этот спорт может дать человеку, как он формирует ум, воспитывает дисциплину и учит встречать трудности. Эти уроки остались со мной далеко за пределами татами. Я построил жизнь и карьеру на этих принципах. Поэтому поддержка USA Judo для меня глубоко личная. Я хочу, чтобы больше людей открыли для себя этот спорт, и хочу, чтобы у спортсменов, достигающих его высшего уровня, были ресурсы для раскрытия своего полного потенциала.\n\nПоддержка наших фанатов даёт нам возможность отдавать, и мы благодарны за эту возможность. Завершая наш гастрольный цикл 2026 года, мы все вместе можем гордиться этим, и мы продолжим развивать это в 2027 году».\n\nВокалист FIVE FINGER DEATH PUNCH Ivan Moody: «В детстве я помню, как хотел связать жизнь с великими BMX-райдерами. Мой велосипед был не игрушкой, а моим лучшим корешем, моим ключом к свободе. Моим балансом. Музыка — то место, где моё сердце. Но бывают моменты, когда я всё ещё мечтаю, наблюдая за новым миром райдеров, которые развиваются и продолжают расти вместе с этим спортом.\n\nВ 5FDP мы живём своей мечтой благодаря любви и поддержке, которые получаем от наших поклонников. Иметь возможность сделать пожертвование на дело, столь близкое моему сердцу… скажем так, я чувствую, будто жертвую тому мальчишке, который всё ещё катается на квотер-пайпах и разучивает комбинации с друзьями. Круг замкнулся. ВПЕРЁД, США. Покажите там всем!»\n\nКак всегда, FIVE FINGER DEATH PUNCH смотрят вперёд. Коллектив только что выпустил свой новый десятый студийный альбом «Legacy». Он доступен на всех цифровых платформах и в различных физических конфигурациях, включая ограниченные издания на виниле, CD и кассетах с эксклюзивным оформлением.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T09:54:42+00:00",
+      "id": "5e929411083096fdc14356403ee296167e749872",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Концертное видео MELISSA BONNY",
+      "link": "http://www.darkside.ru/news/184937/",
+      "rss_body": "Live from the Apocalypse, полное концертное видео MELISSA BONNY, доступно для просмотра:\n\n1. I'm a Monster\n\n2. Snake Bite\n\n3. Devil On My Tongue\n\n4. The Teeth Of My Thieves\n\n5. Afterglow\n\n6. Highs and Lows\n\n7. Crescent Moon Interlude\n\n8. Spellbound\n\n9. Cherry Red Apocalypse\n\n10. I Don't Like You\n\n11. Oh no!\n\n12. Mama, Let Me Go\n\n13. Snow On Mars",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T09:01:38+00:00",
+      "id": "8e714ff82b934118dccc70262bf509749ab7cbdc",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "The full setlist from Aerosmith's second night in Hollywood",
+      "link": "https://www.loudersound.com/bands-artists/aerosmith-dream-on-hollywood-bowl-night-two",
+      "rss_body": "Aerosmith\n\nhave completed the second of their Aerosmith & Friends' California: Dream On shows at the Hollywood Bowl in Los Angeles. And they addressed the viral remarks made by the host, comedian Bill Burr, on\n\nnight one\n\n.\n\nBurr had told the audience that the two Bowl shows would be the band's final ever shows, leading to much wailing and gnashing of teeth and online confusion, but frontman Steven Tyler wasn't having any of it.\n\n\"When the world ends, there will always be cockroaches, dirt, and Aerosmith,\" he told the crowd. \"You can’t get rid of us.\"\n\nElsewhere, there were several differences to Thursday night's show. The early part of the evening saw\n\nMarcus King\n\njoin the in-house band, followed by Jerry Cantrell, Tom Morello and Lzzy Hale, Grace Potter and Train's Pat Monaghan. Billy Idol and Steve Steven made their second appearance, and Heart reprised\n\nJanie's Got A Gun\n\nand dropped their own\n\nBarracuda\n\n.\n\nBlack Crowes\n\nplayed three songs they didn't perform at the first show, while\n\nGuns N' Roses\n\n' second set was entirely different from their first, and included a song many presumed they'd play on night one,\n\nMama Kin,\n\nas originally covered on their debut\n\nLive ?!*@ Like a Suicide\n\nEP, released four decades ago next month.\n\nAnd so to the headliners. No\n\nDave Grohl\n\nthis time – John Douglas took his place behind the kit – and once again, Joey Kramer only appeared on\n\nWalk This Way\n\n, this time bolstered by the presence of Run-DMC.\n\nWill we see Aerosmith again? Only time and the cockroaches will tell.\n\nAerosmith & Friends: California, Dream On - Night Two setlist\n\nSame Old Song And Dance (Marcus King)\n\nDraw The Line (Jerry Cantrell)\n\nNobody’s Fault (Jerry Cantrell)\n\nKings & Queens (Tom Morello / Lizzy Hale)\n\nRound & Round (Tom Morello / Lizzy Hale)\n\nLivin’ On The Edge (Billy Idol / Steve Stevens)\n\nWhat It Takes (Grace Potter)\n\nYou See Me Crying (Pat Monahan)\n\nAngel (Pat Monahan)\n\nCryin’ (Pat Monahan / Grace Potter)\n\nJanie’s Got A Gun (Heart)\n\nBarracuda (Heart)\n\nLet The Music Do The Talking (Black Crowes)\n\nGet The Lead Out (Black Crowes)\n\nCombination (Black Crowes)\n\nNo More No More (Black Crowes)\n\nChip Away The Stone (Black Crowes)\n\nMama Kin (Guns N' Roses)\n\nSOS (Too Bad) (Guns N' Roses)\n\nRats In The Celar (Guns N' Roses)\n\nSick As A Dog (Guns N' Roses)\n\nSweet Child O Mine (Guns N' Roses)\n\nNightrain (Guns N' Roses)\n\nToys In The Attic (Aerosmith, with John Douglas on drums)\n\nBack In The Saddle (Aerosmith, with John Douglas)\n\nSweet Emotion (Aerosmith, with John Douglas)\n\nDream On (Aerosmith, with John Douglas)\n\nCome Together (Aerosmith, with John Douglas)\n\nWalk This Way (Aerosmith and Run DMC, with Joey Kramer and John Douglas on drums)\n\nTrain Kept A Rollin’ (Aerosmith, with John Douglas)\n\nThanks to\n\nAerofanatic\n\nfor the setlist.",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-11-02T08:46:24+00:00",
+      "id": "99000a3b36eefb520e368854472ca1ad6d7743ed",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "ROBERT FRIPP & TOYAH исполняют хит XYZ",
+      "link": "http://www.darkside.ru/news/184938/",
+      "rss_body": "ROBERT FRIPP с женой Toyah'ей Willcox продолжают играть кавер-версии — на этот раз настал момент для композиции XYS Nice Day To Die\n\n#Robert_Fripp_&_Toyah #RobertFripp&Toyah",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T08:21:29+00:00",
+      "id": "07121f0fbb353eb4a93ddd8965f2eca9e527137c",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Aerosmith and Friends Bring New Surprises at Second Comeback Show",
+      "link": "https://ultimateclassicrock.com/aerosmith-night-two-hollywood-bowl-videos-set-list/",
+      "rss_body": "It was another star-filled night at the Hollywood Bowl.",
+      "tags": "News Set List Aerosmith Alice in Chains Billy Idol Guns N' Roses Heart Jerry Cantrell Lzzy Hale The Black Crowes Tom Morello Train UCR",
+      "category": "Хард-рок",
+      "published": "2026-11-02T07:53:53+00:00",
+      "id": "95a891f47b7e0d99cd56ef5e1c0a1686a9ec6aa2",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "The Gaslight Anthem's Brian Fallon shares the life lessons of an eternal underdog",
+      "link": "https://www.loudersound.com/bands-artists/brian-fallon-gospel-according-to-gaslight-anthem",
+      "rss_body": "Brian Fallon has a photo on the wall of his house of him singing with\n\nBruce Springsteen\n\non stage at London’s Hyde Park in June 2009. The Boss had become an unofficial cheerleader for Fallon’s band,\n\nThe Gaslight Anthem\n\n, joining them on stage at that year’s Glastonbury Festival a couple of weeks earlier to sing their song\n\nThe ’59 Sound\n\nand inviting Fallon to join him later that evening for his own headlining set. And here they were again, in front of a vast crowd in the middle of London.\n\n“It’s taken from the back, and all you see is the microphone, me and Bruce and this sea of people,” Fallon says of the Hyde Park photo on his wall, Zooming from his New Jersey home. “I just walked past it, and I’m still amazed that it happened.”\n\nThe title of his new solo album sums up the unlikelihood of the career of a man who grew up in the wilds of the Garden State:\n\nNot Bad For New Jersey\n\n. It’s a title that leans into his home state’s sense of self-deprecation, but it also suits Fallon himself, as the lessons he’s learned along the way prove.\n\nNew Jersey is the underdog of the East Coast\n\nIt’s maybe even the underdog of the whole country. People talk about New York and Boston and Philadelphia, but we don’t even have a major city that people reference. We get tossed aside, yet we have a pretty good track record here for talent – Sinatra, Springsteen, Bruce Willis, Scarlett Johansson… even Jack Nicholson was born in New Jersey. But people never give it credit. They’ll go: “Oh, that’s not bad for New Jersey.” So I turned that on its head for this album.\n\nPeople from Jersey keep a little back\n\nIt ties in with the underdog thing. We’ll never show you everything we’re good at. It makes people underestimate what you can do, so when it comes match time you have an edge. When you underestimate people long enough, they start to use that to their advantage, and it can really blindside someone. Have I ever done that? I have, absolutely.\n\nThe outside is the best place to be\n\nBands and people we came up close to, like The Strokes or [Bleachers frontman/Taylor Swift producer and fellow New Jersey-ite] Jack Antonoff, they’re inside guys. My heroes were\n\nThe Replacements\n\n, who were the ultimate outsiders. Being on the outside gives me a good chip on my shoulder. If I were at the fancy ‘cool kids’ parties I think I’d lose my edge, which scares me.\n\nBruce Springsteen knows how to make an entrance\n\nThe Gaslight Anthem were playing Glastonbury in 2009 when Bruce Springsteen was headlining. Right before we were about to go on stage, this cop car pulls up outside our dressing room. I thought: “Great, one of the guys has snuck weed over here and we’re going to jail.” Then Bruce gets out of the police car and walks into our dressing room and just starts casually chatting about music. I’d never met him before, and he said: “Hey, do you want to do a song together? I know [The Gaslight Anthem’s]\n\nThe ’59 Sound\n\n.” He came out and played with us in that tent. That moment just overtook me.\n\nBrian Fallon andBruce Springsteen at Hard Rock Calling in Hyde Park, London, June 28, 2009\n\n(Image credit: Andy Sheppard/Redferns)\n\nDrive is everything\n\nI’ve spent a lot of time talking to guys like Springsteen and\n\nJon Bon Jovi\n\n, and they have an intense drive. I love punk rock and\n\nTom Waits\n\nand\n\nNick Cave\n\n– I’m comfortable with a level of fame where you can still have a normal life. But those guys really wanted to take on the world. I just wanted to maybe take on a couple of countries. I had something to prove, but not that much.\n\nI’m not in the New Jersey Music ‘Mafia’ – yet\n\nI don’t know, I think I’m getting there. I feel like you might have to be fifty before they tell you you’re in. I’ve got to talk to Jack Antonoff to see if he’s had any calls about it.\n\nMy mom has always been my guiding light\n\nIt was just my mom and me growing up. My mom taught me lessons about life by what she did rather than what she said. She was always working, but when she came home, she really sat with me and focused just on me. She made time for me even though she was busy taking care of all the bills herself. Seeing that example taught me not to let whatever gets in your way stop you. She’s still around, and I talk to her all the time. She still comes to the shows.\n\n(Image credit: Danny Clinch)\n\nGod stuck with me early and never left\n\nWhere I come from, almost everybody is Irish Catholic or Christian – and I don’t mean the Donald Trump kind of Christian, cos that’s a whole other thing. I grew up going to church. Not having a father affected me deeply as a kid, and the idea of a heavenly father really impacted on me. I remember walking home from school scared that someone was going to beat me up, and praying: “Please God, get me through this.” I believe in God and Jesus because I need it to be true. Whether it is true or not, I’m not going to argue with anyone about it. But for me, I need it to be true.\n\nThe hard stuff was never for me\n\nThe nickname for the school I went to in New Jersey was Heroin High. A lot of kids died. When you’re thirteen years old and people around you are dying, it scares you enough to say: “Okay, that’s not for me.” I’m not saying don’t take a weed gummy – like my friend Brandon says, it makes\n\nCheers\n\na lot funnier. But the hard stuff was out.\n\nThere’s a value in overcoming the odds\n\nWhere I come from, there weren’t a lot of opportunities straight off the bat. Nobody knew anybody who was famous. Maybe you knew somebody who could get rid of a body, or an uncle who could shake a guy down if he was bothering you after school, but that was it. The idea of getting out into the world was crazy – I had as much chance of going to the Moon as I did to England. Really pushing through all that is a special thing. Everybody has struggles – tough circumstances, disabilities, mental health issues – but you can always push past what’s in front of you.\n\n(Image credit: Danny Clinch)\n\nPunk rock taught me I could do anything\n\nIt lets you create your own world. As a kid, I loved how\n\nThe Clash\n\nused to dress. I had to do that as a punk rock kid – I couldn’t afford jackets with studs on them so I made my own. I’d chop the sleeves off of jean jackets and customise them. When you get in a punk rock band, you realise you don’t need a manager or a booking agent. I remember calling bars and pretending to be a booking agent representing my own band, just to get a step ahead. I was making it up as I went along.\n\nPersevere through the tough times\n\nThere were plenty of moments where I thought: “Why am I doing this?” One time we were in New Orleans, which is notoriously hot and humid, and we had to sleep on top of the van because it was too hot inside. I remember waking up in the morning, getting cooked by the sun, thinking: “This isn’t normal. It can’t be how you do it.”\n\nI worked in construction for a long time, and for me it was the fear of having to go back into that that kept me going. Construction sucked. Some people are great at it, but I hated it.\n\nI can rewire a house\n\nYeah, man. Construction wasn’t for me, but I can still do that stuff. Electricity is my speciality. You never know when that stuff will come in useful. We needed some work done in the living room recently – the ceiling was a little uneven, so I fixed it. Painting the house? Yeah, I’ve done that.\n\n(Image credit: Noam Galai/Getty Images)\n\nPolitics? Not for me\n\nI have an extreme distaste for politicians. Maybe I’m too working class, but I don’t trust ’em. I’ll tell you one guy who would make a great politician, and that’s Ken Casey from Dropkick Murphys. He’s really tied into his community, he’s smart, he knows how to talk to people, and gets his point across. I trust that guy, so I’ll leave the politics to him.\n\nCheck your ego now and then\n\nThere have been times where I’ve had to stop and think: “I’m getting too big for my boots here”, especially with the Springsteen comparisons in the early days. When you’re young, you’re out to prove who you are and how you’re different. I had to tell myself: “Dude, anybody would kill to be where you are, and plenty of your friends would die to have these problems”.\n\nRock'n'roll hurts sometimes\n\nI’ve never had a major injury, but the other Gaslight Anthem guys have. Benny [Horowitz, drummer] was walking up a metal ramp on stage once and he caught his arm on a sharp piece of scaffolding and cut it wide open. As we were playing, I looked over and said: “Dude, you’re covered in blood, are you alright?” He said: “I think so, nothing hurts.” But when we got off stage he had a giant gash and had to go straight to the ER for stitches and a tetanus shot. He gets injured the most.\n\nEarthquakes are terrifying\n\nWe were all in Japan during the 2011 earthquake and the tsunami that hit in Fukushima. We were on a train driving through the mountains when the train suddenly stopped. The power went out, and the train started swaying from side to side. Being from New Jersey, where there are no earthquakes, we were freaking out. The PA announcements were all in Japanese, and our translator tried to calm us down, saying: “Oh, earthquakes happen, it’s okay, we’ll get to Tokyo and be fine”.\n\nThen we arrived in Tokyo and found out what actually happened, which was terrifying. If we had been any closer to the coast it would have been really bad. That was nuts.\n\nIt feels like I've won the lottery\n\nFor a kid from New Jersey, my life has been kind of unbelievable. Getting to know Bruce Springsteen – that kind of thing is never supposed to happen. Same with Jon Bon Jovi. He did his first show back after vocal surgery at Madison Square Garden. I watched a video to see how he was doing, and I sent him a text message: “Hey man, I know we sat and talked about what you went through to get here, and you did a great job.” Then I sat back and said to myself: “You just texted Jon Bon Jovi. That’s crazy.”\n\nNot Bad For New Jersey is out now.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-11-02T06:58:33+00:00",
+      "id": "954e165166324d672d9a5908e5288e70627e21e9",
+      "retry_after": 0
     }
   ]
 }
