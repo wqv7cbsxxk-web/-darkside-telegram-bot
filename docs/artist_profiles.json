@@ -13,10 +13,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://alicecooper.com",
       "reference_url": "https://en.wikipedia.org/wiki/Alice_Cooper",
-      "reference_checked_at": "2026-10-26T14:18:25.926863+00:00",
+      "reference_checked_at": "2026-11-02T22:43:44.256362+00:00",
       "tour_attempted_at": "2026-11-01T09:49:44.369098+00:00",
       "instruments": "Vocals harmonica",
-      "reference_attempted_at": "2026-10-26T14:18:25.927051+00:00"
+      "reference_attempted_at": "2026-11-02T22:43:44.256591+00:00"
     },
     "accept": {
       "origin": "Solingen , West Germany",
@@ -47,10 +47,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://acceptworldwide.com",
       "reference_url": "https://en.wikipedia.org/wiki/Accept_%28band%29",
-      "reference_checked_at": "2026-10-26T14:18:26.011992+00:00",
+      "reference_checked_at": "2026-11-02T22:43:44.340057+00:00",
       "tour_attempted_at": "2026-11-01T09:49:47.558326+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-26T14:18:26.012015+00:00"
+      "reference_attempted_at": "2026-11-02T22:43:44.340075+00:00"
     },
     "ac-dc": {
       "origin": "Sydney , New South Wales, Australia",
@@ -81,10 +81,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://acdc.com",
       "reference_url": "https://en.wikipedia.org/wiki/AC/DC",
-      "reference_checked_at": "2026-10-26T14:18:26.283677+00:00",
+      "reference_checked_at": "2026-11-02T22:43:44.574883+00:00",
       "tour_attempted_at": "2026-11-01T09:49:47.831899+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-26T14:18:26.283794+00:00"
+      "reference_attempted_at": "2026-11-02T22:43:44.575099+00:00"
     },
     "aerosmith": {
       "origin": "Boston , Massachusetts, U.S.",
@@ -131,10 +131,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://aerosmith.com",
       "reference_url": "https://en.wikipedia.org/wiki/Aerosmith",
-      "reference_checked_at": "2026-10-26T14:18:26.565558+00:00",
+      "reference_checked_at": "2026-11-02T22:43:44.814732+00:00",
       "tour_attempted_at": "2026-11-01T16:30:51.977245+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-26T14:18:26.565578+00:00"
+      "reference_attempted_at": "2026-11-02T22:43:44.814754+00:00"
     },
     "arch-enemy": {
       "origin": "Halmstad , Sweden",
@@ -165,10 +165,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://archenemy.net",
       "reference_url": "https://en.wikipedia.org/wiki/Arch_Enemy",
-      "reference_checked_at": "2026-10-26T14:18:26.623611+00:00",
+      "reference_checked_at": "2026-11-02T22:43:44.874031+00:00",
       "tour_attempted_at": "2026-11-01T16:30:52.400134+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-26T14:18:26.623632+00:00"
+      "reference_attempted_at": "2026-11-02T22:43:44.874047+00:00"
     },
     "at-the-gates": {
       "origin": "Gothenburg , Sweden",
@@ -195,10 +195,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.atthegates.se/",
       "reference_url": "https://en.wikipedia.org/wiki/At_The_Gates",
-      "reference_checked_at": "2026-10-26T14:18:26.903104+00:00",
+      "reference_checked_at": "2026-11-02T22:43:45.062832+00:00",
       "tour_attempted_at": "2026-11-01T16:30:53.895324+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-26T14:18:26.903125+00:00"
+      "reference_attempted_at": "2026-11-02T22:43:45.062847+00:00"
     },
     "alice-in-chains": {
       "origin": "Seattle , Washington, United States",
@@ -904,7 +904,7 @@
       "reference_checked_at": "2026-10-27T08:28:41.272904+00:00",
       "qid": "Q162586",
       "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
-      "tour_attempted_at": "2026-10-27T14:53:50.395925+00:00",
+      "tour_attempted_at": "2026-11-02T22:43:45.269677+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-27T08:28:41.272927+00:00"
     },
@@ -934,7 +934,7 @@
       "website": "http://entershikari.com",
       "reference_url": "https://en.wikipedia.org/wiki/Enter_Shikari",
       "reference_checked_at": "2026-10-27T14:53:48.931134+00:00",
-      "tour_attempted_at": "2026-10-27T14:53:52.999147+00:00",
+      "tour_attempted_at": "2026-11-02T22:43:47.426992+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-27T14:53:48.931239+00:00"
     },
@@ -947,7 +947,7 @@
       "website": "http://eminem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Eminem",
       "reference_checked_at": "2026-10-27T14:53:49.298095+00:00",
-      "tour_attempted_at": "2026-10-27T14:53:54.803912+00:00",
+      "tour_attempted_at": "2026-11-02T22:43:48.787267+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-27T14:53:49.298617+00:00"
     },
@@ -977,7 +977,7 @@
       "website": "http://www.fateswarning.com",
       "reference_url": "https://en.wikipedia.org/wiki/Fates_Warning",
       "reference_checked_at": "2026-10-27T14:53:49.497101+00:00",
-      "tour_attempted_at": "2026-10-27T14:53:56.396161+00:00",
+      "tour_attempted_at": "2026-11-02T22:43:50.441075+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-27T14:53:49.497115+00:00"
     },
