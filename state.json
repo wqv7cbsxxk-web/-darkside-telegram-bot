@@ -1323,49 +1323,17 @@
     "a7414b97f2eaa66631a05753eec2c89315293b46",
     "e21fe5e0976aa74b7e640290e91c30358c4e6941",
     "e541577f89d81a20c6652ea2aad8476cc828cd12",
-    "e3499222fc5c2e094ee8e06beac59fa68c5c37a8"
+    "e3499222fc5c2e094ee8e06beac59fa68c5c37a8",
+    "aa2a570348d37ead8f86c910bca6b741a992b76d",
+    "f083cb4a076b75f7bf6826d69f85210227fe35f8",
+    "a257be5ddcaedc4da7f2cd73f37022e5682a787b",
+    "a413226e549f55ab75800aea20a2018289c699ed",
+    "df5d49df63ffedfdccd7f21cda93535dccf80f58",
+    "81e794ca29e2b9604f596da046d725a22c26bb43",
+    "b7242ad4a00ce74c9b5599d2504dbdb069d1554b",
+    "adcb91cf9d7f228b7c1f1776f7409d6eeefcb9cd"
   ],
   "recent_titles": [
-    {
-      "title": "Full Album Stream: Italian Death Metal Crew Obbrobrius Offer Up Usurped",
-      "source": "Decibel",
-      "ts": 1793281496
-    },
-    {
-      "title": "U2 add UK and European dates to 2027 world tour, humbly entitled The Greatest Show On Earth",
-      "source": "Louder",
-      "ts": 1793281508
-    },
-    {
-      "title": "Eloy Casagrande has finished recording drums for Slipknot’s new album: “we have a lot of songs!”",
-      "source": "Louder",
-      "ts": 1793281525
-    },
-    {
-      "title": "Maynard James Keenan was dared to become the singer of Tool: “I was being critical about things. It was like, ‘If you think you can do better...’”",
-      "source": "Louder",
-      "ts": 1793281539
-    },
-    {
-      "title": "“Rod Stewart was pissed. I thought, ‘That’s something I could do!’” Fish and the making of Marillion",
-      "source": "Louder",
-      "ts": 1793281569
-    },
-    {
-      "title": "Haywire’s Guerilla Video Shoot In Times Square Quickly Ended By The NYPD",
-      "source": "ThePRP",
-      "ts": 1793281576
-    },
-    {
-      "title": "Marilyn Manson Sets Dates For His First Australian Tour In Over A Decade",
-      "source": "ThePRP",
-      "ts": 1793281578
-    },
-    {
-      "title": "Motley Crue Announce First Summer 2027 Festival Appearances",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793281597
-    },
     {
       "title": "Metallica Release “Until It Sleeps” Live Video From Their Residency At The Sphere",
       "source": "ThePRP",
@@ -2125,6 +2093,46 @@
       "title": "TODD LA TORRE исполняет IRON MAIDEN",
       "source": "Darkside",
       "ts": 1793627990
+    },
+    {
+      "title": "Вокалист DEEP PURPLE поблагодарил за беспокойство",
+      "source": "Darkside",
+      "ts": 1793659384
+    },
+    {
+      "title": "Обновленный трек от AGALLOCH",
+      "source": "Darkside",
+      "ts": 1793659385
+    },
+    {
+      "title": "JOE SATRIANI в новом клипе BRIAN TARQUIN",
+      "source": "Darkside",
+      "ts": 1793659386
+    },
+    {
+      "title": "Oblivion Choir (Ex-20 Dead Flower Children / (hed)p.e.) Debut Their Cover Of Nine Inch Nails’ “Sin”",
+      "source": "ThePRP",
+      "ts": 1793659390
+    },
+    {
+      "title": "Trent Reznor & Atticus Ross Have Scored David Fincher’s New Film ‘The Further Mis-Adventures Of Cliff Booth’",
+      "source": "ThePRP",
+      "ts": 1793659395
+    },
+    {
+      "title": "Vended Have Hit The Studio With Producer Nick Raskulinecz",
+      "source": "ThePRP",
+      "ts": 1793659399
+    },
+    {
+      "title": "Burn Eternal (Killswitch Engage) Tease Their Debut Single “Wounds I’ve Made”",
+      "source": "ThePRP",
+      "ts": 1793659405
+    },
+    {
+      "title": "Gavin Harrison on juggling King Crimson, Porcupine Tree and The Pineapple Thief, and the hardest songs to play",
+      "source": "Louder",
+      "ts": 1793659416
     }
   ],
   "initialized_sources": [
@@ -5274,7 +5282,7 @@
       "title": "When Ozzy Osbourne Played an Anti-Heavy Metal Preacher in 'Trick or Treat'",
       "link": "https://metalinjection.net/news/when-ozzy-osbourne-played-an-anti-heavy-metal-preacher-in-trick-or-treat",
       "rss_body": "\"These evil people have just got to be stopped!\"",
-      "tags": "Latest News Ozzy Osbourne featured1",
+      "tags": "Latest News Ozzy Osbourne featured",
       "category": "Хэви-метал",
       "published": "2026-10-31T15:11:39+00:00",
       "id": "6e9238f921a755bc9a3df85bdd5964b2435ae4b9",
@@ -5322,7 +5330,7 @@
       "title": "Watch: Nene Royal Covers Slipknot's \"Psychosocial\" For Halloween",
       "link": "https://metalinjection.net/news/watch-nene-royal-covers-slipknots-psychosocial-for-halloween",
       "rss_body": "She's gearing up for a generational run.",
-      "tags": "Latest News Nene Royal",
+      "tags": "Latest News featured Nene Royal",
       "category": "Хэви-метал",
       "published": "2026-11-01T14:58:34+00:00",
       "id": "13488dcdfd301041f6849e1cc10828b1da51b177",
@@ -5465,7 +5473,7 @@
       "priority": 84,
       "title": "The full setlist from Aerosmith's second night in Hollywood",
       "link": "https://www.loudersound.com/bands-artists/aerosmith-dream-on-hollywood-bowl-night-two",
-      "rss_body": "Aerosmith\n\nhave completed the second of their Aerosmith & Friends' California: Dream On shows at the Hollywood Bowl in Los Angeles. And they addressed the viral remarks made by the host, comedian Bill Burr, on\n\nnight one\n\n.\n\nBurr had told the audience that the two Bowl shows would be the band's final ever shows, leading to much wailing and gnashing of teeth and online confusion, but frontman Steven Tyler wasn't having any of it.\n\n\"When the world ends, there will always be cockroaches, dirt, and Aerosmith,\" he told the crowd. \"You can’t get rid of us.\"\n\nElsewhere, there were several differences to Thursday night's show. The early part of the evening saw\n\nMarcus King\n\njoin the in-house band, followed by Jerry Cantrell, Tom Morello and Lzzy Hale, Grace Potter and Train's Pat Monaghan. Billy Idol and Steve Steven made their second appearance, and Heart reprised\n\nJanie's Got A Gun\n\nand dropped their own\n\nBarracuda\n\n.\n\nBlack Crowes\n\nplayed three songs they didn't perform at the first show, while\n\nGuns N' Roses\n\n' second set was entirely different from their first, and included a song many presumed they'd play on night one,\n\nMama Kin,\n\nas originally covered on their debut\n\nLive ?!*@ Like a Suicide\n\nEP, released four decades ago next month.\n\nAnd so to the headliners. No\n\nDave Grohl\n\nthis time – John Douglas took his place behind the kit – and once again, Joey Kramer only appeared on\n\nWalk This Way\n\n, this time bolstered by the presence of Run-DMC.\n\nWill we see Aerosmith again? Only time and the cockroaches will tell.\n\nAerosmith & Friends: California, Dream On - Night Two setlist\n\nSame Old Song And Dance (Marcus King)\n\nDraw The Line (Jerry Cantrell)\n\nNobody’s Fault (Jerry Cantrell)\n\nKings & Queens (Tom Morello / Lizzy Hale)\n\nRound & Round (Tom Morello / Lizzy Hale)\n\nLivin’ On The Edge (Billy Idol / Steve Stevens)\n\nWhat It Takes (Grace Potter)\n\nYou See Me Crying (Pat Monahan)\n\nAngel (Pat Monahan)\n\nCryin’ (Pat Monahan / Grace Potter)\n\nJanie’s Got A Gun (Heart)\n\nBarracuda (Heart)\n\nLet The Music Do The Talking (Black Crowes)\n\nGet The Lead Out (Black Crowes)\n\nCombination (Black Crowes)\n\nNo More No More (Black Crowes)\n\nChip Away The Stone (Black Crowes)\n\nMama Kin (Guns N' Roses)\n\nSOS (Too Bad) (Guns N' Roses)\n\nRats In The Celar (Guns N' Roses)\n\nSick As A Dog (Guns N' Roses)\n\nSweet Child O Mine (Guns N' Roses)\n\nNightrain (Guns N' Roses)\n\nToys In The Attic (Aerosmith, with John Douglas on drums)\n\nBack In The Saddle (Aerosmith, with John Douglas)\n\nSweet Emotion (Aerosmith, with John Douglas)\n\nDream On (Aerosmith, with John Douglas)\n\nCome Together (Aerosmith, with John Douglas)\n\nWalk This Way (Aerosmith and Run DMC, with Joey Kramer and John Douglas on drums)\n\nTrain Kept A Rollin’ (Aerosmith, with John Douglas)\n\nThanks to\n\nAerofanatic\n\nfor the setlist.",
+      "rss_body": "Aerosmith\n\nhave completed the second of their Aerosmith & Friends' California: Dream On shows at the Hollywood Bowl in Los Angeles. And they addressed the viral remarks made by the host, comedian Bill Burr, on\n\nnight one\n\n.\n\nBurr had told the audience that the two Bowl shows would be the band's final ever shows, leading to much wailing and gnashing of teeth and online confusion, but frontman Steven Tyler wasn't having any of it.\n\n\"When the world ends, there will always be cockroaches, dirt, and Aerosmith,\" he told the crowd. \"You can’t get rid of us.\"\n\nElsewhere, there were several differences to Thursday night's show. The early part of the evening saw\n\nMarcus King\n\njoin the in-house band, followed by Jerry Cantrell, Tom Morello and Lzzy Hale, Grace Potter and Train's Pat Monaghan. Billy Idol and Steve Steven made their second appearance, and Heart reprised\n\nJanie's Got A Gun\n\nand dropped their own\n\nBarracuda\n\n.\n\nBlack Crowes\n\nplayed three songs they didn't perform at the first show, while\n\nGuns N' Roses\n\n' second set was entirely different from their first, and included a song many presumed they'd play on night one,\n\nMama Kin,\n\nas originally covered on their debut\n\nLive ?!*@ Like a Suicide\n\nEP, released four decades ago next month.\n\nAnd so to the headliners. No\n\nDave Grohl\n\nthis time – John Douglas took his place behind the kit – and once again, Joey Kramer only appeared on\n\nWalk This Way\n\n, this time bolstered by the presence of Run-DMC.\n\nWill we see Aerosmith again? Only time and the cockroaches will tell.\n\nAerosmith & Friends: California, Dream On - Night Two setlist\n\nSame Old Song And Dance (Marcus King)\n\nDraw The Line (Jerry Cantrell, Mike Inez)\n\nNobody’s Fault (Jerry Cantrell, Mike Inez, Richie Kotzen)\n\nKings & Queens (Tom Morello / Lizzy Hale)\n\nRound & Round (Tom Morello / Lizzy Hale)\n\nLivin’ On The Edge (Billy Idol / Steve Stevens)\n\nWhat It Takes (Grace Potter)\n\nYou See Me Crying (Pat Monahan)\n\nAngel (Pat Monahan)\n\nCryin’ (Pat Monahan / Grace Potter)\n\nJanie’s Got A Gun (Heart)\n\nBarracuda (Heart)\n\nLet The Music Do The Talking (Black Crowes)\n\nGet The Lead Out (Black Crowes)\n\nCombination (Black Crowes)\n\nNo More No More (Black Crowes)\n\nChip Away The Stone (Black Crowes)\n\nMama Kin (Guns N' Roses)\n\nSOS (Too Bad) (Guns N' Roses)\n\nRats In The Celar (Guns N' Roses)\n\nSick As A Dog (Guns N' Roses)\n\nSweet Child O Mine (Guns N' Roses)\n\nNightrain (Guns N' Roses)\n\nToys In The Attic (Aerosmith, with John Douglas on drums)\n\nBack In The Saddle (Aerosmith, with John Douglas)\n\nSweet Emotion (Aerosmith, with John Douglas)\n\nDream On (Aerosmith, with John Douglas)\n\nCome Together (Aerosmith, with John Douglas)\n\nWalk This Way (Aerosmith and Run DMC, with Joey Kramer and John Douglas on drums)\n\nTrain Kept A Rollin’ (Aerosmith, with John Douglas)\n\nThanks to\n\nAerofanatic\n\nfor the setlist.",
       "tags": "Live Performances Bands & Artists",
       "category": "Хард-рок",
       "published": "2026-11-02T08:46:24+00:00",
@@ -5506,6 +5514,234 @@
       "category": "Хард-рок",
       "published": "2026-11-02T06:58:33+00:00",
       "id": "954e165166324d672d9a5908e5288e70627e21e9",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "A Documentary On Alex Terrible’s Bare-Knuckle Fighting/Metal Festival ‘Blood4Blood’ Will Arrive This Month",
+      "link": "https://www.theprp.com/2026/11/02/news/a-documentary-on-alex-terribles-bare-knuckle-fighting-metal-festival-blood4blood-will-arrive-this-month/",
+      "rss_body": "That first-ever event took place this past May.",
+      "tags": "News Alex Terrible Slaughter To Previal",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T20:44:31+00:00",
+      "id": "f519ca4e6fbcb34041aacedc27432d2119dec14b",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Cave In And Glacier Announce February 2027 East Coast Shows",
+      "link": "https://www.theprp.com/2026/11/02/news/cave-in-and-glacier-announce-february-2027-east-coast-shows/",
+      "rss_body": "Hypothermic conditions?",
+      "tags": "News Cave In Glacier",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T20:16:24+00:00",
+      "id": "5773515e4858031c4822dc7d63a05c4d833cefc1",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Knocked Loose & Arkangel Added To 2027 ‘FYA Fest’",
+      "link": "https://www.theprp.com/2026/11/02/news/knocked-loose-arkangel-added-to-2027-fya-fest/",
+      "rss_body": "Hitting Orlando, FL this January.",
+      "tags": "News Knocked Loose",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T20:03:50+00:00",
+      "id": "53c7321c7f208bad669e0bd9941793b677830d76",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Trivium Release “Fugue” Live Performance From Their Hangar Homebase",
+      "link": "https://www.theprp.com/2026/11/02/news/trivium-release-fugue-live-performance-from-their-hangar-homebase/",
+      "rss_body": "As they prepare for departure.",
+      "tags": "News Trivium",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T19:35:12+00:00",
+      "id": "9959b87cf28e9452b06223414335088f8af59cf9",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Deep Purple Cancel Remaining 2026 Tour Dates Following Ian Gillan’s Medical Emergency",
+      "link": "https://metalinjection.net/news/deep-purple-cancel-remaining-2026-tour-dates-following-ian-gillans-medical-emergency",
+      "rss_body": "\"\"Thank you for all the good wishes and support over the last few days, it means the world.\"",
+      "tags": "Latest News Ian Gillan deep purple",
+      "category": "Хард-рок",
+      "published": "2026-11-02T19:34:54+00:00",
+      "id": "ff8790d9b2bad418bfb7ce9d45e96f26a7403934",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "AEROSMITH отыграли второй концерт",
+      "link": "http://www.darkside.ru/news/184943/",
+      "rss_body": "AEROSMITH отыграли второй концерт, который также прошел в Hollywood Bowl под вывеской \"California Dream On: Aerosmith & Friends\":\n\n01. Same Old Song And Dance (Marcus King)\n\n02. Draw The Line (Jerry Cantrell, Mike Inez, Ritchie Kotzen)\n\n03. Nobody's Fault (Jerry Cantrell, Mike Inez, Ritchie Kotzen)\n\n04. Kings And Queens (Tom Morello, Lizzy Hale)\n\n05. Round And Round (Tom Morello, Lizzy Hale)\n\n06. Livin' On The Edge (Billy Idol, Steve Stevens)\n\n07. What It Takes (Grace Potter)\n\n08. You See Me Crying (Pat Monahan)\n\n09. Angel (Pat Monahan)\n\n10. Cryin' (Pat Monahan, Grace Potter)\n\n11. Janie's Got A Gun (HEART's Ann and Nancy Wilson)\n\n12. Barracuda (HEART's Ann and Nancy Wilson)\n\n13. Let The Music Do The Talking (THE BLACK CROWES)\n\n14. Get The Lead Out (THE BLACK CROWES)\n\n15. Combination (THE BLACK CROWES)\n\n16. No More No More (THE BLACK CROWES)\n\n17. Chip Away The Stone (THE BLACK CROWES)\n\n18. Mama Kin (GUNS N' ROSES)\n\n19. SOS (Too Bad) (GUNS N' ROSES)\n\n20. Rats In The Cellar (GUNS N' ROSES)\n\n21. Sick As A Dog (GUNS N' ROSES)\n\n22. Sweet Child O Mine (GUNS N' ROSES)\n\n23. Nightrain (GUNS N' ROSES)\n\n24. Toys In The Attic (AEROSMITH, with John Douglas on drums)\n\n25. Back In The Saddle (AEROSMITH, with John Douglas)\n\n26. Sweet Emotion (AEROSMITH, with John Douglas)\n\n27. Dream On (AEROSMITH, with John Douglas)\n\n28. Come Together (AEROSMITH, with John Douglas)\n\n29. Walk This Way (AEROSMITH, with Joey Kramer and John Douglas on drums, and RUN-DMC)\n\n30. The Train Kept A-Rollin' (AEROSMITH, with John Douglas)",
+      "tags": "",
+      "category": "Хард-рок",
+      "published": "2026-11-02T19:33:33+00:00",
+      "id": "3c8bd951f06bbf8c226bcb9cf99f2d2bd5b51068",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Justifications (The Red Chord) Tease Their New Track “Male Bonding”",
+      "link": "https://www.theprp.com/2026/11/02/news/justifications-the-red-chord-tease-their-new-track-male-bonding/",
+      "rss_body": "A clip of their upcoming music video has been shared.",
+      "tags": "News Justifications",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T19:26:27+00:00",
+      "id": "208f0a07cbdf27ec8fccc54dcceddb45aee3cd5a",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Billy Howerdel Auctioning Off Insane Collection of A Perfect Circle Memorabilia Including Guitars Used in 'Thirteenth Step' and From First Tour",
+      "link": "https://metalinjection.net/news/billy-howerdel-auctioning-off-insane-collection-of-a-perfect-circle-memorabilia-including-guitars-used-in-thirteenth-step-and-from-first-tour",
+      "rss_body": "The decades-old collection is open to the general public this month.",
+      "tags": "Latest News a perfect circle Billy Howerdel",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T19:08:13+00:00",
+      "id": "25af0fbf32f4457e7b79fe494f700b1eff4220e6",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео PYOGENESIS",
+      "link": "http://www.darkside.ru/news/184940/",
+      "rss_body": "\"Sing As If\", новое видео PYOGENESIS, доступно для просмотра",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T18:42:55+00:00",
+      "id": "f3a4d882e448f832e7e372b767c8e139be081681",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Agalloch Stream Updated Track From Their Newly Remixed And Remastered Version Of “Marrow Of The Spirit”",
+      "link": "https://www.theprp.com/2026/11/02/news/agallochs-marrow-of-the-spirit-to-receive-newly-remixed-and-remastered-release/",
+      "rss_body": "Along with some bonus material.",
+      "tags": "News Agalloch",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T18:39:51+00:00",
+      "id": "f3d980cab58c4a6bf1f66040edf12858a4d16ba8",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Deep Purple Postpones Remaining 2026 European Concerts",
+      "link": "https://ultimateclassicrock.com/deep-purple-2026-european-concerts-postponed/",
+      "rss_body": "Over a dozen show dates are now off the table. Here's why.",
+      "tags": "News Deep Purple UCR",
+      "category": "Хард-рок",
+      "published": "2026-11-02T18:11:40+00:00",
+      "id": "2596bfd357cf23535dde732047b158be18a46d86",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Deep Purple postpone remainder of their 2026 tour dates until further notice",
+      "link": "https://www.loudersound.com/bands-artists/deep-purple-postpone-2026-tour-ian-gillan-medical-emergency",
+      "rss_body": "Deep Purple\n\nhave postponed the rest of their 2026 shows following vocalist Ian Gillan's medical emergency this weekend.\n\nThe singer was hospitalised before the band's show at Leipzig's QI Arena on October 31, and their subsequent date at Hamburg's Sporthalle the following evening was also shelved.\n\nWhile the details surrounding his emergency medical treatment have not been disclosed, Gillan has written to fans outlining his current health status and news of the postponed dates.\n\nHe writes: \"Dear friends, Thank you for all the good wishes and support over the last few days... it means the world.\n\n\"I had a medical problem whilst in Leipzig which required urgent attention at the hospital.\n\n\"I was hoping that I would get the all-clear to hang on until the end of the tour, but there are very serious risks involved in me doing so.\n\n\"As a result, and on the advice of my medical team and management, we have made the decision to postpone the rest of the European/UK 2026 tour until further notice.\n\n\"I'm very sorry about any inconvenience this may cause, but it's in the best interest all round.\n\n\"Thank you for your understanding.\n\nCheers, IG\"\n\nA post shared by Deep Purple (@deeppurple_official)\n\nA photo posted by\n\nThe affected tour dates are as follows:\n\nNov 03: Dortmund Westfalenhalle, Germany\n\nNov 04: Berlin Uber Arena, Germany\n\nNov 06: Frankfurt Festhalle, Germany\n\nNov 07: Nuremberg Arena, Germany\n\nNov 09: Amsterdam Ziggodome, Netherlands\n\nNov 10: Strasbourg Zenith, France\n\nNov 12: Bordeaux Arkéa Arena, France\n\nNov 13: Nantes Zenith, France\n\nNov 15: Lyon LDLC Arena, France\n\nNov 18: Newcastle Utilita Arena, UK\n\nNov 19: Glasgow OVO Hydro, UK\n\nNov 21: Birmingham BP Pulse Arena, UK\n\nNov 22: Manchester AO Arena, UK\n\nNov 24: London Eventim Apollo, UK\n\nNov 25: London Royal Albert Hall, UK\n\nDec 05: Sao Paolo Suhai Hall, Brazil\n\nDec 08: Santiago Movistar Arena, Chile\n\nDec 10: Buenos Aires Movistar Arena, Argentina\n\nDec 13: Monterrey Arena Monterrey, Mexico\n\nDec 16: Guadalajara Arena Guadalajara, Mexico\n\nDec 19: Mexico City Estadio Fray Nano, Mexico\n\nWe wish Ian a speedy recovery.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-11-02T17:35:10+00:00",
+      "id": "904a93f88247b6ad0a488f6909d434062cee180c",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: NECROPANTHER — “THE THING FROM ANOTHER WORLD”",
+      "link": "https://www.nocleansinging.com/2026/11/02/an-ncs-premiere-necropanther-the-thing-from-another-world/",
+      "rss_body": "(written by Islander) Let’s pause for a moment to admire the artwork created by Max Sherman for Necropanther’s new album The Book of Change. More than a moment, actually, because it takes a more careful inspection to comprehend the detailed rendering of spiky crab-like legs and swirling tentacles, of pointed teeth and skull-like growths, of\n\n[...]",
+      "tags": "Premieres Necropanther",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T17:25:03+00:00",
+      "id": "f18cda8609d72840d9fe13cc6576856f27d54cdf",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Silly Goose Will Play a Free Pop-Up Show Inside a Georgia Denny’s This Saturday",
+      "link": "https://metalinjection.net/tour-dates/silly-goose-are-playing-a-dennys-this-saturday",
+      "rss_body": "First come, first served!",
+      "tags": "Tour Dates featured Silly Goose",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T17:06:44+00:00",
+      "id": "4dba66e0694b5ab239dc8146cbdcef668df4e687",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Zack de la Rocha wants Turnstile's younger fans to explore band's punk and hardcore roots",
+      "link": "https://www.loudersound.com/bands-artists/zack-de-la-rocha-turnstile",
+      "rss_body": "It seems that\n\nTurnstile\n\nare all over the news of late following their recent benefit show at the National Mall in Washington, DC, to aid those in Palestine, Sudan, and Lebanon.\n\nJames Hetfield\n\nrecently revealed that the Baltimore punk five-piece declined an invitation from\n\nMetallica\n\nto support them on their\n\nM72\n\ntour dates, before adding: \"What a vibe they bring. They are so fun.\"\n\nAnd now\n\nZack de la Rocha\n\nhas entered the chat.\n\nThe\n\nRage Against The Machine\n\nvocalist was recently spotted at skateboarding and music photographer\n\nGlen E. Friedman\n\n's\n\nBurning Flags\n\nexhibition in Barcelona, which showcases his iconic work and hosts screenings of his new documentary,\n\nThe Fuck You Heroes.\n\nSpanish music website\n\nBinaural\n\ntook the opportunity to get his thoughts on Turnstile, who are using their platform to promote societal change.\n\n\"It’s interesting to see this style making a comeback,\" said the Rage frontman (in an interview translated from Spanish via Google Translate). \"I’m not sure if it will have the same impact, but, then again, there are plenty of young people discovering it for the very first time – often through their initial exposure to bands like Turnstile. From there, they start discovering\n\nMinor Threat\n\n,\n\nBad Brains\n\n, Negative Approach,\n\nThe Clash\n\n… So, these bands occupy a really interesting space; they act as a kind of bridge. I hope that, through them, people will look back toward the original groups.\"\n\nZack added that bands like Turnstile may not exist without bands like Bad Brains laying the groundwork in the late '70s and early '80s.\n\n\"I also don’t think Bad Brains would have achieved the visibility they have today without Glen’s persistence and determination in promoting them,\" he explained. \"Many people would never have discovered that band if it weren’t for him.\n\n\"I’ve always been struck by how much Glen’s small, persistent actions helped bring bands like Bad Brains to light. He made it possible for people to discover them, see them, hear them, and draw inspiration from them.\"\n\nGlen E. Friedman's\n\nBurning Flags\n\nexhibition is currently taking place at Potassi K-19 in Barcelona until November 8. Entry is free.",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T16:30:00+00:00",
+      "id": "e5d86317671ccb472c6d1258d0d195bb752c5624",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The November Progressive Injection: Seventh Wonder, Devin Townsend, Stoned Jesus and More",
+      "link": "https://metalinjection.net/upcoming-releases/progressive-injection/the-november-progressive-injection-seventh-wonder-devin-townsend-stoned-jesus-and-more",
+      "rss_body": "As well as picks from Steven Wilson and Neal Morse & The Resonance.",
+      "tags": "Progressive Injection Devin Townsend steven wilson Seventh Wonder Stoned Jesus thy catafalque Jason Bieler OK goodnight Neal Morse & The Resonance Asia",
+      "category": "Прогрессив",
+      "published": "2026-11-02T16:01:20+00:00",
+      "id": "0888bc374168eae3d879cf80679c844769adab27",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: VÉR — “A FÉREG PUSZTULÁSA”",
+      "link": "https://www.nocleansinging.com/2026/11/02/an-ncs-premiere-ver-a-fereg-pusztulasa/",
+      "rss_body": "(written by Islander) Vér is the name of a quintet from Budapest, Hungary who made their public debut with a demo in September 2024. It grabbed the attention of Me Saco Un Ojo Records, which released the demo on tape early the next year. And now that same label is about one month away from\n\n[...]",
+      "tags": "Premieres Ver",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T15:46:44+00:00",
+      "id": "e1e80826829615bd84712dfbd4149973f1ac2938",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Paleface Swiss Won Halloween With Slipknot Cover Set",
+      "link": "https://metalinjection.net/news/watch-paleface-swiss-won-halloween-with-slipknot-cover-set",
+      "rss_body": "Well, putting the comparison into fruition.",
+      "tags": "Latest News slipknot Paleface Swiss",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T15:20:13+00:00",
+      "id": "3aa57a8d0f692480b45f21ee879b832a41fe3952",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Evanescence's Amy Lee believes that an AI backlash is just around the corner",
+      "link": "https://www.loudersound.com/bands-artists/evanescence-amy-lee-on-ai-generated-art",
+      "rss_body": "Evanescence\n\nsinger Amy Lee says that an oversaturation of AI-generated art will trigger a human-led creative resurgence in the near future.\n\n\"It's my hope and belief,\" Lee told the\n\nRocked\n\npodcast at the Sick New World festival in Fort Worth, Texas. \"Doomscrolling is real. It's hard not to look around and just feel like, 'Oh man, we're so cooked. This is just going on a downhill path.' But when in the world has there ever\n\nnot\n\nbeen a pendulum swing back the other way when things become too extreme? More and more, I feel in my own heart, I see people wanting real art, real artists, real things made by hand. I feel like that is where we're headed – that's beautiful and fun and exciting. With all the craziness in the world, like we need each other; we need an outlet to let it out.\"\n\nThe singer explained that an AI-generated poster of the band advertising a recent promotional event was indicative of the problem.\n\n\"It looked like I put out that poster,\" she sighs. \"I saw this horrible poster the other day of something we were about to do. I'm like, why? It's so ugly. It's like the ugliest, worst, most horrible [thing]. It's like, you could have snapped a picture of us anywhere and put it on your poster.\n\n\"We're in a new world,\" she continues. \"Our phones are part of it. We're going to have to find the way for authenticity and finding each other in the real world and making art in the real world. I really do think the value of that has only gone up through the ocean of lame.\"\n\nLee's comments come just days after\n\nAvenged Sevenfold\n\nguitarist\n\nZacky Vengeance\n\ndefended the use of generative AI.\n\n“Every major technological advancement has been met with fear and resistance,\" noted the guitarist, in a statement written using an AI program. \"AI is no different. It’s not the death of creativity or human ingenuity; it’s an expansion of what’s possible.\"\n\nIn non-AI news, Evanescence will reissue their 2006 album\n\nThe Open Door\n\non November 6 through Craft Recordings.",
+      "tags": "Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T14:13:09+00:00",
+      "id": "00beee23d2986191244b40cc4f05f08fbb5d1e48",
       "retry_after": 0
     }
   ]
