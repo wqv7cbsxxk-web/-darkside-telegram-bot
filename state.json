@@ -1348,49 +1348,17 @@
     "8184b15dd99d0918fc0e62188d8ac68967b17ee5",
     "b2da6897482cb04f5bb2db03612b67a00c60d15c",
     "bc944ddce412a5e616dfad929baa1e1d2659818a",
-    "a925c47a291357a7365471fa408066a15cb6b29b"
+    "a925c47a291357a7365471fa408066a15cb6b29b",
+    "bf183b9cddc8c0bc2f12fa9df6e85d304b65d4d2",
+    "92e1a15792fd1528d869cecc6e91ca29e39aab3a",
+    "300e20d42a45de9cf36a695bb08dfaa92618b84d",
+    "3033be1e605e8d1a270657fa29885fd26083ab0c",
+    "4de079350f74055f623cd2432f09ce1a02dc987f",
+    "d10cdaa227e0a470a3ac76e28d2d300d858d61b6",
+    "a3c98d51e32a2f6f4d4fd394076958fbd1f7d848",
+    "abe1b95bd351c823b7f904485ee9a7e2f1c4fb55"
   ],
   "recent_titles": [
-    {
-      "title": "Foo Fighters release 29-year-old cover of Gerry Rafferty's classic Baker Street",
-      "source": "Louder",
-      "ts": 1793328802
-    },
-    {
-      "title": "Filth Is Eternal’s Touring Van Stolen, Fans Urged To Keep An Eye Out For It",
-      "source": "ThePRP",
-      "ts": 1793328805
-    },
-    {
-      "title": "Ruins Of Perception Channel The Folktale Of Bluebeard Into Their “The Crimson Key” Video",
-      "source": "ThePRP",
-      "ts": 1793328809
-    },
-    {
-      "title": "Unholy Altar Sign With BLKIIBLK",
-      "source": "ThePRP",
-      "ts": 1793328814
-    },
-    {
-      "title": "Bloodbath & NervoChaos Announce Australian Tour For Early 2027",
-      "source": "ThePRP",
-      "ts": 1793328817
-    },
-    {
-      "title": "Bloodlines’ New Single “Freefall” Arrives Online",
-      "source": "ThePRP",
-      "ts": 1793328837
-    },
-    {
-      "title": "Voivod Announce The Passing Of Denis “Snake” Bélanger’s Significant Other Christine McDonald",
-      "source": "ThePRP",
-      "ts": 1793328854
-    },
-    {
-      "title": "200 Stab Wounds Tap Code Orange, Etc. Members To Oversee Their New “Sweet Suicide” Music Video",
-      "source": "ThePRP",
-      "ts": 1793328859
-    },
     {
       "title": "Новое видео ARCHERS",
       "source": "Darkside",
@@ -2150,6 +2118,46 @@
       "title": "Новое видео ZEKE DEUX",
       "source": "Darkside",
       "ts": 1793705174
+    },
+    {
+      "title": "LEE AARON выпустит альбом зимой",
+      "source": "Darkside",
+      "ts": 1793731141
+    },
+    {
+      "title": "Вокалист GODSMACK обещает новую музыку в 2027",
+      "source": "Darkside",
+      "ts": 1793731144
+    },
+    {
+      "title": "Новое видео MYSTIC CIRCLE",
+      "source": "Darkside",
+      "ts": 1793731145
+    },
+    {
+      "title": "HARTLIGHT спели про Золотое Яйцо",
+      "source": "Darkside",
+      "ts": 1793731147
+    },
+    {
+      "title": "Гитарист RIVAL SONS о распределении доходов в коллективе",
+      "source": "Darkside",
+      "ts": 1793731148
+    },
+    {
+      "title": "Countdown Timer Launched For This Week’s ‘Ozzfest’ 2027 Announcement",
+      "source": "ThePRP",
+      "ts": 1793731154
+    },
+    {
+      "title": "Tesla Announces Expanded 2027 Tour Dates",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793731170
+    },
+    {
+      "title": "Poison The Well, Alexisonfire & Touché Amoré Announce Spring U.S. Tour",
+      "source": "ThePRP",
+      "ts": 1793731173
     }
   ],
   "initialized_sources": [
@@ -5819,6 +5827,294 @@
       "category": "Хард-рок",
       "published": "2026-11-03T04:05:00+00:00",
       "id": "89e770a06adee210dc87335c7561b5f99bf3685a",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Metallica Release “Battery” Live Video From Their Residency At The Sphere",
+      "link": "https://www.theprp.com/2026/11/03/news/metallica-release-battery-live-video-from-their-residency-at-the-sphere/",
+      "rss_body": "Admittedly, not a lot of effort seems to have went into the visual presentation of this fan favorite.",
+      "tags": "News Metallica",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T18:06:16+00:00",
+      "id": "42b8a5165a052554c3d65d1c2ee4abf2c36f9015",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Blast Worship: Shunt",
+      "link": "https://www.decibelmagazine.com/2026/11/03/blast-worship-shunt/",
+      "rss_body": "Where the from?\n\nPhiladelphia, PA. I had the flu last week. It was all a blur of throwing up in cars, sweating profusely on the coach and watching the Jets defense let up touchdown after touchdown. Oh yeah, at some point the Brewers won the World Series, but that was most likely one of the afternoons I was hacking up clear stomach goo into a toilet bowl.\n\nWhy the hype?\n\nSpeaking of ectoplasmic stomach entrails,\n\nShunt\n\nare the current gore kings of the surprisingly robust slimewave of bands that invade the Mr. Beery’s parking lot every august. Shunt encapsulates both ends of the grind spectrum, with razor-tight, gore-soaked blasts that give way to the bouncy castle-inflected hardcore parts that are just so popular with the kids today. The result is music you can just easily barf to as you can fuck to it, no comment given as to what it’s like actually doing either.\n\nLatest release?\n\nMesenteric Torsion\n\n, self-released. To me, very few goregrind albums could be described as having “character,” but this one does, a herky-jerky zombie slowly stumbling into your lap to see what he can munch on. You know, the type of person we let run the country!\n\nMESENTERIC TORSION by Shunt",
+      "tags": "Blast Worship News Streaming grindcore Shunt",
+      "category": "Экстремальный метал",
+      "published": "2026-11-03T18:03:35+00:00",
+      "id": "3d0da74e5d3ee8ccf0170ac4d7ef3ddaabcd1a33",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "JUSTIN SARGENT о роли нового вокалиста SKID ROW: «Это что-то нереальное!»",
+      "link": "http://www.darkside.ru/news/184925/",
+      "rss_body": "JUSTIN SARGENT в программе \"Trunk Nation With Eddie Trunk\" вместе с гитаристом SKID ROW Dave \"Snake\" Sabo обсудили перемены в жизни коллектива. На вопрос о том, как Justin в итоге оказался в группе, он ответил:\n\n«Каждый год в Нью-Йорке я участвую в благотворительном мероприятии под названием Rockers On Broadway. Его основали Пит Таунсенд и мой хороший друг Донни Кер. Как и всегда, мероприятие прошло с огромным успехом. Мы собрали сотни тысяч долларов для благотворительного фонда PATH.\n\nА на следующий день я получил электронное письмо от менеджера SKID ROW Робби Хоффмана, в котором он написал: \"Привет, я менеджер группы SKID ROW. Мы ищем нового вокалиста. Я видел тебя вчера вечером на этом мероприятии. Я подумал, что ты был крут. Не хочешь познакомиться с ребятами и, возможно, стать новым вокалистом группы?\" А я ответил: \"Ты, должно быть, шутишь? Да, конечно, с удовольствием. Звучит потрясающе. Это просто мечта, ставшая явью\". И он связал меня с Rachel [Bolan].\n\nЯ приехал к нему и познакомился там со Snake'ом. Мы тусовались вместе пару дней. За неделю я пару раз съездил туда и обратно. Мы записали несколько мелодий и отправили их остальным ребятам, чтобы они тоже послушали. Потом мы на несколько недель разошлись, а затем начались праздники. После этого мне позвонили и спросили, не хочу ли я приехать и выступить с группой в полном составе, чтобы сыграть несколько песен в рамках продолжающегося отбора.\n\nОни сократили список кандидатов и хотели, чтобы мы все приехали, встретились с группой и спели все песни вместе. Так что я попал в этот список. И вот что скажу: с того самого момента, как я вошёл в эту студию, в эту репетиционную, я подумал: \"Мы с ними поладим. Будет весело\". И вот мы здесь».\n\nО том, каково это — стать новым вокалистом SKID ROW, Justin сказал:\n\n«Это было невероятно. Это лучшее слово, которое я могу подобрать. Не могу поверить, что это происходит. Не могу поверить, что я здесь, что этот день наконец настал. Мы работали несколько месяцев, и каждый день до сегодняшнего был похож на все остальные дни, когда я думал: \"Не могу поверить, что это происходит\"».\n\nО том, когда он узнал, что его выбрали новым солистом SKID ROW:\n\n«Пару месяцев назад. И вот что было по-настоящему здорово со стороны этих джентльменов: мы потратили много времени на то, чтобы лучше узнать друг друга, прежде чем объявили об этом официально. Никто не торопил события. Мы хотели убедиться, что всё получится, что мы сможем собраться вместе, потусоваться и найти общий язык.\n\nИ, что самое интересное, с самого начала я чувствовал себя уверенно. Поэтому для всех было очень важно убедиться, что тот день не был случайностью и что это может вылиться во что-то долговременное. И, как я уже сказал, последние пару месяцев показали, что так оно и есть».\n\nНа вопрос о том, был ли он фанатом SKID ROW до того, как прошёл прослушивание в группу, Justin ответил:\n\n«О да. К счастью, у меня невероятно крутые родители — они до сих пор живы, — они воспитывали меня на классическом роке. THE WHO — моя любимая группа всех времён. С раннего детства я слушал THE WHO, LED ZEPPELIN, QUEEN и ROLLING STONES.\n\nИ когда я начал отходить от музыки, которую любили мои родители, и формировать свой собственный музыкальный вкус, SKID ROW стали для меня одной из тех групп, которые произвели неизгладимое впечатление. Они сыграли очень важную роль в начале моей карьеры. Когда я участвовал в \"Rock Of Ages\" на Бродвее, песня SKID ROW \"18 And Life\" звучала перед концертом и служила для меня сигналом подняться на сцену.\n\nИтак, каждый божий вечер я готовился, и как только я слышал эти первые аккорды, меня сразу же охватывало невероятное чувство радости, потому что я мог выйти на сцену и исполнить музыку, которую я люблю больше всего, и потрясающие песни на сцене для тысяч людей. И \"18 And Life\" всегда была песней, которая заставляла меня погружаться в это каждый божий вечер. Это одна из таких песен... Похоже, что судьба сложилась интересным образом».\n\nJustin также более подробно рассказал о своей карьере на Бродвее:\n\n«На Бродвее, в мире Бродвея и музыкального театра, есть небольшая группа людей, состоящая почти исключительно из рок-исполнителей. И для нас это означает, что количество концертов очень ограничено. Количество концертов, которые мы можем дать, ограничено. \"Rock Of Ages\" был грандиозным. Я дал более 500 выступлений. Мы выступали шесть дней в неделю, по восемь концертов в неделю. Это было очень напряжённое время. А потом в \"Человеке-пауке\" я сыграл Питера Паркера. Музыку для него написали Боно и The Edge из U2. А затем был \"Иисус Христос— суперзвезда\".\n\nВсе эти шоу требуют подлинных рок-голосов и подлинных рок-личностей. И вот тут-то я и сделал первые шаги в этой области. У многих актёров существует поговорка: \"Ты актёр 10 % времени, а всё остальное время ты обслуживаешь столики\". И это справедливо для большинства людей. Но что касается меня, то из-за ниши, которую я нашёл, я пел в группах. Я пел в группах в Джерси и на Лонг-Айленде, в Нью-Йорке, в Коннектикуте. Я летал по всей стране.\n\nЯ смог поучаствовать во множестве таких рок-симфонических шоу, когда я выходил на сцену и пел 18 песен LED ZEPPELIN за вечер с симфоническим оркестром Сент-Луиса. И это было частью моей жизни в течение последних... О Боже, я занимаюсь этим уже 17 лет».\n\nНа вопрос о том, будет ли он продолжать выступать на Бродвее, когда появится возможность, или пока сосредоточится исключительно на SKID ROW, Justin ответил:\n\n«SKID ROW в приоритете. Эта группа в приоритете. На неё я буду тратить большую часть своей энергии, если не всю. Если появится возможность, мы это обсудим. Если это будет полезно для группы, то да, я соглашусь. Если нет, то я буду заниматься только этим».\n\nSave Sabo также рассказал о поиске вокалиста для SKID ROW:\n\n«Один из самых важнейших моментов для нас, как и всегда, — это чтобы мы ладили с людьми, с которыми делим сцену, автобус, отель и так далее. Мы практически всё время проводим вместе. Поэтому мы хотели убедиться, что сможем смеяться и разговаривать, не испытывая чувства, что нам нужно срочно выйти из комнаты, потому что мы уже не можем выносить этого парня. Конечно, хочется, чтобы человек был отличным исполнителем, музыкантом и так далее, но, чёрт возьми, когда ты можешь зайти к кому-то в комнату, сесть рядом и поговорить о его семье или о чём угодно, просто поговорить и посмеяться, это здорово...\n\nМы занимаемся этим, потому что это приносит радость. Вот почему мы играем в группе: мы любим сочинять и исполнять музыку для людей, и нам хочется делать это в такой обстановке, когда улыбка на твоём лице искренняя. Это не показуха. Это по-настоящему.\n\nИ вот, проведя много времени вместе, мы все довольно быстро поняли, что, даже если у нас не сложится с музыкой, мы всё равно сможем общаться и останемся друзьями. Мы легко нашли общий язык. А потом мы отправились в студию, начали играть, и тут же Justin сказал: \"Давайте исполним весь сет\". А мы такие: \"Мы готовы сыграть только три-четыре песни\". А он сказал: \"Чуваки, я выучил весь сет. Погнали\". И мы начали с самого начала, со \"Slave To The Grind\" и до \"Youth Gone Wild\".\n\nВсе говорят: \"Было круто с самого начала\". Но на самом деле это было не так уж сложно. Никаких сложностей не возникло. Было чувство: \"Это действительно круто\". Я с нетерпением жду возможности выступить у Дэйва ДиПьетро в Хазлете и отыграть сет так, будто мы занимаемся этим уже давно. И опять же, получать удовольствие от того, что ты делаешь, — это круто... Особенно на этом этапе нашей карьеры хочется просто быть счастливым.\n\nХочется просто выйти на сцену и повеселиться, и, надеюсь, это чувство передастся и зрителям. И я думаю, что так и будет. Я надеюсь, что так и будет. Конечно, мы сделаем всё, что в наших силах, но пока это был отличный опыт. Всё было без напряга. Ничего такого, что выворачивало бы нас наизнанку. Было очень весело. И то, что спустя 40 лет существования группы мы испытываем такие чувства, — это очень трогательно. Это нечто особенное. И я могу говорить от лица всех, когда скажу, что мы все очень благодарны за то, что живём именно в этот момент».\n\nSnake также рассказал о планах SKID ROW на гастроли:\n\n«Мы долго не выступали — слишком долго. Но ожидание того стоило. Мы очень тщательно подошли к этому процессу. Мы встретились со множеством замечательных людей. Но мы хотели убедиться, что не бросаемся в омут с головой, и это одна из причин, по которой мы так долго не выступали. Но ожидание того стоило. Так что мы с нетерпением ждём возможности вернуться и заниматься тем, что умеем, — выступать вживую и создавать музыку».\n\nНа вопрос о том, когда поклонники смогут услышать новый альбом с оригинальным материалом SKID ROW и вокалом Justin'a, Snake ответил:\n\n«Он выйдет не раньше, чем начнутся концерты. Мы хотим выйти на сцену и отыграть все запланированные выступления, но мы постоянно сочиняем песни. И мы хотим посмотреть, что привнесёт в наш альбом Justin. В конце концов побеждает лучшая идея. Так было всегда. Просто пятеро парней обсуждают свои идеи в центре зала, и всё, что получается лучше всего, идёт в дело.\n\nУ нас с Rachel'ом с самого начала сложились партнёрские отношения, и, конечно же, это здорово сработало. Нам очень повезло в этом отношении. И, повторюсь, нам по-прежнему доставляет огромное удовольствие делать то, что мы делаем, творить вместе. Процесс будет немного отличаться, потому что Justin теперь в группе, и давайте посмотрим, что он нам предложит. И я уверен, что у него получится отличный материал. Но, опять же, мы просто хотим убедиться, что это лучший материал, который мы могли бы выпустить. Мы не хотим торопиться. Мы с нетерпением ждём момента, когда сможем сыграть и потусить».",
+      "tags": "",
+      "category": "Экстремальный метал",
+      "published": "2026-11-03T17:45:00+00:00",
+      "id": "bc5397cff31c454acac2a841aecc342fef7a68b1",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Atoll Announce New Album “Death Roll Party 9000”, Recruit Crown Magnetar’s Dan Tucker For “Weed Witch” Video",
+      "link": "https://www.theprp.com/2026/11/03/news/atoll-announce-new-album-death-roll-party-9000-recruit-crown-magnetars-dan-tucker-for-weed-witch-video/",
+      "rss_body": "Guest appearances from members of Extermination Dismemberment and Vehemence are also featured.",
+      "tags": "News Atoll Crown Magnetar",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T17:42:45+00:00",
+      "id": "20c46d20a284b6db04b2529d174c765d2c98d456",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Elder Announce Rescheduled Spring 2027 Tour With Blackwater Holylight",
+      "link": "https://www.theprp.com/2026/11/03/news/elder-announce-rescheduled-spring-2027-tour-with-blackwater-holylight/",
+      "rss_body": "There's also some new shows in there as well.",
+      "tags": "News Blackwater Holylight Elder",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T17:14:39+00:00",
+      "id": "a1d90b025fa77e9efaa226f8163f63b069b6ef2e",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Currents, Vana, Stick To Your Guns, Vanna & Dreamwake North American Tour Booked",
+      "link": "https://www.theprp.com/2026/11/03/news/currents-vana-stick-to-your-guns-vanna-dreamwake-north-american-tour-booked/",
+      "rss_body": "Vana and Vanna on the road together at last.",
+      "tags": "News Currents Dreamwake Stick To Your Guns Vana Vanna",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T17:00:43+00:00",
+      "id": "9b9bf023d6577e15b25e11cfd0c67942590f7157",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Interview: Rebreather on ‘Chaos Patterns’",
+      "link": "https://www.decibelmagazine.com/2026/11/03/interview-rebreather-on-chaos-patterns/",
+      "rss_body": "Youngstown, Ohio’s\n\nRebreather\n\nare back with\n\nChaos Patterns,\n\nout now via\n\nAqualamb Records.\n\nInitially formed in 1999, they have seen decades of moving and shifting in the world of metal. We talked to them about their new music and surviving the landscape for decades.\n\nHaving been at it with doom and sludge for so long, and playing out of the box music since 1999, how do you feel about the state of music today and how things have changed? Are there any bands you’re really digging or influenced by?\n\nOne change I’ve noticed is that there seems to be so many more bands out there doing things.  I think it’s easy for newer bands to get lost in the shuffle.  A positive aspect would be that there seems to be a lot less gatekeeping. The bands all seem to support each other and the local scenes, which is a good thing for everyone.  Lately, with the economy being fucked, you can get waves of shows with lower attendance.  That’s why it’s been so fun playing any of the many festivals that pop up around the country. Gives people a good excuse to see all of their favorite bands at once and the performers get to hang with so many friends that you’ve made crossing each others paths over the years.  A big reunion for everyone.  It’s so much fun watching your friends play live … It’s my favorite part.\n\nWhat are you most excited about when it comes to having the record out in the world? What do you hope to convey to folks with this release?\n\nThat it’s finally goddamn done! We are definitely happy that it’s finished.  But the main thing, I think, is that we are all proud of it. Our music has always floated around the perimeter of several genres. This album is not genre defining at all, but I believe it defines us as a band. It’s the best definition of what we are. Excited to hear what people think about it.\n\nWhat was the writing and recording like for this album? How did it differ from previous releases?\n\nIt’s very easy for us to blast out material, tweak it till it’s “good enough,” and move on. We took so much time on this one … a year and a half, maybe two years to record.  We would record, play out, change parts, then end up re-recording.  We really took our time dialing shit in while recording at Mind Rocket with our buddy Josh Roman.  A second home for us, and always a pleasure to work with Josh.  It was very exciting to finally get to work with Andrew Schnieder for the final mixes.  Alway been a fan of his work, and we were stoked that he squeezed us into his insane schedule.  He pulled some great energy out of the tracks…very rad!  Carl Saff’s mastering is always on point.  He’s magic.  It’s crazy.\n\nWhat are some of the major lyrical themes on the album?\n\nIt’s a little all over the place … Most of the songs have lines that have nothing to do with each other, but each line means something specific to me.  A bunch of puzzle pieces that add up to one vibe. We have all been dealing with our own anxieties, while trying to manage all of the random chaos throughout our families and friends, which lead to the album title,\n\nChaos Patterns\n\n. Navigating our way through the random waves of stressors that are really effecting all of us.\n\nCan you talk about the artwork and how it ties in with the concepts of the record?\n\nThe artwork was done by Mike Egan, a regional artist that we discovered when our friends Nate and Jami Offerdahl started hiring him the do murals at their music venue, Westside Bowl.  Super bold and captivating.  It really grabbed our attention.  I got in touch and had a meeting with him explaining the undertones of the record and how we thought his work would fit.  I shot him the album and asked if he could do one piece for each song, so that we could do a nine-panel layout for the cover. He nailed it! His characters are so fucking cool.  I’m so happy he was down.\n\nIs there anything else you’d like to add?\n\nIt’s been a pleasure working with Aqualamb.  This will be our second record with them.  Only concerned with two things … music and art. No bullshit. The best people.\n\nGet the album here.",
+      "tags": "Exclusive Interviews Aqualamb Records Chaos Patterns ohio Rebreather Youngstown",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T17:00:07+00:00",
+      "id": "cf3797a8adc480af46c25fdbb2669acfe52eeb54",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "How Pentangle survived being matched with Led Zeppelin and Cream",
+      "link": "https://www.loudersound.com/music/albums/pentangle-basket-of-light",
+      "rss_body": "n a musical era when almost anything could and did happen, Pentangle rose to great heights with their experimental take on folk rock. Their peak came with revered 1968 album\n\nBasket Of Light\n\n– but as singer Jacqui McShee told\n\nProg\n\nin 2009, it didn’t last long.\n\nPioneers from a\n\ntime before labels like ‘progressive rock’ had assumed common coinage,\n\nPentangle\n\nmade music that really was impossible to categorise. A self-consciously arty hybrid of blues, folk, jazz, classical and something unnameable that could only be produced when the five individuals in the group stood – or, more usually, sat – in the same room together. “It was all down to chemistry,” agrees singer\n\nJacqui McShee\n\n.\n\nThese days Pentangle tend to get lumped in with the folk-rock of the late-60s; and certainly the roots of the group’s main creative voices – McShee and guitarists\n\nBert Jansch\n\nand\n\nJohn Renbourn\n\n– lay within that then-thriving UK scene. But as the vocalist points out: “We all had much broader musical backgrounds. I brought most of the traditional songs into the band, but I didn’t actually own any folk records! I was into jazz:\n\nMiles Davis\n\n, John Coltrane. It was about experimentation. We all had an equal say in every song, jamming along, working on each tune together. Nobody was told how to play or sing. You just did what you liked.”\n\nAlthough Jansch and Renbourn had several highly-regarded if uncommercial solo albums between them – including\n\nBert And John\n\n, recorded during their time sharing a flat together – the almost instant success Pentangle achieved could not have been foreseen when its principle members first came together, playing for free at the Horseshoe Hotel in Tottenham Court Road in the spring of 1967.\n\nOnce described as “a man who seems in silhouette even in daylight,” Jansch was a disciple of fellow Scot\n\nDavey Graham\n\n, whose modal tunings, learned on travels to Morocco, would also influence\n\nJimmy Page\n\n(a man “absolutely obsessed with Bert Jansch” in the mid-60s). Described by\n\nNeil Young\n\nas “the\n\nJimi Hendrix\n\nof the acoustic guitar,” Jansch took folk and added baroque, jazz, blues and rock. “I used to get thrown out of folk clubs for not singing the right songs,” he said in 2006. “I was too influenced by all the non-folk music.”\n\nRenbourn was more traditionalist though no less experimental, looking beyond folk to medieval and early classical music for his inspiration, and taking the acoustic guitar to inscrutable new heights as he weaved in and around Jansch’s enigmatic improvisations. As McShee says: “Nobody plays like Bert and nobody plays like John; put them together and it shouldn’t work, but it just does. Sitting with them while they play, it always made me smile, it’s so hypnotic.”\n\nThe other pieces of the jigsaw, drummer\n\nTerry Cox\n\nand double-bassist\n\nDanny Thompson\n\n, were equally catholic in their musical influences. Both shared a love of improvisational jazz, had been part of\n\nAlexis Korner\n\n’s blues band, and jammed with future\n\nMahavishnu Orchestra\n\nleader\n\nJohn McLaughlin\n\n.\n\nThompson was also a larger than life character who liked to party. “We were all drinkers,” McShee recalls. “Going to New York for the first time, we were outrageously drunk all the way over on the plane. We arrived at the hotel and it was all expenses paid by Warner Brothers. We were like kids in a sweet shop.”\n\nGiven the arty, free-flowing nature of the music and the era it was made in, one wonders if there was more to Pentangle’s offstage mien than mere drinking? More laughter: “There was some dope smoking and stuff, but nothing drastic. As a kid I’d be sat in the pub with a brown ale hoping no one would ask me my age.”\n\nMcShee, who’d sung with John and Bert at London folk haunts like Les Cousins, had also appeared on the former’s\n\nAnother Monday\n\nalbum. When Thompson and Cox began joining in at the Horseshoe, “it just seemed natural.” It was the quietly-spoken but fiercely determined Jansch who suggested they make a permanent alliance. Pentangle’s name came from Sir Gawain’s shield in the Middle English poem\n\nSir Gawain And The Green Knight\n\n, and represented the five members (points) of the line-up. “That came from John,” says McShee, “who knew about that sort of thing.”\n\n(Image credit: Press)\n\nThe idea of becoming rock stars had never entered their minds, though. As Jansch once said, “I was never interested in being famous; never interested in anyone else who was.”\n\nEnter legendary managerial svengali Joe Lustig. “Joe had big plans for us,” McShee says, “which definitely worked for a while.” They certainly did: launching the band with a showcase concert at the Royal Festival Hall, Pentangle found themselves “starting at the top and working our way down again,” as Jansch only half-jokingly described it.\n\nI could hide behind these other four big egos, which suited me down to the ground\n\nBy the time third album\n\nBasket Of Light\n\nreached Number 5 in January 1970, Pentangle were TV and radio regulars. The album even yielded a minor hit single with\n\nLight Flight\n\n, an earlier version of which had been the theme to the TV series\n\nTake Three Girl\n\ns. How a piece of music that switched between 5/8, 7/8 and 6/4 time signatures became a chart hit remains a mystery – even to McShee:\n\n“We were really shocked at having a hit record. Joe said it would have been a much bigger hit if we had expanded on [the subject of the TV show] but I stamped my little foot and said no, because it wasn’t really Pentangle style. Joe got a bit cross about it, but none of the rest of the band were bothered.”\n\nBasket Of Light\n\nwas not only their biggest hit but their most cohesive musical statement – a beguiling blend of traditional Olde English songs given fresh stylings – such as\n\nOnce I Had A Sweetheart\n\n(to which Renbourn added a sitar solo) and originals credited to all five members like\n\nTrain Song\n\n(ostensibly a blues with added sumptuous layers, evoking the rhythms of a train before melting into a dream-like middle section where McShee’s voice becomes a fifth instrument, giving the album its title in the line, ‘\n\nLove is a basket of light; grasp it so tight\n\n’).\n\nShe admits: “The previous album,\n\nSweet Child\n\n, had been a double – half live, half studio stuff, but only because we didn’t have enough stuff to fill it.\n\nBasket\n\nwas the album that really summed up what we did.”\n\nProduced by\n\nShel Talmy\n\n, until then best known for his work with\n\nThe Who\n\n, it was also the album that introduced the band to the rock-buying crowd, bowling over audiences with its seemingly bizarre mixture of heady originals like\n\nHunting Song\n\n– based on the story of a magic drinking horn sent to the court of King Arthur by Morgana le Fay – and inspired covers like\n\nSally Go Round The Roses\n\n, a 1963 pop hit for early girl group The Jaynetts.\n\nI thought, how could Jerry Garcia remember? The Grateful Dead were pretty off their faces at the time\n\n“I remember the studio was a big room with a clanky old lift,” says McShee. “We would try things out; but I was terrified of Shel because he was blind. One time were doing four-part harmonies, all standing around one mic and Shel said, ‘You’ve gotta be kidding!’ We’d never had a producer before!”\n\nThe band became even bigger in the US, regarded in the same light as groundbreaking UK acts of the era like\n\nCream\n\nand\n\nLed Zeppelin\n\n. “We would be advertised as this big rock group, which we weren’t. But we would play ever so loud and it would go down really well.” A shy person, McShee could “hide behind these other four big egos, which suited me down to the ground.”\n\nDuring their debut at New York’s Fillmore East “the dressing room was several floors above the stage, but the floor would thump up and down with the noise.” Sandwiched between the\n\nSir Douglas Quintet\n\nand\n\nCanned Heat\n\n, they only survived, says McShee, because “Bill Graham came out and said, ‘Right you lot, this is a group from England and they play acoustic guitars, so listen!’ And they did!”\n\n(Image credit: Ray Stevenson/Rex Features)\n\nPlaying four nights at the Fillmore West in San Francisco with the\n\nGrateful Dead\n\nwas “slightly different because everybody was so stoned. We went quite smart but came back as hippies. Suddenly John’s got the dust-bowl jacket on and Terry’s got the fringe-jacket.” When\n\nJerry Garcia\n\nlater credited them with inspiring the Dead to adopt a more acoustic approach, “I thought, how could you remember? Because they were pretty off their faces at the time.”\n\nNot that the rest of Pentangle was immune to such ideas. Jansch admitted that he too began to live the rock star life, “drinking way too much, smoking more than ever.” In America, there was also cocaine. “Not a good drug,” he admitted.\n\nWe weren’t working on new stuff and Bert wanted to do more on his own. You start to think, ‘I can’t stand it any more’\n\nIn the wake of\n\nBasket\n\n’s success, by 1970 Pentangle had appeared at the Isle of Wight festival, headlined Carnegie Hall, and recorded a soundtrack for the film\n\nTam Lin\n\n. But their next album,\n\nCruel Sister\n\n, released in October 1970, was not a hit. A collection of traditional material given ambitious progressive twists like the 20-minute-plus version of\n\nJack Orion\n\n, McShee now admits now the group was “running out of steam.”\n\nThe writing was on the wall; and within three years Pentangle were no more. “The last full year we were together we went to the States three times, we went to Australia; we went to parts of Europe,” says the singer. “There was no time to record. Joe would have us on the road constantly and we just got tetchy with each other. We weren’t working on new stuff and Bert wanted to do more on his own anyway. You start to think, ‘I can’t stand it any more.’”\n\nFortunately, the story didn’t quite end there. When they reunited to receive a Lifetime Achievement award at the 2007 BBC Radio 2 Folk Awards, it was as if they’d never been away – a fact brought home when Terry Cox fluffed his way through\n\nBruton Town\n\n. “Keep going, I thought,” laughs McShee. “People will just think we’re trying out something new!”",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-11-03T17:00:00+00:00",
+      "id": "5879d279ef606fe5815d76f2282b1fdffa607403",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): DISEMBODY — “AWAKENING OF ANCIENT EVIL”",
+      "link": "https://www.nocleansinging.com/2026/11/03/an-ncs-album-premiere-and-a-review-disembody-awakening-of-ancient-evil/",
+      "rss_body": "(written by Islander) Last month we had the pleasure of premiering the second single from Awakening of Ancient Evil, the second full-length from the Finnish black/thrash duo Disembody. It’s set for release by Helldprod Records on November 4th (tomorrow!), but you can listen to it in its entirety now through our album premiere below. The\n\n[...]",
+      "tags": "Album Reviews Premieres Disembody",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T16:59:28+00:00",
+      "id": "9d124cf1c4234fcad78cc52fef5d5fb2e6855069",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "DAYSEEKER готовят расширенное издание",
+      "link": "http://www.darkside.ru/news/184732/",
+      "rss_body": "DAYSEEKER сообщили о том, что 26 февраля на Spinefarm состоится релиз расширенной версии альбома \"Creature In The Black Night\", который выйдет под названием \"Creature In The Black Night Redux\". В новый вариант войдет несколько ремиксов от THE MIDNIGHT, концертный вариант MY CHEMICAL ROMANCEи дополнительные треки.\n\n«Для меня было огромной честью сотрудничать с THE MIDNIGHT и преобразить эти песни так, как их ещё никто не слышал», — делится Rodriguez своими впечатлениями о релизе в целом.\n\nКавер-версия песни „Ghost Of You“ в исполнении MCR вызывает у всех нас, участников группы, сильную ностальгию, и мы действительно постарались воссоздать эту песню в соответствии с собственным звучанием и имиджем нашей группы».\n\nТрек-лист:\n\n01. Pale Moonlight\n\n02. Creature In The Black Night\n\n03. Crawl Back To My Coffin\n\n04. Shapeshift\n\n05. Soulburn\n\n06. Bloodlust\n\n07. Cemetery Blues\n\n08. Nocturnal Remedy\n\n09. The Living Dead\n\n10. Meet The Reaper\n\n11. Forgotten Ghost\n\n12. The Ghost Of You (MY CHEMICAL ROMANCE cover)\n\n13. Shapeshifter (feat. The Midnight) (The Midnight Remix) *\n\n14. The Ghost Of You (The Midnight Remix) *\n\n15. Crawl Back To My Coffin (The Midnight Remix) *\n\n16. Bloodlust (feat. Gabi Rose)(The Midnight Remix) *\n\n17. The Living Dead (feat. Sace6) (The Midnight Remix) *\n\n18. Creature In The Black Night (The Midnight Remix) *\n\n19. Shapeshift - Stripped (Live on Sirius XM Octane) *\n\n20. Crawl Back To My Coffin - Stripped (Live on SiriusXM Octane) *",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T16:58:55+00:00",
+      "id": "1d7a5ec6ef2edadeff61faf1a519389cd83a223a",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Prong Premiere “New Commission”",
+      "link": "https://www.theprp.com/2026/11/03/news/prong-premiere-new-commission/",
+      "rss_body": "Their brand new self-titled album will be out this Friday, November 06th.",
+      "tags": "News Prong",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T16:42:27+00:00",
+      "id": "cedb723db5b20990c49d1374793124627be08621",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Meshuggah Announce European/UK 40th Anniversary Tour With Periphery & Vildhjarta",
+      "link": "https://www.theprp.com/2026/11/03/news/meshuggah-announce-european-uk-40th-anniversary-tour-with-periphery-vildhjarta/",
+      "rss_body": "A fall 2027 run.",
+      "tags": "News Meshuggah Periphery Vildhjarta",
+      "category": "Прогрессив",
+      "published": "2026-11-03T16:32:36+00:00",
+      "id": "e7c9c3e98f8a84d2ef2512b5811291ddfd2179f4",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "How Fuming Mouth's Mark Whelan faced his own mortality and emerged with one of the heaviest albums of 2026",
+      "link": "https://www.loudersound.com/bands-artists/fuming-mouth-story-behind-the-ringing-bell",
+      "rss_body": "It's not an exaggeration to say that Fuming Mouth frontman Mark Whelan has been to hell and back in recent years.\n\nFollowing a week-long stay in hospital, on November 19, 2021 – a time when the USA had surpassed 47 million cases of COVID – he was diagnosed with Acute Myeloid Leukemia (AML), an aggressive form of cancer which affects the blood and bone marrow.\n\nIn this interview, conducted via email during lengthy drives on his band's recent North American tour, we find out about how his he channelled his experiences into the band's third album,\n\nThe Ringing Bell\n\n. We also learn how he recruited former\n\nSlipknot\n\ndrummer Jay Weinberg and what it was like to work with\n\nConverge\n\nguitarist Kurt Ballou at his GodCity Studio in Salem, Massachusetts.\n\nIn layman’s terms, can you describe how this type of cancer is treated?\n\nMark: “There are a number of treatments for it – chemotherapy, radiotherapy, blood platelet transfusions – but for my specific cancer, it was decided a bone marrow transplant was necessary.”\n\nCan you tell me what the hospital stay was like as you underwent treatment?\n\n“I was in and out of the hospital from 2021 to 2022. Sometimes my stays would be weeks, sometimes months. My diagnosis and treatment happened during the pandemic, so few to no visitors were allowed in the hospital. My first show after receiving treatment was surreal. It felt like a dream, because all my friends were there and I was so used to being away from people.\"\n\nBefore the diagnosis, your lyrics were shaped by death. Did your cancer treatment re-shape your worldview?\n\n“My lyrics in Fuming Mouth will always be shaped by death. It’s a death metal band and one way or another, mortality is touched upon. I like to think I’m able to let go of things better since the experience.\"\n\nHow do you feel following your transplant?\n\n“Super-healthy. I can’t believe it. In April 2027, I will have reached the five-year marker since my transplant and be considered cured.\"\n\nIs the new album named after the bell cancer patients ring after their treatment is deemed successful?\n\n“There are so many things that went into that title. We were covering [Metallica's]\n\nFor\n\nWhom The Bell Tolls\n\non tour with\n\nGWAR\n\n. We’re on tour with Defeated Sanity right now and they have a song they perform called\n\nThe Bell\n\n. I listened to the album that song is from a lot in 2024. I think a lot of those moments shaped the title.”\n\n(Image credit: Triple-B Records)\n\nFormer Slipknot drummer Jay Weinberg plays on your new album, and the line-up appears to be quite new. How did you first become acquainted and what discussions led to him joining?\n\n“The Fuming Mouth rhythm section has been ever-changing and\n\nJay\n\nhas been the biggest change. I emailed him and he got right back to me. We hit it off like we had already been best friends for years.”\n\nHe’s an excellent fit for your songwriting – was that apparent early on?\n\n“Thank you. It wasn’t until the studio where it became very obvious that he complimented my songwriting. Seeing it under that microscope, so to say, was revealing.”\n\nYou’ve continued a working relationship with Converge guitarist Kurt Ballou for\n\nThe Ringing Bell\n\n. What’s he like at the production console? Do his methods of working make complete sense with what you’re doing?\n\n“Kurt is a great engineer. His talent and speed behind the console is impressive. I’m just as impressed by his movement in Pro Tools as I am with his guitar playing live. It’s effortless!\n\nFrom\n\nCheating Death\n\nto\n\nRespect Mortality\n\n, there’s a sense of hope in the chaos, where everything feels direct. Have you made the first PMA death metal album?\n\n“I wanted to really get to the core of the band’s sounds, so it was unmistakable. As for PMA, that's for the listener to decide. You have to keep moving onward and you can’t be negative.”\n\nWhat does 2027 look like for Fuming Mouth?\n\n“We’re heading to Europe to support\n\nThe Black Dahlia Murder\n\n’s 20th anniversary of\n\nNocturnal\n\n. That was a very important album to me when I was 16 years old. I’m glad we can be a part of that. Following that we’ll be doing some more touring in North America.”\n\nThe Ringing Bell\n\nis out now via Triple-B Records.\n\nFor more information on Acute Myeloid Leukaemia, visit the\n\nNHS website\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-11-03T16:30:00+00:00",
+      "id": "1e25fa1329e61cb512df10f35627cc55e29f3fe0",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "As I Lay Dying Premiere “The Cost To Stay” Music Video",
+      "link": "https://www.theprp.com/2026/11/03/news/as-i-lay-dying-premiere-the-cost-to-stay-music-video/",
+      "rss_body": "The third single from the band's upcoming self-titled album has arrived.",
+      "tags": "News As I Lay Dying Tim Lambesis",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T16:21:23+00:00",
+      "id": "01406d352d89809fbe8d01f2330d9bfab7ece993",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Ritchie Blackmore Announces 2027 Tour Dates",
+      "link": "https://ultimateclassicrock.com/ritchie-blackmore-tour-dates-2027/",
+      "rss_body": "The Deep Purple guitar legend will be back on stage starting in March.",
+      "tags": "Concerts News Deep Purple Ritchie Blackmore UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-11-03T16:13:06+00:00",
+      "id": "e1fab56030b4bbb3e560540e0e90e86565b8619e",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Вокалистка EVANESCENCE: «Последние несколько лет были просто огненными!»",
+      "link": "http://www.darkside.ru/news/184926/",
+      "rss_body": "AMY LEE в недавнем интервью обсудила возрождение интереса к EVANESCENCE после релиза Sanctuary:\n\n«Это было очень вдохновляющее время. Последние несколько лет были просто огненными. И не знаю, всё как-то оказалось вовремя для нас. В моём сердце просто накопилось много того, что я хочу сказать о состоянии мира, и мне кажется, рок подходит для этого лучше всего. Я имею в виду, моей ярости нужно куда-то деться. И в роке для этого всего с избытком.\n\nКоллектив сейчас в отличной форме, и мы по-настоящему опираемся на ту систему поддержки, которая есть у нас друг с друга. А когда мы собираемся вместе, это просто красивая и мощная вещь: возможность собрать большие группы людей, чтобы почувствовать что-то настоящее. Так что мы просто идём вперёд.\n\nЯ чувствую себя более YOLO [аббревиатура, означающая „живём один раз“], чем когда-либо в этот период жизни, так что мы вкладываем абсолютно всё в эту музыку. А теперь, когда альбом вышел и у него всё отлично, мы так счастливы тем, как его приняли, мы вкладываем всё в остальное: сделать самую крутую постановку из всех, что у нас были. Пустить пиротехнику. Снять убойный клип. Снять ещё один. Мы просто на подъёме. Так что мы создаём собственное пространство».\n\nПосле того как ведущий отметил, что «всё сейчас на подъёме» не только у EVANESCENCE, но и у рок-музыки в целом, AMY согласилась.\n\n«Именно такое ощущение. Да, так и есть, — сказала она. — И, конечно, должны быть взлёты и падения. Когда мы начинали, сразу было очень много всего. Вышел наш первый альбом — „Fallen“ и всё закрутилось с [суперхитом] „Bring Me To Life“ и всё такое. Но это было так… не знаю. Тогда я не могла ценить это так, как ценю сейчас, по миллиону разных причин.\n\nНо очень здорово иметь такой момент возрождения вместе с нашими фанатами и место, где люди могут найти убежище в музыке. И такие вещи, как этот фестиваль, это тоже оно. Всем нам просто нужно собраться вместе и покричать. Это правильно. Это праведно. Именно здесь мы чувствуем свою силу как люди. Это в душе. Так что это прекрасная вещь».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T16:00:44+00:00",
+      "id": "d16d3790cbd7342208aa5d3f2118521650ab419b",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Anthrax's Joey Belladonna Sings the National Anthem in Seahawks Versus Chicago Bears Game",
+      "link": "https://metalinjection.net/news/watch-anthraxs-joey-belladonna-sings-the-national-anthem-in-seahawks-versus-chicago-bears-game",
+      "rss_body": "The Seahawks continue their streak of booking rock and metal legends.",
+      "tags": "Latest News Anthrax JOEY BELLADONNA",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T15:27:34+00:00",
+      "id": "42306817435af7830058fc95ceb384b5975e70ab",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "A PERFECT CIRCLE стали первыми",
+      "link": "http://www.darkside.ru/news/184734/",
+      "rss_body": "A PERFECT CIRCLE впервые за 23 года заняли первую строчку в Billboard's Mainstream Rock Airplay. Ранее на первом месте две недели провел сингл \"Weak And Powerless\" в 2003 году.\n\nSean Heydorn, глава рок-подразделения Rise Records, BMG: «Немногие группы, просуществовавшие на сцене почти три десятилетия, по-прежнему создают музыку и способны на такие яркие моменты, которые производят столь сильное впечатление. «Starless», вернувшей группу A PERFECT CIRCLE на первое место в чартах спустя почти 23 года, доказывает, что их слушатели не просто возвращаются к наследию группы, а реагируют на то, на каком творческом этапе она находится сейчас. С новым импульсом и новыми музыкальными проектами на горизонте это начало новой значимой главы, и мы гордимся тем, что создаём её вместе с ними».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T15:10:40+00:00",
+      "id": "32aebb0526d0cc86e98b2d997c49ad13bb218cb0",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "THINGS YOU MAY HAVE MISSED (BUT SHOULDN’T)",
+      "link": "https://www.nocleansinging.com/2026/11/03/things-you-may-have-missed-but-shouldnt-68/",
+      "rss_body": "(Andy Synn presents another round-up of things from last month you may have missed) Was October the busiest month in Metal so far this year? Well, the jury’s still out on that one, but it definitely left me with so many options for this edition of “Things You May Have Missed” – including Black Royal, Coal\n\n[...]",
+      "tags": "Album Reviews Ambretta Andy Synn Daemogog Macocha Shedfromthebody",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T15:01:42+00:00",
+      "id": "7b414aa9601fa0f42e38993c8000ecb2978c99d7",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Thy Art Is Murder Unleash “Squeeze,” First Single With New Vocalist Jerry Grimefeld",
+      "link": "https://metalinjection.net/new-music/thy-art-is-murder-unleash-squeeze-first-single-with-new-vocalist-jerry-grimefeld",
+      "rss_body": "Better than three shots of espresso to start your morning.",
+      "tags": "New Music Thy Art is Murder",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T14:54:23+00:00",
+      "id": "4add9805752a7781ed57b3af4f060eebd6d4f0d8",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "There's an official Ghost colouring book coming out just in time for Christmas",
+      "link": "https://www.loudersound.com/culture/merchandise/ghost-colouring-book",
+      "rss_body": "The Clergy have joined forces with the people at Rock N’ Roll Colouring to create an official colouring book featuring \"darkly blasphemous images\" based on the band\n\nGhost\n\n.\n\nThe non-ecumenical act joins a long, distinguished list of bands who've had their likenesses transformed into a series of crisp, black and white line drawings, including:\n\nIron Maiden\n\n,\n\nSleep Token\n\n,\n\nAlice Cooper\n\n,\n\nMotörhead\n\n,\n\nJudas Priest\n\n,\n\nCannibal Corpse\n\n,\n\nThin Lizzy\n\nand\n\nMegadeth\n\n.\n\n\"The book contains painstakingly crafted renderings of each image with detailed outlines ready for you to unleash your artistic skills using pens, pencils or paint,\" says a Rock N’ Roll Colouring representative. \"Utilising artwork spanning\n\nGhost\n\n’s stellar two-decade career, the book provides fans and kindred souls with the perfect opportunity to tap into their creativity and add their own personal stamp on every page.\"\n\nColouring-in is recognised for its therapeutic nature, while boosting focus and mindfulness. But, if the idea of simply taking a felt-tip to the papery face of any of the five\n\nPapas Emeritus\n\nor one of the Nameless Ghouls gives you a sense of joy, then who are we to stop you?\n\nThe book is published on November 27.\n\n(Image credit: Rock N’ Roll Colouring)\n\n(Image credit: Rock N' Roll Colouring )\n\n(Image credit: Rock N' Roll Colouring Book)",
+      "tags": "Merchandise Culture",
+      "category": "Экстремальный метал",
+      "published": "2026-11-03T14:16:59+00:00",
+      "id": "14a318dac36c5f4d2aab9ed149c3ffb7c64aab66",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Q&A: ‘My War On Wilshire’ Author Michael Pearson on Photographing Black Flag at Their Peak",
+      "link": "https://www.decibelmagazine.com/2026/11/03/qa-michael-pearson-on-photographing-black-flag-at-their-peak/",
+      "rss_body": "Right now, septuagenarian Greg Ginn might be setting up a “Black Flag” show with his 30th Gen Z lineup. Granted, the guy is a genius and wrote much of the music, but Black Flag circa 2026 is beyond weird and, sadly, unbefitting of the legacy of one of the heaviest, most volatile bands ever to walk the earth.\n\nIf you’d like an up-close look at a time when Black Flag was the most untouchable band on the planet and want to know why people still care, check out the\n\nnew Bazillion Points book\n\nMy War On Wilshire: Black Flag vs. the Wilshire Federal Building…and the Vex\n\n. The photos – many of them never seen – document peak Black Flag as well as several supporting bands. Photographer\n\nMichael Pearson\n\ntalked to us about shooting those legendary shows.\n\nHow did this project come together?\n\nAs a kid, I took a lot of photos. I had an Olympus OM-1 35mm. I would shoot skateboarding, surfing, my friends doing things, riding motorcycles on people’s lawns, just stupid stuff. But I didn’t bring my camera to punk shows because I wanted freedom—I didn’t want to lug it around or risk breaking it. When I was 18—after I’d been into punk for two or three years—I was super into Black Flag. I thought that daytime show at the Federal Building wouldn’t be so outrageous that I couldn’t bring my camera easily. I had fun doing that, and it came out good, so I went back a couple of weeks later and took shots of Black Flag at the Vex.\n\nWhat made you decide to finally put all this stuff together? Were your archives in good shape?\n\nMy photos were in this IKEA cabinet that I’ve had for years. I was going through stuff, saw the Black Flag photos, and said, “Wow, these are pretty good, actually. Maybe I could get this turned into a book.” I was thinking of doing it myself—putting Black Flag at the Federal Building on one side and Black Flag at the Vex on the other, like one of those flip-over books they used to have. Then I could get someone to publish it so I could get it out to more people. I looked online and saw that Ian (Christe) was doing Bazillion Points. He’s got all these punk books and metal books. I emailed him, sent him the pictures, and he said, “Yeah, I think maybe we could do something with this.”\n\nI look back now and see all these great photos by Edward Colver and different people, and I’m like, “Oh my God, if only I had just decided to bring it and shoot.” But I was so into just slamming, running around, watching from the front, and being free.\n\nYou mentioned skateboarding, but what about punk rock at the time spoke to you?\n\nI grew up in the late ’70s. We were really on our own—our parents didn’t supervise us. They thought, “You’ll be okay; whatever you’re doing is probably fine, we don’t have to worry about you.” But they should have worried about us! We were on our own, and part of that brings loneliness, bitterness, anger, frustration, and sadness. When punk came out, I related to the angry, bitter, disenchanted part of it. I also just loved the action—how fun and dynamic it was. You could be a part of it at a show, instead of going to a big rock show where you’re sitting far away just watching. You feel like you’re just as much a part of it as the band.\n\nHow strong of a photographer did you think you were, and how were you able to capture these moments?\n\nI already had some camera skills from taking a lot of shots. I’d photographed my friends skateboarding, so I had to have timing skills to get the person with the board at the right angle. You had to have focus skills—back then, you had to focus it yourself while shooting. You didn’t have a constant stream like video; you had to take single shots. I was already pretty decent with the camera. When I got excited about the Black Flag shows, I brought my camera and had the nerve to go up on stage and sit in a good spot. It just worked out really well.\n\nLater, I thought I could have been at all those crazy shows. I got into punk rock pretty early on, before it became super popular, so I could have gotten some crazy shots back in the day. But I didn’t want the responsibility of having a camera. Shows were so wild that I figured I’d get my nose broken or my camera smashed into my face, so I didn’t bring it.\n\nOne thing I love about these photos is that they capture so many details of this moment in time in the early ’80s.\n\nYou really can see Westwood before—it looks completely different now. If you go to the Federal Building, instead of a grass lawn, they put plants everywhere, and there’s a wall around it because of 9/11. If you look in the background, there’s a house that’s not a house anymore; it’s a giant skyscraper. And you’ve got the Marlboro Man—they don’t have the Marlboro Man anymore. I got all these different shots, and I’m glad I shot the crowd because I can see a lot of people I know and some semi-famous people in there. It’s cool.\n\nDid you interact with the band at all on those days, or did you stay to the side taking pictures?\n\nI never talked to them. I was too shy and scared. They were heroes to me. If I had a conversation with them, my voice would crack, and I wouldn’t even be able to talk, so I didn’t even think about it.\n\nWhat state were the photos in, sitting in that IKEA cabinet, and how did you or Ian get them pristine enough to get published ultimately?\n\nThey were in great condition. I never even touched them; if I showed them to people, I held them up myself so they wouldn’t get fingerprints. I scanned them on my cheap Hewlett-Packard scanner at the highest resolution and sent them all to Ian. I think he did a little dust removal, but they were ready to go. The composition was pretty good from how I framed it in the camera—we didn’t have to do any weird cropping.\n\nBack in the early ’80s, I was super into all this stuff, and I guess there were two or three thousand kids who were into it. Then hardcore went out of style, and it was kind of gone. It was almost like what happened to skateboarding—skateboarding turned into street skateboarding, and vertical wasn’t as big in the mid-’80s. I thought nobody would care. Many years later, I realized Black Flag is kind of like a classic rock band or a classic punk rock band—they’d become legendary and seminal. If you’re into hard music, you’ve got to know about Black Flag. Then I dug them out and sent them to Ian.\n\nWhat was Ian’s reaction when he saw them?\n\nHe emailed me right back. It took a while to put it together—a couple of years to get it the way it is—because he’s working on a million other things at the same time.\n\nWhen someone picks up this book and looks at these photos, what are you hoping they get from seeing these images?\n\nOlder people who were into hardcore punk will be taken back to that time—it’ll be almost like time travel, where they go, “Oh my God, Black Flag, look at that.” Younger people might not have a visceral reaction because music you get into as a teenager imprints on your mind and soul so hard that it lasts your whole life. Older people are really going to get a kick out of it. For younger people, it might be more historical, though maybe some kids will put the music on and become fans.\n\nMusic you hear as a teenager sounds best to you for the rest of your life.\n\nYou’re so fired up at that age, and everything is so new. When you hear something you like—or see the visual, the video, the album cover, the band photos—it gets cemented in your head.",
+      "tags": "Books Interviews News Black Flag books henry rollins home featured Ian Christe Los Angeles Michael Pearson My War On Wilshire photography",
+      "category": "Экстремальный метал",
+      "published": "2026-11-03T14:00:37+00:00",
+      "id": "500d494b1b1b1c655f2862615144d9cdf3fc917e",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "How the Black Crowes Continue To Expand Their Legacy",
+      "link": "https://ultimateclassicrock.com/rich-robinson-the-black-crowes-interview-2026/",
+      "rss_body": "Guitarist Rich Robinson looks back at their busy year, some of their cult albums and what's ahead in 2027.",
+      "tags": "Exclusive Interviews News Rich Robinson The Black Crowes UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-11-03T13:25:53+00:00",
+      "id": "10b5837489075a1749cf86839fbaebfc4d900243",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Poison Albums Ranked Worst to Best",
+      "link": "https://ultimateclassicrock.com/poison-albums-ranked/",
+      "rss_body": "The good, the bad and the ugly from one of glam metal's definitive bands.",
+      "tags": "Galleries Lists Original Features Poison UCR",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T08:39:40+00:00",
+      "id": "ad0bb08c4c5f4865e35876991659ca3a42dfbd96",
       "retry_after": 0
     }
   ]
