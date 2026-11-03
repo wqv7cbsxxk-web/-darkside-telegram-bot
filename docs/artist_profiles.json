@@ -933,10 +933,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://entershikari.com",
       "reference_url": "https://en.wikipedia.org/wiki/Enter_Shikari",
-      "reference_checked_at": "2026-10-27T14:53:48.931134+00:00",
+      "reference_checked_at": "2026-11-03T23:44:29.141971+00:00",
       "tour_attempted_at": "2026-11-02T22:43:47.426992+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T14:53:48.931239+00:00"
+      "reference_attempted_at": "2026-11-03T23:44:29.142104+00:00"
     },
     "eminem": {
       "origin": "Detroit , Michigan, U.S.",
@@ -946,10 +946,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://eminem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Eminem",
-      "reference_checked_at": "2026-10-27T14:53:49.298095+00:00",
+      "reference_checked_at": "2026-11-03T23:44:29.803700+00:00",
       "tour_attempted_at": "2026-11-02T22:43:48.787267+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T14:53:49.298617+00:00"
+      "reference_attempted_at": "2026-11-03T23:44:29.804307+00:00"
     },
     "fates-warning": {
       "origin": "Hartford, Connecticut , U.S.",
@@ -976,13 +976,13 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.fateswarning.com",
       "reference_url": "https://en.wikipedia.org/wiki/Fates_Warning",
-      "reference_checked_at": "2026-10-27T14:53:49.497101+00:00",
+      "reference_checked_at": "2026-11-03T23:44:29.904883+00:00",
       "tour_attempted_at": "2026-11-02T22:43:50.441075+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T14:53:49.497115+00:00"
+      "reference_attempted_at": "2026-11-03T23:44:29.904904+00:00"
     },
     "foo-fighters": {
-      "origin": "Seattle , Washington , U.S.",
+      "origin": "Seattle , Washington, U.S.",
       "genres": "Alternative rock post-grunge hard rock pop rock grunge (early)",
       "years_active": "1994–present",
       "members": [
@@ -1014,10 +1014,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://foofighters.com",
       "reference_url": "https://en.wikipedia.org/wiki/Foo_Fighters",
-      "reference_checked_at": "2026-10-27T14:53:49.640688+00:00",
+      "reference_checked_at": "2026-11-03T23:44:30.180094+00:00",
       "tour_attempted_at": "2026-11-03T03:47:00.723964+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T14:53:49.640707+00:00"
+      "reference_attempted_at": "2026-11-03T23:44:30.180115+00:00"
     },
     "gentle-giant": {
       "origin": "Portsmouth , England",
@@ -1056,10 +1056,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://gentlegiantband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Gentle_Giant",
-      "reference_checked_at": "2026-10-27T14:53:49.874946+00:00",
+      "reference_checked_at": "2026-11-03T23:44:30.470773+00:00",
       "tour_attempted_at": "2026-11-03T03:47:01.377047+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T14:53:49.874968+00:00"
+      "reference_attempted_at": "2026-11-03T23:44:30.470793+00:00"
     },
     "genesis": {
       "origin": "Godalming , Surrey , England",
@@ -1114,10 +1114,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://genesis-music.com",
       "reference_url": "https://en.wikipedia.org/wiki/Genesis_%28band%29",
-      "reference_checked_at": "2026-10-27T14:53:50.232871+00:00",
+      "reference_checked_at": "2026-11-03T23:44:30.795367+00:00",
       "tour_attempted_at": "2026-11-03T03:47:01.614800+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T14:53:50.232892+00:00"
+      "reference_attempted_at": "2026-11-03T23:44:30.795389+00:00"
     },
     "ghost": {
       "origin": "Linköping , Östergötland , Sweden",
@@ -1521,7 +1521,7 @@
       "website": "http://dgmlive.com",
       "reference_url": "https://en.wikipedia.org/wiki/King_Crimson",
       "reference_checked_at": "2026-10-27T23:18:16.301683+00:00",
-      "tour_attempted_at": "2026-10-28T09:04:41.836909+00:00",
+      "tour_attempted_at": "2026-11-03T23:44:31.584106+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-27T23:18:16.301787+00:00"
     },
@@ -1555,7 +1555,7 @@
       "website": "http://judaspriest.com",
       "reference_url": "https://en.wikipedia.org/wiki/Judas_Priest",
       "reference_checked_at": "2026-10-27T23:18:16.610873+00:00",
-      "tour_attempted_at": "2026-10-28T09:04:41.993202+00:00",
+      "tour_attempted_at": "2026-11-03T23:44:31.766360+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-27T23:18:16.610894+00:00"
     },
@@ -1609,7 +1609,7 @@
       "website": "http://kissonline.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kiss_%28band%29",
       "reference_checked_at": "2026-10-28T02:34:56.026979+00:00",
-      "tour_attempted_at": "2026-10-28T09:04:42.803453+00:00",
+      "tour_attempted_at": "2026-11-03T23:44:32.449331+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T02:34:56.027198+00:00"
     },
@@ -1639,7 +1639,7 @@
       "website": "http://kreator-terrorzone.de",
       "reference_url": "https://en.wikipedia.org/wiki/Kreator",
       "reference_checked_at": "2026-10-28T02:34:56.229095+00:00",
-      "tour_attempted_at": "2026-10-28T09:04:43.248907+00:00",
+      "tour_attempted_at": "2026-11-03T23:44:32.846213+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T02:34:56.229118+00:00"
     },

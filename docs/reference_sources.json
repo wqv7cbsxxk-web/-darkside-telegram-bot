@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-11-02T22:44:10.987087+00:00"
+      "bandcamp_checked_at": "2026-11-03T23:44:55.237374+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -8435,7 +8435,7 @@
     "devin-townsend": {
       "name": "Devin Townsend",
       "musicbrainz_url": "https://musicbrainz.org/artist/93e8c41e-8e4f-4d08-bbf5-bc1a903b2423",
-      "reference_checked_at": "2026-10-22T11:50:13.096772+00:00",
+      "reference_checked_at": "2026-11-03T23:44:45.651632+00:00",
       "genres": "ambient, metal, progressive, progressive metal, progressive rock",
       "bandcamp_url": "https://devintownsendofficial.bandcamp.com/",
       "website": "https://hevydevy.com/",
@@ -8557,7 +8557,7 @@
           "source_url": "https://musicbrainz.org/release-group/4ba3b308-cc76-49dd-801e-8e3b5af44654"
         },
         {
-          "name": "Lexin (The War - live)",
+          "name": "Lexin (The War – live)",
           "date": "2026-09-25",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/4cca8457-6be0-4959-84b5-b129ff297e11"
@@ -8827,7 +8827,7 @@
           "source_url": "https://musicbrainz.org/release-group/df95b547-7548-4091-8e77-28bdb4ffc4cf"
         },
         {
-          "name": "War Beyond Words (The War - live)",
+          "name": "War Beyond Words (The War – live)",
           "date": "2026-10-21",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/e366b730-4980-4b1e-947d-e9956fe7f156"
@@ -30828,7 +30828,7 @@
     "destruction": {
       "name": "Destruction",
       "musicbrainz_url": "https://musicbrainz.org/artist/371f152d-1643-4b54-b32b-dd13d4c23442",
-      "reference_checked_at": "2026-10-22T11:50:08.735778+00:00",
+      "reference_checked_at": "2026-11-03T23:44:41.761767+00:00",
       "genres": "metal, thrash metal",
       "bandcamp_url": "https://destruction.bandcamp.com/",
       "website": "http://www.destruction.de/",
@@ -34653,8 +34653,8 @@
     "deftones": "2026-11-03T11:26:42.921975+00:00",
     "deicide": "2026-11-03T18:40:06.966055+00:00",
     "descape": "2026-11-03T18:40:10.813698+00:00",
-    "destruction": "2026-10-22T11:50:08.735928+00:00",
-    "devin-townsend": "2026-10-22T11:50:13.096980+00:00",
+    "destruction": "2026-11-03T23:44:41.761938+00:00",
+    "devin-townsend": "2026-11-03T23:44:45.651838+00:00",
     "dio": "2026-10-22T16:08:59.626516+00:00",
     "dismember": "2026-10-22T16:09:00.853190+00:00",
     "dokken": "2026-10-22T20:08:56.769296+00:00",
