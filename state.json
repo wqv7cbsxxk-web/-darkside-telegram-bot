@@ -1331,49 +1331,18 @@
     "df5d49df63ffedfdccd7f21cda93535dccf80f58",
     "81e794ca29e2b9604f596da046d725a22c26bb43",
     "b7242ad4a00ce74c9b5599d2504dbdb069d1554b",
-    "adcb91cf9d7f228b7c1f1776f7409d6eeefcb9cd"
+    "adcb91cf9d7f228b7c1f1776f7409d6eeefcb9cd",
+    "cc2f9aea09b0118d1975d5134ed5f43437362b21",
+    "836a1a0554ad4b0275f054bf7a6188fd48258af6",
+    "72c2d2f1f71d09b1d7bbc1f42bad0ea283ae595e",
+    "ec21705516305c422d4589d2242dfd1bb04ecf58",
+    "d6265d70e991f16b9be829e67b7bf5e8cf7288d4",
+    "f519ca4e6fbcb34041aacedc27432d2119dec14b",
+    "5773515e4858031c4822dc7d63a05c4d833cefc1",
+    "49f47d0a04e244f6e0fe890f3dae81e97890932b",
+    "9959b87cf28e9452b06223414335088f8af59cf9"
   ],
   "recent_titles": [
-    {
-      "title": "Metallica Release “Until It Sleeps” Live Video From Their Residency At The Sphere",
-      "source": "ThePRP",
-      "ts": 1793301542
-    },
-    {
-      "title": "Video Premiere: Teardrinker’s “Hereditary”",
-      "source": "Decibel",
-      "ts": 1793301556
-    },
-    {
-      "title": "Mammoth Welcome Intervals Drummer Nathan Bulla Following The Departure Of Garrett Whitlock",
-      "source": "ThePRP",
-      "ts": 1793301562
-    },
-    {
-      "title": "Eidola’s “Niflheimr” Music Video Debuts",
-      "source": "ThePRP",
-      "ts": 1793301568
-    },
-    {
-      "title": "Sunborn Premiere Video For Their Heaviest Song Yet, “Silent Attraction”",
-      "source": "ThePRP",
-      "ts": 1793301573
-    },
-    {
-      "title": "How Warren Haynes Found a ‘Whole New Life’ With His Latest LP",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793301599
-    },
-    {
-      "title": "Death Angel, Exodus, Slayer, Testament, Etc. Members Set For Dennis Pepa Benefit Show",
-      "source": "ThePRP",
-      "ts": 1793301621
-    },
-    {
-      "title": "Watch: Foo Fighters Played “Your Favorite Toy” On Last Night’s ‘Jimmy Kimmel Live!’",
-      "source": "ThePRP",
-      "ts": 1793301625
-    },
     {
       "title": "Nikki Sixx Says Mick Mars 'Turned His Back' on Motley Crue",
       "source": "Ultimate Classic Rock",
@@ -2133,6 +2102,46 @@
       "title": "Gavin Harrison on juggling King Crimson, Porcupine Tree and The Pineapple Thief, and the hardest songs to play",
       "source": "Louder",
       "ts": 1793659416
+    },
+    {
+      "title": "California Dream On: Ten things we learned at Aerosmith & Friends (Night Two) at the Hollywood Bowl",
+      "source": "Louder",
+      "ts": 1793677520
+    },
+    {
+      "title": "The Used’s Orchestral Live Film ‘A Mid Summer Night’s Symphony’ Is Coming To Streaming This Month",
+      "source": "ThePRP",
+      "ts": 1793677525
+    },
+    {
+      "title": "Hatebreed Speak On Their Plans For Their Newly Re-Recorded “Under The Knife” EP",
+      "source": "ThePRP",
+      "ts": 1793677535
+    },
+    {
+      "title": "Neal Schon issues cryptic statement about Journey's future",
+      "source": "Louder",
+      "ts": 1793677555
+    },
+    {
+      "title": "A Documentary On Alex Terrible’s Bare-Knuckle Fighting/Metal Festival ‘Blood4Blood’ Will Arrive This Month",
+      "source": "ThePRP",
+      "ts": 1793677571
+    },
+    {
+      "title": "Cave In And Glacier Announce February 2027 East Coast Shows",
+      "source": "ThePRP",
+      "ts": 1793677575
+    },
+    {
+      "title": "Track Premiere: Hirax – “Vigilante”",
+      "source": "Decibel",
+      "ts": 1793677606
+    },
+    {
+      "title": "Trivium Release “Fugue” Live Performance From Their Hangar Homebase",
+      "source": "ThePRP",
+      "ts": 1793677612
     }
   ],
   "initialized_sources": [
@@ -5519,30 +5528,6 @@
     {
       "source": "ThePRP",
       "priority": 88,
-      "title": "A Documentary On Alex Terrible’s Bare-Knuckle Fighting/Metal Festival ‘Blood4Blood’ Will Arrive This Month",
-      "link": "https://www.theprp.com/2026/11/02/news/a-documentary-on-alex-terribles-bare-knuckle-fighting-metal-festival-blood4blood-will-arrive-this-month/",
-      "rss_body": "That first-ever event took place this past May.",
-      "tags": "News Alex Terrible Slaughter To Previal",
-      "category": "Хэви-метал",
-      "published": "2026-11-02T20:44:31+00:00",
-      "id": "f519ca4e6fbcb34041aacedc27432d2119dec14b",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Cave In And Glacier Announce February 2027 East Coast Shows",
-      "link": "https://www.theprp.com/2026/11/02/news/cave-in-and-glacier-announce-february-2027-east-coast-shows/",
-      "rss_body": "Hypothermic conditions?",
-      "tags": "News Cave In Glacier",
-      "category": "Хэви-метал",
-      "published": "2026-11-02T20:16:24+00:00",
-      "id": "5773515e4858031c4822dc7d63a05c4d833cefc1",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
       "title": "Knocked Loose & Arkangel Added To 2027 ‘FYA Fest’",
       "link": "https://www.theprp.com/2026/11/02/news/knocked-loose-arkangel-added-to-2027-fya-fest/",
       "rss_body": "Hitting Orlando, FL this January.",
@@ -5550,19 +5535,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-02T20:03:50+00:00",
       "id": "53c7321c7f208bad669e0bd9941793b677830d76",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Trivium Release “Fugue” Live Performance From Their Hangar Homebase",
-      "link": "https://www.theprp.com/2026/11/02/news/trivium-release-fugue-live-performance-from-their-hangar-homebase/",
-      "rss_body": "As they prepare for departure.",
-      "tags": "News Trivium",
-      "category": "Хэви-метал",
-      "published": "2026-11-02T19:35:12+00:00",
-      "id": "9959b87cf28e9452b06223414335088f8af59cf9",
-      "retry_after": 0
+      "retry_after": 1793677893
     },
     {
       "source": "Metal Injection",
@@ -5742,6 +5715,30 @@
       "category": "Хэви-метал",
       "published": "2026-11-02T14:13:09+00:00",
       "id": "00beee23d2986191244b40cc4f05f08fbb5d1e48",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Track Premiere: Eternal Armageddon – ‘Constellations of the Night’",
+      "link": "https://www.decibelmagazine.com/2026/11/02/track-premiere-eternal-armageddon-constellations-of-the-night/",
+      "rss_body": "Bangladeshi black/thrash trio\n\nEternal Armageddon\n\nformed 20 years ago in Dhaka and they ended their run earlier this year, playing one final show. Just because the band has concluded its recording and live performance activities doesn’t mean Eternal Armageddon is gone forever just yet—before splitting, they recorded their second album,\n\nThe Ageless Star\n\n, for release at a later date.\n\nTo get a taste of the new record, check out “Constellations of Night,” which you can stream below.\n\n“The song follows an esoteric journey of a seeker of knowledge, moving from primordial chaos and ritualistic darkness toward cosmic transcendence,” Eternal Armageddon tell\n\nDecibel\n\n. “The seeker witnesses creation, time, heaven and hell, and the dangers of wisdom becoming distorted by greed or the desire for power. Choosing the Left-Hand Path, the seeker passes through nihilism, suffering, darkness, and destruction. The ‘shining black sun’ becomes a central paradox: darkness itself becomes a source of illumination.\n\n“As the seeker confronts death, annihilation, and apocalyptic imagery, they ultimately encounter the all-seeing eye—a fierce, impartial truth beyond conventional notions of good and evil. By shedding customs, senses, and prejudices, the seeker symbolically ‘dies’ and awakens to the inner voice heard throughout the journey.\n\n“The ending reverses the earlier imagery: ‘death becomes awakening, individuality dissolves into multiplicity, and the seeker becomes one with the cosmos.’ They realize themselves as an eternal consciousness underlying the changing universe.\n\n“Philosophically, the song reflects an ancient mystical idea associated with the Upanishadic tradition: beneath the apparent multiplicity of existence lies a single eternal truth or consciousness. This makes ‘Constellations of the Night’ an appropriate conclusion to the album—and potentially to the band’s journey as an individual entity—because the seeker’s journey ends not in destruction, but in transcendence and unity with the whole.”\n\nTo keep up to date with\n\nEternal Armageddon\n\n, you can find them on\n\nFacebook\n\nand\n\nInstagram\n\n.",
+      "tags": "Streaming Track Premiere black-thrash Eternal Armageddon premiere",
+      "category": "Хэви-метал",
+      "published": "2026-11-02T17:00:05+00:00",
+      "id": "033190fcdc02aadb56bbf5a5b1b418f64eb4a6bd",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Randy Holden – Population II",
+      "link": "https://www.decibelmagazine.com/2026/11/02/randy-holden-population-ii/",
+      "rss_body": "Keeper of the Flame\n\nThe Making of Randy Holden’s\n\nPopulation II\n\nIn astronomical terms, Population II stars are the oldest observed stars that form the nucleus of the galaxy. They contain less metal and are less luminous than younger stars, but a whole lot cooler. That’s pretty much the perfect metaphor for Randy Holden’s lost-and-rediscovered 1970 “solo” LP\n\nPopulation II\n\n, a masterpiece of heavy psych and molten riffing that has been revealed to be a quasi-Rosetta Stone for doom metal, particularly the stoner branch. Like Sir Francis Bacon’s\n\nThe Wisdom of the Ancients\n\n,\n\nPopulation II\n\nis a meditative exploration of form and process, presaging elements of the heavy music that followed. But, as the kids like to say, it’s also a\n\nmood\n\n.\n\nHolden first began to sketch out some of the musical advances of\n\nPopulation II\n\non Blue Cheer’s 1969 LP\n\nNew! Improved!\n\n, where he’d briefly replaced the equally iconic guitarist Leigh Stephens before quitting in frustration. Side B of\n\nNew! Improved!\n\nfeatures three songs, including an early version of “Fruit & Icebergs,” written and performed by Holden, all ripe for further exploration. A chance encounter with another Bay Area acid rock refugee, drummer Chris Lockheed, generated the idea for a new kind of power duo, where Holden would play guitar and sing, while Lockheed stood in for a rhythm section by playing drums and bass (with a keyboard and pedals) simultaneously.\n\nIn a cruel, but perhaps not that unusual twist of fate, Holden and Lockheed spent over a year sculpting the songs and rehearsing a mammoth stage production that yielded exactly two live performances and an album that languished in legal limbo with a minimal number of promo copies pressed and nothing resembling an official release until decades later. This means very few people got to experience the superior force of Holden and Lockheed performing with enough amplifiers to blow your hair back. Delays in the album’s release also meant that Black Sabbath’s debut technically came first, but 1970 also gave us Atomic Rooster, Sir Lord Baltimore and Deep Purple’s\n\nIn Rock\n\n, so perhaps it’s best to just honor\n\nPopulation II\n\nas part of the same stone soup.\n\nLike Jimi Hendrix, Holden probably did not put much stock in his own voice, but his bluesy style serves his compositions well. Similarly, Lockheed proves to be an adept and unfussy timekeeper on\n\nPopulation II\n\n. But everything is ancillary to the sound of the guitar, and Holden telegraphs his intent from the opening lines of the album opener “Guitar Song”: “I love the sound of a guitar playing, yeah / I love the way it makes me feel inside.” His re-envisioning of “Fruit & Icebergs” features a riff so nice he employs it again to close out the album’s first side. And the mammoth album closer “Keeper of My Flame” demonstrates why Holden deserves a spot in the pantheon of guitar gods after a lifetime of being on the outside looking in. Welcome to the\n\nDecibel\n\nHall of Fame; we acknowledge all your sacrifices.\n\nNeed more classic Randy Holden? To read the entire seven-page story, featuring interviews with both members who performed on\n\nPopulation II\n\npurchase the print issue from our\n\nstore\n\n, or\n\ndigitally\n\nvia our app for iPhone/iPad or Android.",
+      "tags": "Hall of Fame Population II Randy Holden",
+      "category": "Хард-рок",
+      "published": "2026-11-02T14:38:39+00:00",
+      "id": "dab0eeec7f5f797c76b8d671dfbe1eaad586bf97",
       "retry_after": 0
     }
   ]
