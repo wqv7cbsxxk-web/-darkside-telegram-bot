@@ -1356,49 +1356,17 @@
     "4de079350f74055f623cd2432f09ce1a02dc987f",
     "d10cdaa227e0a470a3ac76e28d2d300d858d61b6",
     "a3c98d51e32a2f6f4d4fd394076958fbd1f7d848",
-    "abe1b95bd351c823b7f904485ee9a7e2f1c4fb55"
+    "abe1b95bd351c823b7f904485ee9a7e2f1c4fb55",
+    "4c1aa83ec700a5f8a2e6c09c5fda52e418023ebb",
+    "7582a51887ae237b0bf1b33daee34debfefc904f",
+    "ec989f77a525a922aff7ca600ac63eed2e3089ac",
+    "17ebf6faee9669bf81e9723256267dc595a0f003",
+    "003df62bf51a6f7a3395076cf4d4f8310883f68d",
+    "42b8a5165a052554c3d65d1c2ee4abf2c36f9015",
+    "3d0da74e5d3ee8ccf0170ac4d7ef3ddaabcd1a33",
+    "bc5397cff31c454acac2a841aecc342fef7a68b1"
   ],
   "recent_titles": [
-    {
-      "title": "Новое видео ARCHERS",
-      "source": "Darkside",
-      "ts": 1793353014
-    },
-    {
-      "title": "Новое видео IMMINENCE",
-      "source": "Darkside",
-      "ts": 1793353016
-    },
-    {
-      "title": "STEVEN WILSON подтвердил, что второму STORM CORROSION быть!",
-      "source": "Darkside",
-      "ts": 1793353017
-    },
-    {
-      "title": "Профессиональное видео с выступления METALLICA из Сферы",
-      "source": "Darkside",
-      "ts": 1793353020
-    },
-    {
-      "title": "Sammy Hagar Brings Signature Swagger to Aerosmith Comeback Show",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793353032
-    },
-    {
-      "title": "Новая песня AZARATH",
-      "source": "Darkside",
-      "ts": 1793353034
-    },
-    {
-      "title": "Guns N' Roses Ignites the Hollywood Bowl at Aerosmith Event",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793353047
-    },
-    {
-      "title": "Гитарист THE WHO: «Мне никогда особо не нравились LED ZEPPELIN»",
-      "source": "Darkside",
-      "ts": 1793353066
-    },
     {
       "title": "Five For Friday: October 30, 2026",
       "source": "Decibel",
@@ -2158,6 +2126,46 @@
       "title": "Poison The Well, Alexisonfire & Touché Amoré Announce Spring U.S. Tour",
       "source": "ThePRP",
       "ts": 1793731173
+    },
+    {
+      "title": "Is Ghost's Tobias Forge plotting a Repugnant reunion show?",
+      "source": "Louder",
+      "ts": 1793749391
+    },
+    {
+      "title": "Cryptopsy, Leprous, Ex-The Agony, Etc. Members Launch New Band Meridian Veil",
+      "source": "ThePRP",
+      "ts": 1793749403
+    },
+    {
+      "title": "Cloak Debut “Nigredo – Initium” Music Video From Their Upcoming Concept Album “Above, Below & Through”",
+      "source": "ThePRP",
+      "ts": 1793749412
+    },
+    {
+      "title": "Five Finger Death Punch’s Ivan Moody Taps Members Of Lamb Of God & More For ‘Ferryman’",
+      "source": "ThePRP",
+      "ts": 1793749440
+    },
+    {
+      "title": "Primus’ Annual New Year’s Eve Shows To Feature Secret Chiefs 3 & MonoNeon",
+      "source": "ThePRP",
+      "ts": 1793749445
+    },
+    {
+      "title": "Metallica Release “Battery” Live Video From Their Residency At The Sphere",
+      "source": "ThePRP",
+      "ts": 1793749451
+    },
+    {
+      "title": "Blast Worship: Shunt",
+      "source": "Decibel",
+      "ts": 1793749459
+    },
+    {
+      "title": "JUSTIN SARGENT о роли нового вокалиста SKID ROW: «Это что-то нереальное!»",
+      "source": "Darkside",
+      "ts": 1793749462
     }
   ],
   "initialized_sources": [
@@ -5559,7 +5567,7 @@
       "title": "Deep Purple Cancel Remaining 2026 Tour Dates Following Ian Gillan’s Medical Emergency",
       "link": "https://metalinjection.net/news/deep-purple-cancel-remaining-2026-tour-dates-following-ian-gillans-medical-emergency",
       "rss_body": "\"\"Thank you for all the good wishes and support over the last few days, it means the world.\"",
-      "tags": "Latest News Ian Gillan deep purple",
+      "tags": "Latest News Ian Gillan deep purple featured",
       "category": "Хард-рок",
       "published": "2026-11-02T19:34:54+00:00",
       "id": "ff8790d9b2bad418bfb7ce9d45e96f26a7403934",
@@ -5595,7 +5603,7 @@
       "title": "Billy Howerdel Auctioning Off Insane Collection of A Perfect Circle Memorabilia Including Guitars Used in 'Thirteenth Step' and From First Tour",
       "link": "https://metalinjection.net/news/billy-howerdel-auctioning-off-insane-collection-of-a-perfect-circle-memorabilia-including-guitars-used-in-thirteenth-step-and-from-first-tour",
       "rss_body": "The decades-old collection is open to the general public this month.",
-      "tags": "Latest News a perfect circle Billy Howerdel",
+      "tags": "Latest News a perfect circle Billy Howerdel featured",
       "category": "Хэви-метал",
       "published": "2026-11-02T19:08:13+00:00",
       "id": "25af0fbf32f4457e7b79fe494f700b1eff4220e6",
@@ -5691,7 +5699,7 @@
       "title": "The November Progressive Injection: Seventh Wonder, Devin Townsend, Stoned Jesus and More",
       "link": "https://metalinjection.net/upcoming-releases/progressive-injection/the-november-progressive-injection-seventh-wonder-devin-townsend-stoned-jesus-and-more",
       "rss_body": "As well as picks from Steven Wilson and Neal Morse & The Resonance.",
-      "tags": "Progressive Injection Devin Townsend steven wilson Seventh Wonder Stoned Jesus thy catafalque Jason Bieler OK goodnight Neal Morse & The Resonance Asia",
+      "tags": "Progressive Injection Devin Townsend steven wilson Seventh Wonder Stoned Jesus thy catafalque featured2 Jason Bieler OK goodnight Neal Morse & The Resonance Asia",
       "category": "Прогрессив",
       "published": "2026-11-02T16:01:20+00:00",
       "id": "0888bc374168eae3d879cf80679c844769adab27",
@@ -5827,42 +5835,6 @@
       "category": "Хард-рок",
       "published": "2026-11-03T04:05:00+00:00",
       "id": "89e770a06adee210dc87335c7561b5f99bf3685a",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Metallica Release “Battery” Live Video From Their Residency At The Sphere",
-      "link": "https://www.theprp.com/2026/11/03/news/metallica-release-battery-live-video-from-their-residency-at-the-sphere/",
-      "rss_body": "Admittedly, not a lot of effort seems to have went into the visual presentation of this fan favorite.",
-      "tags": "News Metallica",
-      "category": "Хэви-метал",
-      "published": "2026-11-03T18:06:16+00:00",
-      "id": "42b8a5165a052554c3d65d1c2ee4abf2c36f9015",
-      "retry_after": 0
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Blast Worship: Shunt",
-      "link": "https://www.decibelmagazine.com/2026/11/03/blast-worship-shunt/",
-      "rss_body": "Where the from?\n\nPhiladelphia, PA. I had the flu last week. It was all a blur of throwing up in cars, sweating profusely on the coach and watching the Jets defense let up touchdown after touchdown. Oh yeah, at some point the Brewers won the World Series, but that was most likely one of the afternoons I was hacking up clear stomach goo into a toilet bowl.\n\nWhy the hype?\n\nSpeaking of ectoplasmic stomach entrails,\n\nShunt\n\nare the current gore kings of the surprisingly robust slimewave of bands that invade the Mr. Beery’s parking lot every august. Shunt encapsulates both ends of the grind spectrum, with razor-tight, gore-soaked blasts that give way to the bouncy castle-inflected hardcore parts that are just so popular with the kids today. The result is music you can just easily barf to as you can fuck to it, no comment given as to what it’s like actually doing either.\n\nLatest release?\n\nMesenteric Torsion\n\n, self-released. To me, very few goregrind albums could be described as having “character,” but this one does, a herky-jerky zombie slowly stumbling into your lap to see what he can munch on. You know, the type of person we let run the country!\n\nMESENTERIC TORSION by Shunt",
-      "tags": "Blast Worship News Streaming grindcore Shunt",
-      "category": "Экстремальный метал",
-      "published": "2026-11-03T18:03:35+00:00",
-      "id": "3d0da74e5d3ee8ccf0170ac4d7ef3ddaabcd1a33",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "JUSTIN SARGENT о роли нового вокалиста SKID ROW: «Это что-то нереальное!»",
-      "link": "http://www.darkside.ru/news/184925/",
-      "rss_body": "JUSTIN SARGENT в программе \"Trunk Nation With Eddie Trunk\" вместе с гитаристом SKID ROW Dave \"Snake\" Sabo обсудили перемены в жизни коллектива. На вопрос о том, как Justin в итоге оказался в группе, он ответил:\n\n«Каждый год в Нью-Йорке я участвую в благотворительном мероприятии под названием Rockers On Broadway. Его основали Пит Таунсенд и мой хороший друг Донни Кер. Как и всегда, мероприятие прошло с огромным успехом. Мы собрали сотни тысяч долларов для благотворительного фонда PATH.\n\nА на следующий день я получил электронное письмо от менеджера SKID ROW Робби Хоффмана, в котором он написал: \"Привет, я менеджер группы SKID ROW. Мы ищем нового вокалиста. Я видел тебя вчера вечером на этом мероприятии. Я подумал, что ты был крут. Не хочешь познакомиться с ребятами и, возможно, стать новым вокалистом группы?\" А я ответил: \"Ты, должно быть, шутишь? Да, конечно, с удовольствием. Звучит потрясающе. Это просто мечта, ставшая явью\". И он связал меня с Rachel [Bolan].\n\nЯ приехал к нему и познакомился там со Snake'ом. Мы тусовались вместе пару дней. За неделю я пару раз съездил туда и обратно. Мы записали несколько мелодий и отправили их остальным ребятам, чтобы они тоже послушали. Потом мы на несколько недель разошлись, а затем начались праздники. После этого мне позвонили и спросили, не хочу ли я приехать и выступить с группой в полном составе, чтобы сыграть несколько песен в рамках продолжающегося отбора.\n\nОни сократили список кандидатов и хотели, чтобы мы все приехали, встретились с группой и спели все песни вместе. Так что я попал в этот список. И вот что скажу: с того самого момента, как я вошёл в эту студию, в эту репетиционную, я подумал: \"Мы с ними поладим. Будет весело\". И вот мы здесь».\n\nО том, каково это — стать новым вокалистом SKID ROW, Justin сказал:\n\n«Это было невероятно. Это лучшее слово, которое я могу подобрать. Не могу поверить, что это происходит. Не могу поверить, что я здесь, что этот день наконец настал. Мы работали несколько месяцев, и каждый день до сегодняшнего был похож на все остальные дни, когда я думал: \"Не могу поверить, что это происходит\"».\n\nО том, когда он узнал, что его выбрали новым солистом SKID ROW:\n\n«Пару месяцев назад. И вот что было по-настоящему здорово со стороны этих джентльменов: мы потратили много времени на то, чтобы лучше узнать друг друга, прежде чем объявили об этом официально. Никто не торопил события. Мы хотели убедиться, что всё получится, что мы сможем собраться вместе, потусоваться и найти общий язык.\n\nИ, что самое интересное, с самого начала я чувствовал себя уверенно. Поэтому для всех было очень важно убедиться, что тот день не был случайностью и что это может вылиться во что-то долговременное. И, как я уже сказал, последние пару месяцев показали, что так оно и есть».\n\nНа вопрос о том, был ли он фанатом SKID ROW до того, как прошёл прослушивание в группу, Justin ответил:\n\n«О да. К счастью, у меня невероятно крутые родители — они до сих пор живы, — они воспитывали меня на классическом роке. THE WHO — моя любимая группа всех времён. С раннего детства я слушал THE WHO, LED ZEPPELIN, QUEEN и ROLLING STONES.\n\nИ когда я начал отходить от музыки, которую любили мои родители, и формировать свой собственный музыкальный вкус, SKID ROW стали для меня одной из тех групп, которые произвели неизгладимое впечатление. Они сыграли очень важную роль в начале моей карьеры. Когда я участвовал в \"Rock Of Ages\" на Бродвее, песня SKID ROW \"18 And Life\" звучала перед концертом и служила для меня сигналом подняться на сцену.\n\nИтак, каждый божий вечер я готовился, и как только я слышал эти первые аккорды, меня сразу же охватывало невероятное чувство радости, потому что я мог выйти на сцену и исполнить музыку, которую я люблю больше всего, и потрясающие песни на сцене для тысяч людей. И \"18 And Life\" всегда была песней, которая заставляла меня погружаться в это каждый божий вечер. Это одна из таких песен... Похоже, что судьба сложилась интересным образом».\n\nJustin также более подробно рассказал о своей карьере на Бродвее:\n\n«На Бродвее, в мире Бродвея и музыкального театра, есть небольшая группа людей, состоящая почти исключительно из рок-исполнителей. И для нас это означает, что количество концертов очень ограничено. Количество концертов, которые мы можем дать, ограничено. \"Rock Of Ages\" был грандиозным. Я дал более 500 выступлений. Мы выступали шесть дней в неделю, по восемь концертов в неделю. Это было очень напряжённое время. А потом в \"Человеке-пауке\" я сыграл Питера Паркера. Музыку для него написали Боно и The Edge из U2. А затем был \"Иисус Христос— суперзвезда\".\n\nВсе эти шоу требуют подлинных рок-голосов и подлинных рок-личностей. И вот тут-то я и сделал первые шаги в этой области. У многих актёров существует поговорка: \"Ты актёр 10 % времени, а всё остальное время ты обслуживаешь столики\". И это справедливо для большинства людей. Но что касается меня, то из-за ниши, которую я нашёл, я пел в группах. Я пел в группах в Джерси и на Лонг-Айленде, в Нью-Йорке, в Коннектикуте. Я летал по всей стране.\n\nЯ смог поучаствовать во множестве таких рок-симфонических шоу, когда я выходил на сцену и пел 18 песен LED ZEPPELIN за вечер с симфоническим оркестром Сент-Луиса. И это было частью моей жизни в течение последних... О Боже, я занимаюсь этим уже 17 лет».\n\nНа вопрос о том, будет ли он продолжать выступать на Бродвее, когда появится возможность, или пока сосредоточится исключительно на SKID ROW, Justin ответил:\n\n«SKID ROW в приоритете. Эта группа в приоритете. На неё я буду тратить большую часть своей энергии, если не всю. Если появится возможность, мы это обсудим. Если это будет полезно для группы, то да, я соглашусь. Если нет, то я буду заниматься только этим».\n\nSave Sabo также рассказал о поиске вокалиста для SKID ROW:\n\n«Один из самых важнейших моментов для нас, как и всегда, — это чтобы мы ладили с людьми, с которыми делим сцену, автобус, отель и так далее. Мы практически всё время проводим вместе. Поэтому мы хотели убедиться, что сможем смеяться и разговаривать, не испытывая чувства, что нам нужно срочно выйти из комнаты, потому что мы уже не можем выносить этого парня. Конечно, хочется, чтобы человек был отличным исполнителем, музыкантом и так далее, но, чёрт возьми, когда ты можешь зайти к кому-то в комнату, сесть рядом и поговорить о его семье или о чём угодно, просто поговорить и посмеяться, это здорово...\n\nМы занимаемся этим, потому что это приносит радость. Вот почему мы играем в группе: мы любим сочинять и исполнять музыку для людей, и нам хочется делать это в такой обстановке, когда улыбка на твоём лице искренняя. Это не показуха. Это по-настоящему.\n\nИ вот, проведя много времени вместе, мы все довольно быстро поняли, что, даже если у нас не сложится с музыкой, мы всё равно сможем общаться и останемся друзьями. Мы легко нашли общий язык. А потом мы отправились в студию, начали играть, и тут же Justin сказал: \"Давайте исполним весь сет\". А мы такие: \"Мы готовы сыграть только три-четыре песни\". А он сказал: \"Чуваки, я выучил весь сет. Погнали\". И мы начали с самого начала, со \"Slave To The Grind\" и до \"Youth Gone Wild\".\n\nВсе говорят: \"Было круто с самого начала\". Но на самом деле это было не так уж сложно. Никаких сложностей не возникло. Было чувство: \"Это действительно круто\". Я с нетерпением жду возможности выступить у Дэйва ДиПьетро в Хазлете и отыграть сет так, будто мы занимаемся этим уже давно. И опять же, получать удовольствие от того, что ты делаешь, — это круто... Особенно на этом этапе нашей карьеры хочется просто быть счастливым.\n\nХочется просто выйти на сцену и повеселиться, и, надеюсь, это чувство передастся и зрителям. И я думаю, что так и будет. Я надеюсь, что так и будет. Конечно, мы сделаем всё, что в наших силах, но пока это был отличный опыт. Всё было без напряга. Ничего такого, что выворачивало бы нас наизнанку. Было очень весело. И то, что спустя 40 лет существования группы мы испытываем такие чувства, — это очень трогательно. Это нечто особенное. И я могу говорить от лица всех, когда скажу, что мы все очень благодарны за то, что живём именно в этот момент».\n\nSnake также рассказал о планах SKID ROW на гастроли:\n\n«Мы долго не выступали — слишком долго. Но ожидание того стоило. Мы очень тщательно подошли к этому процессу. Мы встретились со множеством замечательных людей. Но мы хотели убедиться, что не бросаемся в омут с головой, и это одна из причин, по которой мы так долго не выступали. Но ожидание того стоило. Так что мы с нетерпением ждём возможности вернуться и заниматься тем, что умеем, — выступать вживую и создавать музыку».\n\nНа вопрос о том, когда поклонники смогут услышать новый альбом с оригинальным материалом SKID ROW и вокалом Justin'a, Snake ответил:\n\n«Он выйдет не раньше, чем начнутся концерты. Мы хотим выйти на сцену и отыграть все запланированные выступления, но мы постоянно сочиняем песни. И мы хотим посмотреть, что привнесёт в наш альбом Justin. В конце концов побеждает лучшая идея. Так было всегда. Просто пятеро парней обсуждают свои идеи в центре зала, и всё, что получается лучше всего, идёт в дело.\n\nУ нас с Rachel'ом с самого начала сложились партнёрские отношения, и, конечно же, это здорово сработало. Нам очень повезло в этом отношении. И, повторюсь, нам по-прежнему доставляет огромное удовольствие делать то, что мы делаем, творить вместе. Процесс будет немного отличаться, потому что Justin теперь в группе, и давайте посмотрим, что он нам предложит. И я уверен, что у него получится отличный материал. Но, опять же, мы просто хотим убедиться, что это лучший материал, который мы могли бы выпустить. Мы не хотим торопиться. Мы с нетерпением ждём момента, когда сможем сыграть и потусить».",
-      "tags": "",
-      "category": "Экстремальный метал",
-      "published": "2026-11-03T17:45:00+00:00",
-      "id": "bc5397cff31c454acac2a841aecc342fef7a68b1",
       "retry_after": 0
     },
     {
@@ -6027,7 +5999,7 @@
       "title": "Watch: Anthrax's Joey Belladonna Sings the National Anthem in Seahawks Versus Chicago Bears Game",
       "link": "https://metalinjection.net/news/watch-anthraxs-joey-belladonna-sings-the-national-anthem-in-seahawks-versus-chicago-bears-game",
       "rss_body": "The Seahawks continue their streak of booking rock and metal legends.",
-      "tags": "Latest News Anthrax JOEY BELLADONNA",
+      "tags": "Latest News Anthrax JOEY BELLADONNA featured",
       "category": "Хэви-метал",
       "published": "2026-11-03T15:27:34+00:00",
       "id": "42306817435af7830058fc95ceb384b5975e70ab",
@@ -6116,6 +6088,126 @@
       "published": "2026-11-03T08:39:40+00:00",
       "id": "ad0bb08c4c5f4865e35876991659ca3a42dfbd96",
       "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Mastodon Moves to Dismiss Key Claims in Brent Hinds Estate Lawsuit",
+      "link": "https://metalinjection.net/news/mastodon-moves-to-dismiss-key-claims-in-brent-hinds-estate-lawsuit",
+      "rss_body": "\"The truth will be addressed in due course.\"",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T22:02:07+00:00",
+      "id": "08ebb83962cd7ef5ed9063805820a0d11336f2cc",
+      "retry_after": 1793749674
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Rock For People Adds Evanescence, Parkway Drive, The Devil Wears Prada and More to Lineup",
+      "link": "https://metalinjection.net/tour-dates/festivals/rock-for-people-adds-evanescence-parkway-drive-the-devil-wears-prada-and-more-to-lineup",
+      "rss_body": "Adding Evanescence and Parkway Drive to their heavy-hitting lineup.",
+      "tags": "Festivals PARKWAY DRIVE Faith No More evanescence blink-182",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T21:11:58+00:00",
+      "id": "9619745113ca30f3e782f590b0f97c8e53c3e177",
+      "retry_after": 1793749674
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Photos: Knocked Loose and Denzel Curry Turn Petco Park Into a Halloween Eve Riot",
+      "link": "https://metalinjection.net/photos/photos-knocked-loose-and-denzel-curry-turn-petco-park-into-a-halloween-eve-riot",
+      "rss_body": "The new hardcore hip-hop duo that people can't get enough of.",
+      "tags": "Photos Knocked Loose Denzel Curry",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T21:09:54+00:00",
+      "id": "e60dab9e64bde426417955634ebe5735d8ae7255",
+      "retry_after": 1793749674
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Alexisonfire and Poison the Well Announce 2027 Co-Headlining Tour",
+      "link": "https://metalinjection.net/tour-dates/alexisonfire-and-poison-the-well-announce-2027-co-headlining-tour",
+      "rss_body": "In case your wallet wasn't already weeping for mercy.",
+      "tags": "Tour Dates poison the well TOUCHE AMORE featured Alexisonfire",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T20:59:56+00:00",
+      "id": "1e2838ea98941734e84826f798eef4559e8d71f4",
+      "retry_after": 1793749674
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Ozzfest Launches Countdown Timer",
+      "link": "https://metalinjection.net/news/ozzfest-launches-countdown-timer",
+      "rss_body": "This Thursday... something is happening.",
+      "tags": "Latest News ozzfest featured1",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T20:00:41+00:00",
+      "id": "09e751ce9ffecd96af3fbe47c992868d44188625",
+      "retry_after": 1793749713
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Full Album Stream: Architect of Seth – “Solitude Solaire”",
+      "link": "https://www.decibelmagazine.com/2026/11/03/full-album-stream-architect-of-seth-solitude-solaire/",
+      "rss_body": "French technical death metal outfit\n\nArchitect of Seth\n\ncan trace their origins back to 2006, when bandleader Pyromancer founded the band as a multi-member unit. After releasing a pair of demos in the mid-aughts and a full-length album,\n\nThe Persistence of Scars\n\n, in 2013, members departed and Pyromancer was left as the only member.\n\nThe 13-year hiatus that began after the release of\n\nThe Persistence of Scars\n\nis officially over, as Architect of Seth are streaming\n\nSolitude Solaire\n\n. The bones of Architect of Seth haven’t changed—the music is still based around progressive, technical death metal inspired by Death, Pestilence, Nocturnus and their ilk, but the songwriting is more layered and mature.\n\nThe best moments on\n\nSolitude Solaire\n\ncome when Pyromancer allows himself to go long, like album centerpiece “Nature Morte,” which pushes his death and black metal influences into epic territory, utilizing keyboards and singer Roselys’ sung vocals alongside soaring guitar solos. At other times, it’s probing the doom side of death metal or embracing Coroner-esque speed. The same can be said of its follow up, “Paradis Sans Vie,” for which Pyromancer recruited lead guitarist Clément Bourmaud and additional vocalist Ruptur.\n\nElsewhere, “Karma Trance” provides a masterclass on concise, sharp songwriting and closer “Mes Mains qui se Perdent” embraces Architect of Seth’s flair for the dramatic with an emotive, melodic performance.\n\nDescribing the album to\n\nDecibel\n\n, Pyromancer said:\n\n“Creating this album was a profound inner journey, inseparable from the imagery that accompanies its cover artwork.\n\n“There is, first, that sensation of plunging into the void. The urge to surrender to nothingness in the face of the world’s desolation, the violence of our times and the collapse of our own certainties. Then, at the very heart of that darkness, something emerges. A landscape, a light, the vastness of the universe. A beauty so sudden, so overwhelming that it changes everything. Like a divine revelation, a moment of grace reminding us that, despite the horror, there is still something to behold, to feel, to accomplish.\n\n“It is within this tension that the album took shape: between collapse and the will to live, between the call of the void and the urgency to create. For revelation does not necessarily bring relief from torment. It rekindles it, intensifies it, confronts us with our own contradictions and with the inner struggle we must sometimes endure to transform vertigo into movement, desolation into substance and chaos into creation.\n\n“This album bears the scars of its time, but also the determination to set a vision against it. An emotion, a form of beauty wrested from the darkness. It is neither about denying the void nor pretending to escape it, let alone offering definitive answers. It is about moving through it, confronting what lies beyond our grasp, and giving form to the ineffable.\n\n“From this perspective, creation becomes an act of resistance. An act of defiance in the face of collapse, a way of remaining standing when everything is falling apart. Perhaps even an attempt at salvation.\n\n“Between the Void and Revelation, this album explores that fragile moment when beauty does not dispel the darkness, but becomes a reason to confront it.”\n\nWhat are you waiting for?\n\nSolitude Solaire\n\nis streaming below (out officially on November 6 via I, Voidhanger) and the void beckons you.\n\nSolitude Solaire by ARCHITECT OF SETH",
+      "tags": "Streaming Track Premiere Architect of Seth death metal I Voidhanger premiere Progressive Death Metal Technical Death Metal",
+      "category": "Прогрессив",
+      "published": "2026-11-03T20:00:19+00:00",
+      "id": "03d210a68975dcabf04532f258c0fa523452a03a",
+      "retry_after": 1793749734
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Spike Lee Claims Credit For Red Yankees Fitted, “Limp Bizkit… Didn’t Have It Before Me!”",
+      "link": "https://metalinjection.net/news/spike-lee-claims-credit-for-red-yankees-fitted-limp-bizkit-didnt-have-it-before-me",
+      "rss_body": "\"The red Yankee hat started everything!\"",
+      "tags": "Latest News fred durst spike lee",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T19:27:04+00:00",
+      "id": "b5539d716064679795758acc77e7f1144749b40d",
+      "retry_after": 1793749741
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Kenny Hickey of Silvertomb on The Meaning of Heavy, Comparisons to Type O & More",
+      "link": "https://metalinjection.net/video/kenny-hickey-of-silvertomb-on-the-meaning-of-heavy-comparisons-to-type-o-more",
+      "rss_body": "'The Interpretation of Nightmares' out November 13.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T18:54:11+00:00",
+      "id": "fc2fb02ead8c606e47c12a0fcd8abcc856769ab3",
+      "retry_after": 1793749741
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Currents Announce 2027 Headlining Tour With Vanna, Vana and More",
+      "link": "https://metalinjection.net/tour-dates/currents-announce-2027-headlining-tour-with-vanna-vana-and-more",
+      "rss_body": "Yes. Both Vanna and Vana are opening this run.",
+      "tags": "Tour Dates Currents featured",
+      "category": "Прогрессив",
+      "published": "2026-11-03T18:27:38+00:00",
+      "id": "3335a918f3cc50abebabd560d8d33ecf44827b28",
+      "retry_after": 1793749746
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Brad Pitt’s Cliff Booth Gets a Trent Reznor and Atticus Ross Soundtrack",
+      "link": "https://metalinjection.net/news/brad-pitts-cliff-booth-gets-a-trent-reznor-and-atticus-ross-soundtrack",
+      "rss_body": "Fincher X Tarantino X Reznor and Ross.",
+      "tags": "Latest News Nine Inch Nails trent reznor atticus ross",
+      "category": "Хэви-метал",
+      "published": "2026-11-03T17:58:19+00:00",
+      "id": "f90e5bdbe981b2d7b4b1f157c7b1b5f309e6b55e",
+      "retry_after": 1793749760
     }
   ]
 }
