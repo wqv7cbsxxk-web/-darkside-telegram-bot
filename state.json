@@ -1373,49 +1373,17 @@
     "a1d90b025fa77e9efaa226f8163f63b069b6ef2e",
     "9b9bf023d6577e15b25e11cfd0c67942590f7157",
     "cf3797a8adc480af46c25fdbb2669acfe52eeb54",
-    "5879d279ef606fe5815d76f2282b1fdffa607403"
+    "5879d279ef606fe5815d76f2282b1fdffa607403",
+    "28190d745e2ce9edfba8c211ef2909f57570b3ac",
+    "024d4334a77d31545bbaa93c12099bdabb4f1b28",
+    "748706cf926ec08ced7217effef26fa625402693",
+    "05997a91537acb3daa174145ee9dfdd59c84a3e2",
+    "0dfea7360abc28fce5f60f0237aa1a466aee151b",
+    "db4355940d82e4f488ac9df954562f18e42497aa",
+    "fad81aecb94732f1ae5d024e116d6db65eea83c5",
+    "465120ebae1296ecf4f02d54045e922f0180464a"
   ],
   "recent_titles": [
-    {
-      "title": "Lockslip’s “I’m The Same” Music Video Emerges Online",
-      "source": "ThePRP",
-      "ts": 1793393725
-    },
-    {
-      "title": "Triumph Cancels Upcoming 2026 Tour Dates",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793393737
-    },
-    {
-      "title": "Zao’s 2025 ‘Furnace Fest’ Performance Of “Liberate Te Ex Inferis” Released",
-      "source": "ThePRP",
-      "ts": 1793393741
-    },
-    {
-      "title": "From First To Last Premiere “Picking Clothes To Die In” Music Video",
-      "source": "ThePRP",
-      "ts": 1793393744
-    },
-    {
-      "title": "Rage Against The Machine’s Zack De La Rocha Hopes Turnstile’s Rise Will Inspire Fans To Dig Deeper Into Hardcore’s Roots",
-      "source": "ThePRP",
-      "ts": 1793393768
-    },
-    {
-      "title": "Watch: Smash Mouth Covered Slipknot’s “Duality” In The Studio",
-      "source": "ThePRP",
-      "ts": 1793393790
-    },
-    {
-      "title": "AN NCS PREMIERE: ARONIOUS — “ANTEDILUVIAN”",
-      "source": "No Clean Singing",
-      "ts": 1793393814
-    },
-    {
-      "title": "Islander’s New Single “Pineapple Frankenstein (Strange)” Lands Online",
-      "source": "ThePRP",
-      "ts": 1793393817
-    },
     {
       "title": "Новое видео DIARY OF DREAMS",
       "source": "Darkside",
@@ -2175,6 +2143,46 @@
       "title": "How Pentangle survived being matched with Led Zeppelin and Cream",
       "source": "Louder",
       "ts": 1793762643
+    },
+    {
+      "title": "Новое видео SLEEPWALK",
+      "source": "Darkside",
+      "ts": 1793791261
+    },
+    {
+      "title": "Новое видео CASPIAN",
+      "source": "Darkside",
+      "ts": 1793791264
+    },
+    {
+      "title": "Новое видео KALANDRA",
+      "source": "Darkside",
+      "ts": 1793791266
+    },
+    {
+      "title": "LEX LEGION готовы к записи второй пластинки",
+      "source": "Darkside",
+      "ts": 1793791268
+    },
+    {
+      "title": "Hear Gojira’s Joe Duplantier roar on new Cult Of Luna single Sadness Will Reign",
+      "source": "Louder",
+      "ts": 1793791281
+    },
+    {
+      "title": "Новое видео AGAINST THE CURRENT",
+      "source": "Darkside",
+      "ts": 1793791283
+    },
+    {
+      "title": "“My desire to push those buttons made them nervous”: Jordan Rudess had much to learn when he joined Dream Theater",
+      "source": "Louder",
+      "ts": 1793791303
+    },
+    {
+      "title": "Новое видео KING SATAN",
+      "source": "Darkside",
+      "ts": 1793791304
     }
   ],
   "initialized_sources": [
@@ -6157,6 +6165,54 @@
       "published": "2026-11-03T17:58:19+00:00",
       "id": "f90e5bdbe981b2d7b4b1f157c7b1b5f309e6b55e",
       "retry_after": 1793762826
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "QUEENS OF THE STONE AGE в \"The Tonight Show Starring Jimmy Fallon\"",
+      "link": "http://www.darkside.ru/news/184699/",
+      "rss_body": "QUEENS OF THE STONE AGE были гостями программы \"The Tonight Show Starring Jimmy Fallon\", где исполнили композицию \"Where The Goth Girls At?\" Этот трек взят из последнего альбома \"Perfecth\", выпущенного тридцатого октября",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T08:54:31+00:00",
+      "id": "afa52c162764c5d1b20f9b3795a2dcbf8ca60136",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Mastodon File For Partial Dismissal Of Lawsuit Brought Forth By Brent Hinds’ Estate",
+      "link": "https://www.theprp.com/2026/11/03/news/mastodon-file-for-partial-dismissal-of-lawsuit-brought-forth-by-brent-hinds-estate/",
+      "rss_body": "The band have taken direct issue with a number of the claims made.",
+      "tags": "News Brent Hinds Mastodon",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T06:43:49+00:00",
+      "id": "c7558dd3ccbfa85d7533f480458bf8ff5b3c236c",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "20 years after the film that changed everything, Anvil frontman Steve 'Lips' Kudrow has no regrets",
+      "link": "https://www.loudersound.com/bands-artists/interviews/20-years-anvil-film-steve-lips-kudrow",
+      "rss_body": "It’s no exaggeration to say that the 2008 documentary film\n\nAnvil! The Story Of Anvil\n\nbrought the veteran Canadian trio a whole new audience. Some would claim it saved the career of the down-at-heel metalheads, whose singer and guitarist Steve ‘Lips’ Kudlow was delivering school meals at the time.\n\nPrior to this year’s annual visit to Britain and Ireland, when the band will play sets drawn from their first three albums, we check in with Lips.\n\nIt’s pretty hard to believe that\n\nAnvil!\n\ncame out almost twenty years ago.\n\nYeah. That time came and went in the blink of an eye. I mean, what the hell happened? In the movie my son is ten years old, now he’s thirty. I know half a dozen people that are now dead. If I want to see my mother or Lemmy, I watch the movie.\n\nSeven albums later, is there now a significant divide – the ‘real’ fans who are aware of Anvil’s music, and others that are simply curious because of the film?\n\nWe’ve become a phenomenon. Come to a show and for two-thirds of the audience it’s their first time seeing us. When I ask whether there are any old Anvil fans out there, few bald heads or grey hair are to be seen. The movie brought us the audience of today. Older fans bring along their kids. But it’s rewarding to know that the music has made it through generations.\n\nThe film has been on Netflix and retains its popularity. Are there moments in it that now make you wish you hadn’t allowed director Sacha Gervasi to film them?\n\nNah, nah, nah. They had access to everything – the good, the bad and the ugly – and I’m glad about that. I have no shame. Show the arguments, show everything. I wanted pure honesty, not the candy-coated garbage that most bands would put out.\n\nI wanted a new band to witness our self-belief, because they will experience most of the things you see in the movie. Some compared it to\n\nSpinal Tap\n\n. Well, Spinal Tap was based on real events. Harry Shearer [co-creator and portrayer of Derek Smalls] went on the road with\n\nSaxon\n\n. Those things with the cucumber in silver foil and getting lost backstage really happened.\n\nAnvil come to the play in the UK and Ireland as regular as clockwork, but usually it’s in promotion of a new album\n\n.\n\nI wanted to take extra time between the twentieth album [\n\nOne And Only\n\n, 2024] and the twenty-first, which we’re about to begin recording. People come to the shows and say: “I haven’t got the new album, can you sign the last one?” so we’re giving them breathing room. That’s why we’ll be playing all of the old shit. If for no other purpose than to introduce that material to the ‘new people’.\n\nIt’s a set based on the first three albums:\n\nMetal On Metal, Hard ‘N’ Heavy\n\nand\n\nForged In Fire\n\n, all of which came out between 1981 and ’83.\n\n[Laughing] Yeah. This isn’t about nostalgia, more letting those that know us from the movie know about those songs. I know it sounds ridiculous. We recently did the same thing in the US. These young kids came along expecting a geriatric show, and it was off the scale.\n\nHow did playing slide guitar with a dildo become a part of the act?\n\nWe did right from the start. We were racking our brains for something that would make people never forget us, when it dawned on me: the sound of the [vibrator’s] motor coming through the pickups. Nobody had done that before. My original cost three dollars and the results were fantastic, you could rev it up or slow it down. Down the years I developed a section in\n\nMothra\n\n[from\n\nMetal On Metal\n\n] in which I use it musically. It’s not just a gimmick.\n\nAnvil are a band from the clubs…\n\n[Interrupting]: And I’m happy with that. I love being crammed onto a small stage, sweating my balls off in my favourite country in the whole world – the UK. I love that shit, man. That’s where metal really, really thrives. Not in some massive concert arena. If you can’t look your audience in the eye, that isn’t the real deal. People say: “You never got big.” Who gives a shit? Do I want to play places like that? No.\n\nAre you seriously trying to tell us that if Lars Ulrich, who was a ‘talking head’ in your movie, called to offer a support slot with Metallica, you’d really say no?\n\nI’d still be questioning… [pauses]… for me, at seventy years old, is there a point? Am I buying onto this tour for fifty thousand quid that I don’t have? Have I sold a million records? No, I haven’t, and that’s what greases palms for a headline band whose overheads are millions of dollars per night.\n\nTo be fair, in 2019 Metallica took out Bokassa, an unknown punk band from Norway, as an opening act.\n\nI don’t know how that works, but don’t think about it all too much because it’s never going to happen. I know that I will never open for Metallica. And I have long since reached peace with that.\n\nAnvil’s 12-date date UK tour begins today (November 4) in Southampton. Support comes from the Belgian band Killer.\n\nFind tickets\n\n.",
+      "tags": "Interviews Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T05:55:00+00:00",
+      "id": "34883185cce8d04b061b46bcc481e6e92bbbf7ef",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Dave Grohl says performing with AC/DC turned him into an emotional wreck",
+      "link": "https://www.loudersound.com/bands-artists/idave-grohl-performing-with-ac-dc-emotional-wreck",
+      "rss_body": "Dave Grohl\n\nhas admitted that the experience of performing onstage with\n\nAC/DC\n\nturned him into an emotional wreck.\n\nFoo Fighters\n\nplayed two dates with the Aussie giants last month after the support band,\n\nThe Pretty Reckless\n\n, were forced to drop out.\n\nGrohl recalled\n\nthe appearance\n\n– which took place at the second show with AC/DC, at the MetLife Stadium in East Rutherford, NJ. – during an\n\ninterview with New Zealand radio station The Rock\n\n.\n\n\"It was so crazy because my wife was on the side of the stage,\" says Grohl. \"We played\n\nHighway To Hell\n\n.\n\nI walked off stage, and I broke down in tears, sobbing like a baby. I was sobbing, like wailing, sobbing, and I couldn't believe it. I was, like, 'That is one of the most full-circle moments of my entire life,' and I will never forget it.\"\n\nGrohl goes on to explain that one of his formative musical experiences came watching AC/DC's 1980 documentary\n\nLet There Be Rock\n\nas an 11-year-old.\n\n\"Watching a band go on stage and just destroy the stage and equipment and themselves for an hour and a half…\" he says. \"I didn't know that's how you play rock'n'roll. I thought rock'n'roll was like\n\nBeatles\n\nand\n\nKiss\n\nand things like that. I'd never seen someone so drenched in sweat that they needed an oxygen tank. I was, like, '\n\nThat's\n\nwhat I wanna be when I grow up. I wanna be\n\nthat\n\nguy.'\"\n\nFoo Fighters begin their stadium tour of Australia this week, and return to the Antipodes for two dates in New Zealand in January, followed by shows in India and South America. Full dates below.\n\nFoo Fighters: Take Cover tour 2026/27\n\nNov 05: Brisbane Corp Stadium, Australia\n\nNov 07: Townsville Country Bank Stadium, Australia\n\nNov 10: Sydney Accor Stadium, Australia\n\nNov 12: Newcastle Mcdonald Jones Stadium, Australia\n\nNov 14: Melbourne Marvel Stadium, Australia\n\nNov 17: Adelaide Coopers Stadium, Australia\n\nDec 12: Los Angeles Kia Forum, CA*\n\nJan 19: Christchurch One New Zealand Stadium, New Zealand\n\nJan 22: Auckland Western Springs Stadium, New Zeland\n\nJan 25: Perth Hbf Park, Australia\n\nJan 29: Bangalore Bengaluru Live, India\n\nJan 31: Mumbai Mahalaxmi Racecourse, India\n\nFeb 18: Belo Horizonte Arena MRV, Brazil\n\nFeb 20: São Paulo Estatdio Morumbis, Brazil\n\nFeb 23: Montevideo Estadio Centenario, Uruguay\n\nFeb 25: Buenos Aires Estadio River Plate, Argentina\n\nFeb 28: Santiago Parque Estadio Nacional, Chile\n\nMar 03: Lima Estadio San Marcos, Peru\n\n*KROQ Almost Acoustic Christmas with Weezer, Sublime, Interpol, Joyce Manor, Julia Wolf, Almost Monday, and The Linda Lindas!\n\nFind Foo Fighters Tickets\n\n.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-11-04T04:05:00+00:00",
+      "id": "d99cffe5e300da861afb0b418864fe28799b1fb6",
+      "retry_after": 0
     }
   ]
 }
