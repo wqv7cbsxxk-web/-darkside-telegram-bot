@@ -1329,10 +1329,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://immortalofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Immortal_%28band%29",
-      "reference_checked_at": "2026-10-27T23:18:15.024930+00:00",
+      "reference_checked_at": "2026-11-04T11:22:13.356155+00:00",
       "tour_attempted_at": "2026-11-03T18:39:58.156159+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T23:18:15.025005+00:00"
+      "reference_attempted_at": "2026-11-04T11:22:13.356244+00:00"
     },
     "in-flames": {
       "origin": "Gothenburg , Sweden",
@@ -1363,10 +1363,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.inflames.com/",
       "reference_url": "https://en.wikipedia.org/wiki/In_Flames",
-      "reference_checked_at": "2026-10-27T23:18:15.240075+00:00",
+      "reference_checked_at": "2026-11-04T11:22:13.501915+00:00",
       "tour_attempted_at": "2026-11-03T18:39:58.364238+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T23:18:15.240182+00:00"
+      "reference_attempted_at": "2026-11-04T11:22:13.502051+00:00"
     },
     "iron-maiden": {
       "origin": "London, England",
@@ -1401,10 +1401,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ironmaiden.com",
       "reference_url": "https://en.wikipedia.org/wiki/Iron_Maiden",
-      "reference_checked_at": "2026-10-27T23:18:15.627946+00:00",
+      "reference_checked_at": "2026-11-04T11:22:13.802479+00:00",
       "tour_attempted_at": "2026-11-03T18:39:58.904272+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T23:18:15.628120+00:00"
+      "reference_attempted_at": "2026-11-04T11:22:13.802722+00:00"
     },
     "kid-rock": {
       "origin": "",
@@ -1414,14 +1414,14 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://kidrock.com",
       "reference_url": "https://en.wikipedia.org/wiki/Kid_Rock",
-      "reference_checked_at": "2026-10-27T23:18:15.908021+00:00",
+      "reference_checked_at": "2026-11-04T11:22:13.992127+00:00",
       "tour_attempted_at": "2026-11-03T18:39:59.425429+00:00",
       "instruments": "Vocals guitar",
-      "reference_attempted_at": "2026-10-27T23:18:15.908042+00:00"
+      "reference_attempted_at": "2026-11-04T11:22:13.992149+00:00"
     },
     "king-crimson": {
       "origin": "London, England",
-      "genres": "Progressive rock art rock experimental rock progressive metal post-progressive new wave",
+      "genres": "Progressive rock art rock experimental rock post-progressive",
       "years_active": "1968–1974 1981–1984 1994–2008 2013–2021",
       "members": [
         {
@@ -1520,10 +1520,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://dgmlive.com",
       "reference_url": "https://en.wikipedia.org/wiki/King_Crimson",
-      "reference_checked_at": "2026-10-27T23:18:16.301683+00:00",
+      "reference_checked_at": "2026-11-04T11:22:14.258743+00:00",
       "tour_attempted_at": "2026-11-03T23:44:31.584106+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T23:18:16.301787+00:00"
+      "reference_attempted_at": "2026-11-04T11:22:14.259012+00:00"
     },
     "judas-priest": {
       "origin": "Birmingham , England",
@@ -1554,10 +1554,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://judaspriest.com",
       "reference_url": "https://en.wikipedia.org/wiki/Judas_Priest",
-      "reference_checked_at": "2026-10-27T23:18:16.610873+00:00",
+      "reference_checked_at": "2026-11-04T11:22:14.508083+00:00",
       "tour_attempted_at": "2026-11-03T23:44:31.766360+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-27T23:18:16.610894+00:00"
+      "reference_attempted_at": "2026-11-04T11:22:14.508106+00:00"
     },
     "kiss": {
       "origin": "New York City , U.S.",
@@ -1805,7 +1805,7 @@
       "website": "http://manowar.com",
       "reference_url": "https://en.wikipedia.org/wiki/Manowar",
       "reference_checked_at": "2026-10-28T09:04:37.616037+00:00",
-      "tour_attempted_at": "2026-10-28T20:58:51.456853+00:00",
+      "tour_attempted_at": "2026-11-04T11:22:14.681370+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T09:04:37.616151+00:00"
     },
@@ -1835,7 +1835,7 @@
       "website": "http://megadeth.com",
       "reference_url": "https://en.wikipedia.org/wiki/Megadeth",
       "reference_checked_at": "2026-10-28T09:04:38.317019+00:00",
-      "tour_attempted_at": "2026-10-28T20:58:52.204861+00:00",
+      "tour_attempted_at": "2026-11-04T11:22:15.623259+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T09:04:38.317141+00:00"
     },
@@ -1869,7 +1869,7 @@
       "website": "http://meshuggah.net",
       "reference_url": "https://en.wikipedia.org/wiki/Meshuggah",
       "reference_checked_at": "2026-10-28T09:04:38.803876+00:00",
-      "tour_attempted_at": "2026-10-28T20:58:54.724182+00:00",
+      "tour_attempted_at": "2026-11-04T11:22:16.100717+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T09:04:38.803899+00:00"
     },
@@ -1899,7 +1899,7 @@
       "website": "http://metallica.com",
       "reference_url": "https://en.wikipedia.org/wiki/Metallica",
       "reference_checked_at": "2026-10-28T09:04:39.438341+00:00",
-      "tour_attempted_at": "2026-10-28T20:58:55.442718+00:00",
+      "tour_attempted_at": "2026-11-04T11:22:16.664695+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-28T09:04:39.438523+00:00"
     },
