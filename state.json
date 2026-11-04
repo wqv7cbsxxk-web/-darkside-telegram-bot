@@ -1364,49 +1364,18 @@
     "003df62bf51a6f7a3395076cf4d4f8310883f68d",
     "42b8a5165a052554c3d65d1c2ee4abf2c36f9015",
     "3d0da74e5d3ee8ccf0170ac4d7ef3ddaabcd1a33",
-    "bc5397cff31c454acac2a841aecc342fef7a68b1"
+    "bc5397cff31c454acac2a841aecc342fef7a68b1",
+    "a646f185cfdb8f997621849a894ec29f67cbbce9",
+    "494be0055947e81aab46cd02dc02548c00a9e37b",
+    "9039c253fa10675bb06fe38a42977063d11516f6",
+    "8ce7d36ad2d37d89f71e21645fa8870d2d59de6b",
+    "20c46d20a284b6db04b2529d174c765d2c98d456",
+    "a1d90b025fa77e9efaa226f8163f63b069b6ef2e",
+    "9b9bf023d6577e15b25e11cfd0c67942590f7157",
+    "cf3797a8adc480af46c25fdbb2669acfe52eeb54",
+    "5879d279ef606fe5815d76f2282b1fdffa607403"
   ],
   "recent_titles": [
-    {
-      "title": "Five For Friday: October 30, 2026",
-      "source": "Decibel",
-      "ts": 1793376960
-    },
-    {
-      "title": "Is This the End of the Road for Aerosmith?",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793377005
-    },
-    {
-      "title": "AN NCS VIDEO PREMIERE: ANCESTROS — “INCOGNITUM HACTENUS”",
-      "source": "No Clean Singing",
-      "ts": 1793377028
-    },
-    {
-      "title": "AN NCS INTERVIEW: REVEL IN FLESH",
-      "source": "No Clean Singing",
-      "ts": 1793377073
-    },
-    {
-      "title": "Watch Steven Wilson and Phil Collins in conversation about Face Value",
-      "source": "Louder",
-      "ts": 1793377079
-    },
-    {
-      "title": "Aerosmith's Comeback Concert: Full Set List and Video",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793377098
-    },
-    {
-      "title": "How Patrick Stewart went against type as Nazi punk gang leader in Green Room",
-      "source": "Louder",
-      "ts": 1793377111
-    },
-    {
-      "title": "Here Are the ‘Big 4’ of Halloween Rock Songs",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793377133
-    },
     {
       "title": "Lockslip’s “I’m The Same” Music Video Emerges Online",
       "source": "ThePRP",
@@ -2166,6 +2135,46 @@
       "title": "JUSTIN SARGENT о роли нового вокалиста SKID ROW: «Это что-то нереальное!»",
       "source": "Darkside",
       "ts": 1793749462
+    },
+    {
+      "title": "Joe Walsh once joined a reggae band in New Zealand: The experience saved his life",
+      "source": "Louder",
+      "ts": 1793762516
+    },
+    {
+      "title": "FOO FIGHTERS пїЅ Jimmy Kimmel Live!",
+      "source": "Darkside",
+      "ts": 1793762519
+    },
+    {
+      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ SATYRICON",
+      "source": "Darkside",
+      "ts": 1793762522
+    },
+    {
+      "title": "Atoll Announce New Album “Death Roll Party 9000”, Recruit Crown Magnetar’s Dan Tucker For “Weed Witch” Video",
+      "source": "ThePRP",
+      "ts": 1793762546
+    },
+    {
+      "title": "Elder Announce Rescheduled Spring 2027 Tour With Blackwater Holylight",
+      "source": "ThePRP",
+      "ts": 1793762555
+    },
+    {
+      "title": "Currents, Vana, Stick To Your Guns, Vanna & Dreamwake North American Tour Booked",
+      "source": "ThePRP",
+      "ts": 1793762562
+    },
+    {
+      "title": "Interview: Rebreather on ‘Chaos Patterns’",
+      "source": "Decibel",
+      "ts": 1793762584
+    },
+    {
+      "title": "How Pentangle survived being matched with Led Zeppelin and Cream",
+      "source": "Louder",
+      "ts": 1793762643
     }
   ],
   "initialized_sources": [
@@ -5838,66 +5847,6 @@
       "retry_after": 0
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Atoll Announce New Album “Death Roll Party 9000”, Recruit Crown Magnetar’s Dan Tucker For “Weed Witch” Video",
-      "link": "https://www.theprp.com/2026/11/03/news/atoll-announce-new-album-death-roll-party-9000-recruit-crown-magnetars-dan-tucker-for-weed-witch-video/",
-      "rss_body": "Guest appearances from members of Extermination Dismemberment and Vehemence are also featured.",
-      "tags": "News Atoll Crown Magnetar",
-      "category": "Хэви-метал",
-      "published": "2026-11-03T17:42:45+00:00",
-      "id": "20c46d20a284b6db04b2529d174c765d2c98d456",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Elder Announce Rescheduled Spring 2027 Tour With Blackwater Holylight",
-      "link": "https://www.theprp.com/2026/11/03/news/elder-announce-rescheduled-spring-2027-tour-with-blackwater-holylight/",
-      "rss_body": "There's also some new shows in there as well.",
-      "tags": "News Blackwater Holylight Elder",
-      "category": "Хэви-метал",
-      "published": "2026-11-03T17:14:39+00:00",
-      "id": "a1d90b025fa77e9efaa226f8163f63b069b6ef2e",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Currents, Vana, Stick To Your Guns, Vanna & Dreamwake North American Tour Booked",
-      "link": "https://www.theprp.com/2026/11/03/news/currents-vana-stick-to-your-guns-vanna-dreamwake-north-american-tour-booked/",
-      "rss_body": "Vana and Vanna on the road together at last.",
-      "tags": "News Currents Dreamwake Stick To Your Guns Vana Vanna",
-      "category": "Хэви-метал",
-      "published": "2026-11-03T17:00:43+00:00",
-      "id": "9b9bf023d6577e15b25e11cfd0c67942590f7157",
-      "retry_after": 0
-    },
-    {
-      "source": "Decibel",
-      "priority": 90,
-      "title": "Interview: Rebreather on ‘Chaos Patterns’",
-      "link": "https://www.decibelmagazine.com/2026/11/03/interview-rebreather-on-chaos-patterns/",
-      "rss_body": "Youngstown, Ohio’s\n\nRebreather\n\nare back with\n\nChaos Patterns,\n\nout now via\n\nAqualamb Records.\n\nInitially formed in 1999, they have seen decades of moving and shifting in the world of metal. We talked to them about their new music and surviving the landscape for decades.\n\nHaving been at it with doom and sludge for so long, and playing out of the box music since 1999, how do you feel about the state of music today and how things have changed? Are there any bands you’re really digging or influenced by?\n\nOne change I’ve noticed is that there seems to be so many more bands out there doing things.  I think it’s easy for newer bands to get lost in the shuffle.  A positive aspect would be that there seems to be a lot less gatekeeping. The bands all seem to support each other and the local scenes, which is a good thing for everyone.  Lately, with the economy being fucked, you can get waves of shows with lower attendance.  That’s why it’s been so fun playing any of the many festivals that pop up around the country. Gives people a good excuse to see all of their favorite bands at once and the performers get to hang with so many friends that you’ve made crossing each others paths over the years.  A big reunion for everyone.  It’s so much fun watching your friends play live … It’s my favorite part.\n\nWhat are you most excited about when it comes to having the record out in the world? What do you hope to convey to folks with this release?\n\nThat it’s finally goddamn done! We are definitely happy that it’s finished.  But the main thing, I think, is that we are all proud of it. Our music has always floated around the perimeter of several genres. This album is not genre defining at all, but I believe it defines us as a band. It’s the best definition of what we are. Excited to hear what people think about it.\n\nWhat was the writing and recording like for this album? How did it differ from previous releases?\n\nIt’s very easy for us to blast out material, tweak it till it’s “good enough,” and move on. We took so much time on this one … a year and a half, maybe two years to record.  We would record, play out, change parts, then end up re-recording.  We really took our time dialing shit in while recording at Mind Rocket with our buddy Josh Roman.  A second home for us, and always a pleasure to work with Josh.  It was very exciting to finally get to work with Andrew Schnieder for the final mixes.  Alway been a fan of his work, and we were stoked that he squeezed us into his insane schedule.  He pulled some great energy out of the tracks…very rad!  Carl Saff’s mastering is always on point.  He’s magic.  It’s crazy.\n\nWhat are some of the major lyrical themes on the album?\n\nIt’s a little all over the place … Most of the songs have lines that have nothing to do with each other, but each line means something specific to me.  A bunch of puzzle pieces that add up to one vibe. We have all been dealing with our own anxieties, while trying to manage all of the random chaos throughout our families and friends, which lead to the album title,\n\nChaos Patterns\n\n. Navigating our way through the random waves of stressors that are really effecting all of us.\n\nCan you talk about the artwork and how it ties in with the concepts of the record?\n\nThe artwork was done by Mike Egan, a regional artist that we discovered when our friends Nate and Jami Offerdahl started hiring him the do murals at their music venue, Westside Bowl.  Super bold and captivating.  It really grabbed our attention.  I got in touch and had a meeting with him explaining the undertones of the record and how we thought his work would fit.  I shot him the album and asked if he could do one piece for each song, so that we could do a nine-panel layout for the cover. He nailed it! His characters are so fucking cool.  I’m so happy he was down.\n\nIs there anything else you’d like to add?\n\nIt’s been a pleasure working with Aqualamb.  This will be our second record with them.  Only concerned with two things … music and art. No bullshit. The best people.\n\nGet the album here.",
-      "tags": "Exclusive Interviews Aqualamb Records Chaos Patterns ohio Rebreather Youngstown",
-      "category": "Хэви-метал",
-      "published": "2026-11-03T17:00:07+00:00",
-      "id": "cf3797a8adc480af46c25fdbb2669acfe52eeb54",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "How Pentangle survived being matched with Led Zeppelin and Cream",
-      "link": "https://www.loudersound.com/music/albums/pentangle-basket-of-light",
-      "rss_body": "n a musical era when almost anything could and did happen, Pentangle rose to great heights with their experimental take on folk rock. Their peak came with revered 1968 album\n\nBasket Of Light\n\n– but as singer Jacqui McShee told\n\nProg\n\nin 2009, it didn’t last long.\n\nPioneers from a\n\ntime before labels like ‘progressive rock’ had assumed common coinage,\n\nPentangle\n\nmade music that really was impossible to categorise. A self-consciously arty hybrid of blues, folk, jazz, classical and something unnameable that could only be produced when the five individuals in the group stood – or, more usually, sat – in the same room together. “It was all down to chemistry,” agrees singer\n\nJacqui McShee\n\n.\n\nThese days Pentangle tend to get lumped in with the folk-rock of the late-60s; and certainly the roots of the group’s main creative voices – McShee and guitarists\n\nBert Jansch\n\nand\n\nJohn Renbourn\n\n– lay within that then-thriving UK scene. But as the vocalist points out: “We all had much broader musical backgrounds. I brought most of the traditional songs into the band, but I didn’t actually own any folk records! I was into jazz:\n\nMiles Davis\n\n, John Coltrane. It was about experimentation. We all had an equal say in every song, jamming along, working on each tune together. Nobody was told how to play or sing. You just did what you liked.”\n\nAlthough Jansch and Renbourn had several highly-regarded if uncommercial solo albums between them – including\n\nBert And John\n\n, recorded during their time sharing a flat together – the almost instant success Pentangle achieved could not have been foreseen when its principle members first came together, playing for free at the Horseshoe Hotel in Tottenham Court Road in the spring of 1967.\n\nOnce described as “a man who seems in silhouette even in daylight,” Jansch was a disciple of fellow Scot\n\nDavey Graham\n\n, whose modal tunings, learned on travels to Morocco, would also influence\n\nJimmy Page\n\n(a man “absolutely obsessed with Bert Jansch” in the mid-60s). Described by\n\nNeil Young\n\nas “the\n\nJimi Hendrix\n\nof the acoustic guitar,” Jansch took folk and added baroque, jazz, blues and rock. “I used to get thrown out of folk clubs for not singing the right songs,” he said in 2006. “I was too influenced by all the non-folk music.”\n\nRenbourn was more traditionalist though no less experimental, looking beyond folk to medieval and early classical music for his inspiration, and taking the acoustic guitar to inscrutable new heights as he weaved in and around Jansch’s enigmatic improvisations. As McShee says: “Nobody plays like Bert and nobody plays like John; put them together and it shouldn’t work, but it just does. Sitting with them while they play, it always made me smile, it’s so hypnotic.”\n\nThe other pieces of the jigsaw, drummer\n\nTerry Cox\n\nand double-bassist\n\nDanny Thompson\n\n, were equally catholic in their musical influences. Both shared a love of improvisational jazz, had been part of\n\nAlexis Korner\n\n’s blues band, and jammed with future\n\nMahavishnu Orchestra\n\nleader\n\nJohn McLaughlin\n\n.\n\nThompson was also a larger than life character who liked to party. “We were all drinkers,” McShee recalls. “Going to New York for the first time, we were outrageously drunk all the way over on the plane. We arrived at the hotel and it was all expenses paid by Warner Brothers. We were like kids in a sweet shop.”\n\nGiven the arty, free-flowing nature of the music and the era it was made in, one wonders if there was more to Pentangle’s offstage mien than mere drinking? More laughter: “There was some dope smoking and stuff, but nothing drastic. As a kid I’d be sat in the pub with a brown ale hoping no one would ask me my age.”\n\nMcShee, who’d sung with John and Bert at London folk haunts like Les Cousins, had also appeared on the former’s\n\nAnother Monday\n\nalbum. When Thompson and Cox began joining in at the Horseshoe, “it just seemed natural.” It was the quietly-spoken but fiercely determined Jansch who suggested they make a permanent alliance. Pentangle’s name came from Sir Gawain’s shield in the Middle English poem\n\nSir Gawain And The Green Knight\n\n, and represented the five members (points) of the line-up. “That came from John,” says McShee, “who knew about that sort of thing.”\n\n(Image credit: Press)\n\nThe idea of becoming rock stars had never entered their minds, though. As Jansch once said, “I was never interested in being famous; never interested in anyone else who was.”\n\nEnter legendary managerial svengali Joe Lustig. “Joe had big plans for us,” McShee says, “which definitely worked for a while.” They certainly did: launching the band with a showcase concert at the Royal Festival Hall, Pentangle found themselves “starting at the top and working our way down again,” as Jansch only half-jokingly described it.\n\nI could hide behind these other four big egos, which suited me down to the ground\n\nBy the time third album\n\nBasket Of Light\n\nreached Number 5 in January 1970, Pentangle were TV and radio regulars. The album even yielded a minor hit single with\n\nLight Flight\n\n, an earlier version of which had been the theme to the TV series\n\nTake Three Girl\n\ns. How a piece of music that switched between 5/8, 7/8 and 6/4 time signatures became a chart hit remains a mystery – even to McShee:\n\n“We were really shocked at having a hit record. Joe said it would have been a much bigger hit if we had expanded on [the subject of the TV show] but I stamped my little foot and said no, because it wasn’t really Pentangle style. Joe got a bit cross about it, but none of the rest of the band were bothered.”\n\nBasket Of Light\n\nwas not only their biggest hit but their most cohesive musical statement – a beguiling blend of traditional Olde English songs given fresh stylings – such as\n\nOnce I Had A Sweetheart\n\n(to which Renbourn added a sitar solo) and originals credited to all five members like\n\nTrain Song\n\n(ostensibly a blues with added sumptuous layers, evoking the rhythms of a train before melting into a dream-like middle section where McShee’s voice becomes a fifth instrument, giving the album its title in the line, ‘\n\nLove is a basket of light; grasp it so tight\n\n’).\n\nShe admits: “The previous album,\n\nSweet Child\n\n, had been a double – half live, half studio stuff, but only because we didn’t have enough stuff to fill it.\n\nBasket\n\nwas the album that really summed up what we did.”\n\nProduced by\n\nShel Talmy\n\n, until then best known for his work with\n\nThe Who\n\n, it was also the album that introduced the band to the rock-buying crowd, bowling over audiences with its seemingly bizarre mixture of heady originals like\n\nHunting Song\n\n– based on the story of a magic drinking horn sent to the court of King Arthur by Morgana le Fay – and inspired covers like\n\nSally Go Round The Roses\n\n, a 1963 pop hit for early girl group The Jaynetts.\n\nI thought, how could Jerry Garcia remember? The Grateful Dead were pretty off their faces at the time\n\n“I remember the studio was a big room with a clanky old lift,” says McShee. “We would try things out; but I was terrified of Shel because he was blind. One time were doing four-part harmonies, all standing around one mic and Shel said, ‘You’ve gotta be kidding!’ We’d never had a producer before!”\n\nThe band became even bigger in the US, regarded in the same light as groundbreaking UK acts of the era like\n\nCream\n\nand\n\nLed Zeppelin\n\n. “We would be advertised as this big rock group, which we weren’t. But we would play ever so loud and it would go down really well.” A shy person, McShee could “hide behind these other four big egos, which suited me down to the ground.”\n\nDuring their debut at New York’s Fillmore East “the dressing room was several floors above the stage, but the floor would thump up and down with the noise.” Sandwiched between the\n\nSir Douglas Quintet\n\nand\n\nCanned Heat\n\n, they only survived, says McShee, because “Bill Graham came out and said, ‘Right you lot, this is a group from England and they play acoustic guitars, so listen!’ And they did!”\n\n(Image credit: Ray Stevenson/Rex Features)\n\nPlaying four nights at the Fillmore West in San Francisco with the\n\nGrateful Dead\n\nwas “slightly different because everybody was so stoned. We went quite smart but came back as hippies. Suddenly John’s got the dust-bowl jacket on and Terry’s got the fringe-jacket.” When\n\nJerry Garcia\n\nlater credited them with inspiring the Dead to adopt a more acoustic approach, “I thought, how could you remember? Because they were pretty off their faces at the time.”\n\nNot that the rest of Pentangle was immune to such ideas. Jansch admitted that he too began to live the rock star life, “drinking way too much, smoking more than ever.” In America, there was also cocaine. “Not a good drug,” he admitted.\n\nWe weren’t working on new stuff and Bert wanted to do more on his own. You start to think, ‘I can’t stand it any more’\n\nIn the wake of\n\nBasket\n\n’s success, by 1970 Pentangle had appeared at the Isle of Wight festival, headlined Carnegie Hall, and recorded a soundtrack for the film\n\nTam Lin\n\n. But their next album,\n\nCruel Sister\n\n, released in October 1970, was not a hit. A collection of traditional material given ambitious progressive twists like the 20-minute-plus version of\n\nJack Orion\n\n, McShee now admits now the group was “running out of steam.”\n\nThe writing was on the wall; and within three years Pentangle were no more. “The last full year we were together we went to the States three times, we went to Australia; we went to parts of Europe,” says the singer. “There was no time to record. Joe would have us on the road constantly and we just got tetchy with each other. We weren’t working on new stuff and Bert wanted to do more on his own anyway. You start to think, ‘I can’t stand it any more.’”\n\nFortunately, the story didn’t quite end there. When they reunited to receive a Lifetime Achievement award at the 2007 BBC Radio 2 Folk Awards, it was as if they’d never been away – a fact brought home when Terry Cox fluffed his way through\n\nBruton Town\n\n. “Keep going, I thought,” laughs McShee. “People will just think we’re trying out something new!”",
-      "tags": "Albums Music",
-      "category": "Прогрессив",
-      "published": "2026-11-03T17:00:00+00:00",
-      "id": "5879d279ef606fe5815d76f2282b1fdffa607403",
-      "retry_after": 0
-    },
-    {
       "source": "No Clean Singing",
       "priority": 86,
       "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): DISEMBODY — “AWAKENING OF ANCIENT EVIL”",
@@ -5912,9 +5861,9 @@
     {
       "source": "Darkside",
       "priority": 95,
-      "title": "DAYSEEKER готовят расширенное издание",
+      "title": "DAYSEEKER пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
       "link": "http://www.darkside.ru/news/184732/",
-      "rss_body": "DAYSEEKER сообщили о том, что 26 февраля на Spinefarm состоится релиз расширенной версии альбома \"Creature In The Black Night\", который выйдет под названием \"Creature In The Black Night Redux\". В новый вариант войдет несколько ремиксов от THE MIDNIGHT, концертный вариант MY CHEMICAL ROMANCEи дополнительные треки.\n\n«Для меня было огромной честью сотрудничать с THE MIDNIGHT и преобразить эти песни так, как их ещё никто не слышал», — делится Rodriguez своими впечатлениями о релизе в целом.\n\nКавер-версия песни „Ghost Of You“ в исполнении MCR вызывает у всех нас, участников группы, сильную ностальгию, и мы действительно постарались воссоздать эту песню в соответствии с собственным звучанием и имиджем нашей группы».\n\nТрек-лист:\n\n01. Pale Moonlight\n\n02. Creature In The Black Night\n\n03. Crawl Back To My Coffin\n\n04. Shapeshift\n\n05. Soulburn\n\n06. Bloodlust\n\n07. Cemetery Blues\n\n08. Nocturnal Remedy\n\n09. The Living Dead\n\n10. Meet The Reaper\n\n11. Forgotten Ghost\n\n12. The Ghost Of You (MY CHEMICAL ROMANCE cover)\n\n13. Shapeshifter (feat. The Midnight) (The Midnight Remix) *\n\n14. The Ghost Of You (The Midnight Remix) *\n\n15. Crawl Back To My Coffin (The Midnight Remix) *\n\n16. Bloodlust (feat. Gabi Rose)(The Midnight Remix) *\n\n17. The Living Dead (feat. Sace6) (The Midnight Remix) *\n\n18. Creature In The Black Night (The Midnight Remix) *\n\n19. Shapeshift - Stripped (Live on Sirius XM Octane) *\n\n20. Crawl Back To My Coffin - Stripped (Live on SiriusXM Octane) *",
+      "rss_body": "DAYSEEKER пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅ 26 пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ Spinefarm пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ \"Creature In The Black Night\", пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ \"Creature In The Black Night Redux\". пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ THE MIDNIGHT, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ MY CHEMICAL ROMANCEпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ.\n\nпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ THE MIDNIGHT пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ Rodriguez пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ.\n\nпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅGhost Of YouпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ MCR пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ.\n\nпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ:\n\n01. Pale Moonlight\n\n02. Creature In The Black Night\n\n03. Crawl Back To My Coffin\n\n04. Shapeshift\n\n05. Soulburn\n\n06. Bloodlust\n\n07. Cemetery Blues\n\n08. Nocturnal Remedy\n\n09. The Living Dead\n\n10. Meet The Reaper\n\n11. Forgotten Ghost\n\n12. The Ghost Of You (MY CHEMICAL ROMANCE cover)\n\n13. Shapeshifter (feat. The Midnight) (The Midnight Remix) *\n\n14. The Ghost Of You (The Midnight Remix) *\n\n15. Crawl Back To My Coffin (The Midnight Remix) *\n\n16. Bloodlust (feat. Gabi Rose)(The Midnight Remix) *\n\n17. The Living Dead (feat. Sace6) (The Midnight Remix) *\n\n18. Creature In The Black Night (The Midnight Remix) *\n\n19. Shapeshift - Stripped (Live on Sirius XM Octane) *\n\n20. Crawl Back To My Coffin - Stripped (Live on SiriusXM Octane) *",
       "tags": "",
       "category": "Хэви-метал",
       "published": "2026-11-03T16:58:55+00:00",
@@ -6095,11 +6044,11 @@
       "title": "Mastodon Moves to Dismiss Key Claims in Brent Hinds Estate Lawsuit",
       "link": "https://metalinjection.net/news/mastodon-moves-to-dismiss-key-claims-in-brent-hinds-estate-lawsuit",
       "rss_body": "\"The truth will be addressed in due course.\"",
-      "tags": "Latest News",
+      "tags": "Latest News Mastodon featured2",
       "category": "Хэви-метал",
       "published": "2026-11-03T22:02:07+00:00",
       "id": "08ebb83962cd7ef5ed9063805820a0d11336f2cc",
-      "retry_after": 1793749674
+      "retry_after": 1793762822
     },
     {
       "source": "Metal Injection",
@@ -6111,7 +6060,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-03T21:11:58+00:00",
       "id": "9619745113ca30f3e782f590b0f97c8e53c3e177",
-      "retry_after": 1793749674
+      "retry_after": 1793762823
     },
     {
       "source": "Metal Injection",
@@ -6123,7 +6072,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-03T21:09:54+00:00",
       "id": "e60dab9e64bde426417955634ebe5735d8ae7255",
-      "retry_after": 1793749674
+      "retry_after": 1793762823
     },
     {
       "source": "Metal Injection",
@@ -6135,7 +6084,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-03T20:59:56+00:00",
       "id": "1e2838ea98941734e84826f798eef4559e8d71f4",
-      "retry_after": 1793749674
+      "retry_after": 1793762823
     },
     {
       "source": "Metal Injection",
@@ -6147,7 +6096,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-03T20:00:41+00:00",
       "id": "09e751ce9ffecd96af3fbe47c992868d44188625",
-      "retry_after": 1793749713
+      "retry_after": 1793762823
     },
     {
       "source": "Decibel",
@@ -6159,7 +6108,7 @@
       "category": "Прогрессив",
       "published": "2026-11-03T20:00:19+00:00",
       "id": "03d210a68975dcabf04532f258c0fa523452a03a",
-      "retry_after": 1793749734
+      "retry_after": 1793762826
     },
     {
       "source": "Metal Injection",
@@ -6171,7 +6120,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-03T19:27:04+00:00",
       "id": "b5539d716064679795758acc77e7f1144749b40d",
-      "retry_after": 1793749741
+      "retry_after": 1793762826
     },
     {
       "source": "Metal Injection",
@@ -6183,7 +6132,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-03T18:54:11+00:00",
       "id": "fc2fb02ead8c606e47c12a0fcd8abcc856769ab3",
-      "retry_after": 1793749741
+      "retry_after": 1793762826
     },
     {
       "source": "Metal Injection",
@@ -6195,7 +6144,7 @@
       "category": "Прогрессив",
       "published": "2026-11-03T18:27:38+00:00",
       "id": "3335a918f3cc50abebabd560d8d33ecf44827b28",
-      "retry_after": 1793749746
+      "retry_after": 1793762826
     },
     {
       "source": "Metal Injection",
@@ -6207,7 +6156,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-03T17:58:19+00:00",
       "id": "f90e5bdbe981b2d7b4b1f157c7b1b5f309e6b55e",
-      "retry_after": 1793749760
+      "retry_after": 1793762826
     }
   ]
 }
