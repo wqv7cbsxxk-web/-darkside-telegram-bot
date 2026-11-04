@@ -1,6 +1,437 @@
 {
   "articles": [
     {
+      "id": "aea500a4454dc3345ae289d11b9acd2883d8c3ca",
+      "title": "Лидер ANTHRAX: «Больше всего я люблю AC/DC с Боном Скоттом»",
+      "short": "SCOTT IAN в недавнем интервью рассказал о том, как впервые услышал голос Бона Скотта на альбоме AC/DC «Powerage» в школьной столовой в Куинсе, Нью-Йорк. С того момента, как он услышал песню «Rock 'N' Roll Damnation», он был покорён.",
+      "paragraphs": [
+        "SCOTT IAN в недавнем интервью рассказал о том, как впервые услышал голос Бона Скотта на альбоме AC/DC «Powerage» в школьной столовой в Куинсе, Нью-Йорк. С того момента, как он услышал песню «Rock 'N' Roll Damnation», он был покорён.",
+        "В интервью он поговорил о неповторимом голосе Бона, его манере повествования и текстах песен, о том, какое влияние он оказал на ANTHRAX, а также об одном из своих самых больших сожалений — о том, что он упустил возможность увидеть выступление Бона вживую во время тура «Highway To Hell». Ian заявил, что AC/DC времён Бона Скотта — его «любимая группа всех времён»:",
+        "«Когда мне задают вопрос: \"Какая твоя любимая группа?\" — я всегда отвечаю: \"AC/DC с Боном\". На мой взгляд, это лучшая музыка, которую я когда-либо слышал. Я вспоминаю те времена, 1970-е, когда я слушал эти записи и думал, что они не должны так сильно меня увлекать, потому что это не KISS. У них не было подобного имиджа, они не скрывались за масками. Но было что-то особенное в том факте, что они создавали рок-н-ролльную музыку, которая исполнялась на тот момент десятилетиями, но была иной. И для меня разница была очевидной.",
+        "На мой взгляд, Бон отличался от всего рок-н-ролла, который был до этого. Я не рок-критик, но я никогда не слышал ничего подобного, и именно поэтому он стал для меня таким. Они были моими LED ZEPPELIN. Они были моими THE BEATLES... Для подростков моего поколения музыка Бона очень много значила».",
+        "По поводу текстов песен Бона, которые были смелыми, дерзкими и развязными, Scott сказал:",
+        "«Мне кажется, что тексты Бона были гораздо более панковскими, потому что они были более реалистичными. Вы можете почитать текст песни \"It's A Long Way To The Top\" или \"Rock 'N' Roll Singer\", но там нигде нет и намёка на какой-либо душок, что часто бывало с другими вокалистами, и это было ужасно. Он рассказывает вам историю таким образом— это очень похоже на реальную жизнь, там всё по-настоящему.",
+        "Там нет ничего лишнего, никакой ерунды. Но в то же время это не похоже на газетную статью. Его фразы тоже поддерживают интерес, потому что не возникает ощущения, что я читаю шаблонную историю о парне, который хотел играть в группе. Это одна из сторон его гениальности — он мог взять что-то совершенно обыденное и сделать это интересным.",
+        "Бон не подмигивает. Иногда кажется, что он подмигивает тебе, когда поёт эти слова, но нет. Не знаю, правда это или нет, но я всегда верил, что этот парень рассказывает нам истории из своей жизни.",
+        "Если бы я читал это в сборнике стихов или в автобиографии, я бы ни на секунду не усомнился в том, что все эти пиратские байки — правда. Он был увлечён и предан своему делу, — вот что на самом деле даёт мне понять, что он не подмигивает нам, что ему это не нужно. Как будто мы все в одной лодке, потому что всё это реально, он словно задаёт вам вопрос: \"Вы можете поверить в то, о чём я пою?\"",
+        "И для 15-16-летнего подростка было очень интересно это слушать... Я всё время использую слово \"пират\", потому что это было первое, что пришло мне в голову, когда я услышал о Боне Скотте, и я заглянул в жизнь этого пирата. Я ничего не знал об остальных участниках группы, потому что они, казалось, вообще не разговаривали между собой»."
+      ],
+      "category": "Хард-рок",
+      "source": "Darkside",
+      "published": "2026-11-04T21:08:15+00:00",
+      "original_url": "http://www.darkside.ru/news/184952/",
+      "saved_at": 1793817891,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/100/n184952.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/100/n184952.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [
+        {
+          "id": "ac-dc",
+          "name": "AC/DC"
+        },
+        {
+          "id": "anthrax",
+          "name": "Anthrax"
+        },
+        {
+          "id": "led-zeppelin",
+          "name": "Led Zeppelin"
+        }
+      ],
+      "original_title": "Лидер ANTHRAX: «Больше всего я люблю AC/DC с Боном Скоттом»",
+      "topics": [],
+      "media_checked_at": 1793817954
+    },
+    {
+      "id": "680d96b9746e7604262d8252e75c2f21f22df94e",
+      "title": "Фанаты недовольны тем, как JOEY BELLADONNA спел гимн США",
+      "short": "Фронтмен ANTHRAX JOEY BELLADONNA исполнил государственный гимн США перед матчем Seattle Seahawks и Chicago Bears в рамках «Monday Night Football» на ESPN. 66-летний музыкант исполнил «The Star-Spangled Banner» перед 69 000 зрителей на Lumen Field в Сиэтле, штат Вашингтон.",
+      "paragraphs": [
+        "Фронтмен ANTHRAX JOEY BELLADONNA исполнил государственный гимн США перед матчем Seattle Seahawks и Chicago Bears в рамках «Monday Night Football» на ESPN. 66-летний музыкант исполнил «The Star-Spangled Banner» перед 69 000 зрителей на Lumen Field в Сиэтле, штат Вашингтон.",
+        "Некоторые болельщики НФЛ, по-видимому, не знакомые с музыкой ANTHRAX, раскритиковали выступление в соцсетях.",
+        "«Сегодняшний гимн на „Monday Night Football“ был ужасным!» — написал один из них в X.",
+        "«Не знаю, кто исполнял гимн, но, чёрт возьми, он был отвратителен, у меня заболели уши», — сказал другой.",
+        "«Это худший гимн, который я слышал за долгое время», — добавил третий.",
+        "Четвёртый написал: «Парень, который пел гимн, звучал как Марк Уолберг в „Rockstar“. И это не комплимент».",
+        "«Арестуйте этого певца гимна», — прокомментировал пятый.",
+        "«Чувак спел гимн во всех тональностях сразу», — сказал ещё один.",
+        "Седьмой написал: «Сиэтл выставил одного из худших исполнителей гимна, которых я когда-либо слышал. Этот парень — мусор».",
+        "BELLADONNA не первый певец, которого раскритиковали за исполнение гимна. В прошлом месяце досталось Pat'у Monahan'у и его сыну за их версию.",
+        "BELLADONNA, который за последние годы исполнял государственный гимн США на ряде спортивных мероприятий, рассказал «Panini Unwrapped» о своём опыте исполнения «The Star-Spangled Banner» перед огромными толпами людей, многие из которых не знают ни его имени, ни музыки группы.",
+        "«Мне просто нравится исполнять гимн, — сказал он. — Людям это приходится по душе. И я очень уважаю игру и сам гимн, так что для меня удовольствие, что меня просят принять в этом участие».",
+        "На вопрос, как бы он сравнил исполнение гимна на стадионе с выступлениями перед большой аудиторией, состоящей из поклонников хэви-металла, JOEY сказал:",
+        "«Исполнение гимна много сложнее, потому что ты совершенно один, всё затихает, и на самом деле нет тональности, в которой нужно петь. Я просто выхожу и импровизирую, но мне нравится придерживаться традиции. Но это очень нервирует… Когда за десять минут до выхода тебе дают отмашку [выходить и петь], ты думаешь: „Ого!“ Я нервничал, но как только начинаешь, просто сосредотачиваешься на исполнении»."
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-11-04T20:29:03+00:00",
+      "original_url": "http://www.darkside.ru/news/184974/",
+      "saved_at": 1793817892,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/11921/n184974.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/11921/n184974.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [
+        {
+          "id": "anthrax",
+          "name": "Anthrax"
+        }
+      ],
+      "original_title": "Фанаты недовольны тем, как JOEY BELLADONNA спел гимн США",
+      "topics": [],
+      "media_checked_at": 1793817955
+    },
+    {
+      "id": "611a613c2a9191ee10dc48db845e8979b4af199c",
+      "title": "Новое видео CHARLOTTE WESSELS",
+      "short": "CHARLOTTE WESSELS и её новая группа, которая теперь называется THE OBSESSION, 5 февраля 2027 года выпустят на Napalm Records полноформатный студийный альбом “Mute Swan Empire”. Это концептуальная пластинка, построенная на персонажах: каждый из 15 треков воплощает архетип, возникающий в конце антропоцена.",
+      "paragraphs": [
+        "CHARLOTTE WESSELS и её новая группа, которая теперь называется THE OBSESSION, 5 февраля 2027 года выпустят на Napalm Records полноформатный студийный альбом “Mute Swan Empire”. Это концептуальная пластинка, построенная на персонажах: каждый из 15 треков воплощает архетип, возникающий в конце антропоцена. Альбом исследует, как разные люди реагируют на климатический крах, социальную несправедливость и гибель привычного будущего. Видео на композицию Incubus доступно для просмотра.",
+        "Через этих героев бывшая вокалистка DELAIN складывает фрагментарный портрет человечества. Он показывает множество способов встретить катастрофу: отрицание, ярость, веру, отстранение, надежду, жажду мести и всё, что лежит между ними. Всё это вплетено в звуковую мультивселенную, не поддающуюся жанровой классификации.",
+        "Релиз приурочен к первому в карьере Charlotte Wessels туру по Европе в качестве хэдлайнера. Он стартует 4 февраля 2027 года в бельгийском Синт-Никлаасе, за день до выхода альбома.",
+        "Charlotte: «Поначалу я не собиралась писать концептуальный альбом, но где-то по ходу дела поняла, что все мои последние песни связаны между собой. Каждая из них словно воплощала отдельную реакцию на мир, в котором мы живём: отрицание, соучастие, отстранённость, слепое повиновение, избирательное сочувствие, а также надежду, близость к другим людям и так далее. Я стала замечать повторяющиеся темы и архетипы и в конце концов осознала, что все они часть куда более масштабной истории. Мне захотелось идти по этой нити так далеко, как она позволит, исследуя концепцию сначала через музыку, а затем и через оформление и образы. Это открытие и легло в основу “Mute Swan Empire”».",
+        "Она продолжает: «Меня завораживает, как легко узнавать эти реакции в других и насколько труднее заметить их в себе. Я не хотела делать альбом, который просто тычет пальцем и предлагает лёгкие ответы. Мне хотелось исследовать противоречия, неудобные серые зоны и возможность перемен.",
+        "Та же свобода следовать за песней туда, куда она ведёт, привела к записи, которая переходит от самой тяжёлой нашей музыки к моментам уязвимости. При всём разнообразии материала, по-моему, мы ещё никогда не звучали так слаженно, как настоящая группа. Каждый привносит в музыку что-то своё, и я искренне горжусь тем, что получается, когда все эти элементы собираются воедино».",
+        "Название “Mute Swan Empire” отсылает к мифу о лебединой песне: считается, что лебедь поёт свою самую прекрасную песню перед смертью. На протяжении истории у людей, культур и целых цивилизаций были собственные лебединые песни, последние мгновения красоты, смысла или величия перед угасанием. На “Mute Swan Empire” Wessels задаёт вопрос: «А что, если нам её не дано? Что, если мы подвели себя так близко к экологическому и социальному краху, что утратили право на этот последний акт благодати или больше не заслуживаем его? Неужели лебедь так и останется безмолвным?»",
+        "В музыкальном плане пластинка продолжает исследование пространства между тяжёлой музыкой и альтернативными влияниями. Здесь сплетаются сложные аранжировки, объёмные атмосферы, мощные вокальные партии и группа в самой сильной своей форме. Музыканты, которых Charlotte изначально собрала для THE OBSESSION, со временем присвоили себе это имя и за годы гастролей превратились в сплочённый концертный коллектив. Этот общий опыт, более интенсивный продакшен с Joost'ом Van Den Broek'ом на Sandlane Studios и Timo Somers'а, участвовавшего в аранжировках в лучшей своей форме, вывели на первый план коллективную идентичность группы. Звучание стало цельнее, но динамический диапазон остался прежним: мощные, бьющие наотмашь пассажи соседствуют с моментами пронзительной близости.",
+        "Трек-лист “Mute Swan Empire”:",
+        "01. Incubus",
+        "02. In Leta Via",
+        "03. Tempest",
+        "04. After Us The Flood",
+        "05. Good Girl (If You're Ready To Die)",
+        "06. The Hermit Song",
+        "07. Emergency Kit",
+        "08. One Day They Will Come For You",
+        "09. Weeping Madonna",
+        "10. This Is Not An Opinion",
+        "11. The Villain",
+        "12. Let The Music Decide",
+        "13. Incantations",
+        "14. Starling",
+        "15. Bells Of Lynn",
+        "“Mute Swan Empire” движем не только нынешним состоянием мира, но и человеческими реакции на него, а также то, как глубоко иные люди в них увязают. Кроме того, Charlotte черпала вдохновение в книгах, поэзии, кино и литературе. В альбом вошли слова двух средневековых мистиков, Хильдегарды Бингенской (“In Leta Via”) и Юлианы Норвичской (“The Hermit Song”), а в “Emergency Kit” использован текст нидерландской кампании “Denk Vooruit”.",
+        "“One Day They Will Come For You” вдохновлена послевоенным исповедальным прозаическим текстом Мартина Нимёллера \"Сначала они пришли за коммунистами\", а “Bells Of Lynn” основана на одноимённом стихотворении Генри Уодсворта Лонгфелло и включает его фрагменты.",
+        "Работа над “Mute Swan Empire” началась ещё до того, как Charlotte закончила предыдущую пластинку, “The Obsession” (2024). С 2020 года она выпускает по новой песне каждый месяц на своей странице Patreon, и самые любимые вещи со временем попадают на её публичные альбомы. Самая ранняя песня, вошедшая в “Mute Swan Empire” в переаранжированном виде, это “Incantations”, впервые появившаяся на Patreon в марте 2024 года. По сравнению с прошлым релизом Charlotte Wessels, звучание “Mute Swan Empire” больше ориентировано на группу. Альбом спродюсировали Charlotte и Joost Van Den Broek на Sandlane Recording Facilities, где его и сводили. Помимо Charlotte и THE OBSESSION, в записи участвовала Elianne Anemaat, сыгравшая на виолончели в нескольких треках, а оркестровые и дополнительные клавишные аранжировки написал Vikram Shankar.",
+        "“Mute Swan Empire” — произведение искусства, которое служит одновременно тревожным звонком и грёзой. Благодаря по-настоящему уникальному творческому видению Wessels создала самую значительную музыку в своей карьере и доказала, почему её по праву считают одной из самых выдающихся артисток современной тяжёлой сцены.",
+        "В феврале 2027 года Charlotte Wessels отправится с THE OBSESSION в самый первый хедлайнерский тур по крупным городам Европы. Поддержку окажет Melissa Bonny, вокалистка AD INFINITUM. Тур начнётся 4 февраля 2027 года в Синт-Никлаасе (Бельгия) и завершится 27 февраля 2027 года в родном для Charlotte Wessels Утрехте (Нидерланды). До этого Charlotte Wessels и THE OBSESSION в декабре посетят Бразилию и Аргентину.",
+        "Состав группы:",
+        "Charlotte Wessels - Vocals, Keys",
+        "Timo Somers - Guitars + Backing Vocals *",
+        "Joey Marin De Boer - Drums",
+        "Otto Schimmelpenninck Van Der Oije - Bass Guitarn*",
+        "Nina Van Beelen - Keys + Backing Vocals",
+        "* Note: on \"Mute Swan Empire\", bass guitar was performed by Timo Somers"
+      ],
+      "category": "Хэви-метал",
+      "source": "Darkside",
+      "published": "2026-11-04T19:47:05+00:00",
+      "original_url": "http://www.darkside.ru/news/184976/",
+      "saved_at": 1793817894,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.darkside.ru/band/23430/n184976.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "http://www.darkside.ru/band/23430/n184976.jpg",
+          "caption": ""
+        }
+      ],
+      "artists": [],
+      "original_title": "Новое видео CHARLOTTE WESSELS",
+      "topics": [
+        "releases"
+      ],
+      "media_checked_at": 1793817958
+    },
+    {
+      "id": "8e2231f6c64bfa5a0fd933665b730f7ccd546d07",
+      "title": "Katatonia & Bonnie Trash отправится в тур по Европе весной 2027 года",
+      "short": "Шведские прог-металлисты Katatonia объявили о графике европейского хедлайнера, который должен развернуться весной 2027 года. Гот-рокеры Bonnie Trash откроют серию концертов, которые были названы \"Waking State Of Europe Tour\".",
+      "paragraphs": [
+        "Шведские прог-металлисты Katatonia объявили о графике европейского хедлайнера, который должен развернуться весной 2027 года. Гот-рокеры Bonnie Trash откроют серию концертов, которые были названы \"Waking State Of Europe Tour\". Предпродажа артиста начнется завтра, 05 ноября, в 11:00 утра по восточному времени. Общая распродажа состоится в эту пятницу, 6 ноября, в 11:00 по восточному времени.",
+        "03/31 Hanover, GER -Capitol 04/01 Dresden, GER – Tante Ju 04/02 Wroclaw, POL- Zaklete Rewiry 04/03 Brno, CZE – Fléda 04/05 Ljubljana, SLO – Kino Šiška 04/07 Cluj-Napoca, ROM – Form Space 04/08 Bucharest, ROM -Quantic 04/09 Sofia, BUL – Joy Station 04/10 Belgrade, SRB – Hangar 04/12 Zagreb, CRO – Boogaloo Club 04/13 Budapest, HUN – Dürer Kert 04/14 Kraków, POL – Kwadrat 04/15 Gdansk, POL – B90 04/17 Lund, SWE – Mejeriet"
+      ],
+      "category": "Хэви-метал",
+      "source": "ThePRP",
+      "published": "2026-11-04T18:12:00+00:00",
+      "original_url": "https://www.theprp.com/2026/11/04/news/katatonia-bonnie-trash-to-embark-on-spring-2027-european-tour/",
+      "saved_at": 1793817899,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.theprp.com/app/uploads/2026/06/katatonia2025large-1200x675.jpg",
+          "caption": ""
+        }
+      ],
+      "original_paragraphs": [
+        "Swedish prog metallers Katatonia have announced the schedule for a European headlining run set to unfold in the spring of 2027. Goth rockers Bonnie Trash will be opening that run of shows, which have been christened the ‘ Waking State Of Europe Tour ‘. An artist presale is set to launch tomorrow, November 05th, at 11:00am CET. The general onsale will be up this Friday, November 06th, at 11:00am CET.",
+        "03/31 Hanover, GER -Capitol 04/01 Dresden, GER – Tante Ju 04/02 Wroclaw, POL- Zaklete Rewiry 04/03 Brno, CZE – Fléda 04/05 Ljubljana, SLO – Kino Šiška 04/07 Cluj-Napoca, ROM – Form Space 04/08 Bucharest, ROM -Quantic 04/09 Sofia, BUL – Joy Station 04/10 Belgrade, SRB – Hangar 04/12 Zagreb, CRO – Boogaloo Club 04/13 Budapest, HUN – Dürer Kert 04/14 Kraków, POL – Kwadrat 04/15 Gdansk, POL – B90 04/17 Lund, SWE – Mejeriet"
+      ],
+      "content_complete": true,
+      "artists": [],
+      "original_title": "Katatonia & Bonnie Trash To Embark On Spring 2027 European Tour",
+      "topics": [
+        "live"
+      ],
+      "media_checked_at": 1793817958
+    },
+    {
+      "id": "9f50cb304e247a990389569e3ad2d0c1186277e8",
+      "title": "Хэллоуин'26: Плейлист страшного и тревожного чуда",
+      "short": "(Наш итальянский друг Тито Веспасиани (Tito Vespasiani) принес нам плейлиста экстремального метала на тему Хэллоуина из девяти групп, который он представляет один за другим в следующей колонке.) У него есть коллекция on Spotify.",
+      "paragraphs": [
+        "(Наш итальянский друг Тито Веспасиани (Tito Vespasiani) принес нам плейлиста экстремального метала на тему Хэллоуина из девяти групп, который он представляет один за другим в следующей колонке.) У него есть коллекция on Spotify.",
+        "Привет, народ! Это внешний вкладчик Tito V. здесь снова. Давно не виделись. Прошло некоторое время с момента моего последнего плейлиста для No Clean Singing, и я решил прийти с новым, подходящим для этого времени года... только для навязчивых и жутких мелодий!",
+        "Я знаю, здесь могут быть тонны, более достойные добавления. От зомби до монстров всех видов, проходящих через ужасные гитарные тона и более страшные мелодии, но мы хотим, чтобы это было «справедливо» коротким, чтобы иметь возможность проверить это должным образом и вернуться к этому, хорошо.",
+        "1) Qrixkuor . Одна из самых увлекательных, завораживающих записей за долгое время, если вы спросите меня. Замечательная музыка из этого британско-новозеландского комбо. Более сильное добавление симфонических элементов работает здесь просто великолепно.",
+        "<a href=\"https://darkdescentrecords.bandcamp.com/album/the-womb-of-the-world\">The матка мира по qrixkuor</a>",
+        "2) Левиафан вернулся. Прислушайтесь к этому гитарному тону.",
+        "<a href=\"https://trvlvthn.bandcamp.com/album/die-to-this\">Die К этому Левиафан</a>",
+        "3) Convocation . Монументальный, роскошный и все же мрачный. Эти финские колдуны никогда не перестают удивлять. Такое ощущение, что Дэнни Элфман стал экстремальным металлом. О, подожди, Дэнни Элфман на самом деле сделал. Но ты понимаешь, о чем я. Это чувство Тима Бёртона, гораздо менее чокнутое.",
+        "<a href=\"https://everlastingspew.bandcamp.com/album/no-dawn-for-the-caliginous-night\">No рассвет для калигинальной ночи Convocation</a>",
+        "4) Bianca . Медленный, но неумолимый темп (не лишенный ускорений и ударов при необходимости) ощущается как парад призраков. Bianca’s Голос ведет это как суббота.",
+        "Мы находимся за пределами границ, которые всегда известны Все, что нам нужно сделать, это представить, что мы находимся за пределами границ, которые всегда известны Все, что нам нужно сделать, это трансформироваться.",
+        "<a href=\"https://avantgardemusic.bandcamp.com/album/bianca\">Bianca от Бьянки</a>",
+        "5) Tyranny . Когда я думаю о чем-то пугающем, связанном с металлом, на ум приходит Tyranny OFTEN. Особенно их запись Aeons in Tectonic Interment, которая, к сожалению, недоступна on Spotify (Почему, группа?) Почему, темное спускание? В любом случае, это кажется чем-то огромным и угрожающим, нависшим над всеми нами, возникшим из недр земли, чтобы подняться над беспомощной облицовкой.",
+        "<a href=\"https://tyrannyfuneraldoom.bandcamp.com/album/tides-of-awakening\">Tides пробужденияTYRANNY</a>",
+        "6) Desolate Shrine . Другая группа из одного и того же члена Convocation, мультиинструменталист L.L., эта группа больше обитает на территории death и блэк-метала, в то время как Convocation имеет более сильное чувство обреченности/погребальной гибели. Просто великолепно.",
+        "<a href=\"https://darkdescentrecords.bandcamp.com/album/deliverance-from-the-godless-void\">Deliverance из Безбожной Пустоты Пустоты Пустоши\"",
+        "7) Hideous Divinity . Дискография в основном лирически основана на фильмах ужасов/книгах, последняя запись Unextinct вдохновлена Nosferatu Герцогом и In the Dust of This Planet Евгением Тэкером. “Technical” (хотя и очень старая школа, уходящая корнями в этот случай: Hate Eternal, Nile, Monstrosity) редко чувствует себя угрожающим или достаточно атмосферным для большинства поклонников, особенно тех, кто находится за пределами круга tech-death, но если есть группа, способная бросить вызов этому, это Hideous Divinity (конечно, не единственный, Ulcerate приходит на ум, но они давно отказались от строго технического Death Металлических корней Everything is Fire). Автор песен Enrico’s страсть к блэк-металу прорезает Death Металл и слова добавляют к музыке, напоминая нам о готической прозе ужасов старой школы:",
+        "The unthinkable Нелепое неизвестное приходит, чтобы подняться, чтобы открыть руки, чтобы умереть снова Гнездо будет роиться своей ужасной формой и распространять своего вредителя.",
+        "Никогда не думал, что придет время, Время встретиться Тогда эти глаза горели, unextinct, В темноте для меня!",
+        "<a href=\"https://centurymedia.bandcamp.com/album/unextinct-24-bit-hd-audio\">Unextinct (24-битное HD-аудио) by Hideous Divinity</a>",
+        ". Hail Spirit Noir . С таким названием они определенно принадлежат к этому плейлисту. И не только H.P. Лавкрафт упоминает, но и музыка, украшенная определенной тонкостью, чувствуя себя темной и жуткой увлекательным и психоделическим образом, заманивая вас.",
+        "<a href=\"https://hailspiritnoirgreece.bandcamp.com/album/pneuma\">Pneuma град дух нуар\"</a>",
+        "9) The Great Old Ones . Мы говорили о Лавкрафте? Конечно, мы были. И мы снова будем. Возможно, ни одна другая группа не посвятила свою карьеру провидцу Провидения в такой степени. Я выбрал этот трек из-за того, что название было таким самоочевидным, но я рекомендую погрузиться во всю дискографию французов.",
+        "<a href=\"https://thegreatoldones.bandcamp.com/album/cosmicism\">COSMICISM великими старыми</a>",
+        "Tito’s Spotify плейлист этих песен ниже, и если вы хотите пообщаться об этом, вы можете найти его на Facebook здесь и в Instagram здесь.",
+        "Этот сайт использует Akismet для уменьшения спама. Узнайте, как обрабатываются ваши данные комментариев."
+      ],
+      "category": "Экстремальный метал",
+      "source": "No Clean Singing",
+      "published": "2026-11-04T18:06:40+00:00",
+      "original_url": "https://www.nocleansinging.com/2026/11/04/halloween-26-a-playlist-of-scary-and-haunting-extreme-metal/",
+      "saved_at": 1793817935,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.nocleansinging.com/wp-content/uploads/2026/11/Tito-Vespasiani-Halloween-26-playlist.png",
+          "caption": ""
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=1432316738/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=2190737091/transparent=true/",
+          "caption": "<a href=\"https://darkdescentrecords.bandcamp.com/album/the-womb-of-the-world\">The Womb of the World by Qrixkuor</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=3255077880/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=74296842/transparent=true/",
+          "caption": "<a href=\"https://trvlvthn.bandcamp.com/album/die-to-this\">Die To This by LEVIATHAN</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=337690298/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=3896972980/transparent=true/",
+          "caption": "<a href=\"https://everlastingspew.bandcamp.com/album/no-dawn-for-the-caliginous-night\">No Dawn For The Caliginous Night by Convocation</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=2155473507/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=2233761384/transparent=true/",
+          "caption": "<a href=\"https://avantgardemusic.bandcamp.com/album/bianca\">Bianca by Bianca</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=888296579/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=1228070155/transparent=true/",
+          "caption": "<a href=\"https://tyrannyfuneraldoom.bandcamp.com/album/tides-of-awakening\">Tides of Awakening by TYRANNY</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=4039129686/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=1347661103/transparent=true/",
+          "caption": "<a href=\"https://darkdescentrecords.bandcamp.com/album/deliverance-from-the-godless-void\">Deliverance from the Godless Void by Desolate Shrine</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=3836040234/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=3425747473/transparent=true/",
+          "caption": "<a href=\"https://centurymedia.bandcamp.com/album/unextinct-24-bit-hd-audio\">Unextinct (24-bit HD audio) by Hideous Divinity</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=3367677644/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=3517936974/transparent=true/",
+          "caption": "<a href=\"https://hailspiritnoirgreece.bandcamp.com/album/pneuma\">Pneuma by Hail Spirit Noir</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://bandcamp.com/EmbeddedPlayer/album=3268081054/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/track=2871414114/transparent=true/",
+          "caption": "<a href=\"https://thegreatoldones.bandcamp.com/album/cosmicism\">COSMICISM by The Great Old Ones</a>"
+        },
+        {
+          "type": "link",
+          "url": "https://www.facebook.com/tito.vespasiani",
+          "caption": "here"
+        },
+        {
+          "type": "link",
+          "url": "https://www.instagram.com/tito.vsp/",
+          "caption": "here"
+        }
+      ],
+      "original_paragraphs": [
+        "(Our Italian friend Tito Vespasiani has brought us a Halloween-themed playist of extreme metal songs, both very new and somewhat older, from nine bands, which he introduces one-by-one in the following column. He’s got the collection up on Spotify too.)",
+        "Hello folks! It’s external contributor Tito V. here again. Long time no see. It’s been a while since my last playlist for No Clean Singing and I decided to come swinging with a new one suitable for this time of the year… haunting and eerie tunes only!",
+        "I know, there may be TONS more deserving to be added here. From zombies to monsters of all sorts, passing through ghastly guitar tones and more scary tunes, but we wanna keep this “fairly” short in order to be able to check it out properly and revisit it, alright.",
+        "1) Qrixkuor . One of the most fascinating, mesmerizing records in quite a while if you ask me. Wonderful music too from this UK/New Zealand combo. The stronger addition of symphonic elements works just splendidly here.",
+        "<a href=\"https://darkdescentrecords.bandcamp.com/album/the-womb-of-the-world\">The Womb of the World by Qrixkuor</a>",
+        "2) Leviathan ’s back. ‘Nuff said. Listen to that guitar tone.",
+        "<a href=\"https://trvlvthn.bandcamp.com/album/die-to-this\">Die To This by LEVIATHAN</a>",
+        "3) Convocation . Monumental, opulent and yet gloomy. These Finnish sorcerers never cease to amaze. This feels like Danny Elfman went extreme metal. Oh wait, Danny Elfman actually did. But you get what I mean. This is that sort of Tim Burton feel, way less cheesy.",
+        "<a href=\"https://everlastingspew.bandcamp.com/album/no-dawn-for-the-caliginous-night\">No Dawn For The Caliginous Night by Convocation</a>",
+        "4) Bianca . The slow yet inexorable pace (not devoid of accelerations and blast beats when needed) feels like a parade of ghosts and Bianca’s voice leads this like a Sabbath.",
+        "Come and Dance […] We’re outside the boundaries always known All we need to do is imagining We’re outside the boundaries always known All we need to do is transforming",
+        "<a href=\"https://avantgardemusic.bandcamp.com/album/bianca\">Bianca by Bianca</a>",
+        "5) Tyranny . When I think of something frightening related to metal, Tyranny OFTEN comes to mind. Especially their record Aeons in Tectonic Interment , which is unfortunately not available on Spotify (Why, band? Why, Dark Descent?). In any case, this feels like something immense and menacing looming upon us all, emerged from within the bowels of the earth to tower over a powerless manking.",
+        "<a href=\"https://tyrannyfuneraldoom.bandcamp.com/album/tides-of-awakening\">Tides of Awakening by TYRANNY</a>",
+        "6) Desolate Shrine . Another band from one of the same members of Convocation , multi-instrumentalist L.L. , this one dwells more in the death and black metal territory while Convocation has a stronger doom/funeral doom feel to it. Just splendid.",
+        "<a href=\"https://darkdescentrecords.bandcamp.com/album/deliverance-from-the-godless-void\">Deliverance from the Godless Void by Desolate Shrine</a>",
+        "7) Hideous Divinity . A discography largely lyrically based on horror movies/books, latest record Unextinct being inspired by Nosferatu by Herzog and In the Dust of This Planet by Eugene Thacker. “Technical” (albeit very old school rooted in this case: Hate Eternal , Nile , Monstrosity ) rarely feels menacing or atmospheric enough for most fans, especially those outside of the tech-death circle, but if there’s a band capable of challenging that, it’s Hideous Divinity (not the only one of course, Ulcerate comes to mind, but they long ago abandoned the strictly Technical Death Metal roots of Everything is Fire ). Songwriter Enrico’s passion for Black Metal cuts through the Death Metal and the lyrics add to the music reminding us of old school gothic horror prose:",
+        "The unthinkable The absurd unknown comes to rise To open his hands, to die again The nest will swarm Its horrid form And spread its pest",
+        "Never thought the time would come, The time to meet Then those eyes blazed, unextinct, In the dark for me!",
+        "<a href=\"https://centurymedia.bandcamp.com/album/unextinct-24-bit-hd-audio\">Unextinct (24-bit HD audio) by Hideous Divinity</a>",
+        "😎 Hail Spirit Noir . With a title like this, they definitely belong to this playlist. Not only the H.P. Lovecraft mention, but also the music being adorned with a certain subtlety, feeling dark and creepy in a fascinating and psychedelic way, luring you in.",
+        "<a href=\"https://hailspiritnoirgreece.bandcamp.com/album/pneuma\">Pneuma by Hail Spirit Noir</a>",
+        "9) The Great Old Ones . Were we speaking about Lovecraft? Sure thing we were. And we will again. Maybe no other band has devoted its own carreer to the visionary of Providence to such an extent. I chose this track due to the title being so self explanatory, but I recommend a dive into the Frenchs’ whole discography…",
+        "<a href=\"https://thegreatoldones.bandcamp.com/album/cosmicism\">COSMICISM by The Great Old Ones</a>",
+        "Tito’s Spotify playlist of these songs is below, and if you’d like to chat about it you can find him on Facebook here and on Instagram here .",
+        "This site uses Akismet to reduce spam. Learn how your comment data is processed."
+      ],
+      "content_complete": true,
+      "artists": [],
+      "original_title": "HALLOWEEN ’26: A PLAYLIST OF SCARY AND HAUNTING EXTREME METAL",
+      "topics": [],
+      "media_checked_at": 1793817958
+    },
+    {
+      "id": "b074434452f1d91df38bf1162ac57af66e5f6aea",
+      "title": "Metallica Релиз “Sad But True” Живое видео с места жительства",
+      "short": "Metallica 's 2x platinum ' Black Album ' single “ Sad But True ” демонстрируется в новейшем видео в прямом эфире, которым делятся легенды трэш-метала. Этот клип запечатлел выступление 15 октября 2026 года этого трека, снятого во время продолжающегося концерта группы.",
+      "paragraphs": [
+        "Metallica 's 2x platinum ' Black Album ' single “ Sad But True ” демонстрируется в новейшем видео в прямом эфире, которым делятся легенды трэш-метала. Этот клип запечатлел выступление 15 октября 2026 года этого трека, снятого во время продолжающегося концерта группы. Life Burns Faster Резиденция в The Sphere в Лас-Вегасе, NV. Эта распроданная серия концертов на захватывающей площадке началась в начале октября и продлится до марта следующего года. “ Sad But True ” был запущен в качестве пятого и последнего сингла с одноименного альбома, сертифицированного 2x Diamond 1991 года."
+      ],
+      "category": "Хэви-метал",
+      "source": "ThePRP",
+      "published": "2026-11-04T18:01:01+00:00",
+      "original_url": "https://www.theprp.com/2026/11/04/news/metallica-release-sad-but-true-live-video-from-their-the-sphere-residency/",
+      "saved_at": 1793817940,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.theprp.com/app/uploads/2026/10/metallicalargejameslive-1200x675.webp",
+          "caption": ""
+        }
+      ],
+      "original_paragraphs": [
+        "Metallica ‘s 2x platinum ‘ Black Album ‘ single “ Sad But True ” is showcased in the newest live video to be shared by the thrash metal legends. This clip captures an October 15th, 2026 performance of that track filmed during the band’s ongoing ‘ Life Burns Faster ‘ residency at The Sphere in Las Vegas, NV. That sold out run of shows at the immersive venue commenced at the start of October and will run through to March of next year. “ Sad But True ” was launched as the fifth and final single from 2x diamond-certified 1991 self-titled album."
+      ],
+      "content_complete": true,
+      "artists": [
+        {
+          "id": "metallica",
+          "name": "Metallica"
+        }
+      ],
+      "original_title": "Metallica Release “Sad But True” Live Video From Their The Sphere Residency",
+      "topics": [
+        "live",
+        "releases"
+      ],
+      "media_checked_at": 1793817959
+    },
+    {
+      "id": "93ed264936efe0dd0b831c71e9635a59bbb92d8f",
+      "title": "Sevendust & Caligula’s Horse Тур по Австралии в феврале",
+      "short": "Сертифицированные золотом ветераны альтернативного металла Sevendust прибудут в Австралию в феврале этого года. К ним присоединится австралийский прогрессив-металлический наряд Caligula’s Horse во время этого похода, предварительные продажи которого начнутся в понедельник, 9 ноября, в 11:00 по местному времени.",
+      "paragraphs": [
+        "Сертифицированные золотом ветераны альтернативного металла Sevendust прибудут в Австралию в феврале этого года. К ним присоединится австралийский прогрессив-металлический наряд Caligula’s Horse во время этого похода, предварительные продажи которого начнутся в понедельник, 9 ноября, в 11:00 по местному времени. Общая продажа состоится в среду, 11 ноября, в 11:00 по местному времени. Вы можете подписаться на предварительный доступ сейчас через destroyalllines.com.",
+        "02/15 Perth, AUS – Astor Theatre 02/17 Brisbane, AUS – The Tivoli 02/18 Sydney, AUS – Enmore Theatre 02/20 Melbourne, AUS – Forum"
+      ],
+      "category": "Хэви-метал",
+      "source": "ThePRP",
+      "published": "2026-11-04T17:52:10+00:00",
+      "original_url": "https://www.theprp.com/2026/11/04/news/sevendust-caligulas-horse-to-tour-australia-in-february/",
+      "saved_at": 1793817944,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.theprp.com/app/uploads/2026/07/sevendustlarge-1200x675.webp",
+          "caption": ""
+        }
+      ],
+      "original_paragraphs": [
+        "Gold-certified alternative metal veterans Sevendust are bound for Australia this coming February. They’ll be joined by Aussie progressive metal outfit Caligula’s Horse during that trek, presales for which will launch this coming Monday, November 09th at 11:00am local. The general onsale will follow on Wednesday, November 11th at 11:00am local as well. You can signup for presale access now via destroyalllines.com .",
+        "02/15 Perth, AUS – Astor Theatre 02/17 Brisbane, AUS – The Tivoli 02/18 Sydney, AUS – Enmore Theatre 02/20 Melbourne, AUS – Forum"
+      ],
+      "content_complete": true,
+      "artists": [],
+      "original_title": "Sevendust & Caligula’s Horse To Tour Australia In February",
+      "topics": [
+        "live"
+      ],
+      "media_checked_at": 1793817959
+    },
+    {
+      "id": "1c6e86a652834daa94d93f69126293cdd7490737",
+      "title": "Converge Забронировано для тура по Австралии и Новой Зеландии 2027 года с Extortion, Ends In Tragedy, Portrayal Of Guilt & Wiegedood",
+      "short": "Metalcore Mavens Converge в новом году проведут свой первый австралийский тур с 2019 года. В то время как группа ранее подтвердила 25-летие своего четвертого студийного альбома “ Jane Doe ” на первом в истории Lucidity Festival 13 марта в Мельбурне, они также будут выступать хедлайнерами по всей стране, прежде чем совершить прыжок в Новую Зеландию для пары шоу.",
+      "paragraphs": [
+        "Metalcore Mavens Converge в новом году проведут свой первый австралийский тур с 2019 года. В то время как группа ранее подтвердила 25-летие своего четвертого студийного альбома “ Jane Doe ” на первом в истории Lucidity Festival 13 марта в Мельбурне, они также будут выступать хедлайнерами по всей стране, прежде чем совершить прыжок в Новую Зеландию для пары шоу.",
+        "Поддержка на протяжении всего тура будет варьироваться, с Extortion, Ends In Tragedy, Portrayal Of Guilt (дебютный австралийский тур) и Wiegedood гостями на отдельных шоу. Предварительная продажа начнется в понедельник, 9 ноября, в 10:00 утра по местному времени с регистрациями, доступными через destroyalllines.com/tours/converge. Общая продажа состоится в среду, 11 ноября, в 10:00 по местному времени.",
+        "03/11 Perth, AUS – The Rechabite (feat. Extortion & Ends In Tragedy ) 03/12 Adelaide, AUS – Lion Arts (feat. Extortion & Ends In Tragedy ) 03/13 Melbourne, AUS – Lucidity Festival (“ Jane Doe ” 25th anniversary set) 03/14 Melbourne, AUS – 170 Russell (feat. Portrayal Of Guilt ) 03/17 Sydney, AUS – Factory Theatre (feat. Extortion & Ends In Tragedy ) 03/18 Brisbane, AUS – The Triffid (feat. Extortion & Ends In Tragedy ) 03/20 Wellington, NZ – Meow Nui (feat. Portrayal Of Guilt & Wiegedood ) 03/21 Auckland, NZ – Powerstation (feat. Portrayal Of Guilt & Wiegedood )"
+      ],
+      "category": "Хэви-метал",
+      "source": "ThePRP",
+      "published": "2026-11-04T17:45:15+00:00",
+      "original_url": "https://www.theprp.com/2026/11/04/news/converge-booked-for-2027-australian-new-zealand-tour-with-extortion-ends-in-tragedy-portrayal-of-guilt-wiegedood/",
+      "saved_at": 1793817950,
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.theprp.com/app/uploads/2026/06/converge2026promo2-1200x675.webp",
+          "caption": ""
+        }
+      ],
+      "original_paragraphs": [
+        "Metalcore mavens Converge will be mounting their first Australian tour since 2019 in the new year. While the group had previously confirmed a 25th anniversary performance of their fourth studio album “ Jane Doe ” at the first-ever Lucidity Festival on March 13th in Melbourne, they will also be headlining across that country, before making the jump over to New Zealand for a pair of shows as well.",
+        "Support across the run will vary, with Extortion , Ends In Tragedy , Portrayal Of Guilt (making their Australian tour debut) and Wiegedood guesting at select shows. A presale will launch on Monday, November 09th at 10:00am local with signups available via destroyalllines.com/tours/converge . The general onsale will follow on Wednesday, November 11th at 10:00am local.",
+        "03/11 Perth, AUS – The Rechabite (feat. Extortion & Ends In Tragedy ) 03/12 Adelaide, AUS – Lion Arts (feat. Extortion & Ends In Tragedy ) 03/13 Melbourne, AUS – Lucidity Festival (“ Jane Doe ” 25th anniversary set) 03/14 Melbourne, AUS – 170 Russell (feat. Portrayal Of Guilt ) 03/17 Sydney, AUS – Factory Theatre (feat. Extortion & Ends In Tragedy ) 03/18 Brisbane, AUS – The Triffid (feat. Extortion & Ends In Tragedy ) 03/20 Wellington, NZ – Meow Nui (feat. Portrayal Of Guilt & Wiegedood ) 03/21 Auckland, NZ – Powerstation (feat. Portrayal Of Guilt & Wiegedood )"
+      ],
+      "content_complete": true,
+      "artists": [],
+      "original_title": "Converge Booked For 2027 Australian/New Zealand Tour With Extortion, Ends In Tragedy, Portrayal Of Guilt & Wiegedood",
+      "topics": [
+        "live"
+      ],
+      "media_checked_at": 1793817959
+    },
+    {
       "id": "28190d745e2ce9edfba8c211ef2909f57570b3ac",
       "title": "Новое видео SLEEPWALK",
       "short": "\"Jan 22\", новое видео группы SLEEPWALK, доступно для просмотра ниже. Эта песня взята из альбома View From The Outside, выходящего 13 ноября на MNRK Heavy: Point Break",
@@ -9451,621 +9882,6 @@
         "releases"
       ],
       "media_checked_at": 1793393820
-    },
-    {
-      "id": "f8fdd2b773c65df9b450b87cee2b805cf7721e37",
-      "title": "Новое видео ENEMY INSIDE",
-      "short": "Rag Doll feat. As Everything Unfolds & Lake Malice, новое видео группы ENEMY INSIDE, доступно для просмотра. Это трек взят из нового альбома \"R.I.P.\", релиз которого намечен на 15 января: 1. Welcome To The Anarchy",
-      "paragraphs": [
-        "Rag Doll feat. As Everything Unfolds & Lake Malice, новое видео группы ENEMY INSIDE, доступно для просмотра. Это трек взят из нового альбома \"R.I.P.\", релиз которого намечен на 15 января:",
-        "1. Welcome To The Anarchy",
-        "2. Bad Karma",
-        "3. Monster",
-        "4. R.I.P.",
-        "5. Changes",
-        "6. Dopamine",
-        "7. Rag Doll (feat. As Everything Unfolds & Lake Malice)",
-        "8. Claws",
-        "9. Devil's Work",
-        "10. Plastic Heart",
-        "11. Into The Dark"
-      ],
-      "category": "Хэви-метал",
-      "source": "Darkside",
-      "published": "2026-10-30T19:06:05+00:00",
-      "original_url": "http://www.darkside.ru/news/184905/",
-      "saved_at": 1793427873,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.darkside.ru/band/23394/n184905.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "http://www.darkside.ru/band/23394/n184905.jpg",
-          "caption": ""
-        }
-      ],
-      "artists": [],
-      "original_title": "Новое видео ENEMY INSIDE",
-      "topics": [
-        "releases"
-      ],
-      "media_checked_at": 1793427890
-    },
-    {
-      "id": "1bb3fcb58ad30e0195b3a1e46e55a0f698edbd93",
-      "title": "Russian Circles Новая студийная сессия для KEXP",
-      "short": "Чикагское пост-металлическое трио Russian Circles засняло сессию в студии для KEXP Сиэтла 9 августа этого года. Официальные кадры этого набора из четырех песен недавно появились в Интернете и обнаружили, что они воспроизводят треки “ Deficit “, “ Harper Lewis “, “ Empath ” и Eluvial.",
-      "paragraphs": [
-        "Чикагское пост-металлическое трио Russian Circles засняло сессию в студии для KEXP Сиэтла 9 августа этого года. Официальные кадры этого набора из четырех песен недавно появились в Интернете и обнаружили, что они воспроизводят треки “ Deficit “, “ Harper Lewis “, “ Empath ” и Eluvial.",
-        "Russian Circles выпустили свой девятый студийный альбом под названием \"Nine\" в августе этого года и готовятся к еще одному этапу турне по США в его поддержку. В этом забеге они проедут по дороге с Primitive Man, играя на следующих площадках:",
-        "11/04 St. Louis, MO – Delmar Hall 11/06 Denton, TX – Rubber Gloves 11/07 Austin, TX – The Far Out Lounge 11/09 Phoenix, AZ – Walter Studios 11/11 Los Angeles, CA – The Belasco 11/12 San Francisco, CA – Great American Music Hall 11/14 Portland, OR – Crystal Ballroom 11/15 Seattle, WA – The Showbox 11/16 Boise, ID – Treefort Music Hall 11/17 Salt Lake City, UT – Metro Music Hall 11/19 Englewood, CO – The Gothic Theatre 11/20 Omaha, NE – Slowdown 11/21 Minneapolis, MN – Varsity Theater"
-      ],
-      "category": "Хэви-метал",
-      "source": "ThePRP",
-      "published": "2026-10-30T18:51:53+00:00",
-      "original_url": "https://www.theprp.com/2026/10/30/news/russian-circles-new-in-studio-session-for-kexp-released/",
-      "saved_at": 1793427877,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.theprp.com/app/uploads/2026/06/russiancircles2026large-1200x675.webp",
-          "caption": ""
-        }
-      ],
-      "original_paragraphs": [
-        "Chicago, IL post-metal trio Russian Circles filmed an in-studio session for Seattle’s KEXP on August 09th of this year. The official footage of that four-song set has now newly gone up online, and finds them playing the tracks “ Deficit “, “ Harper Lewis “, “ Empath ” and “ Eluvial “.",
-        "Russian Circles launched their ninth studio album, fittingly titled “ Nine “, this past August and gearing up for another leg of U.S. touring in support of it. That run will see them hit the road with Primitive Man , playing the following venues:",
-        "11/04 St. Louis, MO – Delmar Hall 11/06 Denton, TX – Rubber Gloves 11/07 Austin, TX – The Far Out Lounge 11/09 Phoenix, AZ – Walter Studios 11/11 Los Angeles, CA – The Belasco 11/12 San Francisco, CA – Great American Music Hall 11/14 Portland, OR – Crystal Ballroom 11/15 Seattle, WA – The Showbox 11/16 Boise, ID – Treefort Music Hall 11/17 Salt Lake City, UT – Metro Music Hall 11/19 Englewood, CO – The Gothic Theatre 11/20 Omaha, NE – Slowdown 11/21 Minneapolis, MN – Varsity Theater"
-      ],
-      "content_complete": true,
-      "artists": [],
-      "original_title": "Russian Circles’ New In-Studio Session For KEXP Released",
-      "topics": [
-        "releases"
-      ],
-      "media_checked_at": 1793427890
-    },
-    {
-      "id": "3ea5025cdf5f21e8b8774e7a87fbc60715a7e022",
-      "title": "Native James ’ “DUMB BRUDDAH” Музыкальный видео-спорт A Nod to Korn s “Freak On A Leash”",
-      "short": "Британский рэп-металлист Native James 'новый сингл “ DUMB BRUDDAH ” совершает путешествие по полосе памяти nü-metal в музыкальном видео ниже. Подписанный на SharpTone Records, James только что выпустил этот трек и его Thomas Brooker-направленное видео, которое включает в себя кивок назад на собственное видео Korn для их хита конца 90-х «Freak On A Leash». James заявил:",
-      "paragraphs": [
-        "Британский рэп-металлист Native James 'новый сингл “ DUMB BRUDDAH ” совершает путешествие по полосе памяти nü-metal в музыкальном видео ниже. Подписанный на SharpTone Records, James только что выпустил этот трек и его Thomas Brooker-направленное видео, которое включает в себя кивок назад на собственное видео Korn для их хита конца 90-х «Freak On A Leash».",
-        "James заявил:",
-        "DUMB BRUDDAH - это внутреннее чувство, в котором вы находитесь на пределе. У вас было достаточно; достаточно людей, обращающихся с вами как с дерьмом, как будто им все равно, как будто вы ничего не стоите. Это призыв к тем людям, которые игнорируют вас, подавляют вас и заставляют вас чувствовать себя слабыми. Взять власть и постоять за себя, когда вы достигли этого предела»."
-      ],
-      "category": "Хэви-метал",
-      "source": "ThePRP",
-      "published": "2026-10-30T18:43:01+00:00",
-      "original_url": "https://www.theprp.com/2026/10/30/news/native-james-dumb-bruddah-music-video-sports-a-nod-to-korns-freak-on-a-leash/",
-      "saved_at": 1793427883,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.theprp.com/app/uploads/2026/10/nativejameslarge-1200x675.webp",
-          "caption": ""
-        }
-      ],
-      "original_paragraphs": [
-        "British rap metaller Native James ‘ new single “ DUMB BRUDDAH ” takes a trip down nü-metal memory lane in the below music video. Signed to SharpTone Records , James just issued that track and its Thomas Brooker -directed video, which includes a nod back to Korn ‘s own video for their late 90s hit “ Freak On A Leash “.",
-        "James stated:",
-        "“‘ DUMB BRUDDAH ‘ is about that inner feeling where you’re at your limit. You’ve had enough; enough of people treating you like shit, like they don’t care, like you’re worth nothing. This a call out to those people that disregard you, put you down and make you feel weak. Taking the power and standing up for yourself when you’ve hit that limit.”"
-      ],
-      "content_complete": true,
-      "artists": [],
-      "original_title": "Native James’ “DUMB BRUDDAH” Music Video Sports A Nod To Korn’s “Freak On A Leash”",
-      "topics": [
-        "releases"
-      ],
-      "media_checked_at": 1793427890
-    },
-    {
-      "id": "a4e534d9a39bcf477e11a8c4692917b8280e48d1",
-      "title": "Новое видео STITCHED UP HEART",
-      "short": "CANNIBAL (feat. Butcher Babies) [Official 3D Music Video], новое видео STITCHED UP HEART, доступно для просмотра ниже. Этот трек взят из нового альбома \"Medusa\", релиз которого состоялся 12 июня на Judge & Jury Records: 01. Love & Death",
-      "paragraphs": [
-        "CANNIBAL (feat. Butcher Babies) [Official 3D Music Video], новое видео STITCHED UP HEART, доступно для просмотра ниже. Этот трек взят из нового альбома \"Medusa\", релиз которого состоялся 12 июня на Judge & Jury Records:",
-        "01. Love & Death",
-        "02. Sick Sick Sick",
-        "03. Glitch Bitch",
-        "04. Cannibal",
-        "05. Meet Me After Life",
-        "06. Medusa",
-        "07. Beast",
-        "08. Dead To Me",
-        "09. Devilicious",
-        "10. Ex-Termination"
-      ],
-      "category": "Хэви-метал",
-      "source": "Darkside",
-      "published": "2026-10-30T18:31:48+00:00",
-      "original_url": "http://www.darkside.ru/news/184899/",
-      "saved_at": 1793427884,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.darkside.ru/band/18046/n184899.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "http://www.darkside.ru/band/18046/n184899.jpg",
-          "caption": ""
-        }
-      ],
-      "artists": [],
-      "original_title": "Новое видео STITCHED UP HEART",
-      "topics": [
-        "releases"
-      ],
-      "media_checked_at": 1793427891
-    },
-    {
-      "id": "20eb8527cb3350fad26a73a22661fa61f95840b2",
-      "title": "Foo Fighters Закрыт ‘Jimmy Kimmel Live!’ Резиденция с обложкой “Baker Street”",
-      "short": "Foo Fighters закрыли свою недельную резиденцию на 'Jimmy Kimmel Live!' прошлой ночью, 29 октября, с воскресением их обложки Gerry Rafferty 's' Baker Street. Многоплатиновые альтернативные рокеры также сочли целесообразным перенести свою сессионную запись 1997 года Maida Vale для BBC в стриминговые сервисы на этой неделе после длительного отсутствия.",
-      "paragraphs": [
-        "Foo Fighters закрыли свою недельную резиденцию на 'Jimmy Kimmel Live!' прошлой ночью, 29 октября, с воскресением их обложки Gerry Rafferty 's' Baker Street. Многоплатиновые альтернативные рокеры также сочли целесообразным перенести свою сессионную запись 1997 года Maida Vale для BBC в стриминговые сервисы на этой неделе после длительного отсутствия. Если вы пропустили четырехдневный тур группы на том вечернем ток-шоу, вы можете наверстать упущенное, посмотрев их выступления «Окно», «Это звонок» и «Your Favorite Toy»."
-      ],
-      "category": "Хэви-метал",
-      "source": "ThePRP",
-      "published": "2026-10-30T18:31:05+00:00",
-      "original_url": "https://www.theprp.com/2026/10/30/news/foo-fighters-closed-out-their-jimmy-kimmel-live-residency-with-their-cover-of-baker-street/",
-      "saved_at": 1793468480,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.theprp.com/app/uploads/2026/10/foofighterskimmel-1200x675.webp",
-          "caption": ""
-        }
-      ],
-      "original_paragraphs": [
-        "Foo Fighters closed out their week-long residency on ‘ Jimmy Kimmel Live! ” last night, October 29th, with the resurrection of their cover of Gerry Rafferty ‘s “ Baker Street “. The multi-platinum alternative rockers also saw fit to bring their 1997 Maida Vale session recording of that track for the BBC to streaming services this week too after a prolonged absence. If you missed the band’s four-night run on that late night talk show, you can catch up by watching their performances of “ Window “, This Is A Call and “ Your Favorite Toy “."
-      ],
-      "content_complete": true,
-      "artists": [
-        {
-          "id": "foo-fighters",
-          "name": "Foo Fighters"
-        }
-      ],
-      "original_title": "Foo Fighters Closed Out Their ‘Jimmy Kimmel Live!’ Residency With Their Cover Of “Baker Street”",
-      "topics": [
-        "live"
-      ],
-      "media_checked_at": 1793468653
-    },
-    {
-      "id": "e27e699279ec3c9821d61a29033a70d421e8227d",
-      "title": "Zardonic Дебют “Godhead Interface” притяжение Fear Factory s Dino Cazares и больше",
-      "short": "Исполнитель метала и баса Zardonic выпустил новый сингл под названием “ Godhead Interface ” в качестве ведущего трека из своего нового студийного альбома \"DIGICIDE\". Современный промышленный метал-архитектор Fear Factory гитарист Dino Cazares, отдавая предпочтение Zardonic, ранее ремикшировал трек Fear Factory, что привело к дальнейшей совместной работе пары.",
-      "paragraphs": [
-        "Исполнитель метала и баса Zardonic выпустил новый сингл под названием “ Godhead Interface ” в качестве ведущего трека из своего нового студийного альбома \"DIGICIDE\". Современный промышленный метал-архитектор Fear Factory гитарист Dino Cazares, отдавая предпочтение Zardonic, ранее ремикшировал трек Fear Factory, что привело к дальнейшей совместной работе пары. Protopig (он же Daniel “Kaio” Soto) также внес свой вклад в эту новую версию.",
-        "Лирическое видео для этого сотрудничества доступно ниже. Что касается «DIGICIDE», то он выйдет 12 марта через Phobos / MMC. Zardonic сказал о новом полноформатном выпуске:",
-        "«Этот альбом — самая сложная работа, которую я когда-либо создавал. Это связано с глубоко травмирующими личными переживаниями, которые заставили меня увидеть самые темные уголки нашей системы. После нескольких месяцев чтения и исследования того, как эти системы на самом деле работают, у меня был момент, как персонаж Roddy Piper Нада надевает очки в They Live, и по сей день я не могу их снять.",
-        "В эпоху искусственного интеллекта двигатель, который поддерживает работу этой системы, больше не может скрываться от нас. Эта энергия привлекла правильных коллаборационистов: Dino Cazares, чья музыка с Fear Factory потратила десятилетия, предупреждая нас о подъеме машины, и моего бывшего наставника и теперь партнера по производству Daniel ‘Kaio’ Soto, который взорвал меня своим жестоким death металлическим вокалом и яростной лирикой. Я горжусь тем, что эти титаны на борту».",
-        "Cazares прокомментировал свои отношения с Zardonic и свою работу здесь:",
-        "\"Zardonic и я возвращаюсь назад. Он всегда понимал связь между дроблением металлических риффов и агрессией электронной музыки. Он проделал огромную работу над альбомом Fear Factory RECODED, и когда мы начали собирать наш новый материал Fear Factory, я вернул его к работе над синтезатором и электронными элементами.",
-        "Поэтому, когда он связался со мной по поводу сотрудничества над ‘ Godhead Interface ’ для его нового альбома DIGICIDE, это было не просто так! Трек представляет собой столкновение тяжелых гитар, промышленной электроники и чистой звуковой агрессии. Protopig доставил некоторые вокалы, которые действительно объединили все это вместе. Я горжусь тем, что мы создали, и я думаю, что поклонники Fear Factory и Zardonic будут копать этот!",
-        "Protopig добавил:",
-        "«Zardonic и я знаем друг друга с самого начала нашей работы в начале 2000-х годов на венесуэльской металлической сцене и с тех пор, как он продемонстрировал потенциал стать чем-то большим, чем жизнь. Десятилетия спустя, предоставление лирики и вокала для этого масштабного сотрудничества с Dino Cazares является для меня абсолютной честью. В эту современную эру алгоритмических манипуляций история, стоящая за DIGICIDE, кажется более актуальной, чем когда-либо, и я рад быть частью этого!",
-        "Cazares не единственный хеттер из металлического мира, который был гостем на этом альбоме, так как Mayhem 's Attila Csihar и Charles “Ghul” Hedger также являются гостями на треке Dehumanize.",
-        "“ DIGICIDE ” трек-лист:",
-        "01 – “ Samsara ” (Подвиг. Melek-Tha ) 02 – “ Ready For War ” (Подвиг. Sinizter ) 03 – “ Put To Death ” (Подвиг. Redpill ) 04 – “ Lose Control ” (Подвиг. Coppa ) 05 – “ From The Ashes ” (Подвиг. Neuroklast & Liv Sin ) 06 – “ Salvation ” (Подвиг. Danny Saber 07 — «I Am The Weapon» (англ.)русск. Enduser ) 08 – “ Dehumanize ” (Подвиг. Attila Csiha R & & & & & Charles “Ghul” Hedger ) 09 – “ Godhead Interface ” (Подвиг. Dino Cazares & Protopig ) 10 – “ DIGICIDE ” (Подвиг. Hallway Omega ) 11 – “ Set Me Free ” (Подвиг. Triangular Ascension )",
-        "Вы можете сделать предварительный заказ через vyd.co/ZardonicDigicide."
-      ],
-      "category": "Экстремальный метал",
-      "source": "ThePRP",
-      "published": "2026-10-30T18:13:26+00:00",
-      "original_url": "https://www.theprp.com/2026/10/30/news/zardonic-debuts-godhead-interface-featuring-fear-factorys-dino-cazares-more/",
-      "saved_at": 1793468511,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://www.theprp.com/app/uploads/2026/10/zardoniclarge-1200x675.webp",
-          "caption": ""
-        }
-      ],
-      "original_paragraphs": [
-        "Metal & bass artist Zardonic has released a brand new single titled “ Godhead Interface ” as the lead track from his new studio album, “ DIGICIDE “. Modern industrial metal architect Fear Factory guitarist Dino Cazares sits in on that song, paying back the favor of Zardonic previously remixing a Fear Factory track which led to the pair further working together. Protopig (aka Daniel “Kaio” Soto ) also contributed to this new cut.",
-        "A lyric video for this collaboration is available now below. As for “ DIGICIDE “, it will be out on March 12th through Phobos / MMC . Zardonic said of that guest-filled new full-length outing:",
-        "“This album is easily the most difficult body of work I’ve ever put together. It stems from deeply traumatic personal experiences that forced me to see the darkest corners of our system. After months of reading and research into how these systems actually work, I had a moment like Roddy Piper ’s character Nada putting on the glasses in They Live , and to this day I can’t take them off.",
-        "In the age of AI, the engine that keeps this system running can’t hide from us anymore. That energy drew the right collaborators: Dino Cazares , whose music with Fear Factory has spent decades warning us about the rise of the machine, and my former mentor and now production partner Daniel ‘Kaio’ Soto , who blew me away with his brutal death metal vocals and fierce lyrics. I’m proud to have these titans on board.”",
-        "Cazares commented of his relationship with Zardonic and his work here:",
-        "“ Zardonic and I go way back. He’s always understood the connection between crushing metal riffs and the aggression of electronic music. He did some killer work on Fear Factory ’s RECODED album, and when we started putting together our new Fear Factory material, I brought him back to inject some synth work and electronic elements into a couple of tracks.",
-        "So when he reached out to me about collaborating on ‘ Godhead Interface ’ for his new album DIGICIDE , it was a no-brainer! The track is a collision of heavy guitars, industrial electronics, and pure sonic aggression. Protopig delivered some vocals that really brought the whole thing together. I’m proud of what we created, and I think fans of both Fear Factory and Zardonic are going to dig this one!”",
-        "Protopig added:",
-        "“ Zardonic and I have known each other since our beginnings in the early 2000s in the Venezuelan metal scene, and ever since he showed the potential of becoming something larger than life. Decades later, providing the lyrics and vocals for this massive collaboration with Dino Cazares is an absolute honor for me. In this modern era of algorithmic manipulation, the story behind DIGICIDE feels more urgent than ever, and I’m glad to be part of it!”",
-        "Cazares isn’t the only heavy hitter from the metal world to guest on this record, as both Mayhem ‘s Attila Csihar and Charles “Ghul” Hedger also guest on the track “ Dehumanize “.",
-        "“ DIGICIDE ” track listing:",
-        "01 – “ Samsara ” (feat. Melek-Tha ) 02 – “ Ready For War ” (feat. Sinizter ) 03 – “ Put To Death ” (feat. Redpill ) 04 – “ Lose Control ” (feat. Coppa ) 05 – “ From The Ashes ” (feat. Neuroklast & Liv Sin ) 06 – “ Salvation ” (feat. Danny Saber ) 07 – “ I Am The Weapon ” (feat. Enduser ) 08 – “ Dehumanize ” (feat. Attila Csiha r & Charles “Ghul” Hedger ) 09 – “ Godhead Interface ” (feat. Dino Cazares & Protopig ) 10 – “ DIGICIDE ” (feat. Hallway Omega ) 11 – “ Set Me Free ” (feat. Triangular Ascension )",
-        "You can pre-order it via vyd.co/ZardonicDigicide ."
-      ],
-      "content_complete": true,
-      "artists": [
-        {
-          "id": "mayhem",
-          "name": "Mayhem"
-        }
-      ],
-      "original_title": "Zardonic Debuts “Godhead Interface” Featuring Fear Factory’s Dino Cazares & More",
-      "topics": [],
-      "media_checked_at": 1793468653
-    },
-    {
-      "id": "ee9533151e4c18ed2f2be6fdd4b4585abd348b8a",
-      "title": "Был ли Meddle последним альбомом Pink Floyd, который объединил все их силы?",
-      "short": "Terrace chants, Steve Marriott Собака и Hendrix Педаль гитары... Меньшие волнения в Pink Floyd Текстурный опус 1971 года Meddle Построено культурное цунами. В 2011 году Prog вернулись к невоспетому шедевру, который навсегда изменил группу и ее жанр.",
-      "paragraphs": [
-        "Terrace chants, Steve Marriott Собака и Hendrix Педаль гитары... Меньшие волнения в Pink Floyd Текстурный опус 1971 года Meddle Построено культурное цунами. В 2011 году Prog вернулись к невоспетому шедевру, который навсегда изменил группу и ее жанр.",
-        "Ping. Этот звук, как сигнал гидролокатора. Ping. Или радиосигнал из дальнего космоса. Ping. Или монитор сердца, измеряющий жизнь. Ping. Вдобавок.",
-        "ping на открытии и закрытии Echoes, как мы все знаем, был спродюсирован Richard Wright, играя одну ноту на концертном рояле и подавая сигнал через вращающийся динамик Лесли. Это идеальное открытие, столь же знаковое на своем пути, как Elvis Presley, выбивающее «С тех пор, как мой ребенок покинул меня...» в начале Heartbreak Hotel, или death, стучащее в дверь в начале Пятого Бетховена.",
-        "Echoes является центральным элементом Meddle, альбома, который в настоящее время широко рассматривается как тот, где Pink Floyd получил все правильно. В Meddle вы почти слышите The Dark Side Of The Moon и Wish You Were Here и даже The Wall . Вы не можете сказать то же самое о Atom Heart Mother или Ummagumma. Эти альбомы, какими бы блестящими они ни были на их пути, все еще являются звуком того, как Флойд находит свой путь, пытаясь вырваться из тени своего блестящего беспорядочного несносного гения экс-фронтмена Syd Barrett.",
-        "Они прошли долгий путь от галлюциногенной прихоти Piper At The Gates Of Dawn и ее менее удовлетворительного последующего наблюдения A Saucerful Of Secrets. Психоделический хаос остался позади, и появился новый Pink Floyd. Они были по-прежнему авантюрными и экспериментальными, но они также были more структурированный и стабильный.",
-        "К концу 60-х они превратились в огромную живую гастрольную группу. Meddle, альбом, который наслаждался использованием звукозаписывающей студии, был также первым альбомом, чтобы захватить некоторую силу и волнение живого опыта. После его выхода никто не называл их «этими». Pink Floyd . Дети, купившие его в 1971 году, не спрашивали: ‘Where’s Syd? - они все чаще спрашивали: ‘ Who’s Syd?’",
-        "В настоящее время все согласны с тем, что Meddle был точкой, где Pink Floyd, как мы знаем, они действительно начались. Есть шипящий энергичный открыватель One Of These Days, который является планом для половины песен на Dark Side. Музыка саундтрека, которую они записывали, была там, чтобы выполнять функцию: она была атмосферной. Но они не были великими песнями. One Of These Days это Pink Floyd 2.0.",
-        "В то время как в их раннем воплощении они были поп-группой, а также психоделической группой со свободными формами - Arnold Layne и See Emily Play оба были хитами - в последующие годы они полностью потеряли интерес к чарту синглов. Таким образом, они шли с потоком своих современников, становясь группой, ориентированной на альбомы. Но One Of These Days, отличная песня (несмотря на отсутствие слов, кроме произнесенной фразы) доказала, что они все еще могут сделать что-то доступное, когда им это нравится. Это одна из лучших песен Флойда, когда-либо записанных. Согласно David Gilmour в недавнем интервью, это одна из песен, где их работа была наиболее совместной.",
-        "«Мы сделали отдельные сольные треки и решили, что мы лучше работаем вместе, — говорит Nick Mason. — Не было никакого отличного плана, когда мы делали Meddle, кроме того, что это было бы групповым усилием». Мы не испытывали никакого давления со стороны EMI, чтобы что-то выпустить. Не было никакой концепции. Я не думаю, что у нас уже было что-то написано, когда мы пошли в студию. После Ummagumma и Atom Heart Mother, мы подумали, я полагаю, что мы должны, возможно, сделать альбом группы, что-то, что, возможно, было отражением того, где мы собираемся жить».",
-        "«У него есть этот звук, не так ли?» — говорит Steven Wilson, давний чемпион Meddle. — Этот звук 1971 года. Он такой теплый, органический и золотой, и в этом есть что-то особенное. Вещи просто выходили из психоделической музыки, и влияние все еще было там, а не полностью исчезло».",
-        "Это альбом, который они начали без каких-либо всеобъемлющих идей о том, что это будет. Хотя Echoes является центральным элементом, есть и другие песни, такие как One Of These Days и Fearless, которые так же важны.",
-        "Мы подписали контракт, который дал нам немного уменьшенный гонорар в обмен на неограниченное студийное время. Только у The Beatles была похожая сделка.",
-        "«Они только что вернулись из США, — вспоминает инженер Джон Леки, впервые завербованный в качестве оператора ленты, но в конечном итоге зачисленный в качестве инженера. — Я помню, что Dave Gilmour только что получил ту же самую вах-вах, которую использовал Jimi Hendrix». Звук чайки, который вы слышите на Echoes, это то, что Cry Baby. Hendrix умер в середине записи, что, я думаю, немного повлияло на них».",
-        "Они также работали в Италии над саундтреком к контркультурному фильму Микеланджело Антониони Zabriskie Point. Группа прибыла уставшей и запаздывающей и была забронирована в студии с полуночи до шести. Это был разочаровывающий опыт, так как итальянский режиссер отклонил большую часть музыки, которую они записали.",
-        "«Я не думаю, что он точно ненавидел это», — говорит он. Nick Mason «но это трудно, когда кто-то другой имеет в виду музыку для определенной последовательности фильма. Антониони хотел получить полный контроль над музыкой, и единственный способ, которым он мог контролировать музыку, — это возможность выбирать из множества разных версий.",
-        "«В то время как, когда мы работали с Барбетом Шредером (режиссёром More и La Vallée, обоих фильмов с саундтреками Флойда), он давал нам краткое содержание, мы уходили и делали это; обычно он говорил: Yes, отлично, и мы двигались дальше. Zabriskie Point был кровавой тяжелой дракой».",
-        "Большая часть Meddle Успех сводится к тому, что их ярлык, на самом деле, не имеет большого понятия о Pink Floyd «Мы только что подписали новый контракт, который дал нам немного уменьшенную роялти в обмен на неограниченное студийное время», — говорит Мейсон. The Beatles В то время было заключено аналогичное соглашение\".",
-        "Pink Floyd была одной из первых групп, которым было разрешено выпускать свои собственные альбомы. Питер Браун, который работал с ними над Atom Heart Mother –, и Леки записывали и проектировали основную часть работы над записью в лондонской студии Abbey Road. «Они остались одни, — вспоминает Леки. — Колин Майлз, единственный человек в EMI, который мог «взаимодействовать», иногда появлялся с парой бутылок вина». Может, какой-нибудь сплит. Однако они упорно трудились; это была не вечеринка».",
-        "Echoes, для меня, является квинтэссенцией, конечной эпопеей. Он просто имеет идеальную форму",
-        "Флойд не был на том этапе, когда они могли позволить себе гараж, полный спортивных автомобилей, но они зарабатывали на жизнь гастролями и записью. Они начали испытывать успех в США и только что вернулись оттуда, когда начали работу над Meddle. Леки вспоминает, что атмосфера в студии была хорошей: «Они не сильно отличались от любой другой группы. Это было довольно энергично; каждый имел право голоса. Ник придумал много безумных идей. Это его голос через кольцевой модулятор, который вы слышите на One Of These Days, говоря: One of these days, я собираюсь разрезать вас на мелкие кусочки. Rick внес большой вклад. Roger и Дэйв управляли шоу, но все вносили свой вклад.",
-        "Когда группа записывалась на Abbey Road, иногда принося идеи, над которыми они работали дома, они продолжали выступать, настраивая экипировку в студии, а затем уходили ночью, чтобы играть заголовки шоу в колледжах и политехниках. «Мы пробовали много вещей вживую в то время», - говорит Мейсон. - Echoes, в то время серия несвязанных частей, помеченных Nothing (была Nothing Part One до Part 36), в конечном итоге оформилась, когда они начали работать. Дебютировал он на концерте в Норвиче в апреле, занесен в список под рабочим названием Return of the Son Of Nothing.",
-        "Теперь группа продвигала возможности студии. Мейсон вспоминает: «Эбби-Роуд только что инвестировала в восьмидорожечную трассу, но была готова перейти на 16-дорожечную. Так что мы пошли в студию Air, что было здорово. Атмосфера была совсем иной – EMI был очень налажен, имел большую столовую... но уже было много изменений. The Beatles Сделал это несколько лет назад. Но воздух был настоящим искусством».",
-        "Именно возможности, предлагаемые 16 треками, изменили все. \"Yes, по определению, хотя, к сожалению, это сделало процесс записи медленнее\", - говорит Мейсон. - Вариантов было почти слишком много. Смешивание заняло чертовски много времени».",
-        "«Морган был одной из первых британских студий, которые пошли 24-трековым, хотя и не в то время, — говорит Леки. — Интересно то, что годы спустя я записал некоторые из первых треков Stone Roses там, когда он назывался Battery».",
-        "Несмотря на то, что они работали над длиноформными фигурами раньше, Echoes был небольшим отклонением. Такие песни, как Interstellar Overdrive и A Saucerful Of Secrets, пришли из эпохи Syd, когда группа была more импровизационной. Это были, по сути, расширенные джемы. Atom Heart Mother был задуман как своего рода квазиклассическая пьеса.",
-        "Roy Harper каждый раз может исполнять песню по-разному. Он записывался с группой, но акустическая версия была бы так же хороша. И никогда им не пользовался.",
-        "Echoes включал в себя несколько идей, разных пассажей и настроений, но это была структурированная и запланированная песня. Его создание включало в себя пробы и ошибки. Многое было выброшено. Но это была песня с окончательной, почти окончательной формой. Версия, которую вы слышите в фильме Live At Pompeii или на сессиях Би-би-си, не заметно отличается от версии на Meddle. Interstellar Overdrive, особенно в эпоху Сида, никогда не была одинаковой дважды.",
-        "Echoes, для меня, является квинтэссенцией, окончательным эпосом, - говорит Уилсон. - Он просто имеет идеальную форму. Они не пытались втиснуть в него слишком много идей, поэтому у него все еще есть много места для создания, разрушения и импровизации, и у него есть прекрасная последовательность песен, которая дополняет произведение».",
-        "«Я уверен, что одной из причин, по которой они сделали Echoes, был Roy Harper, — говорит Леки. — Они делили управление с Роем, и он был большим партнером группы». Он всегда был рядом и работал над Stormcock. Я работал с Роем; я думаю, что сыграл большую роль в том, что меня наняли для Meddle\".",
-        "Stormcock,, новаторский альбом 1971 года, включает в себя четыре эпические акустические песни, продолжительностью от семи до 13 минут. «Я не думаю, что это было какое-либо единообразие с Роем», - говорит Мейсон. Мне понравилось, что он каждый раз мог петь по-разному. Он записывался с группой, но акустическая версия была бы так же хороша. И никогда им не пользовался. Бог знает, где эти записи». Харпер, конечно, позже присоединится к группе на Wish You Were Here, чтобы спеть Have A Cigar.",
-        "Мейсон размышляет: «Мы быстро пришли к выводу, что исполнение такой песни, как Echoes, было сравнительно легким из-за повторения. Выслушивая его сейчас, он sounds немного затянулся — его можно было бы разрубить, что сделало бы его лучше». Ах, и, возможно, Леонардо да Винчи думал в дальнейшей жизни, что Mona Lisa был бы улучшен, стерев улыбку с ее лица.",
-        "Альбом также включает в себя три абсолютно идеальные короткие песни: One Of These Days, Pillow Of Winds и Fearless. Fearless включает в себя Kop Choir, поющий You’ll Never Walk Alone. Естественно, John Peel порвал его на death по радио. Fearless все еще тот, который все в Ливерпуле играют, - говорит Леки. - Не только для футбольного песнопения, но и для тех, кто крутит акустические гитары. Это тот самый трек The La's, и все эти группы говорят вам, что это классический трек Pink Floyd.",
-        "Steve Marriott всегда будет рядом со студией. Они заметили, что его собака начинает лаять в гармонии с музыкой.",
-        "Уотерс (пожизненный сторонник Арсенала) играл акустические партии, используя открытую настройку, которая придает песне ее звонкое качество. Это звук, который действительно появляется в работе таких групп, как Echo & The Bunnymen и The Teardrop Explodes. Он был покрыт широким кругом артистов, от бывшего фронтмена Marillion Fish до The Black Crowes через инди-группу Low.",
-        "A Pillow Of Winds –, вдохновлённый, по словам Ника, игрой в маджонг, в которую он, Гилмор и их партнёры играли во время отпуска вместе, — это довольно прямая песня о любви. Это одна из пастырских пьес, с которыми они играли раньше в таких песнях, как Julia Dream и Grantchester Meadows. «Есть пара песен в конце боковой, которые, возможно, вы могли бы сказать, являются наполнителем», — позволяет Уилсон, «но, конечно, One Of These Days, A Pillow Of Wind и Fearless так же хороши, как и все, что они записали». Я думаю, что Fearless всегда омрачается из-за пьес, которые они сыграли вживую\".",
-        "San Tropez не был составлен совместно; он был написан Уотерсом и был доставлен в студию в законченной форме. Пресловутый Seamus — отличный тест на чувство юмора — был назван в честь экс-маленьких лиц. Humble Pie фронтмен Steve Marriott «Стив всегда будет рядом со студией, — говорит Леки. — Они заметили, что она начнет лаять в соответствии с музыкой».",
-        "Собака, которая появляется в киноверсии в Live At Pompeii, на самом деле еще одна, русская волкодавка по имени Нобс. Принадлежащая Мадонне Буглионе, дочери директора цирка Джозефа Буглионе, питомец взял немного more, уговаривая за ее выступление, чем Seamus.",
-        "Live At Pompeii, хороший снимок того, где группа была в 1971 году, был одним из первых фильмов такого рода. Это предвосхищает рок-видео, снимая выступление в экзотическом месте без аудитории. Стив О'Рурк [тогдашний менеджер Флойда] сказал: Этот французский режиссер-документалист хочет сделать фильм, - вспоминает Мейсон. - Сделка, которую мы заключили, оказалась очень тяжелой работой, и мы никогда не видели никаких денег от нее в течение длительного времени. С другой стороны, это оказалось очень полезным, и я думаю, очень хорошим фильмом.",
-        "«Помпеи являются контролируемой средой, поскольку аудитория отсутствует, поэтому мы можем сократить, остановить и переснять их. Но открытый воздух, пыль и все остальное заставили его почувствовать себя настоящим живым шоу. Хотя некоторые барабаны были потеряны: «Это был Дэйв и Roger от One Of These Days, вот почему это в основном я», — говорит барабанщик.",
-        "Вы чувствуете, что Флойд все еще играл вживую, экспериментировал... с Dark Side Of The Moon, который ушел.",
-        "Meddle был выпущен в октябре 1971 года в США и ноябре в Великобритании. Он был упакован в рукав, который Hipgnosis партнер Storm Thorgerson показал, что его наименее любимый рукав Флойда: «Я думаю, что Meddle гораздо лучший альбом, чем его обложка», - сказал он. Предполагалось, что это была крупная фотография бомжа бабуина. Группа сказала ему, что они хотят что-то делать с водой, возможно, с ухом под водой. Это, безусловно, соответствовало настроению альбома таким образом, что вы почему-то не чувствуете, что анус обезьяны сделал бы это.",
-        "Несмотря на свою упаковку, он достиг No 3 в британских чартах альбомов - Atom Heart Mother был No 1 - в то время как он бомбил в США. \"Если сомневаться, вините лейбл\", - говорит Мейсон. - \"Мы чувствовали в то время, что Capitol [североамериканский лейбл Флойда] был действительно старомодной компанией; это был лейбл Фрэнка Синатры и Дина Мартина, и все руководители были старыми\". Я не думаю, что они действительно одобрили нас. Они этого не понимали. Следовательно, они никогда не работали над записями.",
-        "«EMI, с другой стороны, увидела потенциал, в частности, в европейских продажах. И они решили сделать это хитом. Дело в том, что успех Dark Side Of The Moon имел отношение к nothing, которые сделали его. Это была вся звукозаписывающая компания». Группа потеряла терпение с Капитолием в США и тайно подписала контракт с Клайвом Дэвисом в Колумбию.",
-        "Obscured By Clouds, саундтрек к La Vallée, был записан через несколько недель в том же году. Затем они начали работу над Dark Side. У них был аппетит к работе, но они никогда больше не записывались в таком темпе. «Нет, потому что мы были избалованы, — говорит Мейсон. — После Dark Side мы были группой номер один». Давление было и на них. Вы не можете просто войти и выбить еще один альбом. Вы должны были подумать об этом, а не повторяться».",
-        "Уилсон отмечает: «Вы чувствуете, что Флойд все еще была группой, которая играла вживую, выходила туда и экспериментировала, и я думаю, что Dark Side, которая ушла. Они стали великими звуковыми архитекторами, но большая опасность и большое похмелье того периода экспериментов были постепенно очищены от их звука».",
-        "Это отрезвляющий урок, чтобы прочитать современные обзоры альбома, который теперь считается бесспорной классикой. Некоторые авторы, казалось, упустили момент: один сравнил Meddle неблагоприятно с More и Ummagumma. Аргументы относительно того, принадлежал ли он в том же файле, что и Fragile, Tarkus или Nursery Cryme, теперь кажутся излишними. Флойд, как и Yes, ELP и Genesis, лишь немного опередил доступную технологию — 24-трековые группы в восьмитрековую эпоху.",
-        "После Meddle и Dark Side, что-то было потеряно; амбиции стали создавать и иногда тщательно переваривать пудинг в студии. Он достиг кульминации с The Wall и, вероятно, в конечном итоге разорвал группу на части.",
-        "Работа над Meddle дала Мейсону уверенность, чтобы начать производить себя. Позже в том же году он работал над The Asmoto Running Band, вторым альбомом причудливых чудаков «Principal Edwards Magic Theatre». Позже он произвел Robert Wyatt Классический Rock Bottom и The Damned Второй альбом Music For Pleasure (Хотя, по-видимому, он получил концерт, потому что они не смогли получить Барретта).",
-        "После сольного альбома Nick Mason’s Fictitious Sports в 1981 году он работал с Rick Fenn, а затем с джазером Майком Мантлером. Но будучи богатым, как Крез, он не испытывает никакого давления, чтобы сесть в фургон и пойти на концерт. «Я думал о том, чтобы сделать что-то на некоторое время», — размышляет он. Его не будут толкать на детали.",
-        "А как насчет другого воссоединения Pink Floyd? Мейсон только недавно появился на сцене с Уотерсом и Гилмором, исполнив Outside The Wall на одном из массивных шоу Уотерса O2. Он говорит, что гастролировать или играть с одной из пар - это возможность. «Я бы хотел снова сделать что-то вроде Live8», — говорит он. Затем он добавляет, возможно, загадочно: «Если бы это было устроено».",
-        "Это был намек? Или это то, что мы хотим услышать - что путешествие, которое действительно началось 40 на Meddle, не совсем подошло к концу?",
-        "В конце 70-х годов Аллан Маклахлан изучал политику в университете Стратклайда и в качестве журналиста на западе Шотландии писал об искусстве и культуре. Он переехал в Лондон в конце 80-х годов и начал свою пожизненную любовную связь с столичным районом в качестве музыкального редактора журнала City Limits. После короткого периода в качестве редактора новостей на Sounds, он стал фрилансером, а затем забил громкий концерт редактора новостей на NME. Быстро сделав свой след, он принял псевдоним Tommy Udo. Он перешел на сайт NME, затем Xfm онлайн до его возможного долгосрочного пребывания на Metal Hammer и связанных журналов. Он написал биографии Nine Inch Nails и Чарльза Мэнсона. Преданный азиатского кино, Томми был экспертом по фильму «Бит» Такеши Китано и соавтором англоязычной биографии японского актера и режиссера. Он умер в 2019 году."
-      ],
-      "category": "Прогрессив",
-      "source": "Louder",
-      "published": "2026-10-30T18:00:00+00:00",
-      "original_url": "https://www.loudersound.com/music/albums/pink-floyd-meddle",
-      "saved_at": 1793468619,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/2zokHi6QvCFuwBDQ5JnYuF-1280-80.jpg",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/2zokHi6QvCFuwBDQ5JnYuF.jpg",
-          "caption": "Pink Floyd live at Hakone Aphrodite, Kanagawa, August 6, 1971. (Photo by Koh Hasebe/Shinko Music/Getty Images)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/2epkRHgy48aVAA5A7triK9.jpg",
-          "caption": "Pink Floyd, (L-R: Nick Mason, Dave Gilmour, Roger Waters and Rick Wright) pose for a publicity shot circa 1973. (Photo by Michael Ochs Archives/Getty Images)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/MMBMBsbcjpomeKyb9i5nMR.jpg",
-          "caption": "Roger Waters, Dave Gilmour, Nick Mason, Rick Wright walking off stage at The Wall Concert"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/cuE4M6mw5vuTLAzeYkVx63.jpg",
-          "caption": "Pink Floyd"
-        },
-        {
-          "type": "image",
-          "url": "https://img.youtube.com/vi/hDoK1Hbk0SI/maxresdefault.jpg",
-          "caption": "Pink Floyd at Pompeii – MCMLXXII - One of These Days (Official Music Video) - YouTube"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/afaztDAQsNUJdmVqWrznLV.jpg",
-          "caption": "Pink Floyd pose shrouded in pink in August of 1968 in Los Angeles. (L-R) Nick Mason, Dave Gilmour, Rick Wright (center front), Roger Waters. (Photo by Michael Ochs Archives/Getty Images)"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/Dob2g78KZGthfJ7rLZrnKP.jpg",
-          "caption": "Richard Wright"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/bYxKMyyCjUS5A7YLBACKGV.jpg",
-          "caption": "Pink Floyd"
-        },
-        {
-          "type": "image",
-          "url": "https://img.youtube.com/vi/Hgx267jVma0/maxresdefault.jpg",
-          "caption": "Pink Floyd - A Pillow Of Winds (Official Audio) - YouTube"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/MqNjy86UQSUFR4cXChxa7Y.jpg",
-          "caption": "Director Adrian Maben and Pink Floyd during the filming of Live at Pompeii at Studio Europasonor in Paris, France, December 1971. (Photo by Icon and Image/Getty Images)"
-        },
-        {
-          "type": "image",
-          "url": "https://img.youtube.com/vi/IkgaMFjo_lI/maxresdefault.jpg",
-          "caption": "Pink Floyd - Fearless (Official Audio) - YouTube"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/kHznZKTarzs7av6LzH4y88.jpg",
-          "caption": "Pink Floyd"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/MkqrkWqJu3bPxguE7ebS2J.jpg",
-          "caption": "Slipknot in 2026"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/mYc3URPxMHmdraisRhtPhP.jpg",
-          "caption": "BB King in 2004"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/sYsppUoiNkEVTxCiYXKhVR.jpg",
-          "caption": "The Who pose at Shepperton Studios"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/5rcTeNc8oxgo9MKXYoW6fF.jpg",
-          "caption": "Bobby Gillespie, pictured dancing in front of a bright blue sky"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/hKdzZGQQVyMHvxCiyDUvi6.jpg",
-          "caption": "Dave Hill standing in front of a hedge"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/mpvPzJYdG6KRbxUX8opYjb.jpg",
-          "caption": "Nickelback studio portrait"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn.mos.cms.futurecdn.net/fngDw4HLdsaZh3MB8o5QoA.jpg",
-          "caption": "Horror movies"
-        }
-      ],
-      "original_paragraphs": [
-        "Terrace chants, Steve Marriott ’s dog and Hendrix ’s guitar pedal… the lesser undulations in Pink Floyd ’s 1971 textural opus Meddle built a cultural tsunami. In 2011 Prog revisited the unsung masterpiece that changed the band – and its genre – for ever.",
-        "Ping. That sound, like a sonar signal. Ping . Or a radio signal from deep space. Ping . Or a heart monitor, measuring out a life. Ping . Incrementally.",
-        "The ’ping’ on the opening and close of Echoes was, as we all know, produced by Richard Wright playing a single note on a concert grand piano and feeding the signal through a Leslie rotating speaker. It’s a perfect opening – as iconic in its way as Elvis Presley belting out ‘ Well since my baby left me... ’ at the start of Heartbreak Hotel , or death knocking at the door at the start of Beethoven’s Fifth.",
-        "Echoes is the centrepiece of Meddle , an album now widely regarded as the one where Pink Floyd got everything just right. In Meddle you can almost hear The Dark Side Of The Moon and Wish You Were Here – and even The Wall . You couldn’t necessarily say the same about Atom Heart Mother or Ummagumma . Those albums, brilliant as they are in their way, are still the sound of the Floyd finding their way, trying to escape from the shadow of their brilliant erratic insufferable genius ex-front-man Syd Barrett .",
-        "They had come a long way from the hallucinogenic whimsy of Piper At The Gates Of Dawn and its less satisfactory follow-up A Saucerful Of Secrets . The psychedelic chaos was left behind and a new Pink Floyd emerged. They were still adventurous and experimental, but they were also more structured and stable.",
-        "By the end of the 60s they had developed into a formidable live touring band. Meddle , an album that revelled in its use of the recording studio, was also the first album to capture some of the potency and excitement of the live experience. After its release nobody called them ’the’ Pink Floyd. The kids who bought it in 1971 didn’t ask, ‘Where’s Syd?’ – they increasingly asked, ‘ Who’s Syd?’",
-        "It’s now generally agreed that Meddle was the point where Pink Floyd as we know them really began. There’s the fizzing energetic opener One Of These Days which is the blueprint for half of the songs on Dark Side . The soundtrack music they’d recorded was there to serve a function: it was atmospheric. But they weren’t great songs. One Of These Days is Pink Floyd 2.0.",
-        "While in their early incarnation they were a pop band as well as a psychedelic free-form freakout band – Arnold Layne and See Emily Play both being hits – the subsequent years saw them completely lose interest in the singles chart. In that way they were going with the flow of their contemporaries, becoming an albums focussed band. But One Of These Days , a great song (despite not having words other than a spoken phrase) proved they were still able to turn out something approachable when they felt like it. It remains one of the best Floyd songs ever recorded. According to David Gilmour in a recent interview, it’s one of the songs where their work was at its most collaborative.",
-        "“We’d done the individual solo tracks and decided that we worked better together,” says Nick Mason . “There wasn’t any great plan when we did Meddle other than it would be a group effort. We weren’t under any pressure from EMI to release anything. There was no concept. I don’t think we had anything already written when we went into the studio. After Ummagumma and Atom Heart Mother , we thought, I suppose, that we should maybe make a group album, something that was maybe a reflection of where we were going live.”",
-        "“It’s got that sound, hasn’t it?” says Steven Wilson , a long-time champion of Meddle . “That 1971 sound. It’s so warm and organic and so golden; and there’s something about that. Things were just coming out of psychedelic music and the influence was still there, not completely gone.”",
-        "It’s an album that they started without any overarching ideas as to what it was going to be. Although Echoes is the centrepiece, there are other songs like One Of These Days and Fearless that are just as important.",
-        "We signed a contract that gave us a slightly reduced royalty in return for unlimited studio time. Only The Beatles had a similar deal",
-        "“They were just back from the US,” recalls engineer John Leckie, first recruited as a tape operator but eventually credited as engineer. “I remember Dave Gilmour had just got the same wah-wah peddle that Jimi Hendrix used. The seagull sound you hear on Echoes is that, the Cry Baby. Hendrix died in the middle of recording, which I think affected them a bit.”",
-        "They had also worked in Italy on the soundtrack for Michelangelo Antonioni’s counter-culture film Zabriskie Point . The band arrived tired and jet-lagged and were booked in the studio from midnight until six. It was to prove a frustrating experience as the Italian director rejected a lot of the music they’d recorded.",
-        "“I don’t think he exactly hated it,” says Nick Mason, “but it’s difficult when someone else has the music in mind for a particular sequence of film. Antonioni wanted total control, and the only way he could have control of the music was to be able to select from lots of different versions.",
-        "\"Whereas when we’d worked with Barbet Schroeder [director of More and La Vallée , both films with Floyd soundtracks] he would give us the brief, we’d go off and do it; generally he said, ’Yes, fine’ and we moved on. Zabriskie Point was a bloody hard slog.”",
-        "Much of Meddle ’s success is down to the fact that their label, not really having much of a clue about Pink Floyd other than that they sold lots of records, pretty much left them to their own devices. “We’d just signed a new contract that gave us a slightly reduced royalty in return for unlimited studio time, ” Mason says. “I think only The Beatles had a similar deal at the time.”",
-        "Pink Floyd were one of the first bands to be allowed to produce their own albums. Peter Brown – who’d worked with them on Atom Heart Mother – and Leckie recorded and engineered the bulk of the recording work at London’s Abbey Road studio. “They were left alone,” recalls Leckie. “Colin Miles, the only person at EMI who could ’relate,’ used to turn up occasionally with a couple of bottles of wine. Maybe some spliff. They worked hard, though; it wasn’t a party.”",
-        "Echoes, for me, is the quintessential, ultimate epic … It just has a perfect shape",
-        "Floyd weren’t at the stage where they could afford a garage full of sports cars, but they were making a fairly good living from touring and recording. They were starting to experience success in the US and had just returned from there when they started work on Meddle . Leckie remembers the atmosphere in the studio was good: “They weren’t really different to any other band. It was quite energetic; everyone had a say. Nick came up with a lot of the crazier ideas. It’s his voice through a ring modulator that you hear on One Of These Days saying ’ One of these days I’m going to cut you into little pieces. ’ Rick contributed a lot. Roger and Dave were running the show but everybody was contributing..",
-        "As the band recorded at Abbey Road, sometimes bringing in ideas they’d worked on at home, they continued to gig, setting up the gear in the studio then going off at night to play headline shows at colleges and polytechnics. “We were trying out a lot of stuff live at that time,” says Mason. Echoes , at that time a series of unconnected parts labelled Nothing (there was Nothing Part One through to Part 36) eventually took shape when they debuted it at a gig in Norwich in April, listed under its working title Return of the Son Of Nothing .",
-        "The band were now pushing the possibilities of the studio. Mason remembers: “Abbey Road had just invested in an eight-track, but were ready to go 16-track. So we went to Air studios, which was great. A very different atmosphere – EMI was very established, had the big canteen... there was already a lot of change, though. The Beatles did that a few years before. But Air was state of the art.”",
-        "It was the possibilities offered by 16 tracks that changed everything. “Yes, by definition, though unfortunately it made the process of recording slower,” says Mason. “There were almost too many options. Mixing took a hell of a lot longer.”",
-        "They also recorded at a third studio, Morgan in Willesden. “Morgan was one of the first British studios to go 24-track, though not at that time,” says Leckie. “What’s interesting is that years later I recorded some of the first Stone Roses tracks there, when it was called Battery.”",
-        "Although they had worked on longform pieces before, Echoes was a bit of a departure. Songs like Interstellar Overdrive and A Saucerful Of Secrets came from the Syd era when the band were more improvisational. These were essentially extended jams. Atom Heart Mother was conceived as a sort of quasi-classical piece.",
-        "Roy Harper could do a song differently every time. He’d record with a band but the acoustic version would be just as good. And he never used them",
-        "Echoes incorporated several ideas, different passages and moods, but it was a structured and planned song. Its creation involved trial and error. A lot was thrown out. But it was a song with a final, almost definitive form. The version you hear in the film Live At Pompeii or the BBC sessions isn’t markedly different to the version on Meddle . Interstellar Overdrive , particularly in the Syd era, was never the same twice.",
-        "“ Echoe s, for me, is the quintessential, ultimate epic,” says Wilson. ”It just has a perfect shape. They hadn’t tried to cram too many ideas into it, so it still has a lot of room for building up and breaking down and improvisation, and it has that lovely song sequence that bookends the piece.”",
-        "“I’m sure one of the reasons they did Echoes was Roy Harper ,” says Leckie. “They shared management with Roy and he was a big mate of the band. He was always around and he was working on Stormcock . I’d worked with Roy; I think played a big part in my being hired for Meddle .”",
-        "Stormcock, a groundbreaking 1971 album, includes four epic acoustic songs, all between seven and 13 minutes long. “I don’t think it was any kind of one-upmanship with Roy,” says Mason. “He was extraordinary. I loved the fact that he could do a song differently every time. He’d record with a band but the acoustic version would be just as good. And he never used them. God knows where those recordings are.” Harper, of course, would later join the band on Wish You Were Here to sing Have A Cigar .",
-        "Mason reflects: “We quickly worked out that doing a song like Echoes was comparatively easy because of the repetition. Listening to it now, it sounds a bit overlong – it could be chopped, which would make a better piece.” Ah, and maybe Leonardo Da Vinci thought in later life that the Mona Lisa would have been improved by wiping the smile off of her face.",
-        "The album also includes three absolutely perfect short songs: One Of These Days , Pillow Of Winds and Fearless . Fearless includes the Kop Choir singing You’ll Never Walk Alone . Naturally John Peel flogged it to death on the radio. “ Fearless is still the one that everyone in Liverpool plays,” says Leckie. “Not just for the football chant, but those churning acoustic guitars. That’s the one The La’s and all those bands tell you is the classic Pink Floyd track.”",
-        "Steve Marriott would always be around the studio. They noticed that his dog would start barking in tune with the music",
-        "Waters (a lifelong Arsenal supporter) played the acoustic parts using an open tuning, which gives the song its ringing quality. It’s a sound that does indeed surface in the work of bands like Echo & The Bunnymen and The Teardrop Explodes . It’s been covered by a wide range of artists, from ex- Marillion frontman Fish to The Black Crowes by way of Midwestern indie ’slowcore’ band Low.",
-        "A Pillow Of Winds – inspired, according to Nick, by the game of mahjong that he, Gilmour and their respective partners used to play while on holiday together – is a fairly straight love song. It’s one of the pastoral pieces they’d toyed with before in songs like Julia Dream and Grantchester Meadows . “There’s a couple of songs at the end of side one that maybe you could say are filler,” Wilson allows, ”but certainly One Of These Days , A Pillow Of Wind s and Fearless are as good as anything they recorded. I think Fearless does always get overshadowed because of the pieces they played a lot live.”",
-        "San Tropez was not composed collaboratively; it was written by Waters and was brought to the studio in a completed form. The notorious Seamus – a great sense of humour test – was named after ex-Small Faces then- Humble Pie frontman Steve Marriott ’s dog. “Steve would always be around the studio,” says Leckie. “They noticed that it would start barking in tune with the music.”",
-        "The dog that appears in the film version in Live At Pompei i is in fact another one, a female Russian Wolfhound named Nobs. Owned by Madonna Bouglione, daughter of circus director Joseph Bouglione, the pet took a bit more coaxing for her performance than Seamus did.",
-        "Live At Pompeii , a good snapshot of where the band were in 1971, was one of the first films of this kind. It prefigures the rock video by filming a performance in an exotic location without an audience. “Steve O’Rourke [Floyd’s then manager] said, ‘This French-based documentary maker wants to do a film,‘” Mason recalls. “The deal we did turned out to be very hard work and we never saw any money from it for a long time. On the other hand it turned out to be a very useful, and I think a very good, film.",
-        "“Pompeii was a controlled environment as there was no audience, so we could cut, stop and reshoot. But the open air and the dust and everything else made it feel like a real live show. There was a bit of grit to it.” Although some reels were lost: “It was Dave and Roger from One Of These Days , which is why it’s mostly me,” the drummer says.",
-        "You feel that Floyd were still were playing live, experimenting… by Dark Side Of The Moon that had gone",
-        "Meddle was released in October 1971 in the US and November in the UK. It was packaged in a sleeve that Hipgnosis partner Storm Thorgerson revealed was his least favourite Floyd sleeve: “I think Meddle is a much better album than its cover,” he said. It was supposed to have been a close-up picture of a baboon’s bum. The band told him they wanted something to do with water, maybe an ear underwater. It certainly matched the mood of the album in a way that somehow you don’t feel that an ape’s anus would have done.",
-        "Regardless of its packaging, it reached No.3 on the UK album charts – Atom Heart Mother had been No.1 – while it bombed in the US. “If in doubt, blame the label,” says Mason. “We felt at the time that Capitol [Floyd’s North American label] was really an old fashioned company; it was the label of Frank Sinatra and Dean Martin and the executives were all old. I don’t think they really approved of us. They didn’t understand it. Consequently, they never worked the records.",
-        "“EMI, on the other hand, saw the potential particularly from European sales. And they decided to make it a hit. That’s the thing – the success of Dark Side Of The Moon had nothing to do with the loveable moptops who made it. It was all the record company.” The band lost patience with Capitol in the US and secretly signed with Clive Davies to Colombia.",
-        "Obscured By Clouds , the soundtrack to La Vallée , was recorded in a matter of weeks later that year. Then they started work on Dark Side . They had an appetite for work – yet they would never record at this pace again. “No, because we got spoiled,” says Mason. “After Dark Side we were a number-one band. And also, the pressure was on. You couldn’t just go in and knock another album off. You had to think about it; not repeat yourself.”",
-        "Wilson notes: “You feel that Floyd were still a band that were playing live, going out there and experimenting, and I think by Dark Side that had gone. They’d become great sonic architects – but a lot of the danger and a lot of the hangover from that period of experimentation had been gradually refined out of their sound.”",
-        "It’s a sobering lesson to read the contemporary reviews of an album now considered an undisputed classic. Some writers seemed to miss the point: one compared Meddle unfavourably with More and Ummagumma . Arguments as to whether it belonged in the same file as Fragile , Tarkus or Nursery Cryme now seem fatuous. Floyd, like Yes , ELP and Genesis , were just slightly ahead of the technology that was available – 24-track bands in an eight-track era.",
-        "After Meddle and Dark Side , something was lost; the ambition became to create and sometimes meticulously over-egg the pudding in the studio. It culminated with The Wall and was probably what ultimately tore the band apart.",
-        "Working on Meddle gave Mason the confidence to start producing himself. Later that year he worked on The Asmoto Running Band , the second album by whimsy-prog oddballs Principal Edwards Magic Theatre. He later produced Robert Wyatt ’s classic Rock Bottom and The Damned ’s second album Music For Pleasure (though apparently he got the gig because they couldn’t get Barrett).",
-        "After the one-off solo album Nick Mason’s Fictitious Sports in 1981, he worked with Rick Fenn and then jazzer Mike Mantler. But being rich as Croesus, he’s under no pressure to get in the van and go gigging. “I’ve been thinking about doing something for a while,” he muses. He won’t be pushed on details.",
-        "And what about another Pink Floyd reunion? Mason only recently appeared on stage with Waters and Gilmour, performing Outside The Wall at one of Waters’ massive O2 shows . He says touring or playing with one of the pair is a possibility. \"I’d love to do something like Live8 again,” he says. Then he adds, perhaps enigmatically: “If it was to be arranged.\"",
-        "Was that a hint? Or was it what we want to hear – that the journey that really got underway 40 on Meddle hasn’t quite come to its end?",
-        "Allan McLachlan spent the late 70s studying politics at Strathclyde University and cut his teeth as a journalist in the west of Scotland on arts and culture magazines. He moved to London in the late 80s and started his life-long love affair with the metropolitan district as Music Editor on City Limits magazine. Following a brief period as News Editor on Sounds , he went freelance and then scored the high-profile gig of News Editor at NME . Quickly making his mark, he adopted the nom de plume Tommy Udo. He moved onto the NME 's website, then Xfm online before his eventual longer-term tenure on Metal Hammer and associated magazines. He wrote biographies of Nine Inch Nails and Charles Manson. A devotee of Asian cinema, Tommy was an expert on 'Beat' Takeshi Kitano and co-wrote an English language biography on the Japanese actor and director. He died in 2019."
-      ],
-      "content_complete": true,
-      "artists": [
-        {
-          "id": "at-the-gates",
-          "name": "At The Gates"
-        },
-        {
-          "id": "marillion",
-          "name": "Marillion"
-        },
-        {
-          "id": "pink-floyd",
-          "name": "Pink Floyd"
-        },
-        {
-          "id": "steven-wilson",
-          "name": "Steven Wilson"
-        }
-      ],
-      "original_title": "Was Meddle the last Pink Floyd album that combined all their powers?",
-      "topics": [
-        "releases"
-      ],
-      "media_checked_at": 1793468654
-    },
-    {
-      "id": "e4b59390d4358f5a333b98c3d1776a522b4336b4",
-      "title": "Steve Hackett отражает индукцию рок-холла Genesis",
-      "short": "Когда Phil Collins будет введен в Rock and Roll Hall of Fame в следующем месяце, это будет второй раз, когда он будет удостоен чести учреждения. Первый кивок был сделан в 2010 году с помощью Genesis. Легенды английского прогрессив-рока получили достойную дань от Phish, который исполнил две песни той ночью, в том числе особенно мощную версию \"Watcher of the Skies\" от Peter…",
-      "paragraphs": [
-        "Когда Phil Collins будет введен в Rock and Roll Hall of Fame в следующем месяце, это будет второй раз, когда он будет удостоен чести учреждения.",
-        "Первый кивок был сделан в 2010 году с помощью Genesis. Легенды английского прогрессив-рока получили достойную дань от Phish, который исполнил две песни той ночью, в том числе особенно мощную версию \"Watcher of the Skies\" от Peter Gabriel эры группы.",
-        "Трей Анастасио из группы выступил с речью, чтобы ввести Genesis, так как несколько участников, включая Коллинза, басиста / гитариста Mike Rutherford, клавишника Тони Бэнкса и гитариста Steve Hackett, смотрели.",
-        "Спустя более десяти лет Хакетт вспоминает, что это был интересный вечер на нескольких уровнях. Я знаю, что они хотели, чтобы группа выступила, и в тот момент, вы знаете, Филу было очень плохо. UCR . Этот конкретный состав группы [также] не работал вместе в течение очень многих лет.",
-        "«Но прелесть была в том, что Анастасио встал и начал говорить хорошие вещи не только о Genesis, но и о некоторых методах, которые я придумал, и это был его первый залп», — вспоминает он с улыбкой. «Я думал, что ребята сидят здесь, чтобы послушать это, и они, вероятно, очень раздражаются по этому поводу».",
-        "«Но факт в том, что мы не выступали, и другая группа была американской группой», - продолжает он. «Позвольте мне сразу сказать, я думаю, что Rock and Roll Hall of Fame является великим американским институтом. У нас нет ничего подобного в Великобритании. Замечательно то, что люди празднуются не только в то время, когда они живут, но и когда они проходят. Некоторых людей вводят слишком поздно, чтобы присутствовать на церемонии, буквально».",
-        "Как говорит гитарист, он был в процессе сотрудничества с Yes басист Chris Squire , который в конечном итоге был выпущен под названием Squackett и их альбомом 2012 года, A Life Within a Day .",
-        "К сожалению, Сквайр скончался в 2015 году, прежде чем Yes нашли свой путь в Рок-Холл. Но он надеялся быть там для Хакетта и Genesis. Хотя Стив не смог этого сделать, он нашел другой способ убедиться, что его приятель был частью вечера.",
-        "«Он хотел прийти в ночь, когда нас ввели в должность, и я буквально сказал: «Смотрите, я не могу вас впустить», — говорит Хакетт. Он думал, что я пытаюсь держать его подальше, и я сказал нет, я хотел, чтобы он был там. Это было бы здорово».",
-        "Когда я встретился с прессой, я сказал: «Знаете, я думаю, что Yes также должен быть введен», и это вызвало небольшой ажиотаж с Genesis. Они стояли в четырех футах от меня, говоря: «Он с вами?»",
-        "\"Но, действительно, это то, что [позже] произошло [когда был введен Yes]. Так что я оказался прав, и я думаю, что это важно, - объясняет он. \"Хорошо, так что можно сказать, что Genesis были первой прогрессивной группой или группой, которая когда-то была прогрессивной, первой прогрессивной группой, которая была введена в Rock and Roll Hall of Fame. Но вскоре за нами последовали ребята, которые предшествовали нам, и это был Yes.",
-        "В следующем году легендарный гитарист Genesis привезет в Северную Америку свой долгожданный тур Best of Genesis and Solo Gems. Поход, который в этом году ведет оживленный бизнес за рубежом, откроется здесь 10 апреля в Атланте и продлится около месяца, кульминацией которого станет трио специальных симфонических шоу в Квебеке. Вы можете увидеть все даты ниже.",
-        "Удивительно, но материал с альбома Squackett, который он сделал с Squire, является одной из областей, которую Хакетт не посещал со своей сольной группой. Он говорит UCR, что он открыт для этой идеи.",
-        "«Ну, вы знаете, это было бы очень интересно сделать в один прекрасный день», — говорит он. Я думаю, что 'A Life Within a Day' был интересным треком, с которого мы начали альбом. [Но] никто не предполагает, что [мы играем песни с этого альбома на концерте сейчас]. Мы не смогли выступить вместе вживую, и на этом альбоме есть более одной отличной песни».",
-        "\"Я думаю, что это началось очень сильно и закончилось очень сильно. Вот как я это увидел, — добавляет он. И Крис был открыт для всех моих лирических идей, так что это было очень интересно. Мы заблудились в маловероятных местах. Can't Stop the Rain \", которая была очень отложена, но очень красиво произведена, если можно так сказать\".",
-        "10 апреля — Atlanta, GA — Center Stage Theater 13 апреля — Washington, DC — Warner Theatre 15 апреля — Collingswood, NJ — Scottish Rite Auditorium 16 апреля — Collingswood, NJ — Scottish Rite Auditorium 17 апреля — Lansdowne, PA — Lansdowne Theater 19 апреля — Ridgefield, CT — Ridgefield Playhouse 20 апреля — Ridgefield, CT — Ridgefield Playhouse 21 апреля — New York, NY — The Town Hall 23 апреля — Albany, NY — The Egg — Hart Theatre 24 апреля — Boston, MA — Berklee Performance Center 27 апреля — Akron, OH — Goodyear Theater 28 апреля — Buffalo, NY — UB Center for the Arts 29 апреля — Ithaca, NY — State Theatre of Ithaca 1 мая — Toronto, ON — Massey Hall 2 мая — Ottawa, ON — Hard Rock Hotel & Casino Ottawa 4 мая — Montréal, QC — Théâtre St-Denis 6 мая — Québec, QC — Palais Montcalm"
-      ],
-      "category": "Прогрессив",
-      "source": "Ultimate Classic Rock",
-      "published": "2026-10-30T17:55:37+00:00",
-      "original_url": "https://ultimateclassicrock.com/steve-hackett-genesis-rock-hall-induction/",
-      "saved_at": 1793468648,
-      "media": [
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-genesis-gettyimages-97745235.jpg?w=1200&q=75&format=natural",
-          "caption": ""
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-genesis-gettyimages-97745235.jpg?w=980&q=75",
-          "caption": "Steve Hackett Reflects on Genesis’ Rock Hall Induction in 2010"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/07/attachment-ian-gillan-2.jpg?w=980&q=75",
-          "caption": "‘Medical Emergency’ Forces Deep Purple to Postpone Shows"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-three-fingers-gettyimages-1180847593.jpg?w=980&q=75",
-          "caption": "The Studio Triple Albums That Changed Rock History"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/08/attachment-triumph2026-gettyimages-2278973442.jpg?w=980&q=75",
-          "caption": "Triumph Cancels Remaining 2026 Tour Dates"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-km_15366_x39mtlr4.jpg?w=980&q=75",
-          "caption": "Is This the End of the Road for Aerosmith?"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-annwilson-gettyimages-2275250132.jpg?w=980&q=75",
-          "caption": "Watch Heart Put Their Spin on Aerosmith’s ‘Janie’s Got a Gun’"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-aerosmith2026.jpeg?w=980&q=75",
-          "caption": "Aerosmith’s Comeback Concert: Check Out the Full Set List and Video Here"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-gettyimages-2231274363.jpg?w=980&q=75",
-          "caption": "Here Are the ‘Big 4’ of Halloween Rock Songs"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-hagar-point.jpg?w=980&q=75",
-          "caption": "Sammy Hagar Brings Signature Swagger to Aerosmith Comeback Show"
-        },
-        {
-          "type": "image",
-          "url": "https://townsquare.media/site/295/files/2026/10/attachment-axl-rose-1-1.jpg?w=980&q=75",
-          "caption": "Guns N’ Roses Ignites the Hollywood Bowl at Aerosmith Event: Videos, Set List"
-        },
-        {
-          "type": "link",
-          "url": "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fultimateclassicrock.com%2Fsteve-hackett-genesis-rock-hall-induction%2F%3Ftrackback%3Dfbshare_mobile",
-          "caption": "SHARE"
-        },
-        {
-          "type": "link",
-          "url": "http://twitter.com/intent/tweet?text=Steve%20Hackett%20Reflects%20on%20Genesis%E2%80%99%20Rock%20Hall%20Induction%20in%202010%20http%3A%2F%2Fultimateclassicrock.com%2Fsteve-hackett-genesis-rock-hall-induction%2F%3Ftrackback%3Dtwitter_mobile%20%40UltClassicRock",
-          "caption": "TWEET"
-        },
-        {
-          "type": "video",
-          "url": "https://youtu.be/UjuBWz4yIjg?si=ZQSNvrYW9hdAQUQP",
-          "caption": "Can't Stop the Rain"
-        }
-      ],
-      "original_paragraphs": [
-        "When Phil Collins is inducted into the Rock and Roll Hall of Fame next month, it will be the second time he's been honored by the institution.",
-        "The first nod came in 2010 with Genesis . The English progressive rock legends received a worthy tribute from Phish , who performed two songs that night, including a particularly potent version of \"Watcher of the Skies\" from the Peter Gabriel era of the band.",
-        "The group's Trey Anastasio gave the speech to induct Genesis, as several of the members, including Collins, bassist/guitarist Mike Rutherford , keyboardist Tony Banks and guitarist Steve Hackett looked on.",
-        "Now more than a decade later, Hackett recalls that it was an interesting evening on a number of levels. \"I know they wanted the band to perform, and at that point, you know, Phil was very unwell,\" he tells UCR. \"That particular lineup of the band [also] had not worked together for very many years.\"",
-        "\"But the lovely thing was, you know, [Anastasio] got up and started saying nice things about not just Genesis, but also some of the techniques I'd come up with, and this was [his] opening salvo,\" he remembers with a smile. \"I thought that the guys are sitting here having to listen to this, and they're probably getting really peeved about this.\"",
-        "\"But the fact is, we weren't performing, and another band [that] was an American band was,\" he continues. \"Let me say straight away, I think that the Rock and Roll Hall of Fame is a great American institution. We haven't got anything like that in the U.K. The wonderful thing is that people are not just celebrated while they're living, but also, when they pass. Some people get inducted too late to attend the ceremony, literally.\"",
-        "As the guitarist shares, he'd been in the midst of a collaboration with Yes bassist Chris Squire , which was eventually released under the band name Squackett and their 2012 album, A Life Within a Day .",
-        "Unfortunately, Squire passed away in 2015 before Yes found their way into the Rock Hall. But he hoped to be there for Hackett and Genesis. Though Steve wasn't able to make that happen, he found a different way to make sure his mate was part of the evening.",
-        "\"He wanted to come along to the night that we were inducted and I literally said, 'Look, I can't get you in,'\" Hackett says now. \"He thought I was trying to keep him out and I said no, I wanted him there. That would have been great.\"",
-        "\"When I got to meet the press I said, 'You know, I think that Yes should be inducted too' and that caused a bit of a stir with Genesis,\" he chuckles. \"[They] were standing four feet away from me, saying, 'Is he with you ?'\"",
-        "\"But indeed, that's what [later] happened [when Yes were inducted]. So I was proven right and I think it's important,\" he explains. \"Okay, so you could say Genesis were the first progressive band, or a band that had one time been progressive, the first progressive band, to be inducted into the Rock and Roll Hall of Fame. But shortly to be followed by the guys who had preceded us, and that was Yes.\"",
-        "Next year, the Genesis guitar legend will bring his highly anticipated Best of Genesis and Solo Gems tour to North America. The trek, which has been doing busy business this year overseas, will open here on April 10 in Atlanta and will run for close to a month, culminating with a trio of special symphonic shows in Quebec. You can see all of the dates below.",
-        "Surprisingly, material from the Squackett album he did with Squire is one area that Hackett hasn't visited with his solo band. He tells UCR he's open to the idea.",
-        "\"Well, you know that would be a very interesting thing to do one day,\" he says. \"I think 'A Life Within a Day' was an interesting track, which we we kicked off the album with. [But] no one suggests that [we play songs from that record in concert now]. We didn't get to do any live gigs together [and] there's more than one great song on that album.\"",
-        "\"I think that it started very strong and ended very strong. That's how I saw it,\" he adds. \"And [Chris] was open to all my lyrical ideas, so that was very interesting. We strayed into some unlikely areas [like] ' Can't Stop the Rain ,' which was very laid back but very beautifully produced, if I may say so.\"",
-        "April 10 — Atlanta, GA — Center Stage Theater April 13 — Washington, DC — Warner Theatre April 15 — Collingswood, NJ — Scottish Rite Auditorium April 16 — Collingswood, NJ — Scottish Rite Auditorium April 17 — Lansdowne, PA — Lansdowne Theater April 19 — Ridgefield, CT — Ridgefield Playhouse April 20 — Ridgefield, CT — Ridgefield Playhouse April 21 — New York, NY — The Town Hall April 23 — Albany, NY — The Egg - Hart Theatre April 24 — Boston, MA — Berklee Performance Center April 27 — Akron, OH — Goodyear Theater April 28 — Buffalo, NY — UB Center for the Arts April 29 — Ithaca, NY — State Theatre of Ithaca May 1 — Toronto, ON — Massey Hall May 2 — Ottawa, ON — Hard Rock Hotel & Casino Ottawa May 4 — Montréal, QC — Théâtre St-Denis May 6 — Québec, QC — Palais Montcalm"
-      ],
-      "content_complete": true,
-      "artists": [
-        {
-          "id": "genesis",
-          "name": "Genesis"
-        }
-      ],
-      "original_title": "Steve Hackett Reflects on Genesis’ Rock Hall Induction",
-      "topics": [],
-      "media_checked_at": 1793468654
     }
   ]
 }

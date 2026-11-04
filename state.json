@@ -1381,49 +1381,17 @@
     "0dfea7360abc28fce5f60f0237aa1a466aee151b",
     "db4355940d82e4f488ac9df954562f18e42497aa",
     "fad81aecb94732f1ae5d024e116d6db65eea83c5",
-    "465120ebae1296ecf4f02d54045e922f0180464a"
+    "465120ebae1296ecf4f02d54045e922f0180464a",
+    "aea500a4454dc3345ae289d11b9acd2883d8c3ca",
+    "680d96b9746e7604262d8252e75c2f21f22df94e",
+    "611a613c2a9191ee10dc48db845e8979b4af199c",
+    "8e2231f6c64bfa5a0fd933665b730f7ccd546d07",
+    "9f50cb304e247a990389569e3ad2d0c1186277e8",
+    "b074434452f1d91df38bf1162ac57af66e5f6aea",
+    "93ed264936efe0dd0b831c71e9635a59bbb92d8f",
+    "1c6e86a652834daa94d93f69126293cdd7490737"
   ],
   "recent_titles": [
-    {
-      "title": "Новое видео DIARY OF DREAMS",
-      "source": "Darkside",
-      "ts": 1793407313
-    },
-    {
-      "title": "Bryan Adams takes aim at Donald Trump on unexpected new protest song, comparing US President to \"a baby tossing toys from the pram\"",
-      "source": "Louder",
-      "ts": 1793407324
-    },
-    {
-      "title": "Lamb of God announce 2028 Headbangers Boat cruise with Paleface Swiss, Bleed From Within, Heriot, and more",
-      "source": "Louder",
-      "ts": 1793407340
-    },
-    {
-      "title": "Finger Eleven’s “Them Vs. You Vs. Me” Set For First Vinyl Release",
-      "source": "ThePRP",
-      "ts": 1793407344
-    },
-    {
-      "title": "BABYBEARD в новом клипе SAMURAI PIZZA CATS",
-      "source": "Darkside",
-      "ts": 1793407346
-    },
-    {
-      "title": "Holy Wars Premiere “I.F.O.Y.G.” Music Video",
-      "source": "ThePRP",
-      "ts": 1793407350
-    },
-    {
-      "title": "Power Trip Invite Fans To Attend Dallas, TX Music Video Shoot/Live Show",
-      "source": "ThePRP",
-      "ts": 1793407356
-    },
-    {
-      "title": "TEETH Seek Fans For Their Upcoming Music Video Shoot In Hamilton, ON",
-      "source": "ThePRP",
-      "ts": 1793407360
-    },
     {
       "title": "Steven Wilson is working on a new Storm Corrosion album",
       "source": "Louder",
@@ -2183,6 +2151,46 @@
       "title": "Новое видео KING SATAN",
       "source": "Darkside",
       "ts": 1793791304
+    },
+    {
+      "title": "Лидер ANTHRAX: «Больше всего я люблю AC/DC с Боном Скоттом»",
+      "source": "Darkside",
+      "ts": 1793817891
+    },
+    {
+      "title": "Фанаты недовольны тем, как JOEY BELLADONNA спел гимн США",
+      "source": "Darkside",
+      "ts": 1793817892
+    },
+    {
+      "title": "Новое видео CHARLOTTE WESSELS",
+      "source": "Darkside",
+      "ts": 1793817894
+    },
+    {
+      "title": "Katatonia & Bonnie Trash To Embark On Spring 2027 European Tour",
+      "source": "ThePRP",
+      "ts": 1793817899
+    },
+    {
+      "title": "HALLOWEEN ’26: A PLAYLIST OF SCARY AND HAUNTING EXTREME METAL",
+      "source": "No Clean Singing",
+      "ts": 1793817935
+    },
+    {
+      "title": "Metallica Release “Sad But True” Live Video From Their The Sphere Residency",
+      "source": "ThePRP",
+      "ts": 1793817940
+    },
+    {
+      "title": "Sevendust & Caligula’s Horse To Tour Australia In February",
+      "source": "ThePRP",
+      "ts": 1793817944
+    },
+    {
+      "title": "Converge Booked For 2027 Australian/New Zealand Tour With Extortion, Ends In Tragedy, Portrayal Of Guilt & Wiegedood",
+      "source": "ThePRP",
+      "ts": 1793817951
     }
   ],
   "initialized_sources": [
@@ -6212,6 +6220,249 @@
       "category": "Хард-рок",
       "published": "2026-11-04T04:05:00+00:00",
       "id": "d99cffe5e300da861afb0b418864fe28799b1fb6",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Imperial Triumphant Sign With Metal Blade Records, New Album On The Way",
+      "link": "https://www.theprp.com/2026/11/04/news/imperial-triumphant-sign-with-metal-blade-records-new-album-on-the-way/",
+      "rss_body": "Recording sessions recently wrapped for it.",
+      "tags": "News Imperial Triumphant",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T17:27:20+00:00",
+      "id": "aecb7b2632eacf767869faf28a14aa015dda18f2",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "A Post-Hardcore Band Currently Has the Third Biggest Song on TikTok",
+      "link": "https://metalinjection.net/news/a-post-hardcore-band-currently-has-the-third-biggest-song-on-tiktok",
+      "rss_body": "Harry Styles... Tate McRae... and a Hail the Sun/Eidola/Sianvar offshoot.",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T17:26:38+00:00",
+      "id": "090544675f69343ce53213e6adcf99b741f98860",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Watch Metallica unload Battery in latest pro-shot footage from Las Vegas Sphere residency",
+      "link": "https://www.loudersound.com/news/metallica-play-battery-live-footage-las-vegas-sphere-2026",
+      "rss_body": "40 years after releasing their magnum opus\n\nMaster Of Puppets\n\n, Metallica have proved that they can still dish out the thrash, sharing live footage of a recent\n\nBattery\n\nperformance.\n\nThe US heavy metal giants have been playing the 1986 album opener as part of their ongoing residency at Las Vegas multimedia venue the Sphere, and now a pro-shot video of them blazing through it during the October 15 date has made it onto their YouTube channel. Watch below.\n\nMetallica’s Sphere shows kicked off on October 1, and the band have resurrected a number of oldies for the five-month stint. On the opening night, the title track of 1988’s\n\n…And Justice For All\n\nwas played for the first time since 2014. At a later show,\n\nReload\n\ndeep cut\n\nDevil’s Dance\n\nwas dusted off for the first time since 2008\n\n.\n\nBattery\n\nhas been a fixture of Metallica’s setlist since it first came out, but October 1 marked the first time the track had opened one of their shows since 2014. It was also the opener at the recorded October 15 date.\n\nThe Sphere shows have been a great success for the veteran four-piece, with all of their planned dates there having long since sold out. However, it’s not been trouble-free. On October 10, singer/guitarist James Hetfield took the stage and told concertgoers that, unlike other “entertainers”, Metallica didn’t want to\n\n“influence you with their bullshit”\n\n.\n\nThe statement, made weeks after pop singer Macklemore was booted off a tour with Ed Sheeran for making pro-Palestine speeches onstage, sparked controversy. Even ex-Pink Floyd bassist/vocalist Roger Waters piled on, saying Hetfield has\n\n“an IQ of about three”\n\n. Hetfield has not publicly responded to the furore;\n\nHammer\n\napproached Metallica’s representatives for comment on Waters’ words.\n\nNonetheless, Metallica’s shows continued as planned, including a special Halloween show on Saturday (October 31), where they played 1991’s werewolf-inspired\n\nOf Wolf And Man\n\n. Bassist Robert Trujillo and lead guitarist Kirk Hammett jammed a rendition of the\n\nAddams Family\n\ntheme tune shortly after.\n\nThe band will return to the Sphere on Thursday and Saturday. After that, they’ll play two intimate shows at the Mohegan Sun Arena in Connecticut on November 19 and 21, celebrating the venue’s 25th anniversary. Their Sphere residency will restart in January.\n\nAfter the residency wraps up on March 13, the band will continue their\n\nM72\n\nworld tour with a leg of North American shows, supported by\n\nLimp Bizkit\n\nand Avatar. See their full itinerary below.\n\nMetallica tour dates:\n\nNov 05: Las Vegas Sphere, NV\n\nNov 07: Las Vegas Sphere, NV\n\nNov 19: Uncasville Mohegan Sun Arena, CT\n\nNov 21: Uncasville Mohegan Sun Arena, CT\n\nJan 28: Las Vegas Sphere, NV\n\nJan 30: Las Vegas Sphere, NV\n\nFeb 04: Las Vegas Sphere, NV\n\nFeb 06: Las Vegas Sphere, NV\n\nFeb 18: Las Vegas Sphere, NV\n\nFeb 20: Las Vegas Sphere, NV\n\nFeb 25: Las Vegas Sphere, NV\n\nFeb 27: Las Vegas Sphere, NV\n\nMar 04: Las Vegas Sphere, NV\n\nMar 06: Las Vegas Sphere, NV\n\nMar 11: Las Vegas Sphere, NV\n\nMar 13: Las Vegas Sphere, NV\n\nMay 08: Vancouver BC Place, BC\n\nMay 13: San Diego Snapdragon Stadium, CA\n\nMay 18: El Paso Sun Bowl Stadium, TX\n\nMay 22: San Antonio Alamodome, TX\n\nMay 26: Fayetteville Razorback Stadium, AR\n\nMay 29: Kansas City Arrowhead Stadium, MO\n\nJun 02: Raleigh Carter-Finley Stadium, NC\n\nJun 05: Indianapolis Lucas Oil Stadium, IN\n\nJun 08: Buffalo Highmark Stadium, NY\n\nJun 12: Madison Camp Randall Stadium, WI\n\nJun 15: Cleveland Huntington Bank Field, OH\n\nJun 19: Salt Lake City Rice-Eccles Stadium, UT",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T17:00:00+00:00",
+      "id": "94687fabcd41ee4a63b194f4e666654fa851a812",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Iron Maiden launch Somewhere In Time graphic novel",
+      "link": "https://www.loudersound.com/culture/merchandise/iron-maiden-somewhere-in-time-graphic-novel",
+      "rss_body": "Graphic novel publisher Z2 have teamed up with\n\nIron Maiden\n\nfor a book celebrating the 40th anniversary of 1986's\n\nSomewhere In Time\n\nalbum.\n\nSomewhere In Time: The Graphic Album\n\nwill be published on March 2nd, 2027, and includes eight stories – each inspired by one of\n\nSomewhere In Time\n\n's eight tracks – plus an epilogue and a prologue telling the story of the moments leading up to the moment portrayed on the\n\nalbum's iconic cover\n\n, a classic Derek Riggs illustration featuring several in-jokes and nods to the band's past.\n\n\"It's just a great version of Eddie, my favourite version of Eddie probably,\" says Iron Maiden guitarist Adrian Smith. \"There's a real power there, you know, a genuine power and menace. He's very muscular, isn't he? He looks like he’s been working out. Like I say, it complements the music, which is fantastic.\"\n\n\"\n\nSomewhere in Time\n\ndropped my senior year,\" says Z2 Editor-in-Chief Rantz Hoseley. \"And like many other writers and artists, everything about that album – the songs, the art, that powerful incarnation of Eddie – evoked a million possible stories. It’s such an honour to bring this creative team together to explore these worlds!\"\n\nThe package also includes an interview with Smith, conducted by Dave Shack of Phantom Music Management, which looks back at the making of\n\nSomewhere In Time.\n\nIt's available in several variants, including a signed platinum edition that includes 7\" vinyl editions of\n\nWasted Years\n\nand\n\nStranger In A Strange Land,\n\nboth released as singles in 1986.\n\nThis isn't the first time Iron Maiden have collaborated with Z2. In 2023, the publisher released a\n\ngraphic novel celebrating the 40th anniversary of Maiden's fourth album,\n\nPiece Of Mind\n\n, and in 2025 frontman\n\nBruce Dickinson\n\nworked with the company on the\n\ncomic book set that accompanied his album\n\nThe Mandrake Project\n\n.\n\nSomewhere In Time: The Graphic Album\n\nis\n\navailable to pre-order now\n\n.\n\nIron Maiden play a pair of shows in Zealand this weekend before heading to Australia and Japan. Last month, the band announced a US tour for 2027. Full dates below.\n\n(Image credit: Z2)\n\nIron Maiden: Run For Your Lives World Tour\n\nNov 07: Auckland Spark Arena, New Zealand\n\nNov 08: Auckland Spark Arena, New Zealand\n\nNov 11: Adelaide Entertainment Centre, Australia\n\nNov 13: Melbourne AAMI Park, Australia\n\nNov 15: Sydney Allianz Stadium, Australia\n\nNov 18: Brisbane Entertainment Centre, Australia\n\nNov 19: Brisbane Entertainment Centre, Australia\n\nNov 24: Yokohama K-Arena, Japan\n\nNov 25: Yokohama K-Arena, Japan\n\nApr 14: Tacoma Dome, WA\n\nApr 16: Vancouver Rogers Arena, Canada\n\nApr 18: Portland Moda Center, OR\n\nApr 20: Wheatland Toyota Amphitheatre, CA\n\nApr 22: Chula Vista North Island Credit Union Amphitheatre, CA\n\nApr 24: San Bernardino Glen Helen Amphitheater, CA\n\nApr 26: Phoenix Talking Stick Resort Amphitheatre, AZ\n\nApr 28: Dallas Dos Equis Pavilion, TX\n\nMay 01: Tampa Benchmark International Arena, FL\n\nMay 02: West Palm Beach iTHINK Financial Amphitheatre, FL\n\nMay 05 Atlanta Lakewood Amphitheatre, GA\n\nMay 07: Raleigh Coastal Credit Union Music Park at Walnut Creek, NC\n\nMay 09: Hartford The Meadows Music Theatre, CT\n\nMay 11: Belmont Park UBS Arena, NY\n\nMay 14: Sonic Temple, OH\n\nMay 16: Boardwalk Rock, MD\n\nFind Iron Maiden tickets\n\n.",
+      "tags": "Merchandise Culture",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T15:00:00+00:00",
+      "id": "73abf5d9c578ce58cc0e85d060a938637c1148eb",
+      "duplicate_ids": [
+        "05106b5e97f2dc2f00fce2c0d2b629e313bade79"
+      ],
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS PREMIERE: WITCHGÖAT — “STORMING THE WALLS OF ETERNITY”",
+      "link": "https://www.nocleansinging.com/2026/11/04/an-ncs-premiere-witchgoat-storming-the-walls-of-eternity/",
+      "rss_body": "(written by Islander) “With a name like Witchgöat, it’s safe to say we are probably not dealing with the latest Avant-Garde, Prog Metal sensation to sweep through the scene. Instead, these Salvadorians lay waste to everyone and everything in sight with their brand of Blackened Death/Thrash.” That’s how NCS writer Todd Manning began his review\n\n[...]",
+      "tags": "Premieres Witchgöat",
+      "category": "Прогрессив",
+      "published": "2026-11-04T16:55:15+00:00",
+      "id": "c56ecfa607764dc8d64eabb779c03ef4eb7efeae",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Hatebreed Premiere “Decisions Become Destinies” Music Video",
+      "link": "https://www.theprp.com/2026/11/04/news/hatebreed-premiere-decisions-become-destinies-music-video/",
+      "rss_body": "Their new album \"Fatal Paradox\" will follow this Friday.",
+      "tags": "News Hatebreed",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T16:54:55+00:00",
+      "id": "f2f80669e7e35ecc6c5f8f726c5c6a6e0a8835fd",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "METAL & BEER FEST: DENVER 2026 Is Just ONE MONTH AWAY! Got Your Tickets?",
+      "link": "https://www.decibelmagazine.com/2026/11/04/metal-beer-fest-denver-2026-is-just-one-month-away-got-your-tickets/",
+      "rss_body": "We are just ONE MONTH AWAY from Decibel Magazine’s return to Denver for its fifth round of\n\nMetal & Beer Fest\n\n. We’re tapping the Fillmore Auditorium as home of the world’s loudest, heaviest, most extreme craft beer festival on Friday and Saturday, December 4-5, 2026. Don’t miss history in the making!\n\nDECEMBER 4 (at Fillmore Auditorium)\n\nSuicidal Tendencies\n\nPig Destroyer\n\n(special\n\nProwler in the Yard\n\nset)\n\nCro-Mags\n\n(special\n\nThe Age of Quarrel\n\nset)\n\nBlack Breath\n\nHaggus\n\nDECEMBER 5 (at Fillmore Auditorium)\n\nDown\n\nKylesa\n\nWayfarer\n\nIntronaut\n\nIn the Company of Serpents\n\nReady to face all of that and a dozen of North America’s heaviest craft breweries? Limited three-day and two-day passes are still available, but don’t wait until they’re kicked!\n\nDECEMBER 4 TICKETS\n\nDECEMBER 5 TICKETS\n\nTWO-DAY TICKETS\n\nTHREE-DAY TICKETS (INCLUDES PRE-FEST)",
+      "tags": "Metal and Beer Metal and Beer Fest Black Breath Cro-Mags Decibel Metal and Beer Fest Denver Down Haggus home featured In The Company of Serpents Kylesa pig destroyer suicidal tendencies wayfarer",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T16:48:34+00:00",
+      "id": "fcb41871670a3d49104860a03955cca92fa431eb",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Ghost Celebrate “Mary On A Cross” Hitting 1 Billion Streams On Spotify With New Video Retrospective",
+      "link": "https://www.theprp.com/2026/11/04/news/ghost-celebrate-mary-on-a-cross-hitting-1-billion-streams-on-spotify-with-new-video-retrospective/",
+      "rss_body": "The unexpected success of the b-side continues to hit new heights.",
+      "tags": "News Ghost Tobias Forge",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T16:42:05+00:00",
+      "id": "3178136d8e46d9bbd19fbb1b8040c72f81b44625",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Breaking Benjamin, Starset, P.O.D. & Filter Set For Early 2027 U.S. Tour",
+      "link": "https://www.theprp.com/2026/11/04/news/breaking-benjamin-starset-p-o-d-filter-set-for-early-2027-u-s-tour/",
+      "rss_body": "In February & March to be exact.",
+      "tags": "News Breaking Benjamin Filter P.O.D. Starset",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T16:19:17+00:00",
+      "id": "0efeee73d641e8e91931c11f9e9a8824a72883d3",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "HATEBREED – FATAL PARADOX",
+      "link": "https://www.nocleansinging.com/2026/11/04/hatebreed-fatal-paradox/",
+      "rss_body": "(Andy Synn says that these old dogs still bite just as hard as ever on their new album, out Friday) What more is there to say about Hatebreed? After all, we’re talking about a band who have been Hardcore royalty for almost thirty years now, and a veritable institution in the Metal scene for almost as\n\n[...]",
+      "tags": "Album Reviews Andy Synn Hatebreed",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T16:07:46+00:00",
+      "id": "9ba2bdf3d25e77064a2b36e159bc915212c29831",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Looks like Will Smith moshed to Animals As Leaders at his daughter Willow’s birthday party on Halloween",
+      "link": "https://www.loudersound.com/news/will-smith-moshed-animals-as-leaders-daughter-willow-birthday-party-2026",
+      "rss_body": "Will Smith appears to have been spotted moshing to tech-metal darlings\n\nAnimals As Leaders\n\nat an intimate show for his daughter’s birthday.\n\nFootage of the Academy Award-winning actor and Grammy-winning rapper seemingly going wild to the Washington DC band at a private party on Halloween was shared on Instagram by New York drummer Marco Cirigliano. Watch below.\n\nThe short clip shows the\n\nIndependence Day\n\nand\n\nMen In Black\n\nstar smiling, jumping and nudging into others, to the sound of virtuoso soloing from the progressive three-piece. According to Cirigliano, he was there to celebrate his daughter Willow’s 26th birthday.\n\nWillow is an actor and musician who attained early success with her 2010 hip-hop single\n\nWhip My Hair\n\n, before transitioning into alt-rock and pop-punk in the 2020s. Her latest albums, this year’s\n\nPetal Rock Black\n\nand\n\nThe Thread\n\n, were more experimental efforts with jazz and progressive sounds.\n\nWillow, who releases her music mononymously, spoke about her love for rock during a 2022\n\nGuitar World\n\ninterview, calling the genre “expansive”.\n\n“People focus on pop-punk a lot,” she said. “We all love pop-punk, it’s beautiful and amazing. But let’s not forget the metal, thrash and classic rock. There are all these different forms that rock takes and all these different feelings it can express. This album [that year’s\n\nCoping Mechanism\n\n] is a love letter to all the flavours rock can have, from Smashing Pumpkins to Lamb Of God.”\n\nWillow’s foray into music follows her father’s success in the medium. 58-year-old Will broke through as a rapper with his hip-hop duo DJ Jazzy Jeff And The Fresh Prince, whose 1988 album\n\nHe’s The DJ, I’m The Rapper\n\nhas been certified three-times Platinum in the US, before parlaying that success into a film and TV career via 90s sitcom\n\nThe Fresh Prince Of Bel-Air\n\n.\n\nSince attracting widespread controversy in 2022 by slapping Chris Rock onstage at the Academy Awards, Will has returned to music.\n\nYou Can Make It\n\n, his first solo single since 2005, came out in 2024, followed by the album\n\nBased On A True Story\n\nin 2025. The album was met with mixed reviews and reached no.79 on the UK Album Downloads chart.\n\nMeanwhile, Animals As Leaders released their latest album,\n\nParrhesia\n\n, in 2022 and are working on a follow-up.\n\n“We are about to begin pre-production on an album,\" guitarist Tosin Abasi told\n\nGuitar World\n\nlast year. “We do have some touring – we’re headed to Europe in a few weeks – but I want to spend a portion of this year writing the record. In a perfect world, it’ll be written and recorded by the end of this year.”\n\nWillow is seemingly close friends with the instrumental band. In August, the musician\n\nposted a slideshow to Instagram\n\ndepicting her and Abasi playing the double-neck guitar/bass of Angine de Poitrine member Khn de Poitrine. “HOLY SHIT!!!!” she excitedly wrote as a caption.\n\nA post shared by Marco Cirigliano (@marcocirigliano)\n\nA photo posted by",
+      "tags": "Live Performances Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-11-04T16:00:00+00:00",
+      "id": "1f8b239a6fd2223935cd0e52f16d93f939dec644",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Imperial Triumphant Signs to Metal Blade, New Music Coming Soon",
+      "link": "https://metalinjection.net/news/imperial-triumphant-signs-to-metal-blade-new-album-coming-in-2027",
+      "rss_body": "\"Expect fresh decadence from Imperial Triumphant sooner than later.\"",
+      "tags": "Latest News IMPERIAL TRIUMPHANT",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T15:57:40+00:00",
+      "id": "a3e64008697d98727ea4b36a2d8028eb1735b787",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "STEVE VAI о дебютном альбоме SATCHVAI",
+      "link": "http://www.darkside.ru/news/184955/",
+      "rss_body": "STEVE VAI в новом интервью поговорил о дебютной пластинке \"The Sea Of Emotion\", релиз которой намечен на шестое ноября на earMUSIC. В частности на вопрос о том, каково ему было работать с JOE SATRIANI, он сказал:\n\n«Это один из моих самых любимых альбомов. Это для меня самая лучшая совместная работа, потому что у Joe невероятно тонкий музыкальный слух. И он фанат мелодий. Если вы послушаете его записи, то заметите, что в них в первую очередь есть мелодия, которая, как мне кажется, будет жить вечно. Но при этом он невероятно техничен и склонен к экспериментам с гитарой. Так что мы очень хорошо сработались.\n\nНо если я слышу от Joe мелодию, то мне нечего больше сказать, потому что она идеальна. Джо утончённый — очень утончённый — и в каком-то смысле очень изысканный в том, как он выстраивает свои мелодии и вкладывает в них смысл. И если мне попадалась одна из его мелодий, я должен был дополнить её гармонией, дополнительной дорожкой, ритмической партией или чем-то ещё. Это происходило по-разному. Я отправлял ему свои наработки. Он работал над ними и отправлял обратно. Я работал над ними и отправлял обратно. Затем он работал над ними. Это было прикольно.\n\nЯ бы не сказал, что мы безоговорочно принимали идеи друг друга. В большинстве случаев — да, потому что это того стоило, но мы обсуждали некоторые моменты, задумки песен и всё остальное. Это было действительно здорово.\n\nЕсли вы послушаете этот альбом, являясь любителем подобного жанра, то услышите песни, которые вы никогда не услышите ни на альбомах Satch, ни на альбомах Vai. Мы действительно многое сделали вместе, чтобы создать нечто особенное».\n\nНа вопрос о том, как они с Joe сочиняли «The Sea Of Emotion» — удалённо или в процессе совместного джема, — Steve ответил:\n\n«Да, удалённо. На пластинке есть один фрагмент, где мы действительно играем вместе в одной комнате, но мне было 13, а ему — около 16. Это начало песни \"The Sea Of Emotion Pt. 3 / Reflections On A Year And A Half\", потому что я брал уроки у Joe в течение двух или трёх лет.\n\nЭто началось, когда мне было 12, у него был катушечный магнитофон, и однажды, когда я играл уже полтора года, он его включил. Мы начали играть, а лет через 15 он прислал мне эту запись, и я её оцифровал. Она называлась \"Reflections On A Year And A Half\", потому что именно столько я играл.\n\nЯ её послушал. Там около семи минут, на которых мы, ещё подростки, импровизируем, и это было просто потрясающе. Когда я был помладше, у нас с Joe каждую неделю происходило нечто подобное. Так что я взял этот фрагмент и открыл им песню, третью часть, а затем доработал трек на основе того, что мы сыграли.\n\nПолучилось довольно круто».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T15:36:53+00:00",
+      "id": "391219f6ee12ecab0d1e0f2ae2cc03677e8c87f9",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Cult of Luna Recruit Gojira’s Joe Duplantier for New Single “Sadness Will Reign”",
+      "link": "https://metalinjection.net/new-music/listen-cult-of-luna-recruit-gojiras-joe-duplantier-for-new-single-sadness-will-reign",
+      "rss_body": "The new single arrives just a few days before Cult of Luna's new album 'In the Shadow of Your Shadow' is out.",
+      "tags": "New Music cult of luna Gojira",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T15:36:32+00:00",
+      "id": "b3882f401b34f9322c565c53f360cdaf530eb188",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS VIDEO PREMIERE: MACERATION — “LYCANTHROPIC CARNAGE”",
+      "link": "https://www.nocleansinging.com/2026/11/04/an-ncs-video-premiere-maceration-lycanthropic-carnage/",
+      "rss_body": "(written by Islander) The story of Maceration is such an interesting and inspiring one, at least if you’re a nerdy death metal historian. They began in roughly 1990 as a death metal side project of two guys (Jakob Schultz and Jacob Hansen) from the Danish thrash band Invocator, catching the building death metal wave in\n\n[...]",
+      "tags": "Premieres Maceration",
+      "category": "Экстремальный метал",
+      "published": "2026-11-04T14:54:58+00:00",
+      "id": "7c201c92f5092a126ce1696a416a25a5f66cb4fe",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "ROY KHAN: «Я не могу исполнять многие песни как это было раньше»",
+      "link": "http://www.darkside.ru/news/184616/",
+      "rss_body": "В недавнем интервью изданию El Cuartel Del Metal бывший вокалист KAMELOT, а ныне вокалист CONCEPTION ROY KHAN рассказал о своём продолжающемся латиноамериканском туре «The Black Halo And Beyond», в рамках которого он исполняет композиции с классического альбома KAMELOT 2005 года «The Black Halo», а также другие песни из своей карьеры. На вопрос, как он «справляется» с тем, что «потерял несколько нот в верхней части» своего вокального диапазона с момента записи «The Black Halo» более двух десятилетий назад, ROY ответил:\n\n«На самом деле этого не слышно. Мы поступаем с песнями так: часть из них мы опускаем на полтона или тон, в зависимости от того, насколько сложно мне их петь сегодня. И тогда это как вернуться в те времена, когда мой голос, мой регистр был чуть выше. Вот так мы с этим справляемся.\n\nСейчас есть педали понижения строя, которые можно использовать на басах и гитарах, и вот так это работает. Поэтому многие песни не в той же тональности, что в прежние времена. Раньше это было проблемой, потому что нельзя было по-настоящему перестроить гитары и бас, скажем, 20 лет назад, так, чтобы это не забивало звук и не делало его уродливым. Но сегодня технологии настолько хороши, что это можно сделать, и это огромная помощь. Иначе мне пришлось бы выстраивать вокальные линии несколько иначе, чем я делал раньше».\n\nЧто касается того, как изменение вокального диапазона повлияло на то, как он подходит к сочинению новой музыки, ROY сказал:\n\n«Я всегда люблю подталкивать себя до предела своих возможностей на записях. На альбомах мне нравится находиться на грани того, что я могу. И я по-настоящему не лез в по-настоящему, по-настоящему высокие регистры со времён CONCEPTION. На „Flow“ [1997], например, последнем альбоме, который мы сделали в 90-х, не было по-настоящему супервысокого вокала. Это закончилось ещё на „In Your Multitude“ [1995], давным-давно.\n\nТак что я на самом деле не чувствую, что думаю иначе, чем тогда. Я просто естественным образом пришёл к выводу, что мой голос звучит лучше в чуть более низком диапазоне. Конечно, многие захотят, чтобы я по-прежнему делал по-настоящему высокие вещи, и я могу, но у меня нет этого… Это более воздушно, это больше похоже на фальцет, чем было на самых первых записях CONCEPTION».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T14:37:50+00:00",
+      "id": "464a2b6640840310c0e31dcb7f66345420146e9e",
+      "retry_after": 0
+    },
+    {
+      "source": "Decibel",
+      "priority": 90,
+      "title": "Video Premiere: Virologist – “Maimed by the Therianthrope”",
+      "link": "https://www.decibelmagazine.com/2026/11/04/video-premiere-virologist-maimed-by-the-therianthrope/",
+      "rss_body": "Somewhere in Southern California, a group of young musicians has apparently swallowed an entire medical dictionary, developed a pathological aversion to conventional song structures and decided that brutal death metal simply wasn’t brutal enough. Meet\n\nVirologist\n\n.\n\nFormed in 2023 by then-17-year-old guitarist Emrys Mellinger, the Oxnard-based outfit has spent the intervening years refining an especially unpleasant strain of sonic pathology. Their debut full-length,\n\nSubjugation of Anthropoid Forms\n\n, delivers eight tracks and 27 minutes of anatomical atrocities, technical contortions and enough guttural hostility to warrant a visit from the CDC.\n\nToday, we’re administering a particularly nasty specimen: the video for “Maimed by the Therianthrope,” the fourth track from the forthcoming album. Consider it a concentrated dose of the biological unpleasantness Virologist has been cultivating.\n\nBut beneath the blastbeats and titles like “Irrational Omnicide by a Maniacal Egregodynamic Horde” lurks something almost wholesome: four musicians who genuinely believe brutal death metal can transcend its own limitations.\n\n“We set out not to create brutal death metal but rather to use it as a medium through which to convey all of our many other ideas and influences,” the band explains. “The state of music today is very contrived and image-dependent, and we strive to write songs that come from a sincere place to contrast with that.”\n\nWritten, recorded, and produced largely over three feverish months,\n\nSubjugation of Anthropoid Forms\n\ncaptures youthful ambition colliding with wholesale biological destruction.\n\nWe’re delighted to administer the first infectious dose below.\n\nSubjugation of Anthropoid Forms\n\narrives November 13 via New Standard Elite. Consider this your informed consent.\n\nCatch Virologist Live:\n\n11/13–11/14/2026 | SoCal Brutal Death Fest | El Monte, CA\n\n05/13–05/15/2027 | Nice To Eat You Deathfest | Czechia\n\n05/21–05/22/2027 | Rock the Hell Fest | Switzerland",
+      "tags": "Exclusive Featured Streaming Track Premiere Videos brutal death metal premiere Subjugation of Anthropoid Forms Virologist",
+      "category": "Экстремальный метал",
+      "published": "2026-11-04T14:30:00+00:00",
+      "id": "1f09a52d6b4abe16bc92a7067c20cfcbb4f03391",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "21 Rockers That Never Got a Chance to Play 'Saturday Night Live'",
+      "link": "https://ultimateclassicrock.com/rock-artists-that-never-played-snl/",
+      "rss_body": "For reasons we may never know, these folks simply didn't get the opportunity.",
+      "tags": "Galleries TV Black Sabbath Led Zeppelin Pink Floyd Saturday Night Live The Beatles UCR",
+      "category": "Хард-рок",
+      "published": "2026-11-04T13:38:51+00:00",
+      "id": "16f8b941c55c978c06db640ce0ee7e9f01a4fa46",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Cult Of Luna Premiere “Sadness Will Reign” Featuring Gojira’s Joe Duplantier",
+      "link": "https://www.theprp.com/2026/11/04/news/cult-of-luna-premiere-sadness-will-reign-featuring-gojiras-joe-duplantier/",
+      "rss_body": "In the shadow of their new studio album.",
+      "tags": "News Cult Of Luna Gojira Joe Duplantier",
+      "category": "Хэви-метал",
+      "published": "2026-11-04T13:30:00+00:00",
+      "id": "1f031f4fbd266a5b6b15fea902f58da0d5ab4684",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Katatonia announce Waking State Of Europe tour dates for March and April 2027",
+      "link": "https://www.loudersound.com/bands-artists/concerts-shows/katatonia-announce-waking-state-of-europe-tour-dates-for-march-and-april-2027",
+      "rss_body": "Swedish prog metallers\n\nKatatonia\n\nhave announced their Waking State Of Europe tour dates for March and April 2027.\n\nSadly, there are no UK dates in this run, although the band did appear as special guests to Opeth at the fellow Swede's headline show at The Piece Hall in Halifax back in August (coincidentally, Opeth's only UK show this year).\n\nThe run of dates continues the band's support of their 2025 album,\n\nNightmares As Extensions Of The Waking State\n\n,\n\nthe band's first album without co-founding guitarist\n\nAnders Nyström\n\n.\n\nKatatonia begin the tour in Hanover, Germany, on March 31, then travelling through central Europe before the tour comes to a close in their home country of Sweden, with a concert in Lund on April 17.\n\nSupport comes from Canadian post-punk outfit Bonnie Trash. You can see the full list of dates and ticket details below.\n\n(Image credit: Press)\n\nKatatonia Waking State Of Europe 2027 tour dates\n\nMar 31: GER Hanover Capitol\n\nApr 1: GER Dresden Tante Ju\n\nApr 2: POL Wroclaw Zaklęte Rewiry\n\nApr 3: CZE Brno Fléda\n\nApr 5: SLO Ljubljana Kino Šiška\n\nApr 7: ROM Cluj-Napoca Form Space\n\nApr 8: ROM Bucharest Quantic\n\nApr 9: BUL Sofia Joy Station\n\nApr 10: SRB Belgrade Hangar\n\nApr 12: CRO Zagreb Boogaloo Club\n\nApr 13: HUN Budapest Dürer Kert\n\nApr 14: POL Kraków Kwadrat\n\nApr 15: POL Gdansk B90\n\nApr 17: SWE Lund Mejeriet\n\nGet tickets\n\n.",
+      "tags": "Concerts & Shows Bands & Artists Live Performances",
+      "category": "Прогрессив",
+      "published": "2026-11-04T12:02:46+00:00",
+      "id": "0a72cb7cf38fdebe6ef45b1008e5e01ea72049f0",
       "retry_after": 0
     }
   ]
