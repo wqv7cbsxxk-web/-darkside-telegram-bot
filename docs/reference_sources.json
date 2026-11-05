@@ -36,7 +36,7 @@
           "source_url": "https://hulder.bandcamp.com/album/benighted-in-blood"
         }
       ],
-      "bandcamp_checked_at": "2026-11-03T23:44:55.237374+00:00"
+      "bandcamp_checked_at": "2026-11-05T00:01:39.913761+00:00"
     },
     "ac-dc": {
       "name": "AC/DC",
@@ -9983,7 +9983,7 @@
     "enter-shikari": {
       "name": "Enter Shikari",
       "musicbrainz_url": "https://musicbrainz.org/artist/329f95db-f02e-40bf-a5f7-0dea11529ce3",
-      "reference_checked_at": "2026-10-23T01:49:31.013309+00:00",
+      "reference_checked_at": "2026-11-05T00:01:28.616855+00:00",
       "genres": "alternative rock, electronic, electronicore, experimental, metalcore, nintendocore, post-hardcore, rave, rock, screamo",
       "website": "https://www.entershikari.com/",
       "members": [
@@ -10347,12 +10347,6 @@
           "source_url": "https://musicbrainz.org/release-group/a2564b02-3f1c-49c8-8c3c-47f22d5d3689"
         },
         {
-          "name": "Pack of Thieves",
-          "date": "2012",
-          "kind": "ep",
-          "source_url": "https://musicbrainz.org/release-group/a6073147-ddb3-42c2-a179-6682aeb11c9f"
-        },
-        {
           "name": "Stop the Clocks",
           "date": "2019-08-13",
           "kind": "ep",
@@ -10459,6 +10453,12 @@
           "date": "2018-11-29",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/cf9145ea-868b-4568-bbe7-10804a0c642d"
+        },
+        {
+          "name": "Lightyears",
+          "date": "2026-10-28",
+          "kind": "ep",
+          "source_url": "https://musicbrainz.org/release-group/d007aafb-5754-4a3d-b762-9d76df1c72d7"
         },
         {
           "name": "It Hurts",
@@ -34661,8 +34661,8 @@
     "dream-theater": "2026-11-04T11:22:31.349902+00:00",
     "eminem": "2026-11-04T18:46:10.840376+00:00",
     "emperor": "2026-11-04T18:46:12.132555+00:00",
-    "enslaved": "2026-10-23T01:49:26.729607+00:00",
-    "enter-shikari": "2026-10-23T01:49:31.013494+00:00",
+    "enslaved": "2026-11-05T00:01:22.140764+00:00",
+    "enter-shikari": "2026-11-05T00:01:28.617038+00:00",
     "entombed": "2026-10-23T06:45:42.702897+00:00",
     "exodus": "2026-10-23T06:45:43.988312+00:00",
     "fates-warning": "2026-10-23T12:14:27.612659+00:00",
