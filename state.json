@@ -1399,49 +1399,17 @@
     "77f4493c76a2899b775b8a520ef97f4e5c1e8e73",
     "c081797c8aaa54b3ffb0c0b3130c94e5fd80ef24",
     "86a2df94bdacda09712f5fbf3b35506f926854eb",
-    "e90c2149922af0913580c856e8eb05451a09cdb2"
+    "e90c2149922af0913580c856e8eb05451a09cdb2",
+    "6e4232e626f1f1196ec5d524be06eb34bfba6cf8",
+    "a5f52aa5d56360ac4d825a7a9121b7590bf12bca",
+    "0ef4d6a1218bf114bed6a3da614d54954f0d5329",
+    "8f03b34a92d7cb4da0d22da2f0cb227cfb6dac3f",
+    "aecb7b2632eacf767869faf28a14aa015dda18f2",
+    "94687fabcd41ee4a63b194f4e666654fa851a812",
+    "c56ecfa607764dc8d64eabb779c03ef4eb7efeae",
+    "f2f80669e7e35ecc6c5f8f726c5c6a6e0a8835fd"
   ],
   "recent_titles": [
-    {
-      "title": "Новая песня HAWTHORNE HEIGHTS",
-      "source": "Darkside",
-      "ts": 1793451250
-    },
-    {
-      "title": "Новое видео CURRENTS",
-      "source": "Darkside",
-      "ts": 1793451252
-    },
-    {
-      "title": "Новое видео A KILLER'S CONFESSION",
-      "source": "Darkside",
-      "ts": 1793451253
-    },
-    {
-      "title": "Новый альбом XENTRIX доступен для прослушивания",
-      "source": "Darkside",
-      "ts": 1793451255
-    },
-    {
-      "title": "Новое видео METAL CHURCH",
-      "source": "Darkside",
-      "ts": 1793451256
-    },
-    {
-      "title": "How an actor's Boris Karloff impression turned into the biggest Halloween hit of all time",
-      "source": "Louder",
-      "ts": 1793451292
-    },
-    {
-      "title": "Новое видео ROB ZOMBIE",
-      "source": "Darkside",
-      "ts": 1793451294
-    },
-    {
-      "title": "The Pretty Reckless, Chelsea Wolfe, Green Lung and more made us a Halloween playlist",
-      "source": "Louder",
-      "ts": 1793451333
-    },
     {
       "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): HAINTGROVE — “HAINTGROVE”",
       "source": "No Clean Singing",
@@ -2201,6 +2169,46 @@
       "title": "(hed)p.e.’s Jared Gomes To Undergo Total Knee Replacement Surgery This December",
       "source": "ThePRP",
       "ts": 1793836868
+    },
+    {
+      "title": "Stranger Things star Jamie Campbell Bower listened to Sleep Token to prep for his new Lord Of The Rings TV role",
+      "source": "Louder",
+      "ts": 1793860344
+    },
+    {
+      "title": "Watch Nita Strauss and Josh Villalta play Metallica, Iron Maiden and more at LA Rams halftime show",
+      "source": "Louder",
+      "ts": 1793860354
+    },
+    {
+      "title": "We Came As Romans Premiere “DEAD SILENT” Featuring Make Them Suffer",
+      "source": "ThePRP",
+      "ts": 1793860370
+    },
+    {
+      "title": "Zetra Drop The Corpse Paint & Cloaks For Their New Single “Adrena”",
+      "source": "ThePRP",
+      "ts": 1793860375
+    },
+    {
+      "title": "Imperial Triumphant Sign With Metal Blade Records, New Album On The Way",
+      "source": "ThePRP",
+      "ts": 1793860380
+    },
+    {
+      "title": "Watch Metallica unload Battery in latest pro-shot footage from Las Vegas Sphere residency",
+      "source": "Louder",
+      "ts": 1793860398
+    },
+    {
+      "title": "AN NCS PREMIERE: WITCHGÖAT — “STORMING THE WALLS OF ETERNITY”",
+      "source": "No Clean Singing",
+      "ts": 1793860412
+    },
+    {
+      "title": "Hatebreed Premiere “Decisions Become Destinies” Music Video",
+      "source": "ThePRP",
+      "ts": 1793860415
     }
   ],
   "initialized_sources": [
@@ -6233,18 +6241,6 @@
       "retry_after": 0
     },
     {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Imperial Triumphant Sign With Metal Blade Records, New Album On The Way",
-      "link": "https://www.theprp.com/2026/11/04/news/imperial-triumphant-sign-with-metal-blade-records-new-album-on-the-way/",
-      "rss_body": "Recording sessions recently wrapped for it.",
-      "tags": "News Imperial Triumphant",
-      "category": "Хэви-метал",
-      "published": "2026-11-04T17:27:20+00:00",
-      "id": "aecb7b2632eacf767869faf28a14aa015dda18f2",
-      "retry_after": 0
-    },
-    {
       "source": "Metal Injection",
       "priority": 92,
       "title": "A Post-Hardcore Band Currently Has the Third Biggest Song on TikTok",
@@ -6254,43 +6250,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-04T17:26:38+00:00",
       "id": "090544675f69343ce53213e6adcf99b741f98860",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Watch Metallica unload Battery in latest pro-shot footage from Las Vegas Sphere residency",
-      "link": "https://www.loudersound.com/news/metallica-play-battery-live-footage-las-vegas-sphere-2026",
-      "rss_body": "40 years after releasing their magnum opus\n\nMaster Of Puppets\n\n, Metallica have proved that they can still dish out the thrash, sharing live footage of a recent\n\nBattery\n\nperformance.\n\nThe US heavy metal giants have been playing the 1986 album opener as part of their ongoing residency at Las Vegas multimedia venue the Sphere, and now a pro-shot video of them blazing through it during the October 15 date has made it onto their YouTube channel. Watch below.\n\nMetallica’s Sphere shows kicked off on October 1, and the band have resurrected a number of oldies for the five-month stint. On the opening night, the title track of 1988’s\n\n…And Justice For All\n\nwas played for the first time since 2014. At a later show,\n\nReload\n\ndeep cut\n\nDevil’s Dance\n\nwas dusted off for the first time since 2008\n\n.\n\nBattery\n\nhas been a fixture of Metallica’s setlist since it first came out, but October 1 marked the first time the track had opened one of their shows since 2014. It was also the opener at the recorded October 15 date.\n\nThe Sphere shows have been a great success for the veteran four-piece, with all of their planned dates there having long since sold out. However, it’s not been trouble-free. On October 10, singer/guitarist James Hetfield took the stage and told concertgoers that, unlike other “entertainers”, Metallica didn’t want to\n\n“influence you with their bullshit”\n\n.\n\nThe statement, made weeks after pop singer Macklemore was booted off a tour with Ed Sheeran for making pro-Palestine speeches onstage, sparked controversy. Even ex-Pink Floyd bassist/vocalist Roger Waters piled on, saying Hetfield has\n\n“an IQ of about three”\n\n. Hetfield has not publicly responded to the furore;\n\nHammer\n\napproached Metallica’s representatives for comment on Waters’ words.\n\nNonetheless, Metallica’s shows continued as planned, including a special Halloween show on Saturday (October 31), where they played 1991’s werewolf-inspired\n\nOf Wolf And Man\n\n. Bassist Robert Trujillo and lead guitarist Kirk Hammett jammed a rendition of the\n\nAddams Family\n\ntheme tune shortly after.\n\nThe band will return to the Sphere on Thursday and Saturday. After that, they’ll play two intimate shows at the Mohegan Sun Arena in Connecticut on November 19 and 21, celebrating the venue’s 25th anniversary. Their Sphere residency will restart in January.\n\nAfter the residency wraps up on March 13, the band will continue their\n\nM72\n\nworld tour with a leg of North American shows, supported by\n\nLimp Bizkit\n\nand Avatar. See their full itinerary below.\n\nMetallica tour dates:\n\nNov 05: Las Vegas Sphere, NV\n\nNov 07: Las Vegas Sphere, NV\n\nNov 19: Uncasville Mohegan Sun Arena, CT\n\nNov 21: Uncasville Mohegan Sun Arena, CT\n\nJan 28: Las Vegas Sphere, NV\n\nJan 30: Las Vegas Sphere, NV\n\nFeb 04: Las Vegas Sphere, NV\n\nFeb 06: Las Vegas Sphere, NV\n\nFeb 18: Las Vegas Sphere, NV\n\nFeb 20: Las Vegas Sphere, NV\n\nFeb 25: Las Vegas Sphere, NV\n\nFeb 27: Las Vegas Sphere, NV\n\nMar 04: Las Vegas Sphere, NV\n\nMar 06: Las Vegas Sphere, NV\n\nMar 11: Las Vegas Sphere, NV\n\nMar 13: Las Vegas Sphere, NV\n\nMay 08: Vancouver BC Place, BC\n\nMay 13: San Diego Snapdragon Stadium, CA\n\nMay 18: El Paso Sun Bowl Stadium, TX\n\nMay 22: San Antonio Alamodome, TX\n\nMay 26: Fayetteville Razorback Stadium, AR\n\nMay 29: Kansas City Arrowhead Stadium, MO\n\nJun 02: Raleigh Carter-Finley Stadium, NC\n\nJun 05: Indianapolis Lucas Oil Stadium, IN\n\nJun 08: Buffalo Highmark Stadium, NY\n\nJun 12: Madison Camp Randall Stadium, WI\n\nJun 15: Cleveland Huntington Bank Field, OH\n\nJun 19: Salt Lake City Rice-Eccles Stadium, UT\n\nFind Metallica tickets",
-      "tags": "Live Performances Bands & Artists",
-      "category": "Хэви-метал",
-      "published": "2026-11-04T17:00:00+00:00",
-      "id": "94687fabcd41ee4a63b194f4e666654fa851a812",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AN NCS PREMIERE: WITCHGÖAT — “STORMING THE WALLS OF ETERNITY”",
-      "link": "https://www.nocleansinging.com/2026/11/04/an-ncs-premiere-witchgoat-storming-the-walls-of-eternity/",
-      "rss_body": "(written by Islander) “With a name like Witchgöat, it’s safe to say we are probably not dealing with the latest Avant-Garde, Prog Metal sensation to sweep through the scene. Instead, these Salvadorians lay waste to everyone and everything in sight with their brand of Blackened Death/Thrash.” That’s how NCS writer Todd Manning began his review\n\n[...]",
-      "tags": "Premieres Witchgöat",
-      "category": "Прогрессив",
-      "published": "2026-11-04T16:55:15+00:00",
-      "id": "c56ecfa607764dc8d64eabb779c03ef4eb7efeae",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Hatebreed Premiere “Decisions Become Destinies” Music Video",
-      "link": "https://www.theprp.com/2026/11/04/news/hatebreed-premiere-decisions-become-destinies-music-video/",
-      "rss_body": "Their new album \"Fatal Paradox\" will follow this Friday.",
-      "tags": "News Hatebreed",
-      "category": "Хэви-метал",
-      "published": "2026-11-04T16:54:55+00:00",
-      "id": "f2f80669e7e35ecc6c5f8f726c5c6a6e0a8835fd",
-      "retry_after": 0
+      "retry_after": 1793860681
     },
     {
       "source": "Decibel",
@@ -6470,7 +6430,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-04T20:18:32+00:00",
       "id": "e20aa9d9cae2afd33db437a5244e02cffc9bfa50",
-      "retry_after": 1793837137
+      "retry_after": 1793860665
     },
     {
       "source": "Metal Injection",
@@ -6482,7 +6442,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-04T20:10:00+00:00",
       "id": "2dee6415317db5134808668b7bf5e9f068a2210e",
-      "retry_after": 1793837137
+      "retry_after": 1793860665
     },
     {
       "source": "Metal Injection",
@@ -6494,31 +6454,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-04T19:33:36+00:00",
       "id": "84fc9cb0221674bc2bde2b0690178b5717752134",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "We Came As Romans Premiere “DEAD SILENT” Featuring Make Them Suffer",
-      "link": "https://www.theprp.com/2026/11/04/news/we-came-as-romans-premiere-dead-silent-featuring-make-them-suffer/",
-      "rss_body": "One of the all-new additions to their upcoming \"ALL IS BEAUTIFUL... BECAUSE WE'RE DOOMED: CIRCULARITY\" release.",
-      "tags": "News Make Them Suffer We Came As Romans",
-      "category": "Хэви-метал",
-      "published": "2026-11-04T19:18:36+00:00",
-      "id": "0ef4d6a1218bf114bed6a3da614d54954f0d5329",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Zetra Drop The Corpse Paint & Cloaks For Their New Single “Adrena”",
-      "link": "https://www.theprp.com/2026/11/04/news/zetra-drop-the-corpse-paint-cloaks-for-their-new-single-adrena/",
-      "rss_body": "They've also updated their sound for his new proverbial unmasking.",
-      "tags": "News Zetra",
-      "category": "Хэви-метал",
-      "published": "2026-11-04T19:02:30+00:00",
-      "id": "8f03b34a92d7cb4da0d22da2f0cb227cfb6dac3f",
-      "retry_after": 0
+      "retry_after": 1793860665
     },
     {
       "source": "Metal Injection",
@@ -6533,7 +6469,19 @@
       "duplicate_ids": [
         "1f8b239a6fd2223935cd0e52f16d93f939dec644"
       ],
-      "retry_after": 0
+      "retry_after": 1793860676
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "How Joey Tempest survived the wild whirlwind of fame, fortune and global success entirely unscathed",
+      "link": "https://www.loudersound.com/bands-artists/interviews/joey-tempest-come-this-madness-interview",
+      "rss_body": "Joey Tempest has been many things in his 62 years. An athletic, suburban Swedish kid with a voracious appetite for music. A pop star travelling by limousine. A rootsy solo singer-songwriter-turned-rock’n’roll comeback king. The guy who wrote one of popular music’s most widely beloved anthems. A lifelong hard worker, always wanting to do more – and do it better.\n\nSheltering from heatwave conditions today in the bar of an upscale London hotel, the\n\nEurope\n\nfrontman carries something of all these personas. He’s friendly but poised, serious, searching through memories. He talks earnestly about video aspirations and Europe’s new album,\n\nCome This Madness\n\n, their latest in a 21st-century hot streak for the band, following a covid-boosted gap of eight years.\n\nBorn Rolf Magnus Joakim Larsson on August 19, 1963, in Upplands Väsby, Stockholm, Tempest looked up to his father, a pilot, but ultimately fell in with the local community of pre-teen rockers. He was quick to challenge himself. At Europe’s first big hometown gig he sang and played keyboards, which did not go well. By 1985, Mic Michaeli – whose keyboard Tempest had borrowed in high school to write a certain now immortal riff – was instated as their full-time keyboard player, leaving Tempest free to roam the stage.\n\nPerhaps tellingly,\n\nCome This Madness\n\nfeatures the core line-up from their teenage beginnings. Sonically it feels like the best of both Europe worlds: the soaring melodic drive and production values of their 80s peak, plus the rich classic-rock punch that they’ve nailed in more recent years. Local friends Tobias Forge (Ghost) and Mikael Åkerfeldt (Opeth) popped over to do a few backing vocals.\n\n“It’s probably one of my favourite Europe albums ever,” Tempest says, trim and neat in dark jeans, shades and Mandarin-collar jacket. “It’s like, how can a band do that at that time in their career?\n\nDeep Purple\n\nmaybe, they’ve done similar things, and we always follow in their path.” These days he lives in London with his wife Lisa, having moved to the city permanently in the early 90s. They have two sons.\n\nWhat’s your first memory of music?\n\nI started recording things with a small cassette recorder when I heard a good song on radio or TV, so I could hear it again. I think\n\nElton John\n\nwas the first thing I liked on the radio. Or if I heard someone like Sinatra, or Elvis, Fats Domino, or a rock band from the UK.\n\nYou started playing piano because there was one at home, but did you connect with the instrument right away?\n\nYes. My parents bought it for my sister, but I picked it up. When I heard [Elton John’s]\n\nCrocodile Rock\n\n, for instance, I figured out how to play it. I was probably only eight or nine. I was very interested in music like that. Then very early on I tried to come up with my own ideas as a writer.\n\nCan you remember the first song you wrote?\n\nI wasn’t old at all, eight or nine or ten. I think it was called\n\nI Long For The Country\n\nor something – in Swedish. We had a summer place in southern Sweden, maybe that was the connection.\n\nUpplands Väsby is now widely cited in rock circles as ‘the birthplace of Europe’. What was it like being a kid there?\n\nI had a lot of Finnish friends there. Our first drummer was Finnish – Tony Reno. His full name is Tony Niemistö, I think he took Reno from Mike Reno in\n\nLoverboy\n\n. But there were musicians around, so that’s what I liked. Or in my school, every Friday in the last hour, we got to entertain the class. The first song we did was\n\nKeep A-Knockin’\n\n[by Little Richard]. I remember we put some make-up on; I think I was inspired by some of the Bowie stuff. This was when I was eleven.\n\nWas this when you realised that you could sing?\n\nI liked singing. I don’t think I saw myself as a great singer, but I was very driven to be the singer in the bands I was in, because nobody really wanted to sing. Those same guys who I did the school performance with, we had a band called Made In Hong Kong. We were rehearsing at home, at my parents’ place. Then it was Jet, then Blazer. Roxanne was my first proper band.\n\nPre-perm Europe in 1982: (l-r) John Norum, Tony Reno (aka Tony Niemistö), Joey Tempest and John Levén\n\n(Image credit: LBL/Shutterstock)\n\nYou were a sporty kid (gymnast, hockey player, kart racer), but it was music you ultimately chose. What swung it for you?\n\nMusic was there all the time, but I also played football, ice hockey. But that’s a normal thing when you’re a Swedish kid – it’s there for you in school. Ice hockey was outside of school, but it was my dad who wanted me to do that. And my dad was a Formula One fan, so he bought a go-kart for me and said: “Try this.” I did it for a few years. I did well. He was my mechanic, and we travelled around Sweden for races.\n\nWhat was the worst crash you had?\n\nI ran into another go-kart and flew up in the air and landed on the side. But I was lucky, no big accidents. And at the same time I was always playing piano and guitar at home and finding friends to start bands with.\n\nA turning point came when you saw guitarist John Norum play with his band WC in Upplands Väsby. At this point you were all still really young, right?\n\nOh yeah. When we met, Norum was fourteen, I was fifteen. I just saw this guy, he was quite shy, he didn’t really want to be on stage, but he played amazing. I managed to meet John and got to know him a little. We started talking and we’re like: “Maybe we should start a band together.” We started bonding and going around with demos to people. Everybody turned us down, more or less. They weren’t ready in Sweden at that point.\n\nMeanwhile you’d met John Levén in school. What were your first impressions of him?\n\nHe and Norum were geeky with instruments, amps and music. John Levén used to have parties at his house, that’s when we listened to all new stuff. Could be Gamma, or Mahogany Rush, stuff that you usually wouldn’t hear, and you found it at his house. I loved that.\n\nYou were also crossing paths with a young Yngwie Malmsteen. What was he like back then?\n\nThere was a rumour about this guy rehearsing in his basement in Stockholm. He was quite shy, always playing guitar. He was quietly confident but didn’t say much in those days. He actually called me once, and said: “I’m going over to America.” This was slightly later. “I’m signed with Mike Varney [of Shrapnel Records], are you interested in coming along?” I’m like: “Sorry, I just started with John Norum over here.”\n\nNorum felt more like he was from the same place. We had a lot of things in common, music taste-wise. Norum’s stepdad worked for CBS Records, and he had a collection of five thousand records or something. We would sit at night and just listen to records – Neil Schon, Steve Perry,\n\nUFO\n\n,\n\nThin Lizzy\n\n. We started to dream about touring and playing music. It saved our lives, really, because John was on the other side of the tracks in Upplands Väsby and there was a lot of partying going on. We could easily have fallen into too much of that, but we rehearsed instead.\n\nJoey Tempest in 1982\n\n(Image credit: LBL/Shutterstock)\n\nBy the time you, Norum, Levén and Tony Reno were fifteen or sixteen you’d come together as Force, initially jamming UFO covers\n\n.\n\nWe opened with\n\nLetting Go\n\nat one show. And we’d take the train into Stockholm Ice Stadium to watch Rainbow, Thin Lizzy, Deep Purple when they came back, all that stuff.\n\nWho left the biggest impression?\n\nPhil Lynott\n\nand\n\nDavid Coverdale\n\nas frontmen. I’m very observant with those things. What’s been said between songs, how they move, what are they wearing, what they do with their mic stand. I’m there for the music, but I look at so many other things.\n\nI later performed with Whitesnake. I did some of my mic moves and David was looking at me, laughing – because he used to turn the mics upside down, I took it further and started spinning and doing other tricks with it. I suppose it comes from\n\nPaul Rodgers\n\n, because I think David was a big Paul Rodgers fan.\n\nI heard a story about you meeting Phil Lynott at a secret gig in Stockholm. Did that experience give you an early sense of the importance of being kind to your fans?\n\nYes, it was one of those moments. It was stupid, what I said: “You’re a great singer, Phil, but how come you never had a standalone lead singer?” But he was so polite, like: “Thank you for the compliment, young sir. But you know what? I always wanted to sing, because I listened to Fats Domino,” and he mentioned a lot of singers he grew up with. He was very friendly. That was my first impression of meeting a big star.\n\nWhat was the initial reaction when you told people you were calling yourself Joey Tempest?\n\nThere was more of a reaction when I told them the band name was Europe! Joey Tempest sort of crept in. In college I always went downstairs to the library to read\n\nNME\n\nor whatever press we could find, and there were books there, so I saw Shakespeare’s\n\nThe Tempest\n\n. I thought: ‘Tempest’, ‘Joe’, and then ‘Joey’. Teachers were like: “What are you doing there at the back of the class?” I was doing autographs and trying to come up with band names. But I think the band were fine with it, because aliases were quite common in the rock world. They were more like: “I wonder if I should do something with my name…”\n\nIf your then-girlfriend hadn’t entered Force into the Rock-SM contest – for which you’d rechristened yourselves Europe – do you think you’d have become as successful as you did?\n\nNo, we would have been still… [thinks]. We probably would have been more of a progressive kind of rock band. Because I think we met people along the way that steered us into becoming a more of a broader band. I don’t know.\n\nKee Marcello and Joey Tempest in 1987\n\n(Image credit: LBL/Shutterstock)\n\nThe prize for the contest was to record an album, which became Europe’s self-titled debut. When was the last time you listened to it?\n\nThe first mix I haven’t heard in donkeys – I wouldn’t want to hear it either! We remixed it once and it sounded better, but we’re so nerdy with mixing and recording equipment these days. But it’s quite experimental and progressive and fun –\n\nIn The Future To Come\n\nand\n\nSeven Doors Tell\n\nand stuff. I think those are quite interesting songs.\n\nWings Of Tomorrow\n\nfollowed in 1984, but it was the arrival of Gunnar ‘Mic’ Michaeli and (replacing Tony Reno) Ian Haughland in 1985 that solidified the Europe line-up.\n\nIn Europe’s history we never liked auditions, so we always wanted to search our minds; do we know people that could work for this? Ian I’d seen playing in Trilogy, and he was like a showman – he painted his drums like Alex Van Halen, he sang, he wrote, he was flamboyant, and he was such a nice, positive kind of guy. We tried him out and he was so well-prepared.\n\nI’d seen Mic in Avalon. He wrote these songs with the guitar player, and he was a great player, nice guy as well. I don’t remember the audition for Mic, but I remember asking him in a nightclub [if he’d join the band]. He was trying to act cool first – “Uh, I’m not sure” – but inside [I later learned] he was screaming: “Yeahhh! Touring! We’ve only done one or two shows a year with Avalon!”\n\nYour dad had been very invested in your motor sports career. How did he feel about you throwing your lot in with rock’n’roll?\n\nBoth my parents were great, because they realised that my interest lies somewhere else. I used to see my dad at our early shows at schools, with his cap on at the back. We nicknamed him Rolf Tempest for a while, because he used to just show up when we played – didn’t come and say hi or anything, he was just checking us out.\n\nThe Final Countdown\n\nwas recorded at Power Play Studios in a tiny little place outside Zurich called Maur. I read that you all slept in the studio\n\n.\n\nYeah, it was a small village. Kevin Nelson was producing. He’d been there once and learned to keep young bands away from partying and drinking. That’s why he took you to a small place; stay in the studio, straight down to work. It was a good plan, because we loved partying in those days. There was only one restaurant in the whole village. So yeah, we lived in the studio.\n\nIt’s cool to think that such a shining, ubiquitous chart topper was inspired by Maiden’s\n\nRun To The Hills\n\nand Bowie’s\n\nSpace Oddity\n\nand basically has quite a sad undertone – the idea of going into space, in search of something better.\n\nYeah. There’s a melancholic Scandinavian thing involved, because it’s a minor key, F-sharp minor. But it’s also an uplifting rhythm and melody. I love those kinds of mixtures. The funny thing with\n\nFinal Countdown\n\nis it’s more of a progressive song in a way. When I played a demo to the guys, they didn’t think, ‘Oh, that’s a pop song’. It was more like, ‘What the hell is this?’\n\nThe numbers that came with\n\nThe Final Countdown\n\nare staggering: 15 million copies of the album, 8 million of the single, topped the charts in 25 countries. Tempest recalls being in Florida on holiday and hearing that now-immortal hit on the radio in a taxi. He was 23 and suddenly famous.\n\n“One of my earliest memories is hearing\n\nBoston’s\n\nMore Than A Feeling\n\nin the car in America with my parents, sitting in the backseat,” he grins. “So there I am, and they’re saying ‘this is from a Swedish band, they’re doing great on the charts’. That moment was incredible.”\n\nThat time must have felt extraordinary…\n\nIt was kind of Beatlemania in Manchester, in the UK – we couldn’t make it from the limo to the venue, they’re grabbing hold of everything! But the good thing about this band is that we’re musicians, that’s what keeps bands going, bands that have been around for ages, the love for learning and playing. That can get you through being thrown into the pop world, because you can get stuck there. Like: “Let’s make copies of\n\nFinal Countdown\n\nfor ten years.”\n\nBecause when we came to Paris – we were doing great in France,\n\nFinal Countdown\n\nwas like a national anthem there. I remember the record company telling us: “You can move here and play TV shows for the rest of your lives, you don’t have to do anything else.” It was kind of scary. But when you’re steeped in Deep Purple, Zeppelin, Thin Lizzy,\n\nGary Moore\n\n, you can survive any pop thing.\n\nHaving grown up idolising rock bands, the ‘teeny bopper’ press Europe got must have been overwhelming. While some of it must have been pretty painful, was any of it fun?\n\nIt could be fun, because we would be treated like royalty coming into Rome, Paris, New York, straight up to the top VIP floor, the limelight in New York… It was crazy, and some of it was fun, but I kind of knew… [thinks] I became sort of closed in, and kind of quiet during T\n\nhe Final Countdown\n\nyears, because I was thinking: “What the hell do we do now?” You can imagine after every show in any of these big cities, the record company going: “Come out here, come out there!”\n\nWhen we met bands like Sweet, UFO,\n\nNazareth\n\n, some of those guys loved their drinking, and their partying. We were caught sometimes in the same bar or something. I mean, we were drinkers, but they were drinking so much and that was just part of their world. Whereas we were more beer drinkers, we’re Scandinavians, even if you end up having twelve at least it’s a slow decline. But these guys were hard-core and we kind of learned from it.\n\nAlso the drug scene. Of course some of us have dabbled in that world, but we were also trying to be professional for the next show. Because at some of the parties we were invited to it was, like, bowls of cocaine… But personally I wasn’t so interested in that.\n\nWhat stopped you?\n\nI was scared of getting stuck. I always wanted to move – move forward with the band ideas, with my life. You can get stuck in Paris doing family TV shows, you can get stuck in LA up in the hills going to these parties every night for years and years and years. That always scared me a bit. So I always left any town. I lived in New York for a while, San Francisco, LA, Tokyo. But I always wanted to move on and learn a lot from meeting people. Maybe a bit too much.\n\n(Image credit: DPA Picture Alliance / Alamy)\n\nEurope opened for Def Leppard on their\n\nHysteria\n\ntour. What things stand out in your memories of that time?\n\nOh, that tour was fun, so big,\n\nPour Some Sugar On Me\n\nnumber one, bigger than ever in America, and it’s just mayhem. But me and Joe Elliott, we were teetotal on that tour, so we were the boring kids! Or we were taking it easy anyway, but not all band members did. Def Leppard used to organise parties when in certain towns, it could be with the crew or friends of the band, and we ended up with some of those.\n\nBy this point, still in 1986, John Norum had left the band.\n\nWe did the last show in Germany, and he said: “I don’t think I want to do this any more, it’s too much of this promotional…” I think he had some personal issues as well, some questions about management, and also personal things, girlfriend stuff. But you’d have to ask him.\n\nHis departure must have hit you pretty hard, though.\n\nYeah. He was my brother, and it was really, really hard, because we were riding high. It happened when we were one of the biggest bands in the world. I never thought about how it would have looked, because in those days it became a huge thing when these things happened, and the press loved it and blew it up. I remember talking to him, like: “This is not good.” But the problem with young bands and young egos is that you start riding in different limousines. You don’t talk to each other any more. You talk through the tour manager.\n\nDid that happen to you?\n\nThat happened to us. “John Norum says he doesn’t want to do this TV show.” “Okay, tell him now we’ll do this promotion without him,” and whatever. So we stopped talking. And what we’ve learned over the years is to talk. Even if it’s a small thing, just talk about it.\n\n(Image credit: Lynn Goldsmith/Corbis/VCG via Getty Images)\n\nWith Norum out of the picture, his shoes were filled by Kee Marcello of glammy Swedish rockers Easy Action, with whom Tempest had previously collaborated on the charity single\n\nGive A Helpin’ Hand\n\n. “We had two great albums with Kee,” Tempest reflects. “Really talented, funny guy.”\n\nThe follow-up to\n\nThe Final Countdown, Out Of This World\n\n, was released in 1988. Working with producer Ron Nevison (Ozzy Osbourne, Kiss, Thin Lizzy), the band sought to recapture some of their heavier roots. Despite some underrated gems (\n\nSuperstitious\n\narguably the best of them) and shifting about two million copies, the record didn’t enjoy the reception of its predecessor.\n\nDid it feel anticlimactic after\n\nThe Final Countdown?\n\nNot so much for us.\n\nThe Out Of This World\n\ntour was bigger than the\n\nFinal Countdown\n\ntour, so for us we’re not feeling it. It’s a great album and it did really well. I suppose people compared it to some of the success and chart positions of\n\nFinal Countdown\n\n, but for us it was such a big tour, the\n\nOut Of This World\n\ntour, so we didn’t really think about that so much.\n\nFrom there you recorded 1991’s Prisoners In Paradise with Beau Hill – another producer with the rock credentials you craved, having worked with Alice Cooper, Ratt, Warrant, Winger… We liked his work ethic. He used to go in at four o’clock in the morning with Ratt. He told me he used to go in and work on everything before the band came in. So he was a hard-working producer. We lived in LA a lot in those days.\n\nDid you like LA?\n\nIt can be lonely in any city in the world, but you cannot be as lonely as you can be in LA – or as happy as you can be in LA. It’s one of those places. We stayed at Oakwood Apartments in Toluca Hills. That’s where allegedly Kurt Cobain [who was staying in the same apartment complex] wrote ‘Who the fuck is Joey Tempest?’ on the wall. Everybody stayed there. So we were writing and trying to get it together for\n\nPrisoners In Paradise\n\n, with Kee. Kee was partying quite heavily in those days as well, so he disappeared sometimes and we were like: “What’s going on? Where is he?”\n\nWas there a point where you thought: ‘I can’t do this any more’?\n\nI did feel a bit lonely in LA, and I didn’t want to stay there any longer. I wanted to get the album done and go back to Europe, back to my place in London or Stockholm. I used to go to Stockholm and rent a place to write.\n\nBut when we were done with\n\nPrisoners\n\n, there’s a few things happening. Our label have\n\nPearl Jam\n\non the desk. They have grunge on the desk. When we go and visit, when we do the album release party, we can sense that it’s different from the other release parties.\n\nSo we know there’s a shift, especially these big labels, because they want to go where the money is, and they looked at Seattle, they looked at grunge, they knew something was going on. I got that feeling a little bit as well. At the same time, I started listening to a lot of\n\nBob Dylan\n\nand\n\nNeil Young\n\n, Jackson Browne,\n\nVan Morrison\n\n, Randy Newman, and I’m just loving that.\n\nAnd then, in 1992, Europe go on hiatus. You release solo records with an Americana-heavy feel (e.g.\n\nAzalea Place, A Place To Call Home\n\n).\n\nI wanted to learn more about this music. I started living in East London, collecting everything. I met my wife, Lisa, in ’92. I did some demos for a possible Europe album after\n\nPrisoners\n\n, but I didn’t feel like they were strong enough. I told myself: “I want to write loads of singer-songwriter stuff now, I want to get into it.”\n\nAs far as Europe was concerned, did you think: ‘that’s it’?\n\nNo I never thought ‘that’s it’, actually. I never did. It was always in the back of my mind. I think it was also missing Norum a little bit, that was kind of a problem in a way.\n\nIt seems to become clear that when you do eventually get back together, you all seemed to have missed each other\n\n.\n\nYeah. Cos I lived in Ireland for a while in the nineties, and Norum started calling me there, and Ian and Mic came over there, and we jammed in County Wicklow when I lived there. I was renting a place that\n\nTom Waits\n\nrented before me, in the country.\n\nIt’s weird to think you were just 29 when Europe ended – this band you started with people who’d been your friends since you were all kids\n\n.\n\nIt was really strange in the beginning. I was glad meeting my wife, because I was pretty lost. You can imagine from being fifteen, meeting John, and then it was just like full-on dreaming and playing, and then all of a sudden… quiet. I was in East London, I was in a top-floor warehouse [apartment],\n\nRoger Taylor\n\nlived next door for a while. We met a few times. I heard his parties through the walls! I was quiet in those days. But I wrote so much. There are so many numbers that never got recorded. I’m starting to go through things now.\n\nMeanwhile you’re still in touch with John Norum, who at the time is also doing solo stuff, playing in Dokken…\n\nYeah, he’s calling me from LA, he’s doing solo stuff, I go over to LA and sing on one of his solo songs, and that was fun. I never saw him with\n\nDokken\n\n, but he did quite a few shows with them. So that was a period of transition.\n\nYou’ve talked about [drummer] Ian Haughland being instrumental in you guys regrouping in 2003\n\n.\n\nHe’s more positive than the Sun, that guy [laughs]. He was very much calling and talking. You need someone who highlights the good bits, and just “let’s get going”. Because I never really closed the door on Europe. It was just complicated at the time, with the shifting in the music business, my new interest in singer-songwriting, John Norum not in the band. So it was a good time to take a break, but it was difficult.\n\nI remember in Bournemouth, 1991 or something, it was the last UK show, Levén said: “I don’t know how to run a dishwasher. I don’t know how to run anything. I never had my own place, I’ve lived on the road since you guys picked me up.” There was a lot of that sentiment in the tour bus, like: “How do you live a normal life?” Because we hadn’t. We were teenagers straight into these huge tours. It was tough for a while.\n\nThat first rehearsal post-hiatus was in 1999. How did it go?\n\nIt was amazing.\n\nRock The Night, Final Countdown\n\n, it’s just like: this is us, this is what we want to do. But we had a few solo albums to sort out; I had one more, John Norum had one or two. So in 2004 we managed to get back in the studio.\n\nHow long did it take for things to begin to feel really good again?\n\nWe had a meeting in 2003 and agreed that we would write more together. We also agreed to think long-term, which was good, because we would have gotten a really good offer of a ‘comeback tour’ or something like that. But we didn’t want to do that. We wanted to do an album with Kevin [Elson] again, because we knew him, and we wanted to do it in the winter when nobody knows what we’re doing. And that was\n\nStart From The Dark\n\n. But we agreed, in that meeting, that it could take three or four albums before we start feeling really happy again about this.\n\n(Image credit: Andy Ford)\n\nCommencing with\n\nBag Of Bones\n\nin 2012, Europe hit a consistent rock stride across three quality albums. Looser, grittier, bluesier records – with rockfriendly faces Kevin Shirley and then Dave Cobb producing:\n\nBag Of Bones, War Of Kings\n\n(2015) and\n\nWalk The Earth\n\n(2017) – went down well with critics and fans alike, translating into strong additions for Europe’s setlists.\n\nThe events of 2020, and its subsequent ripples, go some way to explaining the gap between\n\nWalk The Earth\n\nand its follow-up. Listening to new album\n\nCome This Madness\n\n, though, there’s also a sense of a band reluctant to release anything, at this point, unless it’s really good.\n\nThere’s a sense with those albums – and now\n\nCome This Madness\n\n– that Europe feels more like the rock band you dreamed of as a teenager.\n\nI love the way that on those three albums we explore that way of recording. But on this new one we went back towards how we worked with Beau and Kevin, putting more work in arrangement, preparation, production, mixing. We’re not hiding the fact that we wanted to produce this record properly, like we used to. So we put a lot of work into it, sound-wise and arrangement and production. That’s maybe the connection with earlier Europe.\n\nIt’s been nine years since Europe’s last album. Was there ever a question over whether there would be another?\n\nNot really, but it was slow work sometimes. It came to a point a few years ago where we had two, three, maybe four [songs] that we all really loved. I think\n\nA Different World\n\nwas quite early,\n\nThis Time Of Year\n\n, but when\n\nScandinavian Eyes\n\nand\n\nOne On One\n\ncame into the frame, then we started feeling something; we have a spark. “How can we make this a better song?” “How can we make it more interesting?” Everybody wants it to be so good.\n\nUnlike many of your peers, whose voices have deserted them, you’ve been able to continue singing these big songs. As someone who grew up with Whitesnake, how did you feel when David Coverdale called time last year?\n\nI’ve been in contact with him over the years a little bit, because we toured with them. And I thought it was… I mean, we were wondering, you know, how long can they keep going? It was a bit sad. I miss touring and playing with them. I miss him.\n\nYou’ve been married to Lisa for 26 years. What’s the secret to sustaining a long, happy union alongside a touring band?\n\nWe respect each other. I think in our case it’s good because she’s not really a musician or a writer or part of the music business. It gives me a great balance. It works for me to have a completely separate [personal life] and I’m more of a family guy too. I’m quite private, so I love family life, my two boys.\n\nDo you and the other Europe guys do anything together that’s not music related?\n\nNo, it’s all connected to music. We went to the same shows when we were teenagers, everybody’s got the same memories to dip into. It’s fantastic to have that bond. Me and Mic can go to museums, things like that, if we’re in a certain city.\n\nWhat are you most proud of?\n\nTo be in a rock band, one of the biggest bands for a while, and still here. It means so much to me, being able to do that in my life. It’s really exciting, and I don’t really regret anything.\n\nCome This Madness is out now via Silver Lining Music. Europe tour Europe next summer. For dates and ticket links, check the\n\nEurope website\n\n.",
+      "tags": "Interviews Bands & Artists",
+      "category": "Прогрессив",
+      "published": "2026-11-05T05:05:00+00:00",
+      "id": "676bc1f9bfb102bf2e14f86e1e5557b8d7e9092c",
+      "retry_after": 1793860635
     }
   ]
 }
