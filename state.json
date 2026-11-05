@@ -1407,49 +1407,17 @@
     "aecb7b2632eacf767869faf28a14aa015dda18f2",
     "94687fabcd41ee4a63b194f4e666654fa851a812",
     "c56ecfa607764dc8d64eabb779c03ef4eb7efeae",
-    "f2f80669e7e35ecc6c5f8f726c5c6a6e0a8835fd"
+    "f2f80669e7e35ecc6c5f8f726c5c6a6e0a8835fd",
+    "5240262e1aa684c3890fe03b08e55ab051c31cda",
+    "b5e7a6e10b6d4d4d9e9158e22cd9db44b7b95a62",
+    "0d6c1f111b3f16f7c4d8f824323106f6646c8f38",
+    "8032e9a0fb0aa71cca16357c387ac24e1f41759a",
+    "395ca2061d3bc45682b2135e785b4581160309b8",
+    "3d1e2fcbfa5adfeeacf10ad7c72ff8257a2511ae",
+    "4e3904ba6cdb570a45cfea1287f5c53e73392497",
+    "1da87f84696628449f8961d940daa12eb96c4ec8"
   ],
   "recent_titles": [
-    {
-      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): HAINTGROVE — “HAINTGROVE”",
-      "source": "No Clean Singing",
-      "ts": 1793468378
-    },
-    {
-      "title": "'Medical Emergency' Forces Deep Purple to Postpone Shows",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793468437
-    },
-    {
-      "title": "The 'Big 4' of Rock's Studio Triple Albums",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793468461
-    },
-    {
-      "title": "Foo Fighters Closed Out Their ‘Jimmy Kimmel Live!’ Residency With Their Cover Of “Baker Street”",
-      "source": "ThePRP",
-      "ts": 1793468481
-    },
-    {
-      "title": "Zardonic Debuts “Godhead Interface” Featuring Fear Factory’s Dino Cazares & More",
-      "source": "ThePRP",
-      "ts": 1793468511
-    },
-    {
-      "title": "Was Meddle the last Pink Floyd album that combined all their powers?",
-      "source": "Louder",
-      "ts": 1793468620
-    },
-    {
-      "title": "Steve Hackett Reflects on Genesis’ Rock Hall Induction",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793468648
-    },
-    {
-      "title": "NICKO MCBRAIN: IRON MAIDEN будут продолжать пока еще кто-то не уйдет",
-      "source": "Darkside",
-      "ts": 1793468651
-    },
     {
       "title": "Вокалист DEEP PURPLE попал в больницу",
       "source": "Darkside",
@@ -2209,6 +2177,46 @@
       "title": "Hatebreed Premiere “Decisions Become Destinies” Music Video",
       "source": "ThePRP",
       "ts": 1793860415
+    },
+    {
+      "title": "\"We are so effin’ excited!\" Rush announce a five-date Elevate From The Norm run at The Sphere",
+      "source": "Louder",
+      "ts": 1793890704
+    },
+    {
+      "title": "Pink Floyd's 'Animals': Ranking Every Edgy, Passionate Song",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793890812
+    },
+    {
+      "title": "Pink Floyd Announces 'Animals' Box Set Featuring Unreleased Tracks",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793890846
+    },
+    {
+      "title": "Ghost’s mega-hit Mary On A Cross has been streamed one billion times on Spotify",
+      "source": "Louder",
+      "ts": 1793890906
+    },
+    {
+      "title": "Steven Wilson's ninth solo album Requiem For A Village welcomes the weird",
+      "source": "Louder",
+      "ts": 1793890949
+    },
+    {
+      "title": "“They raised the axe. He started improvising a poem”: When Enslaved didn’t like their new songs, an old saga saved them",
+      "source": "Louder",
+      "ts": 1793890964
+    },
+    {
+      "title": "Кавер-версия хита IRON MAIDEN от NOORA LOUHIMO",
+      "source": "Darkside",
+      "ts": 1793890966
+    },
+    {
+      "title": "Профессиональное видео с выступления METALLICA из Сферы",
+      "source": "Darkside",
+      "ts": 1793890969
     }
   ],
   "initialized_sources": [
@@ -6482,6 +6490,153 @@
       "published": "2026-11-05T05:05:00+00:00",
       "id": "676bc1f9bfb102bf2e14f86e1e5557b8d7e9092c",
       "retry_after": 1793860635
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Rush Announces 2027 Sphere Las Vegas Residency",
+      "link": "https://metalinjection.net/tour-dates/rush-announces-2027-sphere-las-vegas-residency",
+      "rss_body": "The rumors turned out to be true!",
+      "tags": "Tour Dates rush",
+      "category": "Прогрессив",
+      "published": "2026-11-05T14:52:25+00:00",
+      "id": "008b57fc1a91419460ab113be046d583be1f2ebe",
+      "duplicate_ids": [
+        "baa3421662d374cb8b8a9d4c6fbb2a0fb1278036"
+      ],
+      "retry_after": 1793890834
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "OBSCURITIES – VOLUME XXXIII: RIP KENNETH GALLANT",
+      "link": "https://www.nocleansinging.com/2026/11/05/obscurities-volume-xxxiii-rip-kenneth-gallant/",
+      "rss_body": "(Here we present Daniel Barkasi’s latest monthly collection of reviews for NCS. This one focuses on albums released in October 2026.) Thankfulness can be tricky. Everyone’s life situation is unique, of course, and we all have encountered strife, heartache, sadness, but also joy, elation, and warmth. Lately as I’ve seen folks really struggling, it isn’t\n\n[...]",
+      "tags": "Album Reviews Daniel Barkasi Dumal Firtan Morgue Otras Sépulcre Temple Nightside",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T14:47:31+00:00",
+      "id": "3d0f2ec4d5e2a65f185c51605720115f691fc951",
+      "retry_after": 1793890991
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Pink Floyd announce Animals 50 reissue across various formats",
+      "link": "https://www.loudersound.com/music/albums/pink-floyd-announce-animals-50-reissue-across-various-formats",
+      "rss_body": "Pink Floyd's long-awaited, much-delayed reissue treatment of\n\nAnimals\n\ncomes to fruition on January 22 when the album gets released across a variety of formats through Sony Music, including a Deluxe Box set, various vinyl formats, CD and digital.\n\nThe band have shared a 1977 promotional radio edit of\n\nSheep\n\n, which has never been commercially available.\n\nThe album has something of a convoluted release history, when a planned box set in line with similar releases that have appeared for\n\nThe Dark Side Of The Moon\n\n,\n\nWish You Were Here\n\n,\n\nThe Wall\n\nand\n\nThe Division Bell\n\n, was scrapped over an issue with some of the liner notes. In the end the album was released as\n\nAnimals 2018 Remix\n\non vinyl, CD, Blu-ray and digital.\n\nThe Deluxe Box Set contains 3 LPs: the original 1977 album, the 2018 Remix (remixed by James Guthrie), and a disc of five rarities that includes an unheard\n\nRoger Waters\n\ntrack titled\n\nYoung Nicholas Jon\n\nand previously unreleased early versions of\n\nSheep\n\nand\n\nDogs.\n\nIt also has 5 CDs mirroring the LPs, plus a 2-disc set of the May 9, 1977 Oakland show recorded live at the Oakland Coliseum Arena by a then 19 year old bootlegger, Reinhard Hohlwein, and the 1-disc Blu-ray, which includes all of the above audio with the 2018 Remix being available in 5.1 and Dolby Atmos\n\nIt also features a 64-page hardback book comprising new sleeve notes from\n\nNew York Times\n\nbest-selling author and life-long Floyd fan Jonathan Lethem, an interview with Reinhard Hohlwein, and an excerpt from Hipgnosis’ Audrey “Po” Powell’s memoir about the making of\n\nAnimals\n\n’ iconic album art.\n\n(Image credit: Hipgnosis © Sony Music Entertainment)\n\nThe 1LP release contains the original 1977 album in orange and sandstone colour variants. The 2LP and 2CD sets contain the original 1977 album plus rarities, as does the digital release, which also features the Oakland show, while the Blu-ray features both mixes, rarities and the live material.\n\n“The mood in music was changing in ’77,\"\n\nDavid Gilmour\n\nsaid at the time of the album's release. \"Punk music was hitting everything and I suspect that had a little bit of an influence on the way we were working on the\n\nAnimals\n\nalbum. I mean it’s quite an aggressive, stripped-back album. It was moving away from the sort of soundscapes that we had on Wish You Were Here. This album is more in your face and more rough and ready. And definitely the lyrics are a lot more aggressive from Roger. We had a lot of fun making it.”\n\n\"There were all sorts of differences beginning to surface within the band but in some ways\n\nAnimals\n\nwas a remarkably cohesive enterprise,\"\n\nNick Mason\n\nadds. \"The big thing was the development of Britannia Row. Britannia Row was this building we’d bought some few years before in which we’d actually started building our own recording studio. We tried to design the studio in such a way that any of us could operate it and all the trunking was labelled clearly so anyone could plug in a set of headphones without someone else having to do it for us.”\n\nPre-order\n\nAnimals 50\n\n.\n\n(Image credit: EMI)\n\nAnimals 50\n\nTracklisting & Formats:\n\nDIGITAL\n\n“Disc 1” - Animals (Original album)\n\nPigs on the Wing 1\n\nDogs\n\nPigs (Three Different Ones)\n\nSheep\n\nPigs on the Wing 2\n\n“Disc 2” - Animals (2018 Remix)\n\nPigs on the Wing 1 - 2018 Remix\n\nDogs - 2018 Remix\n\nPigs (Three Different Ones) - 2018 Remix\n\nSheep - 2018 Remix\n\nPigs on the Wing 2 - 2018 Remix\n\n“Disc 3” - Rarities\n\nDogs - Early Version, Rough Mix*\n\nSheep - Original Radio Edit*\n\nSheep - Early Version, Rough Mix*\n\nStudio Jam*\n\nYoung Nicholas Jon*\n\n“Disc 4” - Live from the Oakland Coliseum Arena, 1977\n\nSheep (Live)*\n\nPigs on the Wing 1 (Live)*\n\nDogs (Live)*\n\nPigs on the Wing 2 (Live)*\n\nPigs (Three Different Ones) (Live)*\n\nShine On You Crazy Diamond (Pts. 1-5) (Live)*\n\nWelcome to the Machine (Live)*\n\nHave a Cigar (Live)*\n\nWish You Were Here (Live)*\n\nShine On You Crazy Diamond (Pts. 6-9) (Live)*\n\nMoney (Live)*\n\nUs And Them (Live)*\n\nCareful With That Axe, Eugene (Live)*\n\n2 LP\n\nLP1: Animals (Original album)\n\nLP2: Rarities\n\n2 CD\n\nCD1: Animals (Original album)\n\nCD2: Rarities\n\nBlu-Ray\n\nAnimals - Original Stereo Mix (1977)\n\nAnimals - Remix: Stereo + 5.1 + Atmos (2018)\n\nRarities (Stereo Mix)\n\nLive from the Oakland Coliseum Arena, 1977\n\nDeluxe Box Set Includes:\n\n5CD\n\nCD1: Animals (Original album)\n\nCD2: Animals (2018 Remix)\n\nCD3: Rarities\n\nCD4: Live from the Oakland Coliseum Arena, 1977 Disc 1\n\nCD5: Live from the Oakland Coliseum Arena, 1977 Disc 2\n\n3LP\n\nLP1: Animals (Original album)\n\nLP2: Animals (2018 Remix)\n\nLP3: Rarities\n\nBlu-Ray\n\nAnimals - Original Stereo Mix (1977)\n\nAnimals - Remix: Stereo + 5.1 + Atmos (2018)\n\nRarities (Stereo Mix)\n\nLive from the Oakland Coliseum Arena, 1977\n\n* never before officially released",
+      "tags": "Albums Music",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T14:01:38+00:00",
+      "id": "1d5c9712a2b4b2ab6f5883ffbdaf38ac9248f87a",
+      "retry_after": 1793891190
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "“From the darkest of origins, they’ve become one of the biggest bands”: Korn delight London at sold-out O2 spectacular",
+      "link": "https://www.loudersound.com/reviews/korn-architects-london-o2-arena-november-2026-live-review",
+      "rss_body": "For anyone who listened to\n\nKorn’s self-titled debut album\n\nupon release in 1994, “joyous” probably wasn’t the first word which came to mind. It was an anguished thing, rooted in frontman Jonathan Davis’ very real experiences of high-school hazing and sexual abuse. Yet, within a few years, it became the seminal text for nu metal: the bouncing, colourful movement which dominated the mainstream.\n\nThere’s been plenty of debate over how much the bands in Korn’s wake missed the point of their tormented music, but at a sold-out O2 Arena in London, the joy of nu metal’s prime returns – and this time it feels truly earned. Several audience members are sporting the sequinned tracksuit from 1996’s\n\nA.D.I.D.A.S.\n\nvideo, while others are dressed as giant corn cobs. It’s a beautiful feeling, seeing the Bakersfield boys go from haunted outcasts to arena-fillers who relish their position. “Thank you so fucking much!” Davis screams more than once.\n\nBefore that, though,\n\nYOUTH CODE\n\ndo their best to start the party. The electro-industrial duo cut their teeth in Los Angeles’ seedy underbelly, decimating clubs with their German-rave-gone-to-hell ruckus. In this 25,000-capacity arena, they’re loud, energetic and confrontational, but clearly playing to the wrong crowd. One small yet fervent moshpit notwithstanding, people look on in confusion rather than pop their bodies to the apocalyptic beats. It’s a shame.\n\nIf Youth Code were starved for engagement, then\n\nARCHITECTS\n\nenjoy a feast. Arena-calibre in their own right (they headlined this building last year), they fill the room early and command a rapt response. The jumping and moshing are constant as the Brightonians tear through material largely pulled from latest album\n\nThe Sky, The Earth & All Between\n\n. An injury in the pit interrupts\n\nAnimals\n\n, giving grim flashbacks to\n\ntheir start-stop Download set\n\n, but a lighter-lifting\n\nEverything Ends\n\nand beer-lobbing\n\nSeeing Red\n\ncourse-correct.\n\nVocalist Sam Carter promised to “scream the words from a place of passion” on this tour, after\n\nfacing fierce criticism for his performances\n\nin the summer. While he doesn’t enjoy the “Sam’s back!” moment he once dreamed of (and has since admitted is impossible), it’s clear he gives a fuck, especially when he delivers a speech about mental health before\n\nBroken Mirror\n\n. On dance-metal finale\n\nMachine\n\n, released just two months ago, he declares\n\n“I built myself again!”\n\n, ending the set with hopeful conviction.\n\nArchitects’ Sam Carter.\n\n(Image credit: Katja Ogrin/Getty Images)\n\nJonathan Davis’ silhouette boogies against a curtain in front of the stage as\n\nKORN\n\narrive. When the beat drops on opener\n\nIt’s On!\n\n, the track lives up to its title, turning the O2 into an ocean of flailing bodies. The members are just as fired-up: while Davis rocks his H.R. Giger-sculpted mic stand, guitarists Head and Munky bend over and whip their hair in time with the seven-string onslaught. Drummer Ray Luzier flexes behind the kit, and even though Ra Díaz is the recently-implemented replacement for founding bassist Fieldy, he swaggers and jumps as if he’s always belonged.\n\nWith such a locked-in lineup, it’s no surprise that the band fire out hits with the impact and regularity of tactical strikes.\n\nHere To Stay\n\n’s murky chords ascend towards a pristine chorus, the first collective singalong of the night, and the excitement continues through pretty much every fan-favourite of their three-decade career.\n\nGot The Life\n\n,\n\nTwist\n\n,\n\nA.D.I.D.A.S.\n\n,\n\nComing Undone\n\n– they’re all dusted off within the first hour, and they’re all explosive.\n\nThere’s room for the odd deep cut, as well.\n\nReward The Scars\n\n, April’s single from a\n\nDiablo IV\n\nDLC, possibly paves the way for\n\nthat long-awaited next album\n\n, before\n\nChi\n\nand\n\nKill You\n\ncelebrate the 30th anniversary of\n\nLife Is Peachy\n\n. They don’t incite the masses the same way as the rest, but they’re a pleasing wink to the old-school followers, whom Davis acknowledges for lifting Korn from the 5,000-capacity Brixton Academy across town to where they are now.\n\nShoots And Ladders\n\ncomes next, its nursery-rhyme lyrics and blaring bagpipe reuniting everyone in enjoyment.\n\nY’all Want A Single\n\n– ironically, a massive single – concludes the main set, then gives way to a stacked encore of\n\nFalling Away From Me\n\n,\n\nBlind\n\n,\n\nTwisted Transistor\n\nand\n\nFreak On A Leash\n\n: all essentials on any nu metal playlist. Combined, they’re a euphoric send-off from what has been a nonstop jubilant evening. From the darkest of origins, Korn have thrilled thousands and become one of the biggest heavy bands going. How can anyone not smile about that?\n\nKorn’s European tour continues at the Ziggo Dome in Amsterdam on Sunday, November 8.\n\nKorn setlist: O2 Arena, London – November 4, 2026\n\nIt’s On!\n\nHere To Stay\n\nReward The Scars\n\nGot The Life\n\nRotting In Vain\n\nTwist\n\nChi\n\nA.D.I.D.A.S.\n\nKill You\n\nShoots And Ladders\n\nComing Undone\n\nDid My Time\n\nMake Me Bad\n\nY’All Want A Single\n\nFalling Away From Me\n\nBlind\n\nTwisted Transistor\n\nFreak On A Leash",
+      "tags": "Concerts & Shows Bands & Artists Live Performances",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T12:00:00+00:00",
+      "id": "56e79674200fef27a34b642349653ea92b74e5d5",
+      "retry_after": 1793891233
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Видео с текстом от NICKELBACK",
+      "link": "http://www.darkside.ru/news/184980/",
+      "rss_body": "I Already Know, новое видео с текстом от группы NICKELBACK, доступно для просмотра. Она песня взята из альбома \"Everything Under The Sun\", выпущенного 30 октября на Virgin Music Group:\n\n01. Rattle The Cage (feat. John 5)\n\n02. Bones For The Crows\n\n03. I Already Know\n\n04. Leave Me Behind\n\n05. If I Don't Go\n\n06. Make Me Love You\n\n07. Chasin' Famous\n\n08. Simple Song\n\n09. Technicolor Steamboat\n\n10. Lift Somebody Up\n\n11. Bottled Dreams\n\n12. Last Night Was Fun\n\nЕсли «Rattle The Cage» распахнула дверь в новую главу истории NICKELBACK ослепительным напором гитар, тяжёлыми риффами и энергией стадионного масштаба, то «Leave Me Behind» раскрывает другую сторону альбома — сторону, укоренённую в уязвимости, верности и инстинктивном желании оказаться рядом с человеком именно тогда, когда он больше всего в этом нуждается.\n\nВыстроенная вокруг эмоционального обещания непоколебимой поддержки, «Leave Me Behind» показывает, как NICKELBACK превращают боль расставания в стойкость. Песня говорит о том, как нести человека через самые тёмные моменты его жизни, собирать осколки, когда всё, кажется, разлетелось вдребезги, и в конечном итоге отпускать боль, которая всё это время держала его в заложниках.\n\nВ основе трека лежит простое, но мощное послание: «Выплюнь яд и оставь его позади». Однако за этим призывом двигаться дальше скрывается не менее личная просьба: «только не бросай меня». Вместе эти два чувства и создают эмоциональное напряжение, лежащее в основе песни: помочь человеку преодолеть то, что причинило ему боль, одновременно прося его не разрывать связь на этом пути.\n\n«В этой песне очень много тяжести, но в ней же очень много и надежды, — говорит фронтмен NICKELBACK Chad Kroeger. — Она о том, чтобы быть рядом с человеком, когда он сталкивается с тем, что его сломало, — собирать осколки, снимать часть этого бремени с его плеч и напоминать, что ему не нужно проходить через это в одиночку.\n\nПри этом здесь же присутствует и ощущение нежелания остаться брошенным. Нам понравилось это напряжение. Оно делает песню по-настоящему личной».\n\n«Leave Me Behind» выходит вслед за «Rattle The Cage» и возглавившим чарты синглом «Bones For The Crows», который ознаменовал первый за долгое время новый материал NICKELBACK после альбома «Get Rollin'» 2022 года и познакомил мир с композицией «Everything Under The Sun».\n\nАльбом выходит в момент нового витка популярности одного из самых ярких рок-коллективов в истории — после мирового успеха хвалебно встреченного документального фильма «Hate to Love: Nickelback» и рекордного мирового турне «Get Rollin'», ставшего самым быстро распроданным и самым посещаемым туром за всю карьеру группы.\n\nВ совокупности три сингла дают хорошее представление о широте альбома «Everything Under The Sun». Верный своему названию, он исследует полный спектр всего того, что сделало NICKELBACK одной из крупнейших рок-групп в мире: возвышающиеся стадионные гимны, мощнейшие гитары, неоспоримые мелодии, вдумчивое сочинительство и ту самую неповторимую химию, которая определяет коллектив вот уже более трёх десятилетий.\n\nНачав свой путь со скромных истоков в городке Ханна, провинция Альберта, NICKELBACK выросли в один из самых успешных рок-коллективов XXI века. С момента выхода на мировую сцену с альбомом «Silver Side Up» и определившим целую эпоху хитом «How You Remind Me» коллектив создал непревзойдённую коллекцию рок-хитов, получив по пути множество номинаций на «Грэмми», American Music Awards, Billboard Music Awards, JUNO Awards, а также международное признание.\n\nПродав почти 60 миллионов альбомов по всему миру, набрав миллиарды прослушиваний на цифровых платформах и удерживая более 50 миллионов ежемесячных слушателей на стриминговых сервисах, NICKELBACK остаются одним из самых прослушиваемых и коммерчески успешных рок-коллективов планеты. Их музыка продолжает находить отклик у представителей разных поколений, обретая новую аудиторию через стриминг и одновременно сохраняя преданную армию поклонников по всему миру, которая на протяжении более двух десятилетий заполняет стадионы.\n\nЭта неослабевающая популярность достигла новых высот за последние несколько лет. Документальный фильм Netflix «Hate To Love: Nickelback» стал настоящей мировой сенсацией, неделями удерживаясь в глобальном топ-10 платформы и предлагая фанатам беспрецедентный взгляд на удивительный путь группы. В то же время мировое турне «Get Rollin'» побило рекорды посещаемости и вновь подтвердило репутацию NICKELBACK как одного из главных живых коллективов рок-сцены.\n\n«Everything Under The Sun» развивает этот импульс, при этом уверенно глядя вперёд. Это одновременно и празднование всего, чего достигли NICKELBACK, и заявление о том, что их творческий огонь горит так же ярко, как и прежде.\n\nАльбом также становится первым релизом NICKELBACK на лейбле Virgin Music Group — ведущем мировом партнёре независимых лейблов, артистов и предпринимателей.\n\nКогда коллектив вступает в эту захватывающую новую главу своей истории, президент Virgin Music Group по Северной Америке Jacqueline Saturn: «NICKELBACK построили одну из самых впечатляющих карьер в музыке, и для всей команды Virgin Music Group огромная честь работать вместе с группой, обладающей столь прочным наследием и глобальным влиянием.\n\nМы в восторге от партнёрства с ними в начале этой захватывающей новой главы и не можем дождаться, когда фанаты услышат «Everything Under The Sun».\n\nСпустя более тридцати лет карьеры NICKELBACK продолжают развиваться, не теряя того неповторимого звучания, которое сделало их одним из знаковых коллективов современного рока. Альбомом «Everything Under The Sun» они доказывают, что их история ещё далека от завершения — и что главные моменты их карьеры, возможно, всё ещё впереди.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T07:49:15+00:00",
+      "id": "a88d448b158cf4e67cb28b9ff27f66818dfaeb2f",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Сдавший назад вокалист ICED EARTH ответил JON'y SCHAFFER'y спустя 14 месяцев",
+      "link": "http://www.darkside.ru/news/184972/",
+      "rss_body": "Бывший вокалист ICED EARTH STU BLOCK ответил лидеру группы JON'y SCHAFFER'y после того, как гитарист назвал реакцию BLOCK'а на причастность Schaffer'а к штурму Капитолия США «насквозь позёрским поступком».\n\nКогда Schaffer попал на знаменитые снимки как один из тех, кто ворвался в Капитолий США 6 января 2021 года, STU сначала опубликовал в сети сообщение, которое выглядело как одобрение или благосклонная реакция на происходящее. После шквала негативных откликов BLOCK удалил пост и выступил с публичным осуждением инцидента, косвенно отмежевавшись от Schaffer'а, которого позже арестовали.\n\nВ прошлом году Schaffer назвал этот разворот BLOCK'а «позёрским ходом»: по его словам, тот сдал назад под давлением. Schaffer заявил, что уважает талант BLOCK'а, прощает его и не питает личной ненависти или злобы, но исключил любое воссоединение или рабочие отношения в будущем.\n\nВ выпуске «Podcast Of The Wicked» в сентябре 2025 года Jon рассказал о своих нынешних отношениях со STU и ещё одним бывшим коллегой, вокалистом BLIND GUARDIAN Hansi Kürsch'ем. Оба дистанцировались от поступков Jon'а после первых сообщений о том, что Schaffer причастен к беспорядкам.\n\nBLOCK, уроженец Канады, певший в ICED EARTH с 2011 года, официально покинул коллектив в феврале 2021 года, заявив тогда, что это «лучшее решение во многих отношениях» для его «личного и профессионального роста в дальнейшем». Примерно в то же время родившийся Kürsch покинул состав DEMONS & WIZARDS, своего давнего проекта с Schaffer'ом.\n\nJon сказал: «Позвольте мне воспользоваться случаем и сказать: я надеюсь, что фанаты там перестанут… то есть я бы хотел, чтобы они перестали поливать грязью STU'а и Hansi… Парней прижали. Кто-то справился с этим лучше, кто-то повёл себя очень слабо и довольно жалко. И думаю, главная проблема со STU в том, что он выложил пост [6 января 2021 года], где радовался происходящему, а потом переобулся, что выглядит как насквозь позёрский ход.\n\nЗнаете что? Это и есть насквозь позёрский ход, но ничего страшного. Простите его. Мы проделали вместе отличную работу. У меня были одни из лучших времён в жизни со STU… У меня очень дорогие воспоминания о STU, так что, пожалуйста, просто простите его. Я его прощаю… У меня правда нет злого умысла. Я знаю [истинную натуру STU'а], и это хорошо. Мне не интересно тусоваться вместе, как раньше, у меня нет такого желания, но он часть истории коллектива, и мы сделали вместе отличные вещи. И я желаю ему всего наилучшего».\n\nВскоре после того, как интервью выложили на Ётуб, BLOCK ответил в Епплобуке всего пятью словами: «Я сейчас абсолютно раздавлен».\n\nТеперь, почти через 14 месяцев после того, как Schaffer сделал свой «позёрский» комментарий в адрес BLOCK'а, STU написал на своей странице пространный ответ на то, что назвал «слабым аргументом» Jon'а и попыткой «отмахнуться от человека, не вникая в то, что он на самом деле думает».\n\nSTU написал: «Я размышлял о комментарии, который много месяцев назад сделал в мой адрес человек, которого я когда-то считал другом, и думаю, что здесь есть более серьёзный разговор, который стоит провести.\n\nНазывать кого-то „позёром“ часто признак незрелости и неуверенности, потому что это заменяет содержательный разговор поверхностным суждением. Это предполагает, что человек считает, будто у него есть право решать, кто настоящий, кто здесь свой и кто достоин уважения.\n\nИстинной уверенности не нужно подвергать сомнению чужую подлинность, чтобы подтвердить собственную. Когда ты уверен в себе, тебе не нужно принижать других за то, что у них другие убеждения, опыт или взгляды. Особенно в металл-сообществе, где индивидуальность, бунт и свобода самовыражения всегда были предметом гордости, называть кого-то позёром невероятно иронично. По сути, вы требуете конформизма в культуре, которая гордится его отрицанием.\n\nЭто слабый аргумент, потому что на самом деле это вообще не аргумент. Это ярлык, который используют, чтобы отмахнуться от человека, не вникая в то, что он на самом деле думает, что ему есть сказать, во что он верит и за что стоит. В том, чтобы назначить себя привратником чужой личности или чужой честности, нет ничего впечатляющего.\n\nЗрелость это понимание того, что люди могут идти разными путями, менять мнение на основании фактов, страстно спорить, отстаивать собственные убеждения и всё равно заслуживать уважения. Мне не нужно ничьё одобрение, чтобы подтверждать мою подлинность, мой вклад и годы, которые я посвятил своему ремеслу. Моя работа, мой характер и мои поступки говорят сами за себя.\n\nПодлинность не доказывают, унижая других. Её демонстрируют собственными поступками. И, пожалуй, величайшая ирония в том, что те, кто больше всего времени тратит на обвинения других в позёрстве или на то, чтобы вас принизить, почти всегда и есть те самые люди, которых больше всего заботит доказательство собственной подлинности. Это выглядит так отчаянно и слабо.\n\nНастоящая сила в том, чтобы иметь смелость отстаивать собственные убеждения, даже когда это стоит тебе чужого одобрения. Слабость в том, чтобы считать, что каждый, кто не стоит рядом с тобой, обязательно стоит ниже тебя.\n\nМне нечего доказывать, оскорбляя кого-то другого. Я лучше позволю моим поступкам, моей музыке и тому, как я отношусь к людям, определять, кто я.\n\nВ конце концов, уважение не в том, чтобы соглашаться со всем, что человек говорит или делает. Оно в том, чтобы иметь достаточно зрелости и признавать: несогласие не обесценивает ничьё достоинство, достижения или честность.\n\nВЫ не вправе определять чужую подлинность лишь потому, что кто-то выбрал иной путь, чем ваш».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T06:47:19+00:00",
+      "id": "d4e49a9d5147a8cf4dc010a9b46f7bc58116129e",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "VINNY APPICE&#039;s SABBATH KNIGHTS исполнили классику BLACK SABBATH и DIO",
+      "link": "http://www.darkside.ru/news/184912/",
+      "rss_body": "Барабанщик BLACK SABBATH, DIO и HEAVEN & HELL Vinny Appice выступил в рамках BLACK SABBATH/DIO с группой под названием SABBATH KNIGHTS 30 октября в Goldfield Trading Post Roseville, Roseville, California — видео доступно для просмотра.\n\n#Appice #Hard 'n' Heavy #_Hard 'n' Heavy",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T05:58:53+00:00",
+      "id": "68836b2ee14d5671a152f93d371a0e0aa48df8b7",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Барабанщик CRIMSON GLORY уходит из команды",
+      "link": "http://www.darkside.ru/news/184891/",
+      "rss_body": "DANA BURNELL опубликовал следующее сообщение:\n\n«Всем поклонникам CRIMSON GLORY по всему миру,\n\nСегодня я делюсь с вами тем, что принял очень трудное решение уйти из CRIMSON GLORY. Это исключительно мое личное решение, и мне, конечно, нелегко отказаться от него, особенно учитывая тот невероятный новый состав, который мы создали.\n\nЯ хочу сразу же прояснить все предположения: в этой группе нет абсолютно никаких разногласий. Мы все любим друг друга, прекрасно ладим и искренне наслаждаемся обществом друг друга, джемуем и выступаем на концертах вместе. Между нами пятерыми царит удивительная химия, и это просто совершенно позитивная, потрясающая атмосфера, частью которой приятно быть. Именно поэтому мне так трудно об этом говорить.\n\nХотя я ухожу, я всегда буду частью семьи CRIMSON GLORY, сейчас и навсегда.\n\nПо правде говоря, даже в самом начале путешествия всегда давались мне нелегко. Хотя мне всегда нравилось встречаться с фанатами, зажигать на сценах и впитывать вашу невероятную энергию, я никогда не был силен в путешествиях во время гастролей. Кроме того, CRIMSON GLORY не всегда работали на полную в режиме нон-стоп. За пределами группы я более 30 лет владел компанией по уходу за ландшафтом. В летние месяцы в этом бизнесе очень оживленная атмосфера, то есть ровно тогда, когда гастроли и фестивали набирают обороты. Становится все труднее совмещать и то, и другое, поддерживая при этом процветание моего бизнеса и моей музыки.\n\nСамое главное, я один из немногих счастливчиков в этом мире, кому довелось пережить настоящую историю любви. У нас с женой потрясающий брак; мы просто любим общество друг друга и с нетерпением ждем возможности видеться каждый божий день. Я чувствую, что нахожусь на том этапе своей жизни, когда я ищу более спокойную, размеренную личную жизнь. Я готов отойти от записи и гастролей, чтобы сосредоточиться на своей семье и проводить с ней больше времени.\n\nJeff, Ben и я собрали нынешний состав, и я искренне верю, что Mark Borgmeyer и Travis Wills — лучшее, что когда-либо случалось с CRIMSON GLORY. Это два супер-талантливых музыканта без эгоизма и без каких-либо планов на будущее; они просто хотят быть отличными друзьями, создавать потрясающую музыку и давать невероятные концерты по всему миру.\n\nСпасибо моим коллегам по группе за незабываемое братство и спасибо фэнам за вашу неизменную любовь и поддержку на каждом этапе. Я всегда буду дорожить музыкой, которую мы создавали вместе, и желаю группе только самого лучшего!»",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T05:01:46+00:00",
+      "id": "599a5431ab596e1d2454093550e1c4ca2b8c2f47",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новая песня PRONG",
+      "link": "http://www.darkside.ru/news/184973/",
+      "rss_body": "\"New Commission\", новая песня группы PRONG, доступна для прослушивания ниже. Этот трек взят из альбома Prong, выход которого запланирован на шестое ноября на Napalm Records в различных вариантах винила, на CD с двумя бонус-треками и в цифровом варианте:\n\n01. The Banner\n\n02. New Commission\n\n03. The Uprising\n\n04. Uncertain Truth\n\n05. Fear The Sun\n\n06. Commonsense Resolution\n\n07. Doomed World\n\n08. Proportionate Response\n\n09. Transgression\n\n10. Simulated Drowning\n\n11. Our Continuance\n\n12. Out Of Body (bonus track)\n\n13. Cruel Summer (bonus track)",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T04:08:36+00:00",
+      "id": "7b46705ee09cf0153f55b4cc4d88d446535238bf",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "TRIUMPH отменили вторую часть тура",
+      "link": "http://www.darkside.ru/news/184919/",
+      "rss_body": "TRIUMPH отменили ранее анонсированную часть тура \"Rock & Roll Machine Reloaded\".\n\n«С глубоким разочарованием мы сообщаем об отмене оставшихся концертов тура «Reloaded» 2026 года в связи с внезапными и непредвиденными медицинскими обстоятельствами, затронувшими участников группы. Поскольку второй этап тура должен был начаться менее чем через три недели, эти обстоятельства не позволяют нам проводить репетиции и продолжать подготовку к запланированным концертам.\n\nМы понимаем, что это объявление появилось в последний момент, и искренне приносим извинения за разочарование и неудобства, которые это вызовет.\n\nНашим поклонникам: спасибо за ваше терпение, понимание и неизменную поддержку. Мы всегда знали, что у TRIUMPH лучшие поклонники в мире, и нас постоянно трогает та любовь, которую вы нам проявляете. Ваша поддержка значит для нас больше, чем мы можем выразить словами, особенно в такое трудное время. К счастью, прогноз обнадеживающий, и мы вернёмся на сцену к вам как можно скорее.\n\nВсе билеты, приобретённые на отменённые даты, будут автоматически возвращены через точку первоначальной покупки. Владельцам билетов не нужно предпринимать никаких действий для получения возмещения. Поклонникам, у которых возникнут вопросы относительно своих заказов, следует обратиться к продавцу, у которого они приобрели билеты».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T03:16:26+00:00",
+      "id": "6bb90afb101e5ea5a41b57a7ca80b69b701d9980",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Лидер FIVE FINGER DEATH PUNCH удваивает ставки",
+      "link": "http://www.darkside.ru/news/184975/",
+      "rss_body": "ZOLTAN BATHORY, основатель мультиплатиновой рок-группы FIVE FINGER DEATH PUNCH, председатель Федерации профессионального грэпплинга (PGF) и пожизненный мастер боевых искусств, объявил, что он удваивает свои обязательства по возвращению дзюдо. Спустя несколько дней после того, как компания Bathory выделила 100 000 долларов в фонд USA Judo в рамках инициативы FIVE FINGER DEATH PUNCH\"20th Anniversary World Tour\", направленной на поддержку спортсменов, выступающих на Олимпийских играх 2028 года в Лос-Анджелесе, Zoltan выделяет еще 100 000 долларов на финансирование Pro Judo, профессионального соревнования по дзюдо с высокими ставками, которое проводится только по приглашению. турнир состоится в Лас-Вегасе 10 ноября в 16:00 по североамериканскому времени.\n\nВидение Zoltan'а объединяет соревновательный спорт с развлекательной программой: предоставить спортсменам профессиональную сцену, сделать действо доступным для новых зрителей и создать шоу, которое люди захотят посмотреть, независимо от того, знакомы ли они с дзюдо или видят его впервые. Четырехчасовая трансляция будет доступна по\n\nэтому адресу\n\n.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T02:18:15+00:00",
+      "id": "b232776ff5c4347ff1ed72b6a68c893148d66aac",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео PATRIARCHS IN BLACK",
+      "link": "http://www.darkside.ru/news/184986/",
+      "rss_body": "Spoiler Alert, новое видео PATRIARCHS IN BLACK, доступно для просмотра. Этот трек взят из нового альбома \"To Serve Man\", релиз которого намечен на восьмое января на Metalville:\n\n1. These Dark Days…\n\n2. Tectonic\n\n3. No More Blood\n\n4. You\n\n5. Spoiler Alert\n\n6. No Hue\n\n7. Nothing Left in the Tank for Love\n\n8. Feast of Snakes\n\n9. World Standing Still\n\n10. Sky Song\n\n11. Murder Machine\n\n12. Left Behind",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T02:09:20+00:00",
+      "id": "cc1fe2c974cdc0b8ee6f0cf205bf4aa9777e13ed",
+      "retry_after": 0
     }
   ]
 }
