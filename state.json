@@ -1415,49 +1415,17 @@
     "395ca2061d3bc45682b2135e785b4581160309b8",
     "3d1e2fcbfa5adfeeacf10ad7c72ff8257a2511ae",
     "4e3904ba6cdb570a45cfea1287f5c53e73392497",
-    "1da87f84696628449f8961d940daa12eb96c4ec8"
+    "1da87f84696628449f8961d940daa12eb96c4ec8",
+    "c8f8efe33cd2db8ee8176ffb997af04d0d211a51",
+    "7a09efd450dc1d7ba48b16a45eb5bebed4f02a18",
+    "46b4875c29633a20e9e09c1156cc0096355f64e3",
+    "aa7eb7f56dd7d31413ad4331006a37f2499b6c33",
+    "d7db1e9c482b757326c0322e99a4a27c3051bc49",
+    "8b0d4c14f20e9d08c73e24d71866ce7c3b255f1c",
+    "0483b2c68f47c5c22e7fee29a6b4e71c61a68a55",
+    "4cb6efcf5b90573bdf2fd98065664b6fa6396d81"
   ],
   "recent_titles": [
-    {
-      "title": "Вокалист DEEP PURPLE попал в больницу",
-      "source": "Darkside",
-      "ts": 1793479270
-    },
-    {
-      "title": "TONY IOMMI: «Мне 78, я кайфую от всего!»",
-      "source": "Darkside",
-      "ts": 1793479271
-    },
-    {
-      "title": "Новое видео VENUS GRRRLS",
-      "source": "Darkside",
-      "ts": 1793479273
-    },
-    {
-      "title": "Новое видео VANTA HEARTS",
-      "source": "Darkside",
-      "ts": 1793479274
-    },
-    {
-      "title": "Новое видео CONFESS",
-      "source": "Darkside",
-      "ts": 1793479275
-    },
-    {
-      "title": "Новое видео STELLVRIS",
-      "source": "Darkside",
-      "ts": 1793479293
-    },
-    {
-      "title": "40 Below Summer’s “Cutting The Cord” Music Video Debuts",
-      "source": "ThePRP",
-      "ts": 1793479296
-    },
-    {
-      "title": "Repentance’s New Single “Among The Wolves” Debuts",
-      "source": "ThePRP",
-      "ts": 1793479300
-    },
     {
       "title": "Steve Hackett recalls messing with Genesis at their Rock Hall induction",
       "source": "Louder",
@@ -2217,6 +2185,46 @@
       "title": "Профессиональное видео с выступления METALLICA из Сферы",
       "source": "Darkside",
       "ts": 1793890969
+    },
+    {
+      "title": "Convictions Sign With UNFD, “Atonement” Music Video Premieres",
+      "source": "ThePRP",
+      "ts": 1793914018
+    },
+    {
+      "title": "Thrown Into Exile Had Arch Enemy’s Michael Amott Guest On Their New Track “Remorse”",
+      "source": "ThePRP",
+      "ts": 1793914029
+    },
+    {
+      "title": "The Hate Project’s “Annihilation” Music Video Debuts",
+      "source": "ThePRP",
+      "ts": 1793914032
+    },
+    {
+      "title": "Scroll Eater’s “In The Mouth Of The Prophet” EP Lands Alongside “Behold The Glory” Video",
+      "source": "ThePRP",
+      "ts": 1793914037
+    },
+    {
+      "title": "Tony Iommi Singer Jorn Lande Was Told His Lyrics Were Too Dark",
+      "source": "Ultimate Classic Rock",
+      "ts": 1793914050
+    },
+    {
+      "title": "Gorguts, Immolation, Imperial Triumphant, Etc. Added To 2027 ‘NorthWest Terror Fest’",
+      "source": "ThePRP",
+      "ts": 1793914062
+    },
+    {
+      "title": "Whitechapel’s Gruesome NSFW “Bedlam” Music Video Debuts Online",
+      "source": "ThePRP",
+      "ts": 1793914070
+    },
+    {
+      "title": "New ‘Cheese-Filled’ Vinyl Pressing Of Primus’ “Sailing The Seas Of Cheese” Due This Month",
+      "source": "ThePRP",
+      "ts": 1793914076
     }
   ],
   "initialized_sources": [
@@ -6470,7 +6478,7 @@
       "title": "Watch: Will Smith Moshes to Animals As Leaders at Daughter Willow’s Birthday Party",
       "link": "https://metalinjection.net/news/watch-will-smith-moshes-to-animals-as-leaders-at-daughter-willows-birthday-party",
       "rss_body": "The band played an intimate set for her 26th birthday.",
-      "tags": "Latest News Animals As Leaders Will Smith featured1",
+      "tags": "Latest News Animals As Leaders Will Smith featured",
       "category": "Хэви-метал",
       "published": "2026-11-04T18:25:13+00:00",
       "id": "7700d7f02ff33773400d35c345a1dacdec392f2a",
@@ -6497,7 +6505,7 @@
       "title": "Rush Announces 2027 Sphere Las Vegas Residency",
       "link": "https://metalinjection.net/tour-dates/rush-announces-2027-sphere-las-vegas-residency",
       "rss_body": "The rumors turned out to be true!",
-      "tags": "Tour Dates rush",
+      "tags": "Tour Dates rush featured",
       "category": "Прогрессив",
       "published": "2026-11-05T14:52:25+00:00",
       "id": "008b57fc1a91419460ab113be046d583be1f2ebe",
@@ -6523,7 +6531,7 @@
       "priority": 84,
       "title": "Pink Floyd announce Animals 50 reissue across various formats",
       "link": "https://www.loudersound.com/music/albums/pink-floyd-announce-animals-50-reissue-across-various-formats",
-      "rss_body": "Pink Floyd's long-awaited, much-delayed reissue treatment of\n\nAnimals\n\ncomes to fruition on January 22 when the album gets released across a variety of formats through Sony Music, including a Deluxe Box set, various vinyl formats, CD and digital.\n\nThe band have shared a 1977 promotional radio edit of\n\nSheep\n\n, which has never been commercially available.\n\nThe album has something of a convoluted release history, when a planned box set in line with similar releases that have appeared for\n\nThe Dark Side Of The Moon\n\n,\n\nWish You Were Here\n\n,\n\nThe Wall\n\nand\n\nThe Division Bell\n\n, was scrapped over an issue with some of the liner notes. In the end the album was released as\n\nAnimals 2018 Remix\n\non vinyl, CD, Blu-ray and digital.\n\nThe Deluxe Box Set contains 3 LPs: the original 1977 album, the 2018 Remix (remixed by James Guthrie), and a disc of five rarities that includes an unheard\n\nRoger Waters\n\ntrack titled\n\nYoung Nicholas Jon\n\nand previously unreleased early versions of\n\nSheep\n\nand\n\nDogs.\n\nIt also has 5 CDs mirroring the LPs, plus a 2-disc set of the May 9, 1977 Oakland show recorded live at the Oakland Coliseum Arena by a then 19 year old bootlegger, Reinhard Hohlwein, and the 1-disc Blu-ray, which includes all of the above audio with the 2018 Remix being available in 5.1 and Dolby Atmos\n\nIt also features a 64-page hardback book comprising new sleeve notes from\n\nNew York Times\n\nbest-selling author and life-long Floyd fan Jonathan Lethem, an interview with Reinhard Hohlwein, and an excerpt from Hipgnosis’ Audrey “Po” Powell’s memoir about the making of\n\nAnimals\n\n’ iconic album art.\n\n(Image credit: Hipgnosis © Sony Music Entertainment)\n\nThe 1LP release contains the original 1977 album in orange and sandstone colour variants. The 2LP and 2CD sets contain the original 1977 album plus rarities, as does the digital release, which also features the Oakland show, while the Blu-ray features both mixes, rarities and the live material.\n\n“The mood in music was changing in ’77,\"\n\nDavid Gilmour\n\nsaid at the time of the album's release. \"Punk music was hitting everything and I suspect that had a little bit of an influence on the way we were working on the\n\nAnimals\n\nalbum. I mean it’s quite an aggressive, stripped-back album. It was moving away from the sort of soundscapes that we had on Wish You Were Here. This album is more in your face and more rough and ready. And definitely the lyrics are a lot more aggressive from Roger. We had a lot of fun making it.”\n\n\"There were all sorts of differences beginning to surface within the band but in some ways\n\nAnimals\n\nwas a remarkably cohesive enterprise,\"\n\nNick Mason\n\nadds. \"The big thing was the development of Britannia Row. Britannia Row was this building we’d bought some few years before in which we’d actually started building our own recording studio. We tried to design the studio in such a way that any of us could operate it and all the trunking was labelled clearly so anyone could plug in a set of headphones without someone else having to do it for us.”\n\nPre-order\n\nAnimals 50\n\n.\n\n(Image credit: EMI)\n\nAnimals 50\n\nTracklisting & Formats:\n\nDIGITAL\n\n“Disc 1” - Animals (Original album)\n\nPigs on the Wing 1\n\nDogs\n\nPigs (Three Different Ones)\n\nSheep\n\nPigs on the Wing 2\n\n“Disc 2” - Animals (2018 Remix)\n\nPigs on the Wing 1 - 2018 Remix\n\nDogs - 2018 Remix\n\nPigs (Three Different Ones) - 2018 Remix\n\nSheep - 2018 Remix\n\nPigs on the Wing 2 - 2018 Remix\n\n“Disc 3” - Rarities\n\nDogs - Early Version, Rough Mix*\n\nSheep - Original Radio Edit*\n\nSheep - Early Version, Rough Mix*\n\nStudio Jam*\n\nYoung Nicholas Jon*\n\n“Disc 4” - Live from the Oakland Coliseum Arena, 1977\n\nSheep (Live)*\n\nPigs on the Wing 1 (Live)*\n\nDogs (Live)*\n\nPigs on the Wing 2 (Live)*\n\nPigs (Three Different Ones) (Live)*\n\nShine On You Crazy Diamond (Pts. 1-5) (Live)*\n\nWelcome to the Machine (Live)*\n\nHave a Cigar (Live)*\n\nWish You Were Here (Live)*\n\nShine On You Crazy Diamond (Pts. 6-9) (Live)*\n\nMoney (Live)*\n\nUs And Them (Live)*\n\nCareful With That Axe, Eugene (Live)*\n\n2 LP\n\nLP1: Animals (Original album)\n\nLP2: Rarities\n\n2 CD\n\nCD1: Animals (Original album)\n\nCD2: Rarities\n\nBlu-Ray\n\nAnimals - Original Stereo Mix (1977)\n\nAnimals - Remix: Stereo + 5.1 + Atmos (2018)\n\nRarities (Stereo Mix)\n\nLive from the Oakland Coliseum Arena, 1977\n\nDeluxe Box Set Includes:\n\n5CD\n\nCD1: Animals (Original album)\n\nCD2: Animals (2018 Remix)\n\nCD3: Rarities\n\nCD4: Live from the Oakland Coliseum Arena, 1977 Disc 1\n\nCD5: Live from the Oakland Coliseum Arena, 1977 Disc 2\n\n3LP\n\nLP1: Animals (Original album)\n\nLP2: Animals (2018 Remix)\n\nLP3: Rarities\n\nBlu-Ray\n\nAnimals - Original Stereo Mix (1977)\n\nAnimals - Remix: Stereo + 5.1 + Atmos (2018)\n\nRarities (Stereo Mix)\n\nLive from the Oakland Coliseum Arena, 1977\n\n* never before officially released",
+      "rss_body": "Pink Floyd\n\n's long-awaited, much-delayed reissue of\n\nAnimals\n\nwill finally arrive on January 22, when the album is released across a variety of formats through Sony Music, including a Deluxe Box set, various vinyl formats, CD and digital.\n\nThe band have shared a 1977 promotional radio edit of\n\nSheep\n\n, which has never been commercially available.\n\nThe album has a convoluted release history: a planned box set, in line with similar releases for\n\nThe Dark Side Of The Moon\n\n,\n\nWish You Were Here\n\n,\n\nThe Wall\n\n,\n\nand\n\nThe Division Bell\n\n, was scrapped over an issue with some of the liner notes. In the end, the album was released as\n\nAnimals 2018 Remix\n\non vinyl, CD, Blu-ray and digital.\n\nThe Deluxe Box Set contains 3 LPs: the original 1977 album, the 2018 Remix (remixed by James Guthrie), and a disc of five rarities that includes an unheard\n\nRoger Waters\n\ntrack titled\n\nYoung Nicholas Jon\n\nand previously unreleased early versions of\n\nSheep\n\nand\n\nDogs.\n\nIt also has five CDs mirroring the LPs, plus a two-disc set of the May 9, 1977 Oakland show recorded live at the Oakland Coliseum Arena by a then 19-year-old bootlegger, Reinhard Hohlwein, and the single-disc Blu-ray, which includes all of the above audio, with the 2018 Remix being available in 5.1 and Dolby Atmos\n\nIt also features a 64-page hardback book comprising new sleeve notes from\n\nNew York Times\n\nbest-selling author and lifelong Floyd fan Jonathan Lethem, an interview with Reinhard Hohlwein, and an excerpt from Hipgnosis’ Aubrey “Po” Powell’s memoir about the making of\n\nAnimals\n\n’ iconic album art.\n\n(Image credit: Hipgnosis © Sony Music Entertainment)\n\nThe LP release contains the original 1977 album in orange and sandstone colour variants. The 2LP and 2CD sets contain the original 1977 album plus rarities, as does the digital release, which also features the Oakland show, while the Blu-ray features both mixes, rarities and the live material.\n\n“The mood in music was changing in ’77,\" says\n\nDavid Gilmour\n\n. \"Punk music was hitting everything and I suspect that had a little bit of an influence on the way we were working on the\n\nAnimals\n\nalbum. I mean it’s quite an aggressive, stripped-back album. It was moving away from the sort of soundscapes that we had on\n\nWish You Were Here\n\n. This album is more in your face and more rough and ready. And definitely the lyrics are a lot more aggressive from Roger. We had a lot of fun making it.”\n\n\"There were all sorts of differences beginning to surface within the band but in some ways\n\nAnimals\n\nwas a remarkably cohesive enterprise,\"\n\nNick Mason\n\nadds. \"The big thing was the development of Britannia Row. Britannia Row was this building we’d bought some few years before in which we’d actually started building our own recording studio. We tried to design the studio in such a way that any of us could operate it and all the trunking was labelled clearly so anyone could plug in a set of headphones without someone else having to do it for us.”\n\nPre-order\n\nAnimals 50\n\n.\n\n(Image credit: EMI)\n\nAnimals 50\n\nTracklisting & Formats:\n\nDIGITAL\n\n“Disc 1” - Animals (Original album)\n\nPigs on the Wing 1\n\nDogs\n\nPigs (Three Different Ones)\n\nSheep\n\nPigs on the Wing 2\n\n“Disc 2” - Animals (2018 Remix)\n\nPigs on the Wing 1 - 2018 Remix\n\nDogs - 2018 Remix\n\nPigs (Three Different Ones) - 2018 Remix\n\nSheep - 2018 Remix\n\nPigs on the Wing 2 - 2018 Remix\n\n“Disc 3” - Rarities\n\nDogs - Early Version, Rough Mix*\n\nSheep - Original Radio Edit*\n\nSheep - Early Version, Rough Mix*\n\nStudio Jam*\n\nYoung Nicholas Jon*\n\n“Disc 4” - Live from the Oakland Coliseum Arena, 1977\n\nSheep (Live)*\n\nPigs on the Wing 1 (Live)*\n\nDogs (Live)*\n\nPigs on the Wing 2 (Live)*\n\nPigs (Three Different Ones) (Live)*\n\nShine On You Crazy Diamond (Pts. 1-5) (Live)*\n\nWelcome to the Machine (Live)*\n\nHave a Cigar (Live)*\n\nWish You Were Here (Live)*\n\nShine On You Crazy Diamond (Pts. 6-9) (Live)*\n\nMoney (Live)*\n\nUs And Them (Live)*\n\nCareful With That Axe, Eugene (Live)*\n\n2 LP\n\nLP1: Animals (Original album)\n\nLP2: Rarities\n\n2 CD\n\nCD1: Animals (Original album)\n\nCD2: Rarities\n\nBlu-Ray\n\nAnimals - Original Stereo Mix (1977)\n\nAnimals - Remix: Stereo + 5.1 + Atmos (2018)\n\nRarities (Stereo Mix)\n\nLive from the Oakland Coliseum Arena, 1977\n\nDeluxe Box Set Includes:\n\n5CD\n\nCD1: Animals (Original album)\n\nCD2: Animals (2018 Remix)\n\nCD3: Rarities\n\nCD4: Live from the Oakland Coliseum Arena, 1977 Disc 1\n\nCD5: Live from the Oakland Coliseum Arena, 1977 Disc 2\n\n3LP\n\nLP1: Animals (Original album)\n\nLP2: Animals (2018 Remix)\n\nLP3: Rarities\n\nBlu-Ray\n\nAnimals - Original Stereo Mix (1977)\n\nAnimals - Remix: Stereo + 5.1 + Atmos (2018)\n\nRarities (Stereo Mix)\n\nLive from the Oakland Coliseum Arena, 1977\n\n* never before officially released",
       "tags": "Albums Music",
       "category": "Хэви-метал",
       "published": "2026-11-05T14:01:38+00:00",
@@ -6636,6 +6644,336 @@
       "category": "Хэви-метал",
       "published": "2026-11-05T02:09:20+00:00",
       "id": "cc1fe2c974cdc0b8ee6f0cf205bf4aa9777e13ed",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Here’s That Haywire Video the NYPD Broke Up",
+      "link": "https://metalinjection.net/new-music/watch-heres-that-haywire-video-the-nypd-broke-up",
+      "rss_body": "They made the NYPD flex their heads.",
+      "tags": "New Music haywire",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T21:12:19+00:00",
+      "id": "fc1f10d3ea4ad31a2a4f8b8f444542f896d11c69",
+      "retry_after": 1793914311
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Coheed and Cambria Announce 2027 Neverender Cruise With Glassjaw, Joyce Manor and More",
+      "link": "https://metalinjection.net/news/coheed-and-cambria-announce-2027-neverender-cruise-with-glassjaw-joyce-manor-and-more",
+      "rss_body": "Sailing from Miami to Grand Cayman in November 2027.",
+      "tags": "Latest News coheed and cambria",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T20:43:48+00:00",
+      "id": "edcdb4e13fc01c5e3334c7171d3e06a6f1399a74",
+      "duplicate_ids": [
+        "9bb7e4c56669dd3ac3572ec85f01aaa01771a67b"
+      ],
+      "retry_after": 1793914330
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Comeback Kid Taps Courtney LaPlante For New Single, \"Shedding Season\"",
+      "link": "https://metalinjection.net/new-music/listen-comeback-kid-taps-courtney-laplante-for-new-single-shedding-season",
+      "rss_body": "Coming off their upcoming new record 'Chosen Hell,' out November 6.",
+      "tags": "New Music comeback kid Courtney LaPlante",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T19:12:43+00:00",
+      "id": "3a3521afc2daf7d8a7d801cb13122004a45638c0",
+      "retry_after": 1793914351
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Chuck Billy of Testament on Reliving His Cancer Experience, Opening Up Publicly [Exclusive]",
+      "link": "https://metalinjection.net/video/chuck-billy-of-testament-on-reliving-his-cancer-experience-opening-up-publicly-exclusive",
+      "rss_body": "Chuck Billy sits down with Metal Injection for a comprehensive look at his upcoming memoir.",
+      "tags": "Testament chuck billy",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T18:45:17+00:00",
+      "id": "6b22c012e9ffa57ba33c8437786a4c46c22515c8",
+      "retry_after": 1793914371
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "King Buffalo Stream New Track “Ether On The Dark Side”",
+      "link": "https://www.theprp.com/2026/11/05/news/king-buffalo-stream-new-track-ether-on-the-dark-side/",
+      "rss_body": "Dark side of the doom(sayer).",
+      "tags": "News King Buffalo",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T18:06:55+00:00",
+      "id": "ce128a9695e6fd040bea3abbf13a123601da70c8",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Listen: Death Angel Release Snarky New Single, \"The Never Was\"",
+      "link": "https://metalinjection.net/new-music/listen-death-angel-release-snarky-new-single-the-never-was",
+      "rss_body": "Catch the band touring Europe with Vio-lence next month.",
+      "tags": "New Music DEATH ANGEL",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T18:06:33+00:00",
+      "id": "fe15c48880158f637cbb48d3e11543374ce95445",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "“It’s going to be very difficult. It’s hard to let go”: Is Pallas’ new album the veterans’ final bow?",
+      "link": "https://www.loudersound.com/music/albums/pallas-song-for-tomorrow-final-album",
+      "rss_body": "Pallas\n\n’ newly-released album,\n\nA Song For Tomorrow\n\n, is likely to be their last. It comes three years after 2023’s\n\nThe Messenger\n\nand arrives a year after singer\n\nAlan Reed\n\nrevealed he’d been\n\ndiagnosed with Parkinson’s disease\n\n.\n\n“I’m one of those guys that says, ‘Never say never,’ because there are lots of things we’ve said in the past that we’d never do again – and we did,” keyboard player Ronnie Brown tells\n\nProg\n\n.\n\n“But this feels different. Towards the end of making it, Niall Mathewson [guitarist] and I felt like it was maybe as far as we could go with the band.”\n\nIf the Scottish prog veterans’ ninth album since forming in 1976 does prove to be their last, it’s a fine swansong. Largely written by Brown and Mathewson, the 10-track record shifts between shorter, punchier songs such as dramatic opener\n\nReset\n\nand the knotty\n\nRushing Headlong\n\n, to more traditional epics like the moody\n\nAvenue Of Broken Dreams\n\nand the stirring\n\nInside Out\n\n, the latter pair sung by Mathewson and Brown respectively.\n\nAll four members, including bassist Graeme Murray, pitch in with lead and backing vocals, and it also features a guest appearance by singer Natasha O’Neil.\n\n“It sounds like Pallas always have, but more modern,” says Reed, who recorded his vocals over four days at his home in Stirlingshire. “There are parts that are moody and atmospheric, there are parts that are much heavier, and there are parts that sit everywhere in between. It really repays repeated listens.”\n\nBrown and Mathewson are also responsible for the album’s lyrics. “It doesn’t have an overall concept,” says Brown, “but if you listen to individual tracks, it’s all about technology, conflict, references to Biblical events.\n\n“Niall sees quite a lot of it as being about the wrongs of the world – wars happening and the feeling that the human race is collapsing in on itself. For me, it’s more about people and their characteristics, what drives us, what gets us out of bed in the morning; it’s a journey through that.”\n\nSadly, a tour or even one-off shows in support of the album are off the table. Pallas’ most recent gig took place in 2015, and Reed formally announced the end of the band as a live act at the end of 2024, citing the cost of touring plus the fact that Mathewson now lives in Cambodia.\n\nThe singer’s health has also meant bringing the curtain down on his own live performances. He bowed out following a short solo tour in September with his other band,\n\nThe Daughters Of Expediency\n\n.\n\n“It’s going to be very difficult,” says Reed of his decision to step back from playing live. “I’ve done this since I was young – it’s hard to let go. But because of my situation I need to stop.”\n\nReed isn’t completely done with music; he has a solo album in the pipeline, duesoon. And Brown says there’s a possibility he’ll continue writing with Murray and Mathewson regardless.\n\n“It is slightly emotional,” says the keyboardist of his band’s apparent end. “We’ve had such a long time together and done so much, and we have so many happy memories. But it certainly feels like we can move on and look at other things in our lives.”\n\nA Song For Tomorrow\n\nis on sale now.",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-11-05T18:00:00+00:00",
+      "id": "12928e1e30990cbce8eb07b5e41c891862373601",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Pig Pen (Matty Matheson, Alexisonfire, Etc.) Announce December U.S. Tour",
+      "link": "https://www.theprp.com/2026/11/05/news/pig-pen-matty-matheson-alexisonfire-etc-announce-december-u-s-tour/",
+      "rss_body": "Directly following their appearance at Converge's 'Saddest Day' festival.",
+      "tags": "News Alexisonfire Matty Matheson Pig Pen",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T17:49:55+00:00",
+      "id": "6fc3df60655b4c771fdf2b9c08058ba5db732fef",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Юбилейный релиз PINK FLOYD выйдет в январе",
+      "link": "http://www.darkside.ru/news/185003/",
+      "rss_body": "Юбилейное издание к 50-летию выйдет в формате подарочного бокс-сета, 2LP, 1LP, 2CD, Blu-Ray и в цифровом виде 22 января 2027 года. В коллекцию вошли многочисленные редкие и неизданные треки, не публиковавшиеся ранее снимки, эксклюзивные эссе и многое другое. Фрагмент из этого издания, «Sheep (Original Radio Edit)», доступен для просмотра\n\nCD 1 (Original Album)\n\n1. Pigs on the Wing 1\n\n2. Dogs\n\n3. Pigs (Three Different Ones)\n\n4. Sheep\n\n5. Pigs on the Wing 2\n\nCD 2 (2018 Remix)\n\n1. Pigs on the Wing 1 – 2018 Remix\n\n2. Dogs – 2018 Remix\n\n3. Pigs (Three Different Ones) – 2018 Remix\n\n4. Sheep – 2018 Remix\n\n5. Pigs on the Wing 2 – 2018 Remix\n\nCD 3 (Rarities)\n\n1. Dogs – Early Version, Rough Mix\n\n2. Sheep – Original Radio Edit\n\n3. Sheep – Early Version, Rough Mix\n\n4. Studio Jam\n\n5. Young Nicholas Jon\n\nCD 4 (Live from the Oakland Coliseum Arena, 1977)\n\n1. Sheep\n\n2. Pigs on the Wing 1\n\n3. Dogs\n\n4. Pigs on the Wing 2\n\n5. Pigs (Three Different Ones)\n\n6. Shine On You Crazy Diamond (Pts. 1-5)\n\nCD 5 (Live from the Oakland Coliseum Arena, 1977)\n\n1. Welcome to the Machine\n\n2. Have A Cigar\n\n3. Wish You Were Here\n\n4. Shine On You Crazy Diamond (Pts. 6-9)\n\n5. Money\n\n6. Us and Them\n\n7. Careful With That Axe, Eugene\n\nLP 1 (Original Album)\n\nSide A\n\n1. Pigs on the Wing 1\n\n2. Dogs\n\nSide B\n\n1. Pigs (Three Different Ones)\n\n2. Sheep\n\n3. Pigs on the Wing 2\n\nLP 2 (2018 Remix)\n\nSide A\n\n1. Pigs on the Wing 1 – 2018 Remix\n\n2. Dogs – 2018 Remix\n\nSide B\n\n1 .Pigs (Three Different Ones) – 2018 Remix\n\n2. Sheep – 2018 Remix\n\n3. Pigs on the Wing 2 – 2018 Remix\n\nLP 3 (Rarities)\n\nSide A\n\n1. Dogs – Early Version, Rough Mix\n\n2. Sheep – Original Radio Edit\n\nSide B\n\n1. Sheep – Early Version, Rough Mix\n\n2. Studio Jam\n\n3. Young Nicholas Jon\n\nBlu-Ray Audio\n\nAnimals (Original album) (stereo)\n\nAnimals (2018 Remix) (stereo + 5.1 + Atmos)\n\nRarities (stereo)\n\nLive from the Oakland Coliseum Arena, 1977\n\nСпустя пять десятилетий после мрачной картины Британии 1970-х, которую он воплощал, почитаемый антиутопический шедевр PINK FLOYD «Animals» заново выходит в нескольких форматах и в подарочном бокс-сете 22 января 2027 года на Sony Music. Юбилейное издание к 50-летию даёт поклонникам свежий взгляд на одну из самых пронзительных и захватывающих работ PINK FLOYD. В него вошла россыпь редкой и неизданной музыки, а также не публиковавшиеся фотографии, открывающие уникальный закулисный ракурс процесса записи, создания культового оформления альбома и новаторской постановки тура.\n\n«Animals 50» выйдет в нескольких форматах, включая подарочный бокс-сет, 1LP, 2LP, 2CD, Blu-Ray Audio и цифровую версию. Подарочный бокс-сет содержит три пластинки: оригинальный альбом 1977 года, ремикс 2018 года (сведённый James'ом Guthrie) и диск с пятью редкостями, среди которых неизвестный трек Roger'а Waters'а под названием «Young Nicholas Jon» и ранее не издававшиеся ранние версии «Sheep» и «Dogs».\n\nВ него также входят пять CD, повторяющих содержание пластинок, двухдисковый набор с концертом 9 мая 1977 года в Окленде, записанным вживую на Oakland Coliseum Arena тогда 19-летним бутлегером Райнхардом Холвайном, и однодисковый Blu-Ray со всем перечисленным аудиоматериалом, где ремикс 2018 года доступен в форматах 5.1 и Dolby Atmos.\n\nПодарочный бокс-сет также включает 64-страничную книгу в твёрдой обложке с новыми заметками на вкладыше от автора бестселлеров The New York Times и давнего поклонника FLOYD Джонатана Летема, интервью с Райнхардом Холвайном и отрывок из мемуаров Обри «По» Пауэлла из Hipgnosis о создании культового оформления «Animals».\n\nЭти увлекательные материалы перемежаются ранее не публиковавшимися снимками, документирующими весь творческий путь: от записи альбома до съёмок обложки на электростанции Баттерси и последовавшего мирового тура. 1LP содержит оригинальный альбом 1977 года в оранжевом и песочном цветовых вариантах. Наборы 2LP и 2CD включают оригинальный альбом 1977 года плюс редкости, как и цифровой релиз, в который также вошёл оклендский концерт.\n\n«Animals» остаётся таким же актуальным в 2026 году, как и в 1977-м. Его антиутопическое кошмарное видение общества, разорванного жадностью и лицемерием, продолжает гноиться в нынешнюю эпоху дезинформации, разобщённости и неопределённости. Музыка и посыл жутковато пророческие: Псы и Свиньи по-прежнему бродят среди нас, а Овцы, сами того не зная, подвергаются манипуляциям ради покорности. И всё же остаётся проблеск надежды.\n\nСамая сырая в текстовом и музыкальном плане работа PINK FLOYD: антикапиталистическая ярость Roger'а Waters'а прорывается на первый план, а на протяжении всего альбома ей вторит пронзительный шквал электрогитары David'а Gilmour'а. Запись проходила на их новой студии Britannia Row, построенной специально для них. Процесс не обошёлся без детских болезней, но минималистичная обстановка помогла выковать жёсткий конечный продукт.\n\nНевероятная креативность и видение, создавшие «Animals», пожалуй, лучше всего воплощены в одном из самых долговечных образов рока: летящей свинье. Придуманное Roger'ом Waters'ом и воплощённое Обри Пауэллом и Стормом Торгерсоном из Hipgnosis, оформление «Animals» ярко иллюстрирует видение Waters'а для этой записи.\n\nРазрушающаяся электростанция Баттерси, мимо которой он проезжал каждый день, представляла, как говорит Пауэлл, «капиталистический монолит, рушащийся в основании под гнётом жадности, разрастающейся бюрократии и устаревшей инфраструктуры». Это подчёркивает парящая над ней свинья, символизирующая жадность правящих классов.\n\nИстория самой съёмки стала легендой и помогла закрепить наследие обложки. Заказали 40-футовую надувную свинью по кличке Элджи и получили разрешение запустить её над станцией. Вокруг станции расставили восьмерых фотографов, поместили вертолёт со съёмочной группой и полицейского снайпера, чтобы при необходимости сбить свинью.\n\nНо из-за технического сбоя съёмку пришлось отложить, а на следующий день, когда Элджи поднялся в воздух, он сорвался с привязи и поплыл в сторону Хитроу. Они забыли заново заказать снайпера. Подняли по тревоге истребители королевских ВВС, рейсы отменили. Назревал международный инцидент, пока не позвонил фермер из Кента, обнаруживший Элджи на одном из своих полей. История быстро стала сенсацией в прессе и вдохновила появление новых надувных свиней в новаторской постановке мирового тура PINK FLOYD «In The Flesh» 1977 года.\n\nРассказывая о создании оформления альбома, Roger Waters говорит: «Я каждый день проезжал мимо электростанции Баттерси по пути к дому и обратно, я жил в Клэпеме. Думаю, мне просто нравилось это здание. Мне нравилась его символика: это электростанция, она изрыгает дым, и в ней есть что-то зловещее. У неё четыре фаллических трубы, и она выглядит как перевёрнутый вверх ногами стол. А в группе было четверо человек, которых перевернули вверх ногами. Это показалось по-настоящему классным местом для полёта свиньи».\n\nГоворя об «Animals», David Gilmour сказал: «Настроение в музыке менялось в 77-м. Панк обрушивался на всё, и я подозреваю, что это немного повлияло на то, как мы работали над „Animals“. Это довольно агрессивный, минималистичный альбом. Он уходил от тех звуковых ландшафтов, которые были у нас на „Wish You Were Here“. Этот альбом более прямой, более грубый и сырой. И тексты у Roger'а определённо гораздо агрессивнее. Нам было очень весело его делать».\n\nNick Mason: «В группе уже начали проявляться всевозможные разногласия, но в каком-то смысле „Animals“ был удивительно сплочённым предприятием. Главным стало развитие Britannia Row. Britannia Row — здание, которое мы купили несколько лет назад и где начали строить собственную студию звукозаписи. Мы пытались спроектировать студию так, чтобы любой из нас мог ею управлять, а все кабельные короба были чётко подписаны, чтобы любой мог подключить наушники без чьей-либо помощи».\n\nНовость об «Animals 50» — последнее событие в замечательной карьере PINK FLOYD и их непреходящем наследии. Ранее в этом году вышел «8-Tracks», новый официальный сборник с восемью важнейшими классическими песнями, выбранными из периода 1971–1979 годов группы. Ему предшествовало юбилейное издание к 50-летию «Wish You Were Here», которое попало в первую десятку чартов по всему миру и стало вторым релизом PINK FLOYD, возглавившим чарты Великобритании, Германии, Италии и Швейцарии в 2025 году, через 50 лет после того, как он впервые возглавил чарт.\n\nСемью месяцами ранее кинопрокатный релиз «Pink Floyd at Pompeii – MCMLXXII» вошёл в десятку лучших по кассовым сборам, а сопровождающий саундтрек-альбом принёс группе первый британский альбом №1 со времён «The Endless River» 2014 года, их последнего студийного LP.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T17:45:33+00:00",
+      "id": "b787d54bf4f4abe79d91a1217c6401754864a3fe",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новые комиксы от IRON MAIDEN",
+      "link": "http://www.darkside.ru/news/184962/",
+      "rss_body": "Z2, ведущий издатель музыкальных графических романов и иллюстрированных книг, вновь сотрудничает с легендами хэви-металла IRON MAIDEN, чтобы отметить 40-летие «Somewhere In Time» новой звёздной антологией в формате графического альбома. Она погружает в зловещее научно-фантастическое будущее, увековеченное в восьми историях его треков.\n\nОбрамляют вдохновлённые песнями истории в «Somewhere In Time: The Graphic Album» пролог и эпилог, которые дарят то, чего хочет каждый поклонник MAIDEN: больше Эдди! Эти истории, написанные удостоенной наград Келли Сью Де Коннинк и проиллюстрированные Энди Макдональдом, рассказывают о том, что могло произойти в моменты, предшествовавшие той культовой обложке альбома, которая захватила воображение поколений поклонников MAIDEN.\n\nКнига выйдет по всему миру во вторник, 2 марта 2027 года.\n\nГитарист IRON MAIDEN Adrian Smith, говоря об обаянии воплощения Эдди в «Somewhere In Time», сказал:\n\n«Да, это просто отличная версия Эдди, пожалуй, моя любимая версия Эдди. В ней есть настоящая сила, подлинная мощь и угроза. Он очень мускулистый, правда? Выглядит так, будто занимался в зале. Как я уже сказал, это дополняет музыку, которая фантастична».\n\nПогружаются в восемь научно-фантастических историй, пересекающих время, звёздный состав авторов из комиксов и кино, среди которых Стив Найлс, Горан Парлов, Бенджамин Рааб, Дерик Хьюз, Мэтт Хейли, Дэн Эрнандес, Адам Маркевич, Дэвид Дастмалчян, Стэн Як, Корин Харди, Монтос, Стефано Кардоселли, Джон Реппион, Лия Мур, Винсент Локк, Генри Сансом и Давиде Фаббри. Том открывает вступление легенды комиксов и соавтора Bruce'а Dickinson'а Билла Сенкевича.\n\nЗавершает эту увлекательную коллекцию новых историй подробное интервью с гитаристом и автором песен IRON MAIDEN Adrian'ом Smith'ом, проведённое Дейвом Шэком из Phantom. В нём Smith вспоминает творческий процесс написания и записи «Somewhere In Time» и непреходящую притягательность его песен.\n\nГлавный редактор Z2 Рантц Хоузли сказал о значении классики IRON MAIDEN:\n\n«„Somewhere In Time“ вышел в мой выпускной год, и, как и у многих других авторов и художников, всё в этом альбоме: песни, оформление, то мощное воплощение Эдди, вызывало миллион возможных историй. Для меня огромная честь собрать такую творческую команду, чтобы исследовать эти миры!»\n\nЭто тот проект, где о книге действительно можно судить по обложке: роскошное и платиновое издания поставляются в металлическом футляре Time Machine с вырубным прицельным окошком «Green Acetate» и обложкой художника Блейка Армстронга. Обложка Тони Харриса доступна только в рознице, обложка Джея Гелдхофа через EMP, а обложка Дэна Мамфорда через Rarewaves. К роскошному и платиновому изданиям прилагаются арт-принты всех четырёх обложек, а платиновое издание включает четыре эксклюзивные карточки Эдди «Somewhere In Time» в рамках работы художника Давиде Фаббри и экслибрис с автографом гитариста IRON MAIDEN Adrian'а Smith'а.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T17:12:53+00:00",
+      "id": "6f9d4e27b4cd0a92d4560095634e808997fa0d82",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Burn Eternal Announces Self-Titled Debut, Pre-Order Exclusive Vinyl Variant From Metal Injection",
+      "link": "https://metalinjection.net/new-music/burn-eternal-announces-self-titled-debut-pre-order-exclusive-vinyl-variant-from-metal-injection",
+      "rss_body": "The new band reuniting Howard Jones and Adam D is finally here.",
+      "tags": "New Music Adam Dutkiewicz howard jones featured2 Burn Eternal",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T17:00:26+00:00",
+      "id": "e12b268340edd9cd76753a58c4894a38dbd2ef6e",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Ex-Killswitch Engage bandmates Howard Jones and Adam D's Burn Eternal release first single Wounds I’ve Made, announce debut album",
+      "link": "https://www.loudersound.com/news/killswitch-engage-burn-eternal-releases-first-song-wounds-ive-made-announces-debut-album-2026",
+      "rss_body": "Former\n\nKillswitch Engage\n\ncollaborators Adam Dutkiewicz and Howard Jones have put out the first single from their new band, Burn Eternal.\n\nThe track,\n\nWounds I’ve Made\n\n, is out now and precedes the release of the duo’s self-titled debut album via Metal Blade on February 26. Watch the music video below. The album’s tracklisting and artwork are also below, and\n\npreorders are now live\n\n.\n\nSinger Jones comments: “\n\nWounds I’ve Made\n\nis about both acknowledging mistakes and regrets of the past, while also constantly evolving and moving forward. Sometimes change hurts, but it’s necessary for self-growth and to avoid being stuck in the past. Some relationships aren’t meant to be.”\n\nGuitarist Dutkiewitz adds: “We are glad to finally release\n\nWounds I’ve Made\n\n. It’s crazy to think that this was one of the first songs I wrote for this project… six years ago! I really hope you guys dig it.”\n\nAfter years of teases and studio updates, Burn Eternal\n\nofficially launched last month\n\n, with the announcement of their Metal Blade record deal.\n\nJones first revealed that he and Dutkiewicz were in the studio together in 2023 via social media. “1st song down, 11 to go,” he wrote on Instagram. That December, the singer shared that vocal recording for\n\nBurn Eternal\n\nhad been finished.\n\nIt was confirmed in December 2024\n\nthat the album had been mixed.\n\nDutkiewicz co-founded Killswitch Engage, one of the biggest bands in modern metalcore, in 1999, and Jones joined their lineup in 2002, replacing Jesse Leach. With Jones upfront, the band made a series of era-defining albums, including 2004’s\n\nThe End Of Heartache\n\nand 2006’s\n\nAs Daylight Dies\n\n. The singles\n\nMy Curse\n\n,\n\nThe End Of Heartache\n\nand\n\nHoly Diver\n\n(a cover of Dio’s 1983 heavy metal anthem) were smash hits which enjoyed extensive MTV airplay.\n\nJones departed Killswitch in 2012 due to personal struggles and was replaced by his predecessor Leach. The exit was amicable, and the singer temporarily reunited with the band as a guest at select live shows in 2018, before handling co-lead vocals on 2019 single\n\nThe Signal Fire\n\n.\n\nKillswitch continue to tour and record with Leach. The band released their latest album\n\nThis Consequence\n\nvia Metal Blade last year and are currently playing across Australia and New Zealand. They’ll take the stage at Enmore Theatre in Sydney on Friday. See further dates and details\n\nvia their website\n\n.\n\nBurn Eternal – Burn Eternal:\n\nWounds I’ve Made\n\nNo Escape\n\nBlackheart\n\nTo Bear The Cross\n\nScared Of Shadows\n\nBitter Pill\n\nLearning To Let Go\n\nBorn Again\n\nFell Silent\n\n(Image credit: Metal Blade)",
+      "tags": "Tracks & Singles Music",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T17:00:00+00:00",
+      "id": "9f1ceb4c75e181f0d6f4e6b22d3e1bd0912ecc55",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "How Ozzfest reinvented metal for the 90s",
+      "link": "https://www.loudersound.com/how-ozzfest-reinvented-metal-for-the-90s",
+      "rss_body": "October 25, 1996 was the day metal stepped back from the edge of oblivion. On that hot Friday, 20,000 people descended on the Blockbuster Desert Sky Pavilion, an outdoor amphitheatre in Phoenix, Arizona, to watch 12 bands give the middle finger to the gatekeepers of cool and prove that a genre that had struggled for mainstream attention during the first half of the decade was not just still relevant but was about to reassert itself like never before.\n\nThe bill at the Desert Sky Pavilion combined the old guard and new blood.\n\nSlayer\n\nand Danzig were mid-90s metal royalty. Below them were\n\nSepultura\n\n, Fear Factory, Biohazard and Neurosis, bands who were dragging the scene into an electrifying new era, even if none of them had broken out of its boundaries. On the second stage, the new generation were represented by the likes of Coal Chamber and Powerman 5000, relative unknowns who had yet to make an impact but soon would.\n\nHovering over them all at the very top of the bill, with arms outstretched like a benevolent Dracula, was\n\nOzzy Osbourne\n\n, a man who had proved as impervious to shifting trends as he was to the long-term effects of booze and drugs. It was Ozzy who gave his name to this gig, and to the identical one that took place the following day at the Glen Helen Blockbuster Pavilion in San Bernardino, California: Ozzfest. Ozzfest – or The Ozzfest, as it was officially named in that first year – was the point on which the entire decade pivoted for metal.\n\nIt arrived at a tough time for the genre, but Sharon Osbourne was having none of it. Ozzy formidable’s wife and manager took a snub by the organisers of hugely successful travelling alt rock festival Lollapalooza as the impetus to create her own rock’n’roll circus. That initial two-day event ballooned into an era-defining touring juggernaut, producing a new breed of bands and fans that ensured metal would become bigger and more dominant than ever before: The Ozzfest Generation. This is how it all began.\n\nWith the exception of\n\nMetallica\n\n, the days of metal bands selling millions of albums were over by 1996. This once-dominant musical force had been superseded by grunge and alternative rock and was in danger of becoming commercially irrelevant.\n\nMax Cavalera (ex-Sepultura):\n\n“At that point, metal was out, like, ‘You guys are done!’ All people wanted was grunge. Black shirts, leather jackets, that shit was fucking over. It was flannel shirts, Seattle and rain.”\n\nDino Cazares (Fear Factory):\n\n“In 1995, when [Fear Factory’s second album]\n\nDemanufacture\n\ncame out, Sharon and Ozzy took us under their wing for a world tour. We heard through Sharon that Lollapalooza had turned Ozzy down, claiming he was ‘too metal’.”\n\nSharon Osbourne:\n\n“Ozzfest came from Lollapalooza. I wanted Ozzy on Lollapalooza, and the response back was, ‘He’s not relevant.’ Because Lollapalooza, when it started, was all very grand and all very Seattle – they were musical snobs. So I said, ‘Fuck off, we’ll do our own and it will be a metal festival.’”\n\nBilly Graziadei (Biohazard):\n\n“Lollapalooza was never gonna have a band like Biohazard or Slayer. To be honest, we didn’t give a fuck. Biohazard was used to not fitting in.”\n\nSharon Osbourne:\n\n“Lollapalooza had singing monks… they had Tom Jones… they had all of this alternative shit. Fuck that.”\n\nBilly Graziadei:\n\n“When we toured Europe, I was amazed by how well-organised the festivals were. I never understood why we didn’t have them in the States. The few we played in America were poorly run in comparison to anything in the UK.”\n\nSharon Osbourne:\n\n“I knew this could work because I knew that people were waiting for it. The music press wasn’t writing about metal, but the music press only wants to talk about the new taste of the day. Metal wasn’t dead, no way.”\n\n(Image credit: Niels van Iperen/Getty Images)\n\nSharon’s conviction wasn’t misplaced. This new festival was tailor-made for bands who found themselves shut out of Lollapalooza, such as Slayer, Sepultura and Danzig. It helped that the green shoots of a new scene were starting to emerge in LA, centred around bands such as Fear Factory, Coal Chamber and\n\nKorn\n\n.\n\nSharon Osbourne:\n\n“I didn’t have any resistance, because the people I was going to were metal acts, and they were, like, ‘Yeah, fantastic.’”\n\nDino Cazares:\n\n“They asked if we were available. When Sharon Osbourne asks you to play a new festival, you say, ‘Fuck yes!’ Even though\n\nDemanufacture\n\nwas out, we were broke at the time, so we jumped at any opportunity for exposure.”\n\nDez Fafara (Coal Chamber):\n\n“We heard rumblings that it was coming. So we hit up a gentleman called John Fenton, who is Sharon’s right-hand man, and said to him, ‘Hey, is this happening? If there’s any way we can be part of it, that would be great.’”\n\nBilly Graziadei:\n\n“I love what Sharon and her team built with Ozzfest, but to be straight up, at the time I didn’t feel like there was that much demand for it in America. In Europe, you’d be at festivals and you would see fans wearing a Bon Jovi patch right next to a Slayer patch. Music in America was still so segregated back then, so I didn’t think everything was aligned properly for it to work. Shows how much I knew.”\n\nSharon Osbourne:\n\n“Ozzy was nervous about it. He said, ‘Oh fuck, if this fails we haven’t just got egg on our faces, we’ve got the whole omelette.’ And I’m, like, ‘It’s going to be fine, just go for it.’”\n\nBilly Graziadei:\n\n“There were definitely some egos involved. There had been tension when new bands were added to the bill and altered the line-up order. There was also a feud between Sepultura and Slayer at the time over stupid comments made in interviews. But looking back now, the things that seemed like the end of the world back then are so insignificant.”\n\nThe Ozzfest was scheduled to take place on October 25 and 26 in Phoenix and San Bernardino. They would mark the climax of Ozzy’s successful Retirement Sucks! comeback tour, which had begun 16 months earlier in the UK.\n\nSharon Osbourne:\n\n“There was so much riding on it that we were all shitting ourselves. But when those gates opened in the morning on that first day, there was no feeling like it – when that crowd comes rushing in, they’re all pumped, they can’t wait, and it’s like, ‘Yes, this is what it’s about!’ It’s about seeing those fans come running in with big smiles on their faces. Yeah, that’s absolutely what it’s about.”\n\nDino Cazares:\n\n“We rolled up in a van, and what struck me immediately was the lack of corporate restrictions. Nowadays, festivals require five different wristbands just to walk anywhere. Back then, it was open, relaxed and everyone was together. They literally told us to park our van right next to Ozzy’s tour bus!”\n\nBilly Graziadei:\n\n“When we pulled up to the first show in Arizona, we waited on the bus for a long time to get our credentials. The first day was a bit chaotic. The second day was much more organised and fluid.”\n\nDino Cazares:\n\n“There was total camaraderie backstage. Every dressing room and bus door was wide open. We were close with Sepultura, Biohazard, Danzig, Slayer and Coal Chamber. Most of us were LA locals or shared management. It was one big happy family right from day one.”\n\nBilly Graziadei:\n\n“We were very close with Sepultura – they were actually the best men at my wedding. So it was like being with family, alongside the guys in Danzig and Ozzy’s band, ’cos we’d just toured with them.”\n\nDez Fafara:\n\n“You would be walking around, and there’s Slayer stood over there. That was the point where I thought, ‘We’re in the big boys’ club now – let’s act like we belong here with all these legendary bands.’”\n\nBilly Graziadei:\n\n“Sharon was like the tour mom. You knew she ran things, but she was always cordial, polite and very welcoming. She was great.”\n\nSharon Osbourne:\n\n“All the bands were so well-behaved. I didn’t have to bollock anyone or threaten to send them back to their mom. There was none of that.”\n\nEven without the likes of Metallica, Megadeth and Pantera, the Ozzfest bill carried an impressive weight. Several bands on the Main Stage had supported Ozzy on the Retirement Sucks! tour, including Fear Factory, Biohazard, Sepultura and Danzig, who were joined by Slayer and Neurosis.\n\nThe second stage featured straight edge flagbearers Earth Crisis, plus Coal Chamber, Powerman 5000, long-forgotten alt metallers Cellophane and King Norris, fronted by Howard Stern sideman Fred Norris. And then, of course, there was Ozzy.\n\nBilly Graziadei:\n\n“Both shows were at outdoor amphitheatres, so they weren’t massive open fields like Castle Donington in the UK. It did feel like a big deal, but there were empty seats – it wasn’t completely packed.”\n\nDez Fafara:\n\n“The line-up that first year was incredible, it really was. It was the first time I ever heard Neurosis. That fucking changed my life.”\n\nDino Cazares:\n\n“We played second or third on the bill, and the crowd was going insane. People were crying and dying of excitement because there was finally a festival dedicated to them.”\n\nSharon Osbourne:\n\n“Oh, wait, I did bollock somebody. It was the merchandising company, because we’d run out of merch at two in the afternoon.”\n\nDez Fafara:\n\n“The second I stepped offstage someone said to me, ‘Sharon Osbourne wants to meet you.’ I’m, like, ‘What?! What the fuck are you talking about?’ So, I get taken down to Sharon’s backstage area and she handed me a big chrome bracelet, which I still have to this day, and she said, ‘I want to manage you.’”\n\nBilly Graziadei:\n\n“In those amphitheatres, there were fixed seats up to the stage and a 10-foot barricade. With seats, there is no pit and nobody can move, people just stand there. It was really weird for us, and it sucked out all the energy. You had to dig deep to get them to move. Years later, venues learned to remove the first 40 or 50 seats to create a general admission pit, but at that moment, it was a real stick in the mud.”\n\nDino Cazares:\n\n“That was the first time I ever saw people lighting giant bonfires in the middle of the field during Slayer’s set and doing massive pit circles around the fire! People were ripping up seats and throwing them around – the energy was pure intensity.”\n\nBilly Graziadei:\n\n“Sepultura, Danzig, Fear Factory and Slayer were all at the absolute top of their game.”\n\nSharon Osbourne:\n\n“There was so much going on, I didn’t really have time to stop and take in the atmosphere.”\n\nBilly Graziadei:\n\n“Ozzy’s set felt like the peak of not just that day, but that whole tour. Everybody was on point, and Ozzy was just shining like a fucking diamond.”\n\nSharon Osbourne:\n\n“Was it a success? Oh, one thousand per cent. If I were a drug taker, I would probably have got out of my fucking head at the end of it all! But I don’t take drugs. It was just, like, ‘Fuck you and your precious genres! [Emphatically] Fuck you!’”\"\n\nIf the first Ozzfest was a test, it passed with flying colours. It returned in expanded form the following year, retooled as a full 22-date tour headlined by the reunited\n\nBlack Sabbath\n\nand featuring Ozzy pulling double duty with a solo set. Over the next few years, it’d grow even further, in terms of size, scale and success.\n\nIt didn’t revitalise metal single-handedly – bands such as Korn, Deftones, Limp Bizkit and Slipknot undeniably played their part – but it gave the modern genre a platform and identity it badly needed. Other similarly loaded tours sprung up in its image: Korn’s Family Values extravaganza, Limp Bizkit’s Anger Management tour, Linkin Park’s Projekt Revolution festival.\n\nOzzfest had a great run, but its lustre was fading by the late 2010s. The final Ozzfest took place in 2018 as a one-off indoor show at the LA Forum. Except it turns out that wasn’t the end. Sharon Osbourne has announced plans to resurrect Ozzfest in 2027.\n\nDino Cazares:\n\n“It went to the next level in 1997, especially having Pantera on the bill! Dimebag Darrell and Vinnie Paul set up a barbecue grill outside their bus, cooking food for everyone and keeping ice chests packed with beer. Everyone was bus-hopping from one band’s bus to another. It felt like summer camp for metalheads.”\n\nBilly Graziadei:\n\n“I was sceptical at first, not about Sharon’s ability to succeed, but because I didn’t have faith in the underground subculture in America to sustain it. When it gained popularity, I remember thinking, ‘Cool, I was wrong.’”\n\nMax Cavalera:\n\n“It was huge, man. Ozzfest made metal important again. It made it relevant.”\n\nDino Cazares:\n\n“Ozzfest launched a whole new movement – System Of A Down, Slipknot, Limp Bizkit and Disturbed all launched their careers there. It was a massive resurgence for the entire genre.”\n\nMax Cavalera:\n\n“I love the European festivals, and America’s getting pretty good at festivals as well, but there’s not another Ozzfest. Somebody should do it again.”\n\nDez Fafara:\n\n“The idea of Sharon bringing it back fills my heart with joy. What would Ozzy want to do? He’d want to bring the fucking Ozzfest!”\n\nSharon Osbourne:\n\n“Ozzy was so proud of what we did with Ozzfest. It was about keeping metal alive and passing the torch to the younger generation. This is the genre of music that won’t die. It’s not dead.”\n\nOzzfest returns in 2027 with events announced in Milton Keynes (UK), Glen Helen Amphitheater in San Bernardino, CA and Estadio GNP Seguros in Mexico.",
+      "tags": "Music Festivals Bands & Artists Live Performances",
+      "category": "Прогрессив",
+      "published": "2026-11-05T17:00:00+00:00",
+      "id": "ee3ef0b2af5498ae526bcde9e238501afc0c4eed",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): NOCTURNIS — “DRANGSAL”",
+      "link": "https://www.nocleansinging.com/2026/11/05/an-ncs-album-premiere-and-a-review-nocturnis-drangsal/",
+      "rss_body": "(written by Islander) Since the earliest days of metal’s dawning bands have expressed rebellious themes by embracing the symbology of Lucifer and his fallen angels, some have delved into the occult in more than symbolic fashion, and others have drenched themselves and their listeners in gore. And so it is refreshing to continue finding bands\n\n[...]",
+      "tags": "Album Reviews Premieres Nocturnis",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T16:54:54+00:00",
+      "id": "d5d9c2b734a0ef9b8bc7de22eb3c659fa65d8012",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Scorpions Biopic ‘Wind of Change’ US Release Plans Announced",
+      "link": "https://ultimateclassicrock.com/scorpions-wind-of-change-movie-us-release-date/",
+      "rss_body": "Story of the German veterans’ struggle to overcome politics with music will be shown in U.S. theaters after January debut in their home county.",
+      "tags": "Movies Movies and Culture News Scorpions UCR",
+      "category": "Хард-рок",
+      "published": "2026-11-05T16:40:16+00:00",
+      "id": "52f51778a076179d7328d52cd3365957a504a36b",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Участники LAMB OF GOD, GWAR, DEATH ANGEL отметили юбилей Master Of Puppets",
+      "link": "http://www.darkside.ru/news/184964/",
+      "rss_body": "Второго ноября участники круиза Headbangers Boat 2026 — включая членов LAMB OF GOD, GWAR, DEATH ANGEL и IN FLAMES — отыграли звездный сет, посвященный сорокалетию альбома METALLICA \"Master Of Puppets\". Были исполнены такие любимые фанатами треки как \"Battery\", \"Master Of Puppets\", \"The Thing That Should Not Be\" и \"Disposable Heroes\" — видео доступно для просмотра.\n\n#V/A #Rock #_Rock #FolkRock #Folk_Rock #PopRock #Pop_Rock #DeathRock #Death_Rock #HardRock #Hard_Rock #PostRock #Post_Rock #SymphonicRock #Symphonic_Rock #ArtRock #Art_Rock #Adult OrientedRock #Adult Oriented_Rock #Folk #_Folk #GothicFolk #Gothic_Folk #DarkFolk #Dark_Folk #Metal #_Metal #FolkMetal #Folk_Metal #InstrumentalMetal #Instrumental_Metal #GothicMetal #Gothic_Metal #AlternativeMetal #Alternative_Metal #BlackMetal #Black_Metal #DeathMetal #Death_Metal #DoomMetal #Doom_Metal #GlamMetal #Glam_Metal #HeavyMetal #Heavy_Metal #NuMetal #Nu_Metal #PostMetal #Post_Metal #PowerMetal #Power_Metal #ThrashMetal #Thrash_Metal #VikingMetal #Viking_Metal #GrindCore #Grind_Core #IndustrialElectro #Industrial_Electro #Gothic #_Gothic #EthnoGothic #Ethno_Gothic #ElectroGothic #Electro_Gothic #InstrumentalClassic #Instrumental_Classic #NoiseIndustrial #Noise_Industrial #ElectroIndustrial #Electro_Industrial #DarkAmbient #Dark_Ambient #Hard 'n' Heavy #_Hard 'n' Heavy",
+      "tags": "",
+      "category": "Экстремальный метал",
+      "published": "2026-11-05T16:32:07+00:00",
+      "id": "bfe6c514abee191978e8ad15732edb1b77039051",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео WE CAME AS ROMANS",
+      "link": "http://www.darkside.ru/news/184981/",
+      "rss_body": "DEAD SILENT feat. Make Them Suffer, новое видео WE CAME AS ROMANS, доступно для просмотра. Этот трек взят из нового релиза «All Is Beautiful... Because We're Doomed: Circularity (Deluxe edition)», релиз которого намечен на шестое ноября 2026 года на лейбле SharpTone Records.\n\n1. EVERYTHING IS STILL\n\n2. DEAD SILENT (feat. Make Them Suffer)\n\n3. BORN FROM NOTHING\n\n4. SPEAK TO EXIST\n\n5. ALL IS BEAUTIFUL...\n\n6. bad luck\n\n7. bad luck ○ (feat. Currents & After the Burial)\n\n8. lake of fire\n\n9. red smoke\n\n10. red smoke ○ (feat. Heavensgate)\n\n11. one by one\n\n12. one by one ○ (feat. Dayseeker)\n\n13. culture wound\n\n14. culture wound ○ (feat. Ladrones)\n\n15. where did you go?\n\n16. where did you go? ○ (feat. Headwreck)\n\n17. no rest for the dreamer\n\n18. b2tm\n\n19. b2tm ○ (feat. Bury Tomorrow)\n\n20. circling a dying sun\n\n21. knowing pain\n\n22. so lost (burning flowers)\n\n23. BECAUSE WE'RE DOOMED",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T15:59:07+00:00",
+      "id": "0cf2d7397df5e9329128cc74be87f6b8acba902a",
+      "duplicate_ids": [
+        "62942d1b8e858e258bcf357d07db6e8b48972dd1"
+      ],
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "LOCKSLIP – THE CONVERSATION",
+      "link": "https://www.nocleansinging.com/2026/11/05/lockslip-the-conversation/",
+      "rss_body": "(Andy Synn wants to have a conversation with you about a new band and their killer debut) As you all surely know, we are big proponents of balance here at NCS… for every light a dark, for every yin a yang, and for every big, iconic name we cover there must be a smaller, more underground artist\n\n[...]",
+      "tags": "Album Reviews Andy Synn Lockslip",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T16:01:00+00:00",
+      "id": "7d38c5091815a97e666b8ddcc080e988e58e7a46",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "NITA STRAUSS и JOSH VILLALTA зажгли на NFL",
+      "link": "http://www.darkside.ru/news/184969/",
+      "rss_body": "NITA STRAUSS и барабанщик JOSH VILLALTA выступили в рамках чествования американских вооруженных сил от НФЛ \"Salute To Service\" в перерыве матча Los Angeles Rams",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T15:30:04+00:00",
+      "id": "3b7b84a1b9b44f1a9148e8e85ec586b4d9952375",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Ozzfest Announces 2027 Return to California",
+      "link": "https://metalinjection.net/tour-dates/festivals/ozzfest-announces-2027-return-to-california",
+      "rss_body": "The announcement every single metalhead has been waiting for.",
+      "tags": "Festivals Ozzy Osbourne sharon osbourne featured1 Ozzfest 2027",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T15:13:12+00:00",
+      "id": "f8080f91cbc98229a69d92a25461df78d6ab8a37",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Ozzfest Returns in 2027: Check Out the Newly Confirmed Dates",
+      "link": "https://ultimateclassicrock.com/ozzfest-2027-tour/",
+      "rss_body": "Ozzy Osbourne has died, but his namesake traveling metal festival lives on.",
+      "tags": "Concerts News Ozzy Osbourne Sharon Osbourne UCR",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T15:02:21+00:00",
+      "id": "b4fdb2ce42b81f5cd5cfdd82edbdf74bc06fbb37",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Ozzfest confirms return with UK, US and Mexico editions in 2027",
+      "link": "https://www.loudersound.com/news/ozzfest-confirms-return-uk-milton-keynes-national-bowl-us-san-bernadino-mexico-city",
+      "rss_body": "Ozzfest\n\nwill return to the UK, the US and Mexico in 2027.\n\nThe travelling heavy metal festival, co-founded by its late namesake\n\nOzzy Osbourne\n\nand his wife/manager Sharon in 1996, is coming back following the Prince Of Darkness’s death aged 76 in July last year.\n\nAlthough no performers have been announced, promoter Live Nation has confirmed that the event will make its comeback with a one-day instalment at the National Bowl in Milton Keynes on July 10.\n\nThe news cancels out previous statements from Sharon that Ozzfest will return at Villa Park – the Birmingham stadium where Ozzy played his farewell show\n\nBack To The Beginning\n\n, 17 days before his death – as the venue is undergoing construction work.\n\nA US edition will follow on September 11 at Glen Helen Amphitheater in San Bernardino, California: one of the spots Ozzfest played on its first run 30 years ago. A Mexico City date will follow at Estadio GNP Seguros on September 18.\n\nSpecial ‘Early Bat’ tickets for Milton Keynes will go on sale on Friday, November 6, at 10am UK time.\n\nSharon comments: “Ozzy was the first to launch his own travelling metal festival, and Ozzfest will always remain an important part of Ozzy’s legacy.\n\n“Unfortunately, due to continuing construction, Villa Park won’t be ready for any live shows this summer, so we had to relocate to Milton Keynes. The choice was to move Ozzfest or postpone it for another year.”\n\nSharon and Ozzy co-founded Ozzfest after the Prince Of Darkness was denied a slot on the Lollapalooza lineup. The inaugural edition was a two-date US tour, where Ozzy headlined with support from\n\nSlayer\n\n, Danzig, Biohazard, Sepultura and more.\n\nAs\n\nnu metal\n\nbegan to gather steam in the late 90s, Ozzfest became famous for putting up-and-coming artists on its bill. Such acts as\n\nSlipknot\n\n, Limp Bizkit and System Of A Down performed at the festival around the release of their debut albums.\n\nOzzfest expanded to have international offshoots in markets including the UK, Germany, Belgium and Japan before hosting its final incarnation – a single show in Inglewood, California – in 2018.\n\nIn 2023, Sharon explained why Ozzfest went away, saying on her family podcast\n\nThe Osbournes\n\nthat other managers got greedy.\n\n“It was a very weird beast,” she said, “because all the bands were our mates, but the managers were greedy, and for some reason they thought that we were making billions on it and we weren’t. We made a profit. But it was not like – we couldn’t retire on it. And managers and agents wanted more and more and more, and it just wasn’t cost-effective anymore. We stopped because it just wasn’t cost-effective.”\n\nHowever, the following year, she added that\n\n“of course” Ozzfest can return one day\n\n. “You can do it for a baby stage, but you still need the headliners,” she said. “It’s always great to have the baby stage, I mean, that’s what it’s all about – breaking new bands. That’s why we did it.”\n\nBack To The Beginning\n\ntook place at a sold-out Villa Park and was live-streamed by more than five million people worldwide. Ozzy performed both with his solo band and\n\nBlack Sabbath\n\n: the heavy metal pioneers’ first show since 2017, and their first with their all-original lineup since 2005. The support lineup included\n\nMetallica\n\n, Guns N’ Roses, Tool, Gojira, Anthrax and Mastodon. Proceeds from the event went to the charities Cure Parkinson’s, Birmingham Children’s Hospital Charity and Acorns Children’s Hospice.\n\nA two-and-a-half-hour\n\nBack To The Beginning\n\nconcert film\n\nhit cinemas on Wednesday, October 28. A home release is slated for December 11.\n\n(Image credit: Live Nation)",
+      "tags": "Music Festivals Bands & Artists Live Performances",
+      "category": "Прогрессив",
+      "published": "2026-11-05T15:01:00+00:00",
+      "id": "c4aeb40d6b7df13809938a55d0ce3689d443d4e4",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Как вокалист TESTAMENT мог попасть в SEPULTURA",
+      "link": "http://www.darkside.ru/news/184967/",
+      "rss_body": "CHUCK BILLY в недавнем интервью рассказал о своём прослушивании на роль вокалиста в SEPULTURA, когда Max Cavalera покинул группу в 1996 году:\n\n«Я твёрдо верю в то, что всё происходит не просто так, и я опоздал. Я слишком поздно представил своё демо. И я подумал, что проделал хорошую работу. Им оно понравилось, но они сказали: \"Чувак, спасибо, что прислал это, но мы уже выбрали Derrick'a\". Так что к тому времени, когда я прислал своё демо, они уже приняли решение. Но это было весело. Я не могу вспомнить, записывал ли я это до записи \"Demonic\" [TESTAMENT] или после, но, должно быть, мы сочиняли за год до этого момента. На тот момент TESTAMENT закончили со всеми альбомами для Atlantic, и \"Demonic\" был нашей первой записью без лейбла, и мы были свободными. И я уже не помню, с кем мы тогда выпускали этот альбом — со Spitfire, с Eagle Rock или с кем-то ещё, но в то время всё определённо менялось».\n\nНа вопрос о том, что именно в то время побудило его заинтересоваться предложением от SEPULTURA, Чак ответил:\n\n«Я и сам не знал, чего хочу. Наверное, мне хотелось чего-то более стабильного. Мы как раз распадались, теряли всех первоначальных участников. Сцена менялась. Возможно, мне хотелось чего-то устоявшегося, с перспективой, чего-то, что мне нравилось бы. Поэтому я решился. В конце концов всё происходит не просто так. Мне было суждено опоздать и не получить это предложение, потому что вся эта музыка TESTAMENT не была бы создана спустя столько лет. А что, если бы я тогда попал в группу, а в 2001 году заболел? Всё было бы совсем иначе».\n\nВ марте 2022 года в подкасте Rocking With Jam Man Chuck'a спросили, был ли он разочарован тем, что не получил место в SEPULTURA:\n\n«Нет, потому что тогда группа TESTAMENT не была бы TESTAMENT. Мы бы не смогли записать те альбомы, которые у нас есть, — \"The Gathering\" и все остальные крутые музыкальные альбомы. И воссоединения нашей первоначальной группы не произошло бы.\n\nКогда я проходил прослушивание, я опоздал: они уже выбрали Derrick'а в качестве вокалиста. Так что это было к лучшему. Ведь если бы я получил эту роль, для TESTAMENT всё сложилось бы иначе».\n\nНа вопрос о том, жалеет ли он, что не получил место в SEPULTURA, и нравится ли ему то, как всё сложилось, Chuck ответил:\n\n«Мне нравится, как всё сложилось, но в то время я хотел, чтобы всё было именно так, потому что в музыке всё было зыбко: TESTAMENT распались, всё менялось, музыкальный климат менялся. Поэтому, когда я проходил прослушивание, я думал, что мне нужно что-то стабильное, что-то надёжное. И я думал, что мне нужна группа, у которой уже что-то есть. К счастью, я не попал к ним. Если бы я остался в SEPULTURA, всё было бы совсем по-другому».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T14:53:54+00:00",
+      "id": "f8d1e23d05ebfb8b1b7131160fd0edf0f0c7a684",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "DAVE GROHL о разогреве AC/DC: «Я аж всплакнул!»",
+      "link": "http://www.darkside.ru/news/184968/",
+      "rss_body": "В новом интервью The Rock фронтмен FOO FIGHTERS DAVE GROHL рассказал о том, каково было выступать на разогреве у AC/DC на двух концертах недавно завершившегося отрезка тура «Power Up»:\n\n«У [AC/DC] на разогреве годами ездили THE PRETTY RECKLESS. А мы давно дружим с THE PRETTY RECKLESS. И [вокалистка THE PRETTY RECKLESS] Taylor Momsen не смогла приехать на один концерт, поэтому позвонила и говорит: „Чувак, я не смогу присутствовать на этом концерте. Ты мог бы меня подменить?“ Я посмотрел в календарь и подумал: „Боже мой, это выходной“. Так что когда мы туда приехали, играть перед [AC/DC] было просто что-то с чем-то. А потом все повторилось: Taylor не смогла приехать на ещё один концерт, и мы поехали вместо нее. И на том концерте мне удалось выйти на сцену и поджемовать с ними».\n\nВспоминая, каково было присоединиться к AC/DC на сцене 2 октября на стадионе MetLife в Нью-Джерси, GROHL сказал:\n\n«Это было очень круто, потому что моя жена стояла сбоку от сцены. Мы сыграли „Highway To Hell“. Я сошёл со сцены и разрыдался, рыдал как ребёнок. Я рыдал, прямо выл от рыданий, и не мог поверить в это. Я думал: „Это один из самых крутейших, замыкающих круг моментов в моей жизни“, и я никогда его не забуду. И чтобы вы знали: это самая громкая сцена, на которой я когда-либо стоял в жизни. Громче, чем у MOTÖRHEAD, громче, чем у любой другой группы. AC/DC, по-моему, самая громкая группа в мире».\n\nGROHL также снова рассказал о важной роли, которую AC/DC сыграли в его жизни, и о том, почему он был в восторге от возможности открывать их концерты: .\n\n«Мне было 11 лет. Я ночевал у друга, и его отец сказал: „Эй, я свожу вас на полуночный фильм“. И мы пошли на этот фильм. Их песни я слышал, но никогда не видел, как они играют. Это был фильм „Let There Be Rock“. И смотреть, как группа выходит на сцену и полтора часа просто разносит и сцену, и оборудование, и самих себя… Я не знал, что именно так играют рок-н-ролл. Я думал, что рок-н-ролл это как BEATLES, KISS и тому подобное.\n\nЯ никогда не видел человека, настолько мокрого от пота, что ему требовался кислородный баллон. Я подумал: „Вот кем я хочу стать, когда вырасту. Я хочу быть этим парнем“».\n\nНа вопрос, что, по его мнению, заставляет гитариста AC/DC Angus'а Young'а продолжать в 71 год, почти через десятилетие после смерти брата Angus'а, сооснователя AC/DC и ритм-гитариста Малкольма Янга, GROHL ответил:\n\n«Потому что он любит это делать. Клянусь богом, то же самое справедливо для любого [рок-артиста, который существует уже несколько десятилетий], будь то [THE ROLLING] STONES, будь то Paul McCartney, будь то AC/DC. То, что держит их на сцене, это любовь к рок-н-роллу и любовь к этому занятию. И это реально. Думаю, она может способствовать такому долголетию. Если ты любишь это настолько, что даже в худший день эти три часа лучшие за весь твой день, то вот это и заставляет тебя продолжать».\n\n#AC/DC",
+      "tags": "",
+      "category": "Хард-рок",
+      "published": "2026-11-05T14:24:59+00:00",
+      "id": "d629d8eb7f850f20da0324a72b8e6fc29953ea88",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "OPETH собираются взять длительную паузу",
+      "link": "http://www.darkside.ru/news/184970/",
+      "rss_body": "В недавнем интервью у басиста OPETH Martin'a Mendez'a спросили, чего фанатам ждать от латиноамериканского тура, стартовавшего первого ноября:\n\n«На этот раз у нас будет собственное шоу. Оно будет длиннее по сравнению с нашим последним туром по Латинской Америке, когда мы выступали на разогреве у великих групп. Так что, да, это будет полноценное шоу. И [я] очень рад. Это последние концерты под этот альбом. И после тура мы берем довольно продолжительный перерыв. Так что, да, [я] очень взволнован и с нетерпением жду [этого]».\n\nНа вопрос, берут ли OPETH длительный перерыв, чтобы \"расслабиться\", или же у группы есть планы поработать над новым альбомом, тот ответил:\n\n«И то, и другое. Я думаю, нам сначала нужно отдохнуть, а затем восстановиться, набраться сил и только потом начинать думать о новой музыке. Как-то так».",
+      "tags": "",
+      "category": "Прогрессив",
+      "published": "2026-11-05T13:36:52+00:00",
+      "id": "9e4be4a761670b91087c2a7d1084ad399b45a1d2",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео NIGHT IN GALES",
+      "link": "http://www.darkside.ru/news/184984/",
+      "rss_body": "Sirens Fade, новое видео NIGHT IN GALES, доступно для просмотра. Этот трек взят из нового альбома Bitter Harvest, релиз которого намечен на 13 ноября:\n\n1. The Great Abyss\n\n2. A Void Devours\n\n3. Hollow Ember\n\n4. Emberfield Veil\n\n5. Wake to Cease\n\n6. Seas of Red\n\n7. Dying Dawn\n\n8. Where Silhouettes Burn\n\n9. Sirens Fade",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T13:02:18+00:00",
+      "id": "62f0b340a75bab79295c3c4f89c5b43a05d1c620",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Видео с текстом от SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS",
+      "link": "http://www.darkside.ru/news/184966/",
+      "rss_body": "SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS опубликовали официальное видео с текстом к композиции \"Flying Blind\", которая будет включена в выходящий 26 февраля на Gibson Records альбом \"Flying Blind\":\n\nТрек-лист:\n\n01. Avarice And Greed\n\n02. Good Time Girl\n\n03. Thrill Seeker\n\n04. One Of Your Kind\n\n05. Flying Blind\n\n06. Looking For A Miracle\n\n07. Sweet Kill\n\n08. Here In Babylon\n\n09. Living The Dream\n\n10. (Don't) Thread The Needle\n\n11. Rev My Heart\n\n12. Stem The Flow\n\nНедавно SALSH будучи в программе \"Trunk Nation With Eddie Trunk\" ответил на вопрос, чем «Flying Blind» так особенен по сравнению с предыдущими работами SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS:\n\n«Ну, каждая пластинка была в радость, и каждая всегда лучшее, на что мы были способны в тот момент. Так что вот как-то так сейчас и думаем. Полагаю, с этим альбомом произошло именно это.\n\nНо нам было невероятно здорово его делать, и то, как мы... Всё собиралось очень свободно, делалось в моменте. Мы жили вместе у Elvis'а, пока записывались, потому что теперь его студия находится у него дома. Мы просто обосновались там и зависали две недели. У каждого была своя спальня, а собирались мы все на кухне. Уже одно это было весело.\n\nНо, по-моему, материал просто классный, и писать его было одно удовольствие. А конечный результат — то, чем я очень горжусь. Если говорить о том, „кто мы сейчас“, думаю, это наше нынешнее „мы“ находится в очень хорошем состоянии дел».\n\nПосле того как ведущий «Trunk Nation» отметил, что, должно быть, соблазнительно вносить в альбом правки, когда он уже записан и месяцами лежит на полке в ожидании релиза, SLASH согласился:\n\n«Это поцелуй смерти, когда ты записываешь пластинку, а потом у тебя масса времени, чтобы ничего о ней не говорить. Когда ты делаешь альбом, а так бывает всегда, ты делаешь для него всё, что собирался, прямо во время сессии. Сколько бы она ни длилась, всё, что ты намерен сделать, происходит именно тогда. Поэтому, когда работа закончена, обычно её выпускают.\n\nНо если её не выпускают, ты её не слушаешь, и я просто не слушал. После сведения и всего остального я не слушал альбом вплоть до самого последнего времени. Слушая его сейчас, я замечаю крошечные фрагменты, где мог бы сделать что-то иначе, но поскольку это было так давно, мне плевать. Я не собираюсь из-за этого переживать.\n\nНо если у тебя масса времени на то, чтобы сидеть на неизданной пластинке, ты реально можешь начать возвращаться в студию и говорить: „Эй, я хочу это переделать“. А стоит открыть эти шлюзы, как их уже не закрыть».\n\n#Slash #Rock #_Rock #HardRock #Hard_Rock #Hard 'n' Heavy #_Hard 'n' Heavy",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T12:25:58+00:00",
+      "id": "f5fd41aa84c7ba95b660aebc98217c7e001c2585",
       "retry_after": 0
     }
   ]
