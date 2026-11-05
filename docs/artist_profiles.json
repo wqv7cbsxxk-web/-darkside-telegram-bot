@@ -2399,13 +2399,13 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rammstein.de",
       "reference_url": "https://en.wikipedia.org/wiki/Rammstein",
-      "reference_checked_at": "2026-10-29T00:48:46.724119+00:00",
+      "reference_checked_at": "2026-11-05T21:28:01.617506+00:00",
       "tour_attempted_at": "2026-11-05T15:03:02.731412+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T00:48:46.724227+00:00"
+      "reference_attempted_at": "2026-11-05T21:28:01.617677+00:00"
     },
     "rainbow": {
-      "origin": "Hertford , Hertfordshire , England",
+      "origin": "California",
       "genres": "Hard rock heavy metal",
       "years_active": "1975–1984 1993–1997 2015–2019",
       "members": [
@@ -2433,9 +2433,9 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Rainbow_%28rock_band%29",
-      "reference_checked_at": "2026-10-29T00:48:46.834049+00:00",
+      "reference_checked_at": "2026-11-05T21:28:01.753298+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T00:48:46.834070+00:00"
+      "reference_attempted_at": "2026-11-05T21:28:01.753318+00:00"
     },
     "rage-against-the-machine": {
       "origin": "Los Angeles, California, U.S.",
@@ -2462,10 +2462,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://ratm.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rage_Against_The_Machine",
-      "reference_checked_at": "2026-10-29T00:48:48.084804+00:00",
+      "reference_checked_at": "2026-11-05T21:28:02.331242+00:00",
       "tour_attempted_at": "2026-11-05T15:03:03.269329+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T00:48:48.084922+00:00"
+      "reference_attempted_at": "2026-11-05T21:28:02.331411+00:00"
     },
     "rush": {
       "origin": "Toronto , Ontario, Canada",
@@ -2484,10 +2484,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://rush.com",
       "reference_url": "https://en.wikipedia.org/wiki/Rush_%28band%29",
-      "reference_checked_at": "2026-10-29T00:48:48.442390+00:00",
+      "reference_checked_at": "2026-11-05T21:28:02.741540+00:00",
       "tour_attempted_at": "2026-11-05T15:03:03.823764+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T00:48:48.442528+00:00"
+      "reference_attempted_at": "2026-11-05T21:28:02.741795+00:00"
     },
     "sepultura": {
       "origin": "Belo Horizonte , Minas Gerais , Brazil",
@@ -2514,10 +2514,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://sepultura.com.br",
       "reference_url": "https://en.wikipedia.org/wiki/Sepultura",
-      "reference_checked_at": "2026-10-29T00:48:48.672413+00:00",
+      "reference_checked_at": "2026-11-05T21:28:03.004764+00:00",
       "tour_attempted_at": "2026-11-05T15:03:04.644898+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T00:48:48.672433+00:00"
+      "reference_attempted_at": "2026-11-05T21:28:03.004786+00:00"
     },
     "slayer": {
       "origin": "Huntington Park, California , U.S.",
@@ -2544,10 +2544,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://slayer.net",
       "reference_url": "https://en.wikipedia.org/wiki/Slayer",
-      "reference_checked_at": "2026-10-29T00:48:48.981018+00:00",
-      "tour_attempted_at": "2026-10-29T23:28:07.910420+00:00",
+      "reference_checked_at": "2026-11-05T21:28:03.355087+00:00",
+      "tour_attempted_at": "2026-11-05T21:28:03.955551+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T00:48:48.981038+00:00"
+      "reference_attempted_at": "2026-11-05T21:28:03.355109+00:00"
     },
     "static-dress": {
       "origin": "Leeds , West Yorkshire , England",
@@ -2575,7 +2575,7 @@
       "website": "https://staticdress.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Static_Dress",
       "reference_checked_at": "2026-10-29T06:35:34.330847+00:00",
-      "tour_attempted_at": "2026-10-29T23:28:08.144933+00:00",
+      "tour_attempted_at": "2026-11-05T21:28:04.256524+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T06:35:34.330934+00:00"
     },
@@ -2617,7 +2617,7 @@
       "website": "http://soundgardenworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Soundgarden",
       "reference_checked_at": "2026-10-29T06:35:34.615412+00:00",
-      "tour_attempted_at": "2026-10-29T23:28:23.311037+00:00",
+      "tour_attempted_at": "2026-11-05T21:28:11.639280+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T06:35:34.615541+00:00"
     },
@@ -2630,7 +2630,7 @@
       "website": "http://stevenwilsonhq.com",
       "reference_url": "https://en.wikipedia.org/wiki/Steven_Wilson",
       "reference_checked_at": "2026-10-29T06:35:34.821864+00:00",
-      "tour_attempted_at": "2026-10-29T23:28:23.496036+00:00",
+      "tour_attempted_at": "2026-11-05T21:28:11.833713+00:00",
       "instruments": "Vocals guitar piano keyboards bass",
       "reference_attempted_at": "2026-10-29T06:35:34.822040+00:00"
     },
