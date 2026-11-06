@@ -2574,15 +2574,15 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://staticdress.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Static_Dress",
-      "reference_checked_at": "2026-10-29T06:35:34.330847+00:00",
+      "reference_checked_at": "2026-11-06T01:47:19.052402+00:00",
       "tour_attempted_at": "2026-11-05T21:28:04.256524+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T06:35:34.330934+00:00"
+      "reference_attempted_at": "2026-11-06T01:47:19.052467+00:00"
     },
     "soundgarden": {
       "origin": "Seattle , Washington, United States",
       "genres": "Grunge heavy metal alternative metal alternative rock",
-      "years_active": "1984–1997 2010–2017 2019 2025 2026",
+      "years_active": "1984–1997 2010–2017 2019 2025–2026",
       "members": [
         {
           "name": "Kim Thayil",
@@ -2616,10 +2616,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://soundgardenworld.com",
       "reference_url": "https://en.wikipedia.org/wiki/Soundgarden",
-      "reference_checked_at": "2026-10-29T06:35:34.615412+00:00",
+      "reference_checked_at": "2026-11-06T01:47:19.240665+00:00",
       "tour_attempted_at": "2026-11-05T21:28:11.639280+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T06:35:34.615541+00:00"
+      "reference_attempted_at": "2026-11-06T01:47:19.240751+00:00"
     },
     "steven-wilson": {
       "origin": "Hemel Hempstead , Hertfordshire , England",
@@ -2629,10 +2629,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://stevenwilsonhq.com",
       "reference_url": "https://en.wikipedia.org/wiki/Steven_Wilson",
-      "reference_checked_at": "2026-10-29T06:35:34.821864+00:00",
+      "reference_checked_at": "2026-11-06T01:47:19.378386+00:00",
       "tour_attempted_at": "2026-11-05T21:28:11.833713+00:00",
       "instruments": "Vocals guitar piano keyboards bass",
-      "reference_attempted_at": "2026-10-29T06:35:34.822040+00:00"
+      "reference_attempted_at": "2026-11-06T01:47:19.378486+00:00"
     },
     "symphony-x": {
       "origin": "Middletown, New Jersey , U.S.",
@@ -2663,10 +2663,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.symphonyx.com",
       "reference_url": "https://en.wikipedia.org/wiki/Symphony_X",
-      "reference_checked_at": "2026-10-29T06:35:34.968822+00:00",
-      "tour_attempted_at": "2026-10-30T02:54:25.399695+00:00",
+      "reference_checked_at": "2026-11-06T01:47:19.482448+00:00",
+      "tour_attempted_at": "2026-11-06T01:47:20.091361+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T06:35:34.968844+00:00"
+      "reference_attempted_at": "2026-11-06T01:47:19.482461+00:00"
     },
     "system-of-a-down": {
       "origin": "Glendale, California , U.S.",
@@ -2693,10 +2693,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://systemofadown.com",
       "reference_url": "https://en.wikipedia.org/wiki/System_Of_A_Down",
-      "reference_checked_at": "2026-10-29T06:35:35.633715+00:00",
-      "tour_attempted_at": "2026-10-30T02:54:25.966691+00:00",
+      "reference_checked_at": "2026-11-06T01:47:19.727194+00:00",
+      "tour_attempted_at": "2026-11-06T01:47:20.659960+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T06:35:35.633740+00:00"
+      "reference_attempted_at": "2026-11-06T01:47:19.727210+00:00"
     },
     "the-contortionist": {
       "origin": "Indianapolis , Indiana , U.S.",
@@ -2731,10 +2731,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.thecontortionist.net/",
       "reference_url": "https://en.wikipedia.org/wiki/The_Contortionist",
-      "reference_checked_at": "2026-10-29T06:35:35.720295+00:00",
-      "tour_attempted_at": "2026-10-30T02:54:26.340738+00:00",
+      "reference_checked_at": "2026-11-06T01:47:19.785209+00:00",
+      "tour_attempted_at": "2026-11-06T01:47:20.870384+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-29T06:35:35.720318+00:00"
+      "reference_attempted_at": "2026-11-06T01:47:19.785223+00:00"
     },
     "terrorizer": {
       "origin": "Los Angeles , California , U.S.",
@@ -2778,7 +2778,7 @@
         "members_checked_at": "2026-10-02T02:29:28.923484+00:00",
         "about": ""
       },
-      "tour_attempted_at": "2026-10-30T02:54:26.533249+00:00",
+      "tour_attempted_at": "2026-11-06T01:47:21.057488+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-10-29T13:46:42.864861+00:00"
     },
