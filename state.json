@@ -1423,49 +1423,21 @@
     "d7db1e9c482b757326c0322e99a4a27c3051bc49",
     "8b0d4c14f20e9d08c73e24d71866ce7c3b255f1c",
     "0483b2c68f47c5c22e7fee29a6b4e71c61a68a55",
-    "4cb6efcf5b90573bdf2fd98065664b6fa6396d81"
+    "4cb6efcf5b90573bdf2fd98065664b6fa6396d81",
+    "0f136640df45ad780957e82aa6b893487e672b22",
+    "3c4e556345a493235e569bd60bcdc2e648400b61",
+    "7318835aebb5c5fbdf85c3bfe7c7583301b2ec24",
+    "4c1455b83d5b6c472aed75e76720eae78aa09a6e",
+    "b72b577840dfc276acbfe407ed2744d0afcfd6a2",
+    "b67b7aebcd59212c226b171e6e2ed7a00ad08677",
+    "4407e00a760c34445afde14b6b8335755c1fd454",
+    "1c1f2a77c1b595f771e3ee382b12b9ba92a1cfaf",
+    "4a798d11ba274169c13889cf951a138bb3c3c29c",
+    "899790c3f4660d8d5e79c6c8bf381e4bf41c1346",
+    "fe15c48880158f637cbb48d3e11543374ce95445",
+    "ae029df47c004b03fd59b3c2ebc824478db25f6c"
   ],
   "recent_titles": [
-    {
-      "title": "Steve Hackett recalls messing with Genesis at their Rock Hall induction",
-      "source": "Louder",
-      "ts": 1793490485
-    },
-    {
-      "title": "Test your knowledge with this Slayer trivia quiz",
-      "source": "Louder",
-      "ts": 1793490489
-    },
-    {
-      "title": "Theftuous (Snot, Relative Ash, Etc.) Premiere “Ghost Town”",
-      "source": "ThePRP",
-      "ts": 1793490498
-    },
-    {
-      "title": "Новое видео SERPENT",
-      "source": "Darkside",
-      "ts": 1793490500
-    },
-    {
-      "title": "Night Ranger look back on 40 years of Floyd Rose flicking, big hits and avoiding retirement",
-      "source": "Louder",
-      "ts": 1793490562
-    },
-    {
-      "title": "In This Moment’s Live In-Studio Performance Of “I Want To Believe” At SiriusXM Arrives Online",
-      "source": "ThePRP",
-      "ts": 1793490566
-    },
-    {
-      "title": "My Chemical Romance Confirmed Their New Album Plans And Rolled Out Setlist Surprises With The Used Last Night",
-      "source": "ThePRP",
-      "ts": 1793490573
-    },
-    {
-      "title": "Новое видео CRITICAL FEAR",
-      "source": "Darkside",
-      "ts": 1793490575
-    },
     {
       "title": "How Venom made their unholy masterpiece Black Metal and changed the course of metal",
       "source": "Louder",
@@ -2225,6 +2197,46 @@
       "title": "New ‘Cheese-Filled’ Vinyl Pressing Of Primus’ “Sailing The Seas Of Cheese” Due This Month",
       "source": "ThePRP",
       "ts": 1793914076
+    },
+    {
+      "title": "Bryan Adams returns home and writes a love letter to his native Canada on How's It Goin'",
+      "source": "Louder",
+      "ts": 1793929582
+    },
+    {
+      "title": "Tom Morello On His Guitarist Son Roman: “It’s Not Nepotism When Your Kid’s That F*cking Good”",
+      "source": "ThePRP",
+      "ts": 1793929591
+    },
+    {
+      "title": "Bilmuri To Stream Their May 2026 Nashville, TN Live Show Tonight For Free",
+      "source": "ThePRP",
+      "ts": 1793929594
+    },
+    {
+      "title": "Sharon Osbourne Says The 2027 ‘Ozzfest’ Lineup Is Only 50% Booked, Confirms Where Unreleased Ozzy Songs Will Surface",
+      "source": "ThePRP",
+      "ts": 1793929610
+    },
+    {
+      "title": "RUSH дадут серию концертов в Сфере",
+      "source": "Darkside",
+      "ts": 1793929613
+    },
+    {
+      "title": "Al Jourgensen On Paul Barker’s Limited Involvement On Ministry’s Final Album: “What Worked In The Nineties Doesn’t Work Now”",
+      "source": "ThePRP",
+      "ts": 1793929626
+    },
+    {
+      "title": "Вокалистка SPIRITBOX в новом клипе COMEBACK KID",
+      "source": "Darkside",
+      "ts": 1793929628
+    },
+    {
+      "title": "Новое видео GRAVE DIGGER",
+      "source": "Darkside",
+      "ts": 1793929630
     }
   ],
   "initialized_sources": [
@@ -6656,7 +6668,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-05T21:12:19+00:00",
       "id": "fc1f10d3ea4ad31a2a4f8b8f444542f896d11c69",
-      "retry_after": 1793914311
+      "retry_after": 1793929929
     },
     {
       "source": "Metal Injection",
@@ -6707,18 +6719,6 @@
       "category": "Хэви-метал",
       "published": "2026-11-05T18:06:55+00:00",
       "id": "ce128a9695e6fd040bea3abbf13a123601da70c8",
-      "retry_after": 0
-    },
-    {
-      "source": "Metal Injection",
-      "priority": 92,
-      "title": "Listen: Death Angel Release Snarky New Single, \"The Never Was\"",
-      "link": "https://metalinjection.net/new-music/listen-death-angel-release-snarky-new-single-the-never-was",
-      "rss_body": "Catch the band touring Europe with Vio-lence next month.",
-      "tags": "New Music DEATH ANGEL",
-      "category": "Хэви-метал",
-      "published": "2026-11-05T18:06:33+00:00",
-      "id": "fe15c48880158f637cbb48d3e11543374ce95445",
       "retry_after": 0
     },
     {
@@ -6974,6 +6974,57 @@
       "category": "Хэви-метал",
       "published": "2026-11-05T12:25:58+00:00",
       "id": "f5fd41aa84c7ba95b660aebc98217c7e001c2585",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео AGNIS",
+      "link": "http://www.darkside.ru/news/184994/",
+      "rss_body": "Pussycat, новое видео AGNIS, доступно для просмотра. Данная композиция была официально подана артисткой в качестве заявки на участие в конкурсе «Евровидение-2027» от Польши.\n\nТрек \"Pussycat\" сочетает в себе мрачную чувственность, плотные танцевальные электронные ритмы и дерзкую, ироничную лирику, вдохновленную кошачьей грацией и независимостью. За визуальную составляющую клипа отвечала команда Visionathor, а в съемках приняли участие актеры из Robotniczy Klub Sceniczny VHS. Видеоряд выполнен в фирменной мрачно-гламурной и оккультной стилистике AGNIS, балансируя между манящей атмосферой дарк-попа и клубной энергетикой тяжелой электронной сцены.\n\nСама артистка так прокомментировала свою новую работу:\n\n«Вы определенно не были к этому готовы! \"Pussycat\" — это моя официальная песня-заявка на \"Евровидение-2027\" от Польши. Насколько я смелая с таким материалом, или это как раз то, что так сильно любит публика \"Евровидения\"?\n\nМой новый сингл — это кошачья дерзость, манящий ритм и ироничная история о существе, которое наотрез отказывается быть прирученным. В один момент это создание кажется ласковым и нежным, но уже в следующую секунду оно дикое, непредсказуемое и живет исключительно по своим правилам. Погладь меня, если осмелишься, но помни — у меня есть когти! Надеюсь, этот трек станет для вас непреодолимым приглашением полностью раствориться в его чарах на танцполе».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T20:29:38+00:00",
+      "id": "b2bf9618550f605a504510b1653149f912f88763",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео CULT OF LUNA",
+      "link": "http://www.darkside.ru/news/184989/",
+      "rss_body": "CULT OF LUNA выпустит новую пластинку, получившую название \"In The Shadow Of Your Shadow\", шестого ноября на RED CRK. Композиция Sadness Will Reign (feat. Joe Duplantier) доступна для прослушивания:\n\n01. In The Shadow Of Your Shadow\n\n02. Sadness Will Reign (feat. Joe Duplantier)\n\n03. Landby\n\n04. Breach\n\n05. The Rift\n\n06. A Way Back\n\n07. One More Day (feat. David Eugene Edwards)\n\n08. From Grey To Black\n\n09. Burial\n\nВот уже 25 лет CULT OF LUNA остаются одной из самых бескомпромиссных и прогрессивно мыслящих групп в тяжелой музыке. Образовавшись в шведском Умео, коллектив на протяжении всей своей карьеры продолжает расширять границы пост-металла, постоянно развивая собственное звучание. Не позволяя себе творческого застоя, музыканты возвращаются с новым, 71-минутным монументальным альбомом \"In The Shadow Of Your Shadow\" — одной из самых мрачных и эмоционально сокрушительных работ в своей дискографии. В записи приняли участие Joe Duplantier из GOJIRA и David Eugene Edwards.\n\n«Мне часто приходится пытаться описать повторяющееся чувство — ощущение, будто ты заблудился, оказался в ловушке или и то, и другое, — и борьбу за то, чтобы найти выход», — объясняет со-вокалист и гитарист группы CULT OF LUNA Фредрик Кильберг, говоря об одном из самых тихих, но при этом самых сильных моментов альбома. «Путь обратно к себе, в безопасное состояние или просто поиск способа справиться, когда тебя одолевает тревога: в сущности, именно об этом эта песня».\n\nТворческое воображение CULT OF LUNA, кажется, не знает границ. Черпая вдохновение в хардкоре, сладж-металле, фолке, арт-роке и множестве других направлений, шведские музыканты заслужили репутацию одной из самых тяжелых и одновременно самых беспокойных в творческом отношении групп альтернативной сцены. Их десятый студийный альбом \"In The Shadow Of Your Shadow\" становится очередным смелым шагом в темноту. Возможно, это самая мрачная работа в истории коллектива, но при этом она вновь демонстрирует, что спустя четверть века после дебюта группе по-прежнему практически нет равных.\n\nВыходцы из Умео — города, который также подарил миру MESHUGGAH и REFUSED, — CULT OF LUNA привлекли внимание слушателей уже своими первыми альбомами \"Cult Of Luna\" (2001) и \"The Beyond\" (2003). Однако настоящим прорывом стала пластинка \"Salvation\" (2004), принесшая группе мировое признание. Следующий альбом, \"Somewhere Along The Highway\" (2006), отличавшийся одновременно сырой, пыльной и масштабной атмосферой, получил престижную шведскую премию P3 Guld в категории «Лучший рок-/металл-альбом года», после чего музыканты решили еще глубже погрузиться в тяжелое звучание на сокрушительном \"Eternal Kingdom\" (2008).\n\nКаждая последующая работа добавляла новые краски в музыкальную палитру группы. \"Vertikal\" (2013) вдохновлялся индустриальными городскими пейзажами, совместный с Julie Christmas альбом \"Mariner\" (2016) превратился в настоящее космическое путешествие на стыке пост-металла и атмосферного авангарда и был номинирован на шведскую премию Grammis. \"A Dawn To Fear\" (2019) стал самым продолжительным самостоятельным альбомом коллектива на тот момент, а \"The Long Road North\" (2022) записывался при участии Mariam Wallentin и композитора Colin Stetson, автора музыки к фильму \"Hereditary\".\n\nЗа годы своей карьеры CULT OF LUNA сотрудничали с целым рядом выдающихся музыкантов, среди которых Justin Broadrick из GODFLESH, сделавший ремикс на \"Vicarious Redemption\" для EP \"Vertikal II\" (2013), а также Mark Lanegan из SCREAMING TREES, исполнивший гостевой вокал в композиции \"Inside Of A Dream\" с мини-альбома \"The Raging River\" (2021). Кроме того, группа является организатором собственного фестиваля Beyond The Redshift, размывающего жанровые границы.\n\n«Единственное, чего я действительно боюсь, — это застоя, — говорит вокалист, гитарист и один из основателей группы Johannes Persson. — Уже 25 лет в каждом интервью я повторяю одно и то же: мне совершенно неважно, считают ли люди, что мы повторяемся. Пока мы сами чувствуем, что продолжаем двигаться вперед, мы будем заниматься этим и дальше».\n\n\"In The Shadow Of Your Shadow\" — достойнейшее пополнение дискографии CULT OF LUNA. Этот 71-минутный монолит становится сознательным отказом следовать модным тенденциям, общепринятым правилам и стремлению угодить публике. В лирическом плане альбом основан на переживаниях, связанных с недавними потерями, и представляет собой мрачный цикл песен. Заглавная композиция рассказывает о чувствах, которые, казалось, давно остались в прошлом, но возвращаются после новой болезненной жизненной ситуации. Эти переживания представлены в образе паразита:\n\n«Его тело ослабло — эти трещины созданы для меня. Его изуродованную оболочку я доведу до завершения».\n\n«У каждого из нас есть собственная история и собственный багаж, — говорит Persson. — Всё, через что ты прошел, сделало тебя тем человеком, которым ты являешься сейчас. Это банальное клише, но оно абсолютно верно. Были моменты, которые, как мне казалось, я давно оставил позади. Однако события последних нескольких лет вновь заставили меня столкнуться с ними. Когда десятилетиями пытаешься держать что-то под крышкой, очень интересно наблюдать, как однажды всё это возвращается. Этот паразит снова здесь».\n\nНа альбоме также звучат гостевые партии Joe Duplantier — фронтмена обладателей премии Grammy из GOJIRA — и David Eugene Edwards, известного по 16 HORSEPOWER и WOVENHAND.\n\n«Мне всегда нравился Joe прежде всего потому, что у него совершенно уникальный голос, — говорит Persson. — Думаю, именно поэтому GOJIRA настолько выделяются среди других металл-групп. Его вокал невозможно спутать ни с чьим другим — он будет узнаваем, даже если поставить его рядом с сотней или тысячей других вокалистов».\n\nО David Eugene Edwards Persson говорит так:\n\n«David уже много лет оказывает на меня огромное влияние. Я десятилетиями являюсь поклонником 16 HORSEPOWER, его сольного творчества и WOVENHAND. Его голос идеально подошел этой песне и передает ее смысл с абсолютной убедительностью».\n\nАльбом был спродюсирован совместно с Daniel Berglund, а сведение выполнил Magnus Lindberg. \"In The Shadow Of Your Shadow\" — очередной этап эволюции группы, которая категорически отказывается стоять на месте. Это одновременно разрушительная по своей эмоциональной силе и удивительно многогранная работа, еще раз подтверждающая статус CULT OF LUNA как одного из главных новаторов современной тяжелой музыки.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T19:35:17+00:00",
+      "id": "30b518d3e41cbbe836b0cc49da567c5100d98940",
+      "duplicate_ids": [
+        "b3882f401b34f9322c565c53f360cdaf530eb188"
+      ],
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Концертное видео HARAKIRI FOR THE SKY",
+      "link": "http://www.darkside.ru/news/184987/",
+      "rss_body": "Funeral Dreams (Live at Theater Akzent Vienna), концертное видео HARAKIRI FOR THE SKY, доступно для просмотра.\n\nКонцерт прошёл 1 мая 2026 года в рамках юбилейного тура Reliving The Trauma (группа отмечала 10-летие). Интересно, что выступление прошло в необычном для метала месте — в театре, где обычно ставят драматические спектакли. Организаторы и сами музыканты сделали акцент на целостности: без разогрева, без бисов, весь вечер был посвящён одному альбому — III: Trauma. Визуально атмосферу дополняли неоновое лого группы, световое шоу и лёгкий дым — это усилило меланхоличную, даже трагическую атмосферу музыки. В сет-листе, помимо «Funeral Dreams», были и другие треки с этой пластинки: «Calling the Rain», «Thanatos», «This Life as a Dagger» и другие.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T18:50:23+00:00",
+      "id": "38f1ccfdd802ccb87eaf4244c6b5d6e33dc7f9e3",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: We Came As Romans Drops New Video For \"Dead Silent\" Featuring Make Them Suffer",
+      "link": "https://metalinjection.net/new-music/watch-we-came-as-romans-drops-new-video-for-dead-silent-featuring-make-them-suffer",
+      "rss_body": "This coming Friday will be glorious for new releases.",
+      "tags": "New Music We Came As Romans",
+      "category": "Хэви-метал",
+      "published": "2026-11-05T16:24:37+00:00",
+      "id": "62942d1b8e858e258bcf357d07db6e8b48972dd1",
       "retry_after": 0
     }
   ]
