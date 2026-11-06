@@ -1435,49 +1435,17 @@
     "4a798d11ba274169c13889cf951a138bb3c3c29c",
     "899790c3f4660d8d5e79c6c8bf381e4bf41c1346",
     "fe15c48880158f637cbb48d3e11543374ce95445",
-    "ae029df47c004b03fd59b3c2ebc824478db25f6c"
+    "ae029df47c004b03fd59b3c2ebc824478db25f6c",
+    "5c13804fb5b78105529a230e721fe51bdfeb8e90",
+    "21c52b008eb032a3b90521b203382c4dfb1c1fb7",
+    "6bab7e7faaa0798fa186583d3b126fa0836247b8",
+    "43f0bcef865c9ee496c5e91db41e0f60b55b882f",
+    "e2dd175fa48ae8136942497bc5c8d01d217268e6",
+    "005bf4d33578e1a6281d2b17b97171305e911cdb",
+    "e212f2282cf2688623b282b4c5263343c52a0cbc",
+    "d9205b47c6fdcb2235abd66b2ded8291ea0625a8"
   ],
   "recent_titles": [
-    {
-      "title": "How Venom made their unholy masterpiece Black Metal and changed the course of metal",
-      "source": "Louder",
-      "ts": 1793500947
-    },
-    {
-      "title": "Inaugural European/UK Edition Lamb Of God’s ‘Headbangers Boat’ Cruise Set For 2027",
-      "source": "ThePRP",
-      "ts": 1793500959
-    },
-    {
-      "title": "DAVID ELLEFSON нашел сходство между песнями METALLICA и MEGADETH",
-      "source": "Darkside",
-      "ts": 1793500962
-    },
-    {
-      "title": "AN NCS ALBUM PREMIERE (AND A REVIEW): COMPLORATIO — “COMPLORATIO”",
-      "source": "No Clean Singing",
-      "ts": 1793501198
-    },
-    {
-      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ THY ART IS MURDER",
-      "source": "Darkside",
-      "ts": 1793501205
-    },
-    {
-      "title": "пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ KISS? пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ GENE SIMMONS",
-      "source": "Darkside",
-      "ts": 1793501208
-    },
-    {
-      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ FUTURE STATIC",
-      "source": "Darkside",
-      "ts": 1793501210
-    },
-    {
-      "title": "Tom Morello pays tribute to late Star Trek star Sir Patrick Stewart",
-      "source": "Louder",
-      "ts": 1793501217
-    },
     {
       "title": "Новая песня WRAITH",
       "source": "Darkside",
@@ -2237,6 +2205,46 @@
       "title": "Новое видео GRAVE DIGGER",
       "source": "Darkside",
       "ts": 1793929630
+    },
+    {
+      "title": "Evergreen Terrace Stream Their Cover Of Jimmy Eat World’s “Bleed American”",
+      "source": "ThePRP",
+      "ts": 1793954195
+    },
+    {
+      "title": "Tom Morello Says The U.S. Midterms Were, “A Repudiation Of All Of Trump’s Wannabe Nazi Bitches”",
+      "source": "ThePRP",
+      "ts": 1793954208
+    },
+    {
+      "title": "Carnifex’ “The Process Of Pain” Music Video With Entheos’ Chaney Crabb Lands Online",
+      "source": "ThePRP",
+      "ts": 1793954215
+    },
+    {
+      "title": "Impending Doom Exclusively Release Their New Album “At The Throne Of God” Via Their Webstore, Streaming Debut Due In February",
+      "source": "ThePRP",
+      "ts": 1793954219
+    },
+    {
+      "title": "Extol Release “The One And The Many” Music Video Alongside Their First New Album Since 2013",
+      "source": "ThePRP",
+      "ts": 1793954223
+    },
+    {
+      "title": "Breakdown Of Sanity’s First New Album In A Decade Arrives Online With A Music Video For “Atlas”",
+      "source": "ThePRP",
+      "ts": 1793954227
+    },
+    {
+      "title": "Motörhead's Orgasmatron was neutered in New York - and now it's finally been fixed",
+      "source": "Louder",
+      "ts": 1793954248
+    },
+    {
+      "title": "Motionless In White Thanked WWE Star Rhea Ripley Onstage Tonight For Spreading Metal & Goth Culture Worldwide",
+      "source": "ThePRP",
+      "ts": 1793954257
     }
   ],
   "initialized_sources": [
@@ -6680,9 +6688,6 @@
       "category": "Хэви-метал",
       "published": "2026-11-05T20:43:48+00:00",
       "id": "edcdb4e13fc01c5e3334c7171d3e06a6f1399a74",
-      "duplicate_ids": [
-        "9bb7e4c56669dd3ac3572ec85f01aaa01771a67b"
-      ],
       "retry_after": 1793914330
     },
     {
@@ -7025,6 +7030,30 @@
       "category": "Хэви-метал",
       "published": "2026-11-05T16:24:37+00:00",
       "id": "62942d1b8e858e258bcf357d07db6e8b48972dd1",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Showing Teeth’s “Hellraiser” Music Video Premieres",
+      "link": "https://www.theprp.com/2026/11/05/news/showing-teeths-hellraiser-music-video-premieres/",
+      "rss_body": "A new single to follow in the wake of \"A Fate Worse Than Loneliness\".",
+      "tags": "News Showing Teeth",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T05:32:03+00:00",
+      "id": "df66360291fe9c29d21b6f0ee4e484993163169e",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Tennessee rockers Kings Of Leon's 10th album O My Beloved is their most personal yet",
+      "link": "https://www.loudersound.com/music/albums/kings-of-leon-o-my-beloved",
+      "rss_body": "There’s something rather lovely about Kings Of Leon seeming to be no longer particularly bothered about what people want them to sound like. Twenty-three years into their career, the multi-platinum group and family members have reached that privileged point where they can make a record they actually want to make, rather than trying to write the next\n\nSex On Fire\n\n.\n\nO My Beloved\n\n, their tenth studio album and first to be entirely self-produced, sounds like a band finally giving themselves permission to do just that. It’s a personal collection of songs, almost like a bundle of letters passed between the Followills, with fans given permission to read over their shoulders. Centered on family, fatherhood and the life they’ve built together, there’s an inoffensive intimacy here that they have rarely allowed to sit so comfortably at the front of their intentions\n\nKings Of Leon once gave us southern rock with a gravelly and endearingly mumbled delivery. Then came examples such as\n\nOnly By The Night\n\nand a decade of fans wondering when the band might return to the unique chaos of\n\nYouth & Young Manhood\n\nor\n\nAha Shake Heartbreak\n\n. The answer, increasingly, seems to be that they won’t. And perhaps they shouldn’t?\n\nOn\n\nO My Beloved\n\nthe southern roots remain, but they’ve softened around the edges, taking on a country hue.\n\nFeel The Love\n\nbrings some of Caleb Followill’s gentlest vocals yet, revealing a romantic side that hasn’t always had much room among the band’s early-days hooks and arena-sized choruses.\n\nCold Blue Down\n\ncarries a slight feel of Frank Black’s\n\nHoneycomb\n\n, while\n\nWarm Company\n\nwanders into\n\nPink Floyd\n\n-adjacent territory.\n\nIt’s not ground-breaking (but that hardly seems to be the point). In fact the second half is where\n\nO My Beloved\n\nreally settles into itself as they’re simply documenting where four family members are now.\n\nKings Of Leon’s intimate Nashville show at Basement East felt like a fitting preview of this quieter chapter.\n\nO My Beloved\n\nbelongs in smaller rooms, on quiet Sundays, with people you actually want to spend them with. This album might be the confirmation that the band’s rugged days aren’t coming back any time soon (don’t worry, we can still pop on\n\nYouth & Young Manhood\n\nto scratch that itch). But if we want Kings Of Leon exactly where they seem happiest, then\n\nO My Beloved\n\nis the ticket.",
+      "tags": "Albums Music",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T01:55:00+00:00",
+      "id": "45cb4c1db055306720b522042ff2472e1f888497",
       "retry_after": 0
     }
   ]
