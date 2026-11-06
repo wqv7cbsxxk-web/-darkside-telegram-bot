@@ -1451,49 +1451,17 @@
     "ae5e58365c9340a02c470e03a9ef2df54ec757b9",
     "d5a250b3b2c3e05b7596ed6414485878e9bdfa64",
     "5e87e01eecc2e5a98dbd42c37d706efea97fc1ac",
-    "697a86a37c00ef0a276bf1ea27080783efe5f2d7"
+    "697a86a37c00ef0a276bf1ea27080783efe5f2d7",
+    "7f1732817eba2f7f31116723088a2955540e5491",
+    "334cb221c4e029ea9de8253992f2326df9c1009e",
+    "3b1283e43002920caf610d25f962712b507f3e56",
+    "8ec765c0ca4eb0d9da3f812b874cb2e86cca351d",
+    "662a9900479bca210b7a3fb1504baf7cc0a7ad67",
+    "96a5dbc1dbed8751d823962526966b4eaa4b8b94",
+    "074d8efa12e86c06d5547839040d46c0091f6915",
+    "9dd46d113f05e5e9e7a935bc4907fc5fa3c2aef4"
   ],
   "recent_titles": [
-    {
-      "title": "Новое видео CRYSTAL EYES",
-      "source": "Darkside",
-      "ts": 1793550558
-    },
-    {
-      "title": "CHEAP TRICK: «Нам нужно немного отдохнуть»",
-      "source": "Darkside",
-      "ts": 1793550559
-    },
-    {
-      "title": "Видео полного выступления SLAYER",
-      "source": "Darkside",
-      "ts": 1793550561
-    },
-    {
-      "title": "Новое видео NORMANDIE",
-      "source": "Darkside",
-      "ts": 1793550563
-    },
-    {
-      "title": "How Saint Agnes overcame tragedy and industry interference",
-      "source": "Louder",
-      "ts": 1793550587
-    },
-    {
-      "title": "Новое видео UNZUCHT",
-      "source": "Darkside",
-      "ts": 1793550589
-    },
-    {
-      "title": "THE SYNN REPORT (PART 200): IAPETUS",
-      "source": "No Clean Singing",
-      "ts": 1793550636
-    },
-    {
-      "title": "Новое видео THE DARK.FM",
-      "source": "Darkside",
-      "ts": 1793550638
-    },
     {
       "title": "Suicide Silence’s Mark Heylmun Shares Tribute To Mitch Lucker On The 14th Anniversary Of His Death",
       "source": "ThePRP",
@@ -2253,6 +2221,46 @@
       "title": "DAVID REECE готов выйти на одну сцену с ACCEPT",
       "source": "Darkside",
       "ts": 1793982083
+    },
+    {
+      "title": "Ex-Engine Down Bassist Jason Wood Has Passed Away",
+      "source": "ThePRP",
+      "ts": 1794001205
+    },
+    {
+      "title": "Wednesday 13 Confirms 2027 Return Of Murderdolls",
+      "source": "ThePRP",
+      "ts": 1794001209
+    },
+    {
+      "title": "SCRO Shares “Out Of My Skin” Music Video",
+      "source": "ThePRP",
+      "ts": 1794001212
+    },
+    {
+      "title": "Watch: Stanton Moore (Galactic, Corrosion Of Conformity) Takes On Queens Of The Stone Age For Drumeo",
+      "source": "ThePRP",
+      "ts": 1794001253
+    },
+    {
+      "title": "Saliva’s Bobby Amaru Releases Music Video For His Cover Of Linkin Park’s “Given Up”",
+      "source": "ThePRP",
+      "ts": 1794001257
+    },
+    {
+      "title": "Wisdom In Chains Spoof ‘It’s Always Sunny In Philadelphia’ With Their “The Heat, The Pain” Music Video",
+      "source": "ThePRP",
+      "ts": 1794001259
+    },
+    {
+      "title": "Oblivion Choir (Ex-20 Dead Flower Children / (Hed)p.e.) Sign New Label Deal",
+      "source": "ThePRP",
+      "ts": 1794001264
+    },
+    {
+      "title": "Bullet For My Valentine To Debut “I Don’t Trust Tomorrow” Featuring Lorna Shore’s Will Ramos Next Week",
+      "source": "ThePRP",
+      "ts": 1794001267
     }
   ],
   "initialized_sources": [
@@ -6677,7 +6685,7 @@
       "title": "Watch: Here’s That Haywire Video the NYPD Broke Up",
       "link": "https://metalinjection.net/new-music/watch-heres-that-haywire-video-the-nypd-broke-up",
       "rss_body": "They made the NYPD flex their heads.",
-      "tags": "New Music haywire",
+      "tags": "New Music featured2 haywire",
       "category": "Хэви-метал",
       "published": "2026-11-05T21:12:19+00:00",
       "id": "fc1f10d3ea4ad31a2a4f8b8f444542f896d11c69",
@@ -6713,7 +6721,7 @@
       "title": "Chuck Billy of Testament on Reliving His Cancer Experience, Opening Up Publicly [Exclusive]",
       "link": "https://metalinjection.net/video/chuck-billy-of-testament-on-reliving-his-cancer-experience-opening-up-publicly-exclusive",
       "rss_body": "Chuck Billy sits down with Metal Injection for a comprehensive look at his upcoming memoir.",
-      "tags": "Testament chuck billy",
+      "tags": "Testament chuck billy featured",
       "category": "Хэви-метал",
       "published": "2026-11-05T18:45:17+00:00",
       "id": "6b22c012e9ffa57ba33c8437786a4c46c22515c8",
@@ -6896,7 +6904,7 @@
       "title": "Ozzfest Announces 2027 Return to California",
       "link": "https://metalinjection.net/tour-dates/festivals/ozzfest-announces-2027-return-to-california",
       "rss_body": "The announcement every single metalhead has been waiting for.",
-      "tags": "Festivals Ozzy Osbourne sharon osbourne featured1 Ozzfest 2027",
+      "tags": "Festivals Ozzy Osbourne sharon osbourne featured Ozzfest 2027",
       "category": "Хэви-метал",
       "published": "2026-11-05T15:13:12+00:00",
       "id": "f8080f91cbc98229a69d92a25461df78d6ab8a37",
@@ -7079,7 +7087,7 @@
       "title": "The Weekly Injection: New Releases From Hatebreed, Cult of Luna, and More Out This Week — 11.6",
       "link": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-hatebreed-cult-of-luna-and-more-out-this-week-11-6",
       "rss_body": "Plus releases from Annihilus Mundi, Carnifex, Extol, Hypno5e, Saor, and Steven Wilson.",
-      "tags": "Weekly Injection cult of luna hatebreed carnifex hypno5e steven wilson Extol SAOR Annihilus Mundi",
+      "tags": "Weekly Injection cult of luna hatebreed carnifex hypno5e steven wilson Extol SAOR featured1 Annihilus Mundi",
       "category": "Прогрессив",
       "published": "2026-11-06T13:59:51+00:00",
       "id": "08fac0917414355a5b914e4c6e5336f9b2c9a4ed",
@@ -7203,6 +7211,249 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T02:38:23+00:00",
       "id": "91764bef6bc3b47f6e4d53cc3aed2fb650df93ff",
+      "retry_after": 0
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "How Bon Jovi Went Worldwide With ‘Slippery When Wet'",
+      "link": "https://ultimateclassicrock.com/bon-jovi-slippery-when-wet-photos-interview/",
+      "rss_body": "Photographer Mark Weiss shares his memories with UCR as he celebrates the 40th anniversary of the album with a new exhibit and magazine.",
+      "tags": "Exclusive Interviews News Bon Jovi UCR Ultimate Classic Rock Radio",
+      "category": "Хард-рок",
+      "published": "2026-11-06T20:48:50+00:00",
+      "id": "078880cb4cacfcf88e25d74d1eb3cb78b313acb4",
+      "retry_after": 1794001549
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Celine Dion Plays Air Bass to Metallica at the Sphere",
+      "link": "https://metalinjection.net/news/watch-celine-dion-plays-air-bass-to-metallica-at-the-sphere",
+      "rss_body": "Let her up there!",
+      "tags": "Latest News celine dion Metallica",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T19:26:20+00:00",
+      "id": "9333064c4928ca7477842c8d8420e588444198d3",
+      "retry_after": 1794001560
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Teenage Wrist Release “A Different Shine” EP Produced By Failure’s Ken Andrews, Announce February Tour",
+      "link": "https://www.theprp.com/2026/11/06/news/teenage-wrist-release-a-different-shine-ep-produced-by-failures-ken-andrews-announce-february-tour/",
+      "rss_body": "Featuring three new tracks.",
+      "tags": "News Failure Ken Andrews Teenage Wrist",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T18:45:11+00:00",
+      "id": "bfb2f108de7e3182e2c96361174c563173e421e6",
+      "retry_after": 0
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Imperial Triumphant Drop “Live At Olympia” Album For Bandcamp Friday",
+      "link": "https://www.theprp.com/2026/11/06/news/imperial-triumphant-drop-live-at-olympia-album-for-bandcamp-friday/",
+      "rss_body": "It will arrive on other streaming services next week.",
+      "tags": "News Imperial Triumphant",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T18:17:47+00:00",
+      "id": "ebbaece2816dfae4e17e85e47cecb0e36b0b1ef9",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Sharon Osbourne Says Ozzfest Is Mostly Booked",
+      "link": "https://metalinjection.net/news/sharon-osbourne-says-ozzfest-is-mostly-booked",
+      "rss_body": "She didn't share anything about the lineup, though.",
+      "tags": "Latest News ozzfest sharon osbourne",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T18:14:25+00:00",
+      "id": "1677afc60ad91a23d9fa08a8a980304acd97516d",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новая песня SABATON",
+      "link": "http://www.darkside.ru/news/185032/",
+      "rss_body": "SABATON пятого мая на Better Noise Records выпустят делюкс-издание альбома Legends, фрагмент из которого, композиция Berserker, доступна ниже. Девятого ноября будет представлено официальное видео, в котором снимался Эрик Робертс. Новый вариант альбома будет доступен на делюкс-CD, в формате тройного дигибука, делкюс-CD Amazon Edition, двойном виниле, двойном виниле только для Amazon, еще нескольких версиях винила и лимитированном бокс-сете.\n\nТрек-лист делюкс-версии альбома:\n\n01. Templars\n\n02. Hordes Of Khan\n\n03. A Tiger Among Dragons\n\n04. Crossing The Rubicon\n\n05. I, Emperor\n\n06. Maid Of Steel\n\n07. Impaler\n\n08. Lightning At The Gates\n\n09. The Duelist\n\n10. The Cycle Of Songs\n\n11. Till Seger\n\n12. Berserker\n\n13. Champion Of Christ\n\n14. To Glory\n\n15. Templars (feat. POP EVIL)\n\n16. Crossing The Rubicon (feat. NOTHING MORE)",
+      "tags": "",
+      "category": "Экстремальный метал",
+      "published": "2026-11-06T18:06:32+00:00",
+      "id": "c4a3abd7cf669d5eafb7c9851c4cc293eecccaab",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Asia’s new album brings completion to the last song Geoff Downes started with John Wetton",
+      "link": "https://www.loudersound.com/music/albums/asia-tattoo-indigo-geoff-downes-john-wetton",
+      "rss_body": "Geoff Downes\n\nsays he felt lost after the death of\n\nAsia\n\nbandmate\n\nJohn Wetton\n\n, calling him the best collaborator he’d ever had.\n\nWetton died in 2017 while work was underway on the follow-up to 2014’s\n\nGravitas\n\n. The pair had been developing a suite, now titled\n\nTattoo Indigo\n\n, which has finally found a home in new Asia album\n\nIndigo\n\n.\n\n“We had been working on another album after we released\n\nGravitas\n\n– the last album that I made with John,” Downes tells\n\nGlide\n\n. “Around 2015 and 2016,\n\nTattoo Indigo\n\nwas pretty much in the making – but sadly we never got to finish it because John got sick with cancer and then passed away.\n\nOriginal Asia in 1982\n\n(Image credit: Getty Images)\n\n“I lost my greatest writing partner of all time. I didn’t know what to do with this unfinished track after the loss of John. When we had the opportunity to record this album with the new lineup, I thought the track shouldn’t be locked away in a box for ever.”\n\nDownes dug out the files and took them to new Asia member Harry Whitley, who’s taken Wetton’s place on bass and vocals. “I think John would have been proud that I actually did get it together and finished it,” he adds.\n\nAsia’s current lineup: Virgil Donati, Harry Whitley, John Mitchell and Downes\n\n(Image credit: Scruffy Bear Media)\n\nHe accepts the track has a 70s feel, with references that could include\n\nUriah Heep\n\nand\n\nELP\n\n. “The middle section has a mix of\n\nThe Moody Blues\n\nand\n\nThe Beatles\n\nnostalgia,” he adds.\n\n“\n\nJohn Mitchell\n\ndid a great job on the guitar ending. He was in John Wetton’s solo band for quite some time. When it came time to put Asia back together again a few years ago for a John Wetton tribute show, John Mitchell was my first choice as a guitarist because he knew our music.”\n\nIndigo\n\nfeatures guest appearances by former member\n\nSteve Howe\n\nand\n\nDream Theater\n\n’s\n\nMike Portnoy\n\n, and also includes another of Wetton’s unfinished collaboratons. Prog said of the record: The fact that it works so convincingly is testament to the quality of Asia’s current incarnation.”\n\nIndigo\n\nis on sale now.",
+      "tags": "Albums Music",
+      "category": "Прогрессив",
+      "published": "2026-11-06T18:00:00+00:00",
+      "id": "9ea3a7e062c3ccd94d056403e9b928983f3be47a",
+      "retry_after": 0
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Metal Hammer's tracks of the week: November 6 2026",
+      "link": "https://www.loudersound.com/music/tracks-singles/metal-hammer-tracks-of-the-week-november-6-2026",
+      "rss_body": "2026 is on its last legs. Thankfully. It's been a long old year, but with just two months left to go - and some of that will be eaten by the holiday period - we're starting to cast our eyes ahead to what might come next year. Festivals aplenty have already started announcing (Bloodstock and Wacken got in early, but we've also had Sonic Temple, Welcome To Rockville, 2000 Trees and Mystic dropping their line-ups), meaning the time is right to discover some wicked new music.\n\nThat in mind, here are the results of\n\nlast week's vote\n\n. NWOBHM legends Saxon landed third place with their tale of the Gorgon\n\nMedusa\n\n, while newcomers Wulfgang took a healthy second place with their second single\n\nYou Mean Nothing To Me\n\n. The overall winners for the week though were France's Sunborn, proving that people haven't yet tired of the Sleep Token-induced wave of masked genre-mashers whilst adding their own fine entry to the canon with\n\nSilent Attraction\n\n.\n\nWe've got a mix of established bands and newcomers for you to dive into this week, as we bring new singles from Sabaton, Death Angel, Distant, Charlotte Wessels, Comeback Kid and more. We've also finally got the debut single for Burn Eternal, the new band that reunites Adam D and Howard Jones, plus a few new discoveries for you to stick your teeth into. Let us know which songs excite you most by voting in the poll below, and use the comments to suggest any bands we should be keeping eyes out for. Have a great weekend!\n\nBurn Eternal - Wounds I’ve Made\n\nIt feels like an age has passed since Howard Jones and Adam Dutkiewicz announced they were working on new music together. It's wild to think that almost 20 years have passed since Howard's last record in Killswitch, but the magic is clearly still there in Burn Eternal as the pair fall on old habits of making emotionally driven, riffy metalcore which makes great use of Howard's powerful voice. Burn Eternal's self-titled debut is due February 26.\n\nDeath Angel - The Never Was\n\nDeath Angel have had their eyes firmly locked on the past for most of this year, looking back at 1990's\n\nAct III\n\nfor tour dates across America and Europe. That hasn't stopped them cranking the dials for new music though, and\n\nThe Never Was\n\nmaintains the thrash revivalist energies of the group's 2010s output. It doesn't have the funky low-end of their initial comeback albums but if you're in the market for speed and old school thrash, Death Angel are bringing the goods.\n\nCharlotte Wessels - Incubus\n\nSeems we can't go a week without a symphonic metal icon popping up lately, but when the music is this good, we can hardly complain. Charlotte Wessels is really coming into her own with her band The Obsession and new single\n\nIncubus\n\nhas the familiar not-quite power metal melodies alongside some impressively technical guitars, Wessels' voice soaring atop it all to make the whole song feel epic and fantastical. New album\n\nMute Swan Empire\n\nis due February 5.\n\nSabaton - Berserker\n\nNot-\n\nquite\n\npower metal\n\n? Best to break out the big guns then. Sabaton will be back on the road in 2027 for the next leg of the\n\nLegends\n\ntour\n\n,\n\nand the Swedish band have just announced an expanded edition of that album for a March 5 release, commemorating the fact by going full Amon Amarth (thematically at least, though that's definitely a tour we'd love to see). If you've followed Sabaton for a while, you know exactly what to expect with\n\nBerserker\n\n, but if you've not prepare to be swept away in hale, chest-beating anthemia ripped right from the pages of classic heavy metal.\n\nCult Of Luna - Sadness Will Reign (ft. Joe Duplantier)\n\nSticking within the Swedish borders, Cult Of Luna have this week released new album\n\nIn The Shadow Of Your Shadow\n\n. The post-metal giants have celebrated with the release of\n\nSadness Will Reign,\n\na thundering song that features guest contributions from Gojira's Joe Duplantier, and some surprisingly jazzy sax backing against their usual crashing-monolith of riffs. You can also catch the band at Damnation Festival this weekend (if you're in the UK, at least), which is always a bonus.\n\nRaised By Owls - My Optician Called Me A Poser Because I Couldn’t Read The Sanguisugabogg Logo\n\nAfter all that emotional heft, it can't hurt to have something utterly fucking\n\ndaft\n\n. Raised By Owls have become masters of the online skit, and their satirical death metal gets hookier by the day. There will doubtless be purists who get pissed off by the UK band's prodding of the metal world, but its done with such clear love and devotion we reckon you're best just cranking it up and enjoying the fact we're all in on the joke.\n\nComeback Kid - Shedding Season (ft. Courtney LaPlante)\n\nAnother new record loosed into the world this week, Comeback Kid prove reliable as ever on\n\nChosen Hell\n\n. New single\n\nShedding Season\n\nis a typical pinball of fleshy hardcore violence, stomping and bounding off the walls, the Canadians flexing by getting Spiritbox's Courtney LaPlante on to provide guest vox.\n\nFuture Static - State Of Mind\n\nSometimes a voice just grabs you by the ears and drives your face through a wall. That's where we're at with Future Static's\n\nState Of Mind,\n\nthe track's impressively clattering, rampaging riffs somehow fading into the background against some serious throat-acrobatics from singer Amariah Cook, who really puts her voice through its paces on a track that is both brutal and agonisingly harsh, and sublimely melodic at points. Their new album\n\nOrnaments & Memories\n\nis out today.\n\nEverdawn - Illusionist\n\nSymphonic power metal has generally been more of a European and Japanese phenomenon than something that's caught on in the States. But alongside a few other North American groups like Unleash The Archers and Seven Spires, Everdawn are helping to shift that perception. New single\n\nIllusionist\n\nis a powerhouse of sublime guitar work and stirring melodies, spelling exciting things ahead for new studio album\n\nKalli\n\non January 15.\n\nShevils - The Force Of Water\n\nHailing from Norway, Shevils generally deal in high-octane hardcore. But there's a tinge of their county's biggest metal export on\n\nThe Force Of Water\n\n, the group exploding into a blackened frenzy that brings to mind the likes of Harakiri For The Sky or Svalbard in its incorporation of melody and black metal bluster. The group's new album\n\nSect Resurrection\n\nis coming February 19, and clearly they're pushing their sonic boundaries if these recent singles are anything to go by.",
+      "tags": "Tracks & Singles Music",
+      "category": "Прогрессив",
+      "published": "2026-11-06T17:47:50+00:00",
+      "id": "d65c70900366a2c4172f86f7cde142d338d0dfa0",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Carnifex Drops Video For \"The Process Of Pain\" Featuring Chaney Crabb of Entheos",
+      "link": "https://metalinjection.net/new-music/watch-carnifex-drops-video-for-the-process-of-pain-featuring-chaney-crabb-of-entheos",
+      "rss_body": "Grab an exclusive copy of 'More Than Misery' from the Metal Injection store.",
+      "tags": "New Music carnifex",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T17:11:31+00:00",
+      "id": "b67d4e7c42a6651c01868ccb851ffbfef4eedfc8",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "NICKO MCBRAIN: «Я могу записать пару песен для IRON MAIDEN, почему бы и нет, когда да!»",
+      "link": "http://www.darkside.ru/news/185002/",
+      "rss_body": "NICKO MCBRAIN в недавнем интервью вновь выразил надежду, что примет хоть какое-то участие в работе над новым альбомом IRON MAIDEN. На вопрос о том, обсуждал ли он со Steve'ом Harris'ом сочинение нового материала, он ответил:\n\n«Нет. Сейчас это неоднозначный вопрос. Я разговаривал со ним на прошлой неделе и не поднимал тему записи альбома. Он приезжал ко мне в ресторан во Флориде в феврале или марте этого года, мы посидели и хорошо пообщались. И я сказал ему: \"В следующем году у тебя будет перерыв в гастролях. Ты думаешь о записи нового альбома?\" А он ответил: \"Нет, я об этом не думал, Nick\". Но это не значит, что альбома не будет. Просто он пока не готов думать о записи альбома. Я знаю, что Bruce хотел бы его записать.\n\nНо нужно иметь в виду, что если они запишут альбом, то нужно будет отправиться в тур в его поддержку. То есть пройдёт ещё пара лет, прежде чем они выпустят альбом и займутся его распространением. На это уйдёт время, много времени. Потом нужно будет отправиться в тур. Не то чтобы они не хотели гастролировать, но мы все уже не так молоды. А у них очень энергичные выступления.\n\nЯ не говорю, что они собираются уйти со сцены, но вот в чём дело: если они запишут ещё один альбом, то им придётся отправиться в тур в его поддержку. А это мировое турне, которое длится больше двух лет. Я это понимаю. Я размышляю: \"Именно это мешает им выпустить альбом?\" Я не знаю. На данный момент мы не планируем записывать альбом, но если подобное случится, я бы с удовольствием записал пару песен. Почему бы и нет?»\n\nНа вопрос о том, будет ли поиск «иного подхода» к игре на барабанах в IRON MAIDEN «интересным творческим вызовом» или «скорее ограничением», Nicko ответил:\n\n«Это вызов, потому что мне пришлось заниматься этим два года. После инсульта в 2023 году я отправился в два тура с группой. И мне пришлось пойти на компромисс в некоторых песнях, например во вступлении к \"The Trooper\". Я не мог сыграть эту сбивку. Рука просто не позволяла мне играть в таком темпе. Так что мне пришлось пойти на компромисс.\n\nЯ стал играть больше триолей, просто взял сбивку из куплета и поставил её во вступление. Но это была не та культовая, классическая сбивка Нико для этой и других песен. Так что мне пришлось пойти на компромисс и придумать другую партию. И группа отнеслась к этому нормально.\n\nОни меня очень поддерживали и говорили что-то вроде: \"Мы особо не заметили разницы, ты по-прежнему хорошо играешь, Ник. Ты по-прежнему нас воодушевляешь\".\n\nНо в новом туре я бы просто не смог сыграть многие из этих песен. И это повлияло на моё решение завершить карьеру — я попросту не мог исполнять эти композиции. Я не мог сыграть \"Murders In The Rue Morgue\". А это была вступительная песня. [Смеётся]».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T17:08:40+00:00",
+      "id": "ab79ea39f343b6a2f9809b2c717a6de18309b92b",
+      "retry_after": 0
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "AN NCS VIDEO PREMIERE: DISSECT THE MASSES — “THE HARVESTERS RETURN”",
+      "link": "https://www.nocleansinging.com/2026/11/06/an-ncs-video-premiere-dissect-the-masses-the-harvesters-return/",
+      "rss_body": "(written by Islander) As trained medical professionals, we need to warn those of you who took in our first premiere on this Bandcamp Friday that this next one is likely to produce a severe whiplash effect with traumatic consequences for necks and heads. Okay, just joking, we’re not trained medical professionals, just ardent metal fans\n\n[...]",
+      "tags": "Premieres Dissect the Masses",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T16:56:12+00:00",
+      "id": "9bcdca52ff347baf140103cd7e90d00155e63b13",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Hatebreed's 'Fatal Paradox' Is Out Now, Grab an Exclusive Vinyl From Metal Injection",
+      "link": "https://metalinjection.net/new-music/hatebreeds-fatal-paradox-is-out-now-grab-an-exclusive-vinyl-from-metal-injection",
+      "rss_body": "Hardcore Christmas has arrived in November.",
+      "tags": "New Music hatebreed",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T16:47:26+00:00",
+      "id": "e2efcec3020bb149da23236d82eee27a0af814de",
+      "duplicate_ids": [
+        "9ba2bdf3d25e77064a2b36e159bc915212c29831"
+      ],
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Polish Metal Alliance исполняют хит HELLOWEEN",
+      "link": "http://www.darkside.ru/news/184988/",
+      "rss_body": "Polish Metal Alliance представили видео собственного прочтения хита HELLOWEEN I Want Out\n\nСостав:\n\nKrzysiek Sokołowski - voc\n\nJasiek Popławski - voc\n\nJacek Hiro - guitar\n\nJarek Chilkiewicz - guitar\n\nTomasz Targosz - bass\n\nMichał Łysejko - drums",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T16:15:33+00:00",
+      "id": "eb37f012c16661e5fbaccc74492ffd684a316dd8",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: WWE's Rhea Ripley Join Motionless in White On Stage",
+      "link": "https://metalinjection.net/news/watch-wwes-rhea-ripley-join-motionless-in-white-on-stage",
+      "rss_body": "The WWE wrestler has shown a lot of love to metal throughout her career.",
+      "tags": "Latest News Motionless in White featured Rhea Ripley",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T15:34:31+00:00",
+      "id": "11ce11dcce65b8855844ca4c31c7041575b56e30",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Гитарист TYPE O NEGATIVE: «Нам предлагали кучу денег за концерт памяти Питера Стила»",
+      "link": "http://www.darkside.ru/news/185016/",
+      "rss_body": "KENNY HICKEY в недавнем интервью ответил на вопрос о том, было ли какое-то реальное предложение относительно трибьют-концерта вокалисту TYPE O NEGATIVE Питеру Стилу:\n\n«У нас были предложения, да. Нам предложили одно шоу за большие деньги. Но мы не могли сделать одно шоу за большие деньги. Это слишком масштабное мероприятие. Должно было быть много концертов за большие деньги. Чтобы снова собрать группу, заново разобраться с музыкой, создать визуальный ряд для шоу — все, что вам нужно, — найдите парня, который сможет со вкусом исполнить [вокал Питера], не говоря уже о его игре на басу. Играть на басу — самое сложное. Вокруг полно парней, которые поют глубоким голосом, притворяясь, что они Питер, но играют ли они на басу как он? Забудь. Никто не умеет играть на бас-гитаре так, как он.\n\nПредложения поступают, но, с точки зрения логистики, сейчас этого просто не будет, если вообще произойдет. Этого не случится. Оно может случиться. Я никогда не говорю \"никогда\"… [Я не думаю, что это произойдет], за исключением, возможно, трибьют-концерта когда-нибудь в будущем, если это удастся организовать с точки зрения логистики, тогда да, эта затея жизнеспособна».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T15:22:17+00:00",
+      "id": "9624c957770d53fee0df0277ff0759feb1fb6c94",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео DEAFHEAVEN",
+      "link": "http://www.darkside.ru/news/185028/",
+      "rss_body": "Sorry Laid The Hearth, новое видео группы DEAFHEAVEN, доступно для просмотра ниже. Эта песня взята из ЕР \"At Work In The Fields Of The Bomb\", релиз которого состоялся девятого октября и доступен как в цифровом варианте, так и на винилах разного вида:\n\n01. Hunter\n\n02. Three Princes\n\n03. Sorry Laid The Hearth",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T14:45:10+00:00",
+      "id": "c0896c55cc23a379c8c1bb5361378a2aa1ce8b5a",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Вокалистка AMARANTHE: «Мы вернемся к гётебогскому звучанию»",
+      "link": "http://www.darkside.ru/news/185017/",
+      "rss_body": "В новом интервью Chaoszine вокалистка AMARANTHE ELIZE RYD рассказала о возможности работы над новым материалом:\n\n«У нас забронирована запись барабанов с [давним соратником, датским продюсером] Jacob'ом Hansen'ом через две с половиной недели. Это значит, что мы начнём запись предстоящего альбома, и, как всегда, начинаешь с барабанов, а потом идут остальные инструменты и вокал. И я не уверена, когда мы будем готовы, но он в процессе, и мы надеемся… Мы думаем, что он будет потрясающим».\n\nГоворя о музыкальном направлении нового материала AMARANTHE, ELIZE сказала:\n\n«Это будет второй альбом с Mikael'ем Sehlin'ом [присоединившимся к коллективу в 2023 году] в качестве гроулера. Да, прошло три года с выхода „The Catalyst“, что кажется мне какой-то дикостью. Не могу поверить, что пролетело уже три года. Но то был совсем другой тип альбома, как мы, собственно, делали последние пару лет. На паре альбомов мы много экспериментировали. И если я могу сказать что-то о предстоящем альбоме, то это немного возвращение к корням, такой готенбургский металл-саунд. Много тех необыкновенных риффов „готенбургского звучания“, которые мы все любим.\n\nДа, надеюсь, он получится таким, как мы себе представляем, по крайней мере в наших головах. Но большая часть уже сделана, так что мы уже можем сказать, в каком направлении он пойдёт. И у нас на гроуле Mikael, что очень круто!»\n\nГоворя о том, как Mikael присоединился к AMARANTHE, ELIZE сказала:\n\n«На самом деле все было довольно забавно, потому что мы гастролировали с [прежней группой Mikael'а] ENGEL ещё в 2015 году. Если не ошибаюсь, мы проехали европейский и американский туры. На том туре были и SANTA CRUZ, кстати, финская группа. Тогда я впервые познакомилась с Mikael'ем, хотя он, конечно, уже давно на шведской музыкальной сцене.\n\n[Гитарист AMARANTHE] Olof [Mörck] связался с ним и спросил, не хотел бы он записать гроул на пару демо перед тем, как мы записали альбом „The Catalyst“. Он согласился, и звучало потрясающе, потому что у него, как у [бывшего вокалиста AMARANTHE] Henrik'а [Englund'а Wilhelmsson'а], очень схожий стиль гроулинга. И мы знали, что он сможет петь все старые песни и новые. Пока он справляется отлично, и мы им очень довольны. И я знаю, что фанаты тоже.\n\nТак что мы с нетерпением ждём. Пока все вот как-то так. Думаю, у вас в Финляндии то же самое: ты знаешь людей. Мир, которым мы занимаемся, не такой уж большой. Так что он идеально подошёл, и, к счастью, у него тоже была возможность присоединиться».",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T13:49:07+00:00",
+      "id": "77c40c1ec736fea6c02c90cac23ca9daeb319147",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео ERDLING",
+      "link": "http://www.darkside.ru/news/185027/",
+      "rss_body": "Schreit mich an, новое видео ERDLING, доступно для просмотра. Свежий релиз знаменует собой официальное возвращение коллектива к активной студийной деятельности под крылом их давнего домашнего лейбла Out of Line Music.\n\nКомпозиция \"Schreit mich an\" стала первым официальным синглом в поддержку грядущего седьмого полноформатного студийного альбома группы, получившего название «Mein Element». Международный релиз пластинки запланирован на первую половину 2027 года. Запись, сведение и мастеринг трека проходили под чутким руководством бессменного лидера и фронтмена коллектива по имени Neill Freiwald.\n\nМузыкально новый сингл демонстрирует классическое и полюбившееся фанатам звучание ERDLING на стыке Neue Deutsche Härte (NDH) и современного дарк-металла. Плотная гитарная стена звука, массивные индустриальные электронные лупы и качающий ритм здесь сочетаются с крайне эмоциональным, надрывным и чистым вокалом Neill Freiwald. Энергичный и мрачный видеоряд клипа, за производство которого отвечала студия независимого визуального производства, идеально передает агрессивный и бунтарский посыл лирики.\n\nПредварительный трек-лист «Mein Element»:\n\n01. Mein Element (Intro)\n\n02. Schreit mich an\n\n03. Phoenix\n\n04. Asche zu Asche\n\n05. Ewigkeit\n\n06. Verloren\n\n07. Zeitgeist\n\n08. Narbenwind\n\n09. Unter der Haut\n\n10. Outro: Das Ende",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T13:10:59+00:00",
+      "id": "01182ae759f63164e9a972b1ff0b30b9e2582cbe",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Новое видео MOUTH WIRED SHUT",
+      "link": "http://www.darkside.ru/news/185013/",
+      "rss_body": "BLACK, новое видео MOUTH WIRED SHUT, доступно для просмотра. Композиция \"BLACK\" знаменует собой кульминационную главу в оригинальной структуре релизов коллектива, получившую название «Act IV: BLACK».\n\nПроект MOUTH WIRED SHUT, базирующийся в Кливленде (штат Огайо), позиционирует свое творчество не просто как музыку, а как полноценную психологическую хоррор-историю, рассказываемую через призму кинематографа и тяжелого звука. Начиная с лета 2026 года, трио последовательно выпускало треки в виде «актов» единого повествования, куда ранее вошли синглы «Parasite» (Act I), «Anima» (Act II) и «Widowmaker» (Act III).\n\nЗа музыкальную и идейную основу трио, в состав которого входят вокалист и гитарист Joey Ariemma, барабанщик Brandon Brown и басист Matthew Denis, отвечает мрачный личный опыт: само название проекта родилось после того, как фронтмен перенес тяжелейшую операцию на челюсти. Новый сингл \"BLACK\" демонстрирует фирменную «стену звука» на стыке альтернативного рока, пост-гранжа и кинематографичного индастриала, а визуальный ряд клипа погружает зрителя в тягучую атмосферу подземного мира и ментального распада главного героя истории. Сведением и мастерингом материала занималась известная студия Miro Mastering",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T12:36:08+00:00",
+      "id": "f6c060d9fff949c164a44f9bcb85a4f5a85fccb7",
+      "retry_after": 0
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Кавер-версия ACCEPT от METAL FACTORY",
+      "link": "http://www.darkside.ru/news/185024/",
+      "rss_body": "METAL FACTORY представили видео на собственное прочтение хита ACCEPT \"Fast As A Shark\". Свежий концертный ролик был смонтирован на основе выступлений коллектива в рамках гастрольного сезона 2025–2026 годов.\n\nОригинальная композиция \"Fast as a Shark\", написанная участниками ACCEPT, изначально вышла в 1982 году на их классическом четвертом студийном альбоме «Restless and Wild». В исполнении METAL FACTORY трек приобрел новое, еще более напористое звучание благодаря уникальной фишке коллектива — мощному двойному женскому вокалу в исполнении Pavlína Mochová и Zuzana Batková. Живой аудиоматериал для клипа был записан звукорежиссером Stanislaw Waclawik на чешских опен-эйрах.\n\nНапомним, что чешское метал-трио (в составе которого также числятся гитарист Vašek Moch, басист Jaroslav Sedláček и барабанщик Dan Jureček) активно продвигает наследие классического хэви-метала, регулярно включая в свои сет-листы кавер-версии боевиков JUDAS PRIEST, ACCEPT и других столпов жанра. В данный момент группа готовится к записи своего нового студийного материала, который закрепит успех их недавних синглов «Domination» и «Infection with Relief».\n\nТрек-лист оригинального альбома ACCEPT «Restless and Wild» (1982):\n\n01. Fast as a Shark\n\n02. Restless and Wild\n\n03. Ahead of the Pack\n\n04. Shake Your Heads\n\n05. Neon Nights\n\n06. Get Ready\n\n07. Don't Go Stealing My Soul Away\n\n08. Flash Rockin' Man\n\n09. Big City Nights\n\n10. Princess of the Dawn",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-06T11:48:00+00:00",
+      "id": "3c412549b06e805f6eed62e8d6e47cf51ccb3f27",
       "retry_after": 0
     }
   ]
