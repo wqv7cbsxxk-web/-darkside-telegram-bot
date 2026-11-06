@@ -12482,7 +12482,7 @@
     "guns-n-roses": {
       "name": "Guns N’ Roses",
       "musicbrainz_url": "https://musicbrainz.org/artist/eeb1195b-f213-4ce1-b28c-8565211f8e43",
-      "reference_checked_at": "2026-10-24T01:59:31.005975+00:00",
+      "reference_checked_at": "2026-11-06T16:21:45.611037+00:00",
       "genres": "aor, arena rock, art rock, glam metal, hard rock, heavy metal, punk rock, rock",
       "website": "https://www.gunsnroses.com/",
       "members": [
@@ -12525,7 +12525,7 @@
       "members_source": "https://musicbrainz.org/artist/eeb1195b-f213-4ce1-b28c-8565211f8e43",
       "albums": [
         {
-          "name": "The Broadcast Collection 1988-1992",
+          "name": "The Broadcast Collection 1988–1992",
           "date": "",
           "kind": "compilation",
           "source_url": "https://musicbrainz.org/release-group/0148ec46-c4ac-4fdf-b69b-31e92e1957c9"
@@ -12555,7 +12555,7 @@
           "source_url": "https://musicbrainz.org/release-group/0c5934af-0998-498b-909e-105d27bb5f68"
         },
         {
-          "name": "You Could Be Mine (live in New York, Ritz Theatre - May 16, 1991)",
+          "name": "You Could Be Mine (live in New York, Ritz Theatre – May 16, 1991)",
           "date": "2022-09-20",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/0cbd78d5-199a-45a5-a0e2-f01b1c13c70b"
@@ -12657,12 +12657,6 @@
           "source_url": "https://musicbrainz.org/release-group/32e70271-8d30-4301-893b-8a4bfbce6282"
         },
         {
-          "name": "The Best Hits",
-          "date": "",
-          "kind": "compilation",
-          "source_url": "https://musicbrainz.org/release-group/3a4a9e8b-93ce-43ce-9431-74750877b881"
-        },
-        {
           "name": "Right Next Door to Hell",
           "date": "2019-08-12",
           "kind": "live",
@@ -12675,7 +12669,7 @@
           "source_url": "https://musicbrainz.org/release-group/3bea51d8-2dae-385e-ab0c-08824e62a885"
         },
         {
-          "name": "Double Talkin' Jive",
+          "name": "Double Talkin’ Jive",
           "date": "2019-08-08",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/3f340c6f-7859-43ce-b932-1d844de6246d"
@@ -12777,16 +12771,10 @@
           "source_url": "https://musicbrainz.org/release-group/700983f1-8262-37b4-a6ae-57ee6380049d"
         },
         {
-          "name": "Appetite for Democracy: Live at the Hard Rock Casino - Las Vegas",
+          "name": "Appetite for Democracy: Live at the Hard Rock Casino – Las Vegas",
           "date": "2014-07-01",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/74f604b1-eef3-4b14-a69a-528f69d449cf"
-        },
-        {
-          "name": "Anarchy In The UK",
-          "date": "2020-10-02",
-          "kind": "live",
-          "source_url": "https://musicbrainz.org/release-group/7916890b-6128-4832-8cb8-bbba031099ef"
         },
         {
           "name": "Hard Skool",
@@ -12861,7 +12849,7 @@
           "source_url": "https://musicbrainz.org/release-group/9644de09-bd22-43e2-bc5b-def20952922c"
         },
         {
-          "name": "Welcome To The Videos",
+          "name": "Welcome to the Videos",
           "date": "1998",
           "kind": "compilation",
           "source_url": "https://musicbrainz.org/release-group/966308ea-5928-4a92-ad45-a8a960d40d70"
@@ -12903,7 +12891,7 @@
           "source_url": "https://musicbrainz.org/release-group/a86b163e-5430-4319-b68e-cf1ce4680b5b"
         },
         {
-          "name": "Appetite for Destruction & Lies (Deluxe Edition)",
+          "name": "Appetite for Destruction & Lies (deluxe edition)",
           "date": "2008",
           "kind": "ep",
           "source_url": "https://musicbrainz.org/release-group/ab8a5d8e-5a13-46f9-ad9f-25a0ad61ed86"
@@ -12993,13 +12981,13 @@
           "source_url": "https://musicbrainz.org/release-group/cdfb0664-26b5-3475-88f5-dd6ccd4d74ce"
         },
         {
-          "name": "Tokyo Dome, Japan, 2nd Night, February 20th, 1992 (HQ Remastered)",
+          "name": "Tokyo Dome, Japan, 2nd Night, February 20th, 1992 (HQ remastered)",
           "date": "2024-10-07",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/ce805cf5-f918-45cd-b1f4-13c34c50c887"
         },
         {
-          "name": "Take Me Down (New York '88 WAAF broadcast)",
+          "name": "Take Me Down (New York ’88 WAAF broadcast)",
           "date": "2024-02-19",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/d43e4d7e-7f08-4ff4-95cc-18f0c892ed28"
@@ -13011,7 +12999,7 @@
           "source_url": "https://musicbrainz.org/release-group/d4e38308-bb9e-4b58-bdad-aa53bc76c28e"
         },
         {
-          "name": "Nothin'",
+          "name": "Nothin’",
           "date": "2025-12-04",
           "kind": "ep",
           "source_url": "https://musicbrainz.org/release-group/d5adb67f-d802-4bb1-9f7d-97a8dfd271f9"
@@ -13057,6 +13045,12 @@
           "date": "1986-12",
           "kind": "live",
           "source_url": "https://musicbrainz.org/release-group/e66fe629-117e-3204-a71b-159894518d97"
+        },
+        {
+          "name": "Le Beau Geste",
+          "date": "1992",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/e6bc85c2-e3a0-4287-b1aa-14b8eb030feb"
         },
         {
           "name": "Makin’ F@*!ing Boxes",
@@ -13105,6 +13099,12 @@
           "date": "1991-12",
           "kind": "ep",
           "source_url": "https://musicbrainz.org/release-group/f57e3cd2-9e36-3767-a2eb-43251055d8fe"
+        },
+        {
+          "name": "Paradise City",
+          "date": "1993",
+          "kind": "studio",
+          "source_url": "https://musicbrainz.org/release-group/f6f652d6-a54f-4f2e-a313-bb615bf1cf9b"
         },
         {
           "name": "Live – Estadio Nacional, Santiago, Chile. December 2nd 1992",
@@ -34673,8 +34673,8 @@
     "gojira": "2026-11-06T01:47:28.001738+00:00",
     "gorgoroth": "2026-11-06T08:37:54.131384+00:00",
     "grave-digger": "2026-11-06T08:37:55.406797+00:00",
-    "great-white": "2026-10-24T01:59:27.051725+00:00",
-    "guns-n-roses": "2026-10-24T01:59:31.006248+00:00",
+    "great-white": "2026-11-06T16:21:41.201245+00:00",
+    "guns-n-roses": "2026-11-06T16:21:45.611235+00:00",
     "haken": "2026-10-24T07:20:32.319505+00:00",
     "halestorm": "2026-10-24T07:20:36.426171+00:00",
     "i-am-morbid": "2026-10-24T12:13:19.955858+00:00",
