@@ -14846,7 +14846,7 @@
     "jethro-tull": {
       "name": "Jethro Tull",
       "musicbrainz_url": "https://musicbrainz.org/artist/ece57992-dc2e-4f67-a269-fa43626c1a3d",
-      "reference_checked_at": "2026-10-14T19:42:16.826410+00:00",
+      "reference_checked_at": "2026-11-07T18:58:00.413084+00:00",
       "genres": "art rock, blues rock, classic rock, folk rock, hard rock, progressive, progressive folk, progressive rock, rock",
       "website": "http://www.j-tull.com/",
       "members": [
@@ -15488,15 +15488,10 @@
     "judas-priest": {
       "name": "Judas Priest",
       "musicbrainz_url": "https://musicbrainz.org/artist/6b335658-22c8-485d-93de-0bc29a1d0349",
-      "reference_checked_at": "2026-10-14T19:42:23.727412+00:00",
+      "reference_checked_at": "2026-11-07T18:58:07.974932+00:00",
       "genres": "classic rock, hard rock, heavy metal, metal, nwobhm, speed metal",
       "website": "https://www.judaspriest.com/",
       "members": [
-        {
-          "name": "Ian Hill",
-          "role": "bass guitar",
-          "begin": "1970"
-        },
         {
           "name": "Glenn Tipton",
           "role": "guitar family, keyboard, synthesizer",
@@ -15516,6 +15511,11 @@
           "name": "Richie Faulkner",
           "role": "electric guitar",
           "begin": "2011-04-20"
+        },
+        {
+          "name": "Davey Rimmer",
+          "role": "electric bass guitar",
+          "begin": "2026-10"
         }
       ],
       "members_source": "https://musicbrainz.org/artist/6b335658-22c8-485d-93de-0bc29a1d0349",
@@ -15527,7 +15527,7 @@
           "source_url": "https://musicbrainz.org/release-group/04501f47-f36f-4f06-9b18-6aad5c847a7d"
         },
         {
-          "name": "Sad Wings of Destiny (Original 1976 Masters)",
+          "name": "Sad Wings of Destiny",
           "date": "1976",
           "kind": "studio",
           "source_url": "https://musicbrainz.org/release-group/04b8ba32-4b02-3f06-a533-f9938b70b925"
@@ -34698,8 +34698,8 @@
     "immortal": "2026-11-07T07:22:46.372956+00:00",
     "in-flames": "2026-11-07T14:18:20.225586+00:00",
     "iron-maiden": "2026-11-07T14:18:21.425521+00:00",
-    "jethro-tull": "2026-10-24T21:11:43.460228+00:00",
-    "judas-priest": "2026-10-24T21:11:48.211317+00:00",
+    "jethro-tull": "2026-11-07T18:58:00.413300+00:00",
+    "judas-priest": "2026-11-07T18:58:07.975137+00:00",
     "kid-rock": "2026-10-24T23:26:09.803149+00:00",
     "king-crimson": "2026-10-24T23:26:13.873752+00:00",
     "kiss": "2026-10-25T01:27:57.739307+00:00",

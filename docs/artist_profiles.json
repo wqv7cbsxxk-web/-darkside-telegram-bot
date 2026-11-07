@@ -3965,7 +3965,7 @@
       "website": "http://obituary.cc",
       "reference_url": "https://en.wikipedia.org/wiki/Obituary_%28band%29",
       "reference_checked_at": "2026-11-07T14:18:09.517487+00:00",
-      "tour_attempted_at": "2026-10-31T17:44:18.577124+00:00",
+      "tour_attempted_at": "2026-11-07T18:57:47.209765+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-07T14:18:09.517576+00:00"
     },
@@ -3999,7 +3999,7 @@
       "website": "http://thetruemayhem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mayhem_%28band%29",
       "reference_checked_at": "2026-11-07T14:18:09.692406+00:00",
-      "tour_attempted_at": "2026-10-31T17:44:20.017304+00:00",
+      "tour_attempted_at": "2026-11-07T18:57:48.746544+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-07T14:18:09.692565+00:00"
     },
@@ -4074,7 +4074,7 @@
       "website": "http://emperorhorde.com",
       "reference_url": "https://en.wikipedia.org/wiki/Emperor_%28Norwegian_band%29",
       "reference_checked_at": "2026-10-31T06:24:54.013864+00:00",
-      "tour_attempted_at": "2026-10-31T17:44:20.442736+00:00",
+      "tour_attempted_at": "2026-11-07T18:57:49.143411+00:00",
       "reference_attempted_at": "2026-10-31T06:24:54.013955+00:00"
     },
     "overkill": {
@@ -4109,7 +4109,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Overkill_%28band%29",
       "reference_checked_at": "2026-11-07T14:18:10.599308+00:00",
       "reference_attempted_at": "2026-11-07T14:18:10.599326+00:00",
-      "tour_attempted_at": "2026-10-31T17:44:20.623062+00:00"
+      "tour_attempted_at": "2026-11-07T18:57:49.428444+00:00"
     },
     "periphery": {
       "origin": "Washington, D.C. , U.S.",
@@ -4141,8 +4141,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://periphery.net",
       "reference_url": "https://en.wikipedia.org/wiki/Periphery_%28band%29",
-      "reference_checked_at": "2026-10-30T20:57:03.834217+00:00",
-      "reference_attempted_at": "2026-10-30T20:57:03.834312+00:00",
+      "reference_checked_at": "2026-11-07T18:57:45.856604+00:00",
+      "reference_attempted_at": "2026-11-07T18:57:45.856709+00:00",
       "tour_attempted_at": "2026-10-31T20:41:52.448058+00:00"
     },
     "riverside": {
@@ -4163,8 +4163,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://riversideband.pl",
       "reference_url": "https://en.wikipedia.org/wiki/Riverside_%28band%29",
-      "reference_checked_at": "2026-10-30T20:57:03.989596+00:00",
-      "reference_attempted_at": "2026-10-30T20:57:03.989609+00:00",
+      "reference_checked_at": "2026-11-07T18:57:46.018521+00:00",
+      "reference_attempted_at": "2026-11-07T18:57:46.018544+00:00",
       "tour_attempted_at": "2026-10-31T20:41:53.968045+00:00"
     },
     "saxon": {
@@ -4189,8 +4189,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://saxon747.com",
       "reference_url": "https://en.wikipedia.org/wiki/Saxon_%28band%29",
-      "reference_checked_at": "2026-10-30T20:57:04.151829+00:00",
-      "reference_attempted_at": "2026-10-30T20:57:04.151840+00:00",
+      "reference_checked_at": "2026-11-07T18:57:46.156977+00:00",
+      "reference_attempted_at": "2026-11-07T18:57:46.156999+00:00",
       "tour_attempted_at": "2026-10-31T20:41:54.571834+00:00"
     },
     "scorpions": {
@@ -4223,8 +4223,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://the-scorpions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Scorpions_%28band%29",
-      "reference_checked_at": "2026-10-30T20:57:04.374273+00:00",
-      "reference_attempted_at": "2026-10-30T20:57:04.374375+00:00",
+      "reference_checked_at": "2026-11-07T18:57:46.353242+00:00",
+      "reference_attempted_at": "2026-11-07T18:57:46.353398+00:00",
       "events": [
         {
           "date": "2027-06-26",
@@ -4335,8 +4335,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Set_Your_Goals_%28band%29",
-      "reference_checked_at": "2026-10-30T20:57:04.574243+00:00",
-      "reference_attempted_at": "2026-10-30T20:57:04.574256+00:00"
+      "reference_checked_at": "2026-11-07T18:57:46.555124+00:00",
+      "reference_attempted_at": "2026-11-07T18:57:46.555147+00:00"
     },
     "skid-row": {
       "origin": "Toms River, New Jersey , U.S.",
@@ -4368,8 +4368,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://skidrow.com",
       "reference_url": "https://en.wikipedia.org/wiki/Skid_Row_%28American_band%29",
-      "reference_checked_at": "2026-10-30T20:57:04.725113+00:00",
-      "reference_attempted_at": "2026-10-30T20:57:04.725125+00:00",
+      "reference_checked_at": "2026-11-07T18:57:46.806080+00:00",
+      "reference_attempted_at": "2026-11-07T18:57:46.806104+00:00",
       "tour_attempted_at": "2026-10-31T23:49:42.826295+00:00"
     },
     "sodom": {
