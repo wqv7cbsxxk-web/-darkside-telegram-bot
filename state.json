@@ -1495,49 +1495,17 @@
     "e118902ebdc898a284c1fd334aed20ed0bac9de3",
     "b67d4e7c42a6651c01868ccb851ffbfef4eedfc8",
     "218f02c530331a97d3f7c1b50cddd1e0adbfc0ae",
-    "2b9cb2ccdb6860d03cd24d0bba1abd952ae4b402"
+    "2b9cb2ccdb6860d03cd24d0bba1abd952ae4b402",
+    "c254220ac48293ac868dfba39178176d355e1253",
+    "d7e0041cb0d0190d4c6b0978515addf66aa44120",
+    "9f52bf8814a2287d2c6a24cf9f2e53e61e19a608",
+    "6172cad3f6d421e4b343d3b88708bee66bfc6a58",
+    "7d9b4d44af78b40ca1cc3d2777dcd5ff8f0febd5",
+    "0814bde9f7cfdda705c41c98067b3f0575cdca92",
+    "77c40c1ec736fea6c02c90cac23ca9daeb319147",
+    "01182ae759f63164e9a972b1ff0b30b9e2582cbe"
   ],
   "recent_titles": [
-    {
-      "title": "Вокалист DEEP PURPLE поблагодарил за беспокойство",
-      "source": "Darkside",
-      "ts": 1793659384
-    },
-    {
-      "title": "Обновленный трек от AGALLOCH",
-      "source": "Darkside",
-      "ts": 1793659385
-    },
-    {
-      "title": "JOE SATRIANI в новом клипе BRIAN TARQUIN",
-      "source": "Darkside",
-      "ts": 1793659386
-    },
-    {
-      "title": "Oblivion Choir (Ex-20 Dead Flower Children / (hed)p.e.) Debut Their Cover Of Nine Inch Nails’ “Sin”",
-      "source": "ThePRP",
-      "ts": 1793659390
-    },
-    {
-      "title": "Trent Reznor & Atticus Ross Have Scored David Fincher’s New Film ‘The Further Mis-Adventures Of Cliff Booth’",
-      "source": "ThePRP",
-      "ts": 1793659395
-    },
-    {
-      "title": "Vended Have Hit The Studio With Producer Nick Raskulinecz",
-      "source": "ThePRP",
-      "ts": 1793659399
-    },
-    {
-      "title": "Burn Eternal (Killswitch Engage) Tease Their Debut Single “Wounds I’ve Made”",
-      "source": "ThePRP",
-      "ts": 1793659405
-    },
-    {
-      "title": "Gavin Harrison on juggling King Crimson, Porcupine Tree and The Pineapple Thief, and the hardest songs to play",
-      "source": "Louder",
-      "ts": 1793659416
-    },
     {
       "title": "California Dream On: Ten things we learned at Aerosmith & Friends (Night Two) at the Hollywood Bowl",
       "source": "Louder",
@@ -2297,6 +2265,46 @@
       "title": "JOE BONAMASSA почтил память Патрика Стюарта",
       "source": "Darkside",
       "ts": 1794077856
+    },
+    {
+      "title": "Arthur Brown reveals he was threatened by Charles Manson’s followers",
+      "source": "Louder",
+      "ts": 1794091201
+    },
+    {
+      "title": "Incubus’ Brandon Boyd To Make His Feature Film Scoring Debut With Upcoming World War II Sci-Fi Film ‘Unknown Company’",
+      "source": "ThePRP",
+      "ts": 1794091209
+    },
+    {
+      "title": "Avenged Sevenfold Announce Deluxe 10th Anniversary Vinyl Releases For “The Stage”",
+      "source": "ThePRP",
+      "ts": 1794091219
+    },
+    {
+      "title": "Limited Edition Korn “Issues” Ragdoll Plushie & Keychain Available",
+      "source": "ThePRP",
+      "ts": 1794091295
+    },
+    {
+      "title": "Hellripper’s First U.S. Tour Is Officially Underway Following Visa Delays",
+      "source": "ThePRP",
+      "ts": 1794091298
+    },
+    {
+      "title": "Профессиональное видео с выступления WEDNESDAY 13",
+      "source": "Darkside",
+      "ts": 1794091316
+    },
+    {
+      "title": "Вокалистка AMARANTHE: «Мы вернемся к гётебогскому звучанию»",
+      "source": "Darkside",
+      "ts": 1794091350
+    },
+    {
+      "title": "Новое видео ERDLING",
+      "source": "Darkside",
+      "ts": 1794091352
     }
   ],
   "initialized_sources": [
@@ -7115,7 +7123,7 @@
       "category": "Прогрессив",
       "published": "2026-11-06T14:38:25+00:00",
       "id": "3a26d91d4c5463c8331921dae9b458244644c0e3",
-      "retry_after": 1793982322
+      "retry_after": 1794091649
     },
     {
       "source": "Metal Injection",
@@ -7127,7 +7135,7 @@
       "category": "Прогрессив",
       "published": "2026-11-06T13:59:51+00:00",
       "id": "08fac0917414355a5b914e4c6e5336f9b2c9a4ed",
-      "retry_after": 1793982322
+      "retry_after": 1794091649
     },
     {
       "source": "Louder",
@@ -7259,7 +7267,7 @@
       "category": "Хард-рок",
       "published": "2026-11-06T20:48:50+00:00",
       "id": "078880cb4cacfcf88e25d74d1eb3cb78b313acb4",
-      "retry_after": 1794061322
+      "retry_after": 1794091620
     },
     {
       "source": "Metal Injection",
@@ -7271,7 +7279,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T19:26:20+00:00",
       "id": "9333064c4928ca7477842c8d8420e588444198d3",
-      "retry_after": 1794061322
+      "retry_after": 1794091620
     },
     {
       "source": "Metal Injection",
@@ -7283,7 +7291,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T18:14:25+00:00",
       "id": "1677afc60ad91a23d9fa08a8a980304acd97516d",
-      "retry_after": 1794061322
+      "retry_after": 1794091620
     },
     {
       "source": "Metal Injection",
@@ -7298,7 +7306,7 @@
       "duplicate_ids": [
         "9ba2bdf3d25e77064a2b36e159bc915212c29831"
       ],
-      "retry_after": 1794061376
+      "retry_after": 1794091621
     },
     {
       "source": "Metal Injection",
@@ -7310,31 +7318,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T15:34:31+00:00",
       "id": "11ce11dcce65b8855844ca4c31c7041575b56e30",
-      "retry_after": 1794061378
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Вокалистка AMARANTHE: «Мы вернемся к гётебогскому звучанию»",
-      "link": "http://www.darkside.ru/news/185017/",
-      "rss_body": "В новом интервью Chaoszine вокалистка AMARANTHE ELIZE RYD рассказала о возможности работы над новым материалом:\n\n«У нас забронирована запись барабанов с [давним соратником, датским продюсером] Jacob'ом Hansen'ом через две с половиной недели. Это значит, что мы начнём запись предстоящего альбома, и, как всегда, начинаешь с барабанов, а потом идут остальные инструменты и вокал. И я не уверена, когда мы будем готовы, но он в процессе, и мы надеемся… Мы думаем, что он будет потрясающим».\n\nГоворя о музыкальном направлении нового материала AMARANTHE, ELIZE сказала:\n\n«Это будет второй альбом с Mikael'ем Sehlin'ом [присоединившимся к коллективу в 2023 году] в качестве гроулера. Да, прошло три года с выхода „The Catalyst“, что кажется мне какой-то дикостью. Не могу поверить, что пролетело уже три года. Но то был совсем другой тип альбома, как мы, собственно, делали последние пару лет. На паре альбомов мы много экспериментировали. И если я могу сказать что-то о предстоящем альбоме, то это немного возвращение к корням, такой готенбургский металл-саунд. Много тех необыкновенных риффов „готенбургского звучания“, которые мы все любим.\n\nДа, надеюсь, он получится таким, как мы себе представляем, по крайней мере в наших головах. Но большая часть уже сделана, так что мы уже можем сказать, в каком направлении он пойдёт. И у нас на гроуле Mikael, что очень круто!»\n\nГоворя о том, как Mikael присоединился к AMARANTHE, ELIZE сказала:\n\n«На самом деле все было довольно забавно, потому что мы гастролировали с [прежней группой Mikael'а] ENGEL ещё в 2015 году. Если не ошибаюсь, мы проехали европейский и американский туры. На том туре были и SANTA CRUZ, кстати, финская группа. Тогда я впервые познакомилась с Mikael'ем, хотя он, конечно, уже давно на шведской музыкальной сцене.\n\n[Гитарист AMARANTHE] Olof [Mörck] связался с ним и спросил, не хотел бы он записать гроул на пару демо перед тем, как мы записали альбом „The Catalyst“. Он согласился, и звучало потрясающе, потому что у него, как у [бывшего вокалиста AMARANTHE] Henrik'а [Englund'а Wilhelmsson'а], очень схожий стиль гроулинга. И мы знали, что он сможет петь все старые песни и новые. Пока он справляется отлично, и мы им очень довольны. И я знаю, что фанаты тоже.\n\nТак что мы с нетерпением ждём. Пока все вот как-то так. Думаю, у вас в Финляндии то же самое: ты знаешь людей. Мир, которым мы занимаемся, не такой уж большой. Так что он идеально подошёл, и, к счастью, у него тоже была возможность присоединиться».",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T13:49:07+00:00",
-      "id": "77c40c1ec736fea6c02c90cac23ca9daeb319147",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео ERDLING",
-      "link": "http://www.darkside.ru/news/185027/",
-      "rss_body": "Schreit mich an, новое видео ERDLING, доступно для просмотра. Свежий релиз знаменует собой официальное возвращение коллектива к активной студийной деятельности под крылом их давнего домашнего лейбла Out of Line Music.\n\nКомпозиция \"Schreit mich an\" стала первым официальным синглом в поддержку грядущего седьмого полноформатного студийного альбома группы, получившего название «Mein Element». Международный релиз пластинки запланирован на первую половину 2027 года. Запись, сведение и мастеринг трека проходили под чутким руководством бессменного лидера и фронтмена коллектива по имени Neill Freiwald.\n\nМузыкально новый сингл демонстрирует классическое и полюбившееся фанатам звучание ERDLING на стыке Neue Deutsche Härte (NDH) и современного дарк-металла. Плотная гитарная стена звука, массивные индустриальные электронные лупы и качающий ритм здесь сочетаются с крайне эмоциональным, надрывным и чистым вокалом Neill Freiwald. Энергичный и мрачный видеоряд клипа, за производство которого отвечала студия независимого визуального производства, идеально передает агрессивный и бунтарский посыл лирики.\n\nПредварительный трек-лист «Mein Element»:\n\n01. Mein Element (Intro)\n\n02. Schreit mich an\n\n03. Phoenix\n\n04. Asche zu Asche\n\n05. Ewigkeit\n\n06. Verloren\n\n07. Zeitgeist\n\n08. Narbenwind\n\n09. Unter der Haut\n\n10. Outro: Das Ende",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T13:10:59+00:00",
-      "id": "01182ae759f63164e9a972b1ff0b30b9e2582cbe",
-      "retry_after": 0
+      "retry_after": 1794091621
     },
     {
       "source": "Darkside",
@@ -7370,7 +7354,7 @@
       "category": "Хард-рок",
       "published": "2026-11-07T16:47:17+00:00",
       "id": "44bbeb019481c0ecab0aec703dd7ed4418384fd5",
-      "retry_after": 1794078010
+      "retry_after": 1794091606
     },
     {
       "source": "Metal Injection",
@@ -7382,7 +7366,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-07T16:31:31+00:00",
       "id": "8e7bbe671738c53c2535e4cf5ce394d703ffe636",
-      "retry_after": 1794078013
+      "retry_after": 1794091606
     },
     {
       "source": "Ultimate Classic Rock",
@@ -7394,7 +7378,7 @@
       "category": "Хард-рок",
       "published": "2026-11-07T16:23:25+00:00",
       "id": "fac9ff5e35248ea6115785d1578059e4f1cdb99a",
-      "retry_after": 1794078091
+      "retry_after": 1794091609
     },
     {
       "source": "Metal Injection",
@@ -7406,7 +7390,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-07T16:16:34+00:00",
       "id": "40bb194a7043e3b6a1dc30ddad30b7ea7fc8a19d",
-      "retry_after": 1794078102
+      "retry_after": 1794091609
     },
     {
       "source": "Louder",
@@ -7418,7 +7402,7 @@
       "category": "Хард-рок",
       "published": "2026-11-07T16:05:00+00:00",
       "id": "e0e049741f369ffdf58dcc43160d3251efd6cf1a",
-      "retry_after": 1794078143
+      "retry_after": 1794091612
     },
     {
       "source": "Metal Injection",
@@ -7430,7 +7414,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-07T15:04:54+00:00",
       "id": "f49d07a4ead13f53cf8879dae1707dc681136235",
-      "retry_after": 1794078143
+      "retry_after": 1794091612
     },
     {
       "source": "Ultimate Classic Rock",
@@ -7442,19 +7426,43 @@
       "category": "Хэви-метал",
       "published": "2026-11-07T14:33:05+00:00",
       "id": "7245a5b974e8f32db2aef6fd0c6198607e010b3b",
-      "retry_after": 1794078154
+      "retry_after": 1794091615
     },
     {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Профессиональное видео с выступления WEDNESDAY 13",
-      "link": "http://www.darkside.ru/news/185057/",
-      "rss_body": "Профессиональное видео с выступления WEDNESDAY 13, которое состоялось в рамках Bloodstock Open Air 2026, доступно для просмотра.",
-      "tags": "",
+      "source": "Louder",
+      "priority": 84,
+      "title": "Motionless In White give WWE Superstar Rhea Ripley her flowers in gushing onstage shoutout",
+      "link": "https://www.loudersound.com/bands-artists/it-is-because-of-you-that-so-many-people-love-this-motionless-in-white-give-wwe-superstar-rhea-ripley-her-flowers-in-gushing-onstage-shoutout",
+      "rss_body": "WWE Superstar Rhea Ripley was hailed as a \"frontrunner\" for heavy metal when she was welcomed onstage by Motionless In White this week.\n\nFrontman Chris Motionless introduced Ripley during the band's show in Orlando, Florida, on Thursday (November 5) and praised her for everything she has done for his band and for the wider metal genre.\n\nRipley is known for her metal aesthetic and her excellent taste in music – she pays homage to former Suicide Silence frontman\n\nMitch Lucker\n\n’s ‘\n\ndeathcore\n\nstomp’ in her entrance and has had\n\nAsh Costello\n\nfrom New Years Day singing her entrance theme.\n\nShe also previously\n\ntold Metal Hammer\n\nthat she is bordering on being obsessed with Motionless In White - who provide her current theme and have performed it with her at Wrestlemania.\n\nThis week the band took the opportunity to share their love for the Australian athlete, and the audience at the Kia Center gave her a rousing reception.\n\nWelcoming her to the stage, Chris Motionless says: \"Make some f***ing noise for my hero – her name is Rhea f***ing Ripley This is the real f***ing superstar of the night. Make some God damn noise.\"\n\nAddressing Ripley, Motionless adds: \"Rhea we love you so f***ing much. Thank you for being here to come hang out with us.\n\n\"None of us in this room deserve you. Thank you for everything you have done. Not just for Motionlesss In White, but for metal and rock all the way around the world.\n\n\"It is because of you that so many people love this s**t. You are a f***ing frontrunner, bringing this f***ing music to so many people around the world.\"\n\nHe then dedicated the track\n\nFight Like Hell\n\n– which was inspired by Ripley – to her.\n\nRipley previously told Metal Hammer: \"I love Motionless In White. It’s just their style of music, and I love watching their music videos as well. I get so distracted watching them, sometimes I’ll just play them and I’ll sit there watching them like a movie for hours.\"\n\nIn an\n\nearlier Metal Hammer feature\n\n, Ripley explained how heavy metal helped her go from being a school misfit to one of pro wrestling's biggest stars.\n\nA post shared by Justin Dhillon (@thewrestlingclassic)\n\nA photo posted by",
+      "tags": "Bands & Artists",
+      "category": "Экстремальный метал",
+      "published": "2026-11-07T22:00:00+00:00",
+      "id": "dadade09c980b0712957eca7a9c2e6068da5fb13",
+      "retry_after": 1794091489
+    },
+    {
+      "source": "No Clean Singing",
+      "priority": 86,
+      "title": "SEEN AND HEARD ON A SATURDAY: THE GREAT SEA, RAT KING, OREAMNOS , PROFANE ALTAR, VORLUST, HAGEL",
+      "link": "https://www.nocleansinging.com/2026/11/07/seen-and-heard-on-a-saturday-the-great-sea-rat-king-oreamnos-profane-altar-vorlust-hagel/",
+      "rss_body": "(written by Islander) I’ve been seeing the word “tsunami” a lot this week. I assume it’s because yesterday was a Bandcamp Friday, which always provokes a flood of new music and a typhoon of traffic in our in-box from bands and labels trying to take advantage of Bandcamp’s relinquishment of their revenue share. I dunno,\n\n[...]",
+      "tags": "Album Reviews Metal News RANDOM FUCKING MUSIC SHORT BUT SWEET Hagel Oreamnos Profane Altar Rat King The Great Sea Vorlust",
+      "category": "Прогрессив",
+      "published": "2026-11-07T19:33:55+00:00",
+      "id": "2e83d2e70f5b30bc0acd5181fb4263bad3104ba0",
+      "retry_after": 1794091592
+    },
+    {
+      "source": "ThePRP",
+      "priority": 88,
+      "title": "Ill Niño Postpone Latin American Tour, Plan February Release For Their First Album In Over A Decade",
+      "link": "https://www.theprp.com/2026/11/07/news/ill-nino-postpone-latin-american-tour-plan-february-release-for-their-first-album-in-over-a-decade/",
+      "rss_body": "It will be their first record with vocalist Tommy Roulette.",
+      "tags": "News Ill Nino",
       "category": "Хэви-метал",
-      "published": "2026-11-07T10:30:00+00:00",
-      "id": "0814bde9f7cfdda705c41c98067b3f0575cdca92",
-      "retry_after": 0
+      "published": "2026-11-07T18:57:04+00:00",
+      "id": "f4ba3ccc1b598927cdc113d1d61a9c2267799a37",
+      "retry_after": 1794091606
     }
   ]
 }
