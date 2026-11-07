@@ -3833,7 +3833,7 @@
       "website": "http://grave-digger-clan.com",
       "reference_url": "https://en.wikipedia.org/wiki/Grave_Digger_%28band%29",
       "reference_checked_at": "2026-11-07T07:22:34.354399+00:00",
-      "tour_attempted_at": "2026-10-31T12:55:47.460424+00:00",
+      "tour_attempted_at": "2026-11-07T14:18:11.390663+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-07T07:22:34.354417+00:00"
     },
@@ -3863,7 +3863,7 @@
       "website": "http://www.imminenceswe.com",
       "reference_url": "https://en.wikipedia.org/wiki/Imminence_%28band%29",
       "reference_checked_at": "2026-11-07T07:22:34.544592+00:00",
-      "tour_attempted_at": "2026-10-31T12:55:48.544579+00:00",
+      "tour_attempted_at": "2026-11-07T14:18:12.234176+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-07T07:22:34.544691+00:00"
     },
@@ -3897,7 +3897,7 @@
       "website": "http://jethrotull.com",
       "reference_url": "https://en.wikipedia.org/wiki/Jethro_Tull_%28band%29",
       "reference_checked_at": "2026-11-07T07:22:34.653597+00:00",
-      "tour_attempted_at": "2026-10-31T12:55:48.724177+00:00",
+      "tour_attempted_at": "2026-11-07T14:18:12.414931+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-07T07:22:34.653719+00:00"
     },
@@ -3931,7 +3931,7 @@
       "website": "http://mastodonrocks.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mastodon_%28band%29",
       "reference_checked_at": "2026-11-07T07:22:34.800010+00:00",
-      "tour_attempted_at": "2026-10-31T12:55:49.104096+00:00",
+      "tour_attempted_at": "2026-11-07T14:18:12.708160+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-07T07:22:34.800171+00:00"
     },
@@ -3964,10 +3964,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://obituary.cc",
       "reference_url": "https://en.wikipedia.org/wiki/Obituary_%28band%29",
-      "reference_checked_at": "2026-10-30T16:18:58.765839+00:00",
+      "reference_checked_at": "2026-11-07T14:18:09.517487+00:00",
       "tour_attempted_at": "2026-10-31T17:44:18.577124+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-30T16:18:58.765955+00:00"
+      "reference_attempted_at": "2026-11-07T14:18:09.517576+00:00"
     },
     "mayhem": {
       "origin": "Oslo , Norway",
@@ -3998,10 +3998,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://thetruemayhem.com",
       "reference_url": "https://en.wikipedia.org/wiki/Mayhem_%28band%29",
-      "reference_checked_at": "2026-10-30T16:18:58.860136+00:00",
+      "reference_checked_at": "2026-11-07T14:18:09.692406+00:00",
       "tour_attempted_at": "2026-10-31T17:44:20.017304+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-10-30T16:18:58.860313+00:00"
+      "reference_attempted_at": "2026-11-07T14:18:09.692565+00:00"
     },
     "descape": {
       "about": "Канадская металкор-группа. Новые релизы и видео доступны в разделе новостей.",
@@ -4010,8 +4010,8 @@
       "members_source": "https://www.theprp.com/2026/10/01/news/descapes-true-colors-music-video-debuts/",
       "reference_url": "https://www.theprp.com/2026/10/01/news/descapes-true-colors-music-video-debuts/",
       "reference_checked_at": "2026-10-02T02:29:28.923484+00:00",
-      "reference_retry_after": 1793463539,
-      "reference_attempted_at": "2026-10-30T16:18:59.202582+00:00"
+      "reference_retry_after": 1794147489,
+      "reference_attempted_at": "2026-11-07T14:18:09.865567+00:00"
     },
     "shogun-mojo": {
       "about": "Проект с участием гитариста KISS Tommy Thayer и вокалиста Dan Reed из Dan Reed Network.",
@@ -4029,8 +4029,8 @@
       "members_source": "http://www.darkside.ru/news/184167/",
       "reference_url": "http://www.darkside.ru/news/184167/",
       "reference_checked_at": "2026-10-02T02:29:28.923484+00:00",
-      "reference_retry_after": 1793463539,
-      "reference_attempted_at": "2026-10-30T16:18:59.657630+00:00"
+      "reference_retry_after": 1794147490,
+      "reference_attempted_at": "2026-11-07T14:18:10.147702+00:00"
     },
     "the-l-i-f-e-project": {
       "about": "Дуэт Джоша Рэнда и Касандры Карсон.",
@@ -4048,8 +4048,8 @@
       "members_source": "https://www.theprp.com/2026/10/01/news/the-l-i-f-e-project-stone-sour-etc-release-their-cover-of-led-zeppelins-immigrant-song/",
       "reference_url": "https://www.theprp.com/2026/10/01/news/the-l-i-f-e-project-stone-sour-etc-release-their-cover-of-led-zeppelins-immigrant-song/",
       "reference_checked_at": "2026-10-02T02:29:28.923484+00:00",
-      "reference_retry_after": 1793463539,
-      "reference_attempted_at": "2026-10-30T16:18:59.830492+00:00"
+      "reference_retry_after": 1794147490,
+      "reference_attempted_at": "2026-11-07T14:18:10.402651+00:00"
     },
     "emperor": {
       "origin": "Notodden , Norway",
@@ -4107,8 +4107,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://wreckingcrew.com",
       "reference_url": "https://en.wikipedia.org/wiki/Overkill_%28band%29",
-      "reference_checked_at": "2026-10-30T16:19:00.070224+00:00",
-      "reference_attempted_at": "2026-10-30T16:19:00.070249+00:00",
+      "reference_checked_at": "2026-11-07T14:18:10.599308+00:00",
+      "reference_attempted_at": "2026-11-07T14:18:10.599326+00:00",
       "tour_attempted_at": "2026-10-31T17:44:20.623062+00:00"
     },
     "periphery": {
