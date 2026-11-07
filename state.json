@@ -1459,49 +1459,17 @@
     "662a9900479bca210b7a3fb1504baf7cc0a7ad67",
     "96a5dbc1dbed8751d823962526966b4eaa4b8b94",
     "074d8efa12e86c06d5547839040d46c0091f6915",
-    "9dd46d113f05e5e9e7a935bc4907fc5fa3c2aef4"
+    "9dd46d113f05e5e9e7a935bc4907fc5fa3c2aef4",
+    "90102ace3531583d4479b732c17c19c9b44cb580",
+    "aeaf994c1e0efdf76fad23fd1aec7b49c63365ee",
+    "0d2e0b995af7049f7933ba03de3afc03d652ece7",
+    "8d9ce4be2623a0118a69c97411fcadde3348bacb",
+    "bfb2f108de7e3182e2c96361174c563173e421e6",
+    "ebbaece2816dfae4e17e85e47cecb0e36b0b1ef9",
+    "c4a3abd7cf669d5eafb7c9851c4cc293eecccaab",
+    "9ea3a7e062c3ccd94d056403e9b928983f3be47a"
   ],
   "recent_titles": [
-    {
-      "title": "Suicide Silence’s Mark Heylmun Shares Tribute To Mitch Lucker On The 14th Anniversary Of His Death",
-      "source": "ThePRP",
-      "ts": 1793566073
-    },
-    {
-      "title": "In This Moment’s In-Studio Performance Of “Whore” For SiriusXM Released",
-      "source": "ThePRP",
-      "ts": 1793566076
-    },
-    {
-      "title": "Paleface Swiss Covered Three Slipknot Songs While Dressed As Them At Last Night’s Halloween Show",
-      "source": "ThePRP",
-      "ts": 1793566079
-    },
-    {
-      "title": "Test your Rush knowledge with this incredibly tough quiz",
-      "source": "Louder",
-      "ts": 1793566082
-    },
-    {
-      "title": "“We looked the the hippies they wanted to kill!”: How Opeth survived their early days in a scene they didn’t quite fit",
-      "source": "Louder",
-      "ts": 1793566091
-    },
-    {
-      "title": "Кавер-версия хита ALICE IN CHAINS от BRASS AGAINST",
-      "source": "Darkside",
-      "ts": 1793566093
-    },
-    {
-      "title": "Новое видео THE HAUNT",
-      "source": "Darkside",
-      "ts": 1793566095
-    },
-    {
-      "title": "Watch Paleface Swiss blast through three Slipknot songs while dressed as Slipknot at their Halloween gig",
-      "source": "Louder",
-      "ts": 1793566102
-    },
     {
       "title": "Classic Rock Tracks Of The Week: November 2, 2026",
       "source": "Louder",
@@ -2261,6 +2229,46 @@
       "title": "Bullet For My Valentine To Debut “I Don’t Trust Tomorrow” Featuring Lorna Shore’s Will Ramos Next Week",
       "source": "ThePRP",
       "ts": 1794001267
+    },
+    {
+      "title": "“I told him, ‘If the guitar’s out of tune, you can’t tune it”: Steven Wilson’s bid to avoid “vanilla prog”",
+      "source": "Louder",
+      "ts": 1794014225
+    },
+    {
+      "title": "Report: Mötley Crüe Singer Vince Neil’s Girlfriend Arrested For Domestic Assault",
+      "source": "ThePRP",
+      "ts": 1794014232
+    },
+    {
+      "title": "Spineshank Announce The Exit Of Bassist/Vocalist Robert Garcia",
+      "source": "ThePRP",
+      "ts": 1794014248
+    },
+    {
+      "title": "Flesh Prison Premiere “Wrathborn” Music Video, Despised Icon’s Alex Erian Guests",
+      "source": "ThePRP",
+      "ts": 1794014253
+    },
+    {
+      "title": "Teenage Wrist Release “A Different Shine” EP Produced By Failure’s Ken Andrews, Announce February Tour",
+      "source": "ThePRP",
+      "ts": 1794014266
+    },
+    {
+      "title": "Imperial Triumphant Drop “Live At Olympia” Album For Bandcamp Friday",
+      "source": "ThePRP",
+      "ts": 1794014274
+    },
+    {
+      "title": "Новая песня SABATON",
+      "source": "Darkside",
+      "ts": 1794014276
+    },
+    {
+      "title": "Asia’s new album brings completion to the last song Geoff Downes started with John Wetton",
+      "source": "Louder",
+      "ts": 1794014291
     }
   ],
   "initialized_sources": [
@@ -7223,7 +7231,7 @@
       "category": "Хард-рок",
       "published": "2026-11-06T20:48:50+00:00",
       "id": "078880cb4cacfcf88e25d74d1eb3cb78b313acb4",
-      "retry_after": 1794001549
+      "retry_after": 1794014558
     },
     {
       "source": "Metal Injection",
@@ -7235,31 +7243,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T19:26:20+00:00",
       "id": "9333064c4928ca7477842c8d8420e588444198d3",
-      "retry_after": 1794001560
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Teenage Wrist Release “A Different Shine” EP Produced By Failure’s Ken Andrews, Announce February Tour",
-      "link": "https://www.theprp.com/2026/11/06/news/teenage-wrist-release-a-different-shine-ep-produced-by-failures-ken-andrews-announce-february-tour/",
-      "rss_body": "Featuring three new tracks.",
-      "tags": "News Failure Ken Andrews Teenage Wrist",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T18:45:11+00:00",
-      "id": "bfb2f108de7e3182e2c96361174c563173e421e6",
-      "retry_after": 0
-    },
-    {
-      "source": "ThePRP",
-      "priority": 88,
-      "title": "Imperial Triumphant Drop “Live At Olympia” Album For Bandcamp Friday",
-      "link": "https://www.theprp.com/2026/11/06/news/imperial-triumphant-drop-live-at-olympia-album-for-bandcamp-friday/",
-      "rss_body": "It will arrive on other streaming services next week.",
-      "tags": "News Imperial Triumphant",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T18:17:47+00:00",
-      "id": "ebbaece2816dfae4e17e85e47cecb0e36b0b1ef9",
-      "retry_after": 0
+      "retry_after": 1794014558
     },
     {
       "source": "Metal Injection",
@@ -7271,31 +7255,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T18:14:25+00:00",
       "id": "1677afc60ad91a23d9fa08a8a980304acd97516d",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новая песня SABATON",
-      "link": "http://www.darkside.ru/news/185032/",
-      "rss_body": "SABATON пятого мая на Better Noise Records выпустят делюкс-издание альбома Legends, фрагмент из которого, композиция Berserker, доступна ниже. Девятого ноября будет представлено официальное видео, в котором снимался Эрик Робертс. Новый вариант альбома будет доступен на делюкс-CD, в формате тройного дигибука, делкюс-CD Amazon Edition, двойном виниле, двойном виниле только для Amazon, еще нескольких версиях винила и лимитированном бокс-сете.\n\nТрек-лист делюкс-версии альбома:\n\n01. Templars\n\n02. Hordes Of Khan\n\n03. A Tiger Among Dragons\n\n04. Crossing The Rubicon\n\n05. I, Emperor\n\n06. Maid Of Steel\n\n07. Impaler\n\n08. Lightning At The Gates\n\n09. The Duelist\n\n10. The Cycle Of Songs\n\n11. Till Seger\n\n12. Berserker\n\n13. Champion Of Christ\n\n14. To Glory\n\n15. Templars (feat. POP EVIL)\n\n16. Crossing The Rubicon (feat. NOTHING MORE)",
-      "tags": "",
-      "category": "Экстремальный метал",
-      "published": "2026-11-06T18:06:32+00:00",
-      "id": "c4a3abd7cf669d5eafb7c9851c4cc293eecccaab",
-      "retry_after": 0
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Asia’s new album brings completion to the last song Geoff Downes started with John Wetton",
-      "link": "https://www.loudersound.com/music/albums/asia-tattoo-indigo-geoff-downes-john-wetton",
-      "rss_body": "Geoff Downes\n\nsays he felt lost after the death of\n\nAsia\n\nbandmate\n\nJohn Wetton\n\n, calling him the best collaborator he’d ever had.\n\nWetton died in 2017 while work was underway on the follow-up to 2014’s\n\nGravitas\n\n. The pair had been developing a suite, now titled\n\nTattoo Indigo\n\n, which has finally found a home in new Asia album\n\nIndigo\n\n.\n\n“We had been working on another album after we released\n\nGravitas\n\n– the last album that I made with John,” Downes tells\n\nGlide\n\n. “Around 2015 and 2016,\n\nTattoo Indigo\n\nwas pretty much in the making – but sadly we never got to finish it because John got sick with cancer and then passed away.\n\nOriginal Asia in 1982\n\n(Image credit: Getty Images)\n\n“I lost my greatest writing partner of all time. I didn’t know what to do with this unfinished track after the loss of John. When we had the opportunity to record this album with the new lineup, I thought the track shouldn’t be locked away in a box for ever.”\n\nDownes dug out the files and took them to new Asia member Harry Whitley, who’s taken Wetton’s place on bass and vocals. “I think John would have been proud that I actually did get it together and finished it,” he adds.\n\nAsia’s current lineup: Virgil Donati, Harry Whitley, John Mitchell and Downes\n\n(Image credit: Scruffy Bear Media)\n\nHe accepts the track has a 70s feel, with references that could include\n\nUriah Heep\n\nand\n\nELP\n\n. “The middle section has a mix of\n\nThe Moody Blues\n\nand\n\nThe Beatles\n\nnostalgia,” he adds.\n\n“\n\nJohn Mitchell\n\ndid a great job on the guitar ending. He was in John Wetton’s solo band for quite some time. When it came time to put Asia back together again a few years ago for a John Wetton tribute show, John Mitchell was my first choice as a guitarist because he knew our music.”\n\nIndigo\n\nfeatures guest appearances by former member\n\nSteve Howe\n\nand\n\nDream Theater\n\n’s\n\nMike Portnoy\n\n, and also includes another of Wetton’s unfinished collaboratons. Prog said of the record: The fact that it works so convincingly is testament to the quality of Asia’s current incarnation.”\n\nIndigo\n\nis on sale now.",
-      "tags": "Albums Music",
-      "category": "Прогрессив",
-      "published": "2026-11-06T18:00:00+00:00",
-      "id": "9ea3a7e062c3ccd94d056403e9b928983f3be47a",
-      "retry_after": 0
+      "retry_after": 1794014575
     },
     {
       "source": "Louder",
@@ -7355,9 +7315,6 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T16:47:26+00:00",
       "id": "e2efcec3020bb149da23236d82eee27a0af814de",
-      "duplicate_ids": [
-        "9ba2bdf3d25e77064a2b36e159bc915212c29831"
-      ],
       "retry_after": 0
     },
     {
