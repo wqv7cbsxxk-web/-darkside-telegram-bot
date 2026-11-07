@@ -4143,7 +4143,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Periphery_%28band%29",
       "reference_checked_at": "2026-11-07T18:57:45.856604+00:00",
       "reference_attempted_at": "2026-11-07T18:57:45.856709+00:00",
-      "tour_attempted_at": "2026-10-31T20:41:52.448058+00:00"
+      "tour_attempted_at": "2026-11-07T22:42:41.997414+00:00"
     },
     "riverside": {
       "origin": "Warsaw , Poland",
@@ -4165,7 +4165,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Riverside_%28band%29",
       "reference_checked_at": "2026-11-07T18:57:46.018521+00:00",
       "reference_attempted_at": "2026-11-07T18:57:46.018544+00:00",
-      "tour_attempted_at": "2026-10-31T20:41:53.968045+00:00"
+      "tour_attempted_at": "2026-11-07T22:42:43.881096+00:00"
     },
     "saxon": {
       "origin": "Barnsley , Yorkshire , England",
@@ -4191,7 +4191,7 @@
       "reference_url": "https://en.wikipedia.org/wiki/Saxon_%28band%29",
       "reference_checked_at": "2026-11-07T18:57:46.156977+00:00",
       "reference_attempted_at": "2026-11-07T18:57:46.156999+00:00",
-      "tour_attempted_at": "2026-10-31T20:41:54.571834+00:00"
+      "tour_attempted_at": "2026-11-07T22:42:44.678005+00:00"
     },
     "scorpions": {
       "origin": "Hanover , West Germany",
@@ -4227,79 +4227,79 @@
       "reference_attempted_at": "2026-11-07T18:57:46.353398+00:00",
       "events": [
         {
-          "date": "2027-06-26",
-          "city": "Oslo",
-          "country": "Norway",
-          "venue": "Tons of Rock",
+          "date": "2027-04-29",
+          "city": "Barcelona",
+          "country": "Spain",
+          "venue": "Palau Sant Jordi",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-08-27",
-          "city": "Zapopan",
-          "country": "Mexico",
-          "venue": "Auditorio Telmex",
+          "date": "2027-05-02",
+          "city": "Coruña",
+          "country": "Spain",
+          "venue": "Coliseum de La Coruña",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-08-30",
-          "city": "Ciudad de México",
-          "country": "Mexico",
-          "venue": "Palacio de los Deportes",
+          "date": "2027-05-05",
+          "city": "Bilbao",
+          "country": "Spain",
+          "venue": "Bizkaia Arena",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-09-02",
-          "city": "Monterrey",
-          "country": "Mexico",
-          "venue": "Auditorio Banamex",
+          "date": "2027-05-08",
+          "city": "Madrid",
+          "country": "Spain",
+          "venue": "Movistar Arena",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-09-09",
-          "city": "Las Vegas",
-          "country": "United States",
-          "venue": "PH Live at Planet Hollywood",
+          "date": "2027-05-12",
+          "city": "Stuttgart",
+          "country": "Germany",
+          "venue": "Hanns-Martin-Schleyer-Halle",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-09-11",
-          "city": "Las Vegas",
-          "country": "United States",
-          "venue": "PH Live at Planet Hollywood",
+          "date": "2027-05-15",
+          "city": "Dortmund",
+          "country": "Germany",
+          "venue": "Westfalenhalle",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-09-14",
-          "city": "Las Vegas",
-          "country": "United States",
-          "venue": "PH Live at Planet Hollywood",
+          "date": "2027-05-19",
+          "city": "Frankfurt",
+          "country": "Germany",
+          "venue": "Festhalle",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-09-16",
-          "city": "Las Vegas",
-          "country": "United States",
-          "venue": "PH Live at Planet Hollywood",
+          "date": "2027-05-22",
+          "city": "Munich",
+          "country": "Germany",
+          "venue": "Olympiahalle",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-09-18",
-          "city": "Las Vegas",
-          "country": "United States",
-          "venue": "PH Live at Planet Hollywood",
+          "date": "2027-06-03",
+          "city": "Kraków",
+          "country": "Poland",
+          "venue": "Tauron Arena",
           "source_url": "http://the-scorpions.com"
         },
         {
-          "date": "2027-09-21",
-          "city": "Las Vegas",
-          "country": "United States",
-          "venue": "PH Live at Planet Hollywood",
+          "date": "2027-06-06",
+          "city": "Vilnius",
+          "country": "Lithuania",
+          "venue": "Arena Vilnius",
           "source_url": "http://the-scorpions.com"
         }
       ],
-      "tour_checked_at": "2026-10-31T20:41:56.903834+00:00",
+      "tour_checked_at": "2026-11-07T22:42:47.271608+00:00",
       "tour_source": "http://the-scorpions.com",
-      "tour_attempted_at": "2026-10-31T20:41:56.903853+00:00"
+      "tour_attempted_at": "2026-11-07T22:42:47.271624+00:00"
     },
     "set-your-goals": {
       "origin": "San Francisco, California , U.S.",
@@ -4390,8 +4390,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://sodomized.info",
       "reference_url": "https://en.wikipedia.org/wiki/Sodom_%28band%29",
-      "reference_checked_at": "2026-10-31T00:42:47.603316+00:00",
-      "reference_attempted_at": "2026-10-31T00:42:47.603405+00:00",
+      "reference_checked_at": "2026-11-07T22:42:40.054186+00:00",
+      "reference_attempted_at": "2026-11-07T22:42:40.054290+00:00",
       "tour_attempted_at": "2026-10-31T23:49:44.430491+00:00"
     },
     "suffocation": {
@@ -4424,8 +4424,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://suffocationofficial.com",
       "reference_url": "https://en.wikipedia.org/wiki/Suffocation_%28band%29",
-      "reference_checked_at": "2026-10-31T00:42:48.053970+00:00",
-      "reference_attempted_at": "2026-10-31T00:42:48.054061+00:00",
+      "reference_checked_at": "2026-11-07T22:42:40.428794+00:00",
+      "reference_attempted_at": "2026-11-07T22:42:40.428891+00:00",
       "tour_attempted_at": "2026-10-31T23:49:44.722070+00:00"
     },
     "tesla": {
@@ -4458,8 +4458,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://teslatheband.com",
       "reference_url": "https://en.wikipedia.org/wiki/Tesla_%28band%29",
-      "reference_checked_at": "2026-10-31T00:42:49.970458+00:00",
-      "reference_attempted_at": "2026-10-31T00:42:49.970479+00:00",
+      "reference_checked_at": "2026-11-07T22:42:40.819490+00:00",
+      "reference_attempted_at": "2026-11-07T22:42:40.819514+00:00",
       "tour_attempted_at": "2026-10-31T23:49:45.172050+00:00"
     },
     "testament": {
@@ -4492,8 +4492,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.testamentlegions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Testament_%28band%29",
-      "reference_checked_at": "2026-10-31T00:42:50.220469+00:00",
-      "reference_attempted_at": "2026-10-31T00:42:50.220632+00:00",
+      "reference_checked_at": "2026-11-07T22:42:41.001517+00:00",
+      "reference_attempted_at": "2026-11-07T22:42:41.001676+00:00",
       "tour_attempted_at": "2026-11-01T02:47:07.002509+00:00"
     },
     "uriah-heep": {
@@ -4526,8 +4526,8 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://uriah-heep.com",
       "reference_url": "https://en.wikipedia.org/wiki/Uriah_Heep_%28band%29",
-      "reference_checked_at": "2026-10-31T00:42:50.371942+00:00",
-      "reference_attempted_at": "2026-10-31T00:42:50.371962+00:00",
+      "reference_checked_at": "2026-11-07T22:42:41.103037+00:00",
+      "reference_attempted_at": "2026-11-07T22:42:41.103061+00:00",
       "tour_attempted_at": "2026-11-01T02:47:07.299936+00:00"
     },
     "venom": {
@@ -4592,8 +4592,8 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://venomslegions.com",
       "reference_url": "https://en.wikipedia.org/wiki/Venom_%28band%29",
-      "reference_checked_at": "2026-10-31T00:42:50.510356+00:00",
-      "reference_attempted_at": "2026-10-31T00:42:50.510378+00:00",
+      "reference_checked_at": "2026-11-07T22:42:41.451752+00:00",
+      "reference_attempted_at": "2026-11-07T22:42:41.451777+00:00",
       "tour_attempted_at": "2026-11-01T02:47:07.925347+00:00"
     },
     "w-a-s-p": {
