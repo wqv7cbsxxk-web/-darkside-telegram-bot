@@ -13764,7 +13764,7 @@
     "i-am-morbid": {
       "name": "I Am Morbid",
       "musicbrainz_url": "https://musicbrainz.org/artist/42146db7-74ae-4bfc-82d5-d6db00b72d93",
-      "reference_checked_at": "2026-10-24T12:13:19.955807+00:00",
+      "reference_checked_at": "2026-11-07T01:18:31.226770+00:00",
       "genres": "",
       "members": [],
       "members_source": "https://musicbrainz.org/artist/42146db7-74ae-4bfc-82d5-d6db00b72d93",
@@ -13773,11 +13773,16 @@
     "imminence": {
       "name": "Imminence",
       "musicbrainz_url": "https://musicbrainz.org/artist/431ed486-4606-485a-b11d-f05feb860257",
-      "reference_checked_at": "2026-10-24T12:13:24.193504+00:00",
+      "reference_checked_at": "2026-11-07T01:18:36.247226+00:00",
       "genres": "metalcore, post-hardcore, progressive metalcore",
       "bandcamp_url": "https://imminenceswe.bandcamp.com/",
       "website": "https://imminenceswe.com/",
       "members": [
+        {
+          "name": "Alex Arnoldsson",
+          "role": "",
+          "begin": null
+        },
         {
           "name": "Harald Barrett",
           "role": "original",
@@ -13786,6 +13791,16 @@
         {
           "name": "Eddie Berg",
           "role": "original",
+          "begin": null
+        },
+        {
+          "name": "Peter Hanström",
+          "role": "",
+          "begin": null
+        },
+        {
+          "name": "Christian Höijer",
+          "role": "",
           "begin": null
         }
       ],
@@ -34677,8 +34692,8 @@
     "guns-n-roses": "2026-11-06T16:21:45.611235+00:00",
     "haken": "2026-11-06T21:41:26.421000+00:00",
     "halestorm": "2026-11-06T21:41:30.552766+00:00",
-    "i-am-morbid": "2026-10-24T12:13:19.955858+00:00",
-    "imminence": "2026-10-24T12:13:24.193672+00:00",
+    "i-am-morbid": "2026-11-07T01:18:31.226810+00:00",
+    "imminence": "2026-11-07T01:18:36.247366+00:00",
     "immolation": "2026-10-24T16:00:22.945703+00:00",
     "immortal": "2026-10-24T16:00:24.232807+00:00",
     "in-flames": "2026-10-24T18:40:52.100114+00:00",
