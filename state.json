@@ -1483,49 +1483,21 @@
     "9bcdca52ff347baf140103cd7e90d00155e63b13",
     "eb37f012c16661e5fbaccc74492ffd684a316dd8",
     "9624c957770d53fee0df0277ff0759feb1fb6c94",
-    "c0896c55cc23a379c8c1bb5361378a2aa1ce8b5a"
+    "c0896c55cc23a379c8c1bb5361378a2aa1ce8b5a",
+    "06985b64a626500927a4c47c45473cedaea06eaf",
+    "2aafd0a8e6e9413fb1b2bcc6b1cf3df7e1d75abf",
+    "fd5d8e8730dc511cbe384f2355559f728ac8b316",
+    "fd98b33b4d6ca6575bf8490251fdaa7ba5cefb88",
+    "3e7e7d21a35941336dec49a383ca01f87f99b345",
+    "ee2e622e20666ca37fc6192fde5a311a81eab2b5",
+    "e75a47c1e4f85658041e64a4d4a1624df4371f7c",
+    "7fa8bc2586dafc5c600da864325f4c94b6265dbc",
+    "e118902ebdc898a284c1fd334aed20ed0bac9de3",
+    "b67d4e7c42a6651c01868ccb851ffbfef4eedfc8",
+    "218f02c530331a97d3f7c1b50cddd1e0adbfc0ae",
+    "2b9cb2ccdb6860d03cd24d0bba1abd952ae4b402"
   ],
   "recent_titles": [
-    {
-      "title": "Вокалист ZEBRA: «Президенство Трампа — это настоящий кошмар!»",
-      "source": "Darkside",
-      "ts": 1793627931
-    },
-    {
-      "title": "Новая песня STORMWARNING",
-      "source": "Darkside",
-      "ts": 1793627933
-    },
-    {
-      "title": "DAVE LOMBARDO: «Критики не особо приняли \"Reign In Blood\"»",
-      "source": "Darkside",
-      "ts": 1793627948
-    },
-    {
-      "title": "Steven Tyler Pushes Back Against Rumors of Aerosmith's Retirement",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793627955
-    },
-    {
-      "title": "Everclear Is Going Deep on Their Current Tour",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793627979
-    },
-    {
-      "title": "BRIAN MAY: «С чего мы вообще решили, что лучше других животных?»",
-      "source": "Darkside",
-      "ts": 1793627981
-    },
-    {
-      "title": "My Chemical Romance confirm they'll begin work on new album in 2027",
-      "source": "Louder",
-      "ts": 1793627988
-    },
-    {
-      "title": "TODD LA TORRE исполняет IRON MAIDEN",
-      "source": "Darkside",
-      "ts": 1793627990
-    },
     {
       "title": "Вокалист DEEP PURPLE поблагодарил за беспокойство",
       "source": "Darkside",
@@ -2285,6 +2257,46 @@
       "title": "Новое видео DEAFHEAVEN",
       "source": "Darkside",
       "ts": 1794061080
+    },
+    {
+      "title": "Watch: SPEED’s Jem Siow Joined Killswitch Engage Onstage For “My Last Serenade” In Sydney",
+      "source": "ThePRP",
+      "ts": 1794077695
+    },
+    {
+      "title": "Suicide Silence’s Mark Heylmun To Sit Out Immediate Touring: “Right Now I Need To Put My Sobriety And My Mental Health First”",
+      "source": "ThePRP",
+      "ts": 1794077705
+    },
+    {
+      "title": "Test your nu metal knowledge with this Limp Bizkit trivia quiz",
+      "source": "Louder",
+      "ts": 1794077709
+    },
+    {
+      "title": "Новое видео PASSCODE",
+      "source": "Darkside",
+      "ts": 1794077712
+    },
+    {
+      "title": "How Anika Nilles Handles the Physical Demands of Rush",
+      "source": "Ultimate Classic Rock",
+      "ts": 1794077801
+    },
+    {
+      "title": "Новое видео ANN WILSON & TRIPSITTER",
+      "source": "Darkside",
+      "ts": 1794077844
+    },
+    {
+      "title": "Барышня VINCE NEIL его бьет?",
+      "source": "Darkside",
+      "ts": 1794077854
+    },
+    {
+      "title": "JOE BONAMASSA почтил память Патрика Стюарта",
+      "source": "Darkside",
+      "ts": 1794077856
     }
   ],
   "initialized_sources": [
@@ -7276,18 +7288,6 @@
     {
       "source": "Metal Injection",
       "priority": 92,
-      "title": "Watch: Carnifex Drops Video For \"The Process Of Pain\" Featuring Chaney Crabb of Entheos",
-      "link": "https://metalinjection.net/new-music/watch-carnifex-drops-video-for-the-process-of-pain-featuring-chaney-crabb-of-entheos",
-      "rss_body": "Grab an exclusive copy of 'More Than Misery' from the Metal Injection store.",
-      "tags": "New Music carnifex",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T17:11:31+00:00",
-      "id": "b67d4e7c42a6651c01868ccb851ffbfef4eedfc8",
-      "retry_after": 1794061355
-    },
-    {
-      "source": "Metal Injection",
-      "priority": 92,
       "title": "Hatebreed's 'Fatal Paradox' Is Out Now, Grab an Exclusive Vinyl From Metal Injection",
       "link": "https://metalinjection.net/new-music/hatebreeds-fatal-paradox-is-out-now-grab-an-exclusive-vinyl-from-metal-injection",
       "rss_body": "Hardcore Christmas has arrived in November.",
@@ -7358,6 +7358,102 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T11:48:00+00:00",
       "id": "3c412549b06e805f6eed62e8d6e47cf51ccb3f27",
+      "retry_after": 0
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Ian Gillan Resting After Successful Procedure Following Deep Purple’s Postponed European Tour",
+      "link": "https://metalinjection.net/news/ian-gillan-resting-after-successful-procedure-following-deep-purples-postponed-european-tour",
+      "rss_body": "Wishing Ian a speedy recovery.",
+      "tags": "Latest News",
+      "category": "Хард-рок",
+      "published": "2026-11-07T16:47:17+00:00",
+      "id": "44bbeb019481c0ecab0aec703dd7ed4418384fd5",
+      "retry_after": 1794078010
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Watch: Chelsea Wolfe Releases Brooding Video For \"Halo\"",
+      "link": "https://metalinjection.net/news/watch-chelsea-wolfe-releases-brooding-video-for-halo",
+      "rss_body": "Unstoppable musically and visually.",
+      "tags": "Latest News",
+      "category": "Хэви-метал",
+      "published": "2026-11-07T16:31:31+00:00",
+      "id": "8e7bbe671738c53c2535e4cf5ce394d703ffe636",
+      "retry_after": 1794078013
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "55 Years Ago: Ranking Every Song From 'Led Zeppelin IV'",
+      "link": "https://ultimateclassicrock.com/led-zeppelin-iv-songs-ranked/",
+      "rss_body": "Each track on this game-changing LP was special – but which one was the best?",
+      "tags": "Lists Original Features Jimmy Page Led Zeppelin Led Zeppelin IV Led Zeppelin IV Songs Robert Plant UCR",
+      "category": "Хард-рок",
+      "published": "2026-11-07T16:23:25+00:00",
+      "id": "fac9ff5e35248ea6115785d1578059e4f1cdb99a",
+      "retry_after": 1794078091
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "Ozzfest Returns, Turnstile Declines Metallica Tour + More Top Stories of the Week",
+      "link": "https://metalinjection.net/injection-reflection/ozzfest-returns-turnstile-declines-metallica-tour-more-top-stories-of-the-week",
+      "rss_body": "It's Ozzfest, baybay! Plus Halloween madness, Will Smith moshes, and more. Happy Saturday. Welcome to November. The end of last month into this week brought in a heap of stories, […]",
+      "tags": "Injection Reflection",
+      "category": "Хэви-метал",
+      "published": "2026-11-07T16:16:34+00:00",
+      "id": "40bb194a7043e3b6a1dc30ddad30b7ea7fc8a19d",
+      "retry_after": 1794078102
+    },
+    {
+      "source": "Louder",
+      "priority": 84,
+      "title": "Nita Strauss on motherhood, becoming a new person, and the long road back to work",
+      "link": "https://www.loudersound.com/bands-artists/nita-strauss-motherhood-interview",
+      "rss_body": "One of the strangest moments in\n\nNita Strauss\n\n’s career as a mother so far came in the middle of a baking-hot day in Las Vegas. The Raiders were in the middle of a game against the Kansas City Chiefs, and Strauss was due to\n\nperform with Alice Cooper at the halftime show\n\n– her first performance since taking maternity leave from the band early this year. Those stakes are high enough, but being the nursing mother of a months-old baby, she realised she was going to have to pump before she headed out to perform.\n\n“I was in a [nursing] pod pumping, and somebody kept knocking on the door,” she tells\n\nClassic Rock\n\n. “I finished up, but we had the whole to-do where you get the milk on ice and clean it, so it took me five good minutes to pack everything away and store the milk properly. I came out, and it was a woman with a baby, and she started yelling at me, like, ‘You're in a pod, and you don't even have a baby!’ I showed her the pump, and she was like, ‘Oh.’\n\n\"Josh [Villalta, Strauss’ husband and manager] was with me and asked her, ‘What did you think we were doing?’ She said, \"I don't know. Maybe trying to make another baby?\" It was a funny little lesson learned, like, hey, motherhood looks different for everybody. Everybody's journey is different.”\n\nStrauss is correct that motherhood looks different for everyone. But, arguably, her experience of it looks pretty different to most. As well as returning to the stage with\n\nAlice Cooper\n\n, Strauss is back playing halftime shows in her role as the\n\nLA Rams’ in-house guitarist\n\n. She’s spent the last few months getting herself fit for performing again – but not in a “how to bounce back to your Victoria's Secret body” way, she clarifies, but more a “how to nourish and take care of your body and mind in a more ancestral way” – and she’s been practising in preparation for hitting the road again, but this time, with her tiny baby Max in tow.\n\nNita Strauss performing at SoCal stadium as her mother holds baby Max\n\n(Image credit: Hanna Yamamoto)\n\nBut Strauss’ pumping anecdote neatly sums up the constant juxtaposition of the seismic and the mundane that is becoming a mother. Your life changes in indescribable, irreversible ways, but the culmination of that is often just making sure your pump parts are clean when you need them, and you always have a decent supply of muslin cloths to hand – even when you’re about to perform to thousands of people.\n\nThis juxtaposition is never more clear-cut than when it comes time to return to work. The clichés about what motherhood does to a woman’s body are well worn, but it’s what it does to your brain that’s the really interesting part. A sizeable chunk of yourself is cleaved straight off, replaced by whoever you are in the face of helping this tiny person realise who they’re going to be. People expect the version of you who left work months ago to return intact, but fitting neatly back into your ‘before’ life is basically impossible.\n\n“I learned a term in my postpartum journey, and the term was ‘matrescence’,” says Strauss. “It’s basically the concept that the shift from maiden to mother is like the shift from child to adolescent. Just like you can't tell an angry 13-year-old, ‘Why don't you go back to being a nice 10-year-old?’ you can’t tell someone who's now in motherhood, ‘Why don't you just go back to how you were pre-baby?’\n\n\"No. You have to say goodbye. You have to write a love letter to that version of yourself and thank her for the gifts and the blessings and the lessons along the way. And then you have to say goodbye and step into this new era of motherhood, of being this new person. I wish that was a little bit more talked about, because you don't know going into motherhood how fundamentally it's going to change you on so many levels.”\n\nStrauss admits that postpartum life has been tougher than she envisaged. “It's a lot harder than I thought it was going to be; I will be honest about that,” she says. “I was very optimistic about the amount of time that I would have with a baby at home. I had books I was going to read, I had a book I was going to write. I've got an album that I'm working on. Now, of course, we've got a five-month-old velcro baby who won't nap during the day unless he's being held, which means that takes away my writing time.”\n\nBack at work: Nita Strauss and husband Josh Villalta\n\n(Image credit: Hanna Yamamoto)\n\nStrauss has named another impossible struggle of motherhood: the tussle between wanting to do your own thing, but not wanting to miss a minute with your baby. Luckily, she has at least one element of this sorted.\n\n“Max is my biggest fan and the way that he looks at me when I'm practising is just so euphoric,” she says. “I'll lay a blanket on the floor of his nursery, and I'll sit cross-legged next to him, and I'll run through my solo set, or do my Alice Cooper set, and he will just giggle and coo and laugh and enjoy it. He's never seen anything like this before, and experiencing that from him makes it easy to practice. As long as he's happily watching, then I can get my work done. It's just about finding ways to make it work.”\n\nBeing a musician has gifted Strauss some unexpected, but useful, transferable skills when it comes to motherhood.\n\n“Being a touring musician really sets you up well for having a baby and being in the newborn trenches,” she says. “We've been that same kind of dog tired, where you have to get up for lobby call, get on stage, put on a brave face when you've just flown 30 hours to Australia and it's 4:00 in the morning your time, but it's showtime there. It just sets you up well for a 2:00 AM wake-up with the baby.”\n\nStrauss would like to be part of a shift that normalises the concept of a professional life after babies for female musicians. “I think that women are made to feel that if you take your foot off the gas for a second, then your life is over, your career is over, and you may as well just go be a mom,” she says. “I got so many comments like that on social media when I announced I was pregnant – ‘See you later, body, goodbye’, and ‘what a waste that she's going to go be a mom now’. What an insane concept.\n\n\"I don't think it needs to be all that different for a guy in a band to have a baby versus a woman in a band. Yeah, biologically it's different, but in terms of coming back [to work], we should normalise it and show women that there's more than one way to have a family and have a career. Motherhood doesn't make you less ambitious. It just gives your ambition a different perspective and a bigger purpose.”\n\nA large part of Strauss’ career so far has revolved around advocating for and inspiring women in what is a fairly male-heavy part of the industry. Now she is mother to a baby boy, the desire to be a strong female role model has grown even greater, to show that little boy – all little boys – that this is not just a man’s world. “It has lit the fire under me even more,” she says. “I was always so excited to show other little girls that it could be done. But now I get to show my son what his mom can do from a front row seat.”\n\nSome of the best parenting advice I ever received was from a friend who told me to “Just love the shit out of your kids. Everything else will work itself out”. This seems similar to the parenting ethos Strauss has picked up, and something she’s considering as life shifts again to one that has to marry the baby bubble and a busy working life. “I don't know everything,” she says. “I don't know how it's going to work, I don't know how every logistical thing is going to happen, but I know that we love this boy. We will always pay attention to him and put his needs first.\n\n“As long as we're doing that, whether it's on a tour bus, whether it's on a bandwagon, whether it's on a plane, whether it's at home, as long as we keep that consistent, I think he'll have a wonderful, full, enriching, fulfilling, fun life.” And, we agree, he’s going to have some pretty killer stories to tell his preschool pals when he gets there.\n\nNita Strauss plays\n\nJohn 5’s NAMM JAMM\n\non January 29 with Paul Gilbert in Santa Ana, CA, and at this year's\n\nSonic Temple festival\n\nin Columbus, OH, on May 14.",
+      "tags": "Bands & Artists",
+      "category": "Хард-рок",
+      "published": "2026-11-07T16:05:00+00:00",
+      "id": "e0e049741f369ffdf58dcc43160d3251efd6cf1a",
+      "retry_after": 1794078143
+    },
+    {
+      "source": "Metal Injection",
+      "priority": 92,
+      "title": "The 5 Best Derrick Green-Era Sepultura Songs",
+      "link": "https://metalinjection.net/lists/the-5-best-derrick-green-era-sepultura-songs",
+      "rss_body": "These five songs show how Sepultura built themselves after Max Cavalera left.",
+      "tags": "Lists Sepultura",
+      "category": "Хэви-метал",
+      "published": "2026-11-07T15:04:54+00:00",
+      "id": "f49d07a4ead13f53cf8879dae1707dc681136235",
+      "retry_after": 1794078143
+    },
+    {
+      "source": "Ultimate Classic Rock",
+      "priority": 80,
+      "title": "Vince Neil's Girlfriend Reportedly Arrested for Assaulting Singer",
+      "link": "https://ultimateclassicrock.com/vince-neil-girlfriend-arrested/",
+      "rss_body": "After responding to a domestic disturbance call, police arrested the Motley Crue star's longtime girlfriend.",
+      "tags": "News Motley Crue UCR Vince Neil",
+      "category": "Хэви-метал",
+      "published": "2026-11-07T14:33:05+00:00",
+      "id": "7245a5b974e8f32db2aef6fd0c6198607e010b3b",
+      "retry_after": 1794078154
+    },
+    {
+      "source": "Darkside",
+      "priority": 95,
+      "title": "Профессиональное видео с выступления WEDNESDAY 13",
+      "link": "http://www.darkside.ru/news/185057/",
+      "rss_body": "Профессиональное видео с выступления WEDNESDAY 13, которое состоялось в рамках Bloodstock Open Air 2026, доступно для просмотра.",
+      "tags": "",
+      "category": "Хэви-метал",
+      "published": "2026-11-07T10:30:00+00:00",
+      "id": "0814bde9f7cfdda705c41c98067b3f0575cdca92",
       "retry_after": 0
     }
   ]
