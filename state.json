@@ -1475,49 +1475,17 @@
     "c270b1c831575b54a04f0cb7a6b15114059f86a8",
     "6630a01c7ce8826c70be7d74134cb3431207484a",
     "fe3fffd9466c9feeda4e9a957c45e43f34da9259",
-    "0fa9b0411e08276804fa7a1601c55f70086182ba"
+    "0fa9b0411e08276804fa7a1601c55f70086182ba",
+    "71899b07b0c59429f54e21a70f1d4a89f4e96f6d",
+    "750c0d353a678d66b6a5c5697d183259d6eef5ad",
+    "d65c70900366a2c4172f86f7cde142d338d0dfa0",
+    "ab79ea39f343b6a2f9809b2c717a6de18309b92b",
+    "9bcdca52ff347baf140103cd7e90d00155e63b13",
+    "eb37f012c16661e5fbaccc74492ffd684a316dd8",
+    "9624c957770d53fee0df0277ff0759feb1fb6c94",
+    "c0896c55cc23a379c8c1bb5361378a2aa1ce8b5a"
   ],
   "recent_titles": [
-    {
-      "title": "System Of A Down’s John Dolmayan Recently Spent $825,000 On A Rare Superman Comic Book",
-      "source": "ThePRP",
-      "ts": 1793598771
-    },
-    {
-      "title": "Новое видео NEW LOW",
-      "source": "Darkside",
-      "ts": 1793598773
-    },
-    {
-      "title": "Crown The Empire’s “Violet” Music Video Arrives Online",
-      "source": "ThePRP",
-      "ts": 1793598780
-    },
-    {
-      "title": "Новая песня ANBERLIN",
-      "source": "Darkside",
-      "ts": 1793598782
-    },
-    {
-      "title": "Primal Scream hang red meat on their musical bones on The Bunker Trilogy",
-      "source": "Louder",
-      "ts": 1793598799
-    },
-    {
-      "title": "Frank Zappa vs David Bowie – the bitch-by-bitch account: “That’s the music business,” says Adrian Belew",
-      "source": "Louder",
-      "ts": 1793598815
-    },
-    {
-      "title": "Skid Row introduce new frontman with cover of The Who's Won't Get Fooled Again",
-      "source": "Louder",
-      "ts": 1793598832
-    },
-    {
-      "title": "Cheap Trick Statement Explains Upcoming Tour Break",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793598856
-    },
     {
       "title": "Вокалист ZEBRA: «Президенство Трампа — это настоящий кошмар!»",
       "source": "Darkside",
@@ -2277,6 +2245,46 @@
       "title": "Фрагмент нового релиза RAMMSTEIN",
       "source": "Darkside",
       "ts": 1794036144
+    },
+    {
+      "title": "Horror punk icons Murderdolls are reforming for their first show since Joey Jordison’s death",
+      "source": "Louder",
+      "ts": 1794060975
+    },
+    {
+      "title": "Cliff Burton was a legend way before he joined Metallica. Here’s why",
+      "source": "Louder",
+      "ts": 1794061017
+    },
+    {
+      "title": "Metal Hammer's tracks of the week: November 6 2026",
+      "source": "Louder",
+      "ts": 1794061054
+    },
+    {
+      "title": "NICKO MCBRAIN: «Я могу записать пару песен для IRON MAIDEN, почему бы и нет, когда да!»",
+      "source": "Darkside",
+      "ts": 1794061057
+    },
+    {
+      "title": "AN NCS VIDEO PREMIERE: DISSECT THE MASSES — “THE HARVESTERS RETURN”",
+      "source": "No Clean Singing",
+      "ts": 1794061075
+    },
+    {
+      "title": "Polish Metal Alliance исполняют хит HELLOWEEN",
+      "source": "Darkside",
+      "ts": 1794061077
+    },
+    {
+      "title": "Гитарист TYPE O NEGATIVE: «Нам предлагали кучу денег за концерт памяти Питера Стила»",
+      "source": "Darkside",
+      "ts": 1794061078
+    },
+    {
+      "title": "Новое видео DEAFHEAVEN",
+      "source": "Darkside",
+      "ts": 1794061080
     }
   ],
   "initialized_sources": [
@@ -7239,7 +7247,7 @@
       "category": "Хард-рок",
       "published": "2026-11-06T20:48:50+00:00",
       "id": "078880cb4cacfcf88e25d74d1eb3cb78b313acb4",
-      "retry_after": 1794036442
+      "retry_after": 1794061322
     },
     {
       "source": "Metal Injection",
@@ -7251,7 +7259,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T19:26:20+00:00",
       "id": "9333064c4928ca7477842c8d8420e588444198d3",
-      "retry_after": 1794014558
+      "retry_after": 1794061322
     },
     {
       "source": "Metal Injection",
@@ -7263,19 +7271,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T18:14:25+00:00",
       "id": "1677afc60ad91a23d9fa08a8a980304acd97516d",
-      "retry_after": 1794014575
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Metal Hammer's tracks of the week: November 6 2026",
-      "link": "https://www.loudersound.com/music/tracks-singles/metal-hammer-tracks-of-the-week-november-6-2026",
-      "rss_body": "2026 is on its last legs. Thankfully. It's been a long old year, but with just two months left to go - and some of that will be eaten by the holiday period - we're starting to cast our eyes ahead to what might come next year. Festivals aplenty have already started announcing (Bloodstock and Wacken got in early, but we've also had Sonic Temple, Welcome To Rockville, 2000 Trees and Mystic dropping their line-ups), meaning the time is right to discover some wicked new music.\n\nThat in mind, here are the results of\n\nlast week's vote\n\n. NWOBHM legends Saxon landed third place with their tale of the Gorgon\n\nMedusa\n\n, while newcomers Wulfgang took a healthy second place with their second single\n\nYou Mean Nothing To Me\n\n. The overall winners for the week though were France's Sunborn, proving that people haven't yet tired of the Sleep Token-induced wave of masked genre-mashers whilst adding their own fine entry to the canon with\n\nSilent Attraction\n\n.\n\nWe've got a mix of established bands and newcomers for you to dive into this week, as we bring new singles from Sabaton, Death Angel, Distant, Charlotte Wessels, Comeback Kid and more. We've also finally got the debut single for Burn Eternal, the new band that reunites Adam D and Howard Jones, plus a few new discoveries for you to stick your teeth into. Let us know which songs excite you most by voting in the poll below, and use the comments to suggest any bands we should be keeping eyes out for. Have a great weekend!\n\nBurn Eternal - Wounds I’ve Made\n\nIt feels like an age has passed since Howard Jones and Adam Dutkiewicz announced they were working on new music together. It's wild to think that almost 20 years have passed since Howard's last record in Killswitch, but the magic is clearly still there in Burn Eternal as the pair fall on old habits of making emotionally driven, riffy metalcore which makes great use of Howard's powerful voice. Burn Eternal's self-titled debut is due February 26.\n\nDeath Angel - The Never Was\n\nDeath Angel have had their eyes firmly locked on the past for most of this year, looking back at 1990's\n\nAct III\n\nfor tour dates across America and Europe. That hasn't stopped them cranking the dials for new music though, and\n\nThe Never Was\n\nmaintains the thrash revivalist energies of the group's 2010s output. It doesn't have the funky low-end of their initial comeback albums but if you're in the market for speed and old school thrash, Death Angel are bringing the goods.\n\nCharlotte Wessels - Incubus\n\nSeems we can't go a week without a symphonic metal icon popping up lately, but when the music is this good, we can hardly complain. Charlotte Wessels is really coming into her own with her band The Obsession and new single\n\nIncubus\n\nhas the familiar not-quite power metal melodies alongside some impressively technical guitars, Wessels' voice soaring atop it all to make the whole song feel epic and fantastical. New album\n\nMute Swan Empire\n\nis due February 5.\n\nSabaton - Berserker\n\nNot-\n\nquite\n\npower metal\n\n? Best to break out the big guns then. Sabaton will be back on the road in 2027 for the next leg of the\n\nLegends\n\ntour\n\n,\n\nand the Swedish band have just announced an expanded edition of that album for a March 5 release, commemorating the fact by going full Amon Amarth (thematically at least, though that's definitely a tour we'd love to see). If you've followed Sabaton for a while, you know exactly what to expect with\n\nBerserker\n\n, but if you've not prepare to be swept away in hale, chest-beating anthemia ripped right from the pages of classic heavy metal.\n\nCult Of Luna - Sadness Will Reign (ft. Joe Duplantier)\n\nSticking within the Swedish borders, Cult Of Luna have this week released new album\n\nIn The Shadow Of Your Shadow\n\n. The post-metal giants have celebrated with the release of\n\nSadness Will Reign,\n\na thundering song that features guest contributions from Gojira's Joe Duplantier, and some surprisingly jazzy sax backing against their usual crashing-monolith of riffs. You can also catch the band at Damnation Festival this weekend (if you're in the UK, at least), which is always a bonus.\n\nRaised By Owls - My Optician Called Me A Poser Because I Couldn’t Read The Sanguisugabogg Logo\n\nAfter all that emotional heft, it can't hurt to have something utterly fucking\n\ndaft\n\n. Raised By Owls have become masters of the online skit, and their satirical death metal gets hookier by the day. There will doubtless be purists who get pissed off by the UK band's prodding of the metal world, but its done with such clear love and devotion we reckon you're best just cranking it up and enjoying the fact we're all in on the joke.\n\nComeback Kid - Shedding Season (ft. Courtney LaPlante)\n\nAnother new record loosed into the world this week, Comeback Kid prove reliable as ever on\n\nChosen Hell\n\n. New single\n\nShedding Season\n\nis a typical pinball of fleshy hardcore violence, stomping and bounding off the walls, the Canadians flexing by getting Spiritbox's Courtney LaPlante on to provide guest vox.\n\nFuture Static - State Of Mind\n\nSometimes a voice just grabs you by the ears and drives your face through a wall. That's where we're at with Future Static's\n\nState Of Mind,\n\nthe track's impressively clattering, rampaging riffs somehow fading into the background against some serious throat-acrobatics from singer Amariah Cook, who really puts her voice through its paces on a track that is both brutal and agonisingly harsh, and sublimely melodic at points. Their new album\n\nOrnaments & Memories\n\nis out today.\n\nEverdawn - Illusionist\n\nSymphonic power metal has generally been more of a European and Japanese phenomenon than something that's caught on in the States. But alongside a few other North American groups like Unleash The Archers and Seven Spires, Everdawn are helping to shift that perception. New single\n\nIllusionist\n\nis a powerhouse of sublime guitar work and stirring melodies, spelling exciting things ahead for new studio album\n\nKalli\n\non January 15.\n\nShevils - The Force Of Water\n\nHailing from Norway, Shevils generally deal in high-octane hardcore. But there's a tinge of their county's biggest metal export on\n\nThe Force Of Water\n\n, the group exploding into a blackened frenzy that brings to mind the likes of Harakiri For The Sky or Svalbard in its incorporation of melody and black metal bluster. The group's new album\n\nSect Resurrection\n\nis coming February 19, and clearly they're pushing their sonic boundaries if these recent singles are anything to go by.",
-      "tags": "Tracks & Singles Music",
-      "category": "Прогрессив",
-      "published": "2026-11-06T17:47:50+00:00",
-      "id": "d65c70900366a2c4172f86f7cde142d338d0dfa0",
-      "retry_after": 0
+      "retry_after": 1794061322
     },
     {
       "source": "Metal Injection",
@@ -7287,31 +7283,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T17:11:31+00:00",
       "id": "b67d4e7c42a6651c01868ccb851ffbfef4eedfc8",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "NICKO MCBRAIN: «Я могу записать пару песен для IRON MAIDEN, почему бы и нет, когда да!»",
-      "link": "http://www.darkside.ru/news/185002/",
-      "rss_body": "NICKO MCBRAIN в недавнем интервью вновь выразил надежду, что примет хоть какое-то участие в работе над новым альбомом IRON MAIDEN. На вопрос о том, обсуждал ли он со Steve'ом Harris'ом сочинение нового материала, он ответил:\n\n«Нет. Сейчас это неоднозначный вопрос. Я разговаривал со ним на прошлой неделе и не поднимал тему записи альбома. Он приезжал ко мне в ресторан во Флориде в феврале или марте этого года, мы посидели и хорошо пообщались. И я сказал ему: \"В следующем году у тебя будет перерыв в гастролях. Ты думаешь о записи нового альбома?\" А он ответил: \"Нет, я об этом не думал, Nick\". Но это не значит, что альбома не будет. Просто он пока не готов думать о записи альбома. Я знаю, что Bruce хотел бы его записать.\n\nНо нужно иметь в виду, что если они запишут альбом, то нужно будет отправиться в тур в его поддержку. То есть пройдёт ещё пара лет, прежде чем они выпустят альбом и займутся его распространением. На это уйдёт время, много времени. Потом нужно будет отправиться в тур. Не то чтобы они не хотели гастролировать, но мы все уже не так молоды. А у них очень энергичные выступления.\n\nЯ не говорю, что они собираются уйти со сцены, но вот в чём дело: если они запишут ещё один альбом, то им придётся отправиться в тур в его поддержку. А это мировое турне, которое длится больше двух лет. Я это понимаю. Я размышляю: \"Именно это мешает им выпустить альбом?\" Я не знаю. На данный момент мы не планируем записывать альбом, но если подобное случится, я бы с удовольствием записал пару песен. Почему бы и нет?»\n\nНа вопрос о том, будет ли поиск «иного подхода» к игре на барабанах в IRON MAIDEN «интересным творческим вызовом» или «скорее ограничением», Nicko ответил:\n\n«Это вызов, потому что мне пришлось заниматься этим два года. После инсульта в 2023 году я отправился в два тура с группой. И мне пришлось пойти на компромисс в некоторых песнях, например во вступлении к \"The Trooper\". Я не мог сыграть эту сбивку. Рука просто не позволяла мне играть в таком темпе. Так что мне пришлось пойти на компромисс.\n\nЯ стал играть больше триолей, просто взял сбивку из куплета и поставил её во вступление. Но это была не та культовая, классическая сбивка Нико для этой и других песен. Так что мне пришлось пойти на компромисс и придумать другую партию. И группа отнеслась к этому нормально.\n\nОни меня очень поддерживали и говорили что-то вроде: \"Мы особо не заметили разницы, ты по-прежнему хорошо играешь, Ник. Ты по-прежнему нас воодушевляешь\".\n\nНо в новом туре я бы просто не смог сыграть многие из этих песен. И это повлияло на моё решение завершить карьеру — я попросту не мог исполнять эти композиции. Я не мог сыграть \"Murders In The Rue Morgue\". А это была вступительная песня. [Смеётся]».",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T17:08:40+00:00",
-      "id": "ab79ea39f343b6a2f9809b2c717a6de18309b92b",
-      "retry_after": 0
-    },
-    {
-      "source": "No Clean Singing",
-      "priority": 86,
-      "title": "AN NCS VIDEO PREMIERE: DISSECT THE MASSES — “THE HARVESTERS RETURN”",
-      "link": "https://www.nocleansinging.com/2026/11/06/an-ncs-video-premiere-dissect-the-masses-the-harvesters-return/",
-      "rss_body": "(written by Islander) As trained medical professionals, we need to warn those of you who took in our first premiere on this Bandcamp Friday that this next one is likely to produce a severe whiplash effect with traumatic consequences for necks and heads. Okay, just joking, we’re not trained medical professionals, just ardent metal fans\n\n[...]",
-      "tags": "Premieres Dissect the Masses",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T16:56:12+00:00",
-      "id": "9bcdca52ff347baf140103cd7e90d00155e63b13",
-      "retry_after": 0
+      "retry_after": 1794061355
     },
     {
       "source": "Metal Injection",
@@ -7326,19 +7298,7 @@
       "duplicate_ids": [
         "9ba2bdf3d25e77064a2b36e159bc915212c29831"
       ],
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Polish Metal Alliance исполняют хит HELLOWEEN",
-      "link": "http://www.darkside.ru/news/184988/",
-      "rss_body": "Polish Metal Alliance представили видео собственного прочтения хита HELLOWEEN I Want Out\n\nСостав:\n\nKrzysiek Sokołowski - voc\n\nJasiek Popławski - voc\n\nJacek Hiro - guitar\n\nJarek Chilkiewicz - guitar\n\nTomasz Targosz - bass\n\nMichał Łysejko - drums",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T16:15:33+00:00",
-      "id": "eb37f012c16661e5fbaccc74492ffd684a316dd8",
-      "retry_after": 0
+      "retry_after": 1794061376
     },
     {
       "source": "Metal Injection",
@@ -7350,31 +7310,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T15:34:31+00:00",
       "id": "11ce11dcce65b8855844ca4c31c7041575b56e30",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Гитарист TYPE O NEGATIVE: «Нам предлагали кучу денег за концерт памяти Питера Стила»",
-      "link": "http://www.darkside.ru/news/185016/",
-      "rss_body": "KENNY HICKEY в недавнем интервью ответил на вопрос о том, было ли какое-то реальное предложение относительно трибьют-концерта вокалисту TYPE O NEGATIVE Питеру Стилу:\n\n«У нас были предложения, да. Нам предложили одно шоу за большие деньги. Но мы не могли сделать одно шоу за большие деньги. Это слишком масштабное мероприятие. Должно было быть много концертов за большие деньги. Чтобы снова собрать группу, заново разобраться с музыкой, создать визуальный ряд для шоу — все, что вам нужно, — найдите парня, который сможет со вкусом исполнить [вокал Питера], не говоря уже о его игре на басу. Играть на басу — самое сложное. Вокруг полно парней, которые поют глубоким голосом, притворяясь, что они Питер, но играют ли они на басу как он? Забудь. Никто не умеет играть на бас-гитаре так, как он.\n\nПредложения поступают, но, с точки зрения логистики, сейчас этого просто не будет, если вообще произойдет. Этого не случится. Оно может случиться. Я никогда не говорю \"никогда\"… [Я не думаю, что это произойдет], за исключением, возможно, трибьют-концерта когда-нибудь в будущем, если это удастся организовать с точки зрения логистики, тогда да, эта затея жизнеспособна».",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T15:22:17+00:00",
-      "id": "9624c957770d53fee0df0277ff0759feb1fb6c94",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео DEAFHEAVEN",
-      "link": "http://www.darkside.ru/news/185028/",
-      "rss_body": "Sorry Laid The Hearth, новое видео группы DEAFHEAVEN, доступно для просмотра ниже. Эта песня взята из ЕР \"At Work In The Fields Of The Bomb\", релиз которого состоялся девятого октября и доступен как в цифровом варианте, так и на винилах разного вида:\n\n01. Hunter\n\n02. Three Princes\n\n03. Sorry Laid The Hearth",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-06T14:45:10+00:00",
-      "id": "c0896c55cc23a379c8c1bb5361378a2aa1ce8b5a",
-      "retry_after": 0
+      "retry_after": 1794061378
     },
     {
       "source": "Darkside",
