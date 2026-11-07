@@ -1467,49 +1467,17 @@
     "bfb2f108de7e3182e2c96361174c563173e421e6",
     "ebbaece2816dfae4e17e85e47cecb0e36b0b1ef9",
     "c4a3abd7cf669d5eafb7c9851c4cc293eecccaab",
-    "9ea3a7e062c3ccd94d056403e9b928983f3be47a"
+    "9ea3a7e062c3ccd94d056403e9b928983f3be47a",
+    "59c5dbff26ef0145662d43a09d1a287419b5d58d",
+    "4198c3a801068762f96a039f3e395836113a037e",
+    "708483df2c1c341c5aff4429c1b29672ebfc0e1d",
+    "2cd054f749009a247dd946b9680fc4399c1a983d",
+    "c270b1c831575b54a04f0cb7a6b15114059f86a8",
+    "6630a01c7ce8826c70be7d74134cb3431207484a",
+    "fe3fffd9466c9feeda4e9a957c45e43f34da9259",
+    "0fa9b0411e08276804fa7a1601c55f70086182ba"
   ],
   "recent_titles": [
-    {
-      "title": "Classic Rock Tracks Of The Week: November 2, 2026",
-      "source": "Louder",
-      "ts": 1793577563
-    },
-    {
-      "title": "Гитарист IRON MAIDEN: «Мы сейчас кайфуем на сцене так, как, возможно, никогда не кайфовали в жизни!»",
-      "source": "Darkside",
-      "ts": 1793577567
-    },
-    {
-      "title": "ALICE COOPER: «По воскресеньям я хожу в церковь. И Библии учу»",
-      "source": "Darkside",
-      "ts": 1793577569
-    },
-    {
-      "title": "Silly Goose Are Set To Play At A Denny’s Location After Recently Crashing The Diner Chain’s Corporate Conference",
-      "source": "ThePRP",
-      "ts": 1793577589
-    },
-    {
-      "title": "Metallica’s Halloween Show At The Sphere Saw A “Black Album” Deep Cut Newly Added To The Setlist",
-      "source": "ThePRP",
-      "ts": 1793577597
-    },
-    {
-      "title": "The 'Big 4' of Rock Collaborations",
-      "source": "Ultimate Classic Rock",
-      "ts": 1793577650
-    },
-    {
-      "title": "Концертное видео KANONENFIEBER",
-      "source": "Darkside",
-      "ts": 1793577749
-    },
-    {
-      "title": "Outer Gloom (Shai Hulud, Etc.) Release Their Second EP “Higher Vessel”",
-      "source": "ThePRP",
-      "ts": 1793577757
-    },
     {
       "title": "System Of A Down’s John Dolmayan Recently Spent $825,000 On A Rare Superman Comic Book",
       "source": "ThePRP",
@@ -2269,6 +2237,46 @@
       "title": "Asia’s new album brings completion to the last song Geoff Downes started with John Wetton",
       "source": "Louder",
       "ts": 1794014291
+    },
+    {
+      "title": "How Aerosmith’s Dream On invented the power ballad",
+      "source": "Louder",
+      "ts": 1794036118
+    },
+    {
+      "title": "Why Type O Negative turned down “a lot of money” to reunite for a Peter Steele tribute show: “there’s a lot of guys running around singing with a deep voice pretending they’re Peter”",
+      "source": "Louder",
+      "ts": 1794036131
+    },
+    {
+      "title": "MICHAEL AMOTT в новом видео THROWN INTO EXILE",
+      "source": "Darkside",
+      "ts": 1794036133
+    },
+    {
+      "title": "TOM MORELLO: «Мы отвергли трамповских нацистких прихвостней!»",
+      "source": "Darkside",
+      "ts": 1794036134
+    },
+    {
+      "title": "Новое видео SHOWING TEETH",
+      "source": "Darkside",
+      "ts": 1794036136
+    },
+    {
+      "title": "Новое видео DIANNE",
+      "source": "Darkside",
+      "ts": 1794036137
+    },
+    {
+      "title": "MARTY FRIEDMAN на испанском",
+      "source": "Darkside",
+      "ts": 1794036142
+    },
+    {
+      "title": "Фрагмент нового релиза RAMMSTEIN",
+      "source": "Darkside",
+      "ts": 1794036144
     }
   ],
   "initialized_sources": [
@@ -7231,7 +7239,7 @@
       "category": "Хард-рок",
       "published": "2026-11-06T20:48:50+00:00",
       "id": "078880cb4cacfcf88e25d74d1eb3cb78b313acb4",
-      "retry_after": 1794014558
+      "retry_after": 1794036442
     },
     {
       "source": "Metal Injection",
@@ -7315,6 +7323,9 @@
       "category": "Хэви-метал",
       "published": "2026-11-06T16:47:26+00:00",
       "id": "e2efcec3020bb149da23236d82eee27a0af814de",
+      "duplicate_ids": [
+        "9ba2bdf3d25e77064a2b36e159bc915212c29831"
+      ],
       "retry_after": 0
     },
     {
