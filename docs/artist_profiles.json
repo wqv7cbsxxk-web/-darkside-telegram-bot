@@ -132,7 +132,7 @@
       "website": "http://aerosmith.com",
       "reference_url": "https://en.wikipedia.org/wiki/Aerosmith",
       "reference_checked_at": "2026-11-15T16:51:17.269190+00:00",
-      "tour_attempted_at": "2026-11-01T16:30:51.977245+00:00",
+      "tour_attempted_at": "2026-11-15T21:25:17.616290+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-15T16:51:17.269212+00:00"
     },
@@ -166,7 +166,7 @@
       "website": "http://archenemy.net",
       "reference_url": "https://en.wikipedia.org/wiki/Arch_Enemy",
       "reference_checked_at": "2026-11-15T16:51:17.419653+00:00",
-      "tour_attempted_at": "2026-11-01T16:30:52.400134+00:00",
+      "tour_attempted_at": "2026-11-15T21:25:17.968382+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-15T16:51:17.419673+00:00"
     },
@@ -196,7 +196,7 @@
       "website": "http://www.atthegates.se/",
       "reference_url": "https://en.wikipedia.org/wiki/At_The_Gates",
       "reference_checked_at": "2026-11-15T16:51:17.719472+00:00",
-      "tour_attempted_at": "2026-11-01T16:30:53.895324+00:00",
+      "tour_attempted_at": "2026-11-15T21:25:19.249410+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-15T16:51:17.719491+00:00"
     },
@@ -225,10 +225,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://aliceinchains.com",
       "reference_url": "https://en.wikipedia.org/wiki/Alice_In_Chains",
-      "reference_checked_at": "2026-11-03T03:46:58.846287+00:00",
-      "tour_attempted_at": "2026-11-01T16:30:54.639559+00:00",
+      "reference_checked_at": "2026-11-15T21:25:15.212005+00:00",
+      "tour_attempted_at": "2026-11-15T21:25:20.108441+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T03:46:58.846558+00:00"
+      "reference_attempted_at": "2026-11-15T21:25:15.212230+00:00"
     },
     "black-sabbath": {
       "origin": "Birmingham , England",
@@ -259,10 +259,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://blacksabbath.com",
       "reference_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
-      "reference_checked_at": "2026-11-03T03:46:59.324521+00:00",
+      "reference_checked_at": "2026-11-15T21:25:15.490899+00:00",
       "tour_attempted_at": "2026-11-01T20:48:33.262568+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T03:46:59.324544+00:00"
+      "reference_attempted_at": "2026-11-15T21:25:15.490919+00:00"
     },
     "ayreon": {
       "origin": "Waalwijk , North Brabant , Netherlands",
@@ -277,10 +277,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://ayreon.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ayreon",
-      "reference_checked_at": "2026-11-03T03:46:59.466904+00:00",
+      "reference_checked_at": "2026-11-15T21:25:15.693819+00:00",
       "tour_attempted_at": "2026-11-01T20:48:34.881057+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T03:46:59.466928+00:00"
+      "reference_attempted_at": "2026-11-15T21:25:15.693838+00:00"
     },
     "between-the-buried-and-me": {
       "origin": "Raleigh, North Carolina , U.S.",
@@ -307,10 +307,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.betweentheburiedandme.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Between_The_Buried_And_Me",
-      "reference_checked_at": "2026-11-03T03:46:59.781805+00:00",
+      "reference_checked_at": "2026-11-15T21:25:15.902865+00:00",
       "tour_attempted_at": "2026-11-02T00:02:46.987907+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T03:46:59.781827+00:00"
+      "reference_attempted_at": "2026-11-15T21:25:15.902884+00:00"
     },
     "blind-channel": {
       "origin": "Oulu , Finland",
@@ -341,10 +341,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "https://www.blindchannelofficial.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blind_Channel",
-      "reference_checked_at": "2026-11-03T03:46:59.948790+00:00",
+      "reference_checked_at": "2026-11-15T21:25:15.997633+00:00",
       "tour_attempted_at": "2026-11-02T00:02:47.203484+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T03:46:59.948812+00:00"
+      "reference_attempted_at": "2026-11-15T21:25:15.997655+00:00"
     },
     "bruce-springsteen": {
       "origin": "Freehold, New Jersey , U.S.",
@@ -354,10 +354,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://brucespringsteen.net",
       "reference_url": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
-      "reference_checked_at": "2026-11-03T03:47:00.581721+00:00",
+      "reference_checked_at": "2026-11-15T21:25:16.369103+00:00",
       "tour_attempted_at": "2026-11-02T00:02:47.356470+00:00",
       "instruments": "Vocals guitar harmonica",
-      "reference_attempted_at": "2026-11-03T03:47:00.582019+00:00"
+      "reference_attempted_at": "2026-11-15T21:25:16.369375+00:00"
     },
     "blue-oyster-cult": {
       "origin": "Stony Brook, New York , U.S.",
