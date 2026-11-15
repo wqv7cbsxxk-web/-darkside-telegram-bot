@@ -13,10 +13,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://alicecooper.com",
       "reference_url": "https://en.wikipedia.org/wiki/Alice_Cooper",
-      "reference_checked_at": "2026-11-02T22:43:44.256362+00:00",
-      "tour_attempted_at": "2026-11-01T09:49:44.369098+00:00",
+      "reference_checked_at": "2026-11-15T16:51:16.248072+00:00",
+      "tour_attempted_at": "2026-11-15T16:51:18.338278+00:00",
       "instruments": "Vocals harmonica",
-      "reference_attempted_at": "2026-11-02T22:43:44.256591+00:00"
+      "reference_attempted_at": "2026-11-15T16:51:16.248300+00:00"
     },
     "accept": {
       "origin": "Solingen , West Germany",
@@ -47,10 +47,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://acceptworldwide.com",
       "reference_url": "https://en.wikipedia.org/wiki/Accept_%28band%29",
-      "reference_checked_at": "2026-11-02T22:43:44.340057+00:00",
-      "tour_attempted_at": "2026-11-01T09:49:47.558326+00:00",
+      "reference_checked_at": "2026-11-15T16:51:16.411411+00:00",
+      "tour_attempted_at": "2026-11-15T16:51:20.423947+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-02T22:43:44.340075+00:00"
+      "reference_attempted_at": "2026-11-15T16:51:16.411434+00:00"
     },
     "ac-dc": {
       "origin": "Sydney , New South Wales, Australia",
@@ -81,10 +81,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://acdc.com",
       "reference_url": "https://en.wikipedia.org/wiki/AC/DC",
-      "reference_checked_at": "2026-11-02T22:43:44.574883+00:00",
-      "tour_attempted_at": "2026-11-01T09:49:47.831899+00:00",
+      "reference_checked_at": "2026-11-15T16:51:16.828271+00:00",
+      "tour_attempted_at": "2026-11-15T16:51:20.710009+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-02T22:43:44.575099+00:00"
+      "reference_attempted_at": "2026-11-15T16:51:16.828506+00:00"
     },
     "aerosmith": {
       "origin": "Boston , Massachusetts, U.S.",
@@ -131,10 +131,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://aerosmith.com",
       "reference_url": "https://en.wikipedia.org/wiki/Aerosmith",
-      "reference_checked_at": "2026-11-02T22:43:44.814732+00:00",
+      "reference_checked_at": "2026-11-15T16:51:17.269190+00:00",
       "tour_attempted_at": "2026-11-01T16:30:51.977245+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-02T22:43:44.814754+00:00"
+      "reference_attempted_at": "2026-11-15T16:51:17.269212+00:00"
     },
     "arch-enemy": {
       "origin": "Halmstad , Sweden",
@@ -165,10 +165,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://archenemy.net",
       "reference_url": "https://en.wikipedia.org/wiki/Arch_Enemy",
-      "reference_checked_at": "2026-11-02T22:43:44.874031+00:00",
+      "reference_checked_at": "2026-11-15T16:51:17.419653+00:00",
       "tour_attempted_at": "2026-11-01T16:30:52.400134+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-02T22:43:44.874047+00:00"
+      "reference_attempted_at": "2026-11-15T16:51:17.419673+00:00"
     },
     "at-the-gates": {
       "origin": "Gothenburg , Sweden",
@@ -195,10 +195,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.atthegates.se/",
       "reference_url": "https://en.wikipedia.org/wiki/At_The_Gates",
-      "reference_checked_at": "2026-11-02T22:43:45.062832+00:00",
+      "reference_checked_at": "2026-11-15T16:51:17.719472+00:00",
       "tour_attempted_at": "2026-11-01T16:30:53.895324+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-02T22:43:45.062847+00:00"
+      "reference_attempted_at": "2026-11-15T16:51:17.719491+00:00"
     },
     "alice-in-chains": {
       "origin": "Seattle , Washington, United States",
@@ -3288,7 +3288,7 @@
       "website": "http://wittr.com",
       "reference_url": "https://en.wikipedia.org/wiki/Wolves_In_The_Throne_Room",
       "reference_checked_at": "2026-11-06T21:41:13.603651+00:00",
-      "tour_attempted_at": "2026-11-01T09:49:43.539141+00:00",
+      "tour_attempted_at": "2026-11-15T16:51:17.978159+00:00",
       "tour_calendar_year": 2026,
       "events": [
         {
