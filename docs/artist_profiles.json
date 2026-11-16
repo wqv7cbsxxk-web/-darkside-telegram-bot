@@ -260,7 +260,7 @@
       "website": "http://blacksabbath.com",
       "reference_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
       "reference_checked_at": "2026-11-15T21:25:15.490899+00:00",
-      "tour_attempted_at": "2026-11-01T20:48:33.262568+00:00",
+      "tour_attempted_at": "2026-11-16T01:18:14.926987+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-15T21:25:15.490919+00:00"
     },
@@ -278,7 +278,7 @@
       "website": "http://ayreon.com",
       "reference_url": "https://en.wikipedia.org/wiki/Ayreon",
       "reference_checked_at": "2026-11-15T21:25:15.693819+00:00",
-      "tour_attempted_at": "2026-11-01T20:48:34.881057+00:00",
+      "tour_attempted_at": "2026-11-16T01:18:16.557204+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-15T21:25:15.693838+00:00"
     },
@@ -361,7 +361,7 @@
     },
     "blue-oyster-cult": {
       "origin": "Stony Brook, New York , U.S.",
-      "genres": "Hard rock heavy metal progressive rock occult rock",
+      "genres": "Hard rock heavy metal progressive rock occult rock psychedelic rock (early) acid rock (early) pop rock (1980s)",
       "years_active": "1967–1986 1987–present",
       "members": [
         {
@@ -388,10 +388,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://www.blueoystercult.com/",
       "reference_url": "https://en.wikipedia.org/wiki/Blue_Oyster_Cult",
-      "reference_checked_at": "2026-11-03T11:26:26.596068+00:00",
+      "reference_checked_at": "2026-11-16T01:18:10.005247+00:00",
       "tour_attempted_at": "2026-11-02T00:02:47.640536+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T11:26:26.596206+00:00"
+      "reference_attempted_at": "2026-11-16T01:18:10.005339+00:00"
     },
     "cannibal-corpse": {
       "origin": "Buffalo, New York , U.S.",
@@ -422,10 +422,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://cannibalcorpse.net",
       "reference_url": "https://en.wikipedia.org/wiki/Cannibal_Corpse",
-      "reference_checked_at": "2026-11-03T11:26:26.753605+00:00",
+      "reference_checked_at": "2026-11-16T01:18:10.165329+00:00",
       "tour_attempted_at": "2026-11-02T05:54:24.281073+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T11:26:26.753750+00:00"
+      "reference_attempted_at": "2026-11-16T01:18:10.165456+00:00"
     },
     "dark-tranquillity": {
       "origin": "Billdal , Gothenburg , Sweden",
@@ -460,10 +460,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://darktranquillity.com",
       "reference_url": "https://en.wikipedia.org/wiki/Dark_Tranquillity",
-      "reference_checked_at": "2026-11-03T11:26:26.812306+00:00",
+      "reference_checked_at": "2026-11-16T01:18:10.315527+00:00",
       "tour_attempted_at": "2026-11-02T05:54:25.034031+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T11:26:26.812330+00:00"
+      "reference_attempted_at": "2026-11-16T01:18:10.315539+00:00"
     },
     "darkthrone": {
       "origin": "Kolbotn , Akershus , Norway",
@@ -482,9 +482,9 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "",
       "reference_url": "https://en.wikipedia.org/wiki/Darkthrone",
-      "reference_checked_at": "2026-11-03T11:26:26.887583+00:00",
+      "reference_checked_at": "2026-11-16T01:18:10.384779+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T11:26:26.887610+00:00"
+      "reference_attempted_at": "2026-11-16T01:18:10.384789+00:00"
     },
     "deftones": {
       "origin": "Sacramento, California , U.S.",
@@ -511,10 +511,10 @@
       "members_note": "Состав, указанный в справочнике. Он может отличаться от состава конкретного тура.",
       "website": "http://deftones.com",
       "reference_url": "https://en.wikipedia.org/wiki/Deftones",
-      "reference_checked_at": "2026-11-03T11:26:27.091505+00:00",
+      "reference_checked_at": "2026-11-16T01:18:10.564468+00:00",
       "tour_attempted_at": "2026-11-02T05:54:25.774662+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T11:26:27.091709+00:00"
+      "reference_attempted_at": "2026-11-16T01:18:10.564632+00:00"
     },
     "death": {
       "origin": "Altamonte Springs, Florida , U.S.",
@@ -549,10 +549,10 @@
       "members_note": "Бывшие участники, указанные в справочнике.",
       "website": "http://emptywords.org",
       "reference_url": "https://en.wikipedia.org/wiki/Death_%28metal_band%29",
-      "reference_checked_at": "2026-11-03T11:26:27.169153+00:00",
+      "reference_checked_at": "2026-11-16T01:18:10.644052+00:00",
       "tour_attempted_at": "2026-11-02T05:54:27.130745+00:00",
       "instruments": "",
-      "reference_attempted_at": "2026-11-03T11:26:27.169179+00:00"
+      "reference_attempted_at": "2026-11-16T01:18:10.644064+00:00"
     },
     "def-leppard": {
       "origin": "Sheffield , England",
@@ -648,111 +648,6 @@
       },
       "events": [
         {
-          "date": "2026-11-03",
-          "city": "Dortmund",
-          "country": "Germany",
-          "venue": "Westfalenhalle",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-04",
-          "city": "Berlin",
-          "country": "Germany",
-          "venue": "Uber Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-06",
-          "city": "Frankfurt",
-          "country": "Germany",
-          "venue": "Festhalle",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-07",
-          "city": "Nuremberg",
-          "country": "Germany",
-          "venue": "Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-09",
-          "city": "Amsterdam",
-          "country": "Netherlands",
-          "venue": "Ziggodome",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-10",
-          "city": "Strasbourg",
-          "country": "France",
-          "venue": "Zenith",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-12",
-          "city": "Bordeaux",
-          "country": "France",
-          "venue": "Arkéa Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-13",
-          "city": "Nantes",
-          "country": "France",
-          "venue": "Zenith",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-15",
-          "city": "Lyon",
-          "country": "France",
-          "venue": "LDLC Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-18",
-          "city": "Newcastle",
-          "country": "United Kingdom",
-          "venue": "Utilita",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-19",
-          "city": "Glasgow",
-          "country": "United Kingdom",
-          "venue": "OVO Hydro",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-21",
-          "city": "Birmingham",
-          "country": "United Kingdom",
-          "venue": "BP Pulse Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-22",
-          "city": "Manchester",
-          "country": "United Kingdom",
-          "venue": "AO Arena",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-24",
-          "city": "London",
-          "country": "United Kingdom",
-          "venue": "Eventim Apollo",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
-          "date": "2026-11-25",
-          "city": "London",
-          "country": "United Kingdom",
-          "venue": "Royal Albert Hall",
-          "source_url": "https://deep-purple.com/tour-dates-2/"
-        },
-        {
           "date": "2026-12-05",
           "city": "Sao Paulo",
           "country": "Brazil",
@@ -803,10 +698,10 @@
         }
       ],
       "tour_source": "https://deep-purple.com/tour-dates-2/",
-      "tour_checked_at": "2026-11-01T20:48:31.568653+00:00",
+      "tour_checked_at": "2026-11-16T01:18:13.020119+00:00",
       "qid": "Q101505",
       "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
-      "tour_attempted_at": "2026-11-01T20:48:31.568667+00:00",
+      "tour_attempted_at": "2026-11-16T01:18:13.020136+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-03T18:39:56.848376+00:00"
     },
@@ -2139,7 +2034,7 @@
       "tour_checked_at": "2026-10-02T02:29:28.923484+00:00",
       "qid": "Q18557",
       "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
-      "tour_attempted_at": "2026-11-01T20:48:32.679713+00:00",
+      "tour_attempted_at": "2026-11-16T01:18:14.262312+00:00",
       "instruments": "",
       "reference_attempted_at": "2026-11-05T06:33:41.482330+00:00"
     },
