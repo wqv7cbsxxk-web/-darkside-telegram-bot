@@ -1536,49 +1536,17 @@
     "17c6e78082fda4a91c0be3e186119c710d190425",
     "a3c58f97a9967fd255d952df5b941643f3fd60bb",
     "652178ec548a4e999659e1b85d9761e5ca04caa5",
-    "b6fc7110f1fd22fb4da4a4382a45cc584aaeee03"
+    "b6fc7110f1fd22fb4da4a4382a45cc584aaeee03",
+    "dbd4c8dbe09b687177fc89df1821bd29db798664",
+    "360516e1c23fff81b8e4bc3971e455342442bfdf",
+    "bc7b8e4e92504b51358b40e51647f2f57dce8b18",
+    "557bd6716bb7b53d4bf3904918fa57e6552fb211",
+    "cc0dc7a3fd4c483ba8bf01a34fe7d895e7fa8687",
+    "ce12c48df9052a3bf57262ba783763ddb296b360",
+    "2cb0e4bc091dffc22c539da0314d5d82eb8fc687",
+    "ac31524dd41b795f13e88634ca02d07658fdf8ba"
   ],
   "recent_titles": [
-    {
-      "title": "Joe Walsh once joined a reggae band in New Zealand: The experience saved his life",
-      "source": "Louder",
-      "ts": 1793762516
-    },
-    {
-      "title": "FOO FIGHTERS пїЅ Jimmy Kimmel Live!",
-      "source": "Darkside",
-      "ts": 1793762519
-    },
-    {
-      "title": "пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ SATYRICON",
-      "source": "Darkside",
-      "ts": 1793762522
-    },
-    {
-      "title": "Atoll Announce New Album “Death Roll Party 9000”, Recruit Crown Magnetar’s Dan Tucker For “Weed Witch” Video",
-      "source": "ThePRP",
-      "ts": 1793762546
-    },
-    {
-      "title": "Elder Announce Rescheduled Spring 2027 Tour With Blackwater Holylight",
-      "source": "ThePRP",
-      "ts": 1793762555
-    },
-    {
-      "title": "Currents, Vana, Stick To Your Guns, Vanna & Dreamwake North American Tour Booked",
-      "source": "ThePRP",
-      "ts": 1793762562
-    },
-    {
-      "title": "Interview: Rebreather on ‘Chaos Patterns’",
-      "source": "Decibel",
-      "ts": 1793762584
-    },
-    {
-      "title": "How Pentangle survived being matched with Led Zeppelin and Cream",
-      "source": "Louder",
-      "ts": 1793762643
-    },
     {
       "title": "Новое видео SLEEPWALK",
       "source": "Darkside",
@@ -2338,6 +2306,46 @@
       "title": "Bruce Kulick Turns Las Vegas Into an Asylum: Videos, Set List",
       "source": "Ultimate Classic Rock",
       "ts": 1794777902
+    },
+    {
+      "title": "Kiss Will Release Three New Box Sets in 2027",
+      "source": "Ultimate Classic Rock",
+      "ts": 1794791818
+    },
+    {
+      "title": "Journey drummer Dean Castronovo leaves tour to concentrate on \"personal health matters\"",
+      "source": "Louder",
+      "ts": 1794791830
+    },
+    {
+      "title": "Floor Jansen says Nightwish helped her past a nervous breakdown",
+      "source": "Louder",
+      "ts": 1794791860
+    },
+    {
+      "title": "Новое видео YES",
+      "source": "Darkside",
+      "ts": 1794791862
+    },
+    {
+      "title": "Вокалист RUSH: «Мне нравится переключаться между песнями из разных эпох в ходе концерта»",
+      "source": "Darkside",
+      "ts": 1794791870
+    },
+    {
+      "title": "Участники ANNIHILATOR, THE SLYDE в CANDOR ZEALOT",
+      "source": "Darkside",
+      "ts": 1794791872
+    },
+    {
+      "title": "Новый вокалист SKID ROW: «Больше всего я люблю I Remember You",
+      "source": "Darkside",
+      "ts": 1794791873
+    },
+    {
+      "title": "Новое видео MALEDICTUS",
+      "source": "Darkside",
+      "ts": 1794791875
     }
   ],
   "initialized_sources": [
@@ -7483,7 +7491,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-15T16:00:00+00:00",
       "id": "68e6f1a601c39d5b6e3b862c57a124623b523043",
-      "retry_after": 1794761660
+      "retry_after": 1794792169
     },
     {
       "source": "Metal Injection",
@@ -7495,7 +7503,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-15T15:46:21+00:00",
       "id": "9c84081fe08c8154f9cf5872db98c66abdf00572",
-      "retry_after": 1794761660
+      "retry_after": 1794792169
     },
     {
       "source": "Metal Injection",
@@ -7507,7 +7515,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-15T15:13:03+00:00",
       "id": "521ec16ac1ea002cc4d326690ec99b6029c115c1",
-      "retry_after": 1794761660
+      "retry_after": 1794792171
     },
     {
       "source": "Ultimate Classic Rock",
@@ -8395,7 +8403,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-15T18:34:18+00:00",
       "id": "b4eb91bedcddabc7b410dc5898d2d441722a937e",
-      "retry_after": 1794778157
+      "retry_after": 1794792147
     },
     {
       "source": "Metal Injection",
@@ -8407,19 +8415,7 @@
       "category": "Хэви-метал",
       "published": "2026-11-15T18:27:26+00:00",
       "id": "2d9528d4daf4836f8d0a311084c30adcd7b01e1b",
-      "retry_after": 1794778157
-    },
-    {
-      "source": "Louder",
-      "priority": 84,
-      "title": "Floor Jansen says Nightwish helped her past a nervous breakdown",
-      "link": "https://www.loudersound.com/bands-artists/interviews/floor-jansen-nightwish-nervous-breakdown",
-      "rss_body": "Former\n\nNightwish\n\nvocalist\n\nFloor Jansen\n\nhas shared how the band helped her recover from burnout.\n\nJansen joined the\n\nsymphonic metal\n\ngiants in 2013, having completed some live dates in the US the previous year as a stand-in replacement for her predecessor Anette Olzon. Olzon departed partway through a US tour, with Floor filling in for the remaining dates before officially joining the group the following year.\n\nShe sang on three Nighwish albums - 2015's\n\nEndless Forms Most Beautiful,\n\n2020's\n\nHuman II: Nature\n\nand 2024's\n\nYesterwynde\n\n- before announcing her shock departure from the group in October.\n\nIn a new interview with\n\nMetal Hammer\n\nfor a\n\nMy Life In 10 songs\n\nfeature - where an artist revisits the songs from across their career that best tell their story - she reflected on how she suffered a nervous breakdown in August 2011, and how it almost affected her joining the symphonic metal giants at all.\n\n\"If they would have called me a month earlier, I don't think I could have done it,\" she admits. \"I was sick for a year and a half; It was quite the struggle to be healthy and to do things my way. They say the time it takes you to burn out is how long you'll need to regain your energy. I was trying to figure out why it happened to me and it taught me that it's not about the amount of work, it's about\n\nhow\n\nyou work.\"\n\nWhile joining one of Europe's biggest metal bands doesn't seem like an obvious way of taking the pressure off, Floor admits the challenge of being in such a well established group helped in its own way.\n\n\"Anyone that has had this kind of a burnout will recognise that there's a fear of doing things again and insecurity because everything you've done... the last time you've done all those things, you've done them sick,\" she says.\n\n\"When I got asked [to join] Nightwish, it was such a no-brainer. Like, 'Yes! This is a dream come true.' That really helped me to replace the fear for absolute excitement, almost like the survival mode we went into the first days, where I really didn't know the setlist that well.\"\n\n\"I mean, I joined them in the middle of a North American tour. It was a crazy beginning! Maybe psychology will say it's very unhealthy, but for me it was the best start,\" she continues. \"It was such a confirmation that I was in the right place. Like, 'Of course, I need to sing and I need to perform and be out and doing this.' It absolutely helped me back up in the saddle.\"\n\nFloor launched a solo career in 2023 with\n\nParagon\n\n, and will be touring in 2027 in support of her new solo album\n\nHytress,\n\ndue for release on January 15, 2027 via Revamp Music and Warner. Her first UK headline show is set for the following day at Electric Brixton in London.\n\nShe first rose to prominence as the vocalist in Dutch symphonic metal group After Forever, before launching the band ReVamp in 2009 following After Forever's disbandment.\n\nElsewhere in the interview, Floor discusses how she had to learn how to slow down and not overstimulate herself.\n\n\"It was a vital thing to learn for moving forward,\" she explains. \"What to avoid and what to do to charge your battery, how to respond to the earlier signals... There's so many ways to get tired. We live in a fast world.\"\n\n\"The pandemic showed it a lot. Everything was silent for a little while and at first it feels a little bit weird. You're not used to that tempo, you're not used to that silence. It's super hard to go back into the tempo of the life we all once had. Like, 'Did we really do it like this? Jesus, we must be superhumans!' But we're not. Our brains are still more developed to roam the plains and jump away in time from tigers and other predators than to live in the middle of London or Amsterdam staring at screens.\"\n\nNightwish are set to release a greatest hits compilation titled\n\nThe Greatest 30 Years On Earth\n\non December 11, 2026 via Nuclear Blast. In an\n\ninterview with\n\nMetal Hammer\n\nearlier this year\n\nfrontman\n\nTuomas Holopainen\n\nconfirmed he had begun writing for the band's next record, but would be working on a solo album of his own before that is likely to arrive.",
-      "tags": "Interviews Bands & Artists",
-      "category": "Прогрессив",
-      "published": "2026-11-15T17:00:00+00:00",
-      "id": "bc7b8e4e92504b51358b40e51647f2f57dce8b18",
-      "retry_after": 0
+      "retry_after": 1794792147
     },
     {
       "source": "Metal Injection",
@@ -8431,67 +8427,7 @@
       "category": "Экстремальный метал",
       "published": "2026-11-15T16:27:21+00:00",
       "id": "154583efc98ffbf9499bfd4fd476e12dfe27139b",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео YES",
-      "link": "http://www.darkside.ru/news/184266/",
-      "rss_body": "Ariadne, новое видео группы YES, доступно для просмотра ниже. Эта песня взята из делюкс-версии альбома \"Aurora\", выпущенной на InsideOut Music/Sony Music с дополнительным диском, содержащим инструментальные версии всех композиций, а также упомянутый выше клип:\n\n01. Aurora (07:27)\n\n02. Turnaround Situation (05:50)\n\n03. Love Lies Dreaming (06:24)\n\n04. Countermovement (13:48)\n\n05. Ariadne (06:18)\n\n06. All Hands On Deck (03:04)\n\n07. Outside The Box (04:20)\n\n08. Emotional Intelligence (03:30)\n\n09. Jambustin' (bonus track) (04:24)\n\n10. Watching The River Roll (bonus track) (04:42)\n\n«‘Ariadne” была одной из тех песен, которые, казалось, раскрылись сами собой, когда мы ее писали\", - говорит Jon Davison. «Я с детства увлекался греческой мифологией, поэтому для меня было что-то особенно захватывающее в изучении истории Ариадны с помощью музыки. В этой песне есть удивительное ощущение тайны и открытия, и это то, что я люблю в ней больше всего. Я действительно горжусь тем, что мы создали вместе, и надеюсь, что люди испытают такое же чувство открытия и удивления, когда услышат это».",
-      "tags": "",
-      "category": "Прогрессив",
-      "published": "2026-11-15T16:13:27+00:00",
-      "id": "557bd6716bb7b53d4bf3904918fa57e6552fb211",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Вокалист RUSH: «Мне нравится переключаться между песнями из разных эпох в ходе концерта»",
-      "link": "http://www.darkside.ru/news/184390/",
-      "rss_body": "Музыканты RUSH в недавнем интервью Rolling Stone поговорил о нынешнем туре, который обрастает все новыми и новыми концертами. Так, коллектив добавил еще пять концертов в Сфере, Лас-Вегас, которые пройдут в июне. Пока у группы запланировано там десять выступлений.\n\nRolling Stone: Geddy однажды рассказывал, что на раннем этапе существования RUSH группа больше думала о математической составляющей музыки, нежели о груве, а в 80-х и 90-х стала уделять больше внимания именно груву. Но ведь вы исполняете весь каталог RUSH. Каково это — всем вам переключаться между разными ипостасями, которые, по сути, сосуществовали внутри одной группы?\n\nGeddy Lee: «Для меня это освежает. Мне очень нравится, что мы делаем именно так, потому что сет-лист постоянно меняется, и благодаря этому мозг получает передышку: мы переходим от одного стиля к другому, и ни один из них не успевает наскучить, понимаете? Вот, например, когда мы играем „[Passage to] Bangkok“, я с нетерпением жду средней части, потому что знаю: можно просто повернуться и сыграть её вместе с Anika, поймав общий ритм, — ведь это самая странная часть песни. Честно говоря, мне кажется, люди даже не осознают, насколько она необычная. В этой песне мы словно едем на верблюде. И это очень весело. Так что это мой взгляд на происходящее. Не знаю, каково это с точки зрения ударных. Должно быть, очень сложно постоянно переключаться с одного ритмического рисунка на другой».\n\nAnika Nilles: «Вообще-то, особенно в этой песне и в этом фрагменте, для меня это самая расслабленная часть, потому что я просто играю в размере 4/4, а вам приходится постоянно перестраиваться».\n\nLee: «Да, нам приходится перестраиваться».\n\nNilles: «Вам приходится работать».\n\nLee: «Нам приходится считать».\n\nRolling Stone: На Anika всё сильнее влияли Stewart Copeland, регги и самые разные музыкальные направления. Наверняка, когда вы слушали эти песни, у вас возникало ощущение: «Ого, здесь я играю совершенно по-другому».\n\nAnika Nilles: «Да, при подготовке всех песен действительно пришлось переключаться между разными стилями. Но особенно близкой мне сразу показалась музыка периода 80-х, потому что я просто обожаю восьмидесятые».",
-      "tags": "",
-      "category": "Прогрессив",
-      "published": "2026-11-15T15:19:22+00:00",
-      "id": "cc0dc7a3fd4c483ba8bf01a34fe7d895e7fa8687",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Участники ANNIHILATOR, THE SLYDE в CANDOR ZEALOT",
-      "link": "http://www.darkside.ru/news/184885/",
-      "rss_body": "\"Dark Desires\", новое видео группы CONDOR ZEALOT, доступно для просмотра ниже. Эта песня взята из EP Revolt!, выходящего четвертого декабря.\n\nВ состав Candor Zealot входят опытные музыканты с глубокими корнями в канадской металл-сцене, в том числе бывшие участники Annihilator и The Slyde. Фронтмен Nate Silva (вокал/гитара), ранее работавший в The Slyde, является международным гастролирующим артистом и научным исследователем музыки chiptune. Гитарист Chris Gagnon из Оттавы — разносторонний исполнитель, выступающий в восьми трибьют-группах, от Queen до Rage Against the Machine. Барабанщик Dino Soares, который долгое время сотрудничал с Silva с подросткового возраста, продолжает работать фрилансером на музыкальной сцене Кингстона. Бас-гитарист Alberto Campuzano, ранее игравший в Annihilator, также выступает с трибьют-группой Metallica из Торонто Sandman. В совокупности группа обладает многолетним опытом и проверенной родословной, о чем свидетельствует выступление Silva, Soares, Campuzano на Wacken Open Air в Германии после победы на Wacken Metal Battle в Канаде в 2019 году с The Slyde.\n\nТрек-лист:\n\n“Revolt!”\n\n“All For You”\n\n“Dark Desires” (ft. Johnny Franco)\n\n“Lie For Country”\n\n“Shed The Night”\n\n“Hollow” (ft. Satellite Birdhouse)",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-15T14:26:16+00:00",
-      "id": "ce12c48df9052a3bf57262ba783763ddb296b360",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новый вокалист SKID ROW: «Больше всего я люблю I Remember You",
-      "link": "http://www.darkside.ru/news/185142/",
-      "rss_body": "Группа SKID ROW опубликовала новое видео, в котором её новый вокалист, ветеран Бродвея Justin SARGENT, рассказал о своём приходе в коллектив спустя более двух с половиной лет после ухода Erik'а Grönwall'а.\n\nРассказывая о том, как получил место в SKID ROW, Justin, дебютировавший на сцене в 2011 году в хард-рок-мюзикле “Rock Of Ages”, а также сыгравший в “Bonnie & Clyde” и исполнивший главную роль в печально известном проблемами супергеройском мюзикле “Spider-Man: Turn Off The Dark”, сказал:\n\n«Каждый год я участвую в большом благотворительном мероприятии в Нью-Йорке под названием “Rockers On Broadway”. Его придумали и основали Pete Townshend и мой хороший друг Donnie Kehr. Я отыграл это событие, как всегда, а на следующий день получаю письмо от Робби Хоффмана [менеджера SKID ROW] из Primary Wave: \"Привет, я представляю группу SKID ROW. Не хотел бы ты встретиться с ребятами? Мы ищем нового вокалиста\". А я такой: \"Вы шутите? Да, конечно. Это было бы потрясающе\".\n\nОн свёл меня с Rachel'ом Bolan'ом [басистом SKID ROW]. Я живу в [Нью-]Джерси, так что просто поехал к Rachel'у домой, а там были Rachel и Snake [гитарист SKID ROW Dave Sabo]. Мы весь день просто сидели в комнате и общались. Мы записали три песни и отправили остальным ребятам. Потом [они сказали]: \"Мы свяжемся с тобой\", ну, в таком духе.\n\nА через пару месяцев [они вышли на связь]: \"Слушай, у нас тут большая кампания, мы ищем следующего вокалиста. К нам приедут несколько человек, чтобы поиграть с полным составом и пройтись по сет-листу. Ты не мог бы приехать?\" Я ответил: \"Да, конечно\". И всё думал: \"Это самое крутое, что со мной случалось. Я ведь делал немало по-настоящему классных вещей, но это самое крутое, что когда-либо со мной происходило\".\n\nПосле тех двух дней на репетиционной базе, когда мы прогоняли этот сет, я думал: \"Если это предел, то мечта уже сбылась\". И с того момента всё так и продолжало происходить. Эти вехи шли одна за другой.\n\nА однажды Rachel спросил: \"Слушай, у нас к тебе ещё пара вопросов. Ты не против созвониться по FaceTime со мной и остальными ребятами?\" Я сказал: \"Конечно\". Мы созвонились, и они держались очень загадочно. И Rachel сказал: \"Наверное, главный вопрос такой: как тебе идея стать новым фронтменом SKID ROW?\" А я такой: \"Что? Это потрясающе\". Я поднял кучу шума, это было очень неловко. Но такой момент не забудешь никогда.\n\nИ, думаю, они об этом не знают, но я сделал скриншот этого мгновения и храню его в телефоне. Так что в этом году он, скорее всего, станет рождественской открыткой для этих парней».\n\nВспоминая, как впервые услышал музыку SKID ROW, Justin сказал:\n\n«Начну с самого начала. Меня вырастили двое очень классных родителей, которые слушали много классического рока, в основном конца шестидесятых и семидесятых: LED ZEPPELIN, THE WHO, QUEEN, PINK FLOYD. Именно тогда у меня и начала формироваться любовь к этому виду искусства, к этой среде. Потом я стал расширять кругозор, и в него вошли SKID ROW.\n\n“Slave To The Grind” был первым альбомом этой группы, который я услышал, и он обрушился на меня, как груда кирпичей. А когда я играл в “Rock Of Ages” на Бродвее, то каждый вечер перед выходом на сцену в качестве сигнала звучала песня “18 And Life” SKID ROW, она входила в предшоу-плейлист.\n\nИ для меня эта песня, скажем, на пятисотом спектакле означала такой момент: \"Круто, я иду туда делать то, что люблю. Я иду петь рок для нескольких тысяч человек\". И всякий раз, когда я слышу её, у меня возникает ощущение, что я занимаюсь любимым делом, а лучше этого чувства нет ничего».\n\nРассказывая, как впервые попал в мир рока, Justin сказал:\n\n«Моя мама работала в местной газете в Тампе, штат Флорида, и в её обязанности входило водить рекламодателей на концерты и спортивные события. Так что я довольно часто ходил вместе с ней. Первый концерт, который я увидел, пришёлся на восьмой класс, это была рок-опера THE WHO “Quadrophenia” 1973 года. Я никогда не забуду, как сидел там и был абсолютно ошеломлён тем, что видел, слышал и даже обонял.\n\nПотом был AEROSMITH, потом ALICE COOPER. Я сидел во втором ряду в Ruth Eckerd Hall [в Клируотере] вместе с мамой, смотрел ALICE COOPER и в итоге был с ног до головы залит кровью. Я сохранил ботинки, которые были насквозь пропитаны кровью. Они до сих пор где-то лежат на мамином чердаке.\n\nИ вот эти невероятные выступления, люди, занимающиеся тем, что любят больше всего на свете, всё это оказало на меня огромное влияние в таком юном возрасте. Именно тогда я понял, что это мечта, которая сбывается, и до сих пор не могу в это поверить».\n\nJustin также рассказал о своей первой совместной игре с SKID ROW:\n\n«Впервые я оказался в одной комнате с группой во время прослушивания. И, честно говоря, сначала мы все просто сидели в холле репетиционной студии и разговаривали. И я только помню, как подумал: \"Да я же знаю этих парней. Я знаю этих парней\". С ними очень легко. В разговоре не возникало ни единой паузы. Мы смеялись, шутили. Было просто комфортно.\n\nПотом это ощущение перенеслось и в репетиционную комнату, когда пришло время прослушивания. Я чувствовал себя абсолютно непринуждённо и понимал, что нахожусь именно там, где должен быть.\n\nКогда я узнал, что окажусь в одной комнате с этими ребятами, одним из первых моих действий стало вот что: я посмотрел всё, что только мог. Я зашёл на Ётуб и смотрел… За все эти годы я пересмотрел каждого, кто был частью этого коллектива.\n\nИ что меня поразило, что бросилось в глаза: каким бы разным ни был каждый из певцов, которых я смотрел, всё равно это звучало как SKID ROW. Первой песней, которую я спел с группой, стала “Slave To The Grind”. Мы просто начали сет-лист и пронеслись по нему от начала до конца без остановки, одна песня за другой».\n\nОтвечая на вопрос, какую песню SKID ROW ему больше всего хочется исполнять, Justin сказал:\n\n«Думаю, больше всего я жду возможности спеть “I Remember You”, если честно. По крайней мере, для меня в ней есть это замечательное взаимодействие с публикой: люди хотят петь вместе с тобой, хотят петь тебе в ответ.\n\nВ каждом видео с разными исполнениями этой песни, что я смотрел, из зала на сцену всегда шла невероятная энергия. И, по-моему, это огромное свидетельство наследия группы, всего того, что было раньше и что мы обязательно перенесём в эту новую главу».\n\nВ другом фрагменте видео Justin подробнее рассказал о своей бродвейской карьере:\n\n«До прихода в SKID ROW я участвовал во множестве рок-шоу, особенно на Бродвее: “Rock Of Ages”, “Spider-Man: Turn Off The Dark”, [который] написали Bono'ом и The Edge'ем. “Jesus Christ Superstar”, один из самых невероятных рок-альбомов всех времён. Тот оригинальный коричневый альбом просто культовый.\n\nОчень часто, когда ты актёр или вокалист, твоя подработка это обслуживание столиков, кейтеринг и тому подобное. А мне очень повезло, потому что я мог петь с группами. Я пел с самыми разными коллективами по всему региону трёх штатов: в Джерси, Нью-Йорке, на Лонг-Айленде, а иногда даже в Коннектикуте.\n\nКроме того, я немало участвовал в рок-симфонических концертах, где пел песни LED ZEPPELIN в сопровождении полного симфонического оркестра. \"Симфонический оркестр Сент-Луиса представляет музыку LED ZEPPELIN\", и я просто выходил и исполнял безумное количество вещей ZEPPELIN за один вечер. Мы играли всё подряд, от ZEPPELIN до THE ROLLING STONES, THE WHO, PINK FLOYD, QUEEN, то есть всех тех групп, которые я так люблю.\n\nТак что это всегда было огромной частью моей ДНК, а мой путь сюда сложился действительно очень органично, и именно поэтому всё это кажется таким правильным».",
-      "tags": "",
-      "category": "Экстремальный метал",
-      "published": "2026-11-15T13:15:12+00:00",
-      "id": "2cb0e4bc091dffc22c539da0314d5d82eb8fc687",
-      "retry_after": 0
-    },
-    {
-      "source": "Darkside",
-      "priority": 95,
-      "title": "Новое видео MALEDICTUS",
-      "link": "http://www.darkside.ru/news/185186/",
-      "rss_body": "Crypt of Dreams, новое видео MALEDICTUS, доступно для просмотра. Этот трек взят из нового альбома Lazarvs, релиз которого намечен на тринадцатое ноября:\n\n1. Exordium\n\n2. Crypt of Dreams\n\n3. Silentium\n\n4. Shadows\n\n5. Leviathan\n\n6. Siren's Lullaby\n\n7. Madam Death\n\n8. Black Halo\n\n9. Maledictus",
-      "tags": "",
-      "category": "Хэви-метал",
-      "published": "2026-11-15T12:17:08+00:00",
-      "id": "ac31524dd41b795f13e88634ca02d07658fdf8ba",
-      "retry_after": 0
+      "retry_after": 1794792161
     },
     {
       "source": "Darkside",
